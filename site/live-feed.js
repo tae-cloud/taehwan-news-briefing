@@ -77,8 +77,19 @@
   const timestamp = story => {
     const parsed = Date.parse(story.dataset.published || "");
     if (Number.isFinite(parsed)) return parsed;
-    const match = (story.textContent || "").match(/(20\d{2})[.-](\d{2})[.-](\d{2})\s+(\d{2}):(\d{2})/);
-    return match ? Date.UTC(+match[1], +match[2] - 1, +match[3], +match[4] - 9, +match[5]) : 0;
+    const text = `${story.querySelector(".page")?.textContent || ""} ${story.querySelector(".metadata")?.textContent || ""}`;
+    const datedTime = text.match(/(20\d{2})[.-](\d{2})[.-](\d{2})(?:\s*(?:약\s*)?(\d{2}):(\d{2}))?/);
+    if (!datedTime) return 0;
+    const isCurrent = /현재/.test(text);
+    const hour = datedTime[4] == null ? (isCurrent ? 23 : 0) : Number(datedTime[4]);
+    const minute = datedTime[5] == null ? (isCurrent ? 59 : 0) : Number(datedTime[5]);
+    return Date.UTC(
+      Number(datedTime[1]),
+      Number(datedTime[2]) - 1,
+      Number(datedTime[3]),
+      hour - 9,
+      minute
+    );
   };
   const sortAndTimeline = () => {
     const main = document.querySelector("main");
