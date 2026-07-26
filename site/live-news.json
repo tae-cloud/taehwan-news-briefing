@@ -1,6 +1,52 @@
 {
-  "generated_at_kst": "2026-07-27T00:44:22+09:00",
+  "generated_at_kst": "2026-07-27T04:54:22+09:00",
   "items": [
+    {
+      "stable_id": "2026-07-26-08d1a65d77c4",
+      "original_title": "Bitcoin price holds above $64,000 as traders brace for upcoming Fed decision",
+      "published_at": "2026-07-26T18:54:01Z",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVhhSWFoenBXdVZRUWRibi1uTkppTFlKNlZteDdKYXJvdGhzVFJnVnBiV1Jydk5nNzRhbWpiaDF3aFgyT0xnRUgyNkFSSnphbUwzYzlHTEI2Y3ExTnZLUFlNYjFfQkFral9wbUtYR2YzRmxWd2RFZ3lOT25DQmVueUZyQS1Nd2FyZk00aWxlZnFYVHZURkxreGRiUUtDd2hVOC1BeGVzbklKS1VNRWN3YlZsU2pxdmdDd3U4R2JKSi1WUHdvamdMZm5OOGdvUQ?oc=5"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFN1U09LalFfU3BDNGZBZE03TVlXa1JDZUJTRUlJUWtVVTlLM2VHc0Z4Q1BHNWM3MFZfOHd3ajFIMzFxTUNYSW95NTJydkdwUUJWaEJKdlEtYVd2cUNxNTZhT3RqOTV0VFYzcHg3Ylc0SF95V2IwZUtHaEpOLXdCTFR4Wkx4X1hXWFVRMjVheEl3OHBQU3NRZFdud1BqYnlLZm1mLVJKM2ZZbjdXUDJncm9melBQTE0wU3VicXhpdjRUSzIwbkgxbFVLU2U3cVdqRzIybzB6a1lFT0Ns?oc=5"
+        },
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeEUxdndHSXRuclE1N2s1ZklvdVgzWGxrTWswRzRxdXRKSmtJTjc3bnQ1T21RZXJmSTNXOUNxV3diZ0xCLUQtYTdqeXg2MHlOQVZsVWNhWnI2QXZndXZldUMzNFQ0aFE5ZXRXNmNDN1RFZGRZdzBNZUxXNlhUcTlWaXF1Y0JjV0FWVkZJYmYtSE05aVpNbHFxcmZuWHVxdzRZVmNsTXR4d2tjVm1PdXk1ZW9PY0ZBQklMRmFfbkNfQ1lfNmlROEl6VzJsbW0?oc=5"
+        }
+      ],
+      "title": "Bitcoin price holds above $64,000 as traders brace for upcoming Fed decision",
+      "summary": "비트코인 가격이 64,000달러 이상에서 안정적으로 유지되고 있다. 이는 투자자들이 곧 있을 미국 연방준비제도(Fed)의 금리 결정을 앞두고 관망세를 보이고 있음을 시사한다. 최근의 가격 움직임은 시장이 불확실성에 대비해 신중한 태도를 취하고 있음을 보여준다. 연준의 정책 변화는 비트코인 등 위험자산의 단기 방향성에 큰 영향을 미칠 수 있다. 투자자들은 금리 동결 또는 인하 가능성에 따라 포지션을 조정할 것으로 보인다.",
+      "importance": 5,
+      "tone": "warn",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "연준의 금리 결정은 비트코인 가격에 즉각적인 영향을 줄 수 있다. 금리 인하나 완화적 스탠스는 비트코인에 호재로 작용할 수 있지만, 금리 동결이나 매파적 발언은 단기적으로 악재가 될 수 있다. 현재 가격이 주요 지지선 위에서 유지되고 있다는 점은 투자자들이 아직 확신을 갖지 못하고 있음을 의미한다."
+      },
+      "why_it_matters": "연준의 정책은 글로벌 유동성과 위험자산 선호도에 직접적인 영향을 미친다. 비트코인은 최근 거시경제 이벤트에 민감하게 반응해왔기 때문에, 이번 결정은 단기 및 중기 가격 흐름에 중요한 변곡점이 될 수 있다. 투자자 심리와 시장 변동성이 연준 발표 전후로 크게 요동칠 가능성이 높다.",
+      "missed_point": "기사에서는 연준의 구체적인 정책 방향이나 시장의 예상 컨센서스에 대한 언급이 부족하다. 또한, 비트코인 외 암호화폐 시장 전반에 미치는 영향에 대한 분석이 결여되어 있다.",
+      "follow_up": [
+        "연준의 실제 금리 결정 내용 및 성명서 확인",
+        "시장 참가자들의 금리 전망 변화 추적",
+        "비트코인 가격의 단기 변동성 및 거래량 변화 모니터링"
+      ],
+      "verification": {
+        "state": "확인됨",
+        "independent_sources": [
+          "Investing.com",
+          "Investing.com South Africa",
+          "Investing.com UK"
+        ],
+        "notes": "여러 지역의 Investing.com에서 동일한 이슈를 보도함."
+      },
+      "kst": "2026-07-27 03:54:01 KST",
+      "status": "확인됨",
+      "impact": "양방향"
+    },
     {
       "stable_id": "2026-07-26-us-iran-mutual-strike-pause-day2",
       "status": "verified_reconfirmed",
@@ -27,16 +73,34 @@
       ],
       "sources": {
         "official": [
-          {"name": "White House statement quoted by AP", "url": "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"}
+          {
+            "name": "White House statement quoted by AP",
+            "url": "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
+          }
         ],
         "primary_reporting": [
-          {"name": "AP", "url": "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"},
-          {"name": "FinancialJuice", "url": "https://www.financialjuice.com/home"},
-          {"name": "Reuters", "url": "https://www.investing.com/news/commodities-news/iran-will-halt-attacks-as-long-as-us-maintains-pause-iranian-source-says-after-trump-calls-off-strikes-4812898"}
+          {
+            "name": "AP",
+            "url": "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
+          },
+          {
+            "name": "FinancialJuice",
+            "url": "https://www.financialjuice.com/home"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.investing.com/news/commodities-news/iran-will-halt-attacks-as-long-as-us-maintains-pause-iranian-source-says-after-trump-calls-off-strikes-4812898"
+          }
         ],
         "context": [
-          {"name": "Axios", "url": "https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes"},
-          {"name": "BeInCrypto", "url": "https://beincrypto.com/us-iran-pause-strikes-crypto-markets/"}
+          {
+            "name": "Axios",
+            "url": "https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes"
+          },
+          {
+            "name": "BeInCrypto",
+            "url": "https://beincrypto.com/us-iran-pause-strikes-crypto-markets/"
+          }
         ]
       },
       "verification": {
@@ -51,6 +115,47 @@
           "market_interpretation": "조건부 상호중단 재선언은 유가·인플레이션·연준 긴축 우려를 낮춰 BTC에 우호적이다. 그러나 미국의 중단 유지가 전제이며 봉쇄와 호르무즈 통항 문제도 남아 있어 공식 휴전으로 해석하면 안 된다."
         }
       }
+    },
+    {
+      "stable_id": "2026-07-26-dabcab79004d",
+      "original_title": "Two Central Banks Decide Interest Rates Next Week: What It Means for Bitcoin",
+      "published_at": "2026-07-26T11:52:12Z",
+      "sources": [
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qcmM3WmZaYnVPRWE1bVQ5d2ZvdGlpZ3VZbmRBNjlFUjJJZ0dHbDNtcW0wNHZ0STVIVmxWdnRJcG9DZkFPdEN2U2tNblpXQ0UwMDdCeXZxbUhNUEwwN2hZSDN0ONIBY0FVX3lxTE5qcmM3WmZaYnVPRWE1bVQ5d2ZvdGlpZ3VZbmRBNjlFUjJJZ0dHbDNtcW0wNHZ0STVIVmxWdnRJcG9DZkFPdEN2U2tNblpXQ0UwMDdCeXZxbUhNUEwwN2hZSDN0OA?oc=5"
+        },
+        {
+          "name": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ya3FOQXplaFU5Yl9kOHNFdFBSOGpNaTNHX1FKVHNCSDBSWnBuYzlDQy1OekJuX1ZYMG9pTDZENVlkTjhJMkVNQVMxRGdjNEgwTFBrM2tOTHRDUjk0R1NKdk1FWkM2Z09Ca1BvX3dB?oc=5"
+        }
+      ],
+      "title": "Two Central Banks Decide Interest Rates Next Week: What It Means for Bitcoin",
+      "summary": "다음 주 두 개의 중앙은행이 기준금리 결정을 앞두고 있다. 이 결정은 비트코인 시장에 중요한 영향을 미칠 수 있다. 중앙은행의 금리 정책은 글로벌 유동성과 위험자산에 대한 투자 심리에 직접적인 변화를 유발한다. 투자자들은 금리 인상, 동결, 인하 등 다양한 시나리오에 따라 비트코인 포지션을 조정할 가능성이 높다. 특히, 주요국 중앙은행의 정책 변화는 암호화폐 시장의 변동성을 증폭시킬 수 있다.",
+      "importance": 4,
+      "tone": "warn",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "중앙은행의 금리 인상은 비트코인에 단기적으로 악재가 될 수 있으나, 동결이나 인하 시에는 호재로 작용할 수 있다. 투자자들은 정책 발표 전까지 관망세를 유지할 가능성이 높다. 정책 결과에 따라 비트코인 가격이 급격히 변동할 수 있으므로 주의가 필요하다."
+      },
+      "why_it_matters": "중앙은행의 금리 결정은 글로벌 금융시장의 방향성을 결정짓는 핵심 변수다. 비트코인은 전통 금융시장과의 상관성이 높아진 상황에서 이러한 거시 이벤트에 민감하게 반응한다. 이번 결정은 단기적인 가격 변동뿐 아니라, 중장기 투자 전략에도 영향을 줄 수 있다.",
+      "missed_point": "어떤 중앙은행이 금리 결정을 내리는지, 그리고 시장의 예상 컨센서스가 무엇인지에 대한 정보가 부족하다. 또한, 과거 유사한 이벤트에서 비트코인 가격이 어떻게 반응했는지에 대한 데이터가 제시되지 않았다.",
+      "follow_up": [
+        "금리 결정을 내리는 두 중앙은행의 명확한 확인",
+        "시장 컨센서스 및 예상 시나리오 파악",
+        "비트코인 가격의 과거 금리 이벤트 반응 분석"
+      ],
+      "verification": {
+        "state": "확인됨",
+        "independent_sources": [
+          "Bitget",
+          "BeInCrypto"
+        ],
+        "notes": "두 매체에서 동일 이슈를 다룸."
+      },
+      "kst": "2026-07-26 20:52:12 KST",
+      "status": "확인됨",
+      "impact": "양방향"
     }
   ]
 }
