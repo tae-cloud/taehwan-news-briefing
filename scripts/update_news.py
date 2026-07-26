@@ -39,6 +39,29 @@ DOWN_TERMS = {"attack", "war", "tariff", "rate hike", "inflation", "ban", "outfl
 TRUSTED = {"Reuters", "Associated Press", "AP", "Bloomberg", "Federal Reserve", "SEC", "CFTC"}
 
 
+def translate_title_ko(title: str) -> str:
+    if not title or len(re.findall(r"[가-힣]", title)) >= 3:
+        return title
+    try:
+        response = requests.get(
+            "https://translate.googleapis.com/translate_a/single",
+            params={
+                "client": "gtx",
+                "sl": "auto",
+                "tl": "ko",
+                "dt": "t",
+                "q": title,
+            },
+            timeout=15,
+        )
+        response.raise_for_status()
+        payload = response.json()
+        translated = "".join(part[0] for part in payload[0] if part and part[0]).strip()
+        return translated or title
+    except Exception:
+        return title
+
+
 def clean_title(title: str) -> str:
     return re.sub(r"\s+-\s+[^-]{2,40}$", "", title).strip()
 
@@ -135,7 +158,8 @@ def fallback_item(group: list[dict]) -> dict:
     when = datetime.fromisoformat(lead["published_at"].replace("Z", "+00:00"))
     return {
         "stable_id": stable_id(lead["title"], lead["published_at"]),
-        "title": lead["title"],
+        "title": translate_title_ko(lead["title"]),
+        "original_title": lead["title"],
         "published_at": lead["published_at"],
         "kst": when.astimezone(KST).strftime("%Y-%m-%d %H:%M:%S KST"),
         "status": status,
@@ -207,4 +231,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

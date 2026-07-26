@@ -24,6 +24,7 @@
     article.dataset.tone = tone;
     article.dataset.newsId = item.stable_id || "";
     article.dataset.published = item.published_at || "";
+    article.id = `live-${item.stable_id || Math.random().toString(36).slice(2)}`;
     article.innerHTML = `
       <section class="article">
         <div class="page">실시간 업데이트 · ${escapeHtml(item.kst || item.published_at)}</div>
@@ -53,6 +54,51 @@
     });
   };
 
+  const storyTimestamp = (story) => {
+    const explicit = story.dataset.published;
+    if (explicit) {
+      const parsed = Date.parse(explicit);
+      if (Number.isFinite(parsed)) return parsed;
+    }
+    const text = `${story.querySelector(".page")?.textContent || ""} ${story.querySelector(".metadata")?.textContent || ""}`;
+    let match = text.match(/(20\d{2})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})(?::(\d{2}))?/);
+    if (!match) match = text.match(/(20\d{2})\.(\d{2})\.(\d{2})(?:\s+(?:약\s*)?(\d{2}):(\d{2}))?/);
+    if (!match) return 0;
+    return Date.UTC(
+      Number(match[1]),
+      Number(match[2]) - 1,
+      Number(match[3]),
+      Number(match[4] || 0),
+      Number(match[5] || 0),
+      Number(match[6] || 0)
+    );
+  };
+
+  const sortAllStoriesAndRebuildTimeline = () => {
+    const main = document.querySelector("main");
+    const empty = main?.querySelector(".empty");
+    if (!main || !empty) return;
+    const stories = [...main.querySelectorAll(":scope > .story")]
+      .map((story, index) => ({ story, index, time: storyTimestamp(story) }))
+      .sort((a, b) => b.time - a.time || a.index - b.index)
+      .map(({ story }) => story);
+    stories.forEach((story) => main.insertBefore(story, empty));
+
+    const timeline = document.querySelector(".jump");
+    if (!timeline) return;
+    timeline.replaceChildren();
+    stories.forEach((story, index) => {
+      if (!story.id) story.id = `news-latest-${index + 1}`;
+      const title = story.querySelector("h2")?.textContent?.trim() || `뉴스 ${index + 1}`;
+      const link = document.createElement("a");
+      link.href = `#${story.id}`;
+      link.textContent = `${index + 1}. ${title.length > 34 ? `${title.slice(0, 34)}…` : title}`;
+      timeline.appendChild(link);
+    });
+  };
+
+  document.querySelector(".hero .notice")?.remove();
+
   fetch(`/live-news.json?t=${Date.now()}`, { cache: "no-store" })
     .then((response) => {
       if (!response.ok) throw new Error("feed unavailable");
@@ -63,13 +109,10 @@
       if (!main || !Array.isArray(feed.items)) return;
       document.querySelectorAll(".live-story").forEach((node) => node.remove());
       const empty = main.querySelector(".empty");
-      [...feed.items]
-        .sort((a, b) => new Date(b.published_at) - new Date(a.published_at))
-        .reverse()
-        .forEach((item) => main.insertBefore(renderStory(item), main.firstElementChild || empty));
+      [...feed.items].forEach((item) => main.insertBefore(renderStory(item), empty));
+      sortAllStoriesAndRebuildTimeline();
       applySearch();
       document.getElementById("news-search")?.addEventListener("input", applySearch);
     })
     .catch(() => {});
 })();
-
