@@ -104,10 +104,14 @@
       if (!main || !Array.isArray(feed.items)) return;
       document.querySelectorAll(".live-story").forEach(node => node.remove());
       const empty = main.querySelector(".empty");
-      const existingIds = new Set([...main.querySelectorAll(".story[data-news-id]")]
-        .map(story => story.dataset.newsId).filter(Boolean));
-      feed.items.filter(item => !existingIds.has(item.stable_id))
-        .forEach(item => main.insertBefore(renderStory(item), empty));
+      const existingStories = new Map([...main.querySelectorAll(".story[data-news-id]")]
+        .map(story => [story.dataset.newsId, story]).filter(([id]) => Boolean(id)));
+      feed.items.forEach(item => {
+        const rendered = renderStory(item);
+        const previous = existingStories.get(item.stable_id);
+        if (previous) previous.replaceWith(rendered);
+        else main.insertBefore(rendered, empty);
+      });
       sortAndTimeline();
       applySearch();
       document.getElementById("news-search")?.addEventListener("input", applySearch);
