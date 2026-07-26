@@ -90,6 +90,13 @@
       minute
     );
   };
+  const timelineTime = story => {
+    const text = `${story.querySelector(".page")?.textContent || ""} ${story.querySelector(".metadata")?.textContent || ""}`;
+    const match = text.match(/(20\d{2})[.-](\d{2})[.-](\d{2})(?:\s*(?:약\s*)?(\d{2}):(\d{2}))?/);
+    if (!match) return "시간 확인 중";
+    const date = `${match[2]}.${match[3]}`;
+    return match[4] == null ? `${date} · 시간 미표기` : `${date} ${match[4]}:${match[5]} KST`;
+  };
   const sortAndTimeline = () => {
     const main = document.querySelector("main");
     const empty = main?.querySelector(".empty");
@@ -104,7 +111,7 @@
       const link = document.createElement("a");
       const title = story.querySelector("h2")?.textContent?.trim() || `뉴스 ${index + 1}`;
       link.href = `#${story.id}`;
-      link.textContent = `${index + 1}. ${title.length > 34 ? `${title.slice(0, 34)}…` : title}`;
+      link.textContent = `${timelineTime(story)} · ${title.length > 28 ? `${title.slice(0, 28)}…` : title}`;
       return link;
     }));
   };
