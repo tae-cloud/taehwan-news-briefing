@@ -1,9 +1,6 @@
 from __future__ import annotations
 
-import hashlib
-import json
-import os
-import re
+import hashlib, json, os, re
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -16,216 +13,129 @@ ROOT = Path(__file__).resolve().parents[1]
 FEED_PATH = ROOT / "site" / "live-news.json"
 KST = timezone(timedelta(hours=9))
 NOW = datetime.now(timezone.utc)
-MAX_AGE = timedelta(hours=30)
-MAX_ITEMS = 40
-
-QUERIES = [
-    "bitcoin Reuters",
-    "bitcoin AP",
-    "bitcoin Federal Reserve",
-    "bitcoin regulation United States",
-    "oil Iran Hormuz Reuters",
-    "Federal Reserve rates inflation Reuters",
-]
-
-BTC_TERMS = {
-    "bitcoin", "btc", "crypto", "cryptocurrency", "digital asset",
-    "federal reserve", "interest rate", "inflation", "cpi", "pce",
-    "oil", "iran", "hormuz", "tariff", "sec", "cftc",
-}
-
-UP_TERMS = {"ceasefire", "pause", "approval", "inflow", "rate cut", "easing", "deal", "agreement"}
-DOWN_TERMS = {"attack", "war", "tariff", "rate hike", "inflation", "ban", "outflow", "sanction"}
-TRUSTED = {"Reuters", "Associated Press", "AP", "Bloomberg", "Federal Reserve", "SEC", "CFTC"}
+TRUSTED = {"Reuters", "Associated Press", "AP", "Bloomberg"}
+QUERIES = ["bitcoin Reuters", "bitcoin AP", "bitcoin Federal Reserve",
+           "bitcoin regulation United States", "oil Iran Hormuz Reuters",
+           "Federal Reserve rates inflation Reuters"]
+BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
+             "inflation", "oil", "iran", "hormuz", "tariff", "sec", "cftc"}
 
 
-def translate_title_ko(title: str) -> str:
-    if not title or len(re.findall(r"[가-힣]", title)) >= 3:
-        return title
-    try:
-        response = requests.get(
-            "https://translate.googleapis.com/translate_a/single",
-            params={
-                "client": "gtx",
-                "sl": "auto",
-                "tl": "ko",
-                "dt": "t",
-                "q": title,
-            },
-            timeout=15,
-        )
-        response.raise_for_status()
-        payload = response.json()
-        translated = "".join(part[0] for part in payload[0] if part and part[0]).strip()
-        return translated or title
-    except Exception:
-        return title
-
-
-def clean_title(title: str) -> str:
+def clean_title(title):
     return re.sub(r"\s+-\s+[^-]{2,40}$", "", title).strip()
 
 
-def tokens(title: str) -> set[str]:
-    return {
-        word for word in re.findall(r"[a-z0-9가-힣]{3,}", title.lower())
-        if word not in {"the", "and", "for", "with", "from", "after"}
-    }
-
-
-def similarity(left: str, right: str) -> float:
-    a, b = tokens(left), tokens(right)
-    return len(a & b) / max(1, len(a | b))
-
-
-def published(entry) -> datetime | None:
-    raw = entry.get("published") or entry.get("updated")
-    if not raw:
-        return None
-    try:
-        value = parsedate_to_datetime(raw)
-        return value.astimezone(timezone.utc)
-    except (TypeError, ValueError):
-        return None
-
-
-def source_name(entry) -> str:
-    source = entry.get("source") or {}
-    return (source.get("title") or "Google News").strip()
-
-
-def collect() -> list[dict]:
-    rows: list[dict] = []
+def collect():
+    rows = []
     for query in QUERIES:
-        url = (
-            "https://news.google.com/rss/search?q="
-            f"{quote_plus(query + ' when:1d')}&hl=en-US&gl=US&ceid=US:en"
-        )
-        parsed = feedparser.parse(url)
-        for entry in parsed.entries[:30]:
-            when = published(entry)
-            if not when or NOW - when > MAX_AGE:
+        url = f"https://news.google.com/rss/search?q={quote_plus(query + ' when:1d')}&hl=en-US&gl=US&ceid=US:en"
+        for entry in feedparser.parse(url).entries[:30]:
+            raw = entry.get("published") or entry.get("updated")
+            try:
+                when = parsedate_to_datetime(raw).astimezone(timezone.utc)
+            except (TypeError, ValueError):
                 continue
             title = clean_title(entry.get("title", ""))
-            haystack = f"{title} {entry.get('summary', '')}".lower()
-            if not any(term in haystack for term in BTC_TERMS):
+            if NOW - when > timedelta(hours=30) or not any(t in title.lower() for t in BTC_TERMS):
                 continue
-            rows.append({
-                "title": title,
-                "url": entry.get("link", ""),
-                "source": source_name(entry),
-                "published_at": when.isoformat().replace("+00:00", "Z"),
-            })
+            source = (entry.get("source") or {}).get("title", "Google News").strip()
+            rows.append({"title": title, "url": entry.get("link", ""), "source": source,
+                         "published_at": when.isoformat().replace("+00:00", "Z")})
     return rows
 
 
-def cluster(rows: list[dict]) -> list[list[dict]]:
-    groups: list[list[dict]] = []
-    for row in sorted(rows, key=lambda item: item["published_at"], reverse=True):
-        match = next(
-            (group for group in groups if similarity(group[0]["title"], row["title"]) >= 0.46),
-            None,
-        )
+def words(title):
+    return {w for w in re.findall(r"[a-z0-9가-힣]{3,}", title.lower())
+            if w not in {"the", "and", "for", "with", "from", "after"}}
+
+
+def cluster(rows):
+    groups = []
+    for row in sorted(rows, key=lambda x: x["published_at"], reverse=True):
+        match = next((g for g in groups if len(words(g[0]["title"]) & words(row["title"])) /
+                      max(1, len(words(g[0]["title"]) | words(row["title"]))) >= .46), None)
         if match is None:
             groups.append([row])
-        elif row["source"] not in {item["source"] for item in match}:
+        elif row["source"] not in {x["source"] for x in match}:
             match.append(row)
     return groups
 
 
-def classify(title: str) -> tuple[str, str]:
-    lowered = title.lower()
-    up = sum(term in lowered for term in UP_TERMS)
-    down = sum(term in lowered for term in DOWN_TERMS)
-    if up > down:
-        return "up", "호재"
-    if down > up:
-        return "down", "악재"
-    return "warn", "양방향"
+def stable_id(title, when):
+    return f"{when[:10]}-{hashlib.sha256(title.lower().encode()).hexdigest()[:12]}"
 
 
-def stable_id(title: str, when: str) -> str:
-    digest = hashlib.sha256(title.lower().encode("utf-8")).hexdigest()[:12]
-    return f"{when[:10]}-{digest}"
-
-
-def fallback_item(group: list[dict]) -> dict:
-    lead = group[0]
-    tone, impact = classify(lead["title"])
-    cross_verified = len(group) >= 2
-    trusted = any(item["source"] in TRUSTED for item in group)
-    status = "cross_verified" if cross_verified else "verified" if trusted else "publishable"
-    when = datetime.fromisoformat(lead["published_at"].replace("Z", "+00:00"))
-    return {
-        "stable_id": stable_id(lead["title"], lead["published_at"]),
-        "title": translate_title_ko(lead["title"]),
-        "original_title": lead["title"],
-        "published_at": lead["published_at"],
-        "kst": when.astimezone(KST).strftime("%Y-%m-%d %H:%M:%S KST"),
-        "status": status,
-        "tone": tone,
-        "impact": impact,
-        "importance": 5 if cross_verified else 4 if trusted else 3,
-        "summary": "복수의 최신 뉴스 피드에서 확인된 주요 사실입니다." if cross_verified else "신뢰 가능한 최신 뉴스 피드에서 확인된 업데이트입니다.",
-        "why_it_matters": "유가·금리·규제 및 위험선호 경로를 통해 비트코인 가격 변동성에 영향을 줄 수 있습니다.",
-        "btc_impact": f"현재 분류는 BTC {impact}입니다. 원문과 후속 보도를 함께 확인해야 합니다.",
-        "sources": [{"name": item["source"], "url": item["url"]} for item in group[:4]],
-    }
-
-
-def enrich_with_openai(items: list[dict]) -> list[dict]:
-    api_key = os.getenv("OPENAI_API_KEY", "").strip()
-    if not api_key or not items:
-        return items
-    prompt = {
-        "task": "아래 뉴스 항목을 한국어로 간결하고 정확하게 보강한다. 추측하지 말고 제공된 제목과 출처만 사용한다.",
-        "output": "각 stable_id별 summary, why_it_matters, btc_impact, tone(up/down/warn), impact(호재/악재/양방향), importance(1-5)를 JSON 배열로 반환",
-        "items": items,
-    }
-    try:
-        response = requests.post(
-            "https://api.openai.com/v1/responses",
-            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
-            json={
-                "model": "gpt-5-mini",
-                "input": json.dumps(prompt, ensure_ascii=False),
-                "text": {"format": {"type": "json_object"}},
-            },
-            timeout=60,
-        )
-        response.raise_for_status()
-        payload = response.json()
-        text = payload.get("output_text", "")
-        enriched = json.loads(text).get("items", [])
-        by_id = {item["stable_id"]: item for item in enriched}
-        for item in items:
-            patch = by_id.get(item["stable_id"], {})
-            for key in ("summary", "why_it_matters", "btc_impact", "tone", "impact", "importance"):
-                if key in patch:
-                    item[key] = patch[key]
-    except Exception:
-        pass
-    return items
-
-
-def main() -> None:
-    current = json.loads(FEED_PATH.read_text(encoding="utf-8")) if FEED_PATH.exists() else {"items": []}
-    existing = {item["stable_id"]: item for item in current.get("items", [])}
-    candidates = []
+def candidates():
+    result = []
     for group in cluster(collect()):
-        item = fallback_item(group)
-        if item["status"] in {"verified", "cross_verified"}:
-            candidates.append(item)
-    new_items = [item for item in candidates if item["stable_id"] not in existing]
-    for item in enrich_with_openai(new_items):
-        existing[item["stable_id"]] = item
-    output = {
-        "generated_at_kst": datetime.now(KST).isoformat(timespec="seconds"),
-        "items": sorted(existing.values(), key=lambda item: item["published_at"], reverse=True)[:MAX_ITEMS],
-    }
-    before = json.dumps(current, ensure_ascii=False, sort_keys=True)
-    after = json.dumps(output, ensure_ascii=False, sort_keys=True)
-    if before != after:
+        if len(group) < 2 and not any(x["source"] in TRUSTED for x in group):
+            continue
+        lead = group[0]
+        result.append({
+            "stable_id": stable_id(lead["title"], lead["published_at"]),
+            "original_title": lead["title"], "published_at": lead["published_at"],
+            "sources": [{"name": x["source"], "url": x["url"]} for x in group[:5]]
+        })
+    return result
+
+
+def valid(item):
+    impact = item.get("btc_impact", {})
+    return (len(item.get("summary", "")) >= 180
+            and len(item.get("why_it_matters", "")) >= 100
+            and isinstance(impact, dict) and len(impact.get("assessment", "")) >= 100
+            and len(item.get("missed_point", "")) >= 80
+            and len(item.get("follow_up", [])) >= 3
+            and len(item.get("sources", [])) >= 1)
+
+
+def enrich(items):
+    token = os.getenv("GITHUB_TOKEN", "").strip()
+    if not token or not items:
+        return []
+    prompt = """당신은 비트코인 거시경제 뉴스 편집자다. 제공된 기사 제목과 출처만 사용하고 추측하지 않는다.
+각 항목을 한국어로 자세히 분석한다. 정보가 부족하면 해당 항목을 results에서 제외한다.
+반환은 JSON 객체 하나이며 results 배열만 포함한다. 각 결과에는 stable_id, title, summary(최소 5문장),
+importance(1~5), tone(up/down/warn), btc_impact({direction: 호재/악재/양방향, assessment: 최소 3문장}),
+why_it_matters(최소 3문장), missed_point(최소 2문장), follow_up(구체적 확인사항 3개 이상),
+verification({state, independent_sources, notes})를 넣는다. 출처에 없는 숫자나 사실을 만들지 않는다."""
+    response = requests.post(
+        "https://models.github.ai/inference/chat/completions",
+        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+        json={"model": "openai/gpt-4.1", "temperature": 0.2,
+              "response_format": {"type": "json_object"},
+              "messages": [{"role": "system", "content": prompt},
+                           {"role": "user", "content": json.dumps(items, ensure_ascii=False)}]},
+        timeout=90)
+    response.raise_for_status()
+    patches = {x["stable_id"]: x for x in json.loads(response.json()["choices"][0]["message"]["content"]).get("results", [])}
+    enriched = []
+    for item in items:
+        patch = patches.get(item["stable_id"])
+        if not patch:
+            continue
+        item.update(patch)
+        when = datetime.fromisoformat(item["published_at"].replace("Z", "+00:00"))
+        item["kst"] = when.astimezone(KST).strftime("%Y-%m-%d %H:%M:%S KST")
+        item["status"] = item.get("verification", {}).get("state", "verified")
+        item["impact"] = item.get("btc_impact", {}).get("direction", "양방향")
+        if valid(item):
+            enriched.append(item)
+    return enriched
+
+
+def main():
+    current = json.loads(FEED_PATH.read_text(encoding="utf-8")) if FEED_PATH.exists() else {"items": []}
+    existing = {x["stable_id"]: x for x in current.get("items", []) if valid(x)}
+    new = [x for x in candidates() if x["stable_id"] not in existing]
+    try:
+        for item in enrich(new):
+            existing[item["stable_id"]] = item
+    except Exception as exc:
+        print(f"Enrichment unavailable; publishing nothing new: {type(exc).__name__}")
+    output = {"generated_at_kst": datetime.now(KST).isoformat(timespec="seconds"),
+              "items": sorted(existing.values(), key=lambda x: x.get("source_time") or x.get("published_at", ""), reverse=True)[:40]}
+    if json.dumps(current, ensure_ascii=False, sort_keys=True) != json.dumps(output, ensure_ascii=False, sort_keys=True):
         FEED_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 

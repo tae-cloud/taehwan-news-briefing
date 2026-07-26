@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  models: read
 
 concurrency:
   group: news-update
@@ -25,7 +26,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Collect, cross-check, and classify news
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_news.py
       - name: Commit verified updates
         run: |
