@@ -1,6 +1,25 @@
 {
-  "generated_at_kst": "2026-07-26T23:39:21+09:00",
+  "generated_at_kst": "2026-07-27T00:32:38+09:00",
   "items": [
+    {
+      "stable_id": "2026-07-26-4295f4c53bff",
+      "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
+      "published_at": "2026-07-26T14:50:55Z",
+      "kst": "2026-07-26 23:50:55 KST",
+      "status": "verified",
+      "tone": "warn",
+      "impact": "양방향",
+      "importance": 4,
+      "summary": "신뢰 가능한 최신 뉴스 피드에서 확인된 업데이트입니다.",
+      "why_it_matters": "유가·금리·규제 및 위험선호 경로를 통해 비트코인 가격 변동성에 영향을 줄 수 있습니다.",
+      "btc_impact": "현재 분류는 BTC 양방향입니다. 원문과 후속 보도를 함께 확인해야 합니다.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-07-26-us-iran-mutual-strike-pause-day2",
       "title": "미국의 이란 공습 중단 이틀째…이란도 상호 공격 중단 방침",
@@ -23,7 +42,156 @@
           "url": "https://www.reuters.com/"
         }
       ]
+    },
+    {
+      "stable_id": "2026-07-26-81aa059f82ea",
+      "title": "Iran war spreads to Red and Caspian seas, Gulf quiet as US halts strikes",
+      "published_at": "2026-07-26T13:53:13Z",
+      "kst": "2026-07-26 22:53:13 KST",
+      "status": "cross_verified",
+      "tone": "down",
+      "impact": "악재",
+      "importance": 5,
+      "summary": "복수의 최신 뉴스 피드에서 확인된 주요 사실입니다.",
+      "why_it_matters": "유가·금리·규제 및 위험선호 경로를 통해 비트코인 가격 변동성에 영향을 줄 수 있습니다.",
+      "btc_impact": "현재 분류는 BTC 악재입니다. 원문과 후속 보도를 함께 확인해야 합니다.",
+      "sources": [
+        {
+          "name": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFFza1NfNnp4UWlVSmo3LWRRVlJQVER2TGF1NlN0TG5ZVE9HQmlXdFFsSnZaVzRubVA3YnM5Wjlfbk94Z2sxZ2pEUkU4UGxrTDVxd0E3UDNwQ2FBMnhmdW1Vck5qNkFGWWk4TTJvR212T08tTWFFLTExc3laREg5S3EteDFRaExvNjZ5ZVE5RERoaUREeHVUUXNfRWVLRzVUTWtlajRQdkNzTGlBQlJpVkdyb29tZFN6RDZj?oc=5"
+        },
+        {
+          "name": "Yahoo News Australia",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIU21RU1o2Y0puRzFVMnhweGN6LTBFUEx5bjRFUUZxMTA5VEFzREt1NDdTWl8ySVg3bTNsd1ZPYzZ3MEpxS2pncFBxdHpFTUhNX3k5eHdRenc1cmsxOHJuWTE2akg4WlE3RzNSaEtTaW5mMW8?oc=5"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdDBsQ2lLb2U3VDZTRWx3eEhJcHRibUN6WGFtQjRwRS1kLUhqNEJVTTRoTWNURmhZQnBmUzQwQkpWZmFRb3JOSnFsbm8wWmk1Z0c0S1J6RHI0M01tcFdvUDJHbDA2RGdJSm10OTRlRUpYMXRIcmVVOUJNLURYTWJYWXA5S0lHMHdpbkJzcXBsaHVPY3dHenFaU1ZPUTkwZzc2bGNtdi1laHRZUkxjeEJFT01XTGpWakFaeDNrdU1qdVBKZzZVLV8xcDdOWnYwVTAxd1E?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4V3U2RkUwV0FNM04yc0dsQWZKc1BtOFk2aDFKQlUwc21pdW9k?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-07-26-ccefaf6952e8",
+      "title": "Oil tanker explodes after hitting naval mine in Strait of Hormuz, IRGC-linked media claims - report",
+      "published_at": "2026-07-26T13:50:35Z",
+      "kst": "2026-07-26 22:50:35 KST",
+      "status": "cross_verified",
+      "tone": "warn",
+      "impact": "양방향",
+      "importance": 5,
+      "summary": "복수의 최신 뉴스 피드에서 확인된 주요 사실입니다.",
+      "why_it_matters": "유가·금리·규제 및 위험선호 경로를 통해 비트코인 가격 변동성에 영향을 줄 수 있습니다.",
+      "btc_impact": "현재 분류는 BTC 양방향입니다. 원문과 후속 보도를 함께 확인해야 합니다.",
+      "sources": [
+        {
+          "name": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bGtET0Y0WWNWM0VDTl9xRVhRUnNFMi1Ccjc5NjVmZU5vamhWLWozelUzcF95Q1RjQ25CNW5DUl80c3hZV3dieHlhT3YzY2N1VFJKS09tanp6M3daNHllTXVPSGhUamJiS1E?oc=5"
+        },
+        {
+          "name": "ANI News",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYWUtN3Y0QTgzak15TVAyRGpSU1RBa254TVNQdlBfNjc1ZTJXQ1RWbmRqbzE0aWcxT2tVZ01ueEZ1YVotbGYxcGdMajZOQXRGb0hCdWlzMFdOM2JLbEc3dkxjT0Z0aTNjTjNUcVR6eW0zeU9wcEZEOXNZUV9PUS03b3R3ZkFIcnZDSDNPMWVVZkZHRTQzbVBNLU1aTUxSUEFISV9mNVp5eDZmbkt3cDkzQUxCazdmMU1WdkppeExwdjdla1NsU2ZtVW9rM2NxZElmQWJUVQ?oc=5"
+        },
+        {
+          "name": "Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTlXeEQ0RHRQd3RyTVUySEg4a09qZThyYnNVdnFiYmI5d2IzVUNlS3RKNmRINGJuUlppc1dvb18wcTFEbmpQT1NXSFJnWUp0Nmg0WU1GM08wY3lKVUVkNnE1LW4xRFZDU3VsR3l2VG5jUDdCUUpVMVUtQ3FGSkZFbjlRNklWTFhZRS1IZVpQNkxwclhaQ3N5d0hrd09hdlRNR0pKNXVLbWgweUc4WmhiU1ZsR2hycWlYS0o5NnpEald1ZjZzTVRFZ2hUWU1xT2vSAc8BQVVfeXFMTmk5V3hENER0UHd0ck1VMkhIOGtPamU4cmJzVXZxYmJiOXdiM1VDZUt0SjZkSDRiblJaaXNXb29fMHExRG5qUE9TV0hSZ1lKdDZoNFlNRjNPMGN5SlVFZDZxNS1uMURWQ1N1bEd5dlRuY1A3QlFKVTFVLUNxRkpGRW45UTZJVkxYWUUtSGVaUDZMcHJYWkNzeXdIa3dPYXZUTUdKSjV1S21oMHlHOFpoYlNWbEdocnFpWEtKOTZ6RGpXdWY2c01URWdoVFlNcU9r?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-07-26-5433c912460e",
+      "title": "US and Iran Pause Strikes as Markets Wait for Monday’s Verdict",
+      "published_at": "2026-07-26T12:34:16Z",
+      "kst": "2026-07-26 21:34:16 KST",
+      "status": "cross_verified",
+      "tone": "up",
+      "impact": "호재",
+      "importance": 5,
+      "summary": "복수의 최신 뉴스 피드에서 확인된 주요 사실입니다.",
+      "why_it_matters": "유가·금리·규제 및 위험선호 경로를 통해 비트코인 가격 변동성에 영향을 줄 수 있습니다.",
+      "btc_impact": "현재 분류는 BTC 호재입니다. 원문과 후속 보도를 함께 확인해야 합니다.",
+      "sources": [
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uSXR3bXZlaFk1Y2hUanlGOWdYeHJpV3RRWTVnLWRKbVdjc2ZoekJUNGVYYm9DSkZQWUw3WXBCd292Zk1pT1BmSTV0N3RWQmdnbmdzMjhUYjhpalc3b0NQNGl6b9IBY0FVX3lxTE1uSXR3bXZlaFk1Y2hUanlGOWdYeHJpV3RRWTVnLWRKbVdjc2ZoekJUNGVYYm9DSkZQWUw3WXBCd292Zk1pT1BmSTV0N3RWQmdnbmdzMjhUYjhpalc3b0NQNGl6bw?oc=5"
+        },
+        {
+          "name": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzV3VOVHZFVmVCU295WHhBQXRJYzhQOVlUUGxPbG8zMVhxbnRJaEpXbGFCU0YzQVFvNGZBalpCX3VpendwNXlGSzd3VDExM0tmbGIybWllYW5nbXJQdGluemF6dkpWRUg5Y2R1cw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-07-26-dabcab79004d",
+      "title": "Two Central Banks Decide Interest Rates Next Week: What It Means for Bitcoin",
+      "published_at": "2026-07-26T11:52:12Z",
+      "kst": "2026-07-26 20:52:12 KST",
+      "status": "cross_verified",
+      "tone": "down",
+      "impact": "악재",
+      "importance": 5,
+      "summary": "복수의 최신 뉴스 피드에서 확인된 주요 사실입니다.",
+      "why_it_matters": "유가·금리·규제 및 위험선호 경로를 통해 비트코인 가격 변동성에 영향을 줄 수 있습니다.",
+      "btc_impact": "현재 분류는 BTC 악재입니다. 원문과 후속 보도를 함께 확인해야 합니다.",
+      "sources": [
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qcmM3WmZaYnVPRWE1bVQ5d2ZvdGlpZ3VZbmRBNjlFUjJJZ0dHbDNtcW0wNHZ0STVIVmxWdnRJcG9DZkFPdEN2U2tNblpXQ0UwMDdCeXZxbUhNUEwwN2hZSDN0ONIBY0FVX3lxTE5qcmM3WmZaYnVPRWE1bVQ5d2ZvdGlpZ3VZbmRBNjlFUjJJZ0dHbDNtcW0wNHZ0STVIVmxWdnRJcG9DZkFPdEN2U2tNblpXQ0UwMDdCeXZxbUhNUEwwN2hZSDN0OA?oc=5"
+        },
+        {
+          "name": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ya3FOQXplaFU5Yl9kOHNFdFBSOGpNaTNHX1FKVHNCSDBSWnBuYzlDQy1OekJuX1ZYMG9pTDZENVlkTjhJMkVNQVMxRGdjNEgwTFBrM2tOTHRDUjk0R1NKdk1FWkM2Z09Ca1BvX3dB?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-07-26-883ca85dac4e",
+      "title": "Bitcoin price holds above $64,000 as traders brace for upcoming Fed decision By Investing.com",
+      "published_at": "2026-07-26T09:09:21Z",
+      "kst": "2026-07-26 18:09:21 KST",
+      "status": "cross_verified",
+      "tone": "warn",
+      "impact": "양방향",
+      "importance": 5,
+      "summary": "복수의 최신 뉴스 피드에서 확인된 주요 사실입니다.",
+      "why_it_matters": "유가·금리·규제 및 위험선호 경로를 통해 비트코인 가격 변동성에 영향을 줄 수 있습니다.",
+      "btc_impact": "현재 분류는 BTC 양방향입니다. 원문과 후속 보도를 함께 확인해야 합니다.",
+      "sources": [
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFN1U09LalFfU3BDNGZBZE03TVlXa1JDZUJTRUlJUWtVVTlLM2VHc0Z4Q1BHNWM3MFZfOHd3ajFIMzFxTUNYSW95NTJydkdwUUJWaEJKdlEtYVd2cUNxNTZhT3RqOTV0VFYzcHg3Ylc0SF95V2IwZUtHaEpOLXdCTFR4Wkx4X1hXWFVRMjVheEl3OHBQU3NRZFdud1BqYnlLZm1mLVJKM2ZZbjdXUDJncm9melBQTE0wU3VicXhpdjRUSzIwbkgxbFVLU2U3cVdqRzIybzB6a1lFT0Ns?oc=5"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeWJZN0JUTFMwQlg4cUpWVjY1bE92U2JIVFdUd1RHa0ZlS3Jhc2podUpMeTdSRnRzUk5VUXVIR1o0UWFreGFFWWlGaXA0RnAxWGUtMEl4akJwVFd0Ymk0cE9RbEI3UG5td0UxdDYyVGhSbEVWM2dlZDNnaFRmWVQzVm1hbVJrOEd2NnVMZUcwc0t1MjRJWFBES0phWXhMWjVqZU1udjJjN0h2NThYcjRqX2VJajRwTEFMZkhERkdKUVZBckpYYkg1d0ZMNXg?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-07-26-2b5b325898f5",
+      "title": "Houthis attacked Saudi Arabia's oil facilities, the US did not strike Iran for the first time in two weeks",
+      "published_at": "2026-07-26T01:18:56Z",
+      "kst": "2026-07-26 10:18:56 KST",
+      "status": "cross_verified",
+      "tone": "down",
+      "impact": "악재",
+      "importance": 5,
+      "summary": "복수의 최신 뉴스 피드에서 확인된 주요 사실입니다.",
+      "why_it_matters": "유가·금리·규제 및 위험선호 경로를 통해 비트코인 가격 변동성에 영향을 줄 수 있습니다.",
+      "btc_impact": "현재 분류는 BTC 악재입니다. 원문과 후속 보도를 함께 확인해야 합니다.",
+      "sources": [
+        {
+          "name": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdi16VTNqYlN4WnEwV1htcnI1aFlzajZzN1pSZ2ZWVjY4ZGpmUXNGZ0xwOHZDRVdSYjlyd285d1pSbnh6MHd6TGZFZF9tM29aMGIybnA4dkxwRkQ5bXFJZDdVRVlsS2RpRmxvVlNuQXl0RVI0d1daa3d3S2ZVTER3MHp0M3MxSFNBQ2VCei1IWFNjbW9ZX1ZBb1lLeDJqWUg3YWFESXZsYWJvTmVZc2FmS2ozLXBjMjU3d1NyUVNBRHQ3RmFDOFHSAcQBQVVfeXFMTTIwZ1h4Qk5ReWNDRjc3ZG1hbFQ2QnZnLVk0QV9UUThtVGZic1g0MU54ZW9XUDVBeGlJSzYtSmhuZjRDaXhkNWhKQnRWenBSU3BpdGl2ZmNBUk5YTmtnWm9lU3ZxUmtYb3VBV2hqUVl3N1FESnFWZENuWkdFZmtfMGtiVDBDdk4wS19lNExTNHgwRDhxeDRzM0U2WW4zeHBCekhYWDBTaUd6V3E2b1NteVQwdWtpcy1LOThvZ1VtZjR0SlJnUw?oc=5"
+        },
+        {
+          "name": "Yahoo News UK",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHVmVTU4bjN4QVNuMXNWVTN5U3dCdnN1SW5HWnNBaVVNMlh2eGl1TnRaOWM1U25NODJwTjRDNUJMLU5IRVdBcjlKSTRDeVVSdG0wRFJBdUhVTnd0NjdCTVh2dmFMakNBUGZlRzBxeGhub1dZUlV4ZENoVzNmMXZkZHF5bzQ2SkxxUVZqYjcyMEU2Wnl2RElsT2JUZ0JpRVRjV1k3V3d5OW0zNmx6bXh2cElQNHVWLUpsZUE?oc=5"
+        }
+      ]
     }
   ]
 }
-
