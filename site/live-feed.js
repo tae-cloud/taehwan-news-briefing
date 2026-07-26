@@ -64,7 +64,7 @@
     let match = text.match(/(20\d{2})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})(?::(\d{2}))?/);
     if (!match) match = text.match(/(20\d{2})\.(\d{2})\.(\d{2})(?:\s+(?:약\s*)?(\d{2}):(\d{2}))?/);
     if (!match) return 0;
-    return Date.UTC(
+    const utcValue = Date.UTC(
       Number(match[1]),
       Number(match[2]) - 1,
       Number(match[3]),
@@ -72,6 +72,7 @@
       Number(match[5] || 0),
       Number(match[6] || 0)
     );
+    return /\bKST\b/.test(text) ? utcValue - (9 * 60 * 60 * 1000) : utcValue;
   };
 
   const sortAllStoriesAndRebuildTimeline = () => {
@@ -109,7 +110,14 @@
       if (!main || !Array.isArray(feed.items)) return;
       document.querySelectorAll(".live-story").forEach((node) => node.remove());
       const empty = main.querySelector(".empty");
-      [...feed.items].forEach((item) => main.insertBefore(renderStory(item), empty));
+      const existingIds = new Set(
+        [...main.querySelectorAll(".story[data-news-id]")]
+          .map((story) => story.dataset.newsId)
+          .filter(Boolean)
+      );
+      [...feed.items]
+        .filter((item) => !existingIds.has(item.stable_id))
+        .forEach((item) => main.insertBefore(renderStory(item), empty));
       sortAllStoriesAndRebuildTimeline();
       applySearch();
       document.getElementById("news-search")?.addEventListener("input", applySearch);
