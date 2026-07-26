@@ -117,6 +117,9 @@
   };
 
   document.querySelector(".hero .notice")?.remove();
+  document.querySelectorAll(".page").forEach(label => {
+    if (/페이지|ORIGINAL TEXT/i.test(label.textContent || "")) label.remove();
+  });
   fetch(`/live-news.json?t=${Date.now()}`, { cache: "no-store" })
     .then(response => {
       if (!response.ok) throw new Error("feed unavailable");
