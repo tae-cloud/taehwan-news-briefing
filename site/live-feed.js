@@ -18,6 +18,12 @@
     <section class="block ${extra}"><h3>${esc(title)}</h3><div class="verbatim">${body}</div></section>` : "";
   const list = (items = []) => items.length
     ? `<ul>${items.map(item => `<li>${esc(item)}</li>`).join("")}</ul>` : "";
+  const qualityScore = article => {
+    const text = article.querySelector(".article")?.innerText || "";
+    const sections = article.querySelectorAll(".block").length;
+    const sources = article.querySelectorAll(".verbatim a").length;
+    return text.length + (sections * 180) + (sources * 80);
+  };
 
   const renderStory = (item) => {
     const article = document.createElement("article");
@@ -109,8 +115,8 @@
       feed.items.forEach(item => {
         const rendered = renderStory(item);
         const previous = existingStories.get(item.stable_id);
-        if (previous) previous.replaceWith(rendered);
-        else main.insertBefore(rendered, empty);
+        if (previous && qualityScore(rendered) >= qualityScore(previous)) previous.replaceWith(rendered);
+        else if (!previous) main.insertBefore(rendered, empty);
       });
       sortAndTimeline();
       applySearch();
