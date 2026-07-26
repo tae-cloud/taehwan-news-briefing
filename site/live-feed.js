@@ -80,9 +80,8 @@
     const text = `${story.querySelector(".page")?.textContent || ""} ${story.querySelector(".metadata")?.textContent || ""}`;
     const datedTime = text.match(/(20\d{2})[.-](\d{2})[.-](\d{2})(?:\s*(?:약\s*)?(\d{2}):(\d{2}))?/);
     if (!datedTime) return 0;
-    const isCurrent = /현재/.test(text);
-    const hour = datedTime[4] == null ? (isCurrent ? 23 : 0) : Number(datedTime[4]);
-    const minute = datedTime[5] == null ? (isCurrent ? 59 : 0) : Number(datedTime[5]);
+    const hour = datedTime[4] == null ? 0 : Number(datedTime[4]);
+    const minute = datedTime[5] == null ? 0 : Number(datedTime[5]);
     return Date.UTC(
       Number(datedTime[1]),
       Number(datedTime[2]) - 1,
