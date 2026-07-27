@@ -19,6 +19,7 @@ QUERIES = ["bitcoin Reuters", "bitcoin AP", "bitcoin Federal Reserve",
            "Federal Reserve rates inflation Reuters"]
 BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
              "inflation", "oil", "iran", "hormuz", "tariff", "sec", "cftc"}
+SUPPRESSED_DUPLICATES = {"2026-07-26-cd976c2c93c2"}
 
 
 def clean_title(title):
@@ -129,8 +130,10 @@ verification({state, independent_sources, notes})를 넣는다. 출처에 없는
 
 def main():
     current = json.loads(FEED_PATH.read_text(encoding="utf-8")) if FEED_PATH.exists() else {"items": []}
-    existing = {x["stable_id"]: x for x in current.get("items", []) if valid(x)}
-    new = [x for x in candidates() if x["stable_id"] not in existing]
+    existing = {x["stable_id"]: x for x in current.get("items", [])
+                if valid(x) and x["stable_id"] not in SUPPRESSED_DUPLICATES}
+    new = [x for x in candidates()
+           if x["stable_id"] not in existing and x["stable_id"] not in SUPPRESSED_DUPLICATES]
     try:
         for item in enrich(new):
             existing[item["stable_id"]] = item
