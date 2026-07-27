@@ -19,7 +19,16 @@ QUERIES = ["bitcoin Reuters", "bitcoin AP", "bitcoin Federal Reserve",
            "Federal Reserve rates inflation Reuters"]
 BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
              "inflation", "oil", "iran", "hormuz", "tariff", "sec", "cftc"}
-SUPPRESSED_DUPLICATES = {"2026-07-26-cd976c2c93c2"}
+SUPPRESSED_DUPLICATES = {
+    "2026-07-26-cd976c2c93c2",
+    "2026-07-26-08d1a65d77c4",
+}
+LOW_SIGNAL_TITLE_PATTERNS = (
+    "price holds above",
+    "traders brace",
+    "price remains above",
+    "market awaits",
+)
 
 
 def clean_title(title):
@@ -72,6 +81,8 @@ def candidates():
         if len(group) < 2 and not any(x["source"] in TRUSTED for x in group):
             continue
         lead = group[0]
+        if any(pattern in lead["title"].lower() for pattern in LOW_SIGNAL_TITLE_PATTERNS):
+            continue
         result.append({
             "stable_id": stable_id(lead["title"], lead["published_at"]),
             "original_title": lead["title"], "published_at": lead["published_at"],
