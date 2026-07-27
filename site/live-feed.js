@@ -45,17 +45,18 @@
     article.className = `story ${tone} live-story`;
     article.dataset.tone = tone;
     article.dataset.newsId = item.stable_id || "";
-    article.dataset.published = item.source_time || item.published_at || "";
+    article.dataset.published = item.updated_at_kst || item.source_time || item.published_at || "";
     article.id = `live-${item.stable_id || Math.random().toString(36).slice(2)}`;
     article.innerHTML = `
       <section class="article">
-        <div class="page">실시간 업데이트 · ${esc(item.kst || item.published_at_kst || item.published_at)}</div>
+        <div class="page">${item.updated_at_kst ? "최근 업데이트" : "실시간 업데이트"} · ${esc(item.updated_at_kst || item.kst || item.published_at_kst || item.published_at)}</div>
         <h2>${esc(TITLE_TRANSLATIONS[item.stable_id] || item.title)}</h2>
         <div class="metadata">
           <b>중요도: ${"★".repeat(stars)}${"☆".repeat(5 - stars)} · BTC ${esc(impact.direction)}</b>
           <span>원문 시각: ${esc(item.source_time || item.published_at || "확인 중")}</span>
           <span class="importance">${esc(verification.state || item.status || "verified")}</span>
         </div>
+        ${section("후속 속보", esc(item.latest_update))}
         ${section("핵심 내용", esc(item.summary))}
         ${section("왜 중요한가", esc(item.why_it_matters))}
         ${section("BTC 영향", esc(impact.assessment))}
