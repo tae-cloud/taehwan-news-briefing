@@ -81,7 +81,10 @@ def candidates():
 
 def valid(item):
     impact = item.get("btc_impact", {})
-    return (len(item.get("summary", "")) >= 180
+    title = item.get("title", "")
+    return (bool(re.search(r"[가-힣]", title))
+            and len(title) >= 8
+            and len(item.get("summary", "")) >= 180
             and len(item.get("why_it_matters", "")) >= 100
             and isinstance(impact, dict) and len(impact.get("assessment", "")) >= 100
             and len(item.get("missed_point", "")) >= 80
