@@ -135,52 +135,6 @@
                       "impact":  "양방향"
                   },
                   {
-                      "stable_id":  "2026-07-26-08d1a65d77c4",
-                      "original_title":  "Bitcoin price holds above $64,000 as traders brace for upcoming Fed decision",
-                      "published_at":  "2026-07-26T18:54:01Z",
-                      "sources":  [
-                                      {
-                                          "name":  "Investing.com",
-                                          "url":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVhhSWFoenBXdVZRUWRibi1uTkppTFlKNlZteDdKYXJvdGhzVFJnVnBiV1Jydk5nNzRhbWpiaDF3aFgyT0xnRUgyNkFSSnphbUwzYzlHTEI2Y3ExTnZLUFlNYjFfQkFral9wbUtYR2YzRmxWd2RFZ3lOT25DQmVueUZyQS1Nd2FyZk00aWxlZnFYVHZURkxreGRiUUtDd2hVOC1BeGVzbklKS1VNRWN3YlZsU2pxdmdDd3U4R2JKSi1WUHdvamdMZm5OOGdvUQ?oc=5"
-                                      },
-                                      {
-                                          "name":  "Investing.com South Africa",
-                                          "url":  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFN1U09LalFfU3BDNGZBZE03TVlXa1JDZUJTRUlJUWtVVTlLM2VHc0Z4Q1BHNWM3MFZfOHd3ajFIMzFxTUNYSW95NTJydkdwUUJWaEJKdlEtYVd2cUNxNTZhT3RqOTV0VFYzcHg3Ylc0SF95V2IwZUtHaEpOLXdCTFR4Wkx4X1hXWFVRMjVheEl3OHBQU3NRZFdud1BqYnlLZm1mLVJKM2ZZbjdXUDJncm9melBQTE0wU3VicXhpdjRUSzIwbkgxbFVLU2U3cVdqRzIybzB6a1lFT0Ns?oc=5"
-                                      },
-                                      {
-                                          "name":  "Investing.com UK",
-                                          "url":  "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeEUxdndHSXRuclE1N2s1ZklvdVgzWGxrTWswRzRxdXRKSmtJTjc3bnQ1T21RZXJmSTNXOUNxV3diZ0xCLUQtYTdqeXg2MHlOQVZsVWNhWnI2QXZndXZldUMzNFQ0aFE5ZXRXNmNDN1RFZGRZdzBNZUxXNlhUcTlWaXF1Y0JjV0FWVkZJYmYtSE05aVpNbHFxcmZuWHVxdzRZVmNsTXR4d2tjVm1PdXk1ZW9PY0ZBQklMRmFfbkNfQ1lfNmlROEl6VzJsbW0?oc=5"
-                                      }
-                                  ],
-                      "title":  "비트코인 6만4천달러 상회…연준 결정 앞두고 시장 경계",
-                      "summary":  "비트코인 가격이 64,000달러 이상에서 안정적으로 유지되고 있다. 이는 투자자들이 곧 있을 미국 연방준비제도(Fed)의 금리 결정을 앞두고 관망세를 보이고 있음을 시사한다. 최근의 가격 움직임은 시장이 불확실성에 대비해 신중한 태도를 취하고 있음을 보여준다. 연준의 정책 변화는 비트코인 등 위험자산의 단기 방향성에 큰 영향을 미칠 수 있다. 투자자들은 금리 동결 또는 인하 가능성에 따라 포지션을 조정할 것으로 보인다.",
-                      "importance":  5,
-                      "tone":  "warn",
-                      "btc_impact":  {
-                                         "direction":  "양방향",
-                                         "assessment":  "연준의 금리 결정은 비트코인 가격에 즉각적인 영향을 줄 수 있다. 금리 인하나 완화적 스탠스는 비트코인에 호재로 작용할 수 있지만, 금리 동결이나 매파적 발언은 단기적으로 악재가 될 수 있다. 현재 가격이 주요 지지선 위에서 유지되고 있다는 점은 투자자들이 아직 확신을 갖지 못하고 있음을 의미한다."
-                                     },
-                      "why_it_matters":  "연준의 정책은 글로벌 유동성과 위험자산 선호도에 직접적인 영향을 미친다. 비트코인은 최근 거시경제 이벤트에 민감하게 반응해왔기 때문에, 이번 결정은 단기 및 중기 가격 흐름에 중요한 변곡점이 될 수 있다. 투자자 심리와 시장 변동성이 연준 발표 전후로 크게 요동칠 가능성이 높다.",
-                      "missed_point":  "기사에서는 연준의 구체적인 정책 방향이나 시장의 예상 컨센서스에 대한 언급이 부족하다. 또한, 비트코인 외 암호화폐 시장 전반에 미치는 영향에 대한 분석이 결여되어 있다.",
-                      "follow_up":  [
-                                        "연준의 실제 금리 결정 내용 및 성명서 확인",
-                                        "시장 참가자들의 금리 전망 변화 추적",
-                                        "비트코인 가격의 단기 변동성 및 거래량 변화 모니터링"
-                                    ],
-                      "verification":  {
-                                           "state":  "확인됨",
-                                           "independent_sources":  [
-                                                                       "Investing.com",
-                                                                       "Investing.com South Africa",
-                                                                       "Investing.com UK"
-                                                                   ],
-                                           "notes":  "여러 지역의 Investing.com에서 동일한 이슈를 보도함."
-                                       },
-                      "kst":  "2026-07-27 03:54:01 KST",
-                      "status":  "확인됨",
-                      "impact":  "양방향"
-                  },
-                  {
                       "stable_id":  "2026-07-26-us-iran-mutual-strike-pause-day2",
                       "status":  "verified_reconfirmed",
                       "published_at_kst":  "2026-07-26T23:28:48+09:00",

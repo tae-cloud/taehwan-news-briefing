@@ -4,7 +4,8 @@
     "2026-07-26-dabcab79004d": "다음 주 두 중앙은행 금리 결정…비트코인에 미칠 영향은?"
   };
   const SUPPRESSED_DUPLICATES = new Set([
-    "2026-07-26-cd976c2c93c2"
+    "2026-07-26-cd976c2c93c2",
+    "2026-07-26-08d1a65d77c4"
   ]);
   const esc = (value = "") => String(value).replace(/[&<>"']/g, c => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
