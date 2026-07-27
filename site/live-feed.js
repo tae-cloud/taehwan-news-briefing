@@ -3,6 +3,9 @@
     "2026-07-26-08d1a65d77c4": "비트코인 6만4천달러 상회…연준 결정 앞두고 시장 경계",
     "2026-07-26-dabcab79004d": "다음 주 두 중앙은행 금리 결정…비트코인에 미칠 영향은?"
   };
+  const SUPPRESSED_DUPLICATES = new Set([
+    "2026-07-26-cd976c2c93c2"
+  ]);
   const esc = (value = "") => String(value).replace(/[&<>"']/g, c => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
   })[c]);
@@ -136,7 +139,7 @@
       const empty = main.querySelector(".empty");
       const existingStories = new Map([...main.querySelectorAll(".story[data-news-id]")]
         .map(story => [story.dataset.newsId, story]).filter(([id]) => Boolean(id)));
-      feed.items.forEach(item => {
+      feed.items.filter(item => !SUPPRESSED_DUPLICATES.has(item.stable_id)).forEach(item => {
         const rendered = renderStory(item);
         const previous = existingStories.get(item.stable_id);
         if (previous && qualityScore(rendered) >= qualityScore(previous)) previous.replaceWith(rendered);
