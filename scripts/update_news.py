@@ -209,12 +209,14 @@ def valid(item):
     impact = item.get("btc_impact", {})
     title = item.get("title", "")
     verification = item.get("verification", {})
+    independent = verification.get("independent_sources", 0)
+    independent_count = len(independent) if isinstance(independent, list) else int(independent or 0)
     sources = item.get("sources", [])
     source_rows = sources if isinstance(sources, list) else [
         source for group in sources.values() for source in group
     ]
-    discovery_verified = (item.get("discovery_source") == "news"
-                          or (verification.get("independent_sources", 0) >= 2
+    discovery_verified = (item.get("discovery_source", "news") == "news"
+                          or (independent_count >= 2
                               and any(all(tag not in source.get("name", "").lower()
                                           for tag in ("telegram", "saveticker"))
                                       for source in source_rows)))
