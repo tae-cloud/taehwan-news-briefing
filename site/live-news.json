@@ -1,377 +1,377 @@
 {
-    "generated_at_kst":  "2026-07-27T17:57:00+09:00",
-    "items":  [
-                  {
-                      "stable_id":  "2026-07-27-iran-hormuz-status-unchanged-talks-continue",
-                      "status":  "cross_verified_follow_up",
-                      "published_at_kst":  "2026-07-27T16:57:00+09:00",
-                      "source_time":  "2026-07-27T07:57:00Z",
-                      "published_at":  "2026-07-27T07:57:00Z",
-                      "kst":  "2026-07-27 16:57:00 KST",
-                      "title":  "이란 “호르무즈 해협 상태 변함없어”…미국 핵협상·오만 기술협상은 계속",
-                      "summary":  "이란 외무부 대변인 에스마일 바가이는 호르무즈 해협의 상황이 변하지 않았으며 실질적인 폐쇄 상태가 계속되고 있다고 밝혔다. 동시에 이란과 오만의 해협 관리 관련 기술협상은 긍정적으로 진행됐고 협상도 계속될 것이라고 설명했다. 미국과의 핵협상 역시 이어지고 있다고 밝혔지만, 이란은 미국이 대화를 요청한 적이 없다는 입장을 내놨다. 또한 미국이 최근 공격 중단을 유지하는 동안 이란도 공격을 멈추겠다는 조건부 방침을 재확인했다. 이는 외교 채널은 열려 있지만 핵심 에너지 수송로가 실제로 정상화된 것은 아니라는 새로운 후속 신호다.",
-                      "importance":  5,
-                      "tone":  "warn",
-                      "impact":  "양방향",
-                      "btc_impact":  {
-                                         "direction":  "양방향",
-                                         "assessment":  "공격 중단과 협상 지속은 지정학적 위험 완화 측면에서 BTC에 우호적이다. 반면 호르무즈 해협의 실질적 폐쇄가 계속되면 원유 공급 불안과 유가 재상승 위험이 남아 물가·금리 경로를 통해 BTC를 압박할 수 있다. 따라서 협상 발언보다 실제 통항량 회복 여부가 다음 방향을 결정할 가능성이 높다."
-                                     },
-                      "why_it_matters":  "오전 시장은 공격 중단을 반영해 유가 하락과 위험자산 반등을 보였지만, 오후 발언은 해협 정상화가 아직 이뤄지지 않았음을 확인했다. 호르무즈 통항 차질이 이어지면 유가 하락이 되돌려지고 인플레이션 및 연준 긴축 우려가 다시 커질 수 있다. 기존 호재 평가를 제한하는 새로운 후속 정보이므로 별도 뉴스로 확인할 필요가 있다.",
-                      "missed_point":  "‘협상이 긍정적’이라는 표현과 ‘해협이 개방됐다’는 의미는 전혀 다르다. 실제 선박 통항과 보험료, 브렌트유 가격이 정상화되지 않는다면 외교적 발언만으로 에너지 위험이 해소됐다고 판단하기 어렵다.",
-                      "follow_up":  [
-                                        "호르무즈 해협 실제 선박 통항량 회복 여부",
-                                        "이란·오만 기술협상의 합의문 또는 통항 지침 발표 여부",
-                                        "미국·이란 공식 협상 일정과 공격 중단 연장 여부",
-                                        "브렌트유·WTI 및 미국 기대인플레이션 반응"
-                                    ],
-                      "sources":  {
-                                      "primary_reporting":  [
-                                                                {
-                                                                    "name":  "AP — 해협 상태 유지·오만 기술협상",
-                                                                    "url":  "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
-                                                                },
-                                                                {
-                                                                    "name":  "FinancialJuice — 이란 외무부 대변인 후속 발언",
-                                                                    "url":  "https://www.financialjuice.com/"
-                                                                }
-                                                            ]
-                                  },
-                      "verification":  {
-                                           "state":  "cross_verified_follow_up",
-                                           "independent_sources":  2,
-                                           "financialjuice_only":  false,
-                                           "rumor_excluded":  true,
-                                           "notes":  "FinancialJuice 속보의 핵심 내용인 오만과의 기술협상 지속과 호르무즈 해협 상태 불변은 AP의 당일 보도로 교차 확인했다. 공격 중단과 협상 지속은 완화 신호지만 실제 해협 개방은 확인되지 않았다."
-                                       }
-                  },
-                  {
-                      "stable_id":  "2026-07-26-us-iran-mutual-strike-pause-day2",
-                      "status":  "verified_market_reaction",
-                      "published_at_kst":  "2026-07-27T11:32:00+09:00",
-                      "source_time":  "2026-07-27T02:32:00Z",
-                      "title":  "미국·이란 상호 공격 중단 이틀째 유지…유가 5% 하락·달러 약세",
-                      "summary":  "미국은 이란 공습을 이틀째 중단했고 이란도 미국이 공격을 재개하지 않는 동안 공격을 멈추겠다고 재확인했다. 이후 아시아 거래에서 국제유가는 5% 넘게 하락하고 달러도 주요 통화 대비 약세를 보였다. Bloomberg 시장 요약에서는 같은 흐름 속 비트코인이 약 1.1% 상승해 65,301달러 부근을 기록한 것으로 집계됐다. 공격 중단은 공식 휴전이 아닌 조건부 조치이므로 협상 결렬이나 공습 재개 가능성은 남아 있다.",
-                      "importance":  5,
-                      "btc_impact":  {
-                                         "direction":  "호재",
-                                         "assessment":  "유가 하락은 미국의 인플레이션 재가속과 연준 추가 긴축 우려를 낮추고, 달러 약세는 비트코인을 포함한 위험자산의 금융여건을 완화한다. 다만 정식 휴전이 아니라 조건부 공격 중단이므로 협상 결렬이나 공습 재개 시 되돌림 위험이 크다. 실제로 BTC가 약 1.1% 상승하며 65,300달러대를 기록해 단기 호재 경로가 가격으로도 확인됐다."
-                                     },
-                      "why_it_matters":  "BTC의 핵심 경로는 전쟁 헤드라인 자체보다 전쟁→유가→물가 기대→연준→달러·금리다. 이번에는 유가와 달러가 동시에 하락해 이 경로가 실제 시장 가격으로 확인됐다. 채권 강세까지 동반되면서 유가↓→인플레이션 우려↓→금리↓→BTC 우호적이라는 전달 경로가 한 단계 더 확인됐다.",
-                      "missed_point":  "이번 조치는 정식 휴전 협정이 아니라 상호 조건부 공격 중단이다. 외교 일정이 확정되지 않거나 공격이 재개되면 유가 하락과 BTC 상승이 빠르게 되돌려질 수 있다.",
-                      "follow_up":  [
-                                        "미국·이란 공식 휴전 또는 협상 일정 발표 여부",
-                                        "호르무즈 해협 통항량과 미국의 이란 항만 봉쇄 변화",
-                                        "브렌트유·WTI 하락폭 유지 여부와 미 국채금리·달러 반응",
-                                        "2026-07-30 03:00 KST FOMC 결정 및 03:30 KST 기자회견"
-                                    ],
-                      "sources":  {
-                                      "official":  [
-                                                       {
-                                                           "name":  "White House 입장 인용 AP",
-                                                           "url":  "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
-                                                       }
-                                                   ],
-                                      "primary_reporting":  [
-                                                                {
-                                                                    "name":  "Reuters — 달러 약세·유가 하락 시장 반응",
-                                                                    "url":  "https://live.euronext.com/en/financial-news/dollar-pulls-back-us-iran-attacks-pause-oil-drops"
-                                                                },
-                                                                {
-                                                                    "name":  "Reuters — 유가 5% 하락",
-                                                                    "url":  "https://ca.marketscreener.com/news/oil-slips-5-after-us-iran-pause-fighting-over-weekend-ce7f51dcd88dff27"
-                                                                },
-                                                                {
-                                                                    "name":  "AP — 미국·이란 공격 중단 이틀째",
-                                                                    "url":  "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
-                                                                },
-                                                                {
-                                                                    "name":  "AP — 오만·이란 해협 기술협상과 실질적 폐쇄 상태",
-                                                                    "url":  "https://apnews.com/article/d491158a4c9a1d3429a87a6ed58f2f72"
-                                                                },
-                                                                {
-                                                                    "name":  "FinancialJuice — 이란의 조건부 공격 중단 재확인",
-                                                                    "url":  "https://www.financialjuice.com/News/9694064/Iran-will-stop-attacks-if-US-keeps-recent-pause---Senior-Iranian-source.aspx"
-                                                                },
-                                                                {
-                                                                    "name":  "Bloomberg Markets Wrap 03:59 UTC — 유가 하락·채권 상승·BTC 0.9% 상승",
-                                                                    "url":  "https://www.swissinfo.ch/eng/oil-declines%2C-bonds-rally-as-us-iran-tensions-ease%3A-markets-wrap/91802639"
-                                                                },
-                                                                {
-                                                                    "name":  "Bloomberg Government — 공격 중단 연장과 오만의 호르무즈 협상",
-                                                                    "url":  "https://news.bgov.com/bloomberg-government-news/us-iran-extend-pause-in-strikes-as-oman-holds-hormuz-talks-1"
-                                                                }
-                                                            ],
-                                      "context":  [
-                                                      {
-                                                          "name":  "AP — 유가 하락 후속 보도",
-                                                          "url":  "https://apnews.com/article/2fdef9c0b59d90367206d103f0939d30"
-                                                      },
-                                                      {
-                                                          "name":  "Axios — 트럼프의 대이란 공격 중단 지시",
-                                                          "url":  "https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes"
-                                                      },
-                                                      {
-                                                          "name":  "Bloomberg Markets Wrap 재배포 — BTC 1.1% 상승·주가지수 선물 강세",
-                                                          "url":  "https://www.swissinfo.ch/eng/oil-dips%2C-stock-futures-rise-as-iran-tensions-ease%3A-markets-wrap/91802639"
-                                                      }
-                                                  ]
-                                  },
-                      "verification":  {
-                                           "state":  "cross_verified_market_reaction",
-                                           "independent_sources":  3,
-                                           "financialjuice_only":  false,
-                                           "rumor_excluded":  true,
-                                           "notes":  "AP와 Reuters가 상호 공격 중단을 확인했고 Reuters와 AP가 유가 하락을, Reuters가 달러 약세를 후속 보도했다. Bloomberg 시장 요약에서 BTC 약 1.1% 상승도 확인됐다. 한편 AP와 Bloomberg는 오만·이란의 호르무즈 기술협상 진행을 확인했다. FinancialJuice의 바가이 발언은 협상 진전과 해협의 실질적 폐쇄 유지가 동시에 존재한다는 점을 보여주는 중요 업데이트다.",
-                                           "trump_separation":  {
-                                                                    "statement":  "트럼프는 외교에 시간을 주기 위해 이란 공격을 중단했다고 미 당국자들이 설명했다.",
-                                                                    "policy_action":  "미군의 대이란 공습이 이틀째 실제로 중단됐다.",
-                                                                    "market_interpretation":  "유가 5% 이상 하락과 달러 약세는 시장이 단기적으로 지정학적·인플레이션 위험 감소를 반영했다는 뜻이며 BTC에는 우호적이다."
-                                                                }
-                                       },
-                      "published_at":  "2026-07-27T02:32:00Z",
-                      "kst":  "2026-07-27 11:32:00 KST",
-                      "tone":  "up",
-                      "impact":  "호재"
-                  },
-                  {
-                      "stable_id":  "2026-07-27-cme-fedwatch-july-hike-odds-36-3",
-                      "status":  "verified",
-                      "published_at_kst":  "2026-07-27T11:32:00+09:00",
-                      "source_time":  "2026-07-27T02:32:00Z",
-                      "title":  "CME FedWatch, 7월 연준 25bp 인상 확률 36.3%…유가 하락 호재 상쇄 변수",
-                      "summary":  "Reuters가 인용한 CME FedWatch에 따르면 7월 28~29일 FOMC에서 25bp 금리 인상 확률은 36.3%, 동결 확률은 약 63.7%다. 7월 14일 물가 지표 직후 인상 확률이 약 10%까지 떨어졌던 것과 비교하면 긴축 위험이 다시 크게 높아졌다. 최근 유가 하락은 인플레이션 부담을 낮추지만, 워시 의장의 정책 방향이 불분명하고 이란 재확전이 연준 블랙아웃 기간에 발생해 불확실성이 여전히 크다.",
-                      "importance":  4,
-                      "btc_impact":  {
-                                         "direction":  "양방향",
-                                         "assessment":  "이란 긴장 완화와 유가·달러 하락은 BTC에 호재지만, 36.3%의 깜짝 인상 확률은 위험자산의 상단을 제한한다. 동결과 비둘기파적 설명이면 BTC 상승이 확대될 수 있으나 25bp 인상 또는 매파적 기자회견이면 급락·청산 위험이 크다."
-                                     },
-                      "why_it_matters":  "BTC는 현재 지정학 호재보다 FOMC 결과에 더 민감해질 구간이다. 동결이 기본 시나리오지만 인상 확률이 3분의 1을 넘으면 시장은 한쪽으로 안심할 수 없고, 옵션·선물 포지션의 양방향 변동성이 커진다.",
-                      "missed_point":  "유가가 하루 하락했다고 연준이 즉시 안심하는 것은 아니다. 정책위원들은 이미 누적된 에너지 충격과 관세·서비스 물가를 함께 본다. 따라서 유가 하락과 채권 강세가 BTC에 호재여도, 회의 전까지는 인상 꼬리위험이 사라지지 않는다.",
-                      "follow_up":  [
-                                        "2026-07-30 03:00 KST FOMC 금리 결정",
-                                        "2026-07-30 03:30 KST 케빈 워시 연준 의장 기자회견",
-                                        "회의 직전 CME FedWatch 인상 확률 변화",
-                                        "미 2년물 국채금리·달러지수와 BTC 65,000달러 유지 여부"
-                                    ],
-                      "sources":  {
-                                      "official":  [
-                                                       {
-                                                           "name":  "CME FedWatch",
-                                                           "url":  "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html"
-                                                       }
-                                                   ],
-                                      "primary_reporting":  [
-                                                                {
-                                                                    "name":  "Reuters — 7월 인상 확률 36.3%, BTC 0.9% 상승",
-                                                                    "url":  "https://live.euronext.com/en/financial-news/dollar-pulls-back-us-iran-attacks-pause-oil-drops"
-                                                                },
-                                                                {
-                                                                    "name":  "Reuters — 아시아 주식·채권 반등과 FOMC 불확실성",
-                                                                    "url":  "https://au.investing.com/news/stock-market-news/shares-bonds-bounce-as-oil-skid-offers-inflation-relief-4552818"
-                                                                }
-                                                            ],
-                                      "context":  [
-                                                      {
-                                                          "name":  "Kiplinger — 7월 24일 동결 64.2%, 인상 약 35.8%",
-                                                          "url":  "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
-                                                      },
-                                                      {
-                                                          "name":  "Reuters — 7월 14일 인상 확률 약 10%",
-                                                          "url":  "https://www.marketscreener.com/news/traders-expect-fed-to-skip-july-rate-hike-as-inflation-cools-ce7f5eddd98cf627"
-                                                      }
-                                                  ]
-                                  },
-                      "verification":  {
-                                           "state":  "cross_verified",
-                                           "independent_sources":  3,
-                                           "financialjuice_only":  false,
-                                           "rumor_excluded":  true,
-                                           "notes":  "CME FedWatch 기반 수치를 Reuters가 보도했고 Kiplinger의 7월 24일 수치와도 일치한다. 7월 14일 Reuters 보도와 비교해 인상 확률의 재상승을 확인했다.",
-                                           "trump_separation":  {
-                                                                    "statement":  "해당 없음",
-                                                                    "policy_action":  "연준은 아직 결정을 발표하지 않았으며 현재 수치는 선물시장 확률이다.",
-                                                                    "market_interpretation":  "동결이 우세하지만 36.3% 인상 확률은 BTC에 무시하기 어려운 매파적 꼬리위험이다."
-                                                                }
-                                       },
-                      "published_at":  "2026-07-27T02:32:00Z",
-                      "kst":  "2026-07-27 11:32:00 KST",
-                      "tone":  "warn",
-                      "impact":  "양방향"
-                  },
-                  {
-                      "stable_id":  "2026-07-26-f9043acf278d",
-                      "original_title":  "Oil tanker explodes after hitting mine in Strait of Hormuz",
-                      "published_at":  "2026-07-26T21:29:00Z",
-                      "sources":  [
-                                      {
-                                          "name":  "The New Voice of Ukraine",
-                                          "url":  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnBLUnpGcEtxRXVjNm1ESDRxWXNHZlVqeEZPTjlCdVBoWU5DWTNQckcwa1J1WWZxRVh2NnRDYTRyMHFCbDF0eU1kMmNweWJhdjF1MDJycjBxQ0Y2N1MzeG1XX1BYRm9nYS1zUGFTaHYybHFxbm43WU9jTHp1cWZkZ05mS20zWElwX05OTnBubEFMeHRoQTQyYmo3NklyNmpwZFAzLUU1cmtMSy1SOFdaTHl3ZkJDWU1NV2g1T1NBRG_SAbwBQVVfeXFMTndGcnNNMVV3TWt0X0xyMjRCNmM2cGx5N0QtQzdBS0FGVEJScllfLUhhOEJESnNJSUxsUjhCQTBzWlpHaV9KU2VYcm1OXzdhT01TZzBjdWRHU292b2dJQWFXZXZFM1pheDJqbXhaX19SeVZFUTNkQi03eXJ0dExlS3hOQmc2c2tmSkFuZEJhaWFNLUNOaU1sVkoyWTlnQUl6aG9Od1JRdE1NcDdrcUw1ZXFHXzRxM2tMRmRxbHg?oc=5"
-                                      },
-                                      {
-                                          "name":  "The Jerusalem Post",
-                                          "url":  "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bGtET0Y0WWNWM0VDTl9xRVhRUnNFMi1Ccjc5NjVmZU5vamhWLWozelUzcF95Q1RjQ25CNW5DUl80c3hZV3dieHlhT3YzY2N1VFJKS09tanp6M3daNHllTXVPSGhUamJiS1E?oc=5"
-                                      },
-                                      {
-                                          "name":  "ANI News",
-                                          "url":  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYWUtN3Y0QTgzak15TVAyRGpSU1RBa254TVNQdlBfNjc1ZTJXQ1RWbmRqbzE0aWcxT2tVZ01ueEZ1YVotbGYxcGdMajZOQXRGb0hCdWlzMFdOM2JLbEc3dkxjT0Z0aTNjTjNUcVR6eW0zeU9wcEZEOXNZUV9PUS03b3R3ZkFIcnZDSDNPMWVVZkZHRTQzbVBNLU1aTUxSUEFISV9mNVp5eDZmbkt3cDkzQUxCazdmMU1WdkppeExwdjdla1NsU2ZtVW9rM2NxZElmQWJUVQ?oc=5"
-                                      },
-                                      {
-                                          "name":  "Al Arabiya English",
-                                          "url":  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTlXeEQ0RHRQd3RyTVUySEg4a09qZThyYnNVdnFiYmI5d2IzVUNlS3RKNmRINGJuUlppc1dvb18wcTFEbmpQT1NXSFJnWUp0Nmg0WU1GM08wY3lKVUVkNnE1LW4xRFZDU3VsR3l2VG5jUDdCUUpVMVUtQ3FGSkZFbjlRNklWTFhZRS1IZVpQNkxwclhaQ3N5d0hrd09hdlRNR0pKNXVLbWgweUc4WmhiU1ZsR2hycWlYS0o5NnpEald1ZjZzTVRFZ2hUWU1xT2vSAc8BQVVfeXFMTmk5V3hENER0UHd0ck1VMkhIOGtPamU4cmJzVXZxYmJiOXdiM1VDZUt0SjZkSDRiblJaaXNXb29fMHExRG5qUE9TV0hSZ1lKdDZoNFlNRjNPMGN5SlVFZDZxNS1uMURWQ1N1bEd5dlRuY1A3QlFKVTFVLUNxRkpGRW45UTZJVkxYWUUtSGVaUDZMcHJYWkNzeXdIa3dPYXZUTUdKSjV1S21oMHlHOFpoYlNWbEdocnFpWEtKOTZ6RGpXdWY2c01URWdoVFlNcU9r?oc=5"
-                                      }
-                                  ],
-                      "title":  "호르무즈 해협에서 유조선, 기뢰 충돌 후 폭발",
-                      "summary":  "호르무즈 해협에서 한 유조선이 기뢰와 충돌한 후 폭발하는 사건이 발생했습니다. 이 지역은 세계 원유 운송의 핵심 경로로, 사고는 글로벌 에너지 공급망에 직접적인 영향을 줄 수 있습니다. 여러 매체가 이 사건을 보도했으며, 사고의 원인과 배후에 대한 구체적 정보는 아직 공개되지 않았습니다. 유조선 폭발로 인한 원유 공급 차질 가능성이 제기되고 있습니다. 지역 긴장감이 다시 높아질 수 있다는 우려도 있습니다.",
-                      "importance":  5,
-                      "tone":  "warn",
-                      "btc_impact":  {
-                                         "direction":  "양방향",
-                                         "assessment":  "원유 공급망의 불안정은 글로벌 금융시장에 불확실성을 높입니다. 비트코인은 전통 자산과 달리 위험회피 수단으로 활용될 수 있으나, 에너지 가격 급등은 인플레이션 압력을 높여 전체 시장에 부정적 영향을 줄 수 있습니다. 단기적으로 비트코인에 대한 수요가 증가할 수 있지만, 시장 전반의 불안정성은 투자 심리를 위축시킬 수도 있습니다."
-                                     },
-                      "why_it_matters":  "호르무즈 해협은 세계 원유 공급의 30% 이상이 통과하는 전략적 요충지입니다. 이 지역에서 발생한 사고는 글로벌 에너지 가격과 금융시장에 즉각적인 영향을 미칩니다. 비트코인 투자자들은 지정학적 리스크와 에너지 가격 변동에 민감하게 반응할 수밖에 없습니다.",
-                      "missed_point":  "폭발의 정확한 원인과 배후에 대한 정보가 부족합니다. 사고 이후 국제 사회 및 관련국의 대응, 추가적인 공급망 차질 가능성에 대한 분석이 미흡합니다.",
-                      "follow_up":  [
-                                        "폭발의 원인 및 배후 조사 결과 확인",
-                                        "원유 공급망 차질 및 가격 변동 추이 분석",
-                                        "비트코인 및 글로벌 금융시장 반응 모니터링"
-                                    ],
-                      "verification":  {
-                                           "state":  "확인됨",
-                                           "independent_sources":  [
-                                                                       "The New Voice of Ukraine",
-                                                                       "The Jerusalem Post",
-                                                                       "ANI News",
-                                                                       "Al Arabiya English"
-                                                                   ],
-                                           "notes":  "여러 매체에서 동일 사건 보도, 세부 정보는 추가 확인 필요."
-                                       },
-                      "kst":  "2026-07-27 06:29:00 KST",
-                      "status":  "확인됨",
-                      "impact":  "양방향"
-                  },
-                  {
-                      "stable_id":  "2026-07-26-c66c9cd1da23",
-                      "original_title":  "Rising inflation turns July Fed meeting into rate-hike showdown",
-                      "published_at":  "2026-07-26T20:55:00Z",
-                      "sources":  [
-                                      {
-                                          "name":  "Forex Factory",
-                                          "url":  "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUF5WnVOd2xSMUZsdmVKMGJHZXVpZE4wUTBIUkdZbFlpbWVGaWVxWDd3b28zM09KSHk4eVpEMnhZRHVFU05uNjZTbldMaUpVcGNSTFBVRnA0eWRDUjZYUWNlU3BWOUZvbUFieHE3MW04WEd4NkN5VFJJbDZfYWV6X29UWkM3VlFqb05nWVY5TC12ZDZ1YnhlNGxVVnbSAaIBQVVfeXFMTmhpelc0eHplUzVaRDJXZ3JaWVk5Z3pNSVJ2WTF0M1hBWUwzai1ncjZGaldxUHMzZGt6YndzUkp2MDdmd3dzUUNpUG1jZFI5d0NrT01ScWRWbkFaUEtmOTI0alFBWXN0Q2RYanVTNmQ0elNHYmgxSUdoTGV5UkJLR1VpaFducV9kOWY5RlM3S041ZmswbzZocnlxNEJvN0ticWl3?oc=5"
-                                      },
-                                      {
-                                          "name":  "AOL.com",
-                                          "url":  "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUd4SmpnLWJLaFM4WURwcmFkMVdrYUdiTVEtUDJyRkJfbWQyb2RZX2EzOThTMlhMWG1qemFhb1dYM21DT1dIZHlLdUt3OXZ0UC1EVDNobHBUV3g4ZFpXUDUxRTZweVNTbHNlS2pfSEhaSWpOOWpsTDViWGxaU3RGUmhn?oc=5"
-                                      }
-                                  ],
-                      "title":  "인플레이션 상승, 7월 연준 회의 금리 인상 대결로",
-                      "summary":  "최근 인플레이션 상승으로 인해 7월 연방준비제도(Fed) 회의가 금리 인상 여부를 둘러싼 주요 대결의 장이 되고 있습니다. 시장에서는 연준이 인플레이션 억제를 위해 추가 금리 인상을 단행할지 여부에 촉각을 곤두세우고 있습니다. 금리 인상은 달러 강세와 위험자산 약세를 유발할 수 있습니다. 투자자들은 연준의 결정에 따라 금융시장 전반의 변동성을 예상하고 있습니다. 비트코인 역시 금리 인상에 민감하게 반응할 가능성이 높습니다.",
-                      "importance":  5,
-                      "tone":  "warn",
-                      "btc_impact":  {
-                                         "direction":  "악재",
-                                         "assessment":  "금리 인상은 위험자산에 대한 투자 심리를 위축시키며, 비트코인 가격에도 부정적 영향을 줄 수 있습니다. 달러 강세와 유동성 축소는 비트코인 수요를 감소시킬 수 있습니다. 단기적으로 비트코인 가격 하락 압력이 커질 수 있으나, 장기적으로는 인플레이션 헤지 수단으로서의 역할이 부각될 수 있습니다."
-                                     },
-                      "why_it_matters":  "연준의 금리 정책은 글로벌 금융시장에 직접적인 영향을 미치며, 비트코인 등 위험자산의 가격 변동성에 큰 영향을 줍니다. 인플레이션이 지속된다면 투자자들은 안전자산과 헤지 수단을 모색할 수밖에 없습니다. 비트코인 시장의 단기적 변동성 확대가 예상됩니다.",
-                      "missed_point":  "연준 내부의 구체적 논의와 금리 인상 가능성에 대한 전망이 부족합니다. 인플레이션의 원인과 향후 전망, 비트코인 투자자들의 대응 전략에 대한 정보가 미흡합니다.",
-                      "follow_up":  [
-                                        "연준의 금리 인상 결정 여부 및 발표 내용 확인",
-                                        "금리 인상 후 비트코인 및 금융시장 반응 분석",
-                                        "인플레이션 지속 여부와 시장 전망 조사"
-                                    ],
-                      "verification":  {
-                                           "state":  "확인됨",
-                                           "independent_sources":  [
-                                                                       "Forex Factory",
-                                                                       "AOL.com"
-                                                                   ],
-                                           "notes":  "두 매체에서 인플레이션과 연준 회의 관련 보도 확인."
-                                       },
-                      "kst":  "2026-07-27 05:55:00 KST",
-                      "status":  "확인됨",
-                      "impact":  "악재"
-                  },
-                  {
-                      "stable_id":  "2026-07-26-db10976476fb",
-                      "original_title":  "Lawsuit claims 3.8M dormant BTC using police lost-and-found rules as Congress races to stop it with CLARITY",
-                      "published_at":  "2026-07-26T19:04:08Z",
-                      "sources":  [
-                                      {
-                                          "name":  "CryptoRank",
-                                          "url":  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3A0LUNmck1BbHBPcnpmWW5VdHFROTNtZTRrM29JN1RZbnRqeWZzVXJlOEJ0aTFhS2l5UWZZTmN1cE9fQlktQXB0VmlLbzdDLUtvbzYwbG5UVjJmbjFCWDBLSWdkOWxiZnFOVUNaYjZRTnh2MUk1NmVmbHpRczFJb2VqbjY5T3V4NDRHRGlFWXpmd3JpZlBpZ2x2VXVfUTY2b0l3VXNMWk1xLXZyenlVVmFtVlM?oc=5"
-                                      },
-                                      {
-                                          "name":  "CryptoSlate",
-                                          "url":  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTc0enpULUhCUVlPXy1mNGNzYWNyMnV0aXhERWZoZGVqVThDWkU4aGdDZjF2ZE5kX3ZGeWVYNlRkQ0R1cHQtYmlIS184Q1RsODJwTm9QZm5aakFXd2gyVmVJdVlaYjQxMWhRcHNTUlItVzJWVktwdEJvb1JYMzVEZm52a3hOYk9GSGxNNFFYbFdLN0FJU0t2bUQwNHloMlZRc0dR?oc=5"
-                                      }
-                                  ],
-                      "title":  "소송, 380만 비트코인 휴면 자산 경찰 분실물 규정 적용 주장…의회 CLARITY로 저지 시도",
-                      "summary":  "380만 비트코인에 달하는 휴면 자산에 대해 경찰 분실물 규정을 적용하려는 소송이 제기되었습니다. 이에 미국 의회는 CLARITY 법안을 통해 이를 저지하려고 서두르고 있습니다. 해당 소송은 비트코인 소유권과 법적 해석에 대한 새로운 논란을 촉발하고 있습니다. 만약 경찰 분실물 규정이 적용된다면, 대규모 비트코인 이동 및 시장 혼란이 발생할 수 있습니다. 의회의 대응이 비트코인 시장의 안정성에 중요한 변수로 작용할 전망입니다.",
-                      "importance":  5,
-                      "tone":  "warn",
-                      "btc_impact":  {
-                                         "direction":  "양방향",
-                                         "assessment":  "휴면 비트코인에 대한 법적 해석 변화는 시장에 큰 충격을 줄 수 있습니다. 대규모 비트코인 이동이 현실화되면 가격 변동성이 급격히 커질 수 있습니다. 의회의 신속한 대응이 시장 안정에 도움이 될 수 있지만, 법적 불확실성은 투자 심리를 위축시킬 수 있습니다."
-                                     },
-                      "why_it_matters":  "비트코인 소유권과 법적 해석은 시장의 신뢰와 안정성에 직결되는 문제입니다. 휴면 자산이 대규모로 이동하거나 법적 분쟁이 발생하면 시장 혼란이 불가피합니다. 의회의 대응과 법적 판결이 비트코인 시장의 중장기적 방향성을 결정할 수 있습니다.",
-                      "missed_point":  "소송의 구체적 내용과 법적 근거, CLARITY 법안의 주요 조항에 대한 정보가 부족합니다. 휴면 비트코인 소유자들의 입장과 시장 참여자들의 반응에 대한 분석이 미흡합니다.",
-                      "follow_up":  [
-                                        "소송의 법적 근거 및 판결 전망 확인",
-                                        "CLARITY 법안의 주요 내용과 의회 통과 여부",
-                                        "비트코인 시장 내 휴면 자산 이동 가능성 및 투자자 반응 분석"
-                                    ],
-                      "verification":  {
-                                           "state":  "확인됨",
-                                           "independent_sources":  [
-                                                                       "CryptoRank",
-                                                                       "CryptoSlate"
-                                                                   ],
-                                           "notes":  "두 암호화폐 전문 매체에서 동일 사안 보도, 세부 내용은 추가 확인 필요."
-                                       },
-                      "kst":  "2026-07-27 04:04:08 KST",
-                      "status":  "확인됨",
-                      "impact":  "양방향"
-                  },
-                  {
-                      "stable_id":  "2026-07-26-dabcab79004d",
-                      "original_title":  "Two Central Banks Decide Interest Rates Next Week: What It Means for Bitcoin",
-                      "published_at":  "2026-07-26T11:52:12Z",
-                      "sources":  [
-                                      {
-                                          "name":  "Bitget",
-                                          "url":  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qcmM3WmZaYnVPRWE1bVQ5d2ZvdGlpZ3VZbmRBNjlFUjJJZ0dHbDNtcW0wNHZ0STVIVmxWdnRJcG9DZkFPdEN2U2tNblpXQ0UwMDdCeXZxbUhNUEwwN2hZSDN0ONIBY0FVX3lxTE5qcmM3WmZaYnVPRWE1bVQ5d2ZvdGlpZ3VZbmRBNjlFUjJJZ0dHbDNtcW0wNHZ0STVIVmxWdnRJcG9DZkFPdEN2U2tNblpXQ0UwMDdCeXZxbUhNUEwwN2hZSDN0OA?oc=5"
-                                      },
-                                      {
-                                          "name":  "BeInCrypto",
-                                          "url":  "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ya3FOQXplaFU5Yl9kOHNFdFBSOGpNaTNHX1FKVHNCSDBSWnBuYzlDQy1OekJuX1ZYMG9pTDZENVlkTjhJMkVNQVMxRGdjNEgwTFBrM2tOTHRDUjk0R1NKdk1FWkM2Z09Ca1BvX3dB?oc=5"
-                                      }
-                                  ],
-                      "title":  "다음 주 두 중앙은행 금리 결정…비트코인에 미칠 영향은?",
-                      "summary":  "다음 주 두 개의 중앙은행이 기준금리 결정을 앞두고 있다. 이 결정은 비트코인 시장에 중요한 영향을 미칠 수 있다. 중앙은행의 금리 정책은 글로벌 유동성과 위험자산에 대한 투자 심리에 직접적인 변화를 유발한다. 투자자들은 금리 인상, 동결, 인하 등 다양한 시나리오에 따라 비트코인 포지션을 조정할 가능성이 높다. 특히, 주요국 중앙은행의 정책 변화는 암호화폐 시장의 변동성을 증폭시킬 수 있다.",
-                      "importance":  4,
-                      "tone":  "warn",
-                      "btc_impact":  {
-                                         "direction":  "양방향",
-                                         "assessment":  "중앙은행의 금리 인상은 비트코인에 단기적으로 악재가 될 수 있으나, 동결이나 인하 시에는 호재로 작용할 수 있다. 투자자들은 정책 발표 전까지 관망세를 유지할 가능성이 높다. 정책 결과에 따라 비트코인 가격이 급격히 변동할 수 있으므로 주의가 필요하다."
-                                     },
-                      "why_it_matters":  "중앙은행의 금리 결정은 글로벌 금융시장의 방향성을 결정짓는 핵심 변수다. 비트코인은 전통 금융시장과의 상관성이 높아진 상황에서 이러한 거시 이벤트에 민감하게 반응한다. 이번 결정은 단기적인 가격 변동뿐 아니라, 중장기 투자 전략에도 영향을 줄 수 있다.",
-                      "missed_point":  "어떤 중앙은행이 금리 결정을 내리는지, 그리고 시장의 예상 컨센서스가 무엇인지에 대한 정보가 부족하다. 또한, 과거 유사한 이벤트에서 비트코인 가격이 어떻게 반응했는지에 대한 데이터가 제시되지 않았다.",
-                      "follow_up":  [
-                                        "금리 결정을 내리는 두 중앙은행의 명확한 확인",
-                                        "시장 컨센서스 및 예상 시나리오 파악",
-                                        "비트코인 가격의 과거 금리 이벤트 반응 분석"
-                                    ],
-                      "verification":  {
-                                           "state":  "확인됨",
-                                           "independent_sources":  [
-                                                                       "Bitget",
-                                                                       "BeInCrypto"
-                                                                   ],
-                                           "notes":  "두 매체에서 동일 이슈를 다룸."
-                                       },
-                      "kst":  "2026-07-26 20:52:12 KST",
-                      "status":  "확인됨",
-                      "impact":  "양방향"
-                  }
-              ]
+  "generated_at_kst": "2026-07-27T18:30:33+09:00",
+  "items": [
+    {
+      "stable_id": "2026-07-27-iran-hormuz-status-unchanged-talks-continue",
+      "status": "cross_verified_follow_up",
+      "published_at_kst": "2026-07-27T16:57:00+09:00",
+      "source_time": "2026-07-27T07:57:00Z",
+      "published_at": "2026-07-27T07:57:00Z",
+      "kst": "2026-07-27 16:57:00 KST",
+      "title": "이란 “호르무즈 해협 상태 변함없어”…미국 핵협상·오만 기술협상은 계속",
+      "summary": "이란 외무부 대변인 에스마일 바가이는 호르무즈 해협의 상황이 변하지 않았으며 실질적인 폐쇄 상태가 계속되고 있다고 밝혔다. 동시에 이란과 오만의 해협 관리 관련 기술협상은 긍정적으로 진행됐고 협상도 계속될 것이라고 설명했다. 미국과의 핵협상 역시 이어지고 있다고 밝혔지만, 이란은 미국이 대화를 요청한 적이 없다는 입장을 내놨다. 또한 미국이 최근 공격 중단을 유지하는 동안 이란도 공격을 멈추겠다는 조건부 방침을 재확인했다. 이는 외교 채널은 열려 있지만 핵심 에너지 수송로가 실제로 정상화된 것은 아니라는 새로운 후속 신호다.",
+      "importance": 5,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "공격 중단과 협상 지속은 지정학적 위험 완화 측면에서 BTC에 우호적이다. 반면 호르무즈 해협의 실질적 폐쇄가 계속되면 원유 공급 불안과 유가 재상승 위험이 남아 물가·금리 경로를 통해 BTC를 압박할 수 있다. 따라서 협상 발언보다 실제 통항량 회복 여부가 다음 방향을 결정할 가능성이 높다."
+      },
+      "why_it_matters": "오전 시장은 공격 중단을 반영해 유가 하락과 위험자산 반등을 보였지만, 오후 발언은 해협 정상화가 아직 이뤄지지 않았음을 확인했다. 호르무즈 통항 차질이 이어지면 유가 하락이 되돌려지고 인플레이션 및 연준 긴축 우려가 다시 커질 수 있다. 기존 호재 평가를 제한하는 새로운 후속 정보이므로 별도 뉴스로 확인할 필요가 있다.",
+      "missed_point": "‘협상이 긍정적’이라는 표현과 ‘해협이 개방됐다’는 의미는 전혀 다르다. 실제 선박 통항과 보험료, 브렌트유 가격이 정상화되지 않는다면 외교적 발언만으로 에너지 위험이 해소됐다고 판단하기 어렵다.",
+      "follow_up": [
+        "호르무즈 해협 실제 선박 통항량 회복 여부",
+        "이란·오만 기술협상의 합의문 또는 통항 지침 발표 여부",
+        "미국·이란 공식 협상 일정과 공격 중단 연장 여부",
+        "브렌트유·WTI 및 미국 기대인플레이션 반응"
+      ],
+      "sources": {
+        "primary_reporting": [
+          {
+            "name": "AP — 해협 상태 유지·오만 기술협상",
+            "url": "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
+          },
+          {
+            "name": "FinancialJuice — 이란 외무부 대변인 후속 발언",
+            "url": "https://www.financialjuice.com/"
+          }
+        ]
+      },
+      "verification": {
+        "state": "cross_verified_follow_up",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "notes": "FinancialJuice 속보의 핵심 내용인 오만과의 기술협상 지속과 호르무즈 해협 상태 불변은 AP의 당일 보도로 교차 확인했다. 공격 중단과 협상 지속은 완화 신호지만 실제 해협 개방은 확인되지 않았다."
+      }
+    },
+    {
+      "stable_id": "2026-07-26-us-iran-mutual-strike-pause-day2",
+      "status": "verified_market_reaction",
+      "published_at_kst": "2026-07-27T11:32:00+09:00",
+      "source_time": "2026-07-27T02:32:00Z",
+      "title": "미국·이란 상호 공격 중단 이틀째 유지…유가 5% 하락·달러 약세",
+      "summary": "미국은 이란 공습을 이틀째 중단했고 이란도 미국이 공격을 재개하지 않는 동안 공격을 멈추겠다고 재확인했다. 이후 아시아 거래에서 국제유가는 5% 넘게 하락하고 달러도 주요 통화 대비 약세를 보였다. Bloomberg 시장 요약에서는 같은 흐름 속 비트코인이 약 1.1% 상승해 65,301달러 부근을 기록한 것으로 집계됐다. 공격 중단은 공식 휴전이 아닌 조건부 조치이므로 협상 결렬이나 공습 재개 가능성은 남아 있다.",
+      "importance": 5,
+      "btc_impact": {
+        "direction": "호재",
+        "assessment": "유가 하락은 미국의 인플레이션 재가속과 연준 추가 긴축 우려를 낮추고, 달러 약세는 비트코인을 포함한 위험자산의 금융여건을 완화한다. 다만 정식 휴전이 아니라 조건부 공격 중단이므로 협상 결렬이나 공습 재개 시 되돌림 위험이 크다. 실제로 BTC가 약 1.1% 상승하며 65,300달러대를 기록해 단기 호재 경로가 가격으로도 확인됐다."
+      },
+      "why_it_matters": "BTC의 핵심 경로는 전쟁 헤드라인 자체보다 전쟁→유가→물가 기대→연준→달러·금리다. 이번에는 유가와 달러가 동시에 하락해 이 경로가 실제 시장 가격으로 확인됐다. 채권 강세까지 동반되면서 유가↓→인플레이션 우려↓→금리↓→BTC 우호적이라는 전달 경로가 한 단계 더 확인됐다.",
+      "missed_point": "이번 조치는 정식 휴전 협정이 아니라 상호 조건부 공격 중단이다. 외교 일정이 확정되지 않거나 공격이 재개되면 유가 하락과 BTC 상승이 빠르게 되돌려질 수 있다.",
+      "follow_up": [
+        "미국·이란 공식 휴전 또는 협상 일정 발표 여부",
+        "호르무즈 해협 통항량과 미국의 이란 항만 봉쇄 변화",
+        "브렌트유·WTI 하락폭 유지 여부와 미 국채금리·달러 반응",
+        "2026-07-30 03:00 KST FOMC 결정 및 03:30 KST 기자회견"
+      ],
+      "sources": {
+        "official": [
+          {
+            "name": "White House 입장 인용 AP",
+            "url": "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
+          }
+        ],
+        "primary_reporting": [
+          {
+            "name": "Reuters — 달러 약세·유가 하락 시장 반응",
+            "url": "https://live.euronext.com/en/financial-news/dollar-pulls-back-us-iran-attacks-pause-oil-drops"
+          },
+          {
+            "name": "Reuters — 유가 5% 하락",
+            "url": "https://ca.marketscreener.com/news/oil-slips-5-after-us-iran-pause-fighting-over-weekend-ce7f51dcd88dff27"
+          },
+          {
+            "name": "AP — 미국·이란 공격 중단 이틀째",
+            "url": "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
+          },
+          {
+            "name": "AP — 오만·이란 해협 기술협상과 실질적 폐쇄 상태",
+            "url": "https://apnews.com/article/d491158a4c9a1d3429a87a6ed58f2f72"
+          },
+          {
+            "name": "FinancialJuice — 이란의 조건부 공격 중단 재확인",
+            "url": "https://www.financialjuice.com/News/9694064/Iran-will-stop-attacks-if-US-keeps-recent-pause---Senior-Iranian-source.aspx"
+          },
+          {
+            "name": "Bloomberg Markets Wrap 03:59 UTC — 유가 하락·채권 상승·BTC 0.9% 상승",
+            "url": "https://www.swissinfo.ch/eng/oil-declines%2C-bonds-rally-as-us-iran-tensions-ease%3A-markets-wrap/91802639"
+          },
+          {
+            "name": "Bloomberg Government — 공격 중단 연장과 오만의 호르무즈 협상",
+            "url": "https://news.bgov.com/bloomberg-government-news/us-iran-extend-pause-in-strikes-as-oman-holds-hormuz-talks-1"
+          }
+        ],
+        "context": [
+          {
+            "name": "AP — 유가 하락 후속 보도",
+            "url": "https://apnews.com/article/2fdef9c0b59d90367206d103f0939d30"
+          },
+          {
+            "name": "Axios — 트럼프의 대이란 공격 중단 지시",
+            "url": "https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes"
+          },
+          {
+            "name": "Bloomberg Markets Wrap 재배포 — BTC 1.1% 상승·주가지수 선물 강세",
+            "url": "https://www.swissinfo.ch/eng/oil-dips%2C-stock-futures-rise-as-iran-tensions-ease%3A-markets-wrap/91802639"
+          }
+        ]
+      },
+      "verification": {
+        "state": "cross_verified_market_reaction",
+        "independent_sources": 3,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "notes": "AP와 Reuters가 상호 공격 중단을 확인했고 Reuters와 AP가 유가 하락을, Reuters가 달러 약세를 후속 보도했다. Bloomberg 시장 요약에서 BTC 약 1.1% 상승도 확인됐다. 한편 AP와 Bloomberg는 오만·이란의 호르무즈 기술협상 진행을 확인했다. FinancialJuice의 바가이 발언은 협상 진전과 해협의 실질적 폐쇄 유지가 동시에 존재한다는 점을 보여주는 중요 업데이트다.",
+        "trump_separation": {
+          "statement": "트럼프는 외교에 시간을 주기 위해 이란 공격을 중단했다고 미 당국자들이 설명했다.",
+          "policy_action": "미군의 대이란 공습이 이틀째 실제로 중단됐다.",
+          "market_interpretation": "유가 5% 이상 하락과 달러 약세는 시장이 단기적으로 지정학적·인플레이션 위험 감소를 반영했다는 뜻이며 BTC에는 우호적이다."
+        }
+      },
+      "published_at": "2026-07-27T02:32:00Z",
+      "kst": "2026-07-27 11:32:00 KST",
+      "tone": "up",
+      "impact": "호재"
+    },
+    {
+      "stable_id": "2026-07-27-cme-fedwatch-july-hike-odds-36-3",
+      "status": "verified",
+      "published_at_kst": "2026-07-27T11:32:00+09:00",
+      "source_time": "2026-07-27T02:32:00Z",
+      "title": "CME FedWatch, 7월 연준 25bp 인상 확률 36.3%…유가 하락 호재 상쇄 변수",
+      "summary": "Reuters가 인용한 CME FedWatch에 따르면 7월 28~29일 FOMC에서 25bp 금리 인상 확률은 36.3%, 동결 확률은 약 63.7%다. 7월 14일 물가 지표 직후 인상 확률이 약 10%까지 떨어졌던 것과 비교하면 긴축 위험이 다시 크게 높아졌다. 최근 유가 하락은 인플레이션 부담을 낮추지만, 워시 의장의 정책 방향이 불분명하고 이란 재확전이 연준 블랙아웃 기간에 발생해 불확실성이 여전히 크다.",
+      "importance": 4,
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "이란 긴장 완화와 유가·달러 하락은 BTC에 호재지만, 36.3%의 깜짝 인상 확률은 위험자산의 상단을 제한한다. 동결과 비둘기파적 설명이면 BTC 상승이 확대될 수 있으나 25bp 인상 또는 매파적 기자회견이면 급락·청산 위험이 크다."
+      },
+      "why_it_matters": "BTC는 현재 지정학 호재보다 FOMC 결과에 더 민감해질 구간이다. 동결이 기본 시나리오지만 인상 확률이 3분의 1을 넘으면 시장은 한쪽으로 안심할 수 없고, 옵션·선물 포지션의 양방향 변동성이 커진다.",
+      "missed_point": "유가가 하루 하락했다고 연준이 즉시 안심하는 것은 아니다. 정책위원들은 이미 누적된 에너지 충격과 관세·서비스 물가를 함께 본다. 따라서 유가 하락과 채권 강세가 BTC에 호재여도, 회의 전까지는 인상 꼬리위험이 사라지지 않는다.",
+      "follow_up": [
+        "2026-07-30 03:00 KST FOMC 금리 결정",
+        "2026-07-30 03:30 KST 케빈 워시 연준 의장 기자회견",
+        "회의 직전 CME FedWatch 인상 확률 변화",
+        "미 2년물 국채금리·달러지수와 BTC 65,000달러 유지 여부"
+      ],
+      "sources": {
+        "official": [
+          {
+            "name": "CME FedWatch",
+            "url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html"
+          }
+        ],
+        "primary_reporting": [
+          {
+            "name": "Reuters — 7월 인상 확률 36.3%, BTC 0.9% 상승",
+            "url": "https://live.euronext.com/en/financial-news/dollar-pulls-back-us-iran-attacks-pause-oil-drops"
+          },
+          {
+            "name": "Reuters — 아시아 주식·채권 반등과 FOMC 불확실성",
+            "url": "https://au.investing.com/news/stock-market-news/shares-bonds-bounce-as-oil-skid-offers-inflation-relief-4552818"
+          }
+        ],
+        "context": [
+          {
+            "name": "Kiplinger — 7월 24일 동결 64.2%, 인상 약 35.8%",
+            "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+          },
+          {
+            "name": "Reuters — 7월 14일 인상 확률 약 10%",
+            "url": "https://www.marketscreener.com/news/traders-expect-fed-to-skip-july-rate-hike-as-inflation-cools-ce7f5eddd98cf627"
+          }
+        ]
+      },
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 3,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "notes": "CME FedWatch 기반 수치를 Reuters가 보도했고 Kiplinger의 7월 24일 수치와도 일치한다. 7월 14일 Reuters 보도와 비교해 인상 확률의 재상승을 확인했다.",
+        "trump_separation": {
+          "statement": "해당 없음",
+          "policy_action": "연준은 아직 결정을 발표하지 않았으며 현재 수치는 선물시장 확률이다.",
+          "market_interpretation": "동결이 우세하지만 36.3% 인상 확률은 BTC에 무시하기 어려운 매파적 꼬리위험이다."
+        }
+      },
+      "published_at": "2026-07-27T02:32:00Z",
+      "kst": "2026-07-27 11:32:00 KST",
+      "tone": "warn",
+      "impact": "양방향"
+    },
+    {
+      "stable_id": "2026-07-26-f9043acf278d",
+      "original_title": "Oil tanker explodes after hitting mine in Strait of Hormuz",
+      "published_at": "2026-07-26T21:29:00Z",
+      "sources": [
+        {
+          "name": "The New Voice of Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnBLUnpGcEtxRXVjNm1ESDRxWXNHZlVqeEZPTjlCdVBoWU5DWTNQckcwa1J1WWZxRVh2NnRDYTRyMHFCbDF0eU1kMmNweWJhdjF1MDJycjBxQ0Y2N1MzeG1XX1BYRm9nYS1zUGFTaHYybHFxbm43WU9jTHp1cWZkZ05mS20zWElwX05OTnBubEFMeHRoQTQyYmo3NklyNmpwZFAzLUU1cmtMSy1SOFdaTHl3ZkJDWU1NV2g1T1NBRG_SAbwBQVVfeXFMTndGcnNNMVV3TWt0X0xyMjRCNmM2cGx5N0QtQzdBS0FGVEJScllfLUhhOEJESnNJSUxsUjhCQTBzWlpHaV9KU2VYcm1OXzdhT01TZzBjdWRHU292b2dJQWFXZXZFM1pheDJqbXhaX19SeVZFUTNkQi03eXJ0dExlS3hOQmc2c2tmSkFuZEJhaWFNLUNOaU1sVkoyWTlnQUl6aG9Od1JRdE1NcDdrcUw1ZXFHXzRxM2tMRmRxbHg?oc=5"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bGtET0Y0WWNWM0VDTl9xRVhRUnNFMi1Ccjc5NjVmZU5vamhWLWozelUzcF95Q1RjQ25CNW5DUl80c3hZV3dieHlhT3YzY2N1VFJKS09tanp6M3daNHllTXVPSGhUamJiS1E?oc=5"
+        },
+        {
+          "name": "ANI News",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYWUtN3Y0QTgzak15TVAyRGpSU1RBa254TVNQdlBfNjc1ZTJXQ1RWbmRqbzE0aWcxT2tVZ01ueEZ1YVotbGYxcGdMajZOQXRGb0hCdWlzMFdOM2JLbEc3dkxjT0Z0aTNjTjNUcVR6eW0zeU9wcEZEOXNZUV9PUS03b3R3ZkFIcnZDSDNPMWVVZkZHRTQzbVBNLU1aTUxSUEFISV9mNVp5eDZmbkt3cDkzQUxCazdmMU1WdkppeExwdjdla1NsU2ZtVW9rM2NxZElmQWJUVQ?oc=5"
+        },
+        {
+          "name": "Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTlXeEQ0RHRQd3RyTVUySEg4a09qZThyYnNVdnFiYmI5d2IzVUNlS3RKNmRINGJuUlppc1dvb18wcTFEbmpQT1NXSFJnWUp0Nmg0WU1GM08wY3lKVUVkNnE1LW4xRFZDU3VsR3l2VG5jUDdCUUpVMVUtQ3FGSkZFbjlRNklWTFhZRS1IZVpQNkxwclhaQ3N5d0hrd09hdlRNR0pKNXVLbWgweUc4WmhiU1ZsR2hycWlYS0o5NnpEald1ZjZzTVRFZ2hUWU1xT2vSAc8BQVVfeXFMTmk5V3hENER0UHd0ck1VMkhIOGtPamU4cmJzVXZxYmJiOXdiM1VDZUt0SjZkSDRiblJaaXNXb29fMHExRG5qUE9TV0hSZ1lKdDZoNFlNRjNPMGN5SlVFZDZxNS1uMURWQ1N1bEd5dlRuY1A3QlFKVTFVLUNxRkpGRW45UTZJVkxYWUUtSGVaUDZMcHJYWkNzeXdIa3dPYXZUTUdKSjV1S21oMHlHOFpoYlNWbEdocnFpWEtKOTZ6RGpXdWY2c01URWdoVFlNcU9r?oc=5"
+        }
+      ],
+      "title": "호르무즈 해협에서 유조선, 기뢰 충돌 후 폭발",
+      "summary": "호르무즈 해협에서 한 유조선이 기뢰와 충돌한 후 폭발하는 사건이 발생했습니다. 이 지역은 세계 원유 운송의 핵심 경로로, 사고는 글로벌 에너지 공급망에 직접적인 영향을 줄 수 있습니다. 여러 매체가 이 사건을 보도했으며, 사고의 원인과 배후에 대한 구체적 정보는 아직 공개되지 않았습니다. 유조선 폭발로 인한 원유 공급 차질 가능성이 제기되고 있습니다. 지역 긴장감이 다시 높아질 수 있다는 우려도 있습니다.",
+      "importance": 5,
+      "tone": "warn",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "원유 공급망의 불안정은 글로벌 금융시장에 불확실성을 높입니다. 비트코인은 전통 자산과 달리 위험회피 수단으로 활용될 수 있으나, 에너지 가격 급등은 인플레이션 압력을 높여 전체 시장에 부정적 영향을 줄 수 있습니다. 단기적으로 비트코인에 대한 수요가 증가할 수 있지만, 시장 전반의 불안정성은 투자 심리를 위축시킬 수도 있습니다."
+      },
+      "why_it_matters": "호르무즈 해협은 세계 원유 공급의 30% 이상이 통과하는 전략적 요충지입니다. 이 지역에서 발생한 사고는 글로벌 에너지 가격과 금융시장에 즉각적인 영향을 미칩니다. 비트코인 투자자들은 지정학적 리스크와 에너지 가격 변동에 민감하게 반응할 수밖에 없습니다.",
+      "missed_point": "폭발의 정확한 원인과 배후에 대한 정보가 부족합니다. 사고 이후 국제 사회 및 관련국의 대응, 추가적인 공급망 차질 가능성에 대한 분석이 미흡합니다.",
+      "follow_up": [
+        "폭발의 원인 및 배후 조사 결과 확인",
+        "원유 공급망 차질 및 가격 변동 추이 분석",
+        "비트코인 및 글로벌 금융시장 반응 모니터링"
+      ],
+      "verification": {
+        "state": "확인됨",
+        "independent_sources": [
+          "The New Voice of Ukraine",
+          "The Jerusalem Post",
+          "ANI News",
+          "Al Arabiya English"
+        ],
+        "notes": "여러 매체에서 동일 사건 보도, 세부 정보는 추가 확인 필요."
+      },
+      "kst": "2026-07-27 06:29:00 KST",
+      "status": "확인됨",
+      "impact": "양방향"
+    },
+    {
+      "stable_id": "2026-07-26-c66c9cd1da23",
+      "original_title": "Rising inflation turns July Fed meeting into rate-hike showdown",
+      "published_at": "2026-07-26T20:55:00Z",
+      "sources": [
+        {
+          "name": "Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUF5WnVOd2xSMUZsdmVKMGJHZXVpZE4wUTBIUkdZbFlpbWVGaWVxWDd3b28zM09KSHk4eVpEMnhZRHVFU05uNjZTbldMaUpVcGNSTFBVRnA0eWRDUjZYUWNlU3BWOUZvbUFieHE3MW04WEd4NkN5VFJJbDZfYWV6X29UWkM3VlFqb05nWVY5TC12ZDZ1YnhlNGxVVnbSAaIBQVVfeXFMTmhpelc0eHplUzVaRDJXZ3JaWVk5Z3pNSVJ2WTF0M1hBWUwzai1ncjZGaldxUHMzZGt6YndzUkp2MDdmd3dzUUNpUG1jZFI5d0NrT01ScWRWbkFaUEtmOTI0alFBWXN0Q2RYanVTNmQ0elNHYmgxSUdoTGV5UkJLR1VpaFducV9kOWY5RlM3S041ZmswbzZocnlxNEJvN0ticWl3?oc=5"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUd4SmpnLWJLaFM4WURwcmFkMVdrYUdiTVEtUDJyRkJfbWQyb2RZX2EzOThTMlhMWG1qemFhb1dYM21DT1dIZHlLdUt3OXZ0UC1EVDNobHBUV3g4ZFpXUDUxRTZweVNTbHNlS2pfSEhaSWpOOWpsTDViWGxaU3RGUmhn?oc=5"
+        }
+      ],
+      "title": "인플레이션 상승, 7월 연준 회의 금리 인상 대결로",
+      "summary": "최근 인플레이션 상승으로 인해 7월 연방준비제도(Fed) 회의가 금리 인상 여부를 둘러싼 주요 대결의 장이 되고 있습니다. 시장에서는 연준이 인플레이션 억제를 위해 추가 금리 인상을 단행할지 여부에 촉각을 곤두세우고 있습니다. 금리 인상은 달러 강세와 위험자산 약세를 유발할 수 있습니다. 투자자들은 연준의 결정에 따라 금융시장 전반의 변동성을 예상하고 있습니다. 비트코인 역시 금리 인상에 민감하게 반응할 가능성이 높습니다.",
+      "importance": 5,
+      "tone": "warn",
+      "btc_impact": {
+        "direction": "악재",
+        "assessment": "금리 인상은 위험자산에 대한 투자 심리를 위축시키며, 비트코인 가격에도 부정적 영향을 줄 수 있습니다. 달러 강세와 유동성 축소는 비트코인 수요를 감소시킬 수 있습니다. 단기적으로 비트코인 가격 하락 압력이 커질 수 있으나, 장기적으로는 인플레이션 헤지 수단으로서의 역할이 부각될 수 있습니다."
+      },
+      "why_it_matters": "연준의 금리 정책은 글로벌 금융시장에 직접적인 영향을 미치며, 비트코인 등 위험자산의 가격 변동성에 큰 영향을 줍니다. 인플레이션이 지속된다면 투자자들은 안전자산과 헤지 수단을 모색할 수밖에 없습니다. 비트코인 시장의 단기적 변동성 확대가 예상됩니다.",
+      "missed_point": "연준 내부의 구체적 논의와 금리 인상 가능성에 대한 전망이 부족합니다. 인플레이션의 원인과 향후 전망, 비트코인 투자자들의 대응 전략에 대한 정보가 미흡합니다.",
+      "follow_up": [
+        "연준의 금리 인상 결정 여부 및 발표 내용 확인",
+        "금리 인상 후 비트코인 및 금융시장 반응 분석",
+        "인플레이션 지속 여부와 시장 전망 조사"
+      ],
+      "verification": {
+        "state": "확인됨",
+        "independent_sources": [
+          "Forex Factory",
+          "AOL.com"
+        ],
+        "notes": "두 매체에서 인플레이션과 연준 회의 관련 보도 확인."
+      },
+      "kst": "2026-07-27 05:55:00 KST",
+      "status": "확인됨",
+      "impact": "악재"
+    },
+    {
+      "stable_id": "2026-07-26-db10976476fb",
+      "original_title": "Lawsuit claims 3.8M dormant BTC using police lost-and-found rules as Congress races to stop it with CLARITY",
+      "published_at": "2026-07-26T19:04:08Z",
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3A0LUNmck1BbHBPcnpmWW5VdHFROTNtZTRrM29JN1RZbnRqeWZzVXJlOEJ0aTFhS2l5UWZZTmN1cE9fQlktQXB0VmlLbzdDLUtvbzYwbG5UVjJmbjFCWDBLSWdkOWxiZnFOVUNaYjZRTnh2MUk1NmVmbHpRczFJb2VqbjY5T3V4NDRHRGlFWXpmd3JpZlBpZ2x2VXVfUTY2b0l3VXNMWk1xLXZyenlVVmFtVlM?oc=5"
+        },
+        {
+          "name": "CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTc0enpULUhCUVlPXy1mNGNzYWNyMnV0aXhERWZoZGVqVThDWkU4aGdDZjF2ZE5kX3ZGeWVYNlRkQ0R1cHQtYmlIS184Q1RsODJwTm9QZm5aakFXd2gyVmVJdVlaYjQxMWhRcHNTUlItVzJWVktwdEJvb1JYMzVEZm52a3hOYk9GSGxNNFFYbFdLN0FJU0t2bUQwNHloMlZRc0dR?oc=5"
+        }
+      ],
+      "title": "소송, 380만 비트코인 휴면 자산 경찰 분실물 규정 적용 주장…의회 CLARITY로 저지 시도",
+      "summary": "380만 비트코인에 달하는 휴면 자산에 대해 경찰 분실물 규정을 적용하려는 소송이 제기되었습니다. 이에 미국 의회는 CLARITY 법안을 통해 이를 저지하려고 서두르고 있습니다. 해당 소송은 비트코인 소유권과 법적 해석에 대한 새로운 논란을 촉발하고 있습니다. 만약 경찰 분실물 규정이 적용된다면, 대규모 비트코인 이동 및 시장 혼란이 발생할 수 있습니다. 의회의 대응이 비트코인 시장의 안정성에 중요한 변수로 작용할 전망입니다.",
+      "importance": 5,
+      "tone": "warn",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "휴면 비트코인에 대한 법적 해석 변화는 시장에 큰 충격을 줄 수 있습니다. 대규모 비트코인 이동이 현실화되면 가격 변동성이 급격히 커질 수 있습니다. 의회의 신속한 대응이 시장 안정에 도움이 될 수 있지만, 법적 불확실성은 투자 심리를 위축시킬 수 있습니다."
+      },
+      "why_it_matters": "비트코인 소유권과 법적 해석은 시장의 신뢰와 안정성에 직결되는 문제입니다. 휴면 자산이 대규모로 이동하거나 법적 분쟁이 발생하면 시장 혼란이 불가피합니다. 의회의 대응과 법적 판결이 비트코인 시장의 중장기적 방향성을 결정할 수 있습니다.",
+      "missed_point": "소송의 구체적 내용과 법적 근거, CLARITY 법안의 주요 조항에 대한 정보가 부족합니다. 휴면 비트코인 소유자들의 입장과 시장 참여자들의 반응에 대한 분석이 미흡합니다.",
+      "follow_up": [
+        "소송의 법적 근거 및 판결 전망 확인",
+        "CLARITY 법안의 주요 내용과 의회 통과 여부",
+        "비트코인 시장 내 휴면 자산 이동 가능성 및 투자자 반응 분석"
+      ],
+      "verification": {
+        "state": "확인됨",
+        "independent_sources": [
+          "CryptoRank",
+          "CryptoSlate"
+        ],
+        "notes": "두 암호화폐 전문 매체에서 동일 사안 보도, 세부 내용은 추가 확인 필요."
+      },
+      "kst": "2026-07-27 04:04:08 KST",
+      "status": "확인됨",
+      "impact": "양방향"
+    },
+    {
+      "stable_id": "2026-07-26-dabcab79004d",
+      "original_title": "Two Central Banks Decide Interest Rates Next Week: What It Means for Bitcoin",
+      "published_at": "2026-07-26T11:52:12Z",
+      "sources": [
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qcmM3WmZaYnVPRWE1bVQ5d2ZvdGlpZ3VZbmRBNjlFUjJJZ0dHbDNtcW0wNHZ0STVIVmxWdnRJcG9DZkFPdEN2U2tNblpXQ0UwMDdCeXZxbUhNUEwwN2hZSDN0ONIBY0FVX3lxTE5qcmM3WmZaYnVPRWE1bVQ5d2ZvdGlpZ3VZbmRBNjlFUjJJZ0dHbDNtcW0wNHZ0STVIVmxWdnRJcG9DZkFPdEN2U2tNblpXQ0UwMDdCeXZxbUhNUEwwN2hZSDN0OA?oc=5"
+        },
+        {
+          "name": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ya3FOQXplaFU5Yl9kOHNFdFBSOGpNaTNHX1FKVHNCSDBSWnBuYzlDQy1OekJuX1ZYMG9pTDZENVlkTjhJMkVNQVMxRGdjNEgwTFBrM2tOTHRDUjk0R1NKdk1FWkM2Z09Ca1BvX3dB?oc=5"
+        }
+      ],
+      "title": "다음 주 두 중앙은행 금리 결정…비트코인에 미칠 영향은?",
+      "summary": "다음 주 두 개의 중앙은행이 기준금리 결정을 앞두고 있다. 이 결정은 비트코인 시장에 중요한 영향을 미칠 수 있다. 중앙은행의 금리 정책은 글로벌 유동성과 위험자산에 대한 투자 심리에 직접적인 변화를 유발한다. 투자자들은 금리 인상, 동결, 인하 등 다양한 시나리오에 따라 비트코인 포지션을 조정할 가능성이 높다. 특히, 주요국 중앙은행의 정책 변화는 암호화폐 시장의 변동성을 증폭시킬 수 있다.",
+      "importance": 4,
+      "tone": "warn",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "중앙은행의 금리 인상은 비트코인에 단기적으로 악재가 될 수 있으나, 동결이나 인하 시에는 호재로 작용할 수 있다. 투자자들은 정책 발표 전까지 관망세를 유지할 가능성이 높다. 정책 결과에 따라 비트코인 가격이 급격히 변동할 수 있으므로 주의가 필요하다."
+      },
+      "why_it_matters": "중앙은행의 금리 결정은 글로벌 금융시장의 방향성을 결정짓는 핵심 변수다. 비트코인은 전통 금융시장과의 상관성이 높아진 상황에서 이러한 거시 이벤트에 민감하게 반응한다. 이번 결정은 단기적인 가격 변동뿐 아니라, 중장기 투자 전략에도 영향을 줄 수 있다.",
+      "missed_point": "어떤 중앙은행이 금리 결정을 내리는지, 그리고 시장의 예상 컨센서스가 무엇인지에 대한 정보가 부족하다. 또한, 과거 유사한 이벤트에서 비트코인 가격이 어떻게 반응했는지에 대한 데이터가 제시되지 않았다.",
+      "follow_up": [
+        "금리 결정을 내리는 두 중앙은행의 명확한 확인",
+        "시장 컨센서스 및 예상 시나리오 파악",
+        "비트코인 가격의 과거 금리 이벤트 반응 분석"
+      ],
+      "verification": {
+        "state": "확인됨",
+        "independent_sources": [
+          "Bitget",
+          "BeInCrypto"
+        ],
+        "notes": "두 매체에서 동일 이슈를 다룸."
+      },
+      "kst": "2026-07-26 20:52:12 KST",
+      "status": "확인됨",
+      "impact": "양방향"
+    }
+  ]
 }
