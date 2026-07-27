@@ -2,6 +2,48 @@
   "generated_at_kst": "2026-07-27T18:56:19+09:00",
   "items": [
     {
+      "stable_id": "2026-07-15-bnb-36th-quarterly-burn",
+      "status": "official_onchain_verified",
+      "published_at_kst": "2026-07-15T19:35:00+09:00",
+      "source_time": "2026-07-15T10:35:00Z",
+      "published_at": "2026-07-15T10:35:00Z",
+      "kst": "2026-07-15 19:35:00 KST",
+      "title": "BNB 제36차 분기 소각 완료…161만5827 BNB 영구 제거",
+      "summary": "BNB Foundation은 제36차 분기 BNB 자동 소각을 완료했다고 공식 발표했다. 이번에 소각된 물량은 1,615,827.795 BNB이며 발표 당시 평가액은 약 9억3170만달러였다. 소각 후 남은 총공급량은 133,166,127.91 BNB로 집계됐다. 이번 소각부터 BNB Chain Fusion에 따라 BSC에서 블랙홀 주소로 직접 전송하는 방식이 사용됐다. BNB 자동 소각은 가격과 분기 중 생성된 블록 수를 반영해 최종 공급량을 1억 BNB까지 줄이는 구조다.",
+      "importance": 4,
+      "tone": "up",
+      "impact": "호재",
+      "asset_class": "altcoin",
+      "token_symbol": "BNB",
+      "event_type": "burn",
+      "btc_impact": {
+        "direction": "호재",
+        "assessment": "실제 온체인 소각으로 유통 가능한 총공급량이 감소했다는 점은 BNB의 장기 공급 측면에 긍정적이다. 다만 정기 자동 소각은 사전에 알려진 제도이므로 발표 시점에 이미 시장 기대에 반영됐을 가능성이 있다. 단기 가격은 소각량보다 BNB Chain 이용량, 거래 수수료, 규제와 시장 위험선호의 영향을 더 크게 받을 수 있다."
+      },
+      "why_it_matters": "소각은 재단의 계획 발표가 아니라 실제로 복구 불가능한 주소에 자산을 전송했는지가 핵심이다. 이번 건은 BNB Foundation이 수량, 남은 공급량과 트랜잭션을 함께 공개한 완료형 소각이다. 분기 자동 소각과 BEP-95 실시간 가스비 소각이 병행되기 때문에 BNB의 공급 감소 속도를 추적하는 기준점이 된다.",
+      "missed_point": "큰 달러 환산액만 보고 같은 규모의 신규 매수 수요가 발생했다고 해석하면 안 된다. 소각은 공급 감소 이벤트이며 현금이 시장에 유입된 사건은 아니다. 또한 정기적으로 예정된 소각이므로 예상치 대비 실제 소각량과 네트워크 활동을 함께 봐야 한다.",
+      "follow_up": [
+        "공식 소각 트랜잭션과 블랙홀 주소 잔액",
+        "다음 분기 자동 소각 예상량",
+        "BEP-95 실시간 가스비 소각 누적량",
+        "BSC 거래량·수수료와 활성 주소 변화"
+      ],
+      "sources": [
+        {
+          "name": "BNB Chain 공식 발표 — 제36차 BNB 소각",
+          "url": "https://www.bnbchain.org/en/blog/36th-bnb-burn"
+        }
+      ],
+      "verification": {
+        "state": "official_onchain_verified",
+        "independent_sources": 1,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "notes": "BNB Foundation 공식 발표에서 소각 완료 수량, 남은 총공급량, 블랙홀 주소 전송 방식과 트랜잭션 공개 여부를 확인했다."
+      }
+    },
+    {
       "stable_id": "2026-07-23-ondo-sbi-japan-tokenized-stocks",
       "status": "official_source_checked_reference",
       "published_at_kst": "2026-07-23T09:00:00+09:00",
