@@ -8,6 +8,7 @@ from urllib.parse import quote_plus
 
 import feedparser
 import requests
+from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 FEED_PATH = ROOT / "site" / "live-news.json"
@@ -21,7 +22,10 @@ QUERIES = [
     "Federal Reserve rates inflation Reuters", "CME FedWatch bitcoin",
 ]
 BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
-             "inflation", "oil", "iran", "hormuz", "tariff", "sec", "cftc"}
+             "inflation", "oil", "iran", "hormuz", "tariff", "sec", "cftc",
+             "비트코인", "암호화폐", "연준", "금리", "인플레이션", "유가",
+             "이란", "호르무즈", "관세", "달러", "채권"}
+TELEGRAM_CHANNELS = ("goddessTTF",)
 SUPPRESSED_DUPLICATES = {
     "2026-07-26-cd976c2c93c2",
     "2026-07-26-08d1a65d77c4",
@@ -41,6 +45,42 @@ def clean_html(value):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", value or "")).strip()
 
 
+def collect_telegram():
+    rows = []
+    for channel in TELEGRAM_CHANNELS:
+        try:
+            response = requests.get(
+                f"https://t.me/s/{channel}",
+                headers={"User-Agent": "Mozilla/5.0 (compatible; TaehwanNewsBot/1.0)"},
+                timeout=20)
+            response.raise_for_status()
+        except requests.RequestException:
+            continue
+        soup = BeautifulSoup(response.text, "html.parser")
+        for message in soup.select(".tgme_widget_message"):
+            post_id = message.get("data-post", "")
+            text_node = message.select_one(".tgme_widget_message_text")
+            time_node = message.select_one("time[datetime]")
+            if not post_id or text_node is None or time_node is None:
+                continue
+            text = clean_html(text_node.get_text(" ", strip=True))
+            try:
+                when = datetime.fromisoformat(time_node["datetime"].replace("Z", "+00:00")).astimezone(timezone.utc)
+            except (KeyError, ValueError):
+                continue
+            if NOW - when > timedelta(hours=30) or not any(term in text.lower() for term in BTC_TERMS):
+                continue
+            rows.append({
+                "title": text[:220],
+                "url": f"https://t.me/{post_id}",
+                "source": f"Telegram @{channel}",
+                "published_at": when.isoformat().replace("+00:00", "Z"),
+                "snippet": text[:1800],
+                "discovery_source": "telegram",
+            })
+    return rows
+
+
 def collect():
     rows = []
     for query in QUERIES:
@@ -58,6 +98,7 @@ def collect():
             rows.append({"title": title, "url": entry.get("link", ""), "source": source,
                          "published_at": when.isoformat().replace("+00:00", "Z"),
                          "snippet": clean_html(entry.get("summary", ""))[:1200]})
+    rows.extend(collect_telegram())
     return rows
 
 
@@ -85,7 +126,8 @@ def stable_id(title, when):
 def candidates():
     result = []
     for group in cluster(collect()):
-        if len(group) < 2 and not any(x["source"] in TRUSTED for x in group):
+        telegram_discovery = any(x.get("discovery_source") == "telegram" for x in group)
+        if len(group) < 2 and not any(x["source"] in TRUSTED for x in group) and not telegram_discovery:
             continue
         lead = group[0]
         if any(pattern in lead["title"].lower() for pattern in LOW_SIGNAL_TITLE_PATTERNS):
@@ -93,6 +135,7 @@ def candidates():
         result.append({
             "stable_id": stable_id(lead["title"], lead["published_at"]),
             "original_title": lead["title"], "published_at": lead["published_at"],
+            "discovery_source": "telegram" if telegram_discovery else "news",
             "evidence": [{"headline": x["title"], "source": x["source"],
                           "snippet": x.get("snippet", ""), "url": x["url"]}
                          for x in group[:5]],
@@ -104,14 +147,24 @@ def candidates():
 def valid(item):
     impact = item.get("btc_impact", {})
     title = item.get("title", "")
-    return (bool(re.search(r"[가-힣]", title))
+    verification = item.get("verification", {})
+    sources = item.get("sources", [])
+    source_rows = sources if isinstance(sources, list) else [
+        source for group in sources.values() for source in group
+    ]
+    telegram_verified = (item.get("discovery_source") != "telegram"
+                         or (verification.get("independent_sources", 0) >= 2
+                             and any("telegram" not in source.get("name", "").lower()
+                                     for source in source_rows)))
+    return (telegram_verified
+            and bool(re.search(r"[가-힣]", title))
             and len(title) >= 8
             and len(item.get("summary", "")) >= 180
             and len(item.get("why_it_matters", "")) >= 100
             and isinstance(impact, dict) and len(impact.get("assessment", "")) >= 100
             and len(item.get("missed_point", "")) >= 80
             and len(item.get("follow_up", [])) >= 3
-            and len(item.get("sources", [])) >= 1)
+            and len(source_rows) >= 1)
 
 
 def enrich(items):
@@ -124,9 +177,13 @@ def enrich(items):
 긍정적 헤드라인과 반대되는 신호, 협상 발언과 실제 정책·군사행동의 차이,
 유가→물가→연준→금리·달러→BTC 전달 경로, 후속 발언으로 기존 평가가 바뀌는지를 반드시 검토한다.
 FinancialJuice 단독 속보는 공식·독립 출처로 재검증되지 않으면 제외한다.
+Telegram 게시물은 속보 탐지용일 뿐이다. Telegram 단독 항목은 절대 반환하지 않는다.
+전체 후보의 evidence를 서로 대조해 Reuters·AP·Bloomberg 또는 공식 발표가 같은 사실을 독립적으로
+확인한 경우에만 Telegram 후보를 반환하고, 그 독립 출처 링크를 sources 배열에 복사한다.
 반환은 JSON 객체 하나이며 results 배열만 포함한다. 각 결과에는 stable_id, title, summary(최소 5문장),
 importance(1~5), tone(up/down/warn), btc_impact({direction: 호재/악재/양방향, assessment: 최소 3문장}),
 why_it_matters(최소 3문장), missed_point(최소 2문장), follow_up(구체적 확인사항 3개 이상),
+sources([{name,url}] 최소 2개),
 verification({state, independent_sources, financialjuice_only, rumor_excluded, notes,
 trump_separation:{statement, policy_action, market_interpretation}})를 넣는다.
 출처에 없는 숫자나 사실을 만들지 않는다."""
