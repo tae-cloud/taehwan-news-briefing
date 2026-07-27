@@ -20,13 +20,25 @@ QUERIES = [
     "bitcoin Federal Reserve", "bitcoin regulation United States",
     "oil Iran Hormuz Reuters", "Iran Hormuz AP", "Iran Hormuz Bloomberg",
     "Federal Reserve rates inflation Reuters", "CME FedWatch bitcoin",
+    "altcoin token burn crypto", "token unlock crypto",
+    "crypto mainnet upgrade governance proposal",
+    "crypto exchange listing delisting altcoin",
+    "crypto protocol exploit hack", "crypto foundation treasury token transfer",
+    "Ethereum Solana XRP BNB Cardano Avalanche Chainlink TON Sui Aptos crypto",
 ]
 BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
              "inflation", "oil", "iran", "hormuz", "tariff", "sec", "cftc",
              "비트코인", "암호화폐", "연준", "금리", "인플레이션", "유가",
              "이란", "호르무즈", "관세", "달러", "채권"}
+BTC_TERMS.update({
+    "altcoin", "token", "burn", "unlock", "airdrop", "mainnet", "governance",
+    "listing", "delisting", "exploit", "hack", "staking", "treasury",
+    "알트코인", "토큰", "소각", "언락", "에어드롭", "메인넷", "거버넌스",
+    "상장", "상장폐지", "해킹", "스테이킹", "재단", "유통량",
+})
 TELEGRAM_CHANNELS = ("goddessTTF",)
 SAVETICKER_URL = "https://www.saveticker.com/news"
+YOUTUBE_CHANNELS = ("https://www.youtube.com/@새벽에온주호",)
 SUPPRESSED_DUPLICATES = {
     "2026-07-26-cd976c2c93c2",
     "2026-07-26-08d1a65d77c4",
@@ -140,6 +152,44 @@ def collect_saveticker():
     return rows
 
 
+def collect_youtube():
+    rows = []
+    for channel_url in YOUTUBE_CHANNELS:
+        try:
+            page = requests.get(
+                f"{channel_url}/videos",
+                headers={"User-Agent": "Mozilla/5.0 (compatible; TaehwanNewsBot/1.0)"},
+                timeout=20)
+            page.raise_for_status()
+        except requests.RequestException:
+            continue
+        channel_match = re.search(r'"(?:channelId|externalId)":"(UC[^"]+)"', page.text)
+        if not channel_match:
+            continue
+        feed = feedparser.parse(
+            f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_match.group(1)}")
+        for entry in feed.entries[:15]:
+            raw = entry.get("published") or entry.get("updated")
+            try:
+                when = datetime.fromisoformat(raw.replace("Z", "+00:00")).astimezone(timezone.utc)
+            except (AttributeError, ValueError):
+                continue
+            title = clean_title(entry.get("title", ""))
+            summary = clean_html(entry.get("summary", ""))
+            combined = f"{title} {summary}".lower()
+            if NOW - when > timedelta(hours=72) or not any(term in combined for term in BTC_TERMS):
+                continue
+            rows.append({
+                "title": title[:220],
+                "url": entry.get("link", channel_url),
+                "source": "YouTube @새벽에온주호",
+                "published_at": when.isoformat().replace("+00:00", "Z"),
+                "snippet": summary[:1800],
+                "discovery_source": "youtube",
+            })
+    return rows
+
+
 def collect():
     rows = []
     for query in QUERIES:
@@ -159,6 +209,7 @@ def collect():
                          "snippet": clean_html(entry.get("summary", ""))[:1200]})
     rows.extend(collect_telegram())
     rows.extend(collect_saveticker())
+    rows.extend(collect_youtube())
     return rows
 
 
@@ -215,12 +266,18 @@ def valid(item):
     source_rows = sources if isinstance(sources, list) else [
         source for group in sources.values() for source in group
     ]
+    asset_class = item.get("asset_class", "bitcoin")
+    event_type = item.get("event_type", "market")
+    altcoin_complete = (asset_class != "altcoin"
+                        or (bool(item.get("token_symbol"))
+                            and (event_type not in {"burn", "unlock", "treasury_move"}
+                                 or verification.get("official_or_onchain") is True)))
     discovery_verified = (item.get("discovery_source", "news") == "news"
                           or (independent_count >= 2
                               and any(all(tag not in source.get("name", "").lower()
-                                          for tag in ("telegram", "saveticker"))
+                                          for tag in ("telegram", "saveticker", "youtube"))
                                       for source in source_rows)))
-    return (discovery_verified
+    return (discovery_verified and altcoin_complete
             and bool(re.search(r"[가-힣]", title))
             and len(title) >= 8
             and len(item.get("summary", "")) >= 180
@@ -243,14 +300,18 @@ def enrich(items):
 FinancialJuice 단독 속보는 공식·독립 출처로 재검증되지 않으면 제외한다.
 Telegram 게시물은 속보 탐지용일 뿐이다. Telegram 단독 항목은 절대 반환하지 않는다.
 SaveTicker 게시물도 속보 탐지용일 뿐이다. SaveTicker 단독 항목은 절대 반환하지 않는다.
+YouTube 영상도 아이디어 탐지용일 뿐이다. 영상의 주장이나 가격 전망을 사실처럼 쓰지 않는다.
 전체 후보의 evidence를 서로 대조해 Reuters·AP·Bloomberg 또는 공식 발표가 같은 사실을 독립적으로
-확인한 경우에만 Telegram·SaveTicker 후보를 반환하고, 그 독립 출처 링크를 sources 배열에 복사한다.
+확인한 경우에만 Telegram·SaveTicker·YouTube 후보를 반환하고, 그 독립 출처 링크를 sources 배열에 복사한다.
 반환은 JSON 객체 하나이며 results 배열만 포함한다. 각 결과에는 stable_id, title, summary(최소 5문장),
 importance(1~5), tone(up/down/warn), btc_impact({direction: 호재/악재/양방향, assessment: 최소 3문장}),
 why_it_matters(최소 3문장), missed_point(최소 2문장), follow_up(구체적 확인사항 3개 이상),
 sources([{name,url}] 최소 2개),
 verification({state, independent_sources, financialjuice_only, rumor_excluded, notes,
-trump_separation:{statement, policy_action, market_interpretation}})를 넣는다.
+official_or_onchain, trump_separation:{statement, policy_action, market_interpretation}}),
+asset_class(bitcoin 또는 altcoin), token_symbol(알트코인이면 필수), event_type
+(burn/unlock/listing/delisting/upgrade/governance/hack/treasury_move/market)를 넣는다.
+중소형 코인도 포함하되 소각·언락·재단 이동은 공식 공지 또는 온체인 근거가 확인된 경우에만 반환한다.
 출처에 없는 숫자나 사실을 만들지 않는다."""
     response = requests.post(
         "https://models.github.ai/inference/chat/completions",

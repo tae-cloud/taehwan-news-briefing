@@ -1,4 +1,8 @@
 (() => {
+  let activeAsset = "all";
+  const assetStyle = document.createElement("style");
+  assetStyle.textContent = ".assetbuttons{display:flex;gap:6px;flex-wrap:wrap}.assetbuttons button{border:1px solid #ccd5e2;background:#fff;border-radius:999px;padding:9px 13px;min-height:44px;font-weight:900;cursor:pointer;color:#344054;touch-action:manipulation}.assetbuttons button.active{background:#5b35c9;color:#fff;border-color:#5b35c9}@media(max-width:700px){.assetbuttons{display:grid;grid-template-columns:repeat(3,1fr);width:100%}.assetbuttons button{padding:8px 4px;font-size:14px}}";
+  document.head.appendChild(assetStyle);
   const TITLE_TRANSLATIONS = {
     "2026-07-26-08d1a65d77c4": "비트코인 6만4천달러 상회…연준 결정 앞두고 시장 경계",
     "2026-07-26-dabcab79004d": "다음 주 두 중앙은행 금리 결정…비트코인에 미칠 영향은?"
@@ -44,6 +48,7 @@
     const stars = Math.max(1, Math.min(5, Number(item.importance) || 3));
     article.className = `story ${tone} live-story`;
     article.dataset.tone = tone;
+    article.dataset.asset = item.asset_class || "bitcoin";
     article.dataset.newsId = item.stable_id || "";
     article.dataset.published = item.updated_at_kst || item.source_time || item.published_at || "";
     article.id = `live-${item.stable_id || Math.random().toString(36).slice(2)}`;
@@ -53,6 +58,7 @@
         <h2>${esc(TITLE_TRANSLATIONS[item.stable_id] || item.title)}</h2>
         <div class="metadata">
           <b>중요도: ${"★".repeat(stars)}${"☆".repeat(5 - stars)} · BTC ${esc(impact.direction)}</b>
+          ${item.asset_class === "altcoin" ? `<span><b>알트코인 · ${esc(item.token_symbol || "토큰 확인 중")} · ${esc(item.event_type || "market")}</b></span>` : ""}
           <span>원문 시각: ${esc(item.source_time || item.published_at || "확인 중")}</span>
           <span class="importance">${esc(verification.state || item.status || "verified")}</span>
         </div>
@@ -80,8 +86,33 @@
   const applySearch = () => {
     const query = document.getElementById("news-search")?.value.trim().toLowerCase() || "";
     document.querySelectorAll(".story").forEach(story => {
-      story.classList.toggle("search-hidden", Boolean(query) && !story.textContent.toLowerCase().includes(query));
+      const queryMiss = Boolean(query) && !story.textContent.toLowerCase().includes(query);
+      const assetMiss = activeAsset !== "all" && (story.dataset.asset || "bitcoin") !== activeAsset;
+      story.classList.toggle("search-hidden", queryMiss || assetMiss);
     });
+  };
+  const installAssetFilter = () => {
+    const bar = document.querySelector(".filterbar");
+    const hint = bar?.querySelector(".filterhint");
+    if (!bar || document.querySelector(".assetbuttons")) return;
+    const group = document.createElement("div");
+    group.className = "assetbuttons";
+    group.setAttribute("aria-label", "자산 분류");
+    [["all", "모든 자산"], ["bitcoin", "비트코인"], ["altcoin", "알트코인"]].forEach(([value, label]) => {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.dataset.assetFilter = value;
+      button.textContent = label;
+      button.classList.toggle("active", value === activeAsset);
+      button.addEventListener("click", () => {
+        activeAsset = value;
+        group.querySelectorAll("button").forEach(node =>
+          node.classList.toggle("active", node.dataset.assetFilter === value));
+        applySearch();
+      });
+      group.appendChild(button);
+    });
+    bar.insertBefore(group, hint || null);
   };
   const timestamp = story => {
     const parsed = Date.parse(story.dataset.published || "");
@@ -131,6 +162,10 @@
   });
   document.getElementById("news-9")?.remove();
   document.getElementById("news-11")?.remove();
+  document.querySelectorAll(".story").forEach(story => {
+    if (!story.dataset.asset) story.dataset.asset = "bitcoin";
+  });
+  installAssetFilter();
   fetch(`./live-news.json?t=${Date.now()}`, { cache: "no-store" })
     .then(response => {
       if (!response.ok) throw new Error("feed unavailable");
