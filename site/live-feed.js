@@ -1,4 +1,8 @@
 (() => {
+  const TITLE_TRANSLATIONS = {
+    "2026-07-26-08d1a65d77c4": "비트코인 6만4천달러 상회…연준 결정 앞두고 시장 경계",
+    "2026-07-26-dabcab79004d": "다음 주 두 중앙은행 금리 결정…비트코인에 미칠 영향은?"
+  };
   const esc = (value = "") => String(value).replace(/[&<>"']/g, c => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
   })[c]);
@@ -42,7 +46,7 @@
     article.innerHTML = `
       <section class="article">
         <div class="page">실시간 업데이트 · ${esc(item.kst || item.published_at_kst || item.published_at)}</div>
-        <h2>${esc(item.title)}</h2>
+        <h2>${esc(TITLE_TRANSLATIONS[item.stable_id] || item.title)}</h2>
         <div class="metadata">
           <b>중요도: ${"★".repeat(stars)}${"☆".repeat(5 - stars)} · BTC ${esc(impact.direction)}</b>
           <span>원문 시각: ${esc(item.source_time || item.published_at || "확인 중")}</span>
