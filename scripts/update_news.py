@@ -14,9 +14,12 @@ FEED_PATH = ROOT / "site" / "live-news.json"
 KST = timezone(timedelta(hours=9))
 NOW = datetime.now(timezone.utc)
 TRUSTED = {"Reuters", "Associated Press", "AP", "Bloomberg"}
-QUERIES = ["bitcoin Reuters", "bitcoin AP", "bitcoin Federal Reserve",
-           "bitcoin regulation United States", "oil Iran Hormuz Reuters",
-           "Federal Reserve rates inflation Reuters"]
+QUERIES = [
+    "bitcoin Reuters", "bitcoin AP", "bitcoin Bloomberg",
+    "bitcoin Federal Reserve", "bitcoin regulation United States",
+    "oil Iran Hormuz Reuters", "Iran Hormuz AP", "Iran Hormuz Bloomberg",
+    "Federal Reserve rates inflation Reuters", "CME FedWatch bitcoin",
+]
 BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
              "inflation", "oil", "iran", "hormuz", "tariff", "sec", "cftc"}
 SUPPRESSED_DUPLICATES = {
@@ -34,6 +37,9 @@ LOW_SIGNAL_TITLE_PATTERNS = (
 def clean_title(title):
     return re.sub(r"\s+-\s+[^-]{2,40}$", "", title).strip()
 
+def clean_html(value):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", value or "")).strip()
+
 
 def collect():
     rows = []
@@ -50,7 +56,8 @@ def collect():
                 continue
             source = (entry.get("source") or {}).get("title", "Google News").strip()
             rows.append({"title": title, "url": entry.get("link", ""), "source": source,
-                         "published_at": when.isoformat().replace("+00:00", "Z")})
+                         "published_at": when.isoformat().replace("+00:00", "Z"),
+                         "snippet": clean_html(entry.get("summary", ""))[:1200]})
     return rows
 
 
@@ -86,6 +93,9 @@ def candidates():
         result.append({
             "stable_id": stable_id(lead["title"], lead["published_at"]),
             "original_title": lead["title"], "published_at": lead["published_at"],
+            "evidence": [{"headline": x["title"], "source": x["source"],
+                          "snippet": x.get("snippet", ""), "url": x["url"]}
+                         for x in group[:5]],
             "sources": [{"name": x["source"], "url": x["url"]} for x in group[:5]]
         })
     return result
@@ -108,12 +118,18 @@ def enrich(items):
     token = os.getenv("GITHUB_TOKEN", "").strip()
     if not token or not items:
         return []
-    prompt = """당신은 비트코인 거시경제 뉴스 편집자다. 제공된 기사 제목과 출처만 사용하고 추측하지 않는다.
-각 항목을 한국어로 자세히 분석한다. 정보가 부족하면 해당 항목을 results에서 제외한다.
+    prompt = """당신은 비트코인 거시경제 뉴스 편집자다. 제공된 헤드라인·기사 스니펫·출처만 사용하고 추측하지 않는다.
+각 항목을 한국어로 자세히 분석한다. 정보가 부족하거나 단순 가격 시황이면 results에서 제외한다.
+같은 사건의 반복 보도는 새 카드로 만들지 말고, 실제 정책·시장 반응·공식 발언이 추가된 경우에만 업데이트로 본다.
+긍정적 헤드라인과 반대되는 신호, 협상 발언과 실제 정책·군사행동의 차이,
+유가→물가→연준→금리·달러→BTC 전달 경로, 후속 발언으로 기존 평가가 바뀌는지를 반드시 검토한다.
+FinancialJuice 단독 속보는 공식·독립 출처로 재검증되지 않으면 제외한다.
 반환은 JSON 객체 하나이며 results 배열만 포함한다. 각 결과에는 stable_id, title, summary(최소 5문장),
 importance(1~5), tone(up/down/warn), btc_impact({direction: 호재/악재/양방향, assessment: 최소 3문장}),
 why_it_matters(최소 3문장), missed_point(최소 2문장), follow_up(구체적 확인사항 3개 이상),
-verification({state, independent_sources, notes})를 넣는다. 출처에 없는 숫자나 사실을 만들지 않는다."""
+verification({state, independent_sources, financialjuice_only, rumor_excluded, notes,
+trump_separation:{statement, policy_action, market_interpretation}})를 넣는다.
+출처에 없는 숫자나 사실을 만들지 않는다."""
     response = requests.post(
         "https://models.github.ai/inference/chat/completions",
         headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
