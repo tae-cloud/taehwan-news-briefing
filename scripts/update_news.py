@@ -304,6 +304,7 @@ FinancialJuice 단독 속보는 공식·독립 출처로 재검증되지 않으�
 Telegram 게시물은 속보 탐지용일 뿐이다. Telegram 단독 항목은 절대 반환하지 않는다.
 SaveTicker 게시물도 속보 탐지용일 뿐이다. SaveTicker 단독 항목은 절대 반환하지 않는다.
 YouTube 영상도 아이디어 탐지용일 뿐이다. 영상의 주장이나 가격 전망을 사실처럼 쓰지 않는다.
+YouTube와 Telegram, SaveTicker는 공개 sources 배열에 넣지 말고 검증에 사용한 공식 발표와 독립 언론만 넣는다.
 전체 후보의 evidence를 서로 대조해 Reuters·AP·Bloomberg 또는 공식 발표가 같은 사실을 독립적으로
 확인한 경우에만 Telegram·SaveTicker·YouTube 후보를 반환하고, 그 독립 출처 링크를 sources 배열에 복사한다.
 반환은 JSON 객체 하나이며 results 배열만 포함한다. 각 결과에는 stable_id, title, summary(최소 5문장),
@@ -332,6 +333,21 @@ asset_class(bitcoin 또는 altcoin), token_symbol(알트코인이면 필수), ev
         if not patch:
             continue
         item.update(patch)
+        if isinstance(item.get("sources"), list):
+            item["sources"] = [
+                source for source in item["sources"]
+                if all(tag not in source.get("name", "").lower()
+                       for tag in ("youtube", "새벽에온주호", "telegram", "saveticker"))
+            ]
+        elif isinstance(item.get("sources"), dict):
+            item["sources"] = {
+                group: [
+                    source for source in sources
+                    if all(tag not in source.get("name", "").lower()
+                           for tag in ("youtube", "새벽에온주호", "telegram", "saveticker"))
+                ]
+                for group, sources in item["sources"].items()
+            }
         when = datetime.fromisoformat(item["published_at"].replace("Z", "+00:00"))
         item["kst"] = when.astimezone(KST).strftime("%Y-%m-%d %H:%M:%S KST")
         item["status"] = item.get("verification", {}).get("state", "verified")
