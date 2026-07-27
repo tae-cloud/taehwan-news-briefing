@@ -64,6 +64,10 @@
           <span class="importance">${esc(verification.state || item.status || "verified")}</span>
         </div>
         ${section("후속 속보", esc(item.latest_update))}
+        ${item.event_type === "burn_scheduled" ? section("소각 예정 정보", `
+          <p><b>예정 시각</b><br>${esc(item.scheduled_at || "공식 일정 확인 중")}</p>
+          <p><b>예정 수량</b><br>${esc(item.burn_amount || "공식 산식에 따라 결정")}</p>
+          <p><b>소각 방식</b><br>${esc(item.burn_method || "공식 공지 확인")}</p>`) : ""}
         ${section("핵심 내용", esc(item.summary))}
         ${section("왜 중요한가", esc(item.why_it_matters))}
         ${section(item.asset_class === "altcoin" ? "해당 코인 영향" : "BTC 영향", esc(impact.assessment))}

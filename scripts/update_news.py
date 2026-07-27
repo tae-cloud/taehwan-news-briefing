@@ -20,7 +20,9 @@ QUERIES = [
     "bitcoin Federal Reserve", "bitcoin regulation United States",
     "oil Iran Hormuz Reuters", "Iran Hormuz AP", "Iran Hormuz Bloomberg",
     "Federal Reserve rates inflation Reuters", "CME FedWatch bitcoin",
-    "altcoin token burn crypto", "token unlock crypto",
+    "altcoin token burn crypto", "official scheduled token burn crypto",
+    "token burn announcement buyback burn schedule", "소각 예정 코인 공식 발표",
+    "token unlock crypto",
     "crypto mainnet upgrade governance proposal",
     "crypto exchange listing delisting altcoin",
     "crypto protocol exploit hack", "crypto foundation treasury token transfer",
@@ -33,7 +35,7 @@ BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
 BTC_TERMS.update({
     "altcoin", "token", "burn", "unlock", "airdrop", "mainnet", "governance",
     "listing", "delisting", "exploit", "hack", "staking", "treasury",
-    "알트코인", "토큰", "소각", "언락", "에어드롭", "메인넷", "거버넌스",
+    "알트코인", "토큰", "소각", "소각 예정", "언락", "에어드롭", "메인넷", "거버넌스",
     "상장", "상장폐지", "해킹", "스테이킹", "재단", "유통량",
 })
 TELEGRAM_CHANNELS = ("goddessTTF",)
@@ -271,10 +273,20 @@ def valid(item):
     ]
     asset_class = item.get("asset_class", "bitcoin")
     event_type = item.get("event_type", "market")
+    completed_sensitive_event = (
+        event_type not in {"burn", "unlock", "treasury_move"}
+        or verification.get("official_or_onchain") is True
+    )
+    scheduled_burn_verified = (
+        event_type != "burn_scheduled"
+        or (verification.get("official_source") is True
+            and bool(item.get("scheduled_at"))
+            and bool(item.get("burn_amount") or item.get("burn_method")))
+    )
     altcoin_complete = (asset_class != "altcoin"
                         or (bool(item.get("token_symbol"))
-                            and (event_type not in {"burn", "unlock", "treasury_move"}
-                                 or verification.get("official_or_onchain") is True)))
+                            and completed_sensitive_event
+                            and scheduled_burn_verified))
     discovery_verified = (item.get("discovery_source", "news") == "news"
                           or (independent_count >= 2
                               and any(all(tag not in source.get("name", "").lower()
@@ -312,10 +324,14 @@ importance(1~5), tone(up/down/warn), btc_impact({direction: 호재/악재/양방
 why_it_matters(최소 3문장), missed_point(최소 2문장), follow_up(구체적 확인사항 3개 이상),
 sources([{name,url}] 최소 2개),
 verification({state, independent_sources, financialjuice_only, rumor_excluded, notes,
-official_or_onchain, trump_separation:{statement, policy_action, market_interpretation}}),
+official_or_onchain, official_source, trump_separation:{statement, policy_action, market_interpretation}}),
 asset_class(bitcoin 또는 altcoin), token_symbol(알트코인이면 필수), event_type
-(burn/unlock/listing/delisting/upgrade/governance/hack/treasury_move/market)를 넣는다.
+(burn/burn_scheduled/unlock/listing/delisting/upgrade/governance/hack/treasury_move/market)를 넣는다.
 중소형 코인도 포함하되 소각·언락·재단 이동은 공식 공지 또는 온체인 근거가 확인된 경우에만 반환한다.
+예정된 소각은 event_type을 burn_scheduled로 하고 제목에 '소각 예정'을 명시한다.
+이 경우 scheduled_at(공식 예정 일시), burn_amount(확정 수량, 없으면 빈 문자열),
+burn_method(자동 소각·바이백 후 소각 등), verification.official_source=true를 반드시 넣는다.
+날짜·수량·방식 중 핵심 조건이 공식 출처에서 확인되지 않거나 커뮤니티 투표·제안 단계라면 반환하지 않는다.
 출처에 없는 숫자나 사실을 만들지 않는다."""
     response = requests.post(
         "https://models.github.ai/inference/chat/completions",
