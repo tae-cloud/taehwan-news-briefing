@@ -1,90 +1,6 @@
 {
-  "generated_at_kst": "2026-07-27T18:56:19+09:00",
+  "generated_at_kst": "2026-07-27T19:21:32+09:00",
   "items": [
-    {
-      "stable_id": "2026-07-15-bnb-36th-quarterly-burn",
-      "status": "official_onchain_verified",
-      "published_at_kst": "2026-07-15T19:35:00+09:00",
-      "source_time": "2026-07-15T10:35:00Z",
-      "published_at": "2026-07-15T10:35:00Z",
-      "kst": "2026-07-15 19:35:00 KST",
-      "title": "BNB 제36차 분기 소각 완료…161만5827 BNB 영구 제거",
-      "summary": "BNB Foundation은 제36차 분기 BNB 자동 소각을 완료했다고 공식 발표했다. 이번에 소각된 물량은 1,615,827.795 BNB이며 발표 당시 평가액은 약 9억3170만달러였다. 소각 후 남은 총공급량은 133,166,127.91 BNB로 집계됐다. 이번 소각부터 BNB Chain Fusion에 따라 BSC에서 블랙홀 주소로 직접 전송하는 방식이 사용됐다. BNB 자동 소각은 가격과 분기 중 생성된 블록 수를 반영해 최종 공급량을 1억 BNB까지 줄이는 구조다.",
-      "importance": 4,
-      "tone": "up",
-      "impact": "호재",
-      "asset_class": "altcoin",
-      "token_symbol": "BNB",
-      "event_type": "burn",
-      "btc_impact": {
-        "direction": "호재",
-        "assessment": "실제 온체인 소각으로 유통 가능한 총공급량이 감소했다는 점은 BNB의 장기 공급 측면에 긍정적이다. 다만 정기 자동 소각은 사전에 알려진 제도이므로 발표 시점에 이미 시장 기대에 반영됐을 가능성이 있다. 단기 가격은 소각량보다 BNB Chain 이용량, 거래 수수료, 규제와 시장 위험선호의 영향을 더 크게 받을 수 있다."
-      },
-      "why_it_matters": "소각은 재단의 계획 발표가 아니라 실제로 복구 불가능한 주소에 자산을 전송했는지가 핵심이다. 이번 건은 BNB Foundation이 수량, 남은 공급량과 트랜잭션을 함께 공개한 완료형 소각이다. 분기 자동 소각과 BEP-95 실시간 가스비 소각이 병행되기 때문에 BNB의 공급 감소 속도를 추적하는 기준점이 된다.",
-      "missed_point": "큰 달러 환산액만 보고 같은 규모의 신규 매수 수요가 발생했다고 해석하면 안 된다. 소각은 공급 감소 이벤트이며 현금이 시장에 유입된 사건은 아니다. 또한 정기적으로 예정된 소각이므로 예상치 대비 실제 소각량과 네트워크 활동을 함께 봐야 한다.",
-      "follow_up": [
-        "공식 소각 트랜잭션과 블랙홀 주소 잔액",
-        "다음 분기 자동 소각 예상량",
-        "BEP-95 실시간 가스비 소각 누적량",
-        "BSC 거래량·수수료와 활성 주소 변화"
-      ],
-      "sources": [
-        {
-          "name": "BNB Chain 공식 발표 — 제36차 BNB 소각",
-          "url": "https://www.bnbchain.org/en/blog/36th-bnb-burn"
-        }
-      ],
-      "verification": {
-        "state": "official_onchain_verified",
-        "independent_sources": 1,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "official_or_onchain": true,
-        "notes": "BNB Foundation 공식 발표에서 소각 완료 수량, 남은 총공급량, 블랙홀 주소 전송 방식과 트랜잭션 공개 여부를 확인했다."
-      }
-    },
-    {
-      "stable_id": "2026-07-23-ondo-sbi-japan-tokenized-stocks",
-      "status": "official_source_checked_reference",
-      "published_at_kst": "2026-07-23T09:00:00+09:00",
-      "source_time": "Ondo 공식 발표 2026-07-16 · 영상 게시 약 4일 전",
-      "published_at": "2026-07-23T00:00:00Z",
-      "kst": "2026-07-23 09:00:00 KST",
-      "title": "온도(ONDO), SBI와 일본 주식 온체인화 추진…확인된 내용과 남은 과제",
-      "summary": "Ondo Finance 공식 발표에 따르면 온도와 SBI는 일본 주식을 온체인으로 발행·유통하고, SBI의 엔화 스테이블코인 JPYSC를 결제와 담보에 활용하는 방안을 추진한다. Ondo 토큰화 상품을 SBI 그룹 생태계에 공급하고 공동 마케팅도 진행할 계획이다. 이번 협력은 일본 자본시장과 글로벌 토큰화 시장을 연결하는 것을 목표로 한다. 다만 이는 파트너십과 추진 계획을 발표한 단계이며, 일본 내 실제 상품 출시일이나 규제 승인 완료를 의미하지 않는다. 따라서 ONDO 토큰 가격 전망보다 출시 일정, 취급 지역, 규제 구조를 중심으로 확인해야 한다.",
-      "importance": 4,
-      "tone": "up",
-      "impact": "호재",
-      "asset_class": "altcoin",
-      "token_symbol": "ONDO",
-      "event_type": "partnership",
-      "btc_impact": {
-        "direction": "호재",
-        "assessment": "일본 대형 금융그룹과의 협력은 ONDO의 실물자산 토큰화 유통망 확대에 긍정적이다. 엔화 결제·담보 인프라가 실제 도입되면 온체인 증권 시장의 접근성이 넓어질 수 있다. 그러나 파트너십 발표만으로 매출, 이용자 증가 또는 ONDO 토큰 수요가 자동으로 발생하는 것은 아니므로 실행 단계 확인이 필요하다."
-      },
-      "why_it_matters": "RWA 시장의 핵심은 단순한 토큰 발행이 아니라 규제된 자산 공급, 현지 유통망, 결제수단을 동시에 확보하는 것이다. SBI는 일본 금융시장 접근 채널을 제공하고 Ondo는 토큰화 인프라를 제공한다. 계획대로 실행될 경우 ONDO가 미국 중심의 토큰화 주식 사업을 일본 자산과 엔화 결제로 확장하는 계기가 될 수 있다.",
-      "missed_point": "공식 발표는 협력 범위를 설명하지만 구체적인 출시일, 대상 종목, 투자자 자격과 규제 승인을 모두 확정하지 않았다. 또한 Ondo 플랫폼의 성장과 ONDO 토큰의 가치 포착 구조는 별도로 검토해야 한다.",
-      "follow_up": [
-        "일본 주식 토큰화 상품의 실제 출시일과 대상 종목",
-        "일본 및 제공 지역별 규제 승인과 투자자 제한",
-        "JPYSC 결제·담보 기능의 실제 적용 여부",
-        "ONDO 토큰이 서비스 수익과 연결되는 구조"
-      ],
-      "sources": [
-        {
-          "name": "Ondo Finance 공식 발표 — SBI 협력",
-          "url": "https://ondo.finance/blog/ondo-partners-with-sbi-group"
-        }
-      ],
-      "verification": {
-        "state": "official_source_checked_reference",
-        "independent_sources": 1,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "official_or_onchain": true,
-        "notes": "영상에서 제시한 SBI 협력의 핵심 내용은 Ondo Finance 공식 발표로 확인했다. 10억달러 규모나 DTCC 연결 등 별도 주장은 이번 카드의 확정 사실에서 제외했다."
-      }
-    },
     {
       "stable_id": "2026-07-22-sui-six-million-tps-experiment",
       "status": "official_source_checked_reference",
@@ -129,6 +45,48 @@
         "rumor_excluded": true,
         "official_or_onchain": true,
         "notes": "공식 블로그의 6,086,766 TPS 수치를 확인했으며, 프로그래머블 터널이 오프체인 채널이라는 조건을 제목과 본문에 명시했다. 메인넷 직접 처리량으로 표현하지 않았다."
+      }
+    },
+    {
+      "stable_id": "2026-07-23-ondo-sbi-japan-tokenized-stocks",
+      "status": "official_source_checked_reference",
+      "published_at_kst": "2026-07-23T09:00:00+09:00",
+      "source_time": "Ondo 공식 발표 2026-07-16 · 영상 게시 약 4일 전",
+      "published_at": "2026-07-23T00:00:00Z",
+      "kst": "2026-07-23 09:00:00 KST",
+      "title": "온도(ONDO), SBI와 일본 주식 온체인화 추진…확인된 내용과 남은 과제",
+      "summary": "Ondo Finance 공식 발표에 따르면 온도와 SBI는 일본 주식을 온체인으로 발행·유통하고, SBI의 엔화 스테이블코인 JPYSC를 결제와 담보에 활용하는 방안을 추진한다. Ondo 토큰화 상품을 SBI 그룹 생태계에 공급하고 공동 마케팅도 진행할 계획이다. 이번 협력은 일본 자본시장과 글로벌 토큰화 시장을 연결하는 것을 목표로 한다. 다만 이는 파트너십과 추진 계획을 발표한 단계이며, 일본 내 실제 상품 출시일이나 규제 승인 완료를 의미하지 않는다. 따라서 ONDO 토큰 가격 전망보다 출시 일정, 취급 지역, 규제 구조를 중심으로 확인해야 한다.",
+      "importance": 4,
+      "tone": "up",
+      "impact": "호재",
+      "asset_class": "altcoin",
+      "token_symbol": "ONDO",
+      "event_type": "partnership",
+      "btc_impact": {
+        "direction": "호재",
+        "assessment": "일본 대형 금융그룹과의 협력은 ONDO의 실물자산 토큰화 유통망 확대에 긍정적이다. 엔화 결제·담보 인프라가 실제 도입되면 온체인 증권 시장의 접근성이 넓어질 수 있다. 그러나 파트너십 발표만으로 매출, 이용자 증가 또는 ONDO 토큰 수요가 자동으로 발생하는 것은 아니므로 실행 단계 확인이 필요하다."
+      },
+      "why_it_matters": "RWA 시장의 핵심은 단순한 토큰 발행이 아니라 규제된 자산 공급, 현지 유통망, 결제수단을 동시에 확보하는 것이다. SBI는 일본 금융시장 접근 채널을 제공하고 Ondo는 토큰화 인프라를 제공한다. 계획대로 실행될 경우 ONDO가 미국 중심의 토큰화 주식 사업을 일본 자산과 엔화 결제로 확장하는 계기가 될 수 있다.",
+      "missed_point": "공식 발표는 협력 범위를 설명하지만 구체적인 출시일, 대상 종목, 투자자 자격과 규제 승인을 모두 확정하지 않았다. 또한 Ondo 플랫폼의 성장과 ONDO 토큰의 가치 포착 구조는 별도로 검토해야 한다.",
+      "follow_up": [
+        "일본 주식 토큰화 상품의 실제 출시일과 대상 종목",
+        "일본 및 제공 지역별 규제 승인과 투자자 제한",
+        "JPYSC 결제·담보 기능의 실제 적용 여부",
+        "ONDO 토큰이 서비스 수익과 연결되는 구조"
+      ],
+      "sources": [
+        {
+          "name": "Ondo Finance 공식 발표 — SBI 협력",
+          "url": "https://ondo.finance/blog/ondo-partners-with-sbi-group"
+        }
+      ],
+      "verification": {
+        "state": "official_source_checked_reference",
+        "independent_sources": 1,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "notes": "영상에서 제시한 SBI 협력의 핵심 내용은 Ondo Finance 공식 발표로 확인했다. 10억달러 규모나 DTCC 연결 등 별도 주장은 이번 카드의 확정 사실에서 제외했다."
       }
     },
     {
@@ -502,6 +460,48 @@
       "kst": "2026-07-26 20:52:12 KST",
       "status": "확인됨",
       "impact": "양방향"
+    },
+    {
+      "stable_id": "2026-07-15-bnb-36th-quarterly-burn",
+      "status": "official_onchain_verified",
+      "published_at_kst": "2026-07-15T19:35:00+09:00",
+      "source_time": "2026-07-15T10:35:00Z",
+      "published_at": "2026-07-15T10:35:00Z",
+      "kst": "2026-07-15 19:35:00 KST",
+      "title": "BNB 제36차 분기 소각 완료…161만5827 BNB 영구 제거",
+      "summary": "BNB Foundation은 제36차 분기 BNB 자동 소각을 완료했다고 공식 발표했다. 이번에 소각된 물량은 1,615,827.795 BNB이며 발표 당시 평가액은 약 9억3170만달러였다. 소각 후 남은 총공급량은 133,166,127.91 BNB로 집계됐다. 이번 소각부터 BNB Chain Fusion에 따라 BSC에서 블랙홀 주소로 직접 전송하는 방식이 사용됐다. BNB 자동 소각은 가격과 분기 중 생성된 블록 수를 반영해 최종 공급량을 1억 BNB까지 줄이는 구조다.",
+      "importance": 4,
+      "tone": "up",
+      "impact": "호재",
+      "asset_class": "altcoin",
+      "token_symbol": "BNB",
+      "event_type": "burn",
+      "btc_impact": {
+        "direction": "호재",
+        "assessment": "실제 온체인 소각으로 유통 가능한 총공급량이 감소했다는 점은 BNB의 장기 공급 측면에 긍정적이다. 다만 정기 자동 소각은 사전에 알려진 제도이므로 발표 시점에 이미 시장 기대에 반영됐을 가능성이 있다. 단기 가격은 소각량보다 BNB Chain 이용량, 거래 수수료, 규제와 시장 위험선호의 영향을 더 크게 받을 수 있다."
+      },
+      "why_it_matters": "소각은 재단의 계획 발표가 아니라 실제로 복구 불가능한 주소에 자산을 전송했는지가 핵심이다. 이번 건은 BNB Foundation이 수량, 남은 공급량과 트랜잭션을 함께 공개한 완료형 소각이다. 분기 자동 소각과 BEP-95 실시간 가스비 소각이 병행되기 때문에 BNB의 공급 감소 속도를 추적하는 기준점이 된다.",
+      "missed_point": "큰 달러 환산액만 보고 같은 규모의 신규 매수 수요가 발생했다고 해석하면 안 된다. 소각은 공급 감소 이벤트이며 현금이 시장에 유입된 사건은 아니다. 또한 정기적으로 예정된 소각이므로 예상치 대비 실제 소각량과 네트워크 활동을 함께 봐야 한다.",
+      "follow_up": [
+        "공식 소각 트랜잭션과 블랙홀 주소 잔액",
+        "다음 분기 자동 소각 예상량",
+        "BEP-95 실시간 가스비 소각 누적량",
+        "BSC 거래량·수수료와 활성 주소 변화"
+      ],
+      "sources": [
+        {
+          "name": "BNB Chain 공식 발표 — 제36차 BNB 소각",
+          "url": "https://www.bnbchain.org/en/blog/36th-bnb-burn"
+        }
+      ],
+      "verification": {
+        "state": "official_onchain_verified",
+        "independent_sources": 1,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "notes": "BNB Foundation 공식 발표에서 소각 완료 수량, 남은 총공급량, 블랙홀 주소 전송 방식과 트랜잭션 공개 여부를 확인했다."
+      }
     }
   ]
 }
