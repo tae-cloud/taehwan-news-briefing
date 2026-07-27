@@ -46,6 +46,7 @@
     const verification = item.verification || {};
     const separation = verification.trump_separation || {};
     const stars = Math.max(1, Math.min(5, Number(item.importance) || 3));
+    const impactLabel = item.asset_class === "altcoin" ? "해당 코인" : "BTC";
     article.className = `story ${tone} live-story`;
     article.dataset.tone = tone;
     article.dataset.asset = item.asset_class || "bitcoin";
@@ -57,7 +58,7 @@
         <div class="page">${item.updated_at_kst ? "최근 업데이트" : "실시간 업데이트"} · ${esc(item.updated_at_kst || item.kst || item.published_at_kst || item.published_at)}</div>
         <h2>${esc(TITLE_TRANSLATIONS[item.stable_id] || item.title)}</h2>
         <div class="metadata">
-          <b>중요도: ${"★".repeat(stars)}${"☆".repeat(5 - stars)} · BTC ${esc(impact.direction)}</b>
+          <b>중요도: ${"★".repeat(stars)}${"☆".repeat(5 - stars)} · ${impactLabel} ${esc(impact.direction)}</b>
           ${item.asset_class === "altcoin" ? `<span><b>알트코인 · ${esc(item.token_symbol || "토큰 확인 중")} · ${esc(item.event_type || "market")}</b></span>` : ""}
           <span>원문 시각: ${esc(item.source_time || item.published_at || "확인 중")}</span>
           <span class="importance">${esc(verification.state || item.status || "verified")}</span>
@@ -65,7 +66,7 @@
         ${section("후속 속보", esc(item.latest_update))}
         ${section("핵심 내용", esc(item.summary))}
         ${section("왜 중요한가", esc(item.why_it_matters))}
-        ${section("BTC 영향", esc(impact.assessment))}
+        ${section(item.asset_class === "altcoin" ? "해당 코인 영향" : "BTC 영향", esc(impact.assessment))}
         ${section("시장이 놓치고 있는 포인트", esc(item.missed_point))}
         ${section("추가 확인", list(item.follow_up))}
         ${separation.statement ? section("발언·정책·시장 해석", `
@@ -77,7 +78,7 @@
       </section>
       <aside class="side">
         <div><div class="eyebrow">LIVE VERIFIED</div><div class="motif">${esc(impact.direction)}</div>
-        <div class="track"><i></i><i></i><i></i><span>사건</span><span>시장 변수</span><span>BTC 영향</span></div></div>
+        <div class="track"><i></i><i></i><i></i><span>사건</span><span>시장 변수</span><span>${item.asset_class === "altcoin" ? "코인 영향" : "BTC 영향"}</span></div></div>
         <div class="sidecopy">${esc(verification.independent_sources || flattenSources(item.sources).length)}개 이상 출처와 후속 맥락을 교차 확인한 분석입니다.</div>
       </aside>`;
     return article;

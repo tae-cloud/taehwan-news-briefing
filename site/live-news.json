@@ -2,6 +2,102 @@
   "generated_at_kst": "2026-07-27T18:56:19+09:00",
   "items": [
     {
+      "stable_id": "2026-07-23-ondo-sbi-japan-tokenized-stocks",
+      "status": "official_source_checked_reference",
+      "published_at_kst": "2026-07-23T09:00:00+09:00",
+      "source_time": "Ondo 공식 발표 2026-07-16 · 영상 게시 약 4일 전",
+      "published_at": "2026-07-23T00:00:00Z",
+      "kst": "2026-07-23 09:00:00 KST",
+      "title": "온도(ONDO), SBI와 일본 주식 온체인화 추진…확인된 내용과 남은 과제",
+      "summary": "새벽에온주호 채널은 온도의 토큰화 주식 사업과 일본 SBI 협력을 주요 소재로 다뤘다. Ondo Finance 공식 발표에 따르면 양사는 일본 주식을 온체인으로 발행·유통하고, SBI의 엔화 스테이블코인 JPYSC를 결제와 담보에 활용하는 방안을 추진한다. Ondo 토큰화 상품을 SBI 그룹 생태계에 공급하고 공동 마케팅도 진행할 계획이다. 다만 이는 파트너십과 추진 계획을 발표한 단계이며, 일본 내 실제 상품 출시일이나 규제 승인 완료를 의미하지 않는다. 따라서 ONDO 토큰 가격 전망보다 출시 일정, 취급 지역, 규제 구조를 중심으로 확인해야 한다.",
+      "importance": 4,
+      "tone": "up",
+      "impact": "호재",
+      "asset_class": "altcoin",
+      "token_symbol": "ONDO",
+      "event_type": "partnership",
+      "btc_impact": {
+        "direction": "호재",
+        "assessment": "일본 대형 금융그룹과의 협력은 ONDO의 실물자산 토큰화 유통망 확대에 긍정적이다. 엔화 결제·담보 인프라가 실제 도입되면 온체인 증권 시장의 접근성이 넓어질 수 있다. 그러나 파트너십 발표만으로 매출, 이용자 증가 또는 ONDO 토큰 수요가 자동으로 발생하는 것은 아니므로 실행 단계 확인이 필요하다."
+      },
+      "why_it_matters": "RWA 시장의 핵심은 단순한 토큰 발행이 아니라 규제된 자산 공급, 현지 유통망, 결제수단을 동시에 확보하는 것이다. SBI는 일본 금융시장 접근 채널을 제공하고 Ondo는 토큰화 인프라를 제공한다. 계획대로 실행될 경우 ONDO가 미국 중심의 토큰화 주식 사업을 일본 자산과 엔화 결제로 확장하는 계기가 될 수 있다.",
+      "missed_point": "공식 발표는 협력 범위를 설명하지만 구체적인 출시일, 대상 종목, 투자자 자격과 규제 승인을 모두 확정하지 않았다. 또한 Ondo 플랫폼의 성장과 ONDO 토큰의 가치 포착 구조는 별도로 검토해야 한다.",
+      "follow_up": [
+        "일본 주식 토큰화 상품의 실제 출시일과 대상 종목",
+        "일본 및 제공 지역별 규제 승인과 투자자 제한",
+        "JPYSC 결제·담보 기능의 실제 적용 여부",
+        "ONDO 토큰이 서비스 수익과 연결되는 구조"
+      ],
+      "sources": [
+        {
+          "name": "새벽에온주호 — ONDO 영상",
+          "url": "https://www.youtube.com/watch?v=PU5EjBh8NaE"
+        },
+        {
+          "name": "Ondo Finance 공식 발표 — SBI 협력",
+          "url": "https://ondo.finance/blog/ondo-partners-with-sbi-group"
+        }
+      ],
+      "verification": {
+        "state": "official_source_checked_reference",
+        "independent_sources": 1,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "notes": "영상에서 제시한 SBI 협력의 핵심 내용은 Ondo Finance 공식 발표로 확인했다. 10억달러 규모나 DTCC 연결 등 별도 주장은 이번 카드의 확정 사실에서 제외했다."
+      }
+    },
+    {
+      "stable_id": "2026-07-22-sui-six-million-tps-experiment",
+      "status": "official_source_checked_reference",
+      "published_at_kst": "2026-07-22T09:00:00+09:00",
+      "source_time": "Sui 공식 발표 2026-07-06 · 영상 게시 약 5일 전",
+      "published_at": "2026-07-22T00:00:00Z",
+      "kst": "2026-07-22 09:00:00 KST",
+      "title": "수이(SUI) 600만 TPS 기록의 실제 의미…메인넷 처리량과 구분 필요",
+      "summary": "새벽에온주호 채널은 수이가 600만 TPS를 기록한 실험을 최근 주요 소재로 다뤘다. Sui Foundation 공식 설명에 따르면 2026년 7월 4일 공개 실험에서 최고 6,086,766 TPS가 측정됐다. 이 수치는 AI 에이전트가 게임·결제·채팅을 수행하는 과정에서 프로그래머블 터널이라는 오프체인 채널을 사용해 기록됐다. 채널이 닫힐 때 결과가 수이 메인넷에 정산되는 구조이므로 메인넷이 초당 600만 건을 직접 확정했다는 의미는 아니다. 기술적 확장성 실험으로는 의미가 있지만 실제 메인넷 수요, 수수료 수익, 장애 안정성과 분리해 평가해야 한다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "asset_class": "altcoin",
+      "token_symbol": "SUI",
+      "event_type": "upgrade",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "높은 처리량 실험은 Sui 생태계의 결제·게임·AI 애플리케이션 확장 가능성을 보여주는 긍정적 신호다. 반면 오프체인 채널 결과를 메인넷 TPS처럼 해석하면 성능을 과대평가할 수 있다. SUI에 대한 실질적 영향은 프로그래머블 터널의 상용화, 메인넷 정산 비용, 이용자와 수수료 증가로 이어지는지에 달려 있다."
+      },
+      "why_it_matters": "블록체인 성능 수치는 측정 환경에 따라 의미가 크게 달라진다. 프로그래머블 터널은 반복 상호작용을 오프체인에서 처리한 뒤 최종 상태를 메인넷에 정산해 확장성을 높이는 방식이다. 실제 서비스에 적용된다면 게임과 AI 에이전트 결제에 유용하지만, 메인넷의 합의 처리량과 동일한 지표로 비교하면 안 된다.",
+      "missed_point": "600만 TPS는 공개 실험의 순간 최고치이며 일반적인 메인넷 거래 처리량이 아니다. 과거 네트워크 중단 이력과 현재 상태 페이지, 실제 애플리케이션 채택률도 함께 봐야 기술적 성과가 투자 가치로 이어지는지 판단할 수 있다.",
+      "follow_up": [
+        "프로그래머블 터널의 메인넷 상용화 일정",
+        "터널 종료 시 메인넷 정산 비용과 지연시간",
+        "실제 게임·결제 애플리케이션 채택 사례",
+        "Sui 상태 페이지의 장애 및 안정성 기록"
+      ],
+      "sources": [
+        {
+          "name": "새벽에온주호 — SUI 영상",
+          "url": "https://www.youtube.com/watch?v=HaihyDUgsAQ"
+        },
+        {
+          "name": "Sui Foundation 공식 발표 — 600만 TPS 실험",
+          "url": "https://blog.sui.io/sui-processes-over-6-million-transactions-per-second-in-ai-agent-livestream-experiment/"
+        },
+        {
+          "name": "Sui 공식 상태 페이지",
+          "url": "https://status.sui.io/history"
+        }
+      ],
+      "verification": {
+        "state": "official_source_checked_reference",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "notes": "공식 블로그의 6,086,766 TPS 수치를 확인했으며, 프로그래머블 터널이 오프체인 채널이라는 조건을 제목과 본문에 명시했다. 메인넷 직접 처리량으로 표현하지 않았다."
+      }
+    },
+    {
       "stable_id": "2026-07-27-iran-hormuz-status-unchanged-talks-continue",
       "status": "cross_verified_follow_up",
       "published_at_kst": "2026-07-27T16:57:00+09:00",

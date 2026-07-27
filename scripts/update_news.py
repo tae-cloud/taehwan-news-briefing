@@ -177,7 +177,7 @@ def collect_youtube():
             title = clean_title(entry.get("title", ""))
             summary = clean_html(entry.get("summary", ""))
             combined = f"{title} {summary}".lower()
-            if NOW - when > timedelta(hours=72) or not any(term in combined for term in BTC_TERMS):
+            if NOW - when > timedelta(days=14) or not any(term in combined for term in BTC_TERMS):
                 continue
             rows.append({
                 "title": title[:220],
@@ -192,8 +192,11 @@ def collect_youtube():
 
 def collect():
     rows = []
-    for query in QUERIES:
-        url = f"https://news.google.com/rss/search?q={quote_plus(query + ' when:1d')}&hl=en-US&gl=US&ceid=US:en"
+    youtube_rows = collect_youtube()
+    search_jobs = [(query, 1) for query in QUERIES]
+    search_jobs.extend((row["title"], 14) for row in youtube_rows[:12])
+    for query, days in search_jobs:
+        url = f"https://news.google.com/rss/search?q={quote_plus(query + f' when:{days}d')}&hl=en-US&gl=US&ceid=US:en"
         for entry in feedparser.parse(url).entries[:30]:
             raw = entry.get("published") or entry.get("updated")
             try:
@@ -201,7 +204,7 @@ def collect():
             except (TypeError, ValueError):
                 continue
             title = clean_title(entry.get("title", ""))
-            if NOW - when > timedelta(hours=30) or not any(t in title.lower() for t in BTC_TERMS):
+            if NOW - when > timedelta(days=days, hours=6) or not any(t in title.lower() for t in BTC_TERMS):
                 continue
             source = (entry.get("source") or {}).get("title", "Google News").strip()
             rows.append({"title": title, "url": entry.get("link", ""), "source": source,
@@ -209,7 +212,7 @@ def collect():
                          "snippet": clean_html(entry.get("summary", ""))[:1200]})
     rows.extend(collect_telegram())
     rows.extend(collect_saveticker())
-    rows.extend(collect_youtube())
+    rows.extend(youtube_rows)
     return rows
 
 
