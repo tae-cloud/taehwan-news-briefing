@@ -26,6 +26,7 @@ BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
              "비트코인", "암호화폐", "연준", "금리", "인플레이션", "유가",
              "이란", "호르무즈", "관세", "달러", "채권"}
 TELEGRAM_CHANNELS = ("goddessTTF",)
+SAVETICKER_URL = "https://www.saveticker.com/news"
 SUPPRESSED_DUPLICATES = {
     "2026-07-26-cd976c2c93c2",
     "2026-07-26-08d1a65d77c4",
@@ -81,6 +82,64 @@ def collect_telegram():
     return rows
 
 
+def relative_kst_time(label):
+    label = label.strip()
+    now_kst = NOW.astimezone(KST)
+    if label == "방금 전":
+        return NOW
+    match = re.fullmatch(r"(\d+)(분|시간)\s*전", label)
+    if match:
+        minutes = int(match.group(1)) * (60 if match.group(2) == "시간" else 1)
+        return NOW - timedelta(minutes=minutes)
+    match = re.fullmatch(r"(\d{1,2}):(\d{2})", label)
+    if match:
+        candidate = now_kst.replace(hour=int(match.group(1)), minute=int(match.group(2)),
+                                    second=0, microsecond=0)
+        if candidate > now_kst + timedelta(minutes=5):
+            candidate -= timedelta(days=1)
+        return candidate.astimezone(timezone.utc)
+    return None
+
+
+def collect_saveticker():
+    try:
+        response = requests.get(
+            SAVETICKER_URL,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; TaehwanNewsBot/1.0)"},
+            timeout=20)
+        response.raise_for_status()
+    except requests.RequestException:
+        return []
+    soup = BeautifulSoup(response.text, "html.parser")
+    rows, seen = [], set()
+    for card in soup.select("div[data-index]"):
+        title_node = card.select_one("p[class*='text-large-bold']")
+        if title_node is None:
+            continue
+        title = clean_html(title_node.get_text(" ", strip=True))
+        if not title or title in seen or title.startswith("(카더라)"):
+            continue
+        text = card.get_text("\n", strip=True)
+        time_match = re.search(r"(방금 전|\d+\s*(?:분|시간)\s*전|\d{1,2}:\d{2})", text)
+        when = relative_kst_time(time_match.group(1).replace(" ", "")) if time_match else None
+        if when is None or NOW - when > timedelta(hours=30):
+            continue
+        if not any(term in title.lower() for term in BTC_TERMS):
+            continue
+        lines = [line.strip() for line in text.splitlines() if line.strip()]
+        source = lines[0] if lines else "SaveTicker"
+        rows.append({
+            "title": title[:220],
+            "url": SAVETICKER_URL,
+            "source": f"SaveTicker · {source}",
+            "published_at": when.isoformat().replace("+00:00", "Z"),
+            "snippet": title,
+            "discovery_source": "saveticker",
+        })
+        seen.add(title)
+    return rows
+
+
 def collect():
     rows = []
     for query in QUERIES:
@@ -99,6 +158,7 @@ def collect():
                          "published_at": when.isoformat().replace("+00:00", "Z"),
                          "snippet": clean_html(entry.get("summary", ""))[:1200]})
     rows.extend(collect_telegram())
+    rows.extend(collect_saveticker())
     return rows
 
 
@@ -126,8 +186,9 @@ def stable_id(title, when):
 def candidates():
     result = []
     for group in cluster(collect()):
-        telegram_discovery = any(x.get("discovery_source") == "telegram" for x in group)
-        if len(group) < 2 and not any(x["source"] in TRUSTED for x in group) and not telegram_discovery:
+        discovery_sources = {x.get("discovery_source") for x in group} - {None}
+        discovery_only = bool(discovery_sources)
+        if len(group) < 2 and not any(x["source"] in TRUSTED for x in group) and not discovery_only:
             continue
         lead = group[0]
         if any(pattern in lead["title"].lower() for pattern in LOW_SIGNAL_TITLE_PATTERNS):
@@ -135,7 +196,7 @@ def candidates():
         result.append({
             "stable_id": stable_id(lead["title"], lead["published_at"]),
             "original_title": lead["title"], "published_at": lead["published_at"],
-            "discovery_source": "telegram" if telegram_discovery else "news",
+            "discovery_source": sorted(discovery_sources)[0] if discovery_sources else "news",
             "evidence": [{"headline": x["title"], "source": x["source"],
                           "snippet": x.get("snippet", ""), "url": x["url"]}
                          for x in group[:5]],
@@ -152,11 +213,12 @@ def valid(item):
     source_rows = sources if isinstance(sources, list) else [
         source for group in sources.values() for source in group
     ]
-    telegram_verified = (item.get("discovery_source") != "telegram"
-                         or (verification.get("independent_sources", 0) >= 2
-                             and any("telegram" not in source.get("name", "").lower()
-                                     for source in source_rows)))
-    return (telegram_verified
+    discovery_verified = (item.get("discovery_source") == "news"
+                          or (verification.get("independent_sources", 0) >= 2
+                              and any(all(tag not in source.get("name", "").lower()
+                                          for tag in ("telegram", "saveticker"))
+                                      for source in source_rows)))
+    return (discovery_verified
             and bool(re.search(r"[가-힣]", title))
             and len(title) >= 8
             and len(item.get("summary", "")) >= 180
@@ -178,8 +240,9 @@ def enrich(items):
 유가→물가→연준→금리·달러→BTC 전달 경로, 후속 발언으로 기존 평가가 바뀌는지를 반드시 검토한다.
 FinancialJuice 단독 속보는 공식·독립 출처로 재검증되지 않으면 제외한다.
 Telegram 게시물은 속보 탐지용일 뿐이다. Telegram 단독 항목은 절대 반환하지 않는다.
+SaveTicker 게시물도 속보 탐지용일 뿐이다. SaveTicker 단독 항목은 절대 반환하지 않는다.
 전체 후보의 evidence를 서로 대조해 Reuters·AP·Bloomberg 또는 공식 발표가 같은 사실을 독립적으로
-확인한 경우에만 Telegram 후보를 반환하고, 그 독립 출처 링크를 sources 배열에 복사한다.
+확인한 경우에만 Telegram·SaveTicker 후보를 반환하고, 그 독립 출처 링크를 sources 배열에 복사한다.
 반환은 JSON 객체 하나이며 results 배열만 포함한다. 각 결과에는 stable_id, title, summary(최소 5문장),
 importance(1~5), tone(up/down/warn), btc_impact({direction: 호재/악재/양방향, assessment: 최소 3문장}),
 why_it_matters(최소 3문장), missed_point(최소 2문장), follow_up(구체적 확인사항 3개 이상),
