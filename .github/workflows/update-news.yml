@@ -2,6 +2,11 @@ name: Update verified Bitcoin news
 
 on:
   workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "Days to backfill (1-14)"
+        required: false
+        default: "1"
   schedule:
     - cron: "*/5 * * * *"
 
@@ -27,6 +32,7 @@ jobs:
       - name: Collect, cross-check, and classify news
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NEWS_LOOKBACK_DAYS: ${{ inputs.lookback_days || '1' }}
         run: python scripts/update_news.py
       - name: Commit verified updates
         run: |
