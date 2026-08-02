@@ -55,6 +55,29 @@
       story.classList.toggle("search-hidden", Boolean(hidden));
     });
   }
+  function installImpactLabels() {
+    document.querySelectorAll(".story").forEach(story => {
+      const tone = story.classList.contains("up") ? "up" : story.classList.contains("down") ? "down" : "warn";
+      const label = tone === "up" ? "호재" : tone === "down" ? "악재" : "양방향";
+      story.dataset.impact = label;
+      const article = story.querySelector(".article");
+      if (article && !article.querySelector(".impact-badge")) {
+        const badge = document.createElement("div");
+        badge.className = `impact-badge ${tone}`;
+        badge.textContent = label;
+        const title = article.querySelector("h2");
+        article.insertBefore(badge, title || article.firstChild);
+      }
+    });
+    const counts = {
+      up: document.querySelectorAll(".story.up").length,
+      down: document.querySelectorAll(".story.down").length,
+      warn: document.querySelectorAll(".story.warn,.story.neutral").length
+    };
+    [["filter-all",`전체 ${document.querySelectorAll(".story").length}`],["filter-up",`호재 ${counts.up}`],["filter-down",`악재 ${counts.down}`],["filter-warn",`양방향 ${counts.warn}`]].forEach(([id,text]) => {
+      const label = document.querySelector(`label[for="${id}"]`); if (label) label.textContent = text;
+    });
+  }
   function installAssets() {
     const bar = document.querySelector(".filterbar"); if (!bar || bar.querySelector(".assetbuttons")) return;
     const group = document.createElement("div"); group.className = "assetbuttons";
@@ -66,17 +89,17 @@
     [...main.querySelectorAll(".story")].sort((a,b)=>String(b.dataset.published||"").localeCompare(String(a.dataset.published||""))).forEach(x=>main.insertBefore(x,empty));
     const jump=document.querySelector(".jump"); if(jump){jump.innerHTML="";[...main.querySelectorAll(".story")].forEach((x,i)=>{const a=document.createElement("a");a.href=`#${x.id}`;a.textContent=`${i+1}. ${(x.querySelector("h2")?.textContent||"").slice(0,28)}${(x.querySelector("h2")?.textContent||"").length>28?"…":""}`;jump.appendChild(a);});}
   }
-  const style=document.createElement("style"); style.textContent=".assetbuttons{display:flex;gap:6px;flex-wrap:wrap}.assetbuttons button{border:1px solid #ccd5e2;background:#fff;border-radius:999px;padding:9px 13px;min-height:44px;font-weight:900;cursor:pointer;color:#344054;touch-action:manipulation}.assetbuttons button.active{background:#5b35c9;color:#fff;border-color:#5b35c9}@media(max-width:700px){.assetbuttons{display:grid;grid-template-columns:repeat(3,1fr);width:100%}.assetbuttons button{padding:8px 4px;font-size:14px}}"; document.head.appendChild(style);
+  const style=document.createElement("style"); style.textContent=".assetbuttons{display:flex;gap:6px;flex-wrap:wrap}.assetbuttons button{border:1px solid #ccd5e2;background:#fff;border-radius:999px;padding:9px 13px;min-height:44px;font-weight:900;cursor:pointer;color:#344054;touch-action:manipulation}.assetbuttons button.active{background:#5b35c9;color:#fff;border-color:#5b35c9}.impact-badge{display:inline-flex;align-items:center;justify-content:center;min-width:72px;margin:0 0 14px;padding:7px 13px;border-radius:999px;color:#fff;font-size:14px;font-weight:950;letter-spacing:.04em}.impact-badge.up{background:#00966d}.impact-badge.down{background:#e3444e}.impact-badge.warn{background:#d48700}@media(max-width:700px){.assetbuttons{display:grid;grid-template-columns:repeat(3,1fr);width:100%}.assetbuttons button{padding:8px 4px;font-size:14px}.impact-badge{margin-bottom:10px;padding:6px 11px;font-size:13px}}"; document.head.appendChild(style);
   document.querySelector(".hero h1").innerHTML="태환의<br>뉴스 브리핑";
   document.querySelector(".hero .notice")?.remove();
   document.querySelectorAll(".story").forEach(s=>{if(!s.dataset.asset)s.dataset.asset="bitcoin";});
   installAssets(); document.getElementById("news-search")?.addEventListener("input",applyFilters);
-  { const main=document.querySelector("main"),empty=main?.querySelector(".empty"); if(main) editorialItems.forEach(item=>{if(!document.querySelector(`[data-news-id="${item.stable_id}"]`))main.insertBefore(renderStory(item),empty);}); sortStories(); }
+  { const main=document.querySelector("main"),empty=main?.querySelector(".empty"); if(main) editorialItems.forEach(item=>{if(!document.querySelector(`[data-news-id="${item.stable_id}"]`))main.insertBefore(renderStory(item),empty);}); sortStories(); installImpactLabels(); }
   fetch(`./live-news.json?t=${Date.now()}`,{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("feed unavailable");return r.json();}).then(feed=>{
     const main=document.querySelector("main"),empty=main?.querySelector(".empty"); if(!main||!Array.isArray(feed.items))return;
     document.querySelectorAll(".live-story").forEach(n=>n.remove());
     const existing=new Map([...main.querySelectorAll(".story[data-news-id]")].map(s=>[s.dataset.newsId,s]));
     feed.items.forEach(item=>{const old=existing.get(item.stable_id),fresh=renderStory(item);if(old)old.replaceWith(fresh);else main.insertBefore(fresh,empty);});
-    sortStories(); applyFilters();
+    sortStories(); installImpactLabels(); applyFilters();
   }).catch(err=>console.warn("실시간 뉴스 피드를 불러오지 못했습니다.",err));
 })();
