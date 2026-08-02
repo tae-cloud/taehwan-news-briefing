@@ -1,4 +1,77 @@
 (() => {
+  "use strict";
+  let activeAsset = "all";
+  const esc = (v = "") => String(v).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[c]);
+  const safeUrl = value => { try { const u = new URL(value, location.origin); return /https?:/.test(u.protocol) ? u.href : "#"; } catch { return "#"; } };
+  const sources = value => Array.isArray(value) ? value : Object.values(value || {}).flat();
+  const section = (title, body) => body ? `<section class="block"><h3>${esc(title)}</h3><div class="verbatim">${body}</div></section>` : "";
+  const list = values => Array.isArray(values) && values.length ? `<ul>${values.map(v => `<li>${esc(v)}</li>`).join("")}</ul>` : "";
+  const sourceLinks = value => sources(value).map(s => `<a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener noreferrer">${esc(s.name)} ↗</a>`).join(" · ");
+
+  function renderStory(item) {
+    const impact = typeof item.btc_impact === "object" ? item.btc_impact : {direction:item.impact || "양방향", assessment:item.btc_impact || ""};
+    const verification = item.verification || {};
+    const separation = verification.trump_separation || {};
+    const tone = ["up","down","warn"].includes(item.tone) ? item.tone : ({호재:"up",악재:"down"}[impact.direction] || "warn");
+    const stars = Math.max(1, Math.min(5, Number(item.importance) || 3));
+    const label = item.asset_class === "altcoin" ? (item.token_symbol || "알트코인") : "BTC";
+    const article = document.createElement("article");
+    article.className = `story ${tone} live-story`;
+    article.dataset.tone = tone;
+    article.dataset.asset = item.asset_class || "bitcoin";
+    article.dataset.newsId = item.stable_id || "";
+    article.dataset.published = item.updated_at_kst || item.published_at_kst || item.kst || item.source_time || item.published_at || "";
+    article.id = `live-${item.stable_id || Math.random().toString(36).slice(2)}`;
+    article.innerHTML = `<section class="article">
+      <div class="page">${item.updated_at_kst ? "최근 업데이트" : "실시간 업데이트"} · ${esc(item.updated_at_kst || item.kst || item.published_at_kst || item.published_at || "시간 확인 중")}</div>
+      <h2>${esc(item.title)}</h2>
+      <div class="metadata"><b>중요도: ${"★".repeat(stars)}${"☆".repeat(5-stars)} · ${esc(label)} ${esc(impact.direction)}</b>
+      <span>원문 시각: ${esc(item.source_time || item.published_at || "확인 중")}</span><span class="importance">${esc(verification.state || item.status || "verified")}</span></div>
+      ${item.asset_class === "altcoin" ? section("알트코인 정보", `<b>${esc(item.token_symbol || "토큰 확인 중")}</b> · ${esc(item.event_type || "market")}`) : ""}
+      ${item.event_type === "burn_scheduled" ? section("소각 예정 정보", `<p><b>예정 시각</b><br>${esc(item.scheduled_at || "공식 일정 확인 중")}</p><p><b>예정 수량</b><br>${esc(item.burn_amount || "공식 산식에 따라 결정")}</p><p><b>소각 방식</b><br>${esc(item.burn_method || "공식 공지 확인")}</p>`) : ""}
+      ${section("핵심 내용", esc(item.summary))}${section("왜 중요한가", esc(item.why_it_matters))}
+      ${section(item.asset_class === "altcoin" ? "해당 코인 영향" : "BTC 영향", esc(impact.assessment))}
+      ${section("시장이 놓치고 있는 포인트", esc(item.missed_point))}${section("추가 확인", list(item.follow_up))}
+      ${separation.statement ? section("발언·정책·시장 해석", `<p><b>발언</b><br>${esc(separation.statement)}</p><p><b>정책 행동</b><br>${esc(separation.policy_action)}</p><p><b>시장 해석</b><br>${esc(separation.market_interpretation)}</p>`) : ""}
+      ${section("검증 메모", esc(verification.notes))}${section("출처", sourceLinks(item.sources))}
+      </section><aside class="side"><div><div class="eyebrow">LIVE VERIFIED</div><div class="motif">${esc(impact.direction)}</div>
+      <div class="track"><i></i><i></i><i></i><span>사건</span><span>시장 변수</span><span>${item.asset_class === "altcoin" ? "코인 영향" : "BTC 영향"}</span></div></div>
+      <div class="sidecopy">${esc(verification.independent_sources || sources(item.sources).length)}개 출처와 후속 맥락을 교차 확인한 분석입니다.</div></aside>`;
+    return article;
+  }
+
+  function applyFilters() {
+    const q = (document.getElementById("news-search")?.value || "").trim().toLowerCase();
+    document.querySelectorAll(".story").forEach(story => {
+      const hidden = (q && !story.textContent.toLowerCase().includes(q)) || (activeAsset !== "all" && (story.dataset.asset || "bitcoin") !== activeAsset);
+      story.classList.toggle("search-hidden", Boolean(hidden));
+    });
+  }
+  function installAssets() {
+    const bar = document.querySelector(".filterbar"); if (!bar || bar.querySelector(".assetbuttons")) return;
+    const group = document.createElement("div"); group.className = "assetbuttons";
+    [["all","모든 자산"],["bitcoin","비트코인"],["altcoin","알트코인"]].forEach(([key,label]) => { const b=document.createElement("button"); b.type="button"; b.textContent=label; if(key==="all") b.classList.add("active"); b.onclick=()=>{activeAsset=key;group.querySelectorAll("button").forEach(x=>x.classList.remove("active"));b.classList.add("active");applyFilters();}; group.appendChild(b); });
+    bar.insertBefore(group, bar.querySelector(".filterhint"));
+  }
+  function sortStories() {
+    const main=document.querySelector("main"), empty=main?.querySelector(".empty"); if(!main) return;
+    [...main.querySelectorAll(".story")].sort((a,b)=>String(b.dataset.published||"").localeCompare(String(a.dataset.published||""))).forEach(x=>main.insertBefore(x,empty));
+    const jump=document.querySelector(".jump"); if(jump){jump.innerHTML="";[...main.querySelectorAll(".story")].forEach((x,i)=>{const a=document.createElement("a");a.href=`#${x.id}`;a.textContent=`${i+1}. ${(x.querySelector("h2")?.textContent||"").slice(0,28)}${(x.querySelector("h2")?.textContent||"").length>28?"…":""}`;jump.appendChild(a);});}
+  }
+  const style=document.createElement("style"); style.textContent=".assetbuttons{display:flex;gap:6px;flex-wrap:wrap}.assetbuttons button{border:1px solid #ccd5e2;background:#fff;border-radius:999px;padding:9px 13px;min-height:44px;font-weight:900;cursor:pointer;color:#344054;touch-action:manipulation}.assetbuttons button.active{background:#5b35c9;color:#fff;border-color:#5b35c9}@media(max-width:700px){.assetbuttons{display:grid;grid-template-columns:repeat(3,1fr);width:100%}.assetbuttons button{padding:8px 4px;font-size:14px}}"; document.head.appendChild(style);
+  document.querySelector(".hero h1").innerHTML="태환의<br>뉴스 브리핑";
+  document.querySelector(".hero .notice")?.remove();
+  document.querySelectorAll(".story").forEach(s=>{if(!s.dataset.asset)s.dataset.asset="bitcoin";});
+  installAssets(); document.getElementById("news-search")?.addEventListener("input",applyFilters);
+  fetch(`./live-news.json?t=${Date.now()}`,{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("feed unavailable");return r.json();}).then(feed=>{
+    const main=document.querySelector("main"),empty=main?.querySelector(".empty"); if(!main||!Array.isArray(feed.items))return;
+    document.querySelectorAll(".live-story").forEach(n=>n.remove());
+    const existing=new Map([...main.querySelectorAll(".story[data-news-id]")].map(s=>[s.dataset.newsId,s]));
+    feed.items.forEach(item=>{const old=existing.get(item.stable_id),fresh=renderStory(item);if(old)old.replaceWith(fresh);else main.insertBefore(fresh,empty);});
+    sortStories(); applyFilters();
+  }).catch(err=>console.warn("실시간 뉴스 피드를 불러오지 못했습니다.",err));
+})();
+(() => {
   let activeAsset = "all";
   const assetStyle = document.createElement("style");
   assetStyle.textContent = ".assetbuttons{display:flex;gap:6px;flex-wrap:wrap}.assetbuttons button{border:1px solid #ccd5e2;background:#fff;border-radius:999px;padding:9px 13px;min-height:44px;font-weight:900;cursor:pointer;color:#344054;touch-action:manipulation}.assetbuttons button.active{background:#5b35c9;color:#fff;border-color:#5b35c9}@media(max-width:700px){.assetbuttons{display:grid;grid-template-columns:repeat(3,1fr);width:100%}.assetbuttons button{padding:8px 4px;font-size:14px}}";
