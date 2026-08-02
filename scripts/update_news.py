@@ -334,16 +334,21 @@ asset_class(bitcoin 또는 altcoin), token_symbol(알트코인이면 필수), ev
 burn_method(자동 소각·바이백 후 소각 등), verification.official_source=true를 반드시 넣는다.
 날짜·수량·방식 중 핵심 조건이 공식 출처에서 확인되지 않거나 커뮤니티 투표·제안 단계라면 반환하지 않는다.
 출처에 없는 숫자나 사실을 만들지 않는다."""
-    response = requests.post(
-        "https://models.github.ai/inference/chat/completions",
-        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
-        json={"model": "openai/gpt-4.1", "temperature": 0.2,
-              "response_format": {"type": "json_object"},
-              "messages": [{"role": "system", "content": prompt},
-                           {"role": "user", "content": json.dumps(items, ensure_ascii=False)}]},
-        timeout=90)
-    response.raise_for_status()
-    patches = {x["stable_id"]: x for x in json.loads(response.json()["choices"][0]["message"]["content"]).get("results", [])}
+    patches = {}
+    for start in range(0, len(items), 6):
+        batch = items[start:start + 6]
+        response = requests.post(
+            "https://models.github.ai/inference/chat/completions",
+            headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+            json={"model": "openai/gpt-4.1", "temperature": 0.2,
+                  "response_format": {"type": "json_object"},
+                  "messages": [{"role": "system", "content": prompt},
+                               {"role": "user", "content": json.dumps(batch, ensure_ascii=False)}]},
+            timeout=90)
+        response.raise_for_status()
+        results = json.loads(response.json()["choices"][0]["message"]["content"]).get("results", [])
+        patches.update({x["stable_id"]: x for x in results})
+        print(f"Enriched batch {start // 6 + 1}: {len(results)}/{len(batch)} publishable")
     enriched = []
     for item in items:
         patch = patches.get(item["stable_id"])
