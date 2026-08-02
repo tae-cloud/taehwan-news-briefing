@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 FEED_PATH = ROOT / "site" / "live-news.json"
 KST = timezone(timedelta(hours=9))
 NOW = datetime.now(timezone.utc)
+LOOKBACK_DAYS = max(1, min(14, int(os.getenv("NEWS_LOOKBACK_DAYS", "1"))))
 TRUSTED = {"Reuters", "Associated Press", "AP", "Bloomberg"}
 QUERIES = [
     "bitcoin Reuters", "bitcoin AP", "bitcoin Bloomberg",
@@ -195,7 +196,7 @@ def collect_youtube():
 def collect():
     rows = []
     youtube_rows = collect_youtube()
-    search_jobs = [(query, 1) for query in QUERIES]
+    search_jobs = [(query, LOOKBACK_DAYS) for query in QUERIES]
     search_jobs.extend((row["title"], 14) for row in youtube_rows[:12])
     for query, days in search_jobs:
         url = f"https://news.google.com/rss/search?q={quote_plus(query + f' when:{days}d')}&hl=en-US&gl=US&ceid=US:en"
