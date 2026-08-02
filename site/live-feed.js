@@ -7,6 +7,14 @@
   const section = (title, body) => body ? `<section class="block"><h3>${esc(title)}</h3><div class="verbatim">${body}</div></section>` : "";
   const list = values => Array.isArray(values) && values.length ? `<ul>${values.map(v => `<li>${esc(v)}</li>`).join("")}</ul>` : "";
   const sourceLinks = value => sources(value).map(s => `<a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener noreferrer">${esc(s.name)} ↗</a>`).join(" · ");
+  const editorialItems = [
+    {stable_id:"2026-08-02-wld-world-id-enterprise",published_at_kst:"2026-08-02T12:30:00+09:00",source_time:"2026-07-23T00:00:00Z",title:"월드(WLD), World ID 기업·소비자 서비스 확대…토큰 가치 연결은 별도 확인",summary:"World는 World ID가 Zoom과 Docusign의 기업용 인간 인증에 통합되고, Tinder의 미국 서비스로 확대된다고 공식 발표했다. Zoom에서는 실시간 영상과 기존 인증 정보를 비교해 딥페이크 여부를 확인하고, Docusign에서는 서명자가 실제 인간임을 증명하는 구조다. Tinder는 일본 시범 운영 이후 미국으로 World ID 인증을 확대했다. 이는 World ID의 실제 사용처가 늘어나는 신호다. 다만 서비스 채택이 WLD 토큰의 직접적인 수요나 수익으로 이어지는 구조는 별도로 확인해야 한다.",importance:4,tone:"up",asset_class:"altcoin",token_symbol:"WLD",event_type:"adoption",btc_impact:{direction:"호재",assessment:"기업·소비자 플랫폼의 실제 통합은 월드 생태계의 사용성을 높이는 호재다. 다만 인증 서비스 이용 증가와 WLD 매수 수요 사이의 가치 포착 구조가 명확하지 않아 단기 가격 호재의 강도는 제한될 수 있다. 규제 지역별 생체정보 처리와 서비스 확장 속도도 함께 봐야 한다."},why_it_matters:"알트코인 채택 뉴스는 제휴 발표보다 실제 제품 안에 기능이 들어갔는지가 중요하다. 이번 건은 Zoom·Docusign·Tinder에서 구체적인 사용 방식이 공개됐다는 점에서 단순 협력보다 진전된 사례다.",missed_point:"World ID의 확장과 WLD 현물 ETF 신청 여부는 서로 다른 사안이다. ETF 신청은 승인이나 상장을 뜻하지 않으며, World ID 채택 역시 WLD 토큰의 자동 가치 상승을 보장하지 않는다.",follow_up:["WLD 관련 ETF 서류의 SEC 접수·심사 상태","Zoom·Tinder 통합의 실제 이용자 수","WLD 토큰의 서비스 내 사용·수수료 구조","지역별 생체정보 규제 대응"],sources:[{name:"World — Zoom·Docusign World ID 통합",url:"https://world.org/blog/announcements/zoom-docusign-world-id-for-business"},{name:"World — Tinder 미국 확대",url:"https://world.org/blog/announcements/tinder-verification-proof-of-human-dating"}],verification:{state:"official_source_verified",independent_sources:2,notes:"World 공식 발표에서 제품 통합을 확인했다. 영상에서 언급된 ETF와 보유 비율은 별도 공식 서류가 확인될 때까지 카드 핵심 사실에서 제외했다."}},
+    {stable_id:"2026-08-02-shib-etf-eligible-not-holding",published_at_kst:"2026-08-02T12:20:00+09:00",source_time:"2026-04-21T00:00:00Z",title:"시바이누(SHIB), 미국 ETF 적격자산 목록 포함…실제 편입·매수와는 구분",summary:"미국 SEC에 제출된 T. Rowe Price Active Crypto ETF 관련 문서에는 SHIB가 스폰서가 평가한 적격 암호자산 목록에 포함돼 있다. 이 목록은 펀드가 보유할 수 있는 후보군을 뜻하며 SHIB가 실제 포트폴리오에 편입됐다는 의미는 아니다. 문서는 적격자산과 지수 구성자산이 반드시 같을 필요도 없다고 설명한다. 따라서 ‘ETF 가능 자산’이라는 제도권 접근성 신호는 긍정적이지만 즉시 자금 유입으로 해석하면 안 된다. 거래 앱 확대나 소각도 실제 공지·온체인 수량을 별도로 확인해야 한다.",importance:3,tone:"up",asset_class:"altcoin",token_symbol:"SHIB",event_type:"etf_eligibility",btc_impact:{direction:"호재",assessment:"대형 운용사의 적격자산 평가에 포함된 점은 SHIB의 제도권 접근성 측면에서 호재다. 그러나 실제 ETF 보유, 편입 비중, 매수 시점은 확인되지 않았다. 밈코인 특성상 기대감만으로 변동성이 커질 수 있어 보유 내역 공개 전에는 조건부 호재로 보는 것이 적절하다."},why_it_matters:"ETF 관련 뉴스는 신청, 적격성, 승인, 실제 보유를 구분해야 한다. 이번 문서가 확인해 주는 것은 투자 가능 후보군이라는 사실까지이며 실제 수급 발생 여부는 일일 보유 공시가 결정한다.",missed_point:"‘명단 포함’은 ‘ETF 편입 완료’가 아니다. 로빈후드 연계 소각이나 일본 앱 거래 확대 역시 공식 트랜잭션과 서비스 공지를 확인하지 않으면 하나의 호재로 합산할 수 없다.",follow_up:["ETF 일일 보유 내역의 SHIB 편입 여부","SHIB 편입 비중과 최초 매수 시점","공식 소각 트랜잭션과 누적 소각량","일본 거래 플랫폼의 실제 지원 범위"],sources:[{name:"SEC — Active Crypto ETF 적격자산 문서",url:"https://www.sec.gov/comments/sr-nysearca-2025-77/srnysearca202577-758607-2330775.pdf"}],verification:{state:"sec_filing_verified",independent_sources:1,notes:"SEC 문서에서 SHIB의 적격자산 포함을 확인했다. 실제 편입과 소각 관련 주장은 공식 후속 자료 전까지 확정하지 않았다."}},
+    {stable_id:"2026-08-02-stx-monitoring-risk-ecosystem",published_at_kst:"2026-08-02T12:10:00+09:00",source_time:"2026-07-24T00:00:00Z",title:"스택스(STX), 거래소 모니터링 위험과 생태계 성장 지표를 분리해 봐야",summary:"바이낸스의 모니터링 태그는 변동성과 상장 유지 위험이 높은 자산에 부여되며 정기 심사 대상임을 뜻한다. 태그가 붙었다고 즉시 상장폐지가 확정되는 것은 아니다. 바이낸스는 팀의 개발 활동, 거래량과 유동성, 네트워크 안정성, 공개 소통 등을 심사 기준으로 제시한다. 한편 스택스 생태계 공식 회고 자료는 활성 계정, 지갑, 비트코인 유입과 TVL 등 성장 지표를 공개했다. 따라서 단기 거래소 위험과 중장기 네트워크 이용 증가를 동시에 추적해야 한다.",importance:4,tone:"warn",asset_class:"altcoin",token_symbol:"STX",event_type:"exchange_monitoring",btc_impact:{direction:"양방향",assessment:"모니터링 태그는 상장폐지 가능성을 높이는 악재지만 확정 통보는 아니다. 생태계 지표가 개선돼도 거래소 유동성·규정 준수 문제가 해결되지 않으면 가격 압력이 지속될 수 있다. 반대로 심사 기준 개선과 태그 해제가 확인되면 위험 프리미엄이 줄어들 수 있다."},why_it_matters:"STX 가격에는 비트코인 L2 생태계 성장뿐 아니라 중앙화 거래소의 유동성과 접근성이 큰 영향을 준다. 네트워크 사용량이 늘어도 주요 거래소 상장 위험이 커지면 두 신호가 서로 상쇄될 수 있다.",missed_point:"모니터링 태그를 상장폐지 확정으로 표현하면 안 된다. 반대로 지갑 수나 TVL 성장만으로 태그 위험이 해소됐다고 판단해서도 안 된다. 거래소의 공식 해제 공지가 최종 확인 기준이다.",follow_up:["바이낸스 STX 태그의 현재 표시 상태","바이낸스의 태그 해제·상장 유지 공식 공지","STX 현물 거래량과 호가 깊이","sBTC 공급량·Stacks TVL·활성 계정 추이"],sources:[{name:"Binance — Monitoring Tag 심사 기준",url:"https://www.binance.com/en/support/announcement/detail/782b121c462b499487dc8f20e0edc6b2"},{name:"Stacks — 생태계 연간 지표",url:"https://forum.stacks.org/t/stacks-2025-year-in-review/18583"}],verification:{state:"risk_framework_and_ecosystem_cross_checked",independent_sources:2,notes:"바이낸스의 태그 의미와 심사 기준, Stacks 생태계 지표를 각각 확인했다. 상장폐지로 단정하지 않았다."}},
+    {stable_id:"2026-08-02-xrp-ripple-mint",published_at_kst:"2026-08-02T12:00:00+09:00",source_time:"2026-07-23T00:00:00Z",title:"리플, 기관용 ‘Ripple Mint’ 공개…RLUSD·XRP 레저 활용 확대",summary:"Ripple은 기관이 RLUSD를 발행·상환·관리할 수 있는 통합 인터페이스 Ripple Mint를 공개했다. RLUSD는 뉴욕주 금융서비스국 감독을 받는 신탁회사가 발행하며 XRP Ledger와 Ethereum에서 운용된다. Ripple은 기관이 화면이나 API 방식으로 대규모 스테이블코인 업무를 처리할 수 있도록 설계했다고 설명했다. 이는 결제·트레이딩·재무 운영에서 XRPL 기반 유동성 활용 범위를 넓히는 인프라 업데이트다. 다만 RLUSD 성장과 XRP 토큰 가격의 가치 포착은 동일한 문제가 아니다.",importance:4,tone:"up",asset_class:"altcoin",token_symbol:"XRP",event_type:"institutional_product",btc_impact:{direction:"호재",assessment:"규제된 기관용 스테이블코인 운영 도구는 Ripple 생태계의 실사용 확대에 긍정적이다. XRPL에서 RLUSD 유통과 결제가 늘면 네트워크 활용도가 높아질 수 있다. 다만 수수료 구조와 XRP 브리지 자산 사용 비중이 확인되지 않으면 XRP 수요 증가를 곧바로 단정할 수 없다."},why_it_matters:"기관 채택에서는 발표보다 발행·상환·회계·API 운영을 지원하는 실무 인프라가 중요하다. Ripple Mint는 기관이 RLUSD를 실제 업무에 적용하는 진입 장벽을 낮춘다는 점에서 의미가 있다.",missed_point:"Ripple 회사의 제품 성장, RLUSD 시가총액 증가, XRP 가격 상승은 서로 다른 전달 경로다. XRP가 결제나 유동성 과정에서 얼마나 사용되는지 실제 거래 데이터를 확인해야 한다.",follow_up:["Ripple Mint 기관 고객과 처리 규모","RLUSD 발행량·상환량·거래량","XRPL과 Ethereum 간 RLUSD 비중","XRP가 유동성 브리지로 사용되는 비율"],sources:[{name:"Ripple — Ripple Mint 공식 소개",url:"https://ripple.com/insights/ripple-mint/"},{name:"Ripple — XRP 공식 인사이트",url:"https://ripple.com/insights/category/xrp/"}],verification:{state:"official_product_verified",independent_sources:2,notes:"Ripple 공식 제품 발표에서 기능과 규제 구조를 확인했다. 영상의 가격 전망은 반영하지 않았다."}},
+    {stable_id:"2026-08-02-eth-institutional-orgs",published_at_kst:"2026-08-02T11:50:00+09:00",source_time:"2026-07-14T00:00:00Z",title:"이더리움 기관 채택 조직 확대…재단 분리보다 역할 전문화에 초점",summary:"이더리움 생태계에서는 기관용 제품·정책·교육을 담당하는 독립 조직들이 확대되고 있다. Etherealize는 토큰화, 이더리움 기반 결제와 기관급 프라이버시 인프라를 제공한다고 밝히고 있다. SEC 공개 메모에서도 Etherealize가 전통 자본시장과 온체인 인프라를 연결하는 기관용 인프라 기업으로 확인된다. 조직이 이더리움 재단과 별도로 운영된다는 사실은 생태계의 기능 분업을 보여준다. 다만 여러 조직의 출범 자체보다 실제 금융기관 도입과 온체인 자산 규모가 성과 판단 기준이다.",importance:3,tone:"up",asset_class:"altcoin",token_symbol:"ETH",event_type:"ecosystem_organization",btc_impact:{direction:"호재",assessment:"기관 대상 전문 조직의 확대는 Ethereum의 사업 개발과 규제 대응 역량을 보완하는 호재다. 그러나 조직 수가 늘었다는 사실만으로 ETH 수요가 증가하지는 않는다. 실제 토큰화 자산, 결제량, 스테이블코인 잔액과 기관 고객이 늘어나는지를 확인해야 한다."},why_it_matters:"오픈소스 생태계는 핵심 재단이 모든 기능을 수행하기보다 연구, 정책, 제품, 기관 영업을 독립 조직이 나눠 맡을 수 있다. 이는 중앙집중화보다 전문화와 실행력 확대의 신호로 해석할 수 있다.",missed_point:"‘재단에서 분리됐다’는 표현이 갈등이나 이탈을 자동으로 의미하지 않는다. 자금 지원 주체와 조직 거버넌스, 실제 제품 성과를 확인해야 하며 투자자의 후원이 네트워크 수익으로 곧바로 연결되는 것도 아니다.",follow_up:["각 조직의 법적 독립성과 자금 조달 구조","기관 고객·토큰화 자산의 실제 온체인 규모","ETH 결제·가스·담보 수요 증가 여부","중복 사업과 생태계 거버넌스 충돌 가능성"],sources:[{name:"Etherealize — 기관용 Ethereum 인프라",url:"https://www.etherealize.com/"},{name:"SEC — Etherealize 기관 인프라 회의 메모",url:"https://www.sec.gov/files/ctf-memo-etherealize-inc-042426.pdf"}],verification:{state:"official_and_sec_cross_checked",independent_sources:2,notes:"조직의 기관 인프라 역할은 공식 사이트와 SEC 메모로 확인했다. 영상에서 제시한 조직 개수와 투자 연결은 공식 자료가 더 필요해 단정하지 않았다."}},
+    {stable_id:"2026-08-02-hbar-etf-institutional",published_at_kst:"2026-08-02T11:40:00+09:00",source_time:"2026-06-12T00:00:00Z",title:"헤데라(HBAR), 현물 ETF 제도권 진입 확인…오라클 사고는 메인넷과 구분",summary:"SEC 공시에서 Canary HBAR ETF가 Nasdaq에서 거래되는 HBAR 현물 노출 상품이며 BitGo Bank와 Archax가 수탁을 담당하는 구조가 확인된다. 공시에는 Flowdesk, Cumberland DRW, FalconX 등이 HBAR 거래 상대방으로 기재돼 있다. 이는 HBAR가 제도권 투자 상품과 기관 거래 인프라에 편입됐음을 보여준다. 한편 생태계의 서드파티 오라클이나 애플리케이션 사고는 Hedera 합의 네트워크 자체의 장애와 구분해야 한다. 사고 범위와 손실은 공식 사후 보고서가 확인될 때까지 확대 해석하지 않았다.",importance:4,tone:"up",asset_class:"altcoin",token_symbol:"HBAR",event_type:"etf_institutional",btc_impact:{direction:"호재",assessment:"현물 ETF와 기관급 수탁·거래 상대방 구조는 HBAR 접근성과 신뢰 측면에서 호재다. 다만 ETF 자금 유입 규모가 작거나 생태계 보안 사고가 반복되면 효과가 상쇄될 수 있다. HBAR 가격 영향은 ETF 순유입과 실제 네트워크 사용량을 함께 봐야 한다."},why_it_matters:"단순 ETF 신청이 아니라 SEC 공시와 상품 구조, 거래 상대방과 수탁사가 확인된다는 점이 중요하다. 기관 자금은 규제·수탁·가격 산정·유동성 체계가 갖춰져야 유입될 수 있다.",missed_point:"서드파티 오라클 사고를 Hedera 메인넷 해킹으로 표현하면 사건 범위를 왜곡할 수 있다. 반대로 메인넷 장애가 아니었다는 이유로 생태계 전체 위험을 무시해서도 안 된다. 피해 프로토콜의 사후 보고서가 필요하다.",follow_up:["Canary HBAR ETF 일일 순유입과 보유 HBAR","HBAR 거래 상대방·수탁 구조 변경","오라클 사고 공식 사후 보고서와 보상","Hedera 메인넷 지표와 기관 애플리케이션 사용량"],sources:[{name:"SEC — Canary HBAR ETF 투자설명서",url:"https://www.sec.gov/Archives/edgar/data/2039458/000199937126009730/hbar-posam_050126.htm"},{name:"SEC — Canary HBAR ETF 공시 목록",url:"https://www.sec.gov/edgar/browse/?CIK=2039458"}],verification:{state:"sec_filing_verified",independent_sources:2,notes:"ETF의 구조와 제도권 거래 사실을 SEC 공시로 확인했다. 영상의 사고 금액·Fireblocks·공공 채택 주장은 공식 원문이 충분히 확인되지 않아 핵심 사실에서 제외했다."}}
+  ];
 
   function renderStory(item) {
     const impact = typeof item.btc_impact === "object" ? item.btc_impact : {direction:item.impact || "양방향", assessment:item.btc_impact || ""};
@@ -63,6 +71,7 @@
   document.querySelector(".hero .notice")?.remove();
   document.querySelectorAll(".story").forEach(s=>{if(!s.dataset.asset)s.dataset.asset="bitcoin";});
   installAssets(); document.getElementById("news-search")?.addEventListener("input",applyFilters);
+  { const main=document.querySelector("main"),empty=main?.querySelector(".empty"); if(main) editorialItems.forEach(item=>{if(!document.querySelector(`[data-news-id="${item.stable_id}"]`))main.insertBefore(renderStory(item),empty);}); sortStories(); }
   fetch(`./live-news.json?t=${Date.now()}`,{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("feed unavailable");return r.json();}).then(feed=>{
     const main=document.querySelector("main"),empty=main?.querySelector(".empty"); if(!main||!Array.isArray(feed.items))return;
     document.querySelectorAll(".live-story").forEach(n=>n.remove());
@@ -70,200 +79,4 @@
     feed.items.forEach(item=>{const old=existing.get(item.stable_id),fresh=renderStory(item);if(old)old.replaceWith(fresh);else main.insertBefore(fresh,empty);});
     sortStories(); applyFilters();
   }).catch(err=>console.warn("실시간 뉴스 피드를 불러오지 못했습니다.",err));
-})();
-(() => {
-  let activeAsset = "all";
-  const assetStyle = document.createElement("style");
-  assetStyle.textContent = ".assetbuttons{display:flex;gap:6px;flex-wrap:wrap}.assetbuttons button{border:1px solid #ccd5e2;background:#fff;border-radius:999px;padding:9px 13px;min-height:44px;font-weight:900;cursor:pointer;color:#344054;touch-action:manipulation}.assetbuttons button.active{background:#5b35c9;color:#fff;border-color:#5b35c9}@media(max-width:700px){.assetbuttons{display:grid;grid-template-columns:repeat(3,1fr);width:100%}.assetbuttons button{padding:8px 4px;font-size:14px}}";
-  document.head.appendChild(assetStyle);
-  const TITLE_TRANSLATIONS = {
-    "2026-07-26-08d1a65d77c4": "비트코인 6만4천달러 상회…연준 결정 앞두고 시장 경계",
-    "2026-07-26-dabcab79004d": "다음 주 두 중앙은행 금리 결정…비트코인에 미칠 영향은?"
-  };
-  const SUPPRESSED_DUPLICATES = new Set([
-    "2026-07-26-cd976c2c93c2",
-    "2026-07-26-08d1a65d77c4"
-  ]);
-  const esc = (value = "") => String(value).replace(/[&<>"']/g, c => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
-  })[c]);
-  const safeUrl = (value = "") => {
-    try {
-      const url = new URL(value, location.origin);
-      return ["http:", "https:"].includes(url.protocol) ? url.href : "#";
-    } catch { return "#"; }
-  };
-  const flattenSources = (sources) => Array.isArray(sources)
-    ? sources
-    : Object.values(sources || {}).flat();
-  const sourceLinks = (sources) => flattenSources(sources)
-    .map(s => `<a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener noreferrer">${esc(s.name)} ↗</a>`)
-    .join(" · ");
-  const section = (title, body, extra = "") => body ? `
-    <section class="block ${extra}"><h3>${esc(title)}</h3><div class="verbatim">${body}</div></section>` : "";
-  const list = (items = []) => items.length
-    ? `<ul>${items.map(item => `<li>${esc(item)}</li>`).join("")}</ul>` : "";
-  const qualityScore = article => {
-    const text = article.querySelector(".article")?.innerText || "";
-    const sections = article.querySelectorAll(".block").length;
-    const sources = article.querySelectorAll(".verbatim a").length;
-    return text.length + (sections * 180) + (sources * 80);
-  };
-
-  const renderStory = (item) => {
-    const article = document.createElement("article");
-    const impact = typeof item.btc_impact === "object"
-      ? item.btc_impact
-      : { direction: item.impact || "양방향", assessment: item.btc_impact || "" };
-    const tone = ["up", "down", "warn"].includes(item.tone) ? item.tone : "warn";
-    const verification = item.verification || {};
-    const separation = verification.trump_separation || {};
-    const stars = Math.max(1, Math.min(5, Number(item.importance) || 3));
-    const impactLabel = item.asset_class === "altcoin" ? "해당 코인" : "BTC";
-    article.className = `story ${tone} live-story`;
-    article.dataset.tone = tone;
-    article.dataset.asset = item.asset_class || "bitcoin";
-    article.dataset.newsId = item.stable_id || "";
-    article.dataset.published = item.updated_at_kst || item.source_time || item.published_at || "";
-    article.id = `live-${item.stable_id || Math.random().toString(36).slice(2)}`;
-    article.innerHTML = `
-      <section class="article">
-        <div class="page">${item.updated_at_kst ? "최근 업데이트" : "실시간 업데이트"} · ${esc(item.updated_at_kst || item.kst || item.published_at_kst || item.published_at)}</div>
-        <h2>${esc(TITLE_TRANSLATIONS[item.stable_id] || item.title)}</h2>
-        <div class="metadata">
-          <b>중요도: ${"★".repeat(stars)}${"☆".repeat(5 - stars)} · ${impactLabel} ${esc(impact.direction)}</b>
-          ${item.asset_class === "altcoin" ? `<span><b>알트코인 · ${esc(item.token_symbol || "토큰 확인 중")} · ${esc(item.event_type || "market")}</b></span>` : ""}
-          <span>원문 시각: ${esc(item.source_time || item.published_at || "확인 중")}</span>
-          <span class="importance">${esc(verification.state || item.status || "verified")}</span>
-        </div>
-        ${section("후속 속보", esc(item.latest_update))}
-        ${item.event_type === "burn_scheduled" ? section("소각 예정 정보", `
-          <p><b>예정 시각</b><br>${esc(item.scheduled_at || "공식 일정 확인 중")}</p>
-          <p><b>예정 수량</b><br>${esc(item.burn_amount || "공식 산식에 따라 결정")}</p>
-          <p><b>소각 방식</b><br>${esc(item.burn_method || "공식 공지 확인")}</p>`) : ""}
-        ${section("핵심 내용", esc(item.summary))}
-        ${section("왜 중요한가", esc(item.why_it_matters))}
-        ${section(item.asset_class === "altcoin" ? "해당 코인 영향" : "BTC 영향", esc(impact.assessment))}
-        ${section("시장이 놓치고 있는 포인트", esc(item.missed_point))}
-        ${section("추가 확인", list(item.follow_up))}
-        ${separation.statement ? section("발언·정책·시장 해석", `
-          <p><b>발언</b><br>${esc(separation.statement)}</p>
-          <p><b>정책 행동</b><br>${esc(separation.policy_action)}</p>
-          <p><b>시장 해석</b><br>${esc(separation.market_interpretation)}</p>`) : ""}
-        ${section("검증 메모", esc(verification.notes))}
-        ${section("출처", sourceLinks(item.sources))}
-      </section>
-      <aside class="side">
-        <div><div class="eyebrow">LIVE VERIFIED</div><div class="motif">${esc(impact.direction)}</div>
-        <div class="track"><i></i><i></i><i></i><span>사건</span><span>시장 변수</span><span>${item.asset_class === "altcoin" ? "코인 영향" : "BTC 영향"}</span></div></div>
-        <div class="sidecopy">${esc(verification.independent_sources || flattenSources(item.sources).length)}개 이상 출처와 후속 맥락을 교차 확인한 분석입니다.</div>
-      </aside>`;
-    return article;
-  };
-
-  const applySearch = () => {
-    const query = document.getElementById("news-search")?.value.trim().toLowerCase() || "";
-    document.querySelectorAll(".story").forEach(story => {
-      const queryMiss = Boolean(query) && !story.textContent.toLowerCase().includes(query);
-      const assetMiss = activeAsset !== "all" && (story.dataset.asset || "bitcoin") !== activeAsset;
-      story.classList.toggle("search-hidden", queryMiss || assetMiss);
-    });
-  };
-  const installAssetFilter = () => {
-    const bar = document.querySelector(".filterbar");
-    const hint = bar?.querySelector(".filterhint");
-    if (!bar || document.querySelector(".assetbuttons")) return;
-    const group = document.createElement("div");
-    group.className = "assetbuttons";
-    group.setAttribute("aria-label", "자산 분류");
-    [["all", "모든 자산"], ["bitcoin", "비트코인"], ["altcoin", "알트코인"]].forEach(([value, label]) => {
-      const button = document.createElement("button");
-      button.type = "button";
-      button.dataset.assetFilter = value;
-      button.textContent = label;
-      button.classList.toggle("active", value === activeAsset);
-      button.addEventListener("click", () => {
-        activeAsset = value;
-        group.querySelectorAll("button").forEach(node =>
-          node.classList.toggle("active", node.dataset.assetFilter === value));
-        applySearch();
-      });
-      group.appendChild(button);
-    });
-    bar.insertBefore(group, hint || null);
-  };
-  const timestamp = story => {
-    const parsed = Date.parse(story.dataset.published || "");
-    if (Number.isFinite(parsed)) return parsed;
-    const text = `${story.querySelector(".page")?.textContent || ""} ${story.querySelector(".metadata")?.textContent || ""}`;
-    const datedTime = text.match(/(20\d{2})[.-](\d{2})[.-](\d{2})(?:\s*(?:약\s*)?(\d{2}):(\d{2}))?/);
-    if (!datedTime) return 0;
-    const hour = datedTime[4] == null ? 0 : Number(datedTime[4]);
-    const minute = datedTime[5] == null ? 0 : Number(datedTime[5]);
-    return Date.UTC(
-      Number(datedTime[1]),
-      Number(datedTime[2]) - 1,
-      Number(datedTime[3]),
-      hour - 9,
-      minute
-    );
-  };
-  const timelineTime = story => {
-    const text = `${story.querySelector(".page")?.textContent || ""} ${story.querySelector(".metadata")?.textContent || ""}`;
-    const match = text.match(/(20\d{2})[.-](\d{2})[.-](\d{2})(?:\s*(?:약\s*)?(\d{2}):(\d{2}))?/);
-    if (!match) return "시간 확인 중";
-    const date = `${match[2]}.${match[3]}`;
-    return match[4] == null ? `${date} · 시간 미표기` : `${date} ${match[4]}:${match[5]} KST`;
-  };
-  const sortAndTimeline = () => {
-    const main = document.querySelector("main");
-    const empty = main?.querySelector(".empty");
-    if (!main || !empty) return;
-    const stories = [...main.querySelectorAll(":scope > .story")]
-      .sort((a, b) => timestamp(b) - timestamp(a));
-    stories.forEach(story => main.insertBefore(story, empty));
-    const timeline = document.querySelector(".jump");
-    if (!timeline) return;
-    timeline.replaceChildren(...stories.map((story, index) => {
-      if (!story.id) story.id = `news-${index + 1}`;
-      const link = document.createElement("a");
-      const title = story.querySelector("h2")?.textContent?.trim() || `뉴스 ${index + 1}`;
-      link.href = `#${story.id}`;
-      link.textContent = `${timelineTime(story)} · ${title.length > 28 ? `${title.slice(0, 28)}…` : title}`;
-      return link;
-    }));
-  };
-
-  document.querySelector(".hero .notice")?.remove();
-  document.querySelectorAll(".page").forEach(label => {
-    if (/페이지|ORIGINAL TEXT/i.test(label.textContent || "")) label.remove();
-  });
-  document.getElementById("news-9")?.remove();
-  document.getElementById("news-11")?.remove();
-  document.querySelectorAll(".story").forEach(story => {
-    if (!story.dataset.asset) story.dataset.asset = "bitcoin";
-  });
-  installAssetFilter();
-  fetch(`./live-news.json?t=${Date.now()}`, { cache: "no-store" })
-    .then(response => {
-      if (!response.ok) throw new Error("feed unavailable");
-      return response.json();
-    })
-    .then(feed => {
-      const main = document.querySelector("main");
-      if (!main || !Array.isArray(feed.items)) return;
-      document.querySelectorAll(".live-story").forEach(node => node.remove());
-      const empty = main.querySelector(".empty");
-      const existingStories = new Map([...main.querySelectorAll(".story[data-news-id]")]
-        .map(story => [story.dataset.newsId, story]).filter(([id]) => Boolean(id)));
-      feed.items.filter(item => !SUPPRESSED_DUPLICATES.has(item.stable_id)).forEach(item => {
-        const rendered = renderStory(item);
-        const previous = existingStories.get(item.stable_id);
-        if (previous && qualityScore(rendered) >= qualityScore(previous)) previous.replaceWith(rendered);
-        else if (!previous) main.insertBefore(rendered, empty);
-      });
-      sortAndTimeline();
-      applySearch();
-      document.getElementById("news-search")?.addEventListener("input", applySearch);
-    }).catch(() => {});
 })();
