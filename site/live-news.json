@@ -1,6 +1,69 @@
 {
-  "generated_at_kst": "2026-08-03T13:43:59+09:00",
+  "generated_at_kst": "2026-08-03T15:10:00+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-03-clarity-act-recess-deadline-giancarlo-context",
+      "status": "cross_verified_with_timeline_context",
+      "published_at_kst": "2026-08-03T15:10:00+09:00",
+      "source_time": "Giancarlo interview 2026-03-08; Senate schedule checked 2026-08-03",
+      "title": "CLARITY Act, 휴회 전 처리 갈림길…지안카를로 ‘법안 없어도 혁신은 계속’",
+      "summary": "미국 상원은 공식 일정상 8월 10일부터 주(州) 업무 기간에 들어가며, 휴회 전 마지막 실질 처리일은 8월 7일이다. CLARITY Act는 아직 본회의 최종 표결 일정이 확정되지 않았고, 상원 지도부가 휴회 전에 절차 표결을 시작할 수 있다는 관측만 남아 있다. 전 CFTC 위원장 크리스 지안카를로의 ‘법안이 없어도 암호화폐 혁신은 계속된다’는 취지의 발언은 8월 신규 발언이 아니라 3월 8일 인터뷰에서 나온 것이다. 그는 암호화폐 업계보다 미국 은행이 규제 명확성을 더 절실히 필요로 하며, 법안이 지연돼도 기술 개발은 계속되거나 해외로 이동할 수 있다고 설명했다.",
+      "importance": 4,
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "휴회 전 본회의 절차가 시작되면 미국의 암호화폐 시장구조 법제화 기대가 살아나 제도권 자금 유입 심리에 긍정적이다. 반대로 일정에서 빠지거나 가을로 연기되면 규제 공백이 재확인돼 단기 불확실성 재료가 된다. 다만 이는 법안 폐기나 암호화폐 혁신 중단을 의미하지 않는다."
+      },
+      "why_it_matters": "CLARITY Act는 SEC와 CFTC의 관할, 거래소·발행사 규칙 및 고객자산 보호 기준을 정하는 핵심 시장구조 법안이다. 통과 여부는 비트코인의 존립보다 미국 은행·기관이 암호화폐 인프라에 얼마나 빠르게 참여할 수 있는지를 좌우한다.",
+      "missed_point": "‘72시간’은 법률에 적힌 공식 시한이 아니라 남은 상원 의사일정을 계산한 언론의 표현이다. 또한 지안카를로의 발언과 8월 상원 일정은 서로 다른 시점의 정보다. 이를 같은 날 나온 신규 발언처럼 전하면 안 된다.",
+      "follow_up": [
+        "상원 다수당 대표의 CLARITY Act 절차 표결 상정 여부",
+        "8월 7일 전 토론종결 동의안 제출 여부",
+        "정부 관계자의 암호화폐 사업 참여를 제한하는 윤리 조항 합의",
+        "스테이블코인 보상·AML·개발자 보호 조항의 최종 문구",
+        "휴회 전 무산 시 9월 이후 재상정 일정"
+      ],
+      "sources": {
+        "official": [
+          {
+            "name": "U.S. Senate — 2026 공식 회기 일정",
+            "url": "https://www.senate.gov/legislative/2026_schedule.htm"
+          },
+          {
+            "name": "U.S. Senate Banking Committee — CLARITY Act 설명",
+            "url": "https://www.banking.senate.gov/newsroom/majority/the-facts-the-clarity-act-protects-main-street-unleashes-responsible-innovation-and-cracks-down-on-fraud-and-money-laundering"
+          }
+        ],
+        "primary_reporting": [
+          {
+            "name": "CoinDesk — 지안카를로 인터뷰와 은행 규제 명확성 발언",
+            "url": "https://www.coindesk.com/it/policy/2026/03/09/clarity-act-will-benefit-banks-more-than-crypto-former-cftc-chair-says"
+          },
+          {
+            "name": "CoinDesk — 휴회 전 CLARITY Act 처리 일정과 남은 쟁점",
+            "url": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere"
+          }
+        ],
+        "context": [
+          {
+            "name": "Cointelegraph — 법안 지연 시 규제기관 규칙 제정 가능성",
+            "url": "https://cointelegraph.com/news/us-banks-need-crypto-regulatory-clarity-giancarlo-cftc"
+          }
+        ]
+      },
+      "verification": {
+        "state": "cross_verified_with_separated_event_timeline",
+        "independent_sources": 3,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "notes": "상원 공식 일정에서 8월 10일 휴회 시작을 확인했다. 72시간은 공식 법정 시한이 아니라 일정상 남은 시간에 대한 언론 표현이다. 지안카를로 발언은 2026년 3월 인터뷰로 확인돼 현재 상원 일정과 분리해 표기했다."
+      },
+      "published_at": "2026-08-03T15:10:00+09:00",
+      "kst": "2026-08-03 15:10:00 KST",
+      "impact": "양방향",
+      "tone": "warn",
+      "asset_class": "bitcoin",
+      "event_type": "crypto_regulation"
+    },
     {
       "stable_id": "2026-08-03-us-japan-coordinated-yen-intervention",
       "status": "officially_confirmed_with_cross_asset_risk_off_reaction",
