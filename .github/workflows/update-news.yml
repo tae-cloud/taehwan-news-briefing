@@ -8,7 +8,7 @@ on:
         required: false
         default: "1"
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
 
 permissions:
   contents: write
@@ -16,7 +16,7 @@ permissions:
 
 concurrency:
   group: news-update
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update:
