@@ -20,6 +20,9 @@ QUERIES = [
     "bitcoin Reuters", "bitcoin AP", "bitcoin Bloomberg",
     "bitcoin Federal Reserve", "bitcoin regulation United States",
     "oil Iran Hormuz Reuters", "Iran Hormuz AP", "Iran Hormuz Bloomberg",
+    "Iran negotiations AP Reuters", "Iran talks Hormuz agreement Reuters AP",
+    "US Japan coordinated yen intervention Reuters AP",
+    "Japan yen intervention FIMA Repo Reuters AP",
     "Federal Reserve rates inflation Reuters", "CME FedWatch bitcoin",
     "altcoin token burn crypto", "official scheduled token burn crypto",
     "token burn announcement buyback burn schedule", "소각 예정 코인 공식 발표",
@@ -391,7 +394,7 @@ def main():
     except Exception as exc:
         print(f"Enrichment unavailable; publishing nothing new: {type(exc).__name__}")
     output = {"generated_at_kst": datetime.now(KST).isoformat(timespec="seconds"),
-              "items": sorted(existing.values(), key=lambda x: x.get("source_time") or x.get("published_at", ""), reverse=True)[:40]}
+              "items": sorted(existing.values(), key=lambda x: x.get("published_at_kst") or x.get("published_at") or x.get("source_time", ""), reverse=True)[:40]}
     if json.dumps(current, ensure_ascii=False, sort_keys=True) != json.dumps(output, ensure_ascii=False, sort_keys=True):
         FEED_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
