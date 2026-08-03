@@ -1,6 +1,102 @@
 {
-  "generated_at_kst": "2026-08-03T22:40:37+09:00",
+  "generated_at_kst": "2026-08-03T22:49:40+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-03-6534d0d50f17",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T13:48:57Z",
+      "published_at_kst": "2026-08-03T22:48:57+09:00",
+      "source_time": "2026-08-03T13:48:57Z",
+      "kst": "2026-08-03 22:48:57 KST",
+      "title": "[검증 중] FinancialJuice: Bank of America: Warsh Press Conference Weighs on the Dollar",
+      "summary": "The July FOMC press conference injected fresh uncertainty around the Fed’s reaction function, creating a potential headwind for the dollar just as concerns over Fed independence had begun to fade. Alongside the presumed Japanese FX intervention and continuing Middle East escalation risks, the meeting helped turn the week into an unusually active one for currency markets. Since the FOMC, the DXY has fallen 1.4% while 2-year yields declined only 5 basis points, but 10- and 30-year yields rose by 3 and 9 basis points respectively, with 5-year, 5-year breakevens widening by 5 basis points. That combination points to growing concern around policy error and inflation credibility, with pressure concentrated at the long end of the Treasury curve. It also runs against the US administration’s preference for lower 10-year yields, leaving scope for a later policy or communication course correction.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9705234/Bank-of-America-Warsh-Press-Conference-Weighs-on-the-Dollar---FJElite.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-a37f5d43f1cd",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T13:33:34Z",
+      "published_at_kst": "2026-08-03T22:33:34+09:00",
+      "source_time": "2026-08-03T13:33:34Z",
+      "kst": "2026-08-03 22:33:34 KST",
+      "title": "[검증 중] LIVE: Trump says US-Iran talks to resume; Hormuz deal nears",
+      "summary": "LIVE: Trump says US-Iran talks to resume; Hormuz deal nears &nbsp;&nbsp; Latest news from Azerbaijan",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Latest news from Azerbaijan",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1Y0eFNaSXB6T0ZmWkVXSjB6dnp4REZXNUdiTE91UUw5cnR6UWt6UF90bWxDVTAtd25rdTlHYU5tcFZaclpmYm1OdDRlWjd3VS1VallnX2xnWEZMTjJDN1MzYXFpbWx2eGZFczJ1Tjlhb3ZOU2xRSUdKdjkzLXA4Q3JUNm0?oc=5"
+        },
+        {
+          "name": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDJCLThxWkQ0NFczY0E1Tkg4RUw4ME9tMzFSS0pzcG5DR2E0T1FtcTdwSXRkdnVtTkRjbktsa0VTbTkzd2FDTzBpNzZhazBoVVNUSXVyeEZmNHYxLUhteEJYTmFmQVhXYVZqVEFBdDI3a1ExSVN4M3JGYnkxREd5cEM0QnVHMGVlUUN6UFcybXRCUGpGZUFGb0ZZSEpqOTFhLUHSAacBQVVfeXFMT0dPVDlOOVJhREdWODBkUDNfeFZza2JnRkI4WncxWHVtbWNRaHp5U3V6ZGR3c003ZzFZbXlQN29MZ3JubGtIYTdxRUdoNnZuamkxT29EZldFbTVta1NOcTA3RkRwdUl3LUFGYkpJbk53RzFPTEN0Z2x5SWpxcHF4Sk8yUXNmVm9NcXNiQVptdm5Zc2VqVnUyS1RfT2RIUXpSMDQ1NlVoNm8?oc=5"
+        },
+        {
+          "name": "AnewZ",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjZpVTAwVE42QmpUWV9Gc3hscUlDaV9mbEYta2JXdVNDQnVjdXpVNm5fcGl1NnJmOUMxZkNBM05KcVZhQ2t1MTNFdWVzVG1jTGZuVXVKdnZYcl9FWXg2UVM5ZVp4YlVxRENjWTBYM1k1MTFEN04ybTJrTUYyRHk2SHZzZ3BaUjhXelFKRDQwMWJaM012V3dfMmhnYzVyeXVx?oc=5"
+        },
+        {
+          "name": "Ynetnews",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wbHd5d1FmU1hMQUx6MFI5S2VkSGdrb05yR0M5M2R6WVRmenZJdzBRLTEtZGdHWHc1UkhUV2g3aXZXbm5XTkRGM2VsdE9jemEtbElrOUJn?oc=5"
+        },
+        {
+          "name": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZaWJRRzBKckNMYkc0Vm5ISWVzUEtvYzZ2SmNaX2UzZjRsX0RaUVhxUFYxWXNnNjNucVlHR21qNGMxZlRoaFlPNV95bG9Rekd0bTNjQU1R?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
     {
       "stable_id": "2026-08-03-87dde70dc7ad",
       "status": "verification_pending",
@@ -74,6 +170,50 @@
         "state": "verification_pending",
         "independent_sources": 0,
         "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-feb94765c366",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T13:29:15Z",
+      "published_at_kst": "2026-08-03T22:29:15+09:00",
+      "source_time": "2026-08-03T13:29:15Z",
+      "kst": "2026-08-03 22:29:15 KST",
+      "title": "[검증 중] Strategy sells more bitcoin, stock",
+      "summary": "Strategy sells more bitcoin, stock &nbsp;&nbsp; Moneyweb",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Moneyweb",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUpmS2I5R0ZGcDZRTlJncWZYWnYtMjVPWmk4SU9CQnBpM1BpYnNhb3p0SmJBbk1nY0o4cm5Ld3JBekQ1Y2d5OHlEbGswcjlEWGs4RW1KWnJFZ2tFeF9oSnUxS282Zm5jU0Vsc3NVeHpDSDhhbTJsZFhOS0tfbzEwbGxFY0JqZTVpY2dLRkFR?oc=5"
+        },
+        {
+          "name": "bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdExseDhoTUNNWnN1XzU3WlE1clY5dk92YUtFc3Y4enZqaklzRVYxREhvZW5FREpyOFlKUUVKRFpPQU0tenJsbF9tM1Z3RFo1T0gwV1UyZ2VEdV9mQ0E5U2gyaUJRRVF2SHozeTg2MG4wOUFjTHJZSkJRMW9jcVpyYUFNUXB2a1JIR1dCMjdiWVlvVzAxbkxydEEwVWtoa0tlaXVhODk5em1OMFl1RV94eHZFUHk3S1ViUkQtTFc2QjN3cnkzTnVldzVB?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
         "rumor_excluded": false,
         "official_or_onchain": false,
         "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
@@ -330,6 +470,50 @@
         "state": "verification_pending",
         "independent_sources": 0,
         "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-89cd18367881",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T12:26:24Z",
+      "published_at_kst": "2026-08-03T21:26:24+09:00",
+      "source_time": "2026-08-03T12:26:24Z",
+      "kst": "2026-08-03 21:26:24 KST",
+      "title": "[검증 중] 'This Will Only Get Worse': Famous Bitcoin Critic Warns of AI and Quantum Danger for BTC",
+      "summary": "'This Will Only Get Worse': Famous Bitcoin Critic Warns of AI and Quantum Danger for BTC &nbsp;&nbsp; Bitget",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ISGpCR04xZWp0SUltXzdhNU9rc1ZLTGplYkM3Nm9GZkZpbnFNN2xXODQxNmJqZ3ZTS3pBSTNWMzRLODRveHh3NTAwdGpoUkg1bE95Q1AyWVYzWUZTU3pLaTVmb9IBY0FVX3lxTE9ISGpCR04xZWp0SUltXzdhNU9rc1ZLTGplYkM3Nm9GZkZpbnFNN2xXODQxNmJqZ3ZTS3pBSTNWMzRLODRveHh3NTAwdGpoUkg1bE95Q1AyWVYzWUZTU3pLaTVmbw?oc=5"
+        },
+        {
+          "name": "U.Today",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWhBZGRhZ0dRSkh3SjRUOHg2TlVxbmROSlVZWkV0V082eERfeGJXUlNIVHpmNnk2VFdOVGtsZzlkUERabTRSNC1RNTNUaFNzTlNubGYwbHlKTXRxd1NRLXhGQzJmRFBrNjhBMkh4dGlGd2lka3NOS3pvSUkteGxQcGhXV1RCZl9kcXg2RUQtNTZNaVQwUW0tN1p4T2NkUUFtMVN30gGoAUFVX3lxTE1qTk82YWwwb0owSXhfQUZtVWdXX3k2SkhBZEtoZUJXX1hYcVo4NlBPNzFuRHlnWGpFSzQya3l2bXFKbVRVSS1vTDJEV1hFRzJPWGprUDJsaEZxWVR0N2UyeTl5SW9GQkNFWnRfcWJqSjQwNFRjSkk4T3JOR3lMQXRISmhQR3V2LUFsNVJHdUd1UDBJYkUxQlMzR0dpZ19FUElraUdldzNFMQ?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
         "rumor_excluded": false,
         "official_or_onchain": false,
         "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
@@ -838,880 +1022,652 @@
       "event_type": "market"
     },
     {
-      "stable_id": "2026-08-03-us-japan-coordinated-yen-intervention",
-      "status": "officially_confirmed_with_cross_asset_risk_off_reaction",
-      "published_at_kst": "2026-08-03T08:00:00+09:00",
-      "source_time": "2026-08-02T23:00:00Z; AP confirmation 2026-08-03T01:50:55Z",
-      "title": "미국·일본, 엔화 공동 매입 개입 공식 확인…추가 개입·FIMA Repo 활용 예고",
-      "summary": "일본 재무성은 엔화의 과도하고 무질서한 변동에 대응하기 위해 미국 재무부와 공조해 엔화를 매입했다고 공식 확인했다. 가타야마 사쓰키 일본 재무상과 스콧 베선트 미국 재무장관은 필요하면 추가 공동 개입에 나설 수 있다는 입장을 밝혔다. 후속 시장에서 엔화는 지난해 말 이후 최고 수준으로 상승했고, AP 집계 기준 닛케이225는 장중 1.9%, 코스피는 4.5% 하락해 아시아 위험자산의 디레버리징 반응이 확인됐다. 일본은 향후 외환시장 개입 자금 조달 과정에서 미 국채를 직접 매각하는 대신 연준의 FIMA Repo Facility 활용을 확대할 계획도 제시했다.",
-      "importance": 5,
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "엔화 급등과 함께 닛케이225·코스피가 큰 폭으로 하락해 엔 캐리 트레이드 축소와 위험자산 디레버리징이 실제로 진행될 가능성이 높아졌다. 이는 단기 BTC 악재다. 반면 달러 약세와 FIMA Repo를 통한 달러 유동성 공급은 중기적으로 BTC에 우호적일 수 있다. BTC·나스닥·아시아 증시의 동조화와 강제청산 규모가 핵심이다."
-      },
-      "why_it_matters": "미국까지 참여한 공동 환율 개입은 일본 단독 개입보다 신호와 자금력이 강하다. 엔화 차입으로 글로벌 위험자산을 매수한 캐리 포지션이 빠르게 되감기면 BTC·기술주·고수익 자산이 동시에 압박받을 수 있다. FIMA Repo 활용은 일본의 미 국채 강제 매각을 줄여 미 장기금리 급등 위험을 완화하는 반대 효과가 있다.",
-      "missed_point": "이 뉴스는 단순한 엔화 강세가 아니다. 공동개입은 캐리 트레이드 청산 위험을 키우지만, FIMA Repo는 일본이 보유 미 국채를 시장에 던지지 않고 달러를 조달할 수 있게 해 미 국채시장 충격을 줄인다. 따라서 BTC에는 즉각적인 디레버리징 악재와 중기 달러·금리 안정 호재가 동시에 존재한다.",
-      "follow_up": [
-        "미·일 재무당국의 개입 금액과 매입 시각 공식 공개",
-        "일본 재무성 월간 외환시장 개입 실적",
-        "뉴욕 연은 FIMA Repo 사용액과 잔액 변화",
-        "USD/JPY·미 10년물 금리·나스닥·BTC의 동반 반응",
-        "암호화폐 선물 미결제약정·펀딩비·강제청산 규모",
-        "추가 공동개입 또는 BOJ 정책 조정 여부"
-      ],
-      "sources": {
-        "official": [
-          {
-            "name": "일본 재무상 공식 확인 인용 AP — 미 재무부와 공조한 엔화 매입",
-            "url": "https://apnews.com/article/7316599afed35629a27ae23a35f569fd"
-          },
-          {
-            "name": "미 재무장관 입장 인용 AP — 무질서한 엔화 변동 대응",
-            "url": "https://apnews.com/article/7316599afed35629a27ae23a35f569fd"
-          },
-          {
-            "name": "Federal Reserve — FIMA Repo Facility 제도 설명",
-            "url": "https://www.federalreserve.gov/monetarypolicy/fima-repo-facility.htm"
-          }
-        ],
-        "primary_reporting": [
-          {
-            "name": "AP — 미·일 공동 엔화 개입과 달러 급락",
-            "url": "https://apnews.com/article/7316599afed35629a27ae23a35f569fd"
-          },
-          {
-            "name": "AP — 엔화 급등·닛케이 1.9%·코스피 4.5% 하락",
-            "url": "https://apnews.com/article/d19a8f9a77b6fceca41da3e4b6bf17aa"
-          },
-          {
-            "name": "Reuters 재배포 — 일본·미국 공동 엔화 매입 및 추가 행동 가능성",
-            "url": "https://www.investing.com/news/economy-news/analysisjapan-bets-on-washington-boj-for-extra-punch-in-yen-battle-4671136"
-          }
-        ],
-        "context": [
-          {
-            "name": "CoinDesk — 엔화 약세와 BTC의 거시 연결",
-            "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low"
-          }
-        ]
-      },
-      "verification": {
-        "state": "officially_confirmed_and_cross_asset_risk_off_reaction_verified",
-        "independent_sources": 2,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "notes": "일본 재무상이 미국 재무부와 공조한 엔화 매입을 공식 확인했고 AP와 Reuters가 이를 보도했다. AP 후속 시장 보도에서 엔화는 지난해 말 이후 최고 수준으로 상승했고 닛케이225와 코스피가 각각 1.9%, 4.5% 하락해 위험자산 충격이 확인됐다. 정확한 개입 금액, FIMA Repo 실제 사용액, BTC 강제청산 규모는 후속 확인이 필요하다.",
-        "trump_separation": {
-          "statement": "트럼프는 일본과의 관계 및 개입으로 미국이 재정적 이익을 얻었다는 취지로 발언했다.",
-          "policy_action": "미 재무부와 일본 재무성이 실제로 엔화 매입 공동개입을 실시했다.",
-          "market_interpretation": "엔 캐리 청산은 단기 BTC 악재지만 달러 약세와 미 국채 매각 압력 완화는 중기적으로 우호적일 수 있어 양방향 재료다."
-        }
-      },
-      "published_at": "2026-08-03T08:00:00+09:00",
-      "kst": "2026-08-03 08:00:00 KST",
-      "impact": "양방향",
-      "tone": "warn",
-      "asset_class": "bitcoin",
-      "event_type": "fx_intervention"
-    },
-    {
-      "stable_id": "2026-08-03-clarity-act-recess-deadline-giancarlo-context",
-      "status": "cross_verified_with_timeline_context",
-      "published_at_kst": "2026-08-03T05:35:00+09:00",
-      "source_time": "2026-08-02T20:35:00Z; Giancarlo interview 2026-03-08",
-      "title": "CLARITY Act, 휴회 전 처리 갈림길…지안카를로 ‘법안 없어도 혁신은 계속’",
-      "summary": "미국 상원은 공식 일정상 8월 10일부터 주(州) 업무 기간에 들어가며, 휴회 전 마지막 실질 처리일은 8월 7일이다. CLARITY Act는 아직 본회의 최종 표결 일정이 확정되지 않았고, 상원 지도부가 휴회 전에 절차 표결을 시작할 수 있다는 관측만 남아 있다. 전 CFTC 위원장 크리스 지안카를로의 ‘법안이 없어도 암호화폐 혁신은 계속된다’는 취지의 발언은 8월 신규 발언이 아니라 3월 8일 인터뷰에서 나온 것이다. 그는 암호화폐 업계보다 미국 은행이 규제 명확성을 더 절실히 필요로 하며, 법안이 지연돼도 기술 개발은 계속되거나 해외로 이동할 수 있다고 설명했다.",
-      "importance": 4,
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "휴회 전 본회의 절차가 시작되면 미국의 암호화폐 시장구조 법제화 기대가 살아나 제도권 자금 유입 심리에 긍정적이다. 반대로 일정에서 빠지거나 가을로 연기되면 규제 공백이 재확인돼 단기 불확실성 재료가 된다. 다만 이는 법안 폐기나 암호화폐 혁신 중단을 의미하지 않는다."
-      },
-      "why_it_matters": "CLARITY Act는 SEC와 CFTC의 관할, 거래소·발행사 규칙 및 고객자산 보호 기준을 정하는 핵심 시장구조 법안이다. 통과 여부는 비트코인의 존립보다 미국 은행·기관이 암호화폐 인프라에 얼마나 빠르게 참여할 수 있는지를 좌우한다.",
-      "missed_point": "‘72시간’은 법률에 적힌 공식 시한이 아니라 남은 상원 의사일정을 계산한 언론의 표현이다. 또한 지안카를로의 발언과 8월 상원 일정은 서로 다른 시점의 정보다. 이를 같은 날 나온 신규 발언처럼 전하면 안 된다.",
-      "follow_up": [
-        "상원 다수당 대표의 CLARITY Act 절차 표결 상정 여부",
-        "8월 7일 전 토론종결 동의안 제출 여부",
-        "정부 관계자의 암호화폐 사업 참여를 제한하는 윤리 조항 합의",
-        "스테이블코인 보상·AML·개발자 보호 조항의 최종 문구",
-        "휴회 전 무산 시 9월 이후 재상정 일정"
-      ],
-      "sources": {
-        "official": [
-          {
-            "name": "U.S. Senate — 2026 공식 회기 일정",
-            "url": "https://www.senate.gov/legislative/2026_schedule.htm"
-          },
-          {
-            "name": "U.S. Senate Banking Committee — CLARITY Act 설명",
-            "url": "https://www.banking.senate.gov/newsroom/majority/the-facts-the-clarity-act-protects-main-street-unleashes-responsible-innovation-and-cracks-down-on-fraud-and-money-laundering"
-          }
-        ],
-        "primary_reporting": [
-          {
-            "name": "CryptoSlate — 상원 일정 제외와 휴회 전 72시간 절차 시나리오",
-            "url": "https://cryptoslate.com/cryptos-landmark-clarity-act-just-vanished-from-mondays-senate-schedule-triggering-a-desperate-72-hour-countdown-to-save-it-before-recess/"
-          },
-          {
-            "name": "CoinDesk — 지안카를로 인터뷰와 은행 규제 명확성 발언",
-            "url": "https://www.coindesk.com/it/policy/2026/03/09/clarity-act-will-benefit-banks-more-than-crypto-former-cftc-chair-says"
-          },
-          {
-            "name": "CoinDesk — 휴회 전 CLARITY Act 처리 일정과 남은 쟁점",
-            "url": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere"
-          }
-        ],
-        "context": [
-          {
-            "name": "Cointelegraph — 법안 지연 시 규제기관 규칙 제정 가능성",
-            "url": "https://cointelegraph.com/news/us-banks-need-crypto-regulatory-clarity-giancarlo-cftc"
-          }
-        ]
-      },
-      "verification": {
-        "state": "cross_verified_with_separated_event_timeline",
-        "independent_sources": 3,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "notes": "상원 공식 일정에서 8월 10일 휴회 시작을 확인했다. 72시간은 공식 법정 시한이 아니라 일정상 남은 시간에 대한 언론 표현이다. 지안카를로 발언은 2026년 3월 인터뷰로 확인돼 현재 상원 일정과 분리해 표기했다."
-      },
-      "published_at": "2026-08-03T05:35:00+09:00",
-      "kst": "2026-08-03 05:35:00 KST",
-      "impact": "양방향",
-      "tone": "warn",
-      "asset_class": "bitcoin",
-      "event_type": "crypto_regulation"
-    },
-    {
-      "stable_id": "2026-08-02-trump-halts-iran-strikes-hormuz-deal-outline",
-      "status": "meaningful_update_talks_announced_but_no_iran_acceptance_or_reopening",
-      "published_at_kst": "2026-08-02T13:09:13+09:00",
-      "source_time": "2026-08-02T04:09:13Z",
-      "title": "트럼프, 3일 오후 이란 협상 재개 예고…호르무즈·비핵화 합의 낙관에도 이란 수락 미확인",
-      "summary": "트럼프는 중동 동맹국들이 이란전쟁 종식을 위한 합의의 기본 조건에 도달했다며 미군의 신규 대이란 공격을 중단했고, 8월 3일 오후 협상이 재개될 것으로 예상한다고 밝혔다. 그는 호르무즈 해협의 즉각적·완전한 개방과 이란 핵위협 종식을 포함한 합의를 낙관했지만 참여자와 구체적 형식은 공개하지 않았다. AP의 중재 관여 지역 당국자는 아직 합의가 성립하지 않았다고 확인했다. 이란 외무부 대변인 에스마일 바가이는 호르무즈가 2월 28일 이전 상태로는 결코 돌아가지 않을 것이며, 오만과 선박 통항 방안을 논의 중이지만 현재 해협 재개방 논의는 아니라고 밝혔다. 실제 정책 행동은 미국의 공격 중단뿐이며 이란의 협상 참여·최종 수락·해협 개방은 아직 확인되지 않았다.",
-      "importance": 5,
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "미국의 공격 중단은 단기 위험 프리미엄을 낮추는 BTC 호재다. 그러나 이란 외무부가 호르무즈의 전쟁 전 상태 복귀를 명시적으로 거부했고 중재 당국자도 아직 합의가 없다고 확인해, 해협 개방·봉쇄 해제·원유 수출 재개의 디스인플레이션 효과는 아직 현실화되지 않았다. 기대감 선반영 뒤 되돌림과 재충돌 위험이 공존한다."
-      },
-      "why_it_matters": "호르무즈 개방뿐 아니라 미국의 해상봉쇄 종료와 이란 원유 수출 재허용이 함께 이행되면 수송 병목과 공급 제재가 동시에 완화된다. 이는 유가→물가→연준→달러·금리→BTC 경로를 한꺼번에 바꿀 수 있다.",
-      "missed_point": "트럼프가 협상 시각을 제시한 것은 외교 일정의 구체화지만 협상 성립이나 이란의 참여 확인과는 다르다. AP가 인용한 중재 관여 당국자는 아직 합의가 없다고 명시했고, 이란과 오만의 선박 통항 논의도 해협 재개방 합의가 아니다. 시장은 '협상 예정'을 '합의 확정'으로 과대평가할 수 있다.",
-      "follow_up": [
-        "2026-08-03 오후 예정 협상의 실제 개최·참가자·직접 또는 간접 협상 여부",
-        "이란 정부·최고국가안보회의의 합의 수락 여부",
-        "이란 국방장관의 경계 발언 뒤 외무부·최고국가안보회의의 후속 공식 입장",
-        "백악관·미 국방부의 공식 공격 중단 명령",
-        "미국 해상봉쇄 해제 및 이란 원유 수출 허용의 공식 문서",
-        "호르무즈 선박 통항량·보험료·브렌트유 반응",
-        "BTC와 미 2년물 금리·달러지수의 동반 반응"
-      ],
-      "sources": {
-        "official": [
-          {
-            "name": "트럼프 Truth Social 발언 인용 AP",
-            "url": "https://apnews.com/article/814164417aa284dc8a6d34ac22ea1a8e"
-          },
-          {
-            "name": "이란 국방장관 X 발언 인용 AP — 경계 태세 유지",
-            "url": "https://apnews.com/article/f4c225f6667d9fd171616304701825a0"
-          },
-          {
-            "name": "이란 외무부 대변인 발언 인용 AP — 오만과 통항 논의 중이나 재개방 논의는 아니며 전쟁 전 상태 복귀 거부",
-            "url": "https://apnews.com/article/f4c225f6667d9fd171616304701825a0"
-          }
-        ],
-        "primary_reporting": [
-          {
-            "name": "AP — 공격 중단과 합의 조건 발표",
-            "url": "https://apnews.com/article/f4c225f6667d9fd171616304701825a0"
-          },
-          {
-            "name": "Axios — 트럼프, 협상 진전 이유로 이란 공격 취소",
-            "url": "https://www.axios.com/2026/08/02/trump-iran-attack-cancelled"
-          },
-          {
-            "name": "Cadena SER — 이란 당국자들의 호르무즈 합의 부인·외무장관의 상황 불변 통보",
-            "url": "https://cadenaser.com/nacional/2026/08/02/trump-anuncia-la-suspension-de-un-ataque-planeado-sobre-iran-pero-amenaza-con-un-terror-militar-no-visto-desde-la-segunda-guerra-mundial-cadena-ser/"
-          }
-        ],
-        "context": []
-      },
-      "verification": {
-        "state": "talks_timing_announced_by_trump_but_iran_participation_and_deal_unconfirmed",
-        "independent_sources": 3,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "notes": "AP와 Axios가 트럼프의 발표 및 미국의 공격 취소를 확인했다. AP는 트럼프가 8월 3일 오후 협상 재개를 예상한다고 발언했다고 후속 보도했지만 참여자는 공개되지 않았다. AP의 중재 관여 지역 당국자는 아직 합의가 성립하지 않았다고 밝혔고, 이란 외무부는 오만과 선박 통항 방안을 논의 중이지만 현재 해협 재개방 논의는 아니라고 선을 그었다. 협상의 실제 개최와 이란의 참여·최종 수락은 확인되지 않았다.",
-        "trump_separation": {
-          "statement": "트럼프는 8월 3일 오후 이란 협상이 재개되고 호르무즈 개방·비핵화 합의가 이뤄질 것이라고 낙관했다.",
-          "policy_action": "트럼프는 미군의 신규 대이란 공격을 중단·취소했다.",
-          "market_interpretation": "미국의 공격 중단은 단기 BTC 호재지만, 이란이 호르무즈 상황 불변을 통보했고 합의도 성립하지 않아 유가·인플레이션·연준 경로는 아직 개선되지 않았다. 현재는 양방향 재료다."
-        }
-      },
-      "published_at": "2026-08-02T13:09:13+09:00",
-      "kst": "2026-08-02 13:09:13 KST",
-      "impact": "양방향",
-      "tone": "warn",
-      "asset_class": "bitcoin",
-      "event_type": "geopolitics"
-    },
-    {
-      "stable_id": "2026-07-31-world-wld-id-adoption-etf-check",
-      "status": "official_sources_checked_with_unconfirmed_etf_claim",
-      "published_at_kst": "2026-07-31T11:00:28+09:00",
-      "source_time": "World 공식 발표 2026-07-23·24; 참고 영상 게시 2026-07-31 11:00:28 KST",
-      "title": "월드코인(WLD), Tinder·Zoom으로 World ID 확대…ETF 주장은 공시 확인 필요",
-      "summary": "World는 Tinder의 World ID 연동을 미국으로 확대했고, Zoom 회의의 딥페이크 방지와 DocuSign 서명 과정에서 사람임을 증명하는 기업용 기능도 공개했다. 이는 월드코인의 핵심 사업이 단순 토큰 결제를 넘어 AI 시대의 사람 인증 인프라로 확장되고 있다는 신호다. 다만 World ID 사용 증가가 WLD 토큰 수요로 직접 연결되는 구조는 별도로 확인해야 한다. 영상에서 언급된 WLD 현물 ETF 신청은 검색 가능한 SEC 원문과 거래소 상장 신청서를 추가로 확인하기 전까지 확정 사실로 단정하지 않는다.",
-      "importance": 4,
-      "btc_impact": {
-        "direction": "호재",
-        "assessment": "실사용처 확대는 WLD 생태계의 장기 성장 기대를 높인다. 그러나 개인정보·생체정보 규제와 토큰 가치 포착 구조가 남아 있어 단기 가격 호재로 단정하기 어렵다. ETF 관련 주장은 공식 문서가 확인될 때 별도 업데이트해야 한다."
-      },
-      "why_it_matters": "AI가 만든 계정과 실제 사람을 구분하는 수요가 커질수록 World ID의 활용 범위가 넓어질 수 있다. Tinder·Zoom·DocuSign처럼 대중적 서비스에 적용되면 네트워크 효과를 시험할 수 있지만, 서비스 채택과 WLD 매수 수요는 같은 개념이 아니다.",
-      "missed_point": "기업 제휴 소식과 WLD 토큰 투자 가치를 동일시하면 안 된다. 생체정보 규제, 국가별 서비스 제한, 언락 물량과 재단·투자자 보유 비중을 함께 확인해야 한다.",
-      "follow_up": [
-        "SEC EDGAR의 WLD ETF 등록서 원문",
-        "World ID 실제 활성 사용자와 반복 사용률",
-        "WLD 언락 일정과 기관 보유 물량",
-        "개인정보 규제기관의 후속 조치"
-      ],
-      "sources": {
-        "official": [
-          {
-            "name": "World — Tinder의 World ID 미국 확대",
-            "url": "https://world.org/blog/announcements/tinder-verification-proof-of-human-dating"
-          },
-          {
-            "name": "World — Zoom·DocuSign 기업용 World ID",
-            "url": "https://world.org/blog/announcements/zoom-docusign-world-id-for-business"
-          },
-          {
-            "name": "World — Year 3·Phase 3 발표",
-            "url": "https://world.org/blog/announcements/world-year-three"
-          }
-        ]
-      },
-      "verification": {
-        "state": "official_sources_checked_with_unconfirmed_etf_claim",
-        "independent_sources": 3,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "official_or_onchain": true,
-        "official_source": true,
-        "notes": "World ID 제휴는 공식 자료로 확인했다. ETF 신청은 공식 SEC 문서가 추가 확인될 때까지 제목의 확정 사실에서 제외했다."
-      },
-      "published_at": "2026-07-31T11:00:28+09:00",
-      "kst": "2026-07-31 11:00:28 KST",
-      "impact": "호재",
-      "tone": "up",
-      "asset_class": "altcoin",
-      "token_symbol": "WLD",
-      "event_type": "adoption"
-    },
-    {
-      "stable_id": "2026-07-27-iran-hormuz-status-unchanged-talks-continue",
-      "status": "cross_verified_follow_up",
-      "published_at_kst": "2026-07-27T16:57:00+09:00",
-      "source_time": "2026-07-27T07:57:00Z",
-      "published_at": "2026-07-27T07:57:00Z",
-      "kst": "2026-07-27 16:57:00 KST",
-      "title": "이란 “호르무즈 해협 상태 변함없어”…미국 핵협상·오만 기술협상은 계속",
-      "summary": "이란 외무부 대변인 에스마일 바가이는 호르무즈 해협의 상황이 변하지 않았으며 실질적인 폐쇄 상태가 계속되고 있다고 밝혔다. 동시에 이란과 오만의 해협 관리 관련 기술협상은 긍정적으로 진행됐고 협상도 계속될 것이라고 설명했다. 미국과의 핵협상 역시 이어지고 있다고 밝혔지만, 이란은 미국이 대화를 요청한 적이 없다는 입장을 내놨다. 또한 미국이 최근 공격 중단을 유지하는 동안 이란도 공격을 멈추겠다는 조건부 방침을 재확인했다. 이는 외교 채널은 열려 있지만 핵심 에너지 수송로가 실제로 정상화된 것은 아니라는 새로운 후속 신호다.",
-      "importance": 5,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "공격 중단과 협상 지속은 지정학적 위험 완화 측면에서 BTC에 우호적이다. 반면 호르무즈 해협의 실질적 폐쇄가 계속되면 원유 공급 불안과 유가 재상승 위험이 남아 물가·금리 경로를 통해 BTC를 압박할 수 있다. 따라서 협상 발언보다 실제 통항량 회복 여부가 다음 방향을 결정할 가능성이 높다."
-      },
-      "why_it_matters": "오전 시장은 공격 중단을 반영해 유가 하락과 위험자산 반등을 보였지만, 오후 발언은 해협 정상화가 아직 이뤄지지 않았음을 확인했다. 호르무즈 통항 차질이 이어지면 유가 하락이 되돌려지고 인플레이션 및 연준 긴축 우려가 다시 커질 수 있다. 기존 호재 평가를 제한하는 새로운 후속 정보이므로 별도 뉴스로 확인할 필요가 있다.",
-      "missed_point": "‘협상이 긍정적’이라는 표현과 ‘해협이 개방됐다’는 의미는 전혀 다르다. 실제 선박 통항과 보험료, 브렌트유 가격이 정상화되지 않는다면 외교적 발언만으로 에너지 위험이 해소됐다고 판단하기 어렵다.",
-      "follow_up": [
-        "호르무즈 해협 실제 선박 통항량 회복 여부",
-        "이란·오만 기술협상의 합의문 또는 통항 지침 발표 여부",
-        "미국·이란 공식 협상 일정과 공격 중단 연장 여부",
-        "브렌트유·WTI 및 미국 기대인플레이션 반응"
-      ],
-      "sources": {
-        "primary_reporting": [
-          {
-            "name": "AP — 해협 상태 유지·오만 기술협상",
-            "url": "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
-          },
-          {
-            "name": "FinancialJuice — 이란 외무부 대변인 후속 발언",
-            "url": "https://www.financialjuice.com/"
-          }
-        ]
-      },
-      "verification": {
-        "state": "cross_verified_follow_up",
-        "independent_sources": 2,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "notes": "FinancialJuice 속보의 핵심 내용인 오만과의 기술협상 지속과 호르무즈 해협 상태 불변은 AP의 당일 보도로 교차 확인했다. 공격 중단과 협상 지속은 완화 신호지만 실제 해협 개방은 확인되지 않았다."
-      }
-    },
-    {
-      "stable_id": "2026-07-26-us-iran-mutual-strike-pause-day2",
-      "status": "verified_market_reaction",
-      "published_at_kst": "2026-07-27T11:32:00+09:00",
-      "source_time": "2026-07-27T02:32:00Z",
-      "title": "미국·이란 상호 공격 중단 이틀째 유지…유가 5% 하락·달러 약세",
-      "summary": "미국은 이란 공습을 이틀째 중단했고 이란도 미국이 공격을 재개하지 않는 동안 공격을 멈추겠다고 재확인했다. 이후 아시아 거래에서 국제유가는 5% 넘게 하락하고 달러도 주요 통화 대비 약세를 보였다. Bloomberg 시장 요약에서는 같은 흐름 속 비트코인이 약 1.1% 상승해 65,301달러 부근을 기록한 것으로 집계됐다. 공격 중단은 공식 휴전이 아닌 조건부 조치이므로 협상 결렬이나 공습 재개 가능성은 남아 있다.",
-      "importance": 5,
-      "btc_impact": {
-        "direction": "호재",
-        "assessment": "유가 하락은 미국의 인플레이션 재가속과 연준 추가 긴축 우려를 낮추고, 달러 약세는 비트코인을 포함한 위험자산의 금융여건을 완화한다. 다만 정식 휴전이 아니라 조건부 공격 중단이므로 협상 결렬이나 공습 재개 시 되돌림 위험이 크다. 실제로 BTC가 약 1.1% 상승하며 65,300달러대를 기록해 단기 호재 경로가 가격으로도 확인됐다."
-      },
-      "why_it_matters": "BTC의 핵심 경로는 전쟁 헤드라인 자체보다 전쟁→유가→물가 기대→연준→달러·금리다. 이번에는 유가와 달러가 동시에 하락해 이 경로가 실제 시장 가격으로 확인됐다. 채권 강세까지 동반되면서 유가↓→인플레이션 우려↓→금리↓→BTC 우호적이라는 전달 경로가 한 단계 더 확인됐다.",
-      "missed_point": "이번 조치는 정식 휴전 협정이 아니라 상호 조건부 공격 중단이다. 외교 일정이 확정되지 않거나 공격이 재개되면 유가 하락과 BTC 상승이 빠르게 되돌려질 수 있다.",
-      "follow_up": [
-        "미국·이란 공식 휴전 또는 협상 일정 발표 여부",
-        "호르무즈 해협 통항량과 미국의 이란 항만 봉쇄 변화",
-        "브렌트유·WTI 하락폭 유지 여부와 미 국채금리·달러 반응",
-        "2026-07-30 03:00 KST FOMC 결정 및 03:30 KST 기자회견"
-      ],
-      "sources": {
-        "official": [
-          {
-            "name": "White House 입장 인용 AP",
-            "url": "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
-          }
-        ],
-        "primary_reporting": [
-          {
-            "name": "Reuters — 달러 약세·유가 하락 시장 반응",
-            "url": "https://live.euronext.com/en/financial-news/dollar-pulls-back-us-iran-attacks-pause-oil-drops"
-          },
-          {
-            "name": "Reuters — 유가 5% 하락",
-            "url": "https://ca.marketscreener.com/news/oil-slips-5-after-us-iran-pause-fighting-over-weekend-ce7f51dcd88dff27"
-          },
-          {
-            "name": "AP — 미국·이란 공격 중단 이틀째",
-            "url": "https://apnews.com/article/ad9fa27d5b1b5fd51e30d923ee738238"
-          },
-          {
-            "name": "AP — 오만·이란 해협 기술협상과 실질적 폐쇄 상태",
-            "url": "https://apnews.com/article/d491158a4c9a1d3429a87a6ed58f2f72"
-          },
-          {
-            "name": "FinancialJuice — 이란의 조건부 공격 중단 재확인",
-            "url": "https://www.financialjuice.com/News/9694064/Iran-will-stop-attacks-if-US-keeps-recent-pause---Senior-Iranian-source.aspx"
-          },
-          {
-            "name": "Bloomberg Markets Wrap 03:59 UTC — 유가 하락·채권 상승·BTC 0.9% 상승",
-            "url": "https://www.swissinfo.ch/eng/oil-declines%2C-bonds-rally-as-us-iran-tensions-ease%3A-markets-wrap/91802639"
-          },
-          {
-            "name": "Bloomberg Government — 공격 중단 연장과 오만의 호르무즈 협상",
-            "url": "https://news.bgov.com/bloomberg-government-news/us-iran-extend-pause-in-strikes-as-oman-holds-hormuz-talks-1"
-          }
-        ],
-        "context": [
-          {
-            "name": "AP — 유가 하락 후속 보도",
-            "url": "https://apnews.com/article/2fdef9c0b59d90367206d103f0939d30"
-          },
-          {
-            "name": "Axios — 트럼프의 대이란 공격 중단 지시",
-            "url": "https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes"
-          },
-          {
-            "name": "Bloomberg Markets Wrap 재배포 — BTC 1.1% 상승·주가지수 선물 강세",
-            "url": "https://www.swissinfo.ch/eng/oil-dips%2C-stock-futures-rise-as-iran-tensions-ease%3A-markets-wrap/91802639"
-          }
-        ]
-      },
-      "verification": {
-        "state": "cross_verified_market_reaction",
-        "independent_sources": 3,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "notes": "AP와 Reuters가 상호 공격 중단을 확인했고 Reuters와 AP가 유가 하락을, Reuters가 달러 약세를 후속 보도했다. Bloomberg 시장 요약에서 BTC 약 1.1% 상승도 확인됐다. 한편 AP와 Bloomberg는 오만·이란의 호르무즈 기술협상 진행을 확인했다. FinancialJuice의 바가이 발언은 협상 진전과 해협의 실질적 폐쇄 유지가 동시에 존재한다는 점을 보여주는 중요 업데이트다.",
-        "trump_separation": {
-          "statement": "트럼프는 외교에 시간을 주기 위해 이란 공격을 중단했다고 미 당국자들이 설명했다.",
-          "policy_action": "미군의 대이란 공습이 이틀째 실제로 중단됐다.",
-          "market_interpretation": "유가 5% 이상 하락과 달러 약세는 시장이 단기적으로 지정학적·인플레이션 위험 감소를 반영했다는 뜻이며 BTC에는 우호적이다."
-        }
-      },
-      "published_at": "2026-07-27T02:32:00Z",
-      "kst": "2026-07-27 11:32:00 KST",
-      "tone": "up",
-      "impact": "호재"
-    },
-    {
-      "stable_id": "2026-07-27-cme-fedwatch-july-hike-odds-36-3",
-      "status": "verified",
-      "published_at_kst": "2026-07-27T11:32:00+09:00",
-      "source_time": "2026-07-27T02:32:00Z",
-      "title": "CME FedWatch, 7월 연준 25bp 인상 확률 36.3%…유가 하락 호재 상쇄 변수",
-      "summary": "Reuters가 인용한 CME FedWatch에 따르면 7월 28~29일 FOMC에서 25bp 금리 인상 확률은 36.3%, 동결 확률은 약 63.7%다. 7월 14일 물가 지표 직후 인상 확률이 약 10%까지 떨어졌던 것과 비교하면 긴축 위험이 다시 크게 높아졌다. 최근 유가 하락은 인플레이션 부담을 낮추지만, 워시 의장의 정책 방향이 불분명하고 이란 재확전이 연준 블랙아웃 기간에 발생해 불확실성이 여전히 크다.",
-      "importance": 4,
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "이란 긴장 완화와 유가·달러 하락은 BTC에 호재지만, 36.3%의 깜짝 인상 확률은 위험자산의 상단을 제한한다. 동결과 비둘기파적 설명이면 BTC 상승이 확대될 수 있으나 25bp 인상 또는 매파적 기자회견이면 급락·청산 위험이 크다."
-      },
-      "why_it_matters": "BTC는 현재 지정학 호재보다 FOMC 결과에 더 민감해질 구간이다. 동결이 기본 시나리오지만 인상 확률이 3분의 1을 넘으면 시장은 한쪽으로 안심할 수 없고, 옵션·선물 포지션의 양방향 변동성이 커진다.",
-      "missed_point": "유가가 하루 하락했다고 연준이 즉시 안심하는 것은 아니다. 정책위원들은 이미 누적된 에너지 충격과 관세·서비스 물가를 함께 본다. 따라서 유가 하락과 채권 강세가 BTC에 호재여도, 회의 전까지는 인상 꼬리위험이 사라지지 않는다.",
-      "follow_up": [
-        "2026-07-30 03:00 KST FOMC 금리 결정",
-        "2026-07-30 03:30 KST 케빈 워시 연준 의장 기자회견",
-        "회의 직전 CME FedWatch 인상 확률 변화",
-        "미 2년물 국채금리·달러지수와 BTC 65,000달러 유지 여부"
-      ],
-      "sources": {
-        "official": [
-          {
-            "name": "CME FedWatch",
-            "url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html"
-          }
-        ],
-        "primary_reporting": [
-          {
-            "name": "Reuters — 7월 인상 확률 36.3%, BTC 0.9% 상승",
-            "url": "https://live.euronext.com/en/financial-news/dollar-pulls-back-us-iran-attacks-pause-oil-drops"
-          },
-          {
-            "name": "Reuters — 아시아 주식·채권 반등과 FOMC 불확실성",
-            "url": "https://au.investing.com/news/stock-market-news/shares-bonds-bounce-as-oil-skid-offers-inflation-relief-4552818"
-          }
-        ],
-        "context": [
-          {
-            "name": "Kiplinger — 7월 24일 동결 64.2%, 인상 약 35.8%",
-            "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
-          },
-          {
-            "name": "Reuters — 7월 14일 인상 확률 약 10%",
-            "url": "https://www.marketscreener.com/news/traders-expect-fed-to-skip-july-rate-hike-as-inflation-cools-ce7f5eddd98cf627"
-          }
-        ]
-      },
-      "verification": {
-        "state": "cross_verified",
-        "independent_sources": 3,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "notes": "CME FedWatch 기반 수치를 Reuters가 보도했고 Kiplinger의 7월 24일 수치와도 일치한다. 7월 14일 Reuters 보도와 비교해 인상 확률의 재상승을 확인했다.",
-        "trump_separation": {
-          "statement": "해당 없음",
-          "policy_action": "연준은 아직 결정을 발표하지 않았으며 현재 수치는 선물시장 확률이다.",
-          "market_interpretation": "동결이 우세하지만 36.3% 인상 확률은 BTC에 무시하기 어려운 매파적 꼬리위험이다."
-        }
-      },
-      "published_at": "2026-07-27T02:32:00Z",
-      "kst": "2026-07-27 11:32:00 KST",
-      "tone": "warn",
-      "impact": "양방향"
-    },
-    {
-      "stable_id": "2026-07-26-f9043acf278d",
-      "original_title": "Oil tanker explodes after hitting mine in Strait of Hormuz",
-      "published_at": "2026-07-26T21:29:00Z",
-      "sources": [
-        {
-          "name": "The New Voice of Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnBLUnpGcEtxRXVjNm1ESDRxWXNHZlVqeEZPTjlCdVBoWU5DWTNQckcwa1J1WWZxRVh2NnRDYTRyMHFCbDF0eU1kMmNweWJhdjF1MDJycjBxQ0Y2N1MzeG1XX1BYRm9nYS1zUGFTaHYybHFxbm43WU9jTHp1cWZkZ05mS20zWElwX05OTnBubEFMeHRoQTQyYmo3NklyNmpwZFAzLUU1cmtMSy1SOFdaTHl3ZkJDWU1NV2g1T1NBRG_SAbwBQVVfeXFMTndGcnNNMVV3TWt0X0xyMjRCNmM2cGx5N0QtQzdBS0FGVEJScllfLUhhOEJESnNJSUxsUjhCQTBzWlpHaV9KU2VYcm1OXzdhT01TZzBjdWRHU292b2dJQWFXZXZFM1pheDJqbXhaX19SeVZFUTNkQi03eXJ0dExlS3hOQmc2c2tmSkFuZEJhaWFNLUNOaU1sVkoyWTlnQUl6aG9Od1JRdE1NcDdrcUw1ZXFHXzRxM2tMRmRxbHg?oc=5"
-        },
-        {
-          "name": "The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bGtET0Y0WWNWM0VDTl9xRVhRUnNFMi1Ccjc5NjVmZU5vamhWLWozelUzcF95Q1RjQ25CNW5DUl80c3hZV3dieHlhT3YzY2N1VFJKS09tanp6M3daNHllTXVPSGhUamJiS1E?oc=5"
-        },
-        {
-          "name": "ANI News",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYWUtN3Y0QTgzak15TVAyRGpSU1RBa254TVNQdlBfNjc1ZTJXQ1RWbmRqbzE0aWcxT2tVZ01ueEZ1YVotbGYxcGdMajZOQXRGb0hCdWlzMFdOM2JLbEc3dkxjT0Z0aTNjTjNUcVR6eW0zeU9wcEZEOXNZUV9PUS03b3R3ZkFIcnZDSDNPMWVVZkZHRTQzbVBNLU1aTUxSUEFISV9mNVp5eDZmbkt3cDkzQUxCazdmMU1WdkppeExwdjdla1NsU2ZtVW9rM2NxZElmQWJUVQ?oc=5"
-        },
-        {
-          "name": "Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTlXeEQ0RHRQd3RyTVUySEg4a09qZThyYnNVdnFiYmI5d2IzVUNlS3RKNmRINGJuUlppc1dvb18wcTFEbmpQT1NXSFJnWUp0Nmg0WU1GM08wY3lKVUVkNnE1LW4xRFZDU3VsR3l2VG5jUDdCUUpVMVUtQ3FGSkZFbjlRNklWTFhZRS1IZVpQNkxwclhaQ3N5d0hrd09hdlRNR0pKNXVLbWgweUc4WmhiU1ZsR2hycWlYS0o5NnpEald1ZjZzTVRFZ2hUWU1xT2vSAc8BQVVfeXFMTmk5V3hENER0UHd0ck1VMkhIOGtPamU4cmJzVXZxYmJiOXdiM1VDZUt0SjZkSDRiblJaaXNXb29fMHExRG5qUE9TV0hSZ1lKdDZoNFlNRjNPMGN5SlVFZDZxNS1uMURWQ1N1bEd5dlRuY1A3QlFKVTFVLUNxRkpGRW45UTZJVkxYWUUtSGVaUDZMcHJYWkNzeXdIa3dPYXZUTUdKSjV1S21oMHlHOFpoYlNWbEdocnFpWEtKOTZ6RGpXdWY2c01URWdoVFlNcU9r?oc=5"
-        }
-      ],
-      "title": "호르무즈 해협에서 유조선, 기뢰 충돌 후 폭발",
-      "summary": "호르무즈 해협에서 한 유조선이 기뢰와 충돌한 후 폭발하는 사건이 발생했습니다. 이 지역은 세계 원유 운송의 핵심 경로로, 사고는 글로벌 에너지 공급망에 직접적인 영향을 줄 수 있습니다. 여러 매체가 이 사건을 보도했으며, 사고의 원인과 배후에 대한 구체적 정보는 아직 공개되지 않았습니다. 유조선 폭발로 인한 원유 공급 차질 가능성이 제기되고 있습니다. 지역 긴장감이 다시 높아질 수 있다는 우려도 있습니다.",
-      "importance": 5,
-      "tone": "warn",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "원유 공급망의 불안정은 글로벌 금융시장에 불확실성을 높입니다. 비트코인은 전통 자산과 달리 위험회피 수단으로 활용될 수 있으나, 에너지 가격 급등은 인플레이션 압력을 높여 전체 시장에 부정적 영향을 줄 수 있습니다. 단기적으로 비트코인에 대한 수요가 증가할 수 있지만, 시장 전반의 불안정성은 투자 심리를 위축시킬 수도 있습니다."
-      },
-      "why_it_matters": "호르무즈 해협은 세계 원유 공급의 30% 이상이 통과하는 전략적 요충지입니다. 이 지역에서 발생한 사고는 글로벌 에너지 가격과 금융시장에 즉각적인 영향을 미칩니다. 비트코인 투자자들은 지정학적 리스크와 에너지 가격 변동에 민감하게 반응할 수밖에 없습니다.",
-      "missed_point": "폭발의 정확한 원인과 배후에 대한 정보가 부족합니다. 사고 이후 국제 사회 및 관련국의 대응, 추가적인 공급망 차질 가능성에 대한 분석이 미흡합니다.",
-      "follow_up": [
-        "폭발의 원인 및 배후 조사 결과 확인",
-        "원유 공급망 차질 및 가격 변동 추이 분석",
-        "비트코인 및 글로벌 금융시장 반응 모니터링"
-      ],
-      "verification": {
-        "state": "확인됨",
-        "independent_sources": [
-          "The New Voice of Ukraine",
-          "The Jerusalem Post",
-          "ANI News",
-          "Al Arabiya English"
-        ],
-        "notes": "여러 매체에서 동일 사건 보도, 세부 정보는 추가 확인 필요."
-      },
-      "kst": "2026-07-27 06:29:00 KST",
-      "status": "확인됨",
-      "impact": "양방향"
-    },
-    {
-      "stable_id": "2026-07-26-c66c9cd1da23",
-      "original_title": "Rising inflation turns July Fed meeting into rate-hike showdown",
-      "published_at": "2026-07-26T20:55:00Z",
-      "sources": [
-        {
-          "name": "Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUF5WnVOd2xSMUZsdmVKMGJHZXVpZE4wUTBIUkdZbFlpbWVGaWVxWDd3b28zM09KSHk4eVpEMnhZRHVFU05uNjZTbldMaUpVcGNSTFBVRnA0eWRDUjZYUWNlU3BWOUZvbUFieHE3MW04WEd4NkN5VFJJbDZfYWV6X29UWkM3VlFqb05nWVY5TC12ZDZ1YnhlNGxVVnbSAaIBQVVfeXFMTmhpelc0eHplUzVaRDJXZ3JaWVk5Z3pNSVJ2WTF0M1hBWUwzai1ncjZGaldxUHMzZGt6YndzUkp2MDdmd3dzUUNpUG1jZFI5d0NrT01ScWRWbkFaUEtmOTI0alFBWXN0Q2RYanVTNmQ0elNHYmgxSUdoTGV5UkJLR1VpaFducV9kOWY5RlM3S041ZmswbzZocnlxNEJvN0ticWl3?oc=5"
-        },
-        {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUd4SmpnLWJLaFM4WURwcmFkMVdrYUdiTVEtUDJyRkJfbWQyb2RZX2EzOThTMlhMWG1qemFhb1dYM21DT1dIZHlLdUt3OXZ0UC1EVDNobHBUV3g4ZFpXUDUxRTZweVNTbHNlS2pfSEhaSWpOOWpsTDViWGxaU3RGUmhn?oc=5"
-        }
-      ],
-      "title": "인플레이션 상승, 7월 연준 회의 금리 인상 대결로",
-      "summary": "최근 인플레이션 상승으로 인해 7월 연방준비제도(Fed) 회의가 금리 인상 여부를 둘러싼 주요 대결의 장이 되고 있습니다. 시장에서는 연준이 인플레이션 억제를 위해 추가 금리 인상을 단행할지 여부에 촉각을 곤두세우고 있습니다. 금리 인상은 달러 강세와 위험자산 약세를 유발할 수 있습니다. 투자자들은 연준의 결정에 따라 금융시장 전반의 변동성을 예상하고 있습니다. 비트코인 역시 금리 인상에 민감하게 반응할 가능성이 높습니다.",
-      "importance": 5,
-      "tone": "warn",
-      "btc_impact": {
-        "direction": "악재",
-        "assessment": "금리 인상은 위험자산에 대한 투자 심리를 위축시키며, 비트코인 가격에도 부정적 영향을 줄 수 있습니다. 달러 강세와 유동성 축소는 비트코인 수요를 감소시킬 수 있습니다. 단기적으로 비트코인 가격 하락 압력이 커질 수 있으나, 장기적으로는 인플레이션 헤지 수단으로서의 역할이 부각될 수 있습니다."
-      },
-      "why_it_matters": "연준의 금리 정책은 글로벌 금융시장에 직접적인 영향을 미치며, 비트코인 등 위험자산의 가격 변동성에 큰 영향을 줍니다. 인플레이션이 지속된다면 투자자들은 안전자산과 헤지 수단을 모색할 수밖에 없습니다. 비트코인 시장의 단기적 변동성 확대가 예상됩니다.",
-      "missed_point": "연준 내부의 구체적 논의와 금리 인상 가능성에 대한 전망이 부족합니다. 인플레이션의 원인과 향후 전망, 비트코인 투자자들의 대응 전략에 대한 정보가 미흡합니다.",
-      "follow_up": [
-        "연준의 금리 인상 결정 여부 및 발표 내용 확인",
-        "금리 인상 후 비트코인 및 금융시장 반응 분석",
-        "인플레이션 지속 여부와 시장 전망 조사"
-      ],
-      "verification": {
-        "state": "확인됨",
-        "independent_sources": [
-          "Forex Factory",
-          "AOL.com"
-        ],
-        "notes": "두 매체에서 인플레이션과 연준 회의 관련 보도 확인."
-      },
-      "kst": "2026-07-27 05:55:00 KST",
-      "status": "확인됨",
-      "impact": "악재"
-    },
-    {
-      "stable_id": "2026-07-26-db10976476fb",
-      "original_title": "Lawsuit claims 3.8M dormant BTC using police lost-and-found rules as Congress races to stop it with CLARITY",
-      "published_at": "2026-07-26T19:04:08Z",
-      "sources": [
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3A0LUNmck1BbHBPcnpmWW5VdHFROTNtZTRrM29JN1RZbnRqeWZzVXJlOEJ0aTFhS2l5UWZZTmN1cE9fQlktQXB0VmlLbzdDLUtvbzYwbG5UVjJmbjFCWDBLSWdkOWxiZnFOVUNaYjZRTnh2MUk1NmVmbHpRczFJb2VqbjY5T3V4NDRHRGlFWXpmd3JpZlBpZ2x2VXVfUTY2b0l3VXNMWk1xLXZyenlVVmFtVlM?oc=5"
-        },
-        {
-          "name": "CryptoSlate",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTc0enpULUhCUVlPXy1mNGNzYWNyMnV0aXhERWZoZGVqVThDWkU4aGdDZjF2ZE5kX3ZGeWVYNlRkQ0R1cHQtYmlIS184Q1RsODJwTm9QZm5aakFXd2gyVmVJdVlaYjQxMWhRcHNTUlItVzJWVktwdEJvb1JYMzVEZm52a3hOYk9GSGxNNFFYbFdLN0FJU0t2bUQwNHloMlZRc0dR?oc=5"
-        }
-      ],
-      "title": "소송, 380만 비트코인 휴면 자산 경찰 분실물 규정 적용 주장…의회 CLARITY로 저지 시도",
-      "summary": "380만 비트코인에 달하는 휴면 자산에 대해 경찰 분실물 규정을 적용하려는 소송이 제기되었습니다. 이에 미국 의회는 CLARITY 법안을 통해 이를 저지하려고 서두르고 있습니다. 해당 소송은 비트코인 소유권과 법적 해석에 대한 새로운 논란을 촉발하고 있습니다. 만약 경찰 분실물 규정이 적용된다면, 대규모 비트코인 이동 및 시장 혼란이 발생할 수 있습니다. 의회의 대응이 비트코인 시장의 안정성에 중요한 변수로 작용할 전망입니다.",
-      "importance": 5,
-      "tone": "warn",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "휴면 비트코인에 대한 법적 해석 변화는 시장에 큰 충격을 줄 수 있습니다. 대규모 비트코인 이동이 현실화되면 가격 변동성이 급격히 커질 수 있습니다. 의회의 신속한 대응이 시장 안정에 도움이 될 수 있지만, 법적 불확실성은 투자 심리를 위축시킬 수 있습니다."
-      },
-      "why_it_matters": "비트코인 소유권과 법적 해석은 시장의 신뢰와 안정성에 직결되는 문제입니다. 휴면 자산이 대규모로 이동하거나 법적 분쟁이 발생하면 시장 혼란이 불가피합니다. 의회의 대응과 법적 판결이 비트코인 시장의 중장기적 방향성을 결정할 수 있습니다.",
-      "missed_point": "소송의 구체적 내용과 법적 근거, CLARITY 법안의 주요 조항에 대한 정보가 부족합니다. 휴면 비트코인 소유자들의 입장과 시장 참여자들의 반응에 대한 분석이 미흡합니다.",
-      "follow_up": [
-        "소송의 법적 근거 및 판결 전망 확인",
-        "CLARITY 법안의 주요 내용과 의회 통과 여부",
-        "비트코인 시장 내 휴면 자산 이동 가능성 및 투자자 반응 분석"
-      ],
-      "verification": {
-        "state": "확인됨",
-        "independent_sources": [
-          "CryptoRank",
-          "CryptoSlate"
-        ],
-        "notes": "두 암호화폐 전문 매체에서 동일 사안 보도, 세부 내용은 추가 확인 필요."
-      },
-      "kst": "2026-07-27 04:04:08 KST",
-      "status": "확인됨",
-      "impact": "양방향"
-    },
-    {
-      "stable_id": "2026-07-26-dabcab79004d",
-      "original_title": "Two Central Banks Decide Interest Rates Next Week: What It Means for Bitcoin",
-      "published_at": "2026-07-26T11:52:12Z",
-      "sources": [
-        {
-          "name": "Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qcmM3WmZaYnVPRWE1bVQ5d2ZvdGlpZ3VZbmRBNjlFUjJJZ0dHbDNtcW0wNHZ0STVIVmxWdnRJcG9DZkFPdEN2U2tNblpXQ0UwMDdCeXZxbUhNUEwwN2hZSDN0ONIBY0FVX3lxTE5qcmM3WmZaYnVPRWE1bVQ5d2ZvdGlpZ3VZbmRBNjlFUjJJZ0dHbDNtcW0wNHZ0STVIVmxWdnRJcG9DZkFPdEN2U2tNblpXQ0UwMDdCeXZxbUhNUEwwN2hZSDN0OA?oc=5"
-        },
-        {
-          "name": "BeInCrypto",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ya3FOQXplaFU5Yl9kOHNFdFBSOGpNaTNHX1FKVHNCSDBSWnBuYzlDQy1OekJuX1ZYMG9pTDZENVlkTjhJMkVNQVMxRGdjNEgwTFBrM2tOTHRDUjk0R1NKdk1FWkM2Z09Ca1BvX3dB?oc=5"
-        }
-      ],
-      "title": "다음 주 두 중앙은행 금리 결정…비트코인에 미칠 영향은?",
-      "summary": "다음 주 두 개의 중앙은행이 기준금리 결정을 앞두고 있다. 이 결정은 비트코인 시장에 중요한 영향을 미칠 수 있다. 중앙은행의 금리 정책은 글로벌 유동성과 위험자산에 대한 투자 심리에 직접적인 변화를 유발한다. 투자자들은 금리 인상, 동결, 인하 등 다양한 시나리오에 따라 비트코인 포지션을 조정할 가능성이 높다. 특히, 주요국 중앙은행의 정책 변화는 암호화폐 시장의 변동성을 증폭시킬 수 있다.",
-      "importance": 4,
-      "tone": "warn",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "중앙은행의 금리 인상은 비트코인에 단기적으로 악재가 될 수 있으나, 동결이나 인하 시에는 호재로 작용할 수 있다. 투자자들은 정책 발표 전까지 관망세를 유지할 가능성이 높다. 정책 결과에 따라 비트코인 가격이 급격히 변동할 수 있으므로 주의가 필요하다."
-      },
-      "why_it_matters": "중앙은행의 금리 결정은 글로벌 금융시장의 방향성을 결정짓는 핵심 변수다. 비트코인은 전통 금융시장과의 상관성이 높아진 상황에서 이러한 거시 이벤트에 민감하게 반응한다. 이번 결정은 단기적인 가격 변동뿐 아니라, 중장기 투자 전략에도 영향을 줄 수 있다.",
-      "missed_point": "어떤 중앙은행이 금리 결정을 내리는지, 그리고 시장의 예상 컨센서스가 무엇인지에 대한 정보가 부족하다. 또한, 과거 유사한 이벤트에서 비트코인 가격이 어떻게 반응했는지에 대한 데이터가 제시되지 않았다.",
-      "follow_up": [
-        "금리 결정을 내리는 두 중앙은행의 명확한 확인",
-        "시장 컨센서스 및 예상 시나리오 파악",
-        "비트코인 가격의 과거 금리 이벤트 반응 분석"
-      ],
-      "verification": {
-        "state": "확인됨",
-        "independent_sources": [
-          "Bitget",
-          "BeInCrypto"
-        ],
-        "notes": "두 매체에서 동일 이슈를 다룸."
-      },
-      "kst": "2026-07-26 20:52:12 KST",
-      "status": "확인됨",
-      "impact": "양방향"
-    },
-    {
-      "stable_id": "2026-07-23-ondo-sbi-japan-tokenized-stocks",
-      "status": "official_source_checked_reference",
-      "published_at_kst": "2026-07-23T09:00:00+09:00",
-      "source_time": "Ondo 공식 발표 2026-07-16 · 영상 게시 약 4일 전",
-      "published_at": "2026-07-23T00:00:00Z",
-      "kst": "2026-07-23 09:00:00 KST",
-      "title": "온도(ONDO), SBI와 일본 주식 온체인화 추진…확인된 내용과 남은 과제",
-      "summary": "Ondo Finance 공식 발표에 따르면 온도와 SBI는 일본 주식을 온체인으로 발행·유통하고, SBI의 엔화 스테이블코인 JPYSC를 결제와 담보에 활용하는 방안을 추진한다. Ondo 토큰화 상품을 SBI 그룹 생태계에 공급하고 공동 마케팅도 진행할 계획이다. 이번 협력은 일본 자본시장과 글로벌 토큰화 시장을 연결하는 것을 목표로 한다. 다만 이는 파트너십과 추진 계획을 발표한 단계이며, 일본 내 실제 상품 출시일이나 규제 승인 완료를 의미하지 않는다. 따라서 ONDO 토큰 가격 전망보다 출시 일정, 취급 지역, 규제 구조를 중심으로 확인해야 한다.",
-      "importance": 4,
-      "tone": "up",
-      "impact": "호재",
-      "asset_class": "altcoin",
-      "token_symbol": "ONDO",
-      "event_type": "partnership",
-      "btc_impact": {
-        "direction": "호재",
-        "assessment": "일본 대형 금융그룹과의 협력은 ONDO의 실물자산 토큰화 유통망 확대에 긍정적이다. 엔화 결제·담보 인프라가 실제 도입되면 온체인 증권 시장의 접근성이 넓어질 수 있다. 그러나 파트너십 발표만으로 매출, 이용자 증가 또는 ONDO 토큰 수요가 자동으로 발생하는 것은 아니므로 실행 단계 확인이 필요하다."
-      },
-      "why_it_matters": "RWA 시장의 핵심은 단순한 토큰 발행이 아니라 규제된 자산 공급, 현지 유통망, 결제수단을 동시에 확보하는 것이다. SBI는 일본 금융시장 접근 채널을 제공하고 Ondo는 토큰화 인프라를 제공한다. 계획대로 실행될 경우 ONDO가 미국 중심의 토큰화 주식 사업을 일본 자산과 엔화 결제로 확장하는 계기가 될 수 있다.",
-      "missed_point": "공식 발표는 협력 범위를 설명하지만 구체적인 출시일, 대상 종목, 투자자 자격과 규제 승인을 모두 확정하지 않았다. 또한 Ondo 플랫폼의 성장과 ONDO 토큰의 가치 포착 구조는 별도로 검토해야 한다.",
-      "follow_up": [
-        "일본 주식 토큰화 상품의 실제 출시일과 대상 종목",
-        "일본 및 제공 지역별 규제 승인과 투자자 제한",
-        "JPYSC 결제·담보 기능의 실제 적용 여부",
-        "ONDO 토큰이 서비스 수익과 연결되는 구조"
-      ],
-      "sources": [
-        {
-          "name": "Ondo Finance 공식 발표 — SBI 협력",
-          "url": "https://ondo.finance/blog/ondo-partners-with-sbi-group"
-        }
-      ],
-      "verification": {
-        "state": "official_source_checked_reference",
-        "independent_sources": 1,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "official_or_onchain": true,
-        "notes": "영상에서 제시한 SBI 협력의 핵심 내용은 Ondo Finance 공식 발표로 확인했다. 10억달러 규모나 DTCC 연결 등 별도 주장은 이번 카드의 확정 사실에서 제외했다."
-      }
-    },
-    {
-      "stable_id": "2026-07-22-sui-six-million-tps-experiment",
-      "status": "official_source_checked_reference",
-      "published_at_kst": "2026-07-22T09:00:00+09:00",
-      "source_time": "Sui 공식 발표 2026-07-06 · 영상 게시 약 5일 전",
-      "published_at": "2026-07-22T00:00:00Z",
-      "kst": "2026-07-22 09:00:00 KST",
-      "title": "수이(SUI) 600만 TPS 기록의 실제 의미…메인넷 처리량과 구분 필요",
-      "summary": "Sui Foundation 공식 설명에 따르면 2026년 7월 4일 공개 실험에서 최고 6,086,766 TPS가 측정됐다. 이 수치는 AI 에이전트가 게임·결제·채팅을 수행하는 과정에서 프로그래머블 터널이라는 오프체인 채널을 사용해 기록됐다. 채널이 닫힐 때 결과가 수이 메인넷에 정산되는 구조이므로 메인넷이 초당 600만 건을 직접 확정했다는 의미는 아니다. 공개 참여형 기술 실험의 순간 최고치라는 측정 조건도 함께 고려해야 한다. 기술적 확장성 실험으로는 의미가 있지만 실제 메인넷 수요, 수수료 수익, 장애 안정성과 분리해 평가해야 한다.",
+      "stable_id": "2026-08-03-40fe3ca2ea9d",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:12:52Z",
+      "published_at_kst": "2026-08-03T19:12:52+09:00",
+      "source_time": "2026-08-03T10:12:52Z",
+      "kst": "2026-08-03 19:12:52 KST",
+      "title": "[검증 중] Which midterm candidates is the crypto industry backing?",
+      "summary": "Which midterm candidates is the crypto industry backing? &nbsp;&nbsp; Reuters",
       "importance": 3,
       "tone": "warn",
       "impact": "양방향",
-      "asset_class": "altcoin",
-      "token_symbol": "SUI",
-      "event_type": "upgrade",
       "btc_impact": {
         "direction": "양방향",
-        "assessment": "높은 처리량 실험은 Sui 생태계의 결제·게임·AI 애플리케이션 확장 가능성을 보여주는 긍정적 신호다. 반면 오프체인 채널 결과를 메인넷 TPS처럼 해석하면 성능을 과대평가할 수 있다. SUI에 대한 실질적 영향은 프로그래머블 터널의 상용화, 메인넷 정산 비용, 이용자와 수수료 증가로 이어지는지에 달려 있다."
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
       },
-      "why_it_matters": "블록체인 성능 수치는 측정 환경에 따라 의미가 크게 달라진다. 프로그래머블 터널은 반복 상호작용을 오프체인에서 처리한 뒤 최종 상태를 메인넷에 정산해 확장성을 높이는 방식이다. 실제 서비스에 적용된다면 게임과 AI 에이전트 결제에 유용하지만, 메인넷의 합의 처리량과 동일한 지표로 비교하면 안 된다.",
-      "missed_point": "600만 TPS는 공개 실험의 순간 최고치이며 일반적인 메인넷 거래 처리량이 아니다. 과거 네트워크 중단 이력과 현재 상태 페이지, 실제 애플리케이션 채택률도 함께 봐야 기술적 성과가 투자 가치로 이어지는지 판단할 수 있다.",
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
       "follow_up": [
-        "프로그래머블 터널의 메인넷 상용화 일정",
-        "터널 종료 시 메인넷 정산 비용과 지연시간",
-        "실제 게임·결제 애플리케이션 채택 사례",
-        "Sui 상태 페이지의 장애 및 안정성 기록"
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
       ],
       "sources": [
         {
-          "name": "Sui Foundation 공식 발표 — 600만 TPS 실험",
-          "url": "https://blog.sui.io/sui-processes-over-6-million-transactions-per-second-in-ai-agent-livestream-experiment/"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXlOLU1Ld3hmUGtwbGJxSW83M3ZLa0wydU1VSFlwSkZKSHRXVUFfUm92ZmYzbGY3eW1kWU5rdkNveGM3Vk1JYjQxTU9HaUsyanhOX2laVXRvWkhrMnZ5MmREYURfeUl0S0VyaHdTUGx4c1lVWHJxNEcxdjhnaDVyQll1akQ1NEtWUmUzWF91bHptTVd1ZFlVLWxZay1nc3gya3AyelRjdw?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-6096472fd600",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:09:29Z",
+      "published_at_kst": "2026-08-03T19:09:29+09:00",
+      "source_time": "2026-08-03T10:09:29Z",
+      "kst": "2026-08-03 19:09:29 KST",
+      "title": "[검증 중] FinancialJuice: Fed's Williams: If inflation is not on track to 2%, action is appropriate",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704952/Feds-Williams-If-inflation-is-not-on-track-to-2-action-is-appropriate---Sources.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-437e0becba55",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:06:18Z",
+      "published_at_kst": "2026-08-03T19:06:18+09:00",
+      "source_time": "2026-08-03T10:06:18Z",
+      "kst": "2026-08-03 19:06:18 KST",
+      "title": "[검증 중] FinancialJuice: Fed's Williams sees inflation coming down in H2 and more next year",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704951/Feds-Williams-sees-inflation-coming-down-in-H2-and-more-next-year.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-1dd18d7d0f72",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:05:59Z",
+      "published_at_kst": "2026-08-03T19:05:59+09:00",
+      "source_time": "2026-08-03T10:05:59Z",
+      "kst": "2026-08-03 19:05:59 KST",
+      "title": "[검증 중] FULL TEXT Transcript of Reuters interview with NY Fed President Williams",
+      "summary": "FULL TEXT Transcript of Reuters interview with NY Fed President Williams &nbsp;&nbsp; Reuters",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU1jeGRidDZGNnBmU1MxVVgyTzFUZjJIUWgwUHRiVWNzUE0zOGZtV2luREdPaVU0bTJURlI3WVdBX3VLT1l4U25yd2pmQnBUclQtMmJSa1hORzVFX0ZKUHJBTGpFbVZpVm9TdDJEcGZCeXRvY1E4azdMaDJqQ1NiNnRiVmI0c0E3UGU3cTNjLW5YdFhILWRMUjNZOUVNN2QzRnZpdHlnYUtQbExFZUdzWUhRaTk?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-656a6c245daa",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:00:04Z",
+      "published_at_kst": "2026-08-03T19:00:04+09:00",
+      "source_time": "2026-08-03T10:00:04Z",
+      "kst": "2026-08-03 19:00:04 KST",
+      "title": "[검증 중] FinancialJuice: Fed’s Williams: Rate policy still well positioned to reach 2% inflation",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704935/Feds-Williams-Rate-policy-still-well-positioned-to-reach-2-inflation.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-9251aa61aeec",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:00:04Z",
+      "published_at_kst": "2026-08-03T19:00:04+09:00",
+      "source_time": "2026-08-03T10:00:04Z",
+      "kst": "2026-08-03 19:00:04 KST",
+      "title": "[검증 중] FinancialJuice: Fed’s Williams remains confident inflation pressures will gradually ease",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704934/Feds-Williams-remains-confident-inflation-pressures-will-gradually-ease.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-86ef31ab2a11",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:00:04Z",
+      "published_at_kst": "2026-08-03T19:00:04+09:00",
+      "source_time": "2026-08-03T10:00:04Z",
+      "kst": "2026-08-03 19:00:04 KST",
+      "title": "[검증 중] FinancialJuice: Fed's Williams: Central bank very committed to returning inflation to 2%",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704933/Feds-Williams-Central-bank-very-committed-to-returning-inflation-to-2.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-edd5680c0717",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:00:04Z",
+      "published_at_kst": "2026-08-03T19:00:04+09:00",
+      "source_time": "2026-08-03T10:00:04Z",
+      "kst": "2026-08-03 19:00:04 KST",
+      "title": "[검증 중] FinancialJuice: Fed’s Williams: aware of market pricing, Fed not required to endorse market levels",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704932/Feds-Williams-aware-of-market-pricing-Fed-not-required-to-endorse-market-levels.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-3e03b73a957f",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:00:04Z",
+      "published_at_kst": "2026-08-03T19:00:04+09:00",
+      "source_time": "2026-08-03T10:00:04Z",
+      "kst": "2026-08-03 19:00:04 KST",
+      "title": "[검증 중] FinancialJuice: Fed's Williams: I strongly backed the FOMC's latest move",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704931/Feds-Williams-I-strongly-backed-the-FOMCs-latest-move.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-45f8d6188a35",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:00:04Z",
+      "published_at_kst": "2026-08-03T19:00:04+09:00",
+      "source_time": "2026-08-03T10:00:04Z",
+      "kst": "2026-08-03 19:00:04 KST",
+      "title": "[검증 중] FinancialJuice: Fed’s Williams: Volatility in AI sector is unsurprising",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704930/Feds-Williams-Volatility-in-AI-sector-is-unsurprising.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-172b83514550",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:00:04Z",
+      "published_at_kst": "2026-08-03T19:00:04+09:00",
+      "source_time": "2026-08-03T10:00:04Z",
+      "kst": "2026-08-03 19:00:04 KST",
+      "title": "[검증 중] FinancialJuice: Fed's Williams: Anticipate Middle East war inflation effect to ease",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704929/Feds-Williams-Anticipate-Middle-East-war-inflation-effect-to-ease.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-af87e577f74e",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:00:04Z",
+      "published_at_kst": "2026-08-03T19:00:04+09:00",
+      "source_time": "2026-08-03T10:00:04Z",
+      "kst": "2026-08-03 19:00:04 KST",
+      "title": "[검증 중] FinancialJuice: Fed’s Williams: Market pricing offers Fed valuable insight",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704928/Feds-Williams-Market-pricing-offers-Fed-valuable-insight.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-4ca47610a1c2",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:00:03Z",
+      "published_at_kst": "2026-08-03T19:00:03+09:00",
+      "source_time": "2026-08-03T10:00:03Z",
+      "kst": "2026-08-03 19:00:03 KST",
+      "title": "[검증 중] FinancialJuice: Fed’s Williams: No financial stability risks seen from AI investment",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9704926/Feds-Williams-No-financial-stability-risks-seen-from-AI-investment.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-3ec30a544558",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T09:38:53Z",
+      "published_at_kst": "2026-08-03T18:38:53+09:00",
+      "source_time": "2026-08-03T09:38:53Z",
+      "kst": "2026-08-03 18:38:53 KST",
+      "title": "[검증 중] Robinhood wins UK crypto registration before new regulatory regime kicks off",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-cd8a13bec90c",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T09:33:07Z",
+      "published_at_kst": "2026-08-03T18:33:07+09:00",
+      "source_time": "2026-08-03T09:33:07Z",
+      "kst": "2026-08-03 18:33:07 KST",
+      "title": "[검증 중] Iran Says Strait of Hormuz Talks Are Underway",
+      "summary": "Iran Says Strait of Hormuz Talks Are Underway &nbsp;&nbsp; Currently.com",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Currently.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFc5RFktUERqQ1U2Njk0cS1IWmpORHZjNHVCXzZHZ2RMODZJMG1PLXQ2NHdGOU41d2YxYXM5bDlzY0hYbzhrLTlQbFQ4UkxxR1lRbG82WFNka1VIQklhSUZDNFZiT3VnRlpQUEJyTXhlWmxTekx1cnp6c2pJZ0d0THJrblpPNFE?oc=5"
         },
         {
-          "name": "Sui 공식 상태 페이지",
-          "url": "https://status.sui.io/history"
+          "name": "bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFZadlU5YVJkUWU2OWZDMFRldzBySzVwdTFfcUYyTXdfUVFGNFRpdUs2eXQ0Yy1RX0VPZjlvY3BIcjd3LVl2OUpKQU0tUEZUMDduckM5bU16cW5JTDN5OG1yaVZQUlNOQUVfWU5lcVJSRmtvcUhrdmxKd1dGXzYxRExYOWt2Z1pJSmVzcUpJM2VTVEFFbk1lQ1pxN0tjMEZlLWc?oc=5"
         }
       ],
       "verification": {
-        "state": "official_source_checked_reference",
-        "independent_sources": 2,
+        "state": "verification_pending",
+        "independent_sources": 0,
         "financialjuice_only": false,
-        "rumor_excluded": true,
-        "official_or_onchain": true,
-        "notes": "공식 블로그의 6,086,766 TPS 수치를 확인했으며, 프로그래머블 터널이 오프체인 채널이라는 조건을 제목과 본문에 명시했다. 메인넷 직접 처리량으로 표현하지 않았다."
-      }
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
     },
     {
-      "stable_id": "2026-07-17-xrp-eu-mica-casp-license",
-      "status": "officially_confirmed",
-      "published_at_kst": "2026-07-17T09:00:26+09:00",
-      "source_time": "Ripple 공식 발표 2026-07-06; 참고 영상 게시 2026-07-17 09:00:26 KST",
-      "title": "리플, EU MiCA CASP 정식 인가…EEA 30개국 사업 기반 확보",
-      "summary": "Ripple Payments Europe은 룩셈부르크 CSSF로부터 MiCA 체계의 CASP 정식 인가를 받았다. 이 인가를 통해 유럽경제지역 30개국에서 기관과 기업 대상의 규제된 암호자산 서비스를 제공할 기반을 확보했다. 프랑스 금융시장청의 화이트리스트에서도 룩셈부르크 인가를 통한 서비스 제공 자격이 확인된다. 다만 리플사의 사업 확장이 XRP 가격이나 사용량 증가로 자동 연결되는 것은 아니며 RLUSD와 다른 결제 자산의 역할도 함께 봐야 한다.",
-      "importance": 4,
+      "stable_id": "2026-08-03-b094181cbd25",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T09:22:00Z",
+      "published_at_kst": "2026-08-03T18:22:00+09:00",
+      "source_time": "2026-08-03T09:22:00Z",
+      "kst": "2026-08-03 18:22:00 KST",
+      "title": "[검증 중] Trump says Iran talks to take place on Monday, sets no deadline for deal",
+      "summary": "Trump says Iran talks to take place on Monday, sets no deadline for deal &nbsp;&nbsp; Fulton Sun",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
       "btc_impact": {
-        "direction": "호재",
-        "assessment": "규제 인가는 Ripple의 유럽 기관 사업 확장에 분명한 호재다. XRP가 결제·유동성 과정에서 실제로 사용되면 수요 기반이 강화될 수 있다. 그러나 라이선스는 회사의 영업 허가이며 XRP 전용 승인이나 가격 보장은 아니다."
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
       },
-      "why_it_matters": "MiCA 이후 유럽에서는 허가받은 사업자 여부가 기관 계약과 서비스 지속성을 좌우한다. Ripple이 단일 국가 인가를 EEA 전역으로 패스포팅할 수 있게 된 것은 영업 범위를 크게 넓히는 사건이다.",
-      "missed_point": "‘유럽 30개국 진입’은 즉시 모든 국가에서 동일한 거래량이 발생한다는 뜻이 아니다. 실제 고객 계약, XRP 사용 비중과 RLUSD 중심 사업 여부를 구분해야 한다.",
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
       "follow_up": [
-        "EEA 지역 신규 기관 고객 계약",
-        "Ripple Payments에서 XRP·RLUSD 사용 비중",
-        "CSSF·각국 감독기관의 추가 조건",
-        "XRPL 결제량과 활성 계정 변화"
-      ],
-      "sources": {
-        "official": [
-          {
-            "name": "Ripple — EU MiCA CASP 정식 인가",
-            "url": "https://ripple.com/ripple-press/ripple-receives-full-eu-mica-casp-license/"
-          },
-          {
-            "name": "프랑스 AMF — Ripple Payments Europe 화이트리스트",
-            "url": "https://www.amf-france.org/en/warnings/white-lists/casp/ripple-payments-europe-sa"
-          }
-        ]
-      },
-      "verification": {
-        "state": "officially_confirmed",
-        "independent_sources": 2,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "official_or_onchain": true,
-        "official_source": true,
-        "notes": "회사 발표와 금융감독기관 등록을 교차 확인했다."
-      },
-      "published_at": "2026-07-17T09:00:26+09:00",
-      "kst": "2026-07-17 09:00:26 KST",
-      "impact": "호재",
-      "tone": "up",
-      "asset_class": "altcoin",
-      "token_symbol": "XRP",
-      "event_type": "regulation"
-    },
-    {
-      "stable_id": "2026-07-16-ethsystems-institutional-privacy",
-      "status": "officially_confirmed",
-      "published_at_kst": "2026-07-16T12:45:59+09:00",
-      "source_time": "EthSystems 공식 출범 2026-07-14; 참고 영상 게시 2026-07-16 12:45:59 KST",
-      "title": "이더리움 재단 출신 프라이버시팀, EthSystems로 독립…기관용 비밀결제 개발",
-      "summary": "Ethereum Foundation의 Institutional Privacy Task Force에서 활동한 팀이 EthSystems라는 독립 회사로 출범했다. EthSystems는 은행과 자산운용사가 거래 정보와 고객 신원을 공개하지 않으면서 이더리움에서 결제·채권·정산 업무를 수행할 수 있는 프라이버시 기술을 개발한다. BitMine, SharpLink와 Joe Lubin 등이 초기 지원자로 공개됐다. 이는 재단의 핵심 연구가 사라진 사건이라기보다 상용화와 기관 도입을 목표로 독립 조직으로 전환한 움직임에 가깝다.",
-      "importance": 4,
-      "btc_impact": {
-        "direction": "호재",
-        "assessment": "기관이 요구하는 기밀성과 규제 준수를 퍼블릭 이더리움에서 구현하려는 시도는 ETH 생태계 확장에 긍정적이다. 실제 상용 고객과 온체인 정산량이 발생하면 네트워크 수요로 이어질 수 있다. 반면 조직 출범과 투자 유치만으로 ETH 수수료 수요가 즉시 늘어나는 것은 아니다."
-      },
-      "why_it_matters": "공개 블록체인의 투명성은 기관 금융에서 거래전략과 개인정보 노출 문제를 만든다. 프라이버시와 감사 가능성을 동시에 제공하면 이더리움이 기관용 결제·자산발행 인프라로 사용될 범위가 넓어진다.",
-      "missed_point": "재단에서 독립한 조직이 늘어나는 현상을 재단 붕괴로 해석할 필요는 없다. 다만 공공재 연구와 상업적 우선순위 사이의 균형, 기술이 메인넷 수요로 연결되는지는 검증해야 한다.",
-      "follow_up": [
-        "EthSystems의 실제 금융기관 고객",
-        "오픈소스 결과물과 상용 제품 구분",
-        "이더리움 메인넷 정산량·수수료 기여",
-        "프라이버시 기술의 AML·감사 지원 수준"
-      ],
-      "sources": {
-        "official": [
-          {
-            "name": "EthSystems — 공식 출범 발표",
-            "url": "https://ethsystems.org/blog/introducing-ethsystems/"
-          },
-          {
-            "name": "Ethereum.org — Ethereum 프라이버시 기술 개요",
-            "url": "https://ethereum.org/privacy/ethereum"
-          }
-        ],
-        "primary_reporting": [
-          {
-            "name": "GlobeNewswire — EthSystems 출범·투자자 발표",
-            "url": "https://www.globenewswire.com/news-release/2026/07/14/3326790/0/en/ethsystems-launches-to-build-privacy-solutions-for-institutions-on-ethereum.html"
-          }
-        ]
-      },
-      "verification": {
-        "state": "officially_confirmed",
-        "independent_sources": 3,
-        "financialjuice_only": false,
-        "rumor_excluded": true,
-        "official_or_onchain": true,
-        "official_source": true,
-        "notes": "EthSystems 공식 설명과 출범 자료를 확인했다."
-      },
-      "published_at": "2026-07-16T12:45:59+09:00",
-      "kst": "2026-07-16 12:45:59 KST",
-      "impact": "호재",
-      "tone": "up",
-      "asset_class": "altcoin",
-      "token_symbol": "ETH",
-      "event_type": "adoption"
-    },
-    {
-      "stable_id": "2026-07-15-bnb-36th-quarterly-burn",
-      "status": "official_onchain_verified",
-      "published_at_kst": "2026-07-15T19:35:00+09:00",
-      "source_time": "2026-07-15T10:35:00Z",
-      "published_at": "2026-07-15T10:35:00Z",
-      "kst": "2026-07-15 19:35:00 KST",
-      "title": "BNB 제36차 분기 소각 완료…161만5827 BNB 영구 제거",
-      "summary": "BNB Foundation은 제36차 분기 BNB 자동 소각을 완료했다고 공식 발표했다. 이번에 소각된 물량은 1,615,827.795 BNB이며 발표 당시 평가액은 약 9억3170만달러였다. 소각 후 남은 총공급량은 133,166,127.91 BNB로 집계됐다. 이번 소각부터 BNB Chain Fusion에 따라 BSC에서 블랙홀 주소로 직접 전송하는 방식이 사용됐다. BNB 자동 소각은 가격과 분기 중 생성된 블록 수를 반영해 최종 공급량을 1억 BNB까지 줄이는 구조다.",
-      "importance": 4,
-      "tone": "up",
-      "impact": "호재",
-      "asset_class": "altcoin",
-      "token_symbol": "BNB",
-      "event_type": "burn",
-      "btc_impact": {
-        "direction": "호재",
-        "assessment": "실제 온체인 소각으로 유통 가능한 총공급량이 감소했다는 점은 BNB의 장기 공급 측면에 긍정적이다. 다만 정기 자동 소각은 사전에 알려진 제도이므로 발표 시점에 이미 시장 기대에 반영됐을 가능성이 있다. 단기 가격은 소각량보다 BNB Chain 이용량, 거래 수수료, 규제와 시장 위험선호의 영향을 더 크게 받을 수 있다."
-      },
-      "why_it_matters": "소각은 재단의 계획 발표가 아니라 실제로 복구 불가능한 주소에 자산을 전송했는지가 핵심이다. 이번 건은 BNB Foundation이 수량, 남은 공급량과 트랜잭션을 함께 공개한 완료형 소각이다. 분기 자동 소각과 BEP-95 실시간 가스비 소각이 병행되기 때문에 BNB의 공급 감소 속도를 추적하는 기준점이 된다.",
-      "missed_point": "큰 달러 환산액만 보고 같은 규모의 신규 매수 수요가 발생했다고 해석하면 안 된다. 소각은 공급 감소 이벤트이며 현금이 시장에 유입된 사건은 아니다. 또한 정기적으로 예정된 소각이므로 예상치 대비 실제 소각량과 네트워크 활동을 함께 봐야 한다.",
-      "follow_up": [
-        "공식 소각 트랜잭션과 블랙홀 주소 잔액",
-        "다음 분기 자동 소각 예상량",
-        "BEP-95 실시간 가스비 소각 누적량",
-        "BSC 거래량·수수료와 활성 주소 변화"
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
       ],
       "sources": [
         {
-          "name": "BNB Chain 공식 발표 — 제36차 BNB 소각",
-          "url": "https://www.bnbchain.org/en/blog/36th-bnb-burn"
+          "name": "Fulton Sun",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczJHWVdBclFHVlc2UHF1UXZnR0FnRVRXeHV1SGFLTDlaV1B4eWZzTU40QVVseDFqVHhzbUNUeElMRHJwWWdQZkdBR1ZNSE9sdTVNZWFJZE85MUEzeWtrZWxvM05Pbk8zblZ5QTNVYURmS2VxQ3ppVnFpMzRiY2pYYWtuR0loREtFZVJsdE51ckJ6S3JDR2FNVGFUem5SeVZLeFNEM2hTYWZYRU5QNC1uVk9CeG45dw?oc=5"
+        },
+        {
+          "name": "Jefferson City News Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVElqOFFvdjB0VTJ1MXlRdm1lbmF1dVItdUhETV9aWHluYVlkMS02d0E4VlpKOEZFYmhzajdZa0tEemZlV0ZlbjN3M2ZrQkJIck9UVjJ2RVNJV0hGWXRwc3VSdWhhbTZuclV4M3ZhR2pZXzRIWUpYZW1wcGZSdDQweE45TmhmMW9WVkV2eFh0YUVNeEJFcXBrNWFoMzFoTWFpcGZoT3VmOXE3Vy1SbUFkRjJtZGZkSkZt?oc=5"
         }
       ],
       "verification": {
-        "state": "official_onchain_verified",
-        "independent_sources": 1,
+        "state": "verification_pending",
+        "independent_sources": 0,
         "financialjuice_only": false,
-        "rumor_excluded": true,
-        "official_or_onchain": true,
-        "notes": "BNB Foundation 공식 발표에서 소각 완료 수량, 남은 총공급량, 블랙홀 주소 전송 방식과 트랜잭션 공개 여부를 확인했다."
-      }
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
     }
   ]
 }
