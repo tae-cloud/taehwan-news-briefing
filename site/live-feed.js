@@ -102,4 +102,27 @@
     feed.items.forEach(item=>{const old=existing.get(item.stable_id),fresh=renderStory(item);if(old)old.replaceWith(fresh);else main.insertBefore(fresh,empty);});
     sortStories(); installImpactLabels(); applyFilters();
   }).catch(err=>console.warn("실시간 뉴스 피드를 불러오지 못했습니다.",err));
+  function installMaterialsLink() {
+    if (document.querySelector(".materials-link")) return;
+    const link = document.createElement("a");
+    link.className = "materials-link";
+    link.href = "./materials.html";
+    link.textContent = "자료실";
+    link.setAttribute("aria-label", "PDF 자료실 열기");
+    const hero = document.querySelector(".hero");
+    if (hero) hero.appendChild(link);
+  }
+  const materialsStyle = document.createElement("style");
+  materialsStyle.textContent = ".materials-link{position:absolute;z-index:8;top:28px;right:max(24px,calc((100% - 1180px)/2));display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:0 19px;border:1px solid rgba(255,255,255,.45);border-radius:999px;background:rgba(5,22,47,.72);color:#fff;text-decoration:none;font-weight:900;backdrop-filter:blur(8px);touch-action:manipulation}.materials-link:hover{background:#fff;color:#07162d}@media(max-width:700px){.materials-link{position:relative;top:auto;right:auto;margin:20px 0 0;min-width:110px;background:rgba(255,255,255,.14)}}";
+  document.head.appendChild(materialsStyle);
+  installMaterialsLink();
+  // Make the research archive impossible to miss without changing its behavior.
+  const materialsLink = document.querySelector(".materials-link");
+  if (materialsLink) {
+    materialsLink.innerHTML = '<span class="materials-icon" aria-hidden="true">📚</span><span class="materials-copy"><b>태환의 자료실</b><small>PDF 리서치 14개 · 바로 보기</small></span><span class="materials-arrow" aria-hidden="true">→</span>';
+    materialsLink.setAttribute("aria-label", "태환의 PDF 자료실 14개 열기");
+  }
+  const highlightedMaterialsStyle = document.createElement("style");
+  highlightedMaterialsStyle.textContent = '.materials-link{position:absolute;z-index:8;top:24px;right:max(24px,calc((100% - 1180px)/2));display:grid;grid-template-columns:44px auto 24px;align-items:center;gap:10px;min-height:66px;padding:10px 13px 10px 10px;border:1px solid #ffd36d;border-radius:18px;background:linear-gradient(135deg,#fff9df,#ffc44d);color:#172033;text-decoration:none;font-weight:900;box-shadow:0 13px 32px rgba(0,0,0,.45),0 0 0 4px rgba(255,204,82,.18);touch-action:manipulation;transition:transform .18s ease,box-shadow .18s ease}.materials-icon{display:grid;place-items:center;width:44px;height:44px;border-radius:13px;background:#07162d;font-size:23px}.materials-copy{display:grid;gap:3px;text-align:left}.materials-copy b{font-size:16px;line-height:1.1}.materials-copy small{color:#795200;font-size:12px;white-space:nowrap}.materials-arrow{font-size:20px}.materials-link:hover,.materials-link:focus-visible{transform:translateY(-2px);background:linear-gradient(135deg,#fff,#ffd36d);color:#172033;box-shadow:0 17px 36px rgba(0,0,0,.5),0 0 0 4px rgba(255,204,82,.42);outline:none}@media(max-width:700px){.materials-link{position:relative;top:auto;right:auto;margin:20px 0 0;width:min(100%,290px);min-height:64px}.materials-copy small{white-space:normal}}';
+  document.head.appendChild(highlightedMaterialsStyle);
 })();
