@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-08-03T13:48:32+09:00",
+  "generated_at_kst": "2026-08-03T13:43:59+09:00",
   "items": [
     {
       "stable_id": "2026-08-03-us-japan-coordinated-yen-intervention",
@@ -150,6 +150,108 @@
       "tone": "warn",
       "asset_class": "bitcoin",
       "event_type": "geopolitics"
+    },
+    {
+      "stable_id": "2026-07-31-boj-holds-rate-one-percent-yen-intervention",
+      "status": "verified_policy_decision",
+      "published_at_kst": "2026-07-31T12:00:00+09:00",
+      "source_time": "2026-07-31T03:00:00Z",
+      "title": "일본은행, 기준금리 1% 동결…추가 인상 신호와 엔화 개입 경계 공존",
+      "summary": "일본은행은 7월 금융정책결정회의에서 정책금리를 1%로 유지했다. 우에다 가즈오 총재는 물가 흐름에 뒤처지지 않겠다는 입장을 강조해 추가 인상 가능성을 열어뒀다. 동시에 엔화 약세와 당국의 외환시장 개입 가능성이 시장의 핵심 변수로 남았다. 금리 동결 자체는 급격한 긴축 충격을 피한 결과지만, 향후 인상 신호와 엔화 급등 가능성은 엔 캐리 트레이드 축소 위험을 키운다.",
+      "importance": 5,
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "금리 동결은 즉각적인 유동성 축소를 피했다는 점에서 BTC에 중립에서 소폭 우호적이다. 반면 추가 인상 예고와 엔화 개입이 현실화되면 엔 캐리 포지션 청산이 기술주와 BTC를 함께 압박할 수 있다. USD/JPY와 일본·미국 장기금리의 동반 움직임을 확인해야 한다."
+      },
+      "why_it_matters": "일본의 낮은 조달금리는 글로벌 위험자산 레버리지의 주요 기반이다. 일본은행의 긴축 속도나 엔화 급등은 아시아 증시뿐 아니라 나스닥·암호화폐의 유동성에도 영향을 줄 수 있다.",
+      "missed_point": "동결이라는 단어만 보면 완화적으로 보이지만, 우에다 총재의 발언과 환율 개입 위험까지 함께 봐야 한다. 정책금리를 올리지 않아도 엔화가 빠르게 상승하면 시장에는 긴축과 유사한 디레버리징 효과가 나타날 수 있다.",
+      "follow_up": [
+        "일본은행 다음 회의의 추가 인상 신호",
+        "일본 재무성의 외환시장 개입 자료",
+        "USD/JPY와 닛케이·나스닥·BTC 동조화",
+        "엔 캐리 청산 및 암호화폐 강제청산 규모"
+      ],
+      "sources": {
+        "official": [
+          {
+            "name": "Bank of Japan — 2026년 금융정책 자료",
+            "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/index.htm"
+          }
+        ],
+        "primary_reporting": [
+          {
+            "name": "Axios — 일본은행 금리 동결과 엔화 개입 경계",
+            "url": "https://www.axios.com/2026/07/31/bank-of-japan-rates-yen"
+          }
+        ],
+        "context": []
+      },
+      "verification": {
+        "state": "policy_decision_and_forward_guidance_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "notes": "일본은행의 정책 자료와 Axios 보도를 교차 확인했다. 정책금리 1% 동결과 우에다 총재의 추가 긴축 가능성 발언은 확인됐으며 실제 외환시장 개입은 이 시점에 확정된 사실로 처리하지 않았다."
+      },
+      "published_at": "2026-07-31T12:00:00+09:00",
+      "kst": "2026-07-31 12:00:00 KST",
+      "impact": "양방향",
+      "tone": "warn",
+      "asset_class": "bitcoin",
+      "event_type": "monetary_policy"
+    },
+    {
+      "stable_id": "2026-07-30-fed-holds-three-dissents-warsh-hawkish",
+      "status": "cross_verified_policy_decision",
+      "published_at_kst": "2026-07-30T03:00:00+09:00",
+      "source_time": "2026-07-29T18:00:00Z",
+      "title": "연준, 기준금리 3.50~3.75% 동결…3명 인상표·워시 매파 발언에 장기금리 상승",
+      "summary": "연방공개시장위원회는 기준금리 목표 범위를 3.50~3.75%로 유지했다. 동결은 다섯 회 연속이지만 위원 3명이 25bp 인상을 주장해 내부의 인플레이션 경계가 뚜렷해졌다. 케빈 워시 의장은 물가 안정 의지를 강조하면서도 구체적인 향후 금리 경로를 제시하지 않았다. 시장은 이를 예상보다 매파적으로 해석했고 미국 장기채 금리가 상승했다.",
+      "importance": 5,
+      "btc_impact": {
+        "direction": "악재",
+        "assessment": "동결 자체는 예상 범위였지만 세 명의 인상 소수의견과 불분명한 포워드가이던스는 높은 금리가 더 오래 유지될 위험을 키운다. 장기금리 상승과 달러 강세가 이어지면 BTC 밸류에이션과 레버리지 수요에 부담이 된다. 향후 물가 둔화가 확인되면 악재 강도는 낮아질 수 있다."
+      },
+      "why_it_matters": "BTC는 정책금리 수준뿐 아니라 실질금리·달러·채권 변동성에 민감하다. 동결 결정 속에서도 인상 의견이 3표나 나온 것은 다음 회의의 긴축 꼬리위험이 사라지지 않았다는 의미다.",
+      "missed_point": "‘동결=호재’로 단순 해석하면 안 된다. 이번 회의의 핵심은 표결 분열과 워시 의장의 제한적인 가이던스이며, 실제 금융여건은 장기채 금리 상승을 통해 더 긴축적으로 변할 수 있다.",
+      "follow_up": [
+        "미국 2년·10년·30년물 국채금리",
+        "다음 CPI·PCE 물가",
+        "9월 FOMC 인상 확률",
+        "BTC 현물 ETF 자금 흐름과 선물 청산"
+      ],
+      "sources": {
+        "official": [
+          {
+            "name": "Federal Reserve — 2026 FOMC 보도자료 목록",
+            "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm"
+          }
+        ],
+        "primary_reporting": [
+          {
+            "name": "AP — 연준 동결·3명 인상 소수의견",
+            "url": "https://apnews.com/article/ad10c177cb8d96f9e3ed122e12352a74"
+          },
+          {
+            "name": "Kiplinger — 7월 FOMC 결과와 장기금리 반응",
+            "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-july-2026"
+          }
+        ],
+        "context": []
+      },
+      "verification": {
+        "state": "rate_decision_vote_split_and_market_reaction_cross_verified",
+        "independent_sources": 3,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "notes": "연준 자료와 AP·Kiplinger 보도로 금리 동결, 3명의 인상 소수의견, 워시 의장의 매파적 물가 발언과 장기금리 반응을 교차 확인했다."
+      },
+      "published_at": "2026-07-30T03:00:00+09:00",
+      "kst": "2026-07-30 03:00:00 KST",
+      "impact": "악재",
+      "tone": "down",
+      "asset_class": "bitcoin",
+      "event_type": "fomc"
     },
     {
       "stable_id": "2026-07-27-iran-hormuz-status-unchanged-talks-continue",
