@@ -23,6 +23,7 @@ DIRECT_FEEDS = (
     ("Federal Reserve", "https://www.federalreserve.gov/feeds/press_all.xml", "federal_reserve"),
     ("SEC", "https://www.sec.gov/news/pressreleases.rss", "sec"),
     ("CFTC", "https://www.cftc.gov/RSS/RSSGP/rssgp.xml", "cftc"),
+    ("Strategy SEC 8-K", "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1050446&type=8-K&owner=exclude&count=40&output=atom", "strategy_sec"),
 )
 QUERIES = [
     "bitcoin Reuters", "bitcoin AP", "bitcoin Bloomberg",
@@ -49,6 +50,9 @@ QUERIES = [
     "site:federalreserve.gov inflation interest rates monetary policy",
     "site:cftc.gov crypto digital assets enforcement",
     "Trump Media DJT bitcoin treasury Crypto.com Lookonchain",
+    "site:strategy.com/press Strategy bitcoin sold acquired holdings USD reserve",
+    "site:sec.gov/Archives/edgar/data/1050446 Strategy bitcoin sale holdings 8-K",
+    "Strategy MSTR bitcoin sold holdings USD reserve preferred dividend",
 ]
 BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
              "inflation", "oil", "iran", "hormuz", "tariff", "sec", "cftc",
@@ -58,11 +62,13 @@ BTC_TERMS.update({
     "fomc", "powell", "williams", "warsh", "employment", "unemployment",
     "monetary policy", "rate hike", "rate cut", "treasury yield", "middle east",
     "venezuela", "dollar", "yen", "intervention",
+    "strategy", "microstrategy", "mstr", "saylor", "usd reserve", "preferred dividend",
     "altcoin", "token", "burn", "unlock", "airdrop", "mainnet", "governance",
     "listing", "delisting", "exploit", "hack", "staking", "treasury",
     "알트코인", "토큰", "소각", "소각 예정", "언락", "에어드롭", "메인넷", "거버넌스",
     "상장", "상장폐지", "해킹", "스테이킹", "재단", "유통량", "고용", "실업",
     "통화정책", "금리인상", "금리인하", "국채", "중동", "베네수엘라", "엔화", "개입",
+    "스트래티지", "마이크로스트래티지", "세일러", "달러 준비금", "우선주 배당",
 })
 TELEGRAM_CHANNELS = ("goddessTTF",)
 SAVETICKER_URL = "https://www.saveticker.com/news"
@@ -372,6 +378,7 @@ def enrich(items):
 긍정적 헤드라인과 반대되는 신호, 협상 발언과 실제 정책·군사행동의 차이,
 유가→물가→연준→금리·달러→BTC 전달 경로, 후속 발언으로 기존 평가가 바뀌는지를 반드시 검토한다.
 FinancialJuice 단독 속보는 공식·독립 출처로 재검증되지 않으면 제외한다.
+Strategy·Michael Saylor 관련 비트코인 매수·매도·보유량 변화는 Strategy 공식 발표 또는 SEC 8-K가 있을 때만 확정한다. 개인 지갑 이동과 회사의 실제 매각을 구분하고, 직전 공시 보유량과 최신 공시 보유량의 차이를 계산해 수량 오류를 점검한다.
 Telegram 게시물은 속보 탐지용일 뿐이다. Telegram 단독 항목은 절대 반환하지 않는다.
 SaveTicker 게시물도 속보 탐지용일 뿐이다. SaveTicker 단독 항목은 절대 반환하지 않는다.
 YouTube 영상도 아이디어 탐지용일 뿐이다. 영상의 주장이나 가격 전망을 사실처럼 쓰지 않는다.
