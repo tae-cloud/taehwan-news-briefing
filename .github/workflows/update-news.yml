@@ -13,6 +13,8 @@ on:
 permissions:
   contents: write
   models: read
+  pages: write
+  id-token: write
 
 concurrency:
   group: news-update
@@ -20,6 +22,9 @@ concurrency:
 
 jobs:
   update:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -35,9 +40,11 @@ jobs:
           NEWS_LOOKBACK_DAYS: ${{ inputs.lookback_days || '1' }}
         run: python scripts/update_news.py
       - name: Commit verified updates
+        id: publish
         run: |
           if git diff --quiet -- site/live-news.json; then
             echo "No verified update"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git config user.name "taehwan-news-bot"
@@ -45,3 +52,18 @@ jobs:
           git add site/live-news.json
           git commit -m "news: publish verified update"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Configure GitHub Pages
+        if: steps.publish.outputs.changed == 'true'
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - name: Upload current site
+        if: steps.publish.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - name: Deploy current site
+        if: steps.publish.outputs.changed == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
