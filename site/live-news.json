@@ -201,24 +201,81 @@
       "event_type": "monetary_policy"
     },
     {
-      "stable_id": "2026-07-30-fed-holds-three-dissents-warsh-hawkish",
-      "status": "cross_verified_policy_decision",
-      "published_at_kst": "2026-07-30T03:00:00+09:00",
-      "source_time": "2026-07-29T18:00:00Z",
-      "title": "연준, 기준금리 3.50~3.75% 동결…3명 인상표·워시 매파 발언에 장기금리 상승",
-      "summary": "연방공개시장위원회는 기준금리 목표 범위를 3.50~3.75%로 유지했다. 동결은 다섯 회 연속이지만 위원 3명이 25bp 인상을 주장해 내부의 인플레이션 경계가 뚜렷해졌다. 케빈 워시 의장은 물가 안정 의지를 강조하면서도 구체적인 향후 금리 경로를 제시하지 않았다. 시장은 이를 예상보다 매파적으로 해석했고 미국 장기채 금리가 상승했다.",
+      "stable_id": "2026-07-30-warsh-hawkish-press-conference",
+      "status": "cross_verified_press_conference_and_market_reaction",
+      "published_at_kst": "2026-07-30T03:30:00+09:00",
+      "source_time": "2026-07-29T18:30:00Z",
+      "title": "워시 연준 의장, 물가 2% 복귀 의지 강조…금리 경로 침묵·장기금리 상승",
+      "summary": "케빈 워시 연준 의장은 금리 결정 후 기자회견에서 2% 물가 목표 달성을 위한 의지가 흔들리지 않을 것이라고 강조했다. 그는 최근 시장금리 상승이 금융여건을 긴축하는 역할을 하고 있다고 평가하면서도 향후 정책금리 경로에 대한 구체적인 지침은 제시하지 않았다. 채권시장은 말보다 실제 인상 행동이 필요하다고 해석했고, 10년물과 30년물 금리가 상승하며 동결 발표 직후의 위험자산 반등을 제한했다.",
       "importance": 5,
       "btc_impact": {
         "direction": "악재",
-        "assessment": "동결 자체는 예상 범위였지만 세 명의 인상 소수의견과 불분명한 포워드가이던스는 높은 금리가 더 오래 유지될 위험을 키운다. 장기금리 상승과 달러 강세가 이어지면 BTC 밸류에이션과 레버리지 수요에 부담이 된다. 향후 물가 둔화가 확인되면 악재 강도는 낮아질 수 있다."
+        "assessment": "물가 2% 복귀 의지, 인상 가능성을 닫지 않은 발언, 포워드가이던스 부재와 장기금리 상승은 BTC에 악재다. 동결 직후의 단기 반등보다 기자회견 이후 달러·실질금리·장기채 변동성이 더 중요한 후속 신호다."
       },
-      "why_it_matters": "BTC는 정책금리 수준뿐 아니라 실질금리·달러·채권 변동성에 민감하다. 동결 결정 속에서도 인상 의견이 3표나 나온 것은 다음 회의의 긴축 꼬리위험이 사라지지 않았다는 의미다.",
-      "missed_point": "‘동결=호재’로 단순 해석하면 안 된다. 이번 회의의 핵심은 표결 분열과 워시 의장의 제한적인 가이던스이며, 실제 금융여건은 장기채 금리 상승을 통해 더 긴축적으로 변할 수 있다.",
+      "why_it_matters": "BTC는 기준금리 결정문뿐 아니라 기자회견이 만드는 금리·달러 경로에 반응한다. 동결이더라도 의장의 발언이 매파적이면 장기금리 상승을 통해 금융여건이 오히려 긴축될 수 있다.",
+      "missed_point": "‘연준이 동결했다’는 헤드라인과 ‘시장이 기자회견을 매파적으로 받아들였다’는 후속 반응은 동시에 성립한다. 두 사건을 하나의 분류로 합치면 동결 직후 반등과 기자회견 뒤 압박을 설명할 수 없다.",
       "follow_up": [
-        "미국 2년·10년·30년물 국채금리",
-        "다음 CPI·PCE 물가",
+        "미국 10년·30년물 금리",
+        "9월 인상 확률",
+        "달러지수와 BTC의 기자회견 전후 반응",
+        "다음 CPI·PCE 물가"
+      ],
+      "sources": {
+        "official": [
+          {
+            "name": "Federal Reserve — FOMC 기자회견 일정",
+            "url": "https://www.federalreserve.gov/newsevents/2026-july.htm"
+          }
+        ],
+        "primary_reporting": [
+          {
+            "name": "AP — 워시 기자회견의 물가 발언과 10년물 금리",
+            "url": "https://apnews.com/article/ad10c177cb8d96f9e3ed122e12352a74"
+          },
+          {
+            "name": "Axios — 채권시장이 워시의 물가 대응을 의심",
+            "url": "https://www.axios.com/2026/07/30/warsh-fed-inflation-bonds"
+          },
+          {
+            "name": "Kiplinger — 기자회견 뒤 장기금리 압력",
+            "url": "https://www.kiplinger.com/economic-forecasts/interest-rates"
+          }
+        ],
+        "context": []
+      },
+      "verification": {
+        "state": "press_conference_hawkish_tone_and_bond_reaction_verified",
+        "independent_sources": 3,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "notes": "AP·Axios·Kiplinger에서 워시 의장의 물가 2% 복귀 의지, 구체적 금리 경로 부재, 장기채 금리 상승 반응을 교차 확인했다."
+      },
+      "published_at": "2026-07-30T03:30:00+09:00",
+      "kst": "2026-07-30 03:30:00 KST",
+      "impact": "악재",
+      "tone": "down",
+      "asset_class": "bitcoin",
+      "event_type": "fomc_press_conference"
+    },
+    {
+      "stable_id": "2026-07-30-fed-holds-rates-three-hike-dissents",
+      "status": "cross_verified_policy_decision",
+      "published_at_kst": "2026-07-30T03:00:00+09:00",
+      "source_time": "2026-07-29T18:00:24Z",
+      "title": "연준, 기준금리 3.50~3.75% 동결…인상 우려 해소에 단기 반등, 3명은 인상표",
+      "summary": "연방공개시장위원회는 기준금리 목표 범위를 3.50~3.75%로 유지했다. 시장이 25bp 인상 가능성까지 반영하던 상황에서 실제 결정이 동결로 나오자 즉각적인 긴축 충격이 사라지며 위험자산이 단기 반등했다. 다만 위원 3명이 25bp 인상을 주장해 인플레이션 경계와 다음 회의 인상 가능성은 남았다. 따라서 결정 자체는 호재와 악재가 함께 있는 양방향 재료다.",
+      "importance": 5,
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "예상 밖 인상이 나오지 않았다는 점은 BTC의 단기 반등 요인이다. 반면 세 명의 인상 소수의견은 다음 회의의 긴축 꼬리위험과 높은 금리 장기화를 뜻한다. 동결 직후 반등이 지속되려면 기자회견, 미국 장기금리와 달러가 안정돼야 한다."
+      },
+      "why_it_matters": "정책 결정과 기자회견은 시간과 시장 반응이 다른 별도 이벤트다. 03:00 동결 발표는 당장의 인상 충격을 제거했지만, 표결 분열은 향후 긴축 가능성을 남겼다.",
+      "missed_point": "‘동결’만 보면 완화적이지만 인상표가 3명이나 나온 것은 매파적 신호다. 반대로 이 매파적 표결을 이유로 동결 결정 자체를 악재로 분류하면 발표 직후 반등 경로를 놓치게 된다.",
+      "follow_up": [
+        "03:30 KST 워시 의장 기자회견",
         "9월 FOMC 인상 확률",
-        "BTC 현물 ETF 자금 흐름과 선물 청산"
+        "미국 2년물 금리와 달러지수",
+        "BTC 발표 직후 반등 유지 여부"
       ],
       "sources": {
         "official": [
@@ -229,29 +286,29 @@
         ],
         "primary_reporting": [
           {
-            "name": "AP — 연준 동결·3명 인상 소수의견",
+            "name": "AP — 금리 동결과 3명 인상 소수의견",
             "url": "https://apnews.com/article/ad10c177cb8d96f9e3ed122e12352a74"
           },
           {
-            "name": "Kiplinger — 7월 FOMC 결과와 장기금리 반응",
-            "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-july-2026"
+            "name": "El País — 3.50~3.75% 동결과 9대3 표결",
+            "url": "https://elpais.com/economia/2026-07-29/la-reserva-federal-mantiene-sin-cambios-los-tipos-de-interes-pese-a-las-crecientes-presiones-por-la-escalada-de-la-guerra-sobre-iran.html"
           }
         ],
         "context": []
       },
       "verification": {
-        "state": "rate_decision_vote_split_and_market_reaction_cross_verified",
+        "state": "rate_hold_and_vote_split_verified",
         "independent_sources": 3,
         "financialjuice_only": false,
         "rumor_excluded": true,
-        "notes": "연준 자료와 AP·Kiplinger 보도로 금리 동결, 3명의 인상 소수의견, 워시 의장의 매파적 물가 발언과 장기금리 반응을 교차 확인했다."
+        "notes": "연준 자료와 AP·El País 보도로 동결 및 3명의 25bp 인상 소수의견을 확인했다. 기자회견의 매파적 영향은 이 카드에서 분리했다."
       },
       "published_at": "2026-07-30T03:00:00+09:00",
       "kst": "2026-07-30 03:00:00 KST",
-      "impact": "악재",
-      "tone": "down",
+      "impact": "양방향",
+      "tone": "warn",
       "asset_class": "bitcoin",
-      "event_type": "fomc"
+      "event_type": "fomc_decision"
     },
     {
       "stable_id": "2026-07-27-iran-hormuz-status-unchanged-talks-continue",
