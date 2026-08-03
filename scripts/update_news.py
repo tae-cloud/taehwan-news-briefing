@@ -16,6 +16,14 @@ KST = timezone(timedelta(hours=9))
 NOW = datetime.now(timezone.utc)
 LOOKBACK_DAYS = max(1, min(14, int(os.getenv("NEWS_LOOKBACK_DAYS", "1"))))
 TRUSTED = {"Reuters", "Associated Press", "AP", "Bloomberg"}
+DIRECT_FEEDS = (
+    ("FinancialJuice", "https://www.financialjuice.com/feed.ashx?xy=rss", "financialjuice"),
+    ("CoinDesk", "https://www.coindesk.com/arc/outboundfeeds/rss/", "coindesk"),
+    ("AP News", "https://apnews.com/index.rss", "ap"),
+    ("Federal Reserve", "https://www.federalreserve.gov/feeds/press_all.xml", "federal_reserve"),
+    ("SEC", "https://www.sec.gov/news/pressreleases.rss", "sec"),
+    ("CFTC", "https://www.cftc.gov/RSS/RSSGP/rssgp.xml", "cftc"),
+)
 QUERIES = [
     "bitcoin Reuters", "bitcoin AP", "bitcoin Bloomberg",
     "bitcoin Federal Reserve", "bitcoin regulation United States",
@@ -31,16 +39,30 @@ QUERIES = [
     "crypto exchange listing delisting altcoin",
     "crypto protocol exploit hack", "crypto foundation treasury token transfer",
     "Ethereum Solana XRP BNB Cardano Avalanche Chainlink TON Sui Aptos crypto",
+    "site:reuters.com bitcoin crypto Federal Reserve Iran oil tariff",
+    "site:apnews.com bitcoin crypto Federal Reserve Iran oil tariff",
+    "site:bloomberg.com bitcoin crypto Federal Reserve Iran oil tariff",
+    "site:coindesk.com bitcoin crypto regulation treasury onchain",
+    "site:lookonchain.com bitcoin BTC whale treasury transfer",
+    "Lookonchain bitcoin BTC whale treasury transfer",
+    "site:sec.gov crypto bitcoin ETF enforcement filing",
+    "site:federalreserve.gov inflation interest rates monetary policy",
+    "site:cftc.gov crypto digital assets enforcement",
+    "Trump Media DJT bitcoin treasury Crypto.com Lookonchain",
 ]
 BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
              "inflation", "oil", "iran", "hormuz", "tariff", "sec", "cftc",
              "비트코인", "암호화폐", "연준", "금리", "인플레이션", "유가",
              "이란", "호르무즈", "관세", "달러", "채권"}
 BTC_TERMS.update({
+    "fomc", "powell", "williams", "warsh", "employment", "unemployment",
+    "monetary policy", "rate hike", "rate cut", "treasury yield", "middle east",
+    "venezuela", "dollar", "yen", "intervention",
     "altcoin", "token", "burn", "unlock", "airdrop", "mainnet", "governance",
     "listing", "delisting", "exploit", "hack", "staking", "treasury",
     "알트코인", "토큰", "소각", "소각 예정", "언락", "에어드롭", "메인넷", "거버넌스",
-    "상장", "상장폐지", "해킹", "스테이킹", "재단", "유통량",
+    "상장", "상장폐지", "해킹", "스테이킹", "재단", "유통량", "고용", "실업",
+    "통화정책", "금리인상", "금리인하", "국채", "중동", "베네수엘라", "엔화", "개입",
 })
 TELEGRAM_CHANNELS = ("goddessTTF",)
 SAVETICKER_URL = "https://www.saveticker.com/news"
@@ -196,9 +218,40 @@ def collect_youtube():
     return rows
 
 
+def collect_direct_feeds():
+    rows = []
+    for source_name, feed_url, discovery_source in DIRECT_FEEDS:
+        try:
+            feed = feedparser.parse(feed_url,
+                request_headers={"User-Agent": "Mozilla/5.0 (compatible; TaehwanNewsBot/1.0)"})
+        except Exception:
+            continue
+        for entry in feed.entries[:80]:
+            raw = entry.get("published") or entry.get("updated")
+            try:
+                when = parsedate_to_datetime(raw).astimezone(timezone.utc)
+            except (TypeError, ValueError, OverflowError):
+                continue
+            title = clean_title(entry.get("title", ""))
+            summary = clean_html(entry.get("summary", "") or entry.get("description", ""))
+            combined = f"{title} {summary}".lower()
+            if NOW - when > timedelta(hours=36) or not any(term in combined for term in BTC_TERMS):
+                continue
+            rows.append({
+                "title": title[:220],
+                "url": entry.get("link", feed_url),
+                "source": source_name,
+                "published_at": when.isoformat().replace("+00:00", "Z"),
+                "snippet": summary[:1800],
+                "discovery_source": discovery_source,
+            })
+    return rows
+
+
 def collect():
     rows = []
     youtube_rows = collect_youtube()
+    rows.extend(collect_direct_feeds())
     search_jobs = [(query, LOOKBACK_DAYS) for query in QUERIES]
     search_jobs.extend((row["title"], 14) for row in youtube_rows[:12])
     for query, days in search_jobs:
@@ -277,6 +330,8 @@ def valid(item):
     ]
     asset_class = item.get("asset_class", "bitcoin")
     event_type = item.get("event_type", "market")
+    if item.get("status") == "verification_pending":
+        return bool(item.get("stable_id") and item.get("title") and source_rows)
     completed_sensitive_event = (
         event_type not in {"burn", "unlock", "treasury_move"}
         or verification.get("official_or_onchain") is True
@@ -382,6 +437,39 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
     return enriched
 
 
+def pending_item(item):
+    """Preserve a detected headline when the enrichment service is unavailable."""
+    when = datetime.fromisoformat(item["published_at"].replace("Z", "+00:00"))
+    evidence = item.get("evidence", [])
+    snippet = next((x.get("snippet", "") for x in evidence if x.get("snippet")), "")
+    source_rows = item.get("sources", [])
+    title = item.get("original_title", "속보")
+    return {
+        "stable_id": item["stable_id"],
+        "status": "verification_pending",
+        "published_at": item["published_at"],
+        "published_at_kst": when.astimezone(KST).isoformat(timespec="seconds"),
+        "source_time": item["published_at"],
+        "kst": when.astimezone(KST).strftime("%Y-%m-%d %H:%M:%S KST"),
+        "title": f"[검증 중] {title}",
+        "summary": (snippet or "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다."),
+        "importance": 3,
+        "tone": "warn",
+        "impact": "양방향",
+        "btc_impact": {"direction": "양방향", "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."},
+        "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+        "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+        "follow_up": ["원문 링크 확인", "공식 발표 확인", "독립 언론 교차검증"],
+        "sources": source_rows,
+        "verification": {"state": "verification_pending", "independent_sources": 0,
+                         "financialjuice_only": item.get("discovery_source") == "financialjuice",
+                         "rumor_excluded": False, "official_or_onchain": False,
+                         "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"},
+        "asset_class": "bitcoin",
+        "event_type": "market",
+    }
+
+
 def main():
     current = json.loads(FEED_PATH.read_text(encoding="utf-8")) if FEED_PATH.exists() else {"items": []}
     existing = {x["stable_id"]: x for x in current.get("items", [])
@@ -392,7 +480,9 @@ def main():
         for item in enrich(new):
             existing[item["stable_id"]] = item
     except Exception as exc:
-        print(f"Enrichment unavailable; publishing nothing new: {type(exc).__name__}")
+        print(f"::warning::Enrichment unavailable; preserving candidates as pending: {type(exc).__name__}")
+        for item in new[:20]:
+            existing[item["stable_id"]] = pending_item(item)
     output = {"generated_at_kst": datetime.now(KST).isoformat(timespec="seconds"),
               "items": sorted(existing.values(), key=lambda x: x.get("published_at_kst") or x.get("published_at") or x.get("source_time", ""), reverse=True)[:40]}
     if json.dumps(current, ensure_ascii=False, sort_keys=True) != json.dumps(output, ensure_ascii=False, sort_keys=True):
