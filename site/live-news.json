@@ -1,6 +1,206 @@
 {
-  "generated_at_kst": "2026-08-03T22:49:40+09:00",
+  "generated_at_kst": "2026-08-03T23:00:30+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-03-d2a4cfe408c5",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T14:00:00Z",
+      "published_at_kst": "2026-08-03T23:00:00+09:00",
+      "source_time": "2026-08-03T14:00:00Z",
+      "kst": "2026-08-03 23:00:00 KST",
+      "title": "[검증 중] FinancialJuice: US ISM Mfg. Employment Index Actual 52.8 (Forecast 50, Previous 49.7)",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9705239/US-ISM-Mfg-Employment-Index-Actual-528-Forecast-50-Previous-497.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-a43bcd2a3d31",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T13:53:41Z",
+      "published_at_kst": "2026-08-03T22:53:41+09:00",
+      "source_time": "2026-08-03T13:53:41Z",
+      "kst": "2026-08-03 22:53:41 KST",
+      "title": "[검증 중] 셰브론(Chevron)의 회장이자 CEO인 마이크 워스는 방금 그 훌륭한 마리아 바티로모와의 인터뷰에서 자신의 회사가 그토록 잘나가는 모든 이유를 설명했습니다. 다만 그가 편리하게도 언급하길 잊은 단 한 가지는 바로 트럼프 행정부의 천재성과 통찰력, 힘, 그리고 안정성이 없었더라면 석유 산업은 물론 우리 국가 자체가 이미 죽었을 것이라는 사실입니다! 일례로, 그들은 마이크와 셰브론을 베네수엘",
+      "summary": "셰브론(Chevron)의 회장이자 CEO인 마이크 워스는 방금 그 훌륭한 마리아 바티로모와의 인터뷰에서 자신의 회사가 그토록 잘나가는 모든 이유를 설명했습니다. 다만 그가 편리하게도 언급하길 잊은 단 한 가지는 바로 트럼프 행정부의 천재성과 통찰력, 힘, 그리고 안정성이 없었더라면 석유 산업은 물론 우리 국가 자체가 이미 죽었을 것이라는 사실입니다! 일례로, 그들은 마이크와 셰브론을 베네수엘라에서 쫓아냈었지만, 이제 그들은 그 어느 때보다 훨씬 더 크고 강하게 돌아와 엄청난 부를 거둬들일 것으로 기대하고 있습니다! 이는 다른 석유 회사들에게도 똑같이 적용되는 이야기입니다… 그리고 소비자(소매!) 석유 가격을 지금 당장 내리십시오! 이 문제에 관심을 가져주셔서 감사합니다! 대통령 DJT",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/81739"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-df6b09d239cd",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T13:51:35Z",
+      "published_at_kst": "2026-08-03T22:51:35+09:00",
+      "source_time": "2026-08-03T13:51:35Z",
+      "kst": "2026-08-03 22:51:35 KST",
+      "title": "[검증 중] FinancialJuice: UBS: Japanese Intervention Caps USD/JPY but Does Not Reverse Yen Weakness",
+      "summary": "Japan’s intervention has limited near-term upside in USD/JPY, but it has not changed the underlying drivers of yen weakness. The absence of a final warning makes future intervention less predictable and potentially more effective at discouraging speculative positioning. Japan’s policy mix is still unlikely to produce sustained yen strength, with the BoJ expected to normalise gradually and real rates remaining negative. The US side remains the main swing factor. USD/JPY forecasts have been raised to 162 for September 2026, 160 for December, 158 for March 2027 and 158 for June 2027, with the outlook dependent on incoming US data and whether the Fed can maintain policy credibility into September.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9705237/UBS-Japanese-Intervention-Caps-USDJPY-but-Does-Not-Reverse-Yen-Weakness---FJElite.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-ad9b4db00acd",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T13:51:31Z",
+      "published_at_kst": "2026-08-03T22:51:31+09:00",
+      "source_time": "2026-08-03T13:51:31Z",
+      "kst": "2026-08-03 22:51:31 KST",
+      "title": "[검증 중] FinancialJuice: Trump: Oil firms, get your prices down",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9705236/Trump-Oil-firms-get-your-prices-down---Truth-Social.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-9ac92135a8ca",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T13:49:40Z",
+      "published_at_kst": "2026-08-03T22:49:40+09:00",
+      "source_time": "2026-08-03T13:49:40Z",
+      "kst": "2026-08-03 22:49:40 KST",
+      "title": "[검증 중] Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
+      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
     {
       "stable_id": "2026-08-03-6534d0d50f17",
       "status": "verification_pending",
@@ -262,6 +462,46 @@
       "event_type": "market"
     },
     {
+      "stable_id": "2026-08-03-ba3af1acf111",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T12:50:30Z",
+      "published_at_kst": "2026-08-03T21:50:30+09:00",
+      "source_time": "2026-08-03T12:50:30Z",
+      "kst": "2026-08-03 21:50:30 KST",
+      "title": "[검증 중] Iran War Made Belgium Wholly Dependent on Russia for LNG in July",
+      "summary": "Iran War Made Belgium Wholly Dependent on Russia for LNG in July &nbsp;&nbsp; Bloomberg",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1RhLXdTMHhVRW1NWHBBV3hocl9ZWlFMZ2FVRWhnLUI4ZC1GNC16aWkyUW1sRWlLa25ySTBwMWxBbjlqTkE5UDNESjZ3bFFmeWFZWkxuYkRMS2tZVFk0bzFXM3VycnRMYkUwUl9tckJ3SVo2QTNvWWZXUlItTjdCeEZPVDZQSlRTdHdfbEhBbFl3amxmT041NmF2OWVOYnZ2ZnFTV2x0REtjZV9kR2NBdDg0NE9Edw?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
       "stable_id": "2026-08-03-07ea3a0f2b2e",
       "status": "verification_pending",
       "published_at": "2026-08-03T12:45:00Z",
@@ -438,6 +678,46 @@
       "event_type": "market"
     },
     {
+      "stable_id": "2026-08-03-45aadbee1560",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T12:36:33Z",
+      "published_at_kst": "2026-08-03T21:36:33+09:00",
+      "source_time": "2026-08-03T12:36:33Z",
+      "kst": "2026-08-03 21:36:33 KST",
+      "title": "[검증 중] Kuwait July Oil Output Rose to Highest Since Mideast War Began",
+      "summary": "Kuwait July Oil Output Rose to Highest Since Mideast War Began &nbsp;&nbsp; Bloomberg",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWpvandmNTFUdGIzT0ExNVdZUDZYR0tiYUNPMHdKZXpQb25OSG1LQWNRaFpObl9ZSjhCaXgyM1RTdmxhTUwxM2JONTRGb3hUdC1DaHhRdnBDd3JWUW9MdVEtVXVWN1FoYkpxdjhLbFhIb29QOFhVYm5VTWtwcUZmSjl1UzJ6NWRYMXlxMWY0QTZ2SG04NGtlMGVkSHF4aHhRRjFJWEN1S3ZvZFZaREhkTzVoTQ?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
       "stable_id": "2026-08-03-e0e8feada163",
       "status": "verification_pending",
       "published_at": "2026-08-03T12:36:21Z",
@@ -470,6 +750,46 @@
         "state": "verification_pending",
         "independent_sources": 0,
         "financialjuice_only": true,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-c4c57e8c04f0",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T12:32:42Z",
+      "published_at_kst": "2026-08-03T21:32:42+09:00",
+      "source_time": "2026-08-03T12:32:42Z",
+      "kst": "2026-08-03 21:32:42 KST",
+      "title": "[검증 중] Chile Peso Bonds Face Fresh Pressure if Strait of Hormuz Stays Shut",
+      "summary": "Chile Peso Bonds Face Fresh Pressure if Strait of Hormuz Stays Shut &nbsp;&nbsp; Bloomberg",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkY1bWE0bkVhRnJlNS1mZDkyNjY2NFVQNVRULVlzV0t3b1loNUZYc2EwdGU5cnd3ZE0xcWZ1WWVnd2xvM0gtQ3lOR2ZLSVh3Nm5QSHBaaUE2YmtzcVFYTEdUWGVFMVJYbHhEemhWVkgtcVc4NFl4NnplQ3F5alNOaEl0Vnl0WERxZmVNbzI2cmVNcjFKMHZaWUxmYzZPRWp2VFFOVktpeXJBdnRycWRsR2dMc3U?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
         "rumor_excluded": false,
         "official_or_onchain": false,
         "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
@@ -682,6 +1002,46 @@
       "event_type": "market"
     },
     {
+      "stable_id": "2026-08-03-4563c98830fe",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T11:58:28Z",
+      "published_at_kst": "2026-08-03T20:58:28+09:00",
+      "source_time": "2026-08-03T11:58:28Z",
+      "kst": "2026-08-03 20:58:28 KST",
+      "title": "[검증 중] Gold Gains as Iran Talks Ease Concerns Over Interest-Rate Hike",
+      "summary": "Gold Gains as Iran Talks Ease Concerns Over Interest-Rate Hike &nbsp;&nbsp; Bloomberg",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQalZESFJGZ2pZTTlQZklyOUlJcDF0VV9wVlJmX3hHUXpPN0ItY2YycW9FTEVSbGtwdVZmRzNJNk4tQzBhd2tuYVAzRWUwVFNiMnhuMmlQUlVEb0hYNHMwY3VKNlpjejFfUW41Y0ladXJrTDc3MnR6ZFBidVVqUndSV2xhVVhIR3ZDWWliY1o1U2FBNkJoamhSRDMwNVNZU1BZMjFhUjhtV20wXzdIZjZod0lKbw?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
       "stable_id": "2026-08-03-dd8beb269c61",
       "status": "verification_pending",
       "published_at": "2026-08-03T11:47:43Z",
@@ -712,6 +1072,86 @@
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQW1wYjEtdFRvVXNLZG04LU5SWXhVbHZWeWt5NUMtOENwOWRYZlZpdXkyMDA5Qm5RYnJDWUlzSFpMb3pPTm1hRDRUQTYwdnpKOFF4anJWZ1dmaHZjamxrLVpxT1NnbGNiMUtrRGxoUS02NWQwbHJOQnU1YnJxcnhpOXFjYmVnSE95LU9VZXZWS3ZzdUpVanhqbWdJQ0U2QlpTSXJRTUJJVkVPSTZzUF9adklORnhNM3JkRW1Ia2xSLWlBRHpMTHRuUHZvOHF1TnI1ajQ2LQ?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-b6c580b455fd",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T11:25:36Z",
+      "published_at_kst": "2026-08-03T20:25:36+09:00",
+      "source_time": "2026-08-03T11:25:36Z",
+      "kst": "2026-08-03 20:25:36 KST",
+      "title": "[검증 중] Trump Family-Linked Bitcoin Miner Posts Second-Quarter Loss",
+      "summary": "Trump Family-Linked Bitcoin Miner Posts Second-Quarter Loss &nbsp;&nbsp; Bloomberg",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWhBOW9US014M1BfNzN1SG9LRm5PYjY2NEZyZS00VU1YQkdtZlRrcVVlck5zWUszUnlabmt2LVV5ZThNbjB1SWp4Mkx2M2RHZnp2V05EemNMM19DM2paeU5UcDc0RTVKZU1VQzVnVElIYVEtSmcybDZTRzN1Q2dTeF80R1lzY2l2Tm5mTlpaYmdBNWRMdlFDR01MRHBqRTdkTEtkZGpIZHZZdjRrb0tv?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-a45ff5a874c6",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T11:07:03Z",
+      "published_at_kst": "2026-08-03T20:07:03+09:00",
+      "source_time": "2026-08-03T11:07:03Z",
+      "kst": "2026-08-03 20:07:03 KST",
+      "title": "[검증 중] Oil Falls After Trump Calls Off Iran Attack",
+      "summary": "Oil Falls After Trump Calls Off Iran Attack &nbsp;&nbsp; Bloomberg",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUpubGNWRTNlb2d1bjJST25jQllkVjJwQmx3b3FTNHRudXVEbC00WnFSZ1pON2dZUzRmUVk5NmZhbWthZDY2MDZSbE9EUmF5cmUtZlRQcmFNSndvMkJIUXIxUFI1UVlzQ21KN2pzRzBuQ0FTX3ZPUmNiZ2QwakJZOExiODlLeU00OE9HVnFXY1c0SkI5OFhjb1Z6eFVjdw?oc=5"
         }
       ],
       "verification": {
@@ -764,6 +1204,50 @@
         {
           "name": "WKOW",
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWHR5TXpXSDllTXg4MjMwMVpZNWlGa2FsLW5uUG1aOXRZRUV6MGtlLWdoM1h3WnhJQkdaM1pJLTNUWmVRSzRCXzJDbVJvSndpU0NlM25vWjVHSHpoN0VUaW1HT3pyUkVhWWtKZ2JtQ2J2bk9PbFhySGotSXJXaFhrWHZQSndTMnU2VE1TN1VyTHljNUtfSkNFbHlQQUkxUmpMSWgzZnZjbnRrQkF3aVhBY0NXN1BMbGVsU2tTNkprT1ViVzhJaUpqMjBoV0JZaElvSUh2a1FZTXFJZ2w2NkhiV2FzMDg4QmExMnVIMHBkdEV5NEJySVFNNHdHSDVmNXc?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-43c0dc52ac03",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:50:32Z",
+      "published_at_kst": "2026-08-03T19:50:32+09:00",
+      "source_time": "2026-08-03T10:50:32Z",
+      "kst": "2026-08-03 19:50:32 KST",
+      "title": "[검증 중] Iran denies talks with United States underway after Donald Trump calls off attacks",
+      "summary": "Iran denies talks with United States underway after Donald Trump calls off attacks &nbsp;&nbsp; Telegraph India",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Telegraph India",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZmlRYW1sa2V5RzFfMGdnQnRaOFBLNDJKODFpQzJ0RjEyYXE5Q2RtRWNZZFNzeEExM2lvS2ZyRUVrRHNSSUxVakNhS2Y2Y2FSTzgwODFVYURnMnB0Q3JfSElZeXhoNl9SOTZHeWU3aEtMYldmYUtBREFOZE9JcHZ5akhGeWR1ZUZoWWtfcU1GQzNCLUl0OEFCakl2Rms2anVLZVBQalJtRlVkb1NIYS1kRGw0MTRoZVBUaThvNlM4S00xLWhtSW9wRlNWWdIB0AFBVV95cUxONHF3SWNuOEliUGJ2dHJyTU9nTm52OG5GdFpULS1nU3dwb0s1OV90d1MzZWs3d3FDMnJRbGZMaTY5cFpwelE3SmFtdDl3RFNNUmg4M2MzWmExUzFjYTkzOGF3aGNTOXd1RmdPOG5TdVdZTFRLbE1iWE9tVXZkYkVxTkhpNE9jMlV2MDJXUG9NbndhUlo3dFg5TmRKcUpaUEVfUEQycXJLODUwaDM5OWNFbEFHX21YNDY5ckh5bTM4V29tZEl2S3dwd1ZxSVRVSGpE?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzJzZHNCZzdLcHhDVWdCSEpLMEpVckJUQXFxcjhrcEdHWmlWQ183T3g0dUtwWldQLTVfQ0FCbGRaXzV3Y2tnS0laLS1LeU1KcGJKRVhvX2xyV1I1Q0cxSDF0dWJ6ZWpaOFZJTWZac045VWduTklfeUl2QUhKcXZtbE9EY1MtR0p0MUNZOXEtbEpFejVqeXFQaHRRcVFBbkNhUU41eGM3ZldtVFg3U09UY205bjRlUFU?oc=5"
         }
       ],
       "verification": {
@@ -858,6 +1342,46 @@
       "event_type": "market"
     },
     {
+      "stable_id": "2026-08-03-5a1b3b7c40b1",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:40:54Z",
+      "published_at_kst": "2026-08-03T19:40:54+09:00",
+      "source_time": "2026-08-03T10:40:54Z",
+      "kst": "2026-08-03 19:40:54 KST",
+      "title": "[검증 중] UK Shipbroker Clarkson Sees Result Boost from Hormuz Disruption",
+      "summary": "UK Shipbroker Clarkson Sees Result Boost from Hormuz Disruption &nbsp;&nbsp; Bloomberg",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVBxWUJUbWFXejhNMDgtb3lBNVJvU2JtaEppUXRnMmdjOGF2VUw4bF9DdlBUWnR3RUx5SjZaOXVHZERuZTljdndUdVZlSktyekJjSng4Vm9FUmlOUTBrU1V2cHJ4ZTF4S29vdXZndnBDUHI2WjhGOVNCM0s1a1VFcWkzVTZfYUwzemhGQl9VZEJNX0tyTER4a19TVWxUZ0hiV1lrUFhTUk82aHVmbWcxdHZ0OUg?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
       "stable_id": "2026-08-03-7eac71df3614",
       "status": "verification_pending",
       "published_at": "2026-08-03T10:40:41Z",
@@ -884,6 +1408,46 @@
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWQ2YldEWXVMR01rR2o2dEJMTzZXdFMxTGphS0N6cjg2d05wNnVUbVk3ZGhnSFpKVktqSGNEZkF0dzNucWdoRE1BTmIwYk1rNTZNVWVxXzJkLUtPVEdnY3pTZEVtX002OXBFcE5QNVU1OFJpeVN2Zzdtb3VJTzI0QWczck8zOXRUc21tSXJSZm1XQlZJbnIwMVZ2TWE4dXpHcDF0Vk5GLWhnUQ?oc=5"
+        }
+      ],
+      "verification": {
+        "state": "verification_pending",
+        "independent_sources": 0,
+        "financialjuice_only": false,
+        "rumor_excluded": false,
+        "official_or_onchain": false,
+        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market"
+    },
+    {
+      "stable_id": "2026-08-03-17fbb4b0acc7",
+      "status": "verification_pending",
+      "published_at": "2026-08-03T10:35:56Z",
+      "published_at_kst": "2026-08-03T19:35:56+09:00",
+      "source_time": "2026-08-03T10:35:56Z",
+      "kst": "2026-08-03 19:35:56 KST",
+      "title": "[검증 중] Fed’s Williams Says Rates Are Well Positioned, Reuters Says",
+      "summary": "Fed’s Williams Says Rates Are Well Positioned, Reuters Says &nbsp;&nbsp; Bloomberg",
+      "importance": 3,
+      "tone": "warn",
+      "impact": "양방향",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
+      },
+      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
+      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
+      "follow_up": [
+        "원문 링크 확인",
+        "공식 발표 확인",
+        "독립 언론 교차검증"
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQXpxVklXS1NzZnlvMVd1b3J4Q0lWdlY0ZWI0YndBTVc0eDRESVE1X01tQTQ4QzM3VkVRY1VUbzlVY3Q4Zy1xREFnVzFrM0p0c09kR3owNFF1aEhsdU1qbGFvbmJQY2VzRFA2WldGNi1Ld2xhVkJrc3A5N0Z3M1V1dzlvY05uVlRkbkRjYWVSMXA0c1ZhaVIyWFg3a01jcVowN0ZHaGRIdlhSREJidVFqZENTbw?oc=5"
         }
       ],
       "verification": {
@@ -1094,574 +1658,6 @@
         "state": "verification_pending",
         "independent_sources": 0,
         "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-437e0becba55",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:06:18Z",
-      "published_at_kst": "2026-08-03T19:06:18+09:00",
-      "source_time": "2026-08-03T10:06:18Z",
-      "kst": "2026-08-03 19:06:18 KST",
-      "title": "[검증 중] FinancialJuice: Fed's Williams sees inflation coming down in H2 and more next year",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9704951/Feds-Williams-sees-inflation-coming-down-in-H2-and-more-next-year.aspx?xy=rss"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-1dd18d7d0f72",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:05:59Z",
-      "published_at_kst": "2026-08-03T19:05:59+09:00",
-      "source_time": "2026-08-03T10:05:59Z",
-      "kst": "2026-08-03 19:05:59 KST",
-      "title": "[검증 중] FULL TEXT Transcript of Reuters interview with NY Fed President Williams",
-      "summary": "FULL TEXT Transcript of Reuters interview with NY Fed President Williams &nbsp;&nbsp; Reuters",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU1jeGRidDZGNnBmU1MxVVgyTzFUZjJIUWgwUHRiVWNzUE0zOGZtV2luREdPaVU0bTJURlI3WVdBX3VLT1l4U25yd2pmQnBUclQtMmJSa1hORzVFX0ZKUHJBTGpFbVZpVm9TdDJEcGZCeXRvY1E4azdMaDJqQ1NiNnRiVmI0c0E3UGU3cTNjLW5YdFhILWRMUjNZOUVNN2QzRnZpdHlnYUtQbExFZUdzWUhRaTk?oc=5"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": false,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-656a6c245daa",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:00:04Z",
-      "published_at_kst": "2026-08-03T19:00:04+09:00",
-      "source_time": "2026-08-03T10:00:04Z",
-      "kst": "2026-08-03 19:00:04 KST",
-      "title": "[검증 중] FinancialJuice: Fed’s Williams: Rate policy still well positioned to reach 2% inflation",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9704935/Feds-Williams-Rate-policy-still-well-positioned-to-reach-2-inflation.aspx?xy=rss"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-9251aa61aeec",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:00:04Z",
-      "published_at_kst": "2026-08-03T19:00:04+09:00",
-      "source_time": "2026-08-03T10:00:04Z",
-      "kst": "2026-08-03 19:00:04 KST",
-      "title": "[검증 중] FinancialJuice: Fed’s Williams remains confident inflation pressures will gradually ease",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9704934/Feds-Williams-remains-confident-inflation-pressures-will-gradually-ease.aspx?xy=rss"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-86ef31ab2a11",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:00:04Z",
-      "published_at_kst": "2026-08-03T19:00:04+09:00",
-      "source_time": "2026-08-03T10:00:04Z",
-      "kst": "2026-08-03 19:00:04 KST",
-      "title": "[검증 중] FinancialJuice: Fed's Williams: Central bank very committed to returning inflation to 2%",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9704933/Feds-Williams-Central-bank-very-committed-to-returning-inflation-to-2.aspx?xy=rss"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-edd5680c0717",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:00:04Z",
-      "published_at_kst": "2026-08-03T19:00:04+09:00",
-      "source_time": "2026-08-03T10:00:04Z",
-      "kst": "2026-08-03 19:00:04 KST",
-      "title": "[검증 중] FinancialJuice: Fed’s Williams: aware of market pricing, Fed not required to endorse market levels",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9704932/Feds-Williams-aware-of-market-pricing-Fed-not-required-to-endorse-market-levels.aspx?xy=rss"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-3e03b73a957f",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:00:04Z",
-      "published_at_kst": "2026-08-03T19:00:04+09:00",
-      "source_time": "2026-08-03T10:00:04Z",
-      "kst": "2026-08-03 19:00:04 KST",
-      "title": "[검증 중] FinancialJuice: Fed's Williams: I strongly backed the FOMC's latest move",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9704931/Feds-Williams-I-strongly-backed-the-FOMCs-latest-move.aspx?xy=rss"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-45f8d6188a35",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:00:04Z",
-      "published_at_kst": "2026-08-03T19:00:04+09:00",
-      "source_time": "2026-08-03T10:00:04Z",
-      "kst": "2026-08-03 19:00:04 KST",
-      "title": "[검증 중] FinancialJuice: Fed’s Williams: Volatility in AI sector is unsurprising",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9704930/Feds-Williams-Volatility-in-AI-sector-is-unsurprising.aspx?xy=rss"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-172b83514550",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:00:04Z",
-      "published_at_kst": "2026-08-03T19:00:04+09:00",
-      "source_time": "2026-08-03T10:00:04Z",
-      "kst": "2026-08-03 19:00:04 KST",
-      "title": "[검증 중] FinancialJuice: Fed's Williams: Anticipate Middle East war inflation effect to ease",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9704929/Feds-Williams-Anticipate-Middle-East-war-inflation-effect-to-ease.aspx?xy=rss"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-af87e577f74e",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:00:04Z",
-      "published_at_kst": "2026-08-03T19:00:04+09:00",
-      "source_time": "2026-08-03T10:00:04Z",
-      "kst": "2026-08-03 19:00:04 KST",
-      "title": "[검증 중] FinancialJuice: Fed’s Williams: Market pricing offers Fed valuable insight",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9704928/Feds-Williams-Market-pricing-offers-Fed-valuable-insight.aspx?xy=rss"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-4ca47610a1c2",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T10:00:03Z",
-      "published_at_kst": "2026-08-03T19:00:03+09:00",
-      "source_time": "2026-08-03T10:00:03Z",
-      "kst": "2026-08-03 19:00:03 KST",
-      "title": "[검증 중] FinancialJuice: Fed’s Williams: No financial stability risks seen from AI investment",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9704926/Feds-Williams-No-financial-stability-risks-seen-from-AI-investment.aspx?xy=rss"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": true,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-3ec30a544558",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T09:38:53Z",
-      "published_at_kst": "2026-08-03T18:38:53+09:00",
-      "source_time": "2026-08-03T09:38:53Z",
-      "kst": "2026-08-03 18:38:53 KST",
-      "title": "[검증 중] Robinhood wins UK crypto registration before new regulatory regime kicks off",
-      "summary": "직접 연결된 속보 채널에서 탐지된 신규 항목입니다. 원문과 공식 발표, 독립 언론을 교차 확인하고 있으며 확인이 끝나면 상세 분석으로 교체됩니다.",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": false,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-cd8a13bec90c",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T09:33:07Z",
-      "published_at_kst": "2026-08-03T18:33:07+09:00",
-      "source_time": "2026-08-03T09:33:07Z",
-      "kst": "2026-08-03 18:33:07 KST",
-      "title": "[검증 중] Iran Says Strait of Hormuz Talks Are Underway",
-      "summary": "Iran Says Strait of Hormuz Talks Are Underway &nbsp;&nbsp; Currently.com",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "Currently.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFc5RFktUERqQ1U2Njk0cS1IWmpORHZjNHVCXzZHZ2RMODZJMG1PLXQ2NHdGOU41d2YxYXM5bDlzY0hYbzhrLTlQbFQ4UkxxR1lRbG82WFNka1VIQklhSUZDNFZiT3VnRlpQUEJyTXhlWmxTekx1cnp6c2pJZ0d0THJrblpPNFE?oc=5"
-        },
-        {
-          "name": "bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFZadlU5YVJkUWU2OWZDMFRldzBySzVwdTFfcUYyTXdfUVFGNFRpdUs2eXQ0Yy1RX0VPZjlvY3BIcjd3LVl2OUpKQU0tUEZUMDduckM5bU16cW5JTDN5OG1yaVZQUlNOQUVfWU5lcVJSRmtvcUhrdmxKd1dGXzYxRExYOWt2Z1pJSmVzcUpJM2VTVEFFbk1lQ1pxN0tjMEZlLWc?oc=5"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": false,
-        "rumor_excluded": false,
-        "official_or_onchain": false,
-        "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
-      },
-      "asset_class": "bitcoin",
-      "event_type": "market"
-    },
-    {
-      "stable_id": "2026-08-03-b094181cbd25",
-      "status": "verification_pending",
-      "published_at": "2026-08-03T09:22:00Z",
-      "published_at_kst": "2026-08-03T18:22:00+09:00",
-      "source_time": "2026-08-03T09:22:00Z",
-      "kst": "2026-08-03 18:22:00 KST",
-      "title": "[검증 중] Trump says Iran talks to take place on Monday, sets no deadline for deal",
-      "summary": "Trump says Iran talks to take place on Monday, sets no deadline for deal &nbsp;&nbsp; Fulton Sun",
-      "importance": 3,
-      "tone": "warn",
-      "impact": "양방향",
-      "btc_impact": {
-        "direction": "양방향",
-        "assessment": "교차검증 전 단계이므로 시장 방향을 확정하지 않습니다. 공식 발표와 후속 시장 반응을 확인한 뒤 호재·악재·양방향으로 재분류합니다."
-      },
-      "why_it_matters": "속보 발생 자체를 누락하지 않기 위한 검증 대기 항목입니다. 확정되지 않은 수치와 시장 해석은 정식 분석에 포함하지 않습니다.",
-      "missed_point": "속보 탐지와 사실 확정은 서로 다른 단계입니다. 현재 표시는 게시 누락을 막기 위한 대기 상태이며 투자 판단용 확정 정보가 아닙니다.",
-      "follow_up": [
-        "원문 링크 확인",
-        "공식 발표 확인",
-        "독립 언론 교차검증"
-      ],
-      "sources": [
-        {
-          "name": "Fulton Sun",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczJHWVdBclFHVlc2UHF1UXZnR0FnRVRXeHV1SGFLTDlaV1B4eWZzTU40QVVseDFqVHhzbUNUeElMRHJwWWdQZkdBR1ZNSE9sdTVNZWFJZE85MUEzeWtrZWxvM05Pbk8zblZ5QTNVYURmS2VxQ3ppVnFpMzRiY2pYYWtuR0loREtFZVJsdE51ckJ6S3JDR2FNVGFUem5SeVZLeFNEM2hTYWZYRU5QNC1uVk9CeG45dw?oc=5"
-        },
-        {
-          "name": "Jefferson City News Tribune",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVElqOFFvdjB0VTJ1MXlRdm1lbmF1dVItdUhETV9aWHluYVlkMS02d0E4VlpKOEZFYmhzajdZa0tEemZlV0ZlbjN3M2ZrQkJIck9UVjJ2RVNJV0hGWXRwc3VSdWhhbTZuclV4M3ZhR2pZXzRIWUpYZW1wcGZSdDQweE45TmhmMW9WVkV2eFh0YUVNeEJFcXBrNWFoMzFoTWFpcGZoT3VmOXE3Vy1SbUFkRjJtZGZkSkZt?oc=5"
-        }
-      ],
-      "verification": {
-        "state": "verification_pending",
-        "independent_sources": 0,
-        "financialjuice_only": false,
         "rumor_excluded": false,
         "official_or_onchain": false,
         "notes": "분석 서비스 장애 중에도 탐지 기록을 보존하기 위한 검증 대기 항목"
