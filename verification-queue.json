@@ -1,6 +1,66 @@
 {
-  "updated_at_kst": "2026-08-09T04:45:48+09:00",
+  "updated_at_kst": "2026-08-09T06:04:48+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-08-92cfd85fc114",
+      "original_title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "published_at": "2026-08-08T20:06:47Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-08-075435f8e917",
+      "original_title": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news",
+      "published_at": "2026-08-08T20:02:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news",
+          "source": "AP News",
+          "snippet": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news &nbsp;&nbsp; AP News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR?oc=5"
+        },
+        {
+          "headline": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news",
+          "source": "NBC News",
+          "snippet": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news &nbsp;&nbsp; NBC News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHdLUWp2NDlHVUNRNUxzazJIX3lzdzlVR0tMZEJacTVUa0N1bGZocG9jV01IT2MzNU5fdmJsUTNPQV9RN0tRT3FUclpuMWFUb0RpVmpNekVSZDBlcUxsVXplQzZjYW8xeGVXVEhKTnBZOGdkOF9mNkpBUWhpWUxDV2RBQUlSOFlrVGNFY25xckY1a19XTW9zdHhqXzRMNFZsOFZuTUJn?oc=5"
+        },
+        {
+          "headline": "Iran makes new Strait of Hormuz demands as UAE says ship was targeted",
+          "source": "London Now",
+          "snippet": "Iran makes new Strait of Hormuz demands as UAE says ship was targeted &nbsp;&nbsp; London Now",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGpFbThKN0daYUhub2h5U1UtX1B3WnlIWWxYWGZBUEI5ZTg1OFdJeDk1SGNTdHpmZDg3X00xNkVVNDhfd2FqVWxmYnlXQXBxeFdDU0VZUHd3TWczM2N6al9HTk1MWGJ0ZjlsTldSTWNNTG9IMVdBLU1Oel9ERTk2d1VBdFlRUUVvVHpIUUhUa285X3h0SjUxMlBFRldKNl9oVnBKT2p5anpRZXNpZEFHMUx5X3dQTl9ISXBr?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHdLUWp2NDlHVUNRNUxzazJIX3lzdzlVR0tMZEJacTVUa0N1bGZocG9jV01IT2MzNU5fdmJsUTNPQV9RN0tRT3FUclpuMWFUb0RpVmpNekVSZDBlcUxsVXplQzZjYW8xeGVXVEhKTnBZOGdkOF9mNkpBUWhpWUxDV2RBQUlSOFlrVGNFY25xckY1a19XTW9zdHhqXzRMNFZsOFZuTUJn?oc=5"
+        },
+        {
+          "name": "London Now",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGpFbThKN0daYUhub2h5U1UtX1B3WnlIWWxYWGZBUEI5ZTg1OFdJeDk1SGNTdHpmZDg3X00xNkVVNDhfd2FqVWxmYnlXQXBxeFdDU0VZUHd3TWczM2N6al9HTk1MWGJ0ZjlsTldSTWNNTG9IMVdBLU1Oel9ERTk2d1VBdFlRUUVvVHpIUUhUa285X3h0SjUxMlBFRldKNl9oVnBKT2p5anpRZXNpZEFHMUx5X3dQTl9ISXBr?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-08-1f485ad77dbd",
       "original_title": "Bitcoin and Ethereum ETFs break $1B in their best week since April and BlackRock brought in 80% of the cash",
@@ -32,6 +92,66 @@
       ]
     },
     {
+      "stable_id": "2026-08-08-d7cc08438959",
+      "original_title": "Bitcoin ETFs Pull In $1 Billion in Best Week Since April",
+      "published_at": "2026-08-08T18:20:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin ETFs Pull In $1 Billion in Best Week Since April",
+          "source": "finance.biggo.com",
+          "snippet": "Bitcoin ETFs Pull In $1 Billion in Best Week Since April &nbsp;&nbsp; finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Gb1VtaGRnTEVtSDhNOTFkV1pNTEpVSm93RW5TZFRTeXEwMV9RbHc1OGlkNXJpVWh1RG1IXy1oQ3ozbTN1R3BtZmx1a2JjR3Q1NXB3TDJNZUl5YWVQYXJWaktOaVZVQkZiX0hyQ3lWQXlLOTQtZ0E?oc=5"
+        },
+        {
+          "headline": "US Spot Bitcoin ETFs See $1B Net Inflows, Best Week Since April",
+          "source": "KuCoin",
+          "snippet": "US Spot Bitcoin ETFs See $1B Net Inflows, Best Week Since April &nbsp;&nbsp; KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWl1c0hId2gwOGRqdGEtWVlETmdvbVA2OXVvdURNeEd2cWl4V010TWhCbU1Wa0dOZUhGY3l0R0V1R3NUSmFSb2c3VjhoM1pfTk1hOF9ucTlkSEIweEJ4MGVGQmcwc1lXTjdKOGxpc2x5MlRuVnVsOXRJLUxnTUEzenpqTXNUMWt0bnRiYm5zRGxGemdHc2ZtcU5BQQ?oc=5"
+        },
+        {
+          "headline": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+          "source": "TradingView",
+          "snippet": "US spot Bitcoin ETFs post best week since April with $1B inflows &nbsp;&nbsp; TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdXdEMV9SRlJPMlJEQ1pYWERrd3UtdkF3bUJLOUNZSXFJUDRqNE1rTWtqTGVfQzV2RFVaTFhGSWRYY3RnWkxja1h6QS1vZldzMDVJY0xYTGh3cGF2S0E4c2dsdF9HY2xkMXhNbUdYbU9yNWJlMW9URjZnd1FSZ3NHaWlFZlZ0MmM0VW5kdnlud2UzeFVLZzZoT2stSzgwVUUwMGJ5ZjZxa203U2k0VzZ2blItUVJCRWdjc0pWcTNNa2hIYS1iNkE?oc=5"
+        },
+        {
+          "headline": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
+          "source": "The Block",
+          "snippet": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume &nbsp;&nbsp; The Block",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYUFVM3J3OTRaS1hvZkR5aFlZbXlrR2ZXd1lqSU9aTVUwaHBUQjA1UWx5SERaRE9SQ1JlTXVncWlNSmV3Nk1MWXNLWXZWT1RCQ3ZOMFp3b3c0R093NG1rRkdCR1BrX3g3MmNZQnM5QjhIbGJHSUt3a2htLXJuZGNiUllteUhrazZaNFByX2FzcG5TODFwZ2E5UmY1d1JRRXVYYXlWVGdCUFJnYkZBMm9PazVxRlhBUVF2MmF0c3RabU5hSUNpS2t3MDNqOXNuVEE5S1NDem9vakM?oc=5"
+        },
+        {
+          "headline": "Bitcoin ETFs pull in $1B in weekly inflows, best performance since April",
+          "source": "Crypto Briefing",
+          "snippet": "Bitcoin ETFs pull in $1B in weekly inflows, best performance since April &nbsp;&nbsp; Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MSFJsTDAwYTFpSE5zeEYtUzE3dnFfVUNRWmRsbFRfVTlWSzJMeVQ5QmZDVDRNajBSTU5XVV94dXBDLWZ2VWRnWkJnVGtpZTJXaTRQUFctcGoxd1M0LV9uNFY4Tk9tMDItRUN6U3FSaUJWb0RGTElCaTkxNzlXZw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Gb1VtaGRnTEVtSDhNOTFkV1pNTEpVSm93RW5TZFRTeXEwMV9RbHc1OGlkNXJpVWh1RG1IXy1oQ3ozbTN1R3BtZmx1a2JjR3Q1NXB3TDJNZUl5YWVQYXJWaktOaVZVQkZiX0hyQ3lWQXlLOTQtZ0E?oc=5"
+        },
+        {
+          "name": "KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWl1c0hId2gwOGRqdGEtWVlETmdvbVA2OXVvdURNeEd2cWl4V010TWhCbU1Wa0dOZUhGY3l0R0V1R3NUSmFSb2c3VjhoM1pfTk1hOF9ucTlkSEIweEJ4MGVGQmcwc1lXTjdKOGxpc2x5MlRuVnVsOXRJLUxnTUEzenpqTXNUMWt0bnRiYm5zRGxGemdHc2ZtcU5BQQ?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdXdEMV9SRlJPMlJEQ1pYWERrd3UtdkF3bUJLOUNZSXFJUDRqNE1rTWtqTGVfQzV2RFVaTFhGSWRYY3RnWkxja1h6QS1vZldzMDVJY0xYTGh3cGF2S0E4c2dsdF9HY2xkMXhNbUdYbU9yNWJlMW9URjZnd1FSZ3NHaWlFZlZ0MmM0VW5kdnlud2UzeFVLZzZoT2stSzgwVUUwMGJ5ZjZxa203U2k0VzZ2blItUVJCRWdjc0pWcTNNa2hIYS1iNkE?oc=5"
+        },
+        {
+          "name": "The Block",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYUFVM3J3OTRaS1hvZkR5aFlZbXlrR2ZXd1lqSU9aTVUwaHBUQjA1UWx5SERaRE9SQ1JlTXVncWlNSmV3Nk1MWXNLWXZWT1RCQ3ZOMFp3b3c0R093NG1rRkdCR1BrX3g3MmNZQnM5QjhIbGJHSUt3a2htLXJuZGNiUllteUhrazZaNFByX2FzcG5TODFwZ2E5UmY1d1JRRXVYYXlWVGdCUFJnYkZBMm9PazVxRlhBUVF2MmF0c3RabU5hSUNpS2t3MDNqOXNuVEE5S1NDem9vakM?oc=5"
+        },
+        {
+          "name": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MSFJsTDAwYTFpSE5zeEYtUzE3dnFfVUNRWmRsbFRfVTlWSzJMeVQ5QmZDVDRNajBSTU5XVV94dXBDLWZ2VWRnWkJnVGtpZTJXaTRQUFctcGoxd1M0LV9uNFY4Tk9tMDItRUN6U3FSaUJWb0RGTElCaTkxNzlXZw?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-08-08a466fca642",
       "original_title": "Iran says Hormuz deal close, not close enough to open",
       "published_at": "2026-08-08T17:48:45Z",
@@ -42,12 +162,6 @@
           "source": "The Canberra Times",
           "snippet": "Iran says Hormuz deal close, not close enough to open &nbsp;&nbsp; The Canberra Times",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGlzN3dwV3M2NFJwaFIwNjRzRXRKQVZoS05jNGMtUTVmLXNwZml3OS1USVdMWVBzckVNNXk1ZlN0Y29SMUluazdZbi1JVUZyUFF2UUxZa0tLZmMxRkpmSUQ2MDhFMEZueEtjTWdTMkpiX1YtdVVxYlRtNktmaEN6LWpUbW1naWN0bFBWb01vWTdBbm44THlxZzRLaG5fOW4tMUE?oc=5"
-        },
-        {
-          "headline": "Iran says Hormuz deal close, not close enough to open",
-          "source": "aapnews.aap.com.au",
-          "snippet": "Iran says Hormuz deal close, not close enough to open &nbsp;&nbsp; aapnews.aap.com.au",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnNLVEtwNzZtOHJQNUljNFhTZ1YzaHlRc09vNVphcm84bUZ1N3B3Yll5aWRheDdmMG9vc2xqS1NuSGpqVW1Jd0ZYYm5SRVRuU0ZaV3l3SEdzSzYwRFo1RVRRZ2hUNUY4RUx1SDZVeTNDY3M2clgza0dUVzZGWGcxQjRVRmktMUgtOXN0VA?oc=5"
         },
         {
           "headline": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway",
@@ -63,19 +177,21 @@
         },
         {
           "headline": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
-          "source": "NBC News",
-          "snippet": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself &nbsp;&nbsp; NBC News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHdLUWp2NDlHVUNRNUxzazJIX3lzdzlVR0tMZEJacTVUa0N1bGZocG9jV01IT2MzNU5fdmJsUTNPQV9RN0tRT3FUclpuMWFUb0RpVmpNekVSZDBlcUxsVXplQzZjYW8xeGVXVEhKTnBZOGdkOF9mNkpBUWhpWUxDV2RBQUlSOFlrVGNFY25xckY1a19XTW9zdHhqXzRMNFZsOFZuTUJn?oc=5"
+          "source": "Yahoo News Canada",
+          "snippet": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself &nbsp;&nbsp; Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6ZlBmVkhMRDAyblRUdm50VjFCelJRQVRfUEpHWmZQUjhPLUNHUU01aDJUaGJrVlpMUlI3UVRvX1lKeFFZUG9sV09jUTJCeUJ6eUo0MkdOY1dhUEw0LTVKNnZ3ZHk2TWRWaUlUVm04SktEUlpmR0I2cw?oc=5"
+        },
+        {
+          "headline": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
+          "source": "Yahoo",
+          "snippet": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself &nbsp;&nbsp; Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUXhGdW5yTnF5bmFZSTEtWU5FRE0tMG1QOHQtZWhHWkZHLUFIcGRFZ1ZYb3VMZjdBcVdSeUo5TW1NQnh2VnRrcFBoOENaNExYUWM1Y2g0MG9WT1lWaDF6Wm9BMUJHbE15WjdSRWkwTWJFbEU3REVlam1FbUtuRmVxSlhkcEIwdw?oc=5"
         }
       ],
       "sources": [
         {
           "name": "The Canberra Times",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGlzN3dwV3M2NFJwaFIwNjRzRXRKQVZoS05jNGMtUTVmLXNwZml3OS1USVdMWVBzckVNNXk1ZlN0Y29SMUluazdZbi1JVUZyUFF2UUxZa0tLZmMxRkpmSUQ2MDhFMEZueEtjTWdTMkpiX1YtdVVxYlRtNktmaEN6LWpUbW1naWN0bFBWb01vWTdBbm44THlxZzRLaG5fOW4tMUE?oc=5"
-        },
-        {
-          "name": "aapnews.aap.com.au",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnNLVEtwNzZtOHJQNUljNFhTZ1YzaHlRc09vNVphcm84bUZ1N3B3Yll5aWRheDdmMG9vc2xqS1NuSGpqVW1Jd0ZYYm5SRVRuU0ZaV3l3SEdzSzYwRFo1RVRRZ2hUNUY4RUx1SDZVeTNDY3M2clgza0dUVzZGWGcxQjRVRmktMUgtOXN0VA?oc=5"
         },
         {
           "name": "Reuters",
@@ -86,8 +202,12 @@
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdVdDaHJlc0xnNjJEN0JqcUdXTlVtYmhwYjhyemlMSGNMVWlfMnRJam9qU3dfdHVROWJ6WkZVdXBQZHNlRFBIMHdpX0xRSmtyU2p2U1BVOThMLVJISUhEVVB2UHlEcWxYZDhSOGxUMGk3anpmbWxhUzBjdENmc1JTTDJJSmE5dnl0TmZqTk55czgtcTdTTW9qSFBaVEsyX0VFeW5mSGhlREM0ZEtBNUY5aHBodUViNktTYnd1NU1hN0NCQ1YxcDdsdHIzS0NjaGppR2tsRDVYZXlaeHhJYmJRYUlrRE1mV0VlYXdDNVN5ZWs4QVkxbWdTcXh2RHE2em9JZklOQ01oTTZZWWc?oc=5"
         },
         {
-          "name": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHdLUWp2NDlHVUNRNUxzazJIX3lzdzlVR0tMZEJacTVUa0N1bGZocG9jV01IT2MzNU5fdmJsUTNPQV9RN0tRT3FUclpuMWFUb0RpVmpNekVSZDBlcUxsVXplQzZjYW8xeGVXVEhKTnBZOGdkOF9mNkpBUWhpWUxDV2RBQUlSOFlrVGNFY25xckY1a19XTW9zdHhqXzRMNFZsOFZuTUJn?oc=5"
+          "name": "Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6ZlBmVkhMRDAyblRUdm50VjFCelJRQVRfUEpHWmZQUjhPLUNHUU01aDJUaGJrVlpMUlI3UVRvX1lKeFFZUG9sV09jUTJCeUJ6eUo0MkdOY1dhUEw0LTVKNnZ3ZHk2TWRWaUlUVm04SktEUlpmR0I2cw?oc=5"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUXhGdW5yTnF5bmFZSTEtWU5FRE0tMG1QOHQtZWhHWkZHLUFIcGRFZ1ZYb3VMZjdBcVdSeUo5TW1NQnh2VnRrcFBoOENaNExYUWM1Y2g0MG9WT1lWaDF6Wm9BMUJHbE15WjdSRWkwTWJFbEU3REVlam1FbUtuRmVxSlhkcEIwdw?oc=5"
         }
       ]
     },
@@ -278,12 +398,6 @@
           "source": "CryptoRank",
           "snippet": "Spot Bitcoin ETFs See $1B Weekly Inflows, Highest Since April &nbsp;&nbsp; CryptoRank",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RM2p1b0tnUEgxOUprX1VBQWJuMWcyNWN1eFdld2dWWi1IZmVjWDN3djRlclNqRVltWmsyMG5Pd09JaXUzOTlsNDlsNWRsWlZVN3k0VzVzdDVJMWhvYzRUS1JZUkJZS0FYRnhSZUJEQUwtOERER2RlZFBTRjd0M2s?oc=5"
-        },
-        {
-          "headline": "Bitcoin ETFs pull in $1B in weekly inflows, best performance since April",
-          "source": "cryptobriefing.com",
-          "snippet": "Bitcoin ETFs pull in $1B in weekly inflows, best performance since April &nbsp;&nbsp; cryptobriefing.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MSFJsTDAwYTFpSE5zeEYtUzE3dnFfVUNRWmRsbFRfVTlWSzJMeVQ5QmZDVDRNajBSTU5XVV94dXBDLWZ2VWRnWkJnVGtpZTJXaTRQUFctcGoxd1M0LV9uNFY4Tk9tMDItRUN6U3FSaUJWb0RGTElCaTkxNzlXZw?oc=5"
         }
       ],
       "sources": [
@@ -294,10 +408,6 @@
         {
           "name": "CryptoRank",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RM2p1b0tnUEgxOUprX1VBQWJuMWcyNWN1eFdld2dWWi1IZmVjWDN3djRlclNqRVltWmsyMG5Pd09JaXUzOTlsNDlsNWRsWlZVN3k0VzVzdDVJMWhvYzRUS1JZUkJZS0FYRnhSZUJEQUwtOERER2RlZFBTRjd0M2s?oc=5"
-        },
-        {
-          "name": "cryptobriefing.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MSFJsTDAwYTFpSE5zeEYtUzE3dnFfVUNRWmRsbFRfVTlWSzJMeVQ5QmZDVDRNajBSTU5XVV94dXBDLWZ2VWRnWkJnVGtpZTJXaTRQUFctcGoxd1M0LV9uNFY4Tk9tMDItRUN6U3FSaUJWb0RGTElCaTkxNzlXZw?oc=5"
         }
       ]
     },
@@ -414,10 +524,10 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamRGcXFaNi1MR2thUGZTRWtRQmN1aEZkb0JrMktmellDNFdlQ2tkcGp0WjhNdDZsX1dheVprbHo0cTAzUFg1WjU5TlNpLTBZTzhka2FwRklNQWVaQXFnZHZMS1NXd0JWWXJpNUo5T3NRa0wxRFZ0eS0xdm9QTjAxUzItNEFDN3lrdTN2cWJONi1TTndaNnpaOHVOcFFLRE40YzhLd0tNakF4eUpJOHZZWUFhUVA?oc=5"
         },
         {
-          "headline": "Iran says Hormuz deal with Oman close but its conditions must be met",
+          "headline": "Iran says Hormuz deal close but that its conditions must be met",
           "source": "Moneycontrol.com",
-          "snippet": "Iran says Hormuz deal with Oman close but its conditions must be met &nbsp;&nbsp; Moneycontrol.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1hoM3E1NW91VGdvQ002V2MwWWJ0REFZQU8wN2tzOGV4aHNoUUY4VE1hRjM5SXNBNkZTSkVmNWxmbUlOOTVVUDFOTWZuZUp5MDk3dGtmaVFRMmJIZktGdE94bk1TTnkwTUxwOWl2WmpJVzJJVHZBOThhQUdBaTdyT2lJdVlqNm9TRGNZWk9PUEJkUEdxcnB2TkdlMHFpLTQ4T01hbkRybkhCN3ZjNGV4a1FlWU10R3JhUmdac9IBwgFBVV95cUxQek9yR01KZzBxZE5QUjE0TmJOUDVxbkpENHc3ei1oeXVWNWhuQTNWXzRiQURNaENFM21YU1RmRXdyUEowbkFHWlV3M2JIU3FESzNPbVBiX1VWcHdjeFFPZ3R5TlpiVGlYMWd6QzR3OWRoMmZWS2tBRVhONEpvTTJfQWFrUk95cVN2YWJ1VnA3QnBtekpMRDZ4Z1ZBQ3hNN25ZME5Yd3pWaVU3YTRycnBsdTVlVGtTTDdqaXFOOVBCQ0cwdw?oc=5"
+          "snippet": "Iran says Hormuz deal close but that its conditions must be met &nbsp;&nbsp; Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek9yR01KZzBxZE5QUjE0TmJOUDVxbkpENHc3ei1oeXVWNWhuQTNWXzRiQURNaENFM21YU1RmRXdyUEowbkFHWlV3M2JIU3FESzNPbVBiX1VWcHdjeFFPZ3R5TlpiVGlYMWd6QzR3OWRoMmZWS2tBRVhONEpvTTJfQWFrUk95cVN2YWJ1VnA3QnBtekpMRDZ4Z1ZBQ3hNN25ZME5Yd3pWaVU3YTRycnBsdTVlVGtTTDdqaXFOOVBCQ0cwd9IBwgFBVV95cUxQek9yR01KZzBxZE5QUjE0TmJOUDVxbkpENHc3ei1oeXVWNWhuQTNWXzRiQURNaENFM21YU1RmRXdyUEowbkFHWlV3M2JIU3FESzNPbVBiX1VWcHdjeFFPZ3R5TlpiVGlYMWd6QzR3OWRoMmZWS2tBRVhONEpvTTJfQWFrUk95cVN2YWJ1VnA3QnBtekpMRDZ4Z1ZBQ3hNN25ZME5Yd3pWaVU3YTRycnBsdTVlVGtTTDdqaXFOOVBCQ0cwdw?oc=5"
         }
       ],
       "sources": [
@@ -427,7 +537,7 @@
         },
         {
           "name": "Moneycontrol.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1hoM3E1NW91VGdvQ002V2MwWWJ0REFZQU8wN2tzOGV4aHNoUUY4VE1hRjM5SXNBNkZTSkVmNWxmbUlOOTVVUDFOTWZuZUp5MDk3dGtmaVFRMmJIZktGdE94bk1TTnkwTUxwOWl2WmpJVzJJVHZBOThhQUdBaTdyT2lJdVlqNm9TRGNZWk9PUEJkUEdxcnB2TkdlMHFpLTQ4T01hbkRybkhCN3ZjNGV4a1FlWU10R3JhUmdac9IBwgFBVV95cUxQek9yR01KZzBxZE5QUjE0TmJOUDVxbkpENHc3ei1oeXVWNWhuQTNWXzRiQURNaENFM21YU1RmRXdyUEowbkFHWlV3M2JIU3FESzNPbVBiX1VWcHdjeFFPZ3R5TlpiVGlYMWd6QzR3OWRoMmZWS2tBRVhONEpvTTJfQWFrUk95cVN2YWJ1VnA3QnBtekpMRDZ4Z1ZBQ3hNN25ZME5Yd3pWaVU3YTRycnBsdTVlVGtTTDdqaXFOOVBCQ0cwdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek9yR01KZzBxZE5QUjE0TmJOUDVxbkpENHc3ei1oeXVWNWhuQTNWXzRiQURNaENFM21YU1RmRXdyUEowbkFHWlV3M2JIU3FESzNPbVBiX1VWcHdjeFFPZ3R5TlpiVGlYMWd6QzR3OWRoMmZWS2tBRVhONEpvTTJfQWFrUk95cVN2YWJ1VnA3QnBtekpMRDZ4Z1ZBQ3hNN25ZME5Yd3pWaVU3YTRycnBsdTVlVGtTTDdqaXFOOVBCQ0cwd9IBwgFBVV95cUxQek9yR01KZzBxZE5QUjE0TmJOUDVxbkpENHc3ei1oeXVWNWhuQTNWXzRiQURNaENFM21YU1RmRXdyUEowbkFHWlV3M2JIU3FESzNPbVBiX1VWcHdjeFFPZ3R5TlpiVGlYMWd6QzR3OWRoMmZWS2tBRVhONEpvTTJfQWFrUk95cVN2YWJ1VnA3QnBtekpMRDZ4Z1ZBQ3hNN25ZME5Yd3pWaVU3YTRycnBsdTVlVGtTTDdqaXFOOVBCQ0cwdw?oc=5"
         }
       ]
     },
@@ -655,8 +765,8 @@
         },
         {
           "headline": "Bitcoin Payment Tool BTCPay Urges Update After Attackers Steal Funds",
-          "source": "BeInCrypto",
-          "snippet": "Bitcoin Payment Tool BTCPay Urges Update After Attackers Steal Funds &nbsp;&nbsp; BeInCrypto",
+          "source": "beincrypto.com",
+          "snippet": "Bitcoin Payment Tool BTCPay Urges Update After Attackers Steal Funds &nbsp;&nbsp; beincrypto.com",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45LUlIZDE0Q0JnZUhDNEpwQlc0eUVSSHZHSzU0SlRVWlBxTHhQY2xpZklmNjllaXBVeWE4MV82X1h4dnZmVDRTZGoxdDZ2WC02bDdVb04wN2VLU2dtVW5QQjc1c29VYnF1Q0JldGdHblZNVVo4?oc=5"
         }
       ],
@@ -666,7 +776,7 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUZXUmkxZVhheFFGeEVoTFlSZGRVVnBRNHRSUlp1Y0dnekdUUlEwVmdlaE9yQzlpaUVmQ2FvR3Y2WmxtaW44cjJ6eXF1Uk9uX1RIQnFpR3B4WGpQcmp0TGk0cWFpbFM5RzZKY3FJc1F0OWlhV0dZU0llaF9RcUtlVFJ3a21NdXM?oc=5"
         },
         {
-          "name": "BeInCrypto",
+          "name": "beincrypto.com",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45LUlIZDE0Q0JnZUhDNEpwQlc0eUVSSHZHSzU0SlRVWlBxTHhQY2xpZklmNjllaXBVeWE4MV82X1h4dnZmVDRTZGoxdDZ2WC02bDdVb04wN2VLU2dtVW5QQjc1c29VYnF1Q0JldGdHblZNVVo4?oc=5"
         }
       ]
@@ -1412,12 +1522,22 @@
           "source": "CoinDesk",
           "snippet": "",
           "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month"
+        },
+        {
+          "headline": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+          "source": "coindesk.com",
+          "snippet": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month &nbsp;&nbsp; coindesk.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXN4aXZRSUFpVWpxRVFqMk0tZC1QT2hjT3RYZS16akFiRlpScGNRLVpjUHBNeU11VHl0alJJOC1aWTJSUWxTV0pSaGxjRlNqaWg1QmZGd0VCQkFnUi1SdFc5b2lUaU9yeFlqbU81LVh6SUxDZUZNY1lZRHB6RDRLb292N0VzeWJWSkFBbWdZRWhyNWFxRmpNOEtJajZtUExPNVdfLW9uX215SjBTMUN3ZWZoZXhDdTJScmx0bFJvQ19RTkQwSFBsRTcxWUpidw?oc=5"
         }
       ],
       "sources": [
         {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month"
+        },
+        {
+          "name": "coindesk.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXN4aXZRSUFpVWpxRVFqMk0tZC1QT2hjT3RYZS16akFiRlpScGNRLVpjUHBNeU11VHl0alJJOC1aWTJSUWxTV0pSaGxjRlNqaWg1QmZGd0VCQkFnUi1SdFc5b2lUaU9yeFlqbU81LVh6SUxDZUZNY1lZRHB6RDRLb292N0VzeWJWSkFBbWdZRWhyNWFxRmpNOEtJajZtUExPNVdfLW9uX215SjBTMUN3ZWZoZXhDdTJScmx0bFJvQ19RTkQwSFBsRTcxWUpidw?oc=5"
         }
       ]
     },
@@ -1532,6 +1652,36 @@
       ]
     },
     {
+      "stable_id": "2026-08-08-b64dde135059",
+      "original_title": "US sanctions Dubai crypto exchange for aiding Iran’s IRGC, following a Reuters report",
+      "published_at": "2026-08-08T07:31:35Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US sanctions Dubai crypto exchange for aiding Iran’s IRGC, following a Reuters report",
+          "source": "95 KQDS",
+          "snippet": "US sanctions Dubai crypto exchange for aiding Iran’s IRGC, following a Reuters report &nbsp;&nbsp; 95 KQDS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXY5X3Z3ZzFUTXNqNzRTY2V6ZEhvYzF1bGItYk12Z0V2eEEzR3AxTFNvOFl5UXdvM2M4bHVSMUZCZ0hvenNIcGJyeGpyODNsaG1mX3pwM1Z5azlRT1VQN0dkUURSMFNVNnlxVDB5YnNfOHBIUDdiLTYySnNxZmJHcUk1RW9ONWJTUzhsSUZmMmpadnpFMkgxYklUVnZkU3RVTHVFc1VZUzBiVmtMVExBdHQxTGM?oc=5"
+        },
+        {
+          "headline": "US sanctions Dubai crypto exchange for allegedly aiding Iran’s IRGC money laundering",
+          "source": "independent.co.uk",
+          "snippet": "US sanctions Dubai crypto exchange for allegedly aiding Iran’s IRGC money laundering &nbsp;&nbsp; independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1RKOVhDRlRQeTBkUk84SXZpR1dHTk1PbnQyekdiR2wtRWxKZmkyUERyR3U3QTJqQUJERnNIdVVPM29ZcnNfZnh3dkNVeUpYd3RVTFlTLVRaR2dxY0Nqc1VCOUx0STJhUWtBaC1JcjdSWG1pdnl0UDI1Rm1tTTJ0Qzc2QlNyaDRMTDZmcDV4RXFvM1VEVmN6RnZXdS1LcjBZcU4yajY0U3Y?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "95 KQDS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXY5X3Z3ZzFUTXNqNzRTY2V6ZEhvYzF1bGItYk12Z0V2eEEzR3AxTFNvOFl5UXdvM2M4bHVSMUZCZ0hvenNIcGJyeGpyODNsaG1mX3pwM1Z5azlRT1VQN0dkUURSMFNVNnlxVDB5YnNfOHBIUDdiLTYySnNxZmJHcUk1RW9ONWJTUzhsSUZmMmpadnpFMkgxYklUVnZkU3RVTHVFc1VZUzBiVmtMVExBdHQxTGM?oc=5"
+        },
+        {
+          "name": "independent.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1RKOVhDRlRQeTBkUk84SXZpR1dHTk1PbnQyekdiR2wtRWxKZmkyUERyR3U3QTJqQUJERnNIdVVPM29ZcnNfZnh3dkNVeUpYd3RVTFlTLVRaR2dxY0Nqc1VCOUx0STJhUWtBaC1JcjdSWG1pdnl0UDI1Rm1tTTJ0Qzc2QlNyaDRMTDZmcDV4RXFvM1VEVmN6RnZXdS1LcjBZcU4yajY0U3Y?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-08-8d1a4396ef2d",
       "original_title": "US stocks, bonds rally after soft jobs report; yen bounces back",
       "published_at": "2026-08-08T07:25:44Z",
@@ -1545,6 +1695,12 @@
         },
         {
           "headline": "US stocks, bonds rally after soft jobs report; yen bounces back",
+          "source": "AOL.ca",
+          "snippet": "US stocks, bonds rally after soft jobs report; yen bounces back &nbsp;&nbsp; AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PVE15bmxhSC10TFdyWHlmUzRoXy1sMmZXU1Q4WTkwd2dMZjFnM2dNSzRxTWlNS3hweDNORUVEYzRvWTNnRmFNT0RwOFpZNzgtQk5yX3BLQ1ZudWp4UjVyTEIxbVNiTm9USllNUGlOekcwSmxONnZWZw?oc=5"
+        },
+        {
+          "headline": "US stocks, bonds rally after soft jobs report; yen bounces back",
           "source": "Reuters",
           "snippet": "US stocks, bonds rally after soft jobs report; yen bounces back &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5"
@@ -1554,6 +1710,10 @@
         {
           "name": "NewsBreak: Local News & Alerts",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGZnbXpKVklVN0hNbUNPRWJGNlpVcVpVRE80dXpfVWU5LVFlS3o3OFpOUVRjQmxPUkJLRks0RHFjbTZLYTdOMTBodUoxRTNGVm1EM1RTek04ZnlTblZYRVNXRjVieG0yemRXZEVRYTVjWDltVTNveXNMZThhSlV4V2tib3YxTUpxVU1PenMyV3RFQjJHcnZDa2c5NDRyb1BrdnlleU1EMENtUWJUOVNGTV9oYTAteDQ?oc=5"
+        },
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PVE15bmxhSC10TFdyWHlmUzRoXy1sMmZXU1Q4WTkwd2dMZjFnM2dNSzRxTWlNS3hweDNORUVEYzRvWTNnRmFNT0RwOFpZNzgtQk5yX3BLQ1ZudWp4UjVyTEIxbVNiTm9USllNUGlOekcwSmxONnZWZw?oc=5"
         },
         {
           "name": "Reuters",
@@ -1599,9 +1759,15 @@
       "evidence": [
         {
           "headline": "Trump Media ends token, prediction market deals with Crypto.com",
-          "source": "The Business Times",
-          "snippet": "Trump Media ends token, prediction market deals with Crypto.com &nbsp;&nbsp; The Business Times",
+          "source": "businesstimes.com.sg",
+          "snippet": "Trump Media ends token, prediction market deals with Crypto.com &nbsp;&nbsp; businesstimes.com.sg",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGJxV1BFdVpkTXpvel9YclFVanVrTEJGV3F5R3VVVms0NDNkYjRNU0ZSTEl3ZWxBNUtTN0YzZTRRRUJ5YW5LaS1yNGNJSWM0SVMxMUVxbkNNT1g1TVI2X2lRN3UxYlItN21uSHV3RkM5eVdtcW56NFpyaHJTMS1lNVVWTjRKOTk5WEhQbUQxZGg0S2YtQ29idFR0UmZBVVZDZkVwRjcwdw?oc=5"
+        },
+        {
+          "headline": "Trump media ends token, prediction market deals with Crypto.com",
+          "source": "Moneycontrol.com",
+          "snippet": "Trump media ends token, prediction market deals with Crypto.com &nbsp;&nbsp; Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXJiM08yaWFneklQNzMwVVlpQUNYellKeEk5VGxNT2NRVV8tTk0zdEFpalVvakt0Nl82WUhtT2RBQzJDUWd4dWp4OHdtblVUU3pEVkFxTkJ1NzBmR3VpSUlBeEJsYkdYdXM1Z0xybnpJTmlZdk5ZN2RDbE1aVEtkRWtZNG12T2JpRngwakRpRGVCcjNSZms2M01lUS1xcFZ0dGtNb3VSWFRiQlV0RjlLU2xjdEtGSnVmRGVB0gHAAUFVX3lxTE9zQnNISFR5SzBsM2NneFVjOXhzLXpxZWplc0RidE1wWXJzWlZUbWo1ZWEwUE01LXB5aHhzTzRXNzk2VkpHRFFMS3JZYzl1UW04aDdSS0h6M25ZNUFhZnA5N0p3bm9HVVNNSGNpdTllZ2lXekphNUpJbFhpbTduRjhKcW9Hb3BzTlFJcEpzMUp3V18yaWZoUEN5NE9FUXlYNzhTNy15OUlUX1VpODN2WXNJWTVYa2JaQXZCN0tyTmQ4LQ?oc=5"
         },
         {
           "headline": "Trump Media Ends Token, Prediction Market Deals With Crypto.com",
@@ -1612,8 +1778,12 @@
       ],
       "sources": [
         {
-          "name": "The Business Times",
+          "name": "businesstimes.com.sg",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGJxV1BFdVpkTXpvel9YclFVanVrTEJGV3F5R3VVVms0NDNkYjRNU0ZSTEl3ZWxBNUtTN0YzZTRRRUJ5YW5LaS1yNGNJSWM0SVMxMUVxbkNNT1g1TVI2X2lRN3UxYlItN21uSHV3RkM5eVdtcW56NFpyaHJTMS1lNVVWTjRKOTk5WEhQbUQxZGg0S2YtQ29idFR0UmZBVVZDZkVwRjcwdw?oc=5"
+        },
+        {
+          "name": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXJiM08yaWFneklQNzMwVVlpQUNYellKeEk5VGxNT2NRVV8tTk0zdEFpalVvakt0Nl82WUhtT2RBQzJDUWd4dWp4OHdtblVUU3pEVkFxTkJ1NzBmR3VpSUlBeEJsYkdYdXM1Z0xybnpJTmlZdk5ZN2RDbE1aVEtkRWtZNG12T2JpRngwakRpRGVCcjNSZms2M01lUS1xcFZ0dGtNb3VSWFRiQlV0RjlLU2xjdEtGSnVmRGVB0gHAAUFVX3lxTE9zQnNISFR5SzBsM2NneFVjOXhzLXpxZWplc0RidE1wWXJzWlZUbWo1ZWEwUE01LXB5aHhzTzRXNzk2VkpHRFFMS3JZYzl1UW04aDdSS0h6M25ZNUFhZnA5N0p3bm9HVVNNSGNpdTllZ2lXekphNUpJbFhpbTduRjhKcW9Hb3BzTlFJcEpzMUp3V18yaWZoUEN5NE9FUXlYNzhTNy15OUlUX1VpODN2WXNJWTVYa2JaQXZCN0tyTmQ4LQ?oc=5"
         },
         {
           "name": "Bloomberg.com",
@@ -1862,6 +2032,36 @@
       ]
     },
     {
+      "stable_id": "2026-08-08-e0aa79f14fe8",
+      "original_title": "Wall Street Week Ahead: Inflation data to test record-setting US stocks, Fed rate views",
+      "published_at": "2026-08-08T04:26:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Wall Street Week Ahead: Inflation data to test record-setting US stocks, Fed rate views",
+          "source": "The Economic Times",
+          "snippet": "Wall Street Week Ahead: Inflation data to test record-setting US stocks, Fed rate views &nbsp;&nbsp; The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQU2RyYTdiMDJzLUFubUE2MGlEX2JQMFU3ZkpsYWVWZmJHQnJHZTZvRHhmTmthRXl2YUE2bnJudjJYRVJkWjNjYlhScm9vZDZUNzgxekhuOElyaVVSZXRrVzE2SmJwOUFyZXhiNkd6ZW9INVN4SkozMmRPV2UzMnJjOEpNckVGT1NSTTAyS2xfT0VTYmlrRFA1T28ySzNVSVctWGw4WWFUQXdqcHYwblBFUThSOFZnaTBwNjR5bWVqVDNZVW9pZ2pqekNaYVFKNUsyVC1sQUI5X09FdjVTRUk0cWpwTDNta0ZZOFo4WTZadkY1ejlXU25aZEln0gH6AUFVX3lxTFBTZHJhN2IwMnMtQW5tQTYwaURfYlAwVTdmSmxhZVZmYkdCckdlNm9EeGZOa2FFeXZhQTZucm52MlhFUmRaM2NiWFJyb29kNlQ3ODF6SG44SXJpVVJldGtXMTZKYnA5QXJleGI2R3plb0g1U3hKSjMyZE9XZTMycmM4Sk1yRUZPU1JNMDJLbF9PRVNiaWtEUDVPbzJLM1VJVy1YbDhZYVRBd2pwdjBuUEVROFI4VmdpMHA2NHltZWpUM1lVb2lnamp6Q1phUUo1SzJULWxBQjlfT0V2NVNFSTRxanBMM21rRlk4WjhZNlp2RjV6OVdTblpkSWc?oc=5"
+        },
+        {
+          "headline": "Inflation data to test record-setting US stocks, Fed rate views By Reuters",
+          "source": "Investing.com",
+          "snippet": "Inflation data to test record-setting US stocks, Fed rate views By Reuters &nbsp;&nbsp; Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpVQkVoSWs4emdZYWpXVGpCa015WG9fbVd5SGVMLTdSV2RBTjhWZW9uUk02NHlOR0RyUlZ2THN0UHE0M3Q3S1c1UEt6aEcteDlDbUM3RUJHWk04b3FMMmp5U2p5STZfM1U2S0lYak80Q3Y5SUJyWjJDRG5wT0pkNmtBS1hqNUFTV0ttSDZncHFjY0Y4QjFqVzVEcUxreUhGbXFIWE53X1ZYRFJlcm81VHBiWQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQU2RyYTdiMDJzLUFubUE2MGlEX2JQMFU3ZkpsYWVWZmJHQnJHZTZvRHhmTmthRXl2YUE2bnJudjJYRVJkWjNjYlhScm9vZDZUNzgxekhuOElyaVVSZXRrVzE2SmJwOUFyZXhiNkd6ZW9INVN4SkozMmRPV2UzMnJjOEpNckVGT1NSTTAyS2xfT0VTYmlrRFA1T28ySzNVSVctWGw4WWFUQXdqcHYwblBFUThSOFZnaTBwNjR5bWVqVDNZVW9pZ2pqekNaYVFKNUsyVC1sQUI5X09FdjVTRUk0cWpwTDNta0ZZOFo4WTZadkY1ejlXU25aZEln0gH6AUFVX3lxTFBTZHJhN2IwMnMtQW5tQTYwaURfYlAwVTdmSmxhZVZmYkdCckdlNm9EeGZOa2FFeXZhQTZucm52MlhFUmRaM2NiWFJyb29kNlQ3ODF6SG44SXJpVVJldGtXMTZKYnA5QXJleGI2R3plb0g1U3hKSjMyZE9XZTMycmM4Sk1yRUZPU1JNMDJLbF9PRVNiaWtEUDVPbzJLM1VJVy1YbDhZYVRBd2pwdjBuUEVROFI4VmdpMHA2NHltZWpUM1lVb2lnamp6Q1phUUo1SzJULWxBQjlfT0V2NVNFSTRxanBMM21rRlk4WjhZNlp2RjV6OVdTblpkSWc?oc=5"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpVQkVoSWs4emdZYWpXVGpCa015WG9fbVd5SGVMLTdSV2RBTjhWZW9uUk02NHlOR0RyUlZ2THN0UHE0M3Q3S1c1UEt6aEcteDlDbUM3RUJHWk04b3FMMmp5U2p5STZfM1U2S0lYak80Q3Y5SUJyWjJDRG5wT0pkNmtBS1hqNUFTV0ttSDZncHFjY0Y4QjFqVzVEcUxreUhGbXFIWE53X1ZYRFJlcm81VHBiWQ?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-08-62b589225c48",
       "original_title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
       "published_at": "2026-08-08T03:30:00Z",
@@ -1872,12 +2072,22 @@
           "source": "CoinDesk",
           "snippet": "",
           "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets"
+        },
+        {
+          "headline": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+          "source": "coindesk.com",
+          "snippet": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets &nbsp;&nbsp; coindesk.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTVmQmNiWEdhOHJsdVlBT3pZXzdfLTlLR041SUZBSEVfWjVXNHBxbVVhSkVaYzR4RUw1TUhqc3E0X0x4U2pEMDRkXzlRbk1VQ2ZjMFNZdTdfcGozaFo4cGlVV0Y3MXhIUkcwV2t1cnlmY2Z5WDdyVU44S0Z2Q0tpN2M0Z2tORktDMmMxM2VyRktscE10RktscVUteTlyN3ZqS0Z5T3RhM1RSVElFb0ZGN0h2SFdBZHhKUWh6OA?oc=5"
         }
       ],
       "sources": [
         {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets"
+        },
+        {
+          "name": "coindesk.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTVmQmNiWEdhOHJsdVlBT3pZXzdfLTlLR041SUZBSEVfWjVXNHBxbVVhSkVaYzR4RUw1TUhqc3E0X0x4U2pEMDRkXzlRbk1VQ2ZjMFNZdTdfcGozaFo4cGlVV0Y3MXhIUkcwV2t1cnlmY2Z5WDdyVU44S0Z2Q0tpN2M0Z2tORktDMmMxM2VyRktscE10RktscVUteTlyN3ZqS0Z5T3RhM1RSVElFb0ZGN0h2SFdBZHhKUWh6OA?oc=5"
         }
       ]
     },
@@ -1979,9 +2189,15 @@
       "evidence": [
         {
           "headline": "U.S. expects deal soon on Strait of Hormuz; Sunni powers unite in defence pact",
-          "source": "The Hindu",
-          "snippet": "U.S. expects deal soon on Strait of Hormuz; Sunni powers unite in defence pact &nbsp;&nbsp; The Hindu",
+          "source": "thehindu.com",
+          "snippet": "U.S. expects deal soon on Strait of Hormuz; Sunni powers unite in defence pact &nbsp;&nbsp; thehindu.com",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcF92UXRqa202NmszVnctd1U2Z1lFQ2pSZXlwdHdwX1dKUGoyWWpLNFhid1daQUVYSWJwRHN0eTNCTEJmd0dRMGQzbWlSRnh4UVdubDhxRjdaYUw5ZGY1UDhEQXFzZ2lCMGdNWkVxQVhtVTFEQkd1SWFoa3Exbk5HUlZUZ2pLR2VCSGVSeUg1SkpnWjI5aXNxdks5eEd1MGRXd1g4NzhkWVRCc3E5M2hOUnh2eDJ2dDNZaFZpbjZ2ZnhVeDhHNG50U3ZTLUtSY2IzUGVCZU8wSnpEeGdI0gHcAUFVX3lxTE9wX3ZRdGprbTY2azNWdy13VTZnWUVDalJleXB0d3BfV0pQajJZaks0WGJ3V1pBRVhJYnBEc3R5M0JMQmZ3R1EwZDNtaVJGeHhRV25sOHFGN1phTDlkZjVQOERBcXNnaUIwZ01aRXFBWG1VMURCR3VJYWhrcTFuTkdSVlRnaktHZUJIZVJ5SDVKSmdaMjlpc3F2Szl4R3UwZFd3WDg3OGRZVEJzcTkzaE5SeHZ4MnZ0M1loVmluNnZmeFV4OEc0bnRTdlMtS1JjYjNQZUJlTzBKekR4Z0g?oc=5"
+        },
+        {
+          "headline": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
+          "source": "Yahoo",
+          "snippet": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact &nbsp;&nbsp; Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUk83ZWVVZDcwbUdqbHJ4QWlud3M0aU5tX0lqMW1aSVJib3lDbVUzaDlyQVVNWnRvNkI0M0N0azdDSG9lczlyRDFPT2toNnRzdmNGekhtVEFxT3B1YWYwWEZFQWI3TWdCcmNLS0xQaDZYVlAybzU0RVZ2aTQ4Y1E3RzM1ZVFIWHg1cEcwZmJPaFo?oc=5"
         },
         {
           "headline": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
@@ -1992,12 +2208,46 @@
       ],
       "sources": [
         {
-          "name": "The Hindu",
+          "name": "thehindu.com",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcF92UXRqa202NmszVnctd1U2Z1lFQ2pSZXlwdHdwX1dKUGoyWWpLNFhid1daQUVYSWJwRHN0eTNCTEJmd0dRMGQzbWlSRnh4UVdubDhxRjdaYUw5ZGY1UDhEQXFzZ2lCMGdNWkVxQVhtVTFEQkd1SWFoa3Exbk5HUlZUZ2pLR2VCSGVSeUg1SkpnWjI5aXNxdks5eEd1MGRXd1g4NzhkWVRCc3E5M2hOUnh2eDJ2dDNZaFZpbjZ2ZnhVeDhHNG50U3ZTLUtSY2IzUGVCZU8wSnpEeGdI0gHcAUFVX3lxTE9wX3ZRdGprbTY2azNWdy13VTZnWUVDalJleXB0d3BfV0pQajJZaks0WGJ3V1pBRVhJYnBEc3R5M0JMQmZ3R1EwZDNtaVJGeHhRV25sOHFGN1phTDlkZjVQOERBcXNnaUIwZ01aRXFBWG1VMURCR3VJYWhrcTFuTkdSVlRnaktHZUJIZVJ5SDVKSmdaMjlpc3F2Szl4R3UwZFd3WDg3OGRZVEJzcTkzaE5SeHZ4MnZ0M1loVmluNnZmeFV4OEc0bnRTdlMtS1JjYjNQZUJlTzBKekR4Z0g?oc=5"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUk83ZWVVZDcwbUdqbHJ4QWlud3M0aU5tX0lqMW1aSVJib3lDbVUzaDlyQVVNWnRvNkI0M0N0azdDSG9lczlyRDFPT2toNnRzdmNGekhtVEFxT3B1YWYwWEZFQWI3TWdCcmNLS0xQaDZYVlAybzU0RVZ2aTQ4Y1E3RzM1ZVFIWHg1cEcwZmJPaFo?oc=5"
         },
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTlKQUF3VjE1MnpMNE5PNFRFZmloMHhQMjdHUmhwU0s4QWdWQVl6TFA4NjJCSi1qbnJyRFVjajVIamtFOVd3eHpSdlozSDd4YzlrdW93UHdfaGVDOEVicFByV1hkemlNTFFxbWxiNW5OWUJ4Y3FRbDBkd05nX05pTVNOUUpHc3hjVFlqR3daRnpBNkVDZF91dHV3WTJYQ0ZqLUh3VVVaMV9DU1FtWXlocDlxb3d0cGw1eFVKVA?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-08-878681343fd1",
+      "original_title": "US-Iran standoff reaches crypto as Treasury sanctions exchanges",
+      "published_at": "2026-08-08T02:11:49Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US-Iran standoff reaches crypto as Treasury sanctions exchanges",
+          "source": "Cryptonews.net",
+          "snippet": "US-Iran standoff reaches crypto as Treasury sanctions exchanges &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ndlJaUk9PRm1SRGJMNTVmS0xFTzFYMkVTNk9WWjdIemswVWNsVzAxVjQ2UmRkOG1rcERldHlsNXVWdmZmc21UTlgwZ0JxZk1iUWhUNHRoZw?oc=5"
+        },
+        {
+          "headline": "US Treasury Sanctions Crypto Exchanges Tied to Iran’s Revolutionary Guard",
+          "source": "bloomingbit",
+          "snippet": "US Treasury Sanctions Crypto Exchanges Tied to Iran’s Revolutionary Guard &nbsp;&nbsp; bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kRHpaV0lCUW9WYzJ6S3Vfc29wZkQxNUN6WktLRVdzdkkyQkQyVl8tbkI1cmIxbmVRLXhfWFlQTGJ3M0ljWVJ3aWNra3FmTkM1LXRNQw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ndlJaUk9PRm1SRGJMNTVmS0xFTzFYMkVTNk9WWjdIemswVWNsVzAxVjQ2UmRkOG1rcERldHlsNXVWdmZmc21UTlgwZ0JxZk1iUWhUNHRoZw?oc=5"
+        },
+        {
+          "name": "bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kRHpaV0lCUW9WYzJ6S3Vfc29wZkQxNUN6WktLRVdzdkkyQkQyVl8tbkI1cmIxbmVRLXhfWFlQTGJ3M0ljWVJ3aWNra3FmTkM1LXRNQw?oc=5"
         }
       ]
     },
@@ -2365,8 +2615,8 @@
         },
         {
           "headline": "Canada Economy Just Outran America: Is Its Crypto Industry Next?",
-          "source": "BeInCrypto",
-          "snippet": "Canada Economy Just Outran America: Is Its Crypto Industry Next? &nbsp;&nbsp; BeInCrypto",
+          "source": "beincrypto.com",
+          "snippet": "Canada Economy Just Outran America: Is Its Crypto Industry Next? &nbsp;&nbsp; beincrypto.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sb3FQTzAxYy1TbDRrNGJjTy1NeUh1bmZzZDVQemdjYkRIMWUwa05SRVp2bVQtX0sxNnY0TlBHOU82djYxU2FteUpWbDRfSWgzNWdlU1lnSG5lWWhwSzBJZDJCYmE?oc=5"
         }
       ],
@@ -2376,7 +2626,7 @@
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6OTJWTzJEZjB2THJHR3gtcDBCaDVQT0puSDdwYlZ4SEg1Z0gtT3l3SEQ1VUVKcjBzY0F0NHlHTTdGRGtfM2tmR2Y4dWlERTZTUmo1WnhlOG1nQ1JESWRtSTdpQ0JWM3lORVhlSlpDYzQtcG1wMWtB?oc=5"
         },
         {
-          "name": "BeInCrypto",
+          "name": "beincrypto.com",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sb3FQTzAxYy1TbDRrNGJjTy1NeUh1bmZzZDVQemdjYkRIMWUwa05SRVp2bVQtX0sxNnY0TlBHOU82djYxU2FteUpWbDRfSWgzNWdlU1lnSG5lWWhwSzBJZDJCYmE?oc=5"
         }
       ]
@@ -2618,156 +2868,6 @@
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-07-89b9965bcd47",
-      "original_title": "Why the US, Iran and Oman are discussing a deal to reopen the Strait of Hormuz",
-      "published_at": "2026-08-07T20:41:07Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Why the US, Iran and Oman are discussing a deal to reopen the Strait of Hormuz",
-          "source": "The Business Standard",
-          "snippet": "Why the US, Iran and Oman are discussing a deal to reopen the Strait of Hormuz &nbsp;&nbsp; The Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnJ1Y0NmTFVRV0s2cW5hbndCbXNPeW5GX3V2aGNQMlNkekVuQVU0V3dEdWtxbzVXNHZ4di1KUXBXX0ZpbFFUeHRMSy1IQURSS0dEd1VGZ2hTRjBDanBRWXozcTUzYmpmZlZUOFpIN2g0TnllSDRyakd2OW1JdjJnb2NPczVmcGZjcjBtUENFS0pUR1hqVXh0NnJ0UWVpcFI3OHZUY01R0gGrAUFVX3lxTE9CY21nckJQeFRhaWdER2F2dzgzZGh5S1NkTnRKTFVzR2tNazBMZWlvYksyT05XVTFQZW95MXhHb3BCLW9nQ0RzTExrWjlrUUVnelkyM2xDaDY0cm02NXNIV2o4ZzdpM0EyU1g1am5saGVDZHJIZl9TNmRKSDl2bFN2cHh6WDlWSTBZMEg1X3Flb3FSMUUxVGxXd0pybFZ0YVFWZFBzWHBTeDZ4SQ?oc=5"
-        },
-        {
-          "headline": "Iran says Hormuz deal with Oman won’t fully reopen strait",
-          "source": "The Washington Post",
-          "snippet": "Iran says Hormuz deal with Oman won’t fully reopen strait &nbsp;&nbsp; The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHhFb2tmTW1CZ2s3dnYxa1hnY3RqdHdxeFVCaUxUWGlkMXptaWkzVzZlWGwyN0pfREZzU1NFdmZ1dmNlVWNGcVpiajg4SlhYYnJ2d0RwYU95d1NkNzJ2TlFqVXZ4ZlM1UHpCbFJLMk90VVVoQy0ySFpQN3dtOTJNa09jS0I4MmRCUENxSmRNMWEyQVA4OHR0Q1E0N2xzUVdnQWlVRkd1a2M?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnJ1Y0NmTFVRV0s2cW5hbndCbXNPeW5GX3V2aGNQMlNkekVuQVU0V3dEdWtxbzVXNHZ4di1KUXBXX0ZpbFFUeHRMSy1IQURSS0dEd1VGZ2hTRjBDanBRWXozcTUzYmpmZlZUOFpIN2g0TnllSDRyakd2OW1JdjJnb2NPczVmcGZjcjBtUENFS0pUR1hqVXh0NnJ0UWVpcFI3OHZUY01R0gGrAUFVX3lxTE9CY21nckJQeFRhaWdER2F2dzgzZGh5S1NkTnRKTFVzR2tNazBMZWlvYksyT05XVTFQZW95MXhHb3BCLW9nQ0RzTExrWjlrUUVnelkyM2xDaDY0cm02NXNIV2o4ZzdpM0EyU1g1am5saGVDZHJIZl9TNmRKSDl2bFN2cHh6WDlWSTBZMEg1X3Flb3FSMUUxVGxXd0pybFZ0YVFWZFBzWHBTeDZ4SQ?oc=5"
-        },
-        {
-          "name": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHhFb2tmTW1CZ2s3dnYxa1hnY3RqdHdxeFVCaUxUWGlkMXptaWkzVzZlWGwyN0pfREZzU1NFdmZ1dmNlVWNGcVpiajg4SlhYYnJ2d0RwYU95d1NkNzJ2TlFqVXZ4ZlM1UHpCbFJLMk90VVVoQy0ySFpQN3dtOTJNa09jS0I4MmRCUENxSmRNMWEyQVA4OHR0Q1E0N2xzUVdnQWlVRkd1a2M?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-07-6cc5c086691a",
-      "original_title": "Inflation data to test record-setting US stocks, Fed rate views",
-      "published_at": "2026-08-07T20:40:32Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Inflation data to test record-setting US stocks, Fed rate views",
-          "source": "TradingView",
-          "snippet": "Inflation data to test record-setting US stocks, Fed rate views &nbsp;&nbsp; TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGdIdWZTWUJUQmdxYTNxY3lOdXd3bFJZWEFjQ09iUVpQZGNZRk1nSER4UVRMZnZxZ1l2OFVmeW5CYkkwbk41dkxaX2Y3RGxhSHlUX19aWnRjR01tRUFBLVpmSUVZc01XOFVpSTdsNURkV3U4SDhGZjY3dVFqMU1UdkhFaDBvVWZmY1gtMmJOSi1fT1JSaHYxWnJDcERVZ0U2SXlGel9BZkU0T1U4Sk5nTm9vMVNSLWo1bkJBOTBqNGwyYi1YMFRHbGJSc1o?oc=5"
-        },
-        {
-          "headline": "Wall St Week Ahead: Inflation data to test record-setting US stocks, Fed rate views",
-          "source": "Reuters",
-          "snippet": "Wall St Week Ahead: Inflation data to test record-setting US stocks, Fed rate views &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGdIdWZTWUJUQmdxYTNxY3lOdXd3bFJZWEFjQ09iUVpQZGNZRk1nSER4UVRMZnZxZ1l2OFVmeW5CYkkwbk41dkxaX2Y3RGxhSHlUX19aWnRjR01tRUFBLVpmSUVZc01XOFVpSTdsNURkV3U4SDhGZjY3dVFqMU1UdkhFaDBvVWZmY1gtMmJOSi1fT1JSaHYxWnJDcERVZ0U2SXlGel9BZkU0T1U4Sk5nTm9vMVNSLWo1bkJBOTBqNGwyYi1YMFRHbGJSc1o?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-07-ed62bbc1ef1e",
-      "original_title": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz",
-      "published_at": "2026-08-07T20:37:35Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz",
-          "source": "Arab News",
-          "snippet": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz &nbsp;&nbsp; Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wdmw5US1TN2F5bTNWSmhtM2ttdDI3eERDQ2NyNGl0Qk84N3FxMGVNRDM5NWU1NjNDQjdoXzVMTkViYzNOcHVHMnhyd3pRQm5xQ0d3?oc=5"
-        },
-        {
-          "headline": "FinancialJuice: US official: There is progress between Oman and Iran on the Strait of Hormuz and we expect a deal soon.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9712814/US-official-There-is-progress-between-Oman-and-Iran-on-the-Strait-of-Hormuz-and-we-expect-a-deal-soon.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wdmw5US1TN2F5bTNWSmhtM2ttdDI3eERDQ2NyNGl0Qk84N3FxMGVNRDM5NWU1NjNDQjdoXzVMTkViYzNOcHVHMnhyd3pRQm5xQ0d3?oc=5"
-        },
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9712814/US-official-There-is-progress-between-Oman-and-Iran-on-the-Strait-of-Hormuz-and-we-expect-a-deal-soon.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-07-44831fa21d01",
-      "original_title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "published_at": "2026-08-07T20:20:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-07-b6c1726b3edd",
-      "original_title": "Brent climbs $1 on uncertainty over end to Iran war",
-      "published_at": "2026-08-07T20:05:14Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Brent climbs $1 on uncertainty over end to Iran war",
-          "source": "Reuters",
-          "snippet": "Brent climbs $1 on uncertainty over end to Iran war &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-07-c8ed4dad5735",
-      "original_title": "FinancialJuice: USD CFTC Positions Week August 4th",
-      "published_at": "2026-08-07T19:39:57Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: USD CFTC Positions Week August 4th",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9712881/USD-CFTC-Positions-Week-August-4th---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9712881/USD-CFTC-Positions-Week-August-4th---FJElite.aspx?xy=rss"
         }
       ]
     }
