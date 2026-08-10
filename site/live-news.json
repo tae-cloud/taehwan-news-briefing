@@ -1,4 +1,365 @@
 {
-  "generated_at_kst": "2026-08-10T08:53:54+09:00",
-  "items": []
+  "generated_at_kst": "2026-08-10T13:30:00+09:00",
+  "items": [
+    {
+      "stable_id": "2026-08-10-boj-july-summary-inflation-risks",
+      "published_at": "2026-08-09T23:50:50Z",
+      "published_at_kst": "2026-08-10 08:50 KST",
+      "kst": "2026-08-10 08:50 KST",
+      "source_time": "2026-08-09T23:50:50Z",
+      "title": "일본은행, 약한 엔·유가로 물가 상방 위험 경계",
+      "summary": "일본은행의 7월 회의 의견 요약에서 일부 위원은 약한 엔화와 높은 유가, 견조한 글로벌 수요가 일본의 물가를 다시 끌어올릴 수 있다고 지적했다. 단기 실질금리가 여전히 마이너스여서 금융여건은 완화적이라는 평가도 함께 나왔다. 당장 정책 변경을 뜻하지는 않지만, 시장이 예상한 것보다 빠른 추가 금리 인상 가능성을 열어 둔 발언이다.",
+      "importance": 4,
+      "tone": "warn",
+      "impact": "양방향",
+      "status": "cross_verified",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "엔화 강세와 일본 금리 상승은 엔 캐리 트레이드 축소를 통해 위험자산에 단기 부담이 될 수 있다. 반면 일본은행이 실제 인상보다 경고에 그치면 글로벌 유동성 충격은 제한된다. 비트코인은 달러·미국채 금리와 함께 엔화 움직임을 확인해야 한다."
+      },
+      "why_it_matters": "일본의 낮은 금리는 글로벌 레버리지와 캐리 거래의 주요 자금원이었다. 일본은행의 정상화 속도가 빨라지면 주식과 암호화폐에 들어간 차입 자금이 회수될 수 있다. 특히 약한 엔과 에너지 가격이 동시에 물가를 자극하는지가 다음 회의의 핵심 변수다.",
+      "missed_point": "물가 상방 위험 언급과 실제 금리 인상은 같은 뜻이 아니다. 의견 요약은 위원별 견해를 모은 문서이므로 다수 의견인지, 향후 임금과 소비자물가에서 확인되는지를 구분해야 한다.",
+      "follow_up": [
+        "일본 소비자물가와 임금 지표",
+        "USD/JPY와 일본 국채금리",
+        "다음 일본은행 회의의 금리 경로"
+      ],
+      "sources": [
+        {
+          "name": "Bank of Japan",
+          "url": "https://www.boj.or.jp/en/"
+        },
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9713883/BOJ-July-meeting-summary-of-opinions-one-member-noted-Middle-East-developments-growing-AI-demand-weak-yen-all-contribute-to-rising-prices.aspx?xy=rss"
+        }
+      ],
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "official_source": true,
+        "notes": "일본은행 회의 자료와 FinancialJuice 속보를 대조"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "central_bank"
+    },
+    {
+      "stable_id": "2026-08-10-iran-oman-hormuz-final-stage",
+      "published_at": "2026-08-09T19:59:33Z",
+      "published_at_kst": "2026-08-10 04:59 KST",
+      "kst": "2026-08-10 04:59 KST",
+      "source_time": "2026-08-09T19:59:33Z",
+      "title": "이란·오만, 호르무즈 합의 막바지…미국 조치가 변수",
+      "summary": "이란은 오만과 진행 중인 호르무즈 해협 관련 합의가 막바지 단계라고 밝혔지만, 해협 재개방을 위해서는 미국이 제시된 요구에 행동으로 답해야 한다고 주장했다. 협상 진전 기대는 높아졌지만 최종 서명과 실제 통항 정상화는 아직 확인되지 않았다. 유가는 합의 기대와 결렬 위험을 번갈아 반영하며 변동성이 이어지고 있다.",
+      "importance": 5,
+      "tone": "warn",
+      "impact": "양방향",
+      "status": "cross_verified",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "합의가 체결되고 선박 통항이 정상화되면 유가와 기대 인플레이션이 낮아져 비트코인에 우호적이다. 반대로 미국의 양보 여부를 둘러싸고 협상이 지연되면 에너지 가격과 달러가 다시 오를 수 있다. 발표보다 실제 선박 이동과 보험료 하락이 더 중요한 확인 신호다."
+      },
+      "why_it_matters": "호르무즈 해협은 세계 에너지 공급의 핵심 통로다. 재개방은 유가, 물가 기대, 연준의 금리 경로를 동시에 바꿀 수 있어 비트코인에도 간접 영향이 크다. 이번 보도는 합의가 임박했다는 신호이지만 조건부라는 점이 핵심이다.",
+      "missed_point": "‘최종 단계’라는 외교적 표현만으로 해협이 열렸다고 판단하면 안 된다. 미국 측 확인, 합의문 서명, 실제 통항과 해운 보험 정상화가 모두 따라와야 시장 충격이 지속된다.",
+      "follow_up": [
+        "미국 정부의 공식 확인",
+        "오만 중재 합의문 공개 여부",
+        "호르무즈 선박 통항·유가·보험료"
+      ],
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/2f4f2638cb8430bb7c8e5d59a7b50731"
+        },
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/"
+        }
+      ],
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": false,
+        "official_source": false,
+        "notes": "AP 시장 보도와 복수 속보 흐름 교차 확인"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "geopolitics"
+    },
+    {
+      "stable_id": "2026-08-07-us-jobs-minus-23000-fed",
+      "published_at": "2026-08-07T06:29:02Z",
+      "published_at_kst": "2026-08-07 15:29 KST",
+      "kst": "2026-08-07 15:29 KST",
+      "source_time": "2026-08-07T06:29:02Z",
+      "title": "미국 고용 2.3만 명 감소…금리 인상 지연 기대 확대",
+      "summary": "미국 고용이 예상과 달리 2만3천 명 감소했다는 발표 뒤 시장은 연준이 즉시 금리를 올리기 어려워졌다고 해석했다. 채권시장은 주식시장보다 더 크게 반응했고, 금리 인상 기대가 뒤로 밀리면서 위험자산 심리가 개선됐다. 다만 한 달 수치만으로 경기 침체나 정책 전환을 확정할 수는 없으며, 에너지발 물가 압력과 다음 소비자물가가 함께 확인돼야 한다.",
+      "importance": 5,
+      "tone": "up",
+      "impact": "호재",
+      "status": "cross_verified",
+      "btc_impact": {
+        "direction": "호재",
+        "assessment": "고용 둔화는 연준의 추가 긴축 필요성을 낮춰 비트코인에 우호적인 금리·유동성 환경을 만들 수 있다. 그러나 고용 악화가 급격한 경기 침체 신호로 확대되면 위험회피가 먼저 나타날 수 있다. 다음 물가와 실업률이 같은 방향을 확인하는지가 중요하다."
+      },
+      "why_it_matters": "비트코인은 달러 유동성과 실질금리에 민감하다. 고용 약화가 금리 인상 지연으로 연결되면 국채금리와 달러의 상승 압력을 줄일 수 있다. 반면 유가가 계속 높으면 성장 둔화와 물가 상승이 겹치는 스태그플레이션 위험이 남는다.",
+      "missed_point": "주가 상승만 보고 고용 감소를 순수 호재로 해석하면 위험하다. 고용 둔화의 속도, 임금 상승률, 실업률과 기업 실적을 함께 봐야 정책 완화 기대가 지속될 수 있다.",
+      "follow_up": [
+        "미국 CPI와 근원 CPI",
+        "실업률·시간당 임금",
+        "연방기금 선물의 인상 확률"
+      ],
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/9636095906bbb689a1f612bce9a07343"
+        },
+        {
+          "name": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/monetarypolicy.htm"
+        }
+      ],
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "official_source": true,
+        "notes": "AP 보도와 연준 정책 자료 대조"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "macro_data"
+    },
+    {
+      "stable_id": "2026-08-06-iran-oil-market-volatility",
+      "published_at": "2026-08-06T05:08:37Z",
+      "published_at_kst": "2026-08-06 14:08 KST",
+      "kst": "2026-08-06 14:08 KST",
+      "source_time": "2026-08-06T05:08:37Z",
+      "title": "이란 협상 불확실성에 유가 재상승…시장 변동성 확대",
+      "summary": "미국과 이란의 갈등 및 호르무즈 해협 재개방 협상이 결론에 이르지 못하면서 유가가 다시 상승했다. 미국 증시는 기업 실적과 협상 기대 사이에서 약세를 보였고, 시장은 에너지 가격이 인플레이션과 연준 정책에 미칠 영향을 재평가했다. 이란이 오만과 합의에 근접했다고 밝혔지만 실제 재개방 시점은 확정되지 않았다.",
+      "importance": 4,
+      "tone": "down",
+      "impact": "악재",
+      "status": "cross_verified",
+      "btc_impact": {
+        "direction": "악재",
+        "assessment": "유가 상승은 기대 인플레이션과 국채금리를 끌어올려 비트코인의 할인율과 유동성 환경에 부담을 준다. 지정학적 불확실성이 커지면 달러 선호도 강해질 수 있다. 다만 협상 타결 한 번으로 방향이 빠르게 반전될 수 있어 추격 매매보다 확인이 필요하다."
+      },
+      "why_it_matters": "에너지 가격은 현재 연준이 금리를 동결하면서도 매파적 태도를 유지하는 핵심 배경이다. 유가가 높게 유지되면 고용 둔화에도 금리 인하가 어려워질 수 있다. 비트코인에는 성장 둔화와 긴축 우려가 동시에 작용하는 구간이다.",
+      "missed_point": "이란의 긍정적 발언과 실제 합의는 다르다. 원유 선물 가격뿐 아니라 현물 공급, 선박 운항, 보험 비용이 정상화되는지 확인해야 지정학 프리미엄이 빠졌다고 볼 수 있다.",
+      "follow_up": [
+        "브렌트·WTI 가격",
+        "호르무즈 통항 데이터",
+        "미국 기대 인플레이션"
+      ],
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/2f4f2638cb8430bb7c8e5d59a7b50731"
+        },
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/home"
+        }
+      ],
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": false,
+        "official_source": false,
+        "notes": "AP 시장 기사와 실시간 유가 속보 교차 확인"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "market_reaction"
+    },
+    {
+      "stable_id": "2026-08-03-us-japan-yen-intervention",
+      "published_at": "2026-08-03T01:50:55Z",
+      "published_at_kst": "2026-08-03 10:50 KST",
+      "kst": "2026-08-03 10:50 KST",
+      "source_time": "2026-08-03T01:50:55Z",
+      "title": "미국·일본 엔화 시장 공동 개입 공식 확인",
+      "summary": "미국 대통령과 일본 재무당국은 양국이 외환시장에 개입했다고 확인했다. 달러·엔 환율은 개입 전 163엔을 웃돌다가 발표 뒤 155엔대까지 급락하며 엔화가 강해졌다. 약한 엔이 일본의 수입물가와 생활비를 밀어 올린 상황에서 공동 개입은 환율 불안을 완화하려는 강한 정책 신호로 해석된다.",
+      "importance": 5,
+      "tone": "warn",
+      "impact": "양방향",
+      "status": "cross_verified",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "엔화 급등은 엔 캐리 거래 청산을 유발해 글로벌 위험자산과 비트코인에 단기 변동성을 높일 수 있다. 동시에 달러 약세는 비트코인 가격에 우호적일 수 있다. 어느 효과가 우세한지는 레버리지 청산 규모와 미국채 금리 움직임에 달려 있다."
+      },
+      "why_it_matters": "미국이 엔화 방어에 함께 나선 것은 드문 사건이며 외환 정책 공조의 강도를 보여준다. 환율 급변은 일본계 자금의 해외자산 포지션과 글로벌 달러 유동성에 영향을 준다. 비트코인도 24시간 거래되는 고변동 자산이라 청산 충격에 먼저 반응할 수 있다.",
+      "missed_point": "환율이 단숨에 내려갔다고 구조적인 엔 약세가 끝난 것은 아니다. 미·일 금리차가 유지되면 개입 효과가 약해질 수 있으므로 후속 개입과 일본은행 정책을 함께 봐야 한다.",
+      "follow_up": [
+        "USD/JPY 재상승 여부",
+        "미국 재무부·일본 재무성 추가 발표",
+        "엔 캐리 청산과 암호화폐 선물 미결제약정"
+      ],
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/7316599afed35629a27ae23a35f569fd"
+        },
+        {
+          "name": "Bank of Japan",
+          "url": "https://www.boj.or.jp/en/"
+        }
+      ],
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "official_source": true,
+        "notes": "AP 보도와 일본은행 공식 자료 확인"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "fx_intervention"
+    },
+    {
+      "stable_id": "2026-07-30-warsh-hawkish-press-conference",
+      "published_at": "2026-07-29T18:30:00Z",
+      "published_at_kst": "2026-07-30 03:30 KST",
+      "kst": "2026-07-30 03:30 KST",
+      "source_time": "2026-07-29T18:30:00Z",
+      "title": "워시 연준 의장, 동결 뒤 물가 대응 의지 재강조",
+      "summary": "케빈 워시 연준 의장은 금리 동결 직후 기자회견에서 물가를 2% 목표로 되돌리겠다는 의지를 거듭 강조했다. 이번 동결을 완화 전환으로 해석하지 않았으며, 높은 에너지 가격과 지속적인 인플레이션 압력을 경계했다. 위원 3명이 25bp 인상을 주장한 상황과 맞물리며 시장에는 향후 인상 가능성을 남긴 매파적 신호로 받아들여졌다.",
+      "importance": 5,
+      "tone": "down",
+      "impact": "악재",
+      "status": "cross_verified",
+      "btc_impact": {
+        "direction": "악재",
+        "assessment": "기자회견의 매파적 메시지는 동결 직후 나타난 위험자산 반등을 되돌릴 수 있다. 금리 인상 가능성이 유지되면 달러와 실질금리가 높아져 비트코인의 유동성 환경이 악화된다. 향후 물가와 유가가 진정돼야 이 신호가 약해질 수 있다."
+      },
+      "why_it_matters": "정책금리 숫자보다 향후 경로를 결정하는 의장의 발언이 시장 가격에 더 큰 영향을 줄 수 있다. 세 명의 인상 소수의견은 위원회 내부의 물가 우려가 상당함을 보여준다. 따라서 동결은 호재가 아니라 양방향 결정이고, 기자회견은 별도의 악재로 분리해야 한다.",
+      "missed_point": "동결과 기자회견을 하나의 호재 기사로 합치면 정책 신호를 왜곡한다. 동결 직후의 안도 랠리와 이후 매파 발언에 따른 되돌림을 시간순으로 분리해 봐야 한다.",
+      "follow_up": [
+        "연준 인사 후속 발언",
+        "연방기금 선물 인상 확률",
+        "에너지 가격과 미국 CPI"
+      ],
+      "sources": [
+        {
+          "name": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/newsevents.htm?source=news_body_link"
+        },
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/ad10c177cb8d96f9e3ed122e12352a74"
+        }
+      ],
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "official_source": true,
+        "notes": "연준 기자회견 자료와 AP 보도 대조"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "central_bank_guidance"
+    },
+    {
+      "stable_id": "2026-07-30-fomc-hold-three-dissents",
+      "published_at": "2026-07-29T18:00:00Z",
+      "published_at_kst": "2026-07-30 03:00 KST",
+      "kst": "2026-07-30 03:00 KST",
+      "source_time": "2026-07-29T18:00:00Z",
+      "title": "연준, 기준금리 동결…3명은 25bp 인상 주장",
+      "summary": "미 연방공개시장위원회는 기준금리 목표 범위를 3.50~3.75%로 유지했다. 경제 활동은 견조하지만 중동 갈등과 에너지 공급 충격으로 물가가 2% 목표를 웃돈다고 평가했다. 해맥·카시카리·로건 위원은 25bp 인상을 선호해 반대표를 던졌으며, 예상보다 큰 내부 이견이 확인됐다.",
+      "importance": 5,
+      "tone": "warn",
+      "impact": "양방향",
+      "status": "cross_verified",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "금리 동결 자체는 즉각적인 긴축을 피했다는 점에서 단기 안도 요인이다. 그러나 세 명의 인상 소수의견과 높은 인플레이션 평가는 다음 회의 인상 가능성을 남긴다. 비트코인은 발표 직후 반등과 기자회견 이후의 금리 재평가를 나눠서 봐야 한다."
+      },
+      "why_it_matters": "시장 일부는 유가 상승 때문에 25bp 인상 가능성을 반영하고 있었다. 동결은 최악의 즉시 긴축을 피했지만, 연준 내부 분열은 정책 경로의 불확실성을 높인다. 향후 고용 둔화와 물가 상승 중 어느 쪽이 더 강한지가 비트코인 방향을 결정한다.",
+      "missed_point": "동결을 곧바로 완화로 해석하면 안 된다. 세 명의 인상 반대표는 금리 인하 논의가 아니라 추가 인상 논의가 살아 있음을 보여주며, 기자회견 메시지를 별도로 확인해야 한다.",
+      "follow_up": [
+        "8월 19일 공개될 FOMC 의사록",
+        "미국 CPI와 고용지표",
+        "연준 위원들의 인상 지지 변화"
+      ],
+      "sources": [
+        {
+          "name": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
+        },
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/ad10c177cb8d96f9e3ed122e12352a74"
+        }
+      ],
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "official_source": true,
+        "notes": "연준 성명 원문과 AP 보도 교차 확인"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "rate_decision"
+    },
+    {
+      "stable_id": "2026-07-27-hormuz-talks-continue",
+      "published_at": "2026-07-27T07:57:00Z",
+      "published_at_kst": "2026-07-27 16:57 KST",
+      "kst": "2026-07-27 16:57 KST",
+      "source_time": "2026-07-27T07:57:00Z",
+      "title": "이란 “호르무즈 상태 변함없어”…오만 기술협상 계속",
+      "summary": "이란은 호르무즈 해협의 통항 상태가 아직 바뀌지 않았다고 밝히면서도 오만과의 기술협상 및 미국과의 핵 관련 외교 접촉이 이어지고 있다고 설명했다. 이는 즉시 재개방 합의가 성립했다는 의미는 아니지만, 군사 충돌보다 협상 경로가 유지되고 있음을 보여준다. 시장은 후속 합의 가능성과 결렬 위험을 동시에 반영했다.",
+      "importance": 4,
+      "tone": "warn",
+      "impact": "양방향",
+      "status": "cross_verified",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "협상 지속은 지정학적 위험 프리미엄을 낮출 가능성이 있어 비트코인에 우호적이다. 반면 실제 통항 정상화가 확인되지 않아 유가와 인플레이션 위험은 남아 있다. 헤드라인보다 선박 흐름과 공식 합의가 확인될 때까지 양방향 변수로 봐야 한다."
+      },
+      "why_it_matters": "호르무즈 해협의 상태는 유가와 글로벌 물가 기대에 직접 영향을 준다. 연준이 에너지발 물가를 경계하는 상황에서 협상 진전은 금리 인상 우려를 낮출 수 있다. 반대로 지연이 길어지면 위험자산의 변동성이 다시 커질 수 있다.",
+      "missed_point": "‘협상 진행’과 ‘해협 재개방’은 전혀 다른 단계다. 기술협상, 정치적 합의, 실제 선박 통항이라는 세 단계를 분리해 확인해야 같은 뉴스를 중복으로 올리지 않으면서 후속 변화도 놓치지 않는다.",
+      "follow_up": [
+        "오만 중재 결과",
+        "미국·이란 공식 성명",
+        "선박 위치와 원유 운송량"
+      ],
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/53179dc1c0148c5afeb47379b8f5b5c5"
+        },
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/home"
+        }
+      ],
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": false,
+        "official_source": false,
+        "notes": "AP 후속 시장 보도와 FinancialJuice 속보 흐름 확인"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "geopolitics"
+    }
+  ]
 }
