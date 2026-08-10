@@ -383,11 +383,11 @@ def candidate_score(item):
 
 
 def enrich(items):
-    token = os.getenv("GEMINI_API_KEY", "").strip()
+    token = os.getenv("GROQ_API_KEY", "").strip()
     if not items:
         return []
     if not token:
-        raise RuntimeError("GEMINI_API_KEY is unavailable; verified candidates remain queued")
+        raise RuntimeError("GROQ_API_KEY is unavailable; verified candidates remain queued")
     prompt = """당신은 비트코인 거시경제 뉴스 편집자다. 제공된 헤드라인·기사 스니펫·출처만 사용하고 추측하지 않는다.
 각 항목을 한국어로 자세히 분석한다. 정보가 부족하거나 단순 가격 시황이면 results에서 제외한다.
 title은 출처명·'[검증 중]'·불필요한 인용문을 빼고 핵심 사실만 한국어 55자 이내로 작성한다.
@@ -417,7 +417,7 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
 날짜·수량·방식 중 핵심 조건이 공식 출처에서 확인되지 않거나 커뮤니티 투표·제안 단계라면 반환하지 않는다.
 출처에 없는 숫자나 사실을 만들지 않는다."""
     patches = {}
-    models = ("gemini-3.5-flash-lite", "gemini-3.6-flash")
+    models = ("qwen/qwen3.6-27b",)
     for start in range(0, len(items), 3):
         batch = items[start:start + 3]
         completed = False
@@ -425,26 +425,27 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
         for model in models:
             try:
                 response = requests.post(
-                    f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                    "https://api.groq.com/openai/v1/chat/completions",
                     headers={
-                        "x-goog-api-key": token,
+                        "Authorization": f"Bearer {token}",
                         "Content-Type": "application/json",
                     },
                     json={
-                        "contents": [{"role": "user", "parts": [{"text":
-                            prompt + "\n\n검토할 후보 JSON:\n" +
-                            json.dumps(batch, ensure_ascii=False)}]}],
-                        "generationConfig": {
-                            "temperature": 0.2,
-                            "responseMimeType": "application/json",
-                        },
+                        "model": model,
+                        "temperature": 0.2,
+                        "response_format": {"type": "json_object"},
+                        "messages": [
+                            {"role": "system", "content": prompt},
+                            {"role": "user", "content":
+                                json.dumps(batch, ensure_ascii=False)},
+                        ],
                     },
                     timeout=90)
                 if response.status_code >= 400:
                     detail = response.text.replace("\n", " ")[:240]
                     print(f"::warning::Model {model} HTTP {response.status_code}: {detail}")
                 response.raise_for_status()
-                content = response.json()["candidates"][0]["content"]["parts"][0]["text"]
+                content = response.json()["choices"][0]["message"]["content"]
                 results = json.loads(content).get("results", [])
                 patches.update({x["stable_id"]: x for x in results})
                 print(f"Enriched batch {start // 3 + 1} with {model}: {len(results)}/{len(batch)} publishable")
