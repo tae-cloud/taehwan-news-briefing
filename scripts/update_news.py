@@ -433,7 +433,6 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
                     json={
                         "model": model,
                         "temperature": 0.2,
-                        "response_format": {"type": "json_object"},
                         "messages": [
                             {"role": "system", "content": prompt},
                             {"role": "user", "content":
@@ -446,7 +445,10 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
                     print(f"::warning::Model {model} HTTP {response.status_code}: {detail}")
                 response.raise_for_status()
                 content = response.json()["choices"][0]["message"]["content"]
-                results = json.loads(content).get("results", [])
+                match = re.search(r"\{.*\}", content, re.DOTALL)
+                if not match:
+                    raise ValueError("model response did not contain a JSON object")
+                results = json.loads(match.group(0)).get("results", [])
                 patches.update({x["stable_id"]: x for x in results})
                 print(f"Enriched batch {start // 3 + 1} with {model}: {len(results)}/{len(batch)} publishable")
                 completed = True
