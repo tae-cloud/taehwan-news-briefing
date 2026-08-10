@@ -12,7 +12,6 @@ on:
 
 permissions:
   contents: write
-  models: read
   pages: write
   id-token: write
 
@@ -37,7 +36,7 @@ jobs:
       - name: Collect, cross-check, and classify news
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           NEWS_LOOKBACK_DAYS: ${{ inputs.lookback_days || '1' }}
         run: python scripts/update_news.py
       - name: Commit verified updates
