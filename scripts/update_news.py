@@ -383,11 +383,11 @@ def candidate_score(item):
 
 
 def enrich(items):
-    token = os.getenv("GITHUB_TOKEN", "").strip()
+    token = os.getenv("OPENAI_API_KEY", "").strip()
     if not items:
         return []
     if not token:
-        raise RuntimeError("GITHUB_TOKEN is unavailable")
+        raise RuntimeError("OPENAI_API_KEY is unavailable; verified candidates remain queued")
     prompt = """당신은 비트코인 거시경제 뉴스 편집자다. 제공된 헤드라인·기사 스니펫·출처만 사용하고 추측하지 않는다.
 각 항목을 한국어로 자세히 분석한다. 정보가 부족하거나 단순 가격 시황이면 results에서 제외한다.
 title은 출처명·'[검증 중]'·불필요한 인용문을 빼고 핵심 사실만 한국어 55자 이내로 작성한다.
@@ -417,7 +417,7 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
 날짜·수량·방식 중 핵심 조건이 공식 출처에서 확인되지 않거나 커뮤니티 투표·제안 단계라면 반환하지 않는다.
 출처에 없는 숫자나 사실을 만들지 않는다."""
     patches = {}
-    models = ("openai/gpt-4o-mini", "openai/gpt-4.1")
+    models = ("gpt-4o-mini",)
     for start in range(0, len(items), 3):
         batch = items[start:start + 3]
         completed = False
@@ -425,12 +425,10 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
         for model in models:
             try:
                 response = requests.post(
-                    "https://models.github.ai/inference/chat/completions",
+                    "https://api.openai.com/v1/chat/completions",
                     headers={
                         "Authorization": f"Bearer {token}",
                         "Content-Type": "application/json",
-                        "Accept": "application/vnd.github+json",
-                        "X-GitHub-Api-Version": "2026-03-10",
                     },
                     json={"model": model, "temperature": 0.2,
                           "response_format": {"type": "json_object"},
@@ -480,148 +478,6 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
     return enriched
 
 
-def translate_ko(text):
-    text = clean_html(str(text or "")).strip()
-    if not text or re.search(r"[가-힣]", text):
-        return text
-    try:
-        response = requests.get(
-            "https://translate.googleapis.com/translate_a/single",
-            params={"client": "gtx", "sl": "auto", "tl": "ko", "dt": "t", "q": text[:1800]},
-            timeout=20)
-        response.raise_for_status()
-        return "".join(part[0] for part in response.json()[0] if part and part[0]).strip()
-    except Exception as exc:
-        print(f"::warning::Translation fallback failed: {type(exc).__name__}")
-        return ""
-
-
-def fallback_enrich(items):
-    published = []
-    blocked_names = ("telegram", "saveticker", "youtube", "새벽에온주호")
-    official_names = ("federal reserve", "sec", "cftc", "strategy sec", "white house",
-                      "bank of japan", "treasury", "ministry")
-    negative_terms = ("sell", "sold", "attack", "strike", "hack", "exploit", "sanction",
-                      "rate hike", "inflation", "war", "blockade", "compensation")
-    positive_terms = ("buy", "acquire", "ceasefire", "agreement", "reopen", "rate cut",
-                      "approval", "inflow", "burn")
-    for item in items:
-        source_rows = [
-            source for source in item.get("sources", [])
-            if all(tag not in source.get("name", "").lower() for tag in blocked_names)
-        ]
-        source_names = {source.get("name", "").strip() for source in source_rows if source.get("name")}
-        official = any(any(tag in name.lower() for tag in official_names) for name in source_names)
-        if len(source_names) < 2 and not official:
-            continue
-        evidence = [
-            row for row in item.get("evidence", [])
-            if all(tag not in row.get("source", "").lower() for tag in blocked_names)
-        ]
-        title_ko = translate_ko(item.get("original_title", ""))
-        if not title_ko:
-            continue
-        title_ko = re.sub(r"^(FinancialJuice|Reuters|Bloomberg|AP|CoinDesk)\s*[:：-]\s*", "", title_ko,
-                          flags=re.I).strip()[:55]
-        details = []
-        for row in evidence[:2]:
-            translated = translate_ko(row.get("snippet") or row.get("headline"))
-            if translated:
-                details.append(translated[:320].rstrip(".。 "))
-        if not details:
-            continue
-        joined_sources = "·".join(sorted(source_names)[:3])
-        first = details[0]
-        second = details[1] if len(details) > 1 else "공식 발표와 후속 수치를 추가로 확인해야 한다"
-        summary = (
-            f"{title_ko} 관련 업데이트가 {joined_sources}에서 확인됐다. "
-            f"첫 번째 근거는 {first}이다. "
-            f"두 번째 확인 내용은 {second}이다. "
-            "서로 다른 출처가 같은 핵심 사건을 가리키는 경우에만 공개했으며 단일 속보와 익명 커뮤니티 주장은 제외했다. "
-            "발표 이후 실제 정책 집행, 시장 가격과 후속 공식 자료가 같은 방향을 확인하는지는 계속 점검해야 한다."
-        )
-        lower = (item.get("original_title", "") + " " + " ".join(details)).lower()
-        negative = sum(term in lower for term in negative_terms)
-        positive = sum(term in lower for term in positive_terms)
-        if negative > positive:
-            direction, tone = "악재", "down"
-        elif positive > negative:
-            direction, tone = "호재", "up"
-        else:
-            direction, tone = "양방향", "warn"
-        if any(term in lower for term in ("iran", "hormuz", "oil", "war", "attack", "strike")):
-            assessment = (
-                "지정학적 사건은 유가와 기대 인플레이션을 통해 연준의 금리 경로와 달러에 영향을 준다. "
-                "긴장이 커지면 유가·금리·달러 상승이 비트코인에 부담이 되고, 실제 합의와 통항 정상화가 확인되면 반대 경로가 작동한다. "
-                "발언보다 원유 가격과 선박 통항, 공식 이행 여부를 우선 확인해야 한다."
-            )
-            why = (
-                "호르무즈와 중동 뉴스는 에너지 공급, 물가, 통화정책을 한 번에 움직일 수 있는 핵심 거시 변수다. "
-                "비트코인은 전쟁 헤드라인 자체보다 유가가 연준 기대와 글로벌 유동성을 어떻게 바꾸는지에 민감하다. "
-                "같은 협상 뉴스라도 새로운 조건이나 실제 행동이 추가됐을 때만 별도 업데이트로 처리한다."
-            )
-            event_type = "geopolitics"
-        elif any(term in lower for term in ("federal reserve", "rate", "inflation", "employment", "yield")):
-            assessment = (
-                "금리와 물가 변화는 실질금리와 달러 유동성을 통해 비트코인 가격에 직접 영향을 준다. "
-                "긴축 기대가 강해지면 악재이고 금리 부담이 완화되면 호재지만, 한 개 지표만으로 정책 전환을 확정할 수는 없다. "
-                "국채금리와 달러, 연방기금 선물의 동반 반응을 확인해야 한다."
-            )
-            why = (
-                "연준 정책은 비트코인을 포함한 위험자산의 할인율과 자금조달 환경을 결정한다. "
-                "발표 수치뿐 아니라 이전 값의 수정과 위원들의 후속 발언이 시장 해석을 바꿀 수 있다. "
-                "정책 결정과 기자회견의 신호가 다르면 각각 별도 사건으로 분리한다."
-            )
-            event_type = "macro"
-        else:
-            assessment = (
-                "이 사건은 암호화폐 시장의 수급과 투자심리에 영향을 줄 수 있다. "
-                "확인된 사실이 실제 자금 이동이나 정책 집행으로 이어지면 비트코인 변동성이 커질 수 있지만, 보도만으로 지속 방향을 확정할 수는 없다. "
-                "공식 공시와 온체인·시장 데이터를 함께 확인해야 한다."
-            )
-            why = (
-                "복수 출처가 같은 사건을 확인했다는 점에서 단순 소문보다 신뢰도가 높다. "
-                "다만 시장 영향은 규모, 지속성, 실제 집행 여부에 따라 달라진다. "
-                "특히 기업 재무와 규제 뉴스는 후속 공시가 기존 해석을 뒤집을 수 있어 원문 수치를 계속 대조해야 한다."
-            )
-            event_type = "market"
-        missed = (
-            "헤드라인의 긍정·부정 표현과 실제 시장 영향은 같지 않을 수 있다. "
-            "발언, 계획, 제안과 이미 실행된 정책·거래를 구분해야 하며, 같은 사건을 반복 보도한 기사 수를 독립적인 새 사실로 계산하지 않는다. "
-            "후속 공식 문서에서 날짜와 수량이 바뀌는지도 확인해야 한다."
-        )
-        when = datetime.fromisoformat(item["published_at"].replace("Z", "+00:00"))
-        item.update({
-            "title": title_ko,
-            "summary": summary,
-            "importance": 5 if any(term in lower for term in ("bitcoin", "strategy", "iran", "hormuz", "federal reserve", "hack")) else 4,
-            "tone": tone,
-            "btc_impact": {"direction": direction, "assessment": assessment},
-            "why_it_matters": why,
-            "missed_point": missed,
-            "follow_up": ["공식 발표·공시 원문", "후속 수치와 실제 집행 여부", "유가·금리·달러·비트코인 시장 반응"],
-            "sources": source_rows,
-            "verification": {
-                "state": "cross_verified_automatic",
-                "independent_sources": len(source_names),
-                "financialjuice_only": source_names == {"FinancialJuice"},
-                "rumor_excluded": True,
-                "official_or_onchain": official,
-                "official_source": official,
-                "notes": "복수 독립 출처 또는 공식 자료를 확인한 자동 대체 검증"
-            },
-            "asset_class": "altcoin" if any(term in lower for term in ("ethereum", "solana", "xrp", "bnb", "cardano", "avalanche", "sui", "aptos")) else "bitcoin",
-            "token_symbol": "",
-            "event_type": event_type,
-            "kst": when.astimezone(KST).strftime("%Y-%m-%d %H:%M:%S KST"),
-            "status": "cross_verified_automatic",
-            "impact": direction,
-        })
-        if valid(item):
-            published.append(item)
-    return published
-
-
 def main():
     current = json.loads(FEED_PATH.read_text(encoding="utf-8")) if FEED_PATH.exists() else {"items": []}
     queued = json.loads(QUEUE_PATH.read_text(encoding="utf-8")) if QUEUE_PATH.exists() else {"items": []}
@@ -644,13 +500,7 @@ def main():
         published_ids = {item["stable_id"] for item in published}
         queue_items = [item for item in new if item["stable_id"] not in published_ids][:100]
     except Exception as exc:
-        print(f"::warning::AI enrichment unavailable; using verified deterministic fallback: {type(exc).__name__}")
-        published = fallback_enrich(selected)
-        for item in published:
-            existing[item["stable_id"]] = item
-        published_ids = {item["stable_id"] for item in published}
-        queue_items = [item for item in new if item["stable_id"] not in published_ids][:100]
-        print(f"Fallback published {len(published)} verified items; {len(queue_items)} remain queued")
+        print(f"::warning::Enrichment unavailable; keeping candidates off-site for retry: {type(exc).__name__}")
     output = {"generated_at_kst": datetime.now(KST).isoformat(timespec="seconds"),
               "items": sorted(existing.values(), key=lambda x: x.get("published_at_kst") or x.get("published_at") or x.get("source_time", ""), reverse=True)[:40]}
     queue_output = {"updated_at_kst": datetime.now(KST).isoformat(timespec="seconds"),
