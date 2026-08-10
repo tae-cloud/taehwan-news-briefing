@@ -367,6 +367,21 @@ def valid(item):
             and len(source_rows) >= 1)
 
 
+def candidate_score(item):
+    sources = item.get("sources", [])
+    names = {str(source.get("name", "")).lower() for source in sources}
+    title = item.get("original_title", "").lower()
+    official_tags = ("federal reserve", "sec", "cftc", "strategy sec", "white house", "bank of japan")
+    major_tags = ("reuters", "associated press", "ap", "bloomberg", "coindesk")
+    urgent_terms = ("bitcoin", "strategy", "iran", "hormuz", "federal reserve", "rate", "inflation",
+                    "oil", "tariff", "intervention", "sec", "cftc", "hack", "burn", "unlock")
+    score = len(names) * 12
+    score += 20 if any(any(tag in name for tag in official_tags) for name in names) else 0
+    score += 12 if any(any(tag in name for tag in major_tags) for name in names) else 0
+    score += sum(2 for term in urgent_terms if term in title)
+    return score
+
+
 def enrich(items):
     token = os.getenv("GITHUB_TOKEN", "").strip()
     if not items:
@@ -402,20 +417,39 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
 날짜·수량·방식 중 핵심 조건이 공식 출처에서 확인되지 않거나 커뮤니티 투표·제안 단계라면 반환하지 않는다.
 출처에 없는 숫자나 사실을 만들지 않는다."""
     patches = {}
-    for start in range(0, len(items), 6):
-        batch = items[start:start + 6]
-        response = requests.post(
-            "https://models.github.ai/inference/chat/completions",
-            headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
-            json={"model": "openai/gpt-4.1", "temperature": 0.2,
-                  "response_format": {"type": "json_object"},
-                  "messages": [{"role": "system", "content": prompt},
-                               {"role": "user", "content": json.dumps(batch, ensure_ascii=False)}]},
-            timeout=90)
-        response.raise_for_status()
-        results = json.loads(response.json()["choices"][0]["message"]["content"]).get("results", [])
-        patches.update({x["stable_id"]: x for x in results})
-        print(f"Enriched batch {start // 6 + 1}: {len(results)}/{len(batch)} publishable")
+    models = ("openai/gpt-4o-mini", "openai/gpt-4.1")
+    for start in range(0, len(items), 3):
+        batch = items[start:start + 3]
+        completed = False
+        last_error = None
+        for model in models:
+            try:
+                response = requests.post(
+                    "https://models.github.ai/inference/chat/completions",
+                    headers={
+                        "Authorization": f"Bearer {token}",
+                        "Content-Type": "application/json",
+                        "Accept": "application/vnd.github+json",
+                        "X-GitHub-Api-Version": "2026-03-10",
+                    },
+                    json={"model": model, "temperature": 0.2,
+                          "response_format": {"type": "json_object"},
+                          "messages": [{"role": "system", "content": prompt},
+                                       {"role": "user", "content": json.dumps(batch, ensure_ascii=False)}]},
+                    timeout=90)
+                if response.status_code >= 400:
+                    detail = response.text.replace("\n", " ")[:240]
+                    print(f"::warning::Model {model} HTTP {response.status_code}: {detail}")
+                response.raise_for_status()
+                results = json.loads(response.json()["choices"][0]["message"]["content"]).get("results", [])
+                patches.update({x["stable_id"]: x for x in results})
+                print(f"Enriched batch {start // 3 + 1} with {model}: {len(results)}/{len(batch)} publishable")
+                completed = True
+                break
+            except Exception as exc:
+                last_error = exc
+        if not completed:
+            raise RuntimeError(f"all model retries failed for batch {start // 3 + 1}: {type(last_error).__name__}")
     enriched = []
     for item in items:
         patch = patches.get(item["stable_id"])
@@ -458,13 +492,17 @@ def main():
     new = [x for x in waiting.values()
            if x["stable_id"] not in existing and x["stable_id"] not in SUPPRESSED_DUPLICATES]
     new.sort(key=lambda x: x.get("published_at", ""), reverse=True)
-    queue_items = []
+    selected = sorted(new, key=lambda item: (candidate_score(item), item.get("published_at", "")),
+                      reverse=True)[:9]
+    queue_items = new[:100]
     try:
-        for item in enrich(new[:60]):
+        published = enrich(selected)
+        for item in published:
             existing[item["stable_id"]] = item
+        published_ids = {item["stable_id"] for item in published}
+        queue_items = [item for item in new if item["stable_id"] not in published_ids][:100]
     except Exception as exc:
         print(f"::warning::Enrichment unavailable; keeping candidates off-site for retry: {type(exc).__name__}")
-        queue_items = new[:100]
     output = {"generated_at_kst": datetime.now(KST).isoformat(timespec="seconds"),
               "items": sorted(existing.values(), key=lambda x: x.get("published_at_kst") or x.get("published_at") or x.get("source_time", ""), reverse=True)[:40]}
     queue_output = {"updated_at_kst": datetime.now(KST).isoformat(timespec="seconds"),
