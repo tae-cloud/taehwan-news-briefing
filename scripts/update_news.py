@@ -417,7 +417,7 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
 날짜·수량·방식 중 핵심 조건이 공식 출처에서 확인되지 않거나 커뮤니티 투표·제안 단계라면 반환하지 않는다.
 출처에 없는 숫자나 사실을 만들지 않는다."""
     patches = {}
-    models = ("gemini-3.6-flash",)
+    models = ("gemini-3.5-flash-lite", "gemini-3.6-flash")
     for start in range(0, len(items), 3):
         batch = items[start:start + 3]
         completed = False
