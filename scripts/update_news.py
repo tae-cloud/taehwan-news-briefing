@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import hashlib, json, os, re
+import hashlib, json, os, re, time
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -433,7 +433,7 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
                     json={
                         "model": model,
                         "temperature": 0.2,
-                        "max_completion_tokens": 2500,
+                        "max_completion_tokens": 1400,
                         "messages": [
                             {"role": "system", "content": prompt},
                             {"role": "user", "content":
@@ -459,6 +459,8 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
                 last_error = exc
         if not completed:
             raise RuntimeError(f"all model retries failed for batch {start // 3 + 1}: {type(last_error).__name__}: {str(last_error)[:180]}")
+        if start + 1 < len(items):
+            time.sleep(31)
     enriched = []
     for item in items:
         patch = patches.get(item["stable_id"])
