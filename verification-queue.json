@@ -1,6 +1,866 @@
 {
-  "updated_at_kst": "2026-08-11T20:10:31+09:00",
+  "updated_at_kst": "2026-08-11T23:45:23+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-11-82fea591a8a7",
+      "original_title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
+      "published_at": "2026-08-11T14:39:12Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-b80a187cb4ca",
+      "original_title": "FinancialJuice: Atlanta Fed's Venable: Fed's inflation and jobs goals face nuanced risks",
+      "published_at": "2026-08-11T14:38:58Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Atlanta Fed's Venable: Fed's inflation and jobs goals face nuanced risks",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716548/Atlanta-Feds-Venable-Feds-inflation-and-jobs-goals-face-nuanced-risks.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716548/Atlanta-Feds-Venable-Feds-inflation-and-jobs-goals-face-nuanced-risks.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-88c9b8e9465c",
+      "original_title": "FinancialJuice: Atlanta Fed's Venable: Understanding of maximum employment influenced by stagnant labor supply, an unusual circumstance for the US",
+      "published_at": "2026-08-11T14:38:22Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Atlanta Fed's Venable: Understanding of maximum employment influenced by stagnant labor supply, an unusual circumstance for the US",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716547/Atlanta-Feds-Venable-Understanding-of-maximum-employment-influenced-by-stagnant-labor-supply-an-unusual-circumstance-for-the-US.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716547/Atlanta-Feds-Venable-Understanding-of-maximum-employment-influenced-by-stagnant-labor-supply-an-unusual-circumstance-for-the-US.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-80361cfcc30b",
+      "original_title": "FinancialJuice: Fed's Venable: Central question is whether price pressures will recede in coming months, with much depending on the outcome of the Middle East conflict.",
+      "published_at": "2026-08-11T14:36:58Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Fed's Venable: Central question is whether price pressures will recede in coming months, with much depending on the outcome of the Middle East conflict.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716545/Feds-Venable-Central-question-is-whether-price-pressures-will-recede-in-coming-months-with-much-depending-on-the-outcome-of-the-Middle-East-conflict.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716545/Feds-Venable-Central-question-is-whether-price-pressures-will-recede-in-coming-months-with-much-depending-on-the-outcome-of-the-Middle-East-conflict.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-076f75e7cf96",
+      "original_title": "FinancialJuice: Atlanta Fed's Venable: Inflation is too high, with the same message heard from contacts across the southeast",
+      "published_at": "2026-08-11T14:35:25Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Atlanta Fed's Venable: Inflation is too high, with the same message heard from contacts across the southeast",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716544/Atlanta-Feds-Venable-Inflation-is-too-high-with-the-same-message-heard-from-contacts-across-the-southeast.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716544/Atlanta-Feds-Venable-Inflation-is-too-high-with-the-same-message-heard-from-contacts-across-the-southeast.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-6e65a3f62bcb",
+      "original_title": "FinancialJuice: Pakistani Minister of Interior met with Iran’s Foreign Minister Araghchi",
+      "published_at": "2026-08-11T14:22:54Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Pakistani Minister of Interior met with Iran’s Foreign Minister Araghchi",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716537/Pakistani-Minister-of-Interior-met-with-Irans-Foreign-Minister-Araghchi---IRNA.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716537/Pakistani-Minister-of-Interior-met-with-Irans-Foreign-Minister-Araghchi---IRNA.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-ef9268834001",
+      "original_title": "FinancialJuice: Crypto Fear & Greed Index: 29/100",
+      "published_at": "2026-08-11T14:20:05Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Crypto Fear & Greed Index: 29/100",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716535/Crypto-Fear--Greed-Index-29100---Fear.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716535/Crypto-Fear--Greed-Index-29100---Fear.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-86fac4a3cd07",
+      "original_title": "FinancialJuice: Trump: The US has no shortage of missile munitions. We can hit Iran very hard",
+      "published_at": "2026-08-11T14:19:18Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Trump: The US has no shortage of missile munitions. We can hit Iran very hard",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716534/Trump-The-US-has-no-shortage-of-missile-munitions-We-can-hit-Iran-very-hard---Voice-of-America-Interview.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716534/Trump-The-US-has-no-shortage-of-missile-munitions-We-can-hit-Iran-very-hard---Voice-of-America-Interview.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-f134987f7c17",
+      "original_title": "FinancialJuice: Trump: We control Iran's money and have complete control over it",
+      "published_at": "2026-08-11T14:18:29Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Trump: We control Iran's money and have complete control over it",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716533/Trump-We-control-Irans-money-and-have-complete-control-over-it---Voice-of-America-Interview.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716533/Trump-We-control-Irans-money-and-have-complete-control-over-it---Voice-of-America-Interview.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-b1ef5c63e48f",
+      "original_title": "FinancialJuice: Russia sees Syria bases deal securing hub for Africa operations.",
+      "published_at": "2026-08-11T14:01:17Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Russia sees Syria bases deal securing hub for Africa operations.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716485/Russia-sees-Syria-bases-deal-securing-hub-for-Africa-operations.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716485/Russia-sees-Syria-bases-deal-securing-hub-for-Africa-operations.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-55e8639f6af4",
+      "original_title": "Trump Hardens Stance on Iran, Clouding Hopes for Hormuz Deal",
+      "published_at": "2026-08-11T13:40:42Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Trump Hardens Stance on Iran, Clouding Hopes for Hormuz Deal",
+          "source": "Bloomberg.com",
+          "snippet": "Trump Hardens Stance on Iran, Clouding Hopes for Hormuz Deal &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmsyTjBsWW1pUjQyVzZGZ1cxYlkxR09TdkZxckh1MV9EbzJIUWpfQ1hUUENCenZKdU1LYnRXekZ1eXNCYzBOX0h2ZC0wYlE5TU1mQWMzeS02LVctUzBFQV8ydFJMcXV1RjZncGJQb2xsdlZYakVVWnIwWm80bWl6WEMxd2JIdFV4QkZTdUlEZ29sVWRBWmlqWmdRMmI0clZCOE9ZVDVn?oc=5"
+        },
+        {
+          "headline": "Trump Hardens Stance on Iran, Clouding Hopes for Hormuz Deal",
+          "source": "gCaptain",
+          "snippet": "Trump Hardens Stance on Iran, Clouding Hopes for Hormuz Deal &nbsp;&nbsp; gCaptain",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhZSmRrSDh5Y0JPdWIxYVBJaTU1SDFGb2xaZlNXa1lWMTNtM1FlZEo5Zjc1RF91MGRpWXJYeGxmem5wVUs0anBlZWlROG9ELXZ6VmpfTDJ6b0JrREhralBjWWNaQWNXV3pOWFE3M0x0dEVaY3VZYVlJQkMxWllwOFVhNjR6ZDVY?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmsyTjBsWW1pUjQyVzZGZ1cxYlkxR09TdkZxckh1MV9EbzJIUWpfQ1hUUENCenZKdU1LYnRXekZ1eXNCYzBOX0h2ZC0wYlE5TU1mQWMzeS02LVctUzBFQV8ydFJMcXV1RjZncGJQb2xsdlZYakVVWnIwWm80bWl6WEMxd2JIdFV4QkZTdUlEZ29sVWRBWmlqWmdRMmI0clZCOE9ZVDVn?oc=5"
+        },
+        {
+          "name": "gCaptain",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDhZSmRrSDh5Y0JPdWIxYVBJaTU1SDFGb2xaZlNXa1lWMTNtM1FlZEo5Zjc1RF91MGRpWXJYeGxmem5wVUs0anBlZWlROG9ELXZ6VmpfTDJ6b0JrREhralBjWWNaQWNXV3pOWFE3M0x0dEVaY3VZYVlJQkMxWllwOFVhNjR6ZDVY?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-d164bcf7f52b",
+      "original_title": "트럼프 대통령, \"워싱턴 DC 범죄율 78% 폭락… 관세 정책으로 美 경제 역대급 호황\" [공부의여신 네트워크] 도널드 J. 트럼프 대통령이 인터뷰를 통해 집권 2기 주요 국정 성과와 중간선거 전략, 외교·안보 현안에 대한 입장을 명확히 밝혔다. 워싱턴 DC 치안 회복 및 국경 안보 성과 강조 트럼프 대통령은 워싱턴 DC에 주방위군을 투입한 이후 치안이 획기적으로 개선되었고 강조했다. 일부 ",
+      "published_at": "2026-08-11T13:27:14Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프 대통령, \"워싱턴 DC 범죄율 78% 폭락… 관세 정책으로 美 경제 역대급 호황\" [공부의여신 네트워크] 도널드 J. 트럼프 대통령이 인터뷰를 통해 집권 2기 주요 국정 성과와 중간선거 전략, 외교·안보 현안에 대한 입장을 명확히 밝혔다. 워싱턴 DC 치안 회복 및 국경 안보 성과 강조 트럼프 대통령은 워싱턴 DC에 주방위군을 투입한 이후 치안이 획기적으로 개선되었고 강조했다. 일부 ",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프 대통령, \"워싱턴 DC 범죄율 78% 폭락… 관세 정책으로 美 경제 역대급 호황\" [공부의여신 네트워크] 도널드 J. 트럼프 대통령이 인터뷰를 통해 집권 2기 주요 국정 성과와 중간선거 전략, 외교·안보 현안에 대한 입장을 명확히 밝혔다. 워싱턴 DC 치안 회복 및 국경 안보 성과 강조 트럼프 대통령은 워싱턴 DC에 주방위군을 투입한 이후 치안이 획기적으로 개선되었고 강조했다. 일부 진보 단체의 비판에 대해 \"전국에서 가장 위험했던 도시 중 하나였던 워싱턴 DC가 가장 안전한 도시로 탈바꿈했으며, 범죄율이 78% 이상 감소했다\"고 반박했다. 또한 상습 범죄자 및 강력범 등 5,000여 명의 위험 인물을 거리에 배제하고 공원과 분수대 등 도시 인프라를 전면 정비했다고 밝혔다. 남부 국경 안보와 관련해서는 \"지난 15개월 동안 단 한 명의 불법 체류자도 남부 국경을 통과하지 못했다\"며 강도 높은 국경 봉쇄 성과를 재확인했다. 관세 정책과 제조업 부흥… \"19.2조 달러 투자 유치\" 경제 성과에 대해서는 강력한 관세 정책이 미국 내 제조업 부흥을 이끌고 있다고 평가했다. 트럼프 대통령은 \"자동차를 미국에 판매하려면 미국 내에 공장을 건설해야 한다\"며 25% 관세 부과 정책의 정당성을 주장했다. 도요타가 텍사스에 세계 최대 규모의 공장을 건설하기로 결정한 사례 등을 언급하며, 지난 12개월 동안 19조 2천억 달러 규모의 투자를 유치했다고 설명했다. 아울러 미국 출생 시민을 위한 일자리가 170만 개 증가하고, 기업 이익이 전년 대비 40% 증가하는 등 역대급 경제 성장을 기록 중이라고 덧붙였다. 중간선거 승리 전략 및 선거 제도 개혁 촉구 다가오는 중간선거와 관련해 트럼프 대통령은 상원에 '미국 구하기 법안(Save America Act)'의 신속한 통과를 촉구했다. 사진 포함 유권자 ID 확인 및 시민권 증명 의무화를 핵심으로 하는 선거제도 개혁이 필요하다고 강조하며, 우편 투표의 부정 가능성을 지속적으로 제기했다. 외교·안보 및 보건 정책 구상 - 이란 및 우크라이나 문제: 이란의 핵무기 보유는 절대 용납할 수 없다는 점을 분명히 하며, 경제적 압박과 전술적 대응을 병행하고 있다고 밝혔다. 우크라이나 지원과 관련해서는 미국이 직접 지원하는 대신 유럽연합(EU)에 군수물자를 정가로 판매하고 있음을 강조했다. - 아동 백신 정책: 아동 백신 접종 방식에 대해 \"한번에 과도한 양을 접종하는 것은 문제\"라며 접종 일정을 4~5회로 분산하고 MMR 백신 등을 분리 접종하는 방안을 제안했다. 트럼프 대통령은 \"우리의 정책과 실적만으로도 중간선거에서 압도적으로 승리해야 한다\"며 공화당의 결집과 선거제도 완비를 재차 당부했다.",
+          "url": "https://t.me/goddessTTF/82147"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/82147"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-b9864e4dbcfe",
+      "original_title": "FinancialJuice: BofA: Consensus forecasts for 3Q26 and 4Q26 suggest the S&P 500 will grow >20% YoY for four consecutive quarters - this has only happened 10 times since 1936, with most recent booms of this magnitude foll",
+      "published_at": "2026-08-11T13:13:53Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BofA: Consensus forecasts for 3Q26 and 4Q26 suggest the S&P 500 will grow >20% YoY for four consecutive quarters - this has only happened 10 times since 1936, with most recent booms of this magnitude foll",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716421/BofA-Consensus-forecasts-for-3Q26-and-4Q26-suggest-the-SP-500-will-grow-20-YoY-for-four-consecutive-quarters---this-has-only-happened-10-times-since-1936-with-most-recent-booms-of-this-magnitude-following-EPS-recessions-eg-COVID-GFC.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716421/BofA-Consensus-forecasts-for-3Q26-and-4Q26-suggest-the-SP-500-will-grow-20-YoY-for-four-consecutive-quarters---this-has-only-happened-10-times-since-1936-with-most-recent-booms-of-this-magnitude-following-EPS-recessions-eg-COVID-GFC.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-7c7812d895e6",
+      "original_title": "Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
+      "published_at": "2026-08-11T13:06:07Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-80dd1319c3ec",
+      "original_title": "파키스탄 국방장관은 미국과 이란이 호르무즈 해협 문제에 대해 \"어떤 형태의 합의에 근접했다\"고 말했습니다. 한편, 카타르는 오만과 이란 간의 호르무즈 관련 협상이 상당히 진전된 단계에 있다고 밝혔습니다. - 블룸버그/알자지라",
+      "published_at": "2026-08-11T13:06:07Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "파키스탄 국방장관은 미국과 이란이 호르무즈 해협 문제에 대해 \"어떤 형태의 합의에 근접했다\"고 말했습니다. 한편, 카타르는 오만과 이란 간의 호르무즈 관련 협상이 상당히 진전된 단계에 있다고 밝혔습니다. - 블룸버그/알자지라",
+          "source": "Telegram @goddessTTF",
+          "snippet": "파키스탄 국방장관은 미국과 이란이 호르무즈 해협 문제에 대해 \"어떤 형태의 합의에 근접했다\"고 말했습니다. 한편, 카타르는 오만과 이란 간의 호르무즈 관련 협상이 상당히 진전된 단계에 있다고 밝혔습니다. - 블룸버그/알자지라",
+          "url": "https://t.me/goddessTTF/82146"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/82146"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-74100ad8e4b1",
+      "original_title": "미군, 이란 봉쇄를 뚫으려던 파나마 선박에 발포 - WSJ 미군 헬리콥터가 \"벨라 노바\"호의 방향타에 발포했으며, 이는 선박 승무원이 경고를 무시한 데 따른 조치였다. 해상 보안 업체인 뱅가드(Vanguard)는 미사일 공격으로 인해 화재가 발생했다고 보고했다.",
+      "published_at": "2026-08-11T13:05:23Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "미군, 이란 봉쇄를 뚫으려던 파나마 선박에 발포 - WSJ 미군 헬리콥터가 \"벨라 노바\"호의 방향타에 발포했으며, 이는 선박 승무원이 경고를 무시한 데 따른 조치였다. 해상 보안 업체인 뱅가드(Vanguard)는 미사일 공격으로 인해 화재가 발생했다고 보고했다.",
+          "source": "Telegram @goddessTTF",
+          "snippet": "미군, 이란 봉쇄를 뚫으려던 파나마 선박에 발포 - WSJ 미군 헬리콥터가 \"벨라 노바\"호의 방향타에 발포했으며, 이는 선박 승무원이 경고를 무시한 데 따른 조치였다. 해상 보안 업체인 뱅가드(Vanguard)는 미사일 공격으로 인해 화재가 발생했다고 보고했다.",
+          "url": "https://t.me/goddessTTF/82145"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/82145"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-b89c642e6c20",
+      "original_title": "FinancialJuice: Natixis on Upcoming US CPI",
+      "published_at": "2026-08-11T13:04:13Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Natixis on Upcoming US CPI",
+          "source": "FinancialJuice",
+          "snippet": "We think inflation data from the July CPI report should look less like a turning point and more like another incremental step in an ongoing normalization process. The exceptionally soft June report was unlikely to mark the beginning of a new trend, just as one firmer reading in July would not represent a renewed inflation problem. Instead, the underlying pace of core inflation appears to be settling into a range that is increasingly consistent with progress towards the Fed’s target. For policymakers, the July report is unlikely to materially alter the broader narrative. A core reading near our forecast would reinforce the view that inflation continues to move in the right direction, albeit gradually. The Fed is unlikely to react to any single month's data (and August’s print is due before the next Fed meeting), another report consistent with ongoing normalization would add to the cumulative evidence that underlying inflation pressures continue to ease. In short, July looks like another report that demonstrates progress without declaring victory. Inflation continues to improve, but the remaining sources of pressure are concentrated in categories that historically adjust only slowly. That suggests the path back to 2% remains intact, even if the final steps are likely to require patience.",
+          "url": "https://www.financialjuice.com/News/9716420/Natixis-on-Upcoming-US-CPI---FJElite.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716420/Natixis-on-Upcoming-US-CPI---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-5455a337ec87",
+      "original_title": "FinancialJuice: ECB settled €1,678.8 bln public-sector bond purchases.",
+      "published_at": "2026-08-11T13:00:33Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: ECB settled €1,678.8 bln public-sector bond purchases.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716397/ECB-settled-16788-bln-public-sector-bond-purchases.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716397/ECB-settled-16788-bln-public-sector-bond-purchases.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-68ae6d92c9f7",
+      "original_title": "FinancialJuice: Goldman Sachs Review of Market Reaction to FOMC",
+      "published_at": "2026-08-11T12:55:15Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Goldman Sachs Review of Market Reaction to FOMC",
+          "source": "FinancialJuice",
+          "snippet": "We find that, under Chair Powell, FX volatility shifted from the FOMC statement to the press conference. Compared with the Bernanke and Yellen eras, post-FOMC press conferences under Powell generated higher intraday FX volatility (Exhibit 1). while the statement elicited a more muted market response (Exhibit 2). This is consistent with both our rates strategists’ findings and the broader academic literature, which attribute the recent increase in market volatility around press conferences partly to differences between Chair Powell’s communication style and that of his predecessors. However, macroeconomic conditions and the policy choices they presented—including parameters like new innovations in forward guidance and QE program details released the FOMC statements—likely played an important role, in our view.",
+          "url": "https://www.financialjuice.com/News/9716393/Goldman-Sachs-Review-of-Market-Reaction-to-FOMC---FJElite.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716393/Goldman-Sachs-Review-of-Market-Reaction-to-FOMC---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-d216fb3d7eb1",
+      "original_title": "FinancialJuice: US Sentiment: US & Iran Close to Peace Deal?",
+      "published_at": "2026-08-11T12:48:57Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Sentiment: US & Iran Close to Peace Deal?",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716390/US-Sentiment-US--Iran-Close-to-Peace-Deal---FJElite.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716390/US-Sentiment-US--Iran-Close-to-Peace-Deal---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-82e263795a89",
+      "original_title": "Cleveland Fed's Beth Hammack says multiple rate hikes needed",
+      "published_at": "2026-08-11T12:42:17Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Cleveland Fed's Beth Hammack says multiple rate hikes needed",
+          "source": "qz.com",
+          "snippet": "Cleveland Fed's Beth Hammack says multiple rate hikes needed &nbsp;&nbsp; qz.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTLXlRbGV4RVd6MWU0SXo2R1RhQ2dGUVFlZzlpbTVhbUxtaThFM3NURzJ1VUhGb0d2dkdfU05YdG04UGlheTBQVVY2eF9oY2xFQloxazd4V2l2ZzhRYWRzSERaZHdIbkRPV2l5c2VYWks2UQ?oc=5"
+        },
+        {
+          "headline": "Cleveland Fed's Beth Hammack says multiple rate hikes needed",
+          "source": "Yahoo Finance",
+          "snippet": "Cleveland Fed's Beth Hammack says multiple rate hikes needed &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmNDN2dEejAtOHhsVFRNaUZ5bW9tNXZoMHlKemxiS1ZMTGpEZTJxYlB4MW5sWlVnbk9rZEsyRXJfMzFJcmxodjJCOUcyYjgyVHA2RzJOUzNDaElkWkpJd2dkVm1VUjJmcWlSNnBrb1BkQ0k5bHNKaVBOZVZtUkNkbFpmWXBLOFZxUi1QYUd1WkJJZVhDWUNYZjhoNWVHdw?oc=5"
+        },
+        {
+          "headline": "Cleveland Fed president Hammack says ‘some number’ of rate hikes may be needed",
+          "source": "Crain's Cleveland Business",
+          "snippet": "Cleveland Fed president Hammack says ‘some number’ of rate hikes may be needed &nbsp;&nbsp; Crain's Cleveland Business",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hQ2szeWg0dWczR2thejNsdVgxN0htbFl5Q25WM2gzamRCdVNmaTR0ZnM1UmptS19UUEk5ejgtdGNnQ1h0ZXU3a1BpNTZzNlNVUFZ4VjlOb3NOSUhpa054eEhSX0dQZXZkNnlXSkFZQ1BydWZmVXRJdVB2bWRtYms?oc=5"
+        },
+        {
+          "headline": "Fed’s Hammack Says ‘Some Number’ of Rate Hikes May Be Needed",
+          "source": "Bloomberg.com",
+          "snippet": "Fed’s Hammack Says ‘Some Number’ of Rate Hikes May Be Needed &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEVhVkM1SUhSLUtrbUR6ODh2Mll2bTFMVTY5azl2YnZPZnpjd3Nhemt4N3ktYmU1bVVDb21vYTA0eC1WeG9CM1RCUkJZT2JPc0dUREtGVmhOZTREZHRPUVMzRzhPV2RseDRuOHdFYTNCWU1yR3VvUkNycVptYlJVTTJJa0gwSXVwZ1ZwTWVfV2dIMl9wdzdPT0ZYbmk2MkQwOTJrR0VtX19DRlA4VkE?oc=5"
+        },
+        {
+          "headline": "Hammack Says Multiple Rate Hikes Needed to Combat Broadening Inflation | Cleveland Fed - News and Statistics",
+          "source": "IndexBox",
+          "snippet": "Hammack Says Multiple Rate Hikes Needed to Combat Broadening Inflation | Cleveland Fed - News and Statistics &nbsp;&nbsp; IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPejhXdTJ2OEM1U0tyOUtoSFFuZTk4MmxuejVGazRmRDVCZk5OdllGcjQ3TnBCUkYydkM1RjhFNFUzRTRodkh1YmRxRmJXbEFmMW1VbWRWSEtSbzFTWkZiM1hnUm51OHVGTml3RUl5SWY4WXVORzlCLTliVGx0bDF2ZU5aV2NPcXpLbE42M3RacWlRTnNL?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTLXlRbGV4RVd6MWU0SXo2R1RhQ2dGUVFlZzlpbTVhbUxtaThFM3NURzJ1VUhGb0d2dkdfU05YdG04UGlheTBQVVY2eF9oY2xFQloxazd4V2l2ZzhRYWRzSERaZHdIbkRPV2l5c2VYWks2UQ?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmNDN2dEejAtOHhsVFRNaUZ5bW9tNXZoMHlKemxiS1ZMTGpEZTJxYlB4MW5sWlVnbk9rZEsyRXJfMzFJcmxodjJCOUcyYjgyVHA2RzJOUzNDaElkWkpJd2dkVm1VUjJmcWlSNnBrb1BkQ0k5bHNKaVBOZVZtUkNkbFpmWXBLOFZxUi1QYUd1WkJJZVhDWUNYZjhoNWVHdw?oc=5"
+        },
+        {
+          "name": "Crain's Cleveland Business",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hQ2szeWg0dWczR2thejNsdVgxN0htbFl5Q25WM2gzamRCdVNmaTR0ZnM1UmptS19UUEk5ejgtdGNnQ1h0ZXU3a1BpNTZzNlNVUFZ4VjlOb3NOSUhpa054eEhSX0dQZXZkNnlXSkFZQ1BydWZmVXRJdVB2bWRtYms?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEVhVkM1SUhSLUtrbUR6ODh2Mll2bTFMVTY5azl2YnZPZnpjd3Nhemt4N3ktYmU1bVVDb21vYTA0eC1WeG9CM1RCUkJZT2JPc0dUREtGVmhOZTREZHRPUVMzRzhPV2RseDRuOHdFYTNCWU1yR3VvUkNycVptYlJVTTJJa0gwSXVwZ1ZwTWVfV2dIMl9wdzdPT0ZYbmk2MkQwOTJrR0VtX19DRlA4VkE?oc=5"
+        },
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPejhXdTJ2OEM1U0tyOUtoSFFuZTk4MmxuejVGazRmRDVCZk5OdllGcjQ3TnBCUkYydkM1RjhFNFUzRTRodkh1YmRxRmJXbEFmMW1VbWRWSEtSbzFTWkZiM1hnUm51OHVGTml3RUl5SWY4WXVORzlCLTliVGx0bDF2ZU5aV2NPcXpLbE42M3RacWlRTnNL?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-acd2b8bea789",
+      "original_title": "Will July CPI Reset the Fed, Bitcoin, and Every Major Market?",
+      "published_at": "2026-08-11T12:31:46Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Will July CPI Reset the Fed, Bitcoin, and Every Major Market?",
+          "source": "Yahoo Finance",
+          "snippet": "Will July CPI Reset the Fed, Bitcoin, and Every Major Market? &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaU8zUEVvamtmLWlXSlRJWHpGbENMeHBHeE1tRUdyODdMWG1acm1Lc3pqbVVhdUxoRm5UQkozbjFnaGZnby0yWVJxZW8yd0xfajEwaHV4cFBYSGFvdTdDVzZQZFF6cUh0Q3NVakVaWXVuX01XMVJGTWstNTkwN2ZrdWg5MXU4VE9WTmdqb2g5MFpHZC1VS3c?oc=5"
+        },
+        {
+          "headline": "Will July CPI Reset the Fed, Bitcoin, and Every Major Market?",
+          "source": "BeInCrypto",
+          "snippet": "Will July CPI Reset the Fed, Bitcoin, and Every Major Market? &nbsp;&nbsp; BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XMENxS3dLU2RremxaOXEwN2JfYVp0WnVCNDFJLVpsd2ZVUy0xelpvWllkX3J2SGZRZ2oxOGFKNTFsbEZLdG4wZkljd0pxUlFZWXM0d3lZMExJRmtoUXZrbnA5eWc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaU8zUEVvamtmLWlXSlRJWHpGbENMeHBHeE1tRUdyODdMWG1acm1Lc3pqbVVhdUxoRm5UQkozbjFnaGZnby0yWVJxZW8yd0xfajEwaHV4cFBYSGFvdTdDVzZQZFF6cUh0Q3NVakVaWXVuX01XMVJGTWstNTkwN2ZrdWg5MXU4VE9WTmdqb2g5MFpHZC1VS3c?oc=5"
+        },
+        {
+          "name": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XMENxS3dLU2RremxaOXEwN2JfYVp0WnVCNDFJLVpsd2ZVUy0xelpvWllkX3J2SGZRZ2oxOGFKNTFsbEZLdG4wZkljd0pxUlFZWXM0d3lZMExJRmtoUXZrbnA5eWc?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-a81f889e6d93",
+      "original_title": "ROI-Unemployment rate remains Fed's labor market lodestar: McGeever",
+      "published_at": "2026-08-11T12:28:21Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "ROI-Unemployment rate remains Fed's labor market lodestar: McGeever",
+          "source": "ETHRWorld.com",
+          "snippet": "ROI-Unemployment rate remains Fed's labor market lodestar: McGeever &nbsp;&nbsp; ETHRWorld.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmtWTFN6c3FJNEZSYjdFUUF0YnhBYnUzV1R1blVUVXNid1dGd1dqVHJ0dW9qQzA5RUI4ay15dTNvRGY2XzM0UzF6cnpSOS0xUkk5TzBtd3FaV3hTZXVmblBnakFpQkEySkR4RlVHTFJWdnVnaXZ3c1dDQjlZUURXSnRycmFPRVJ1czY3eDZXd3hHbnVXSGtkS2JZZmh0UDE5OGxzSzVOemVybjVSRUZfMXRtM1hxc1RsdkIwREFZTTdHUmlTMFhZSFlLallWQdIBzgFBVV95cUxPWmtWTFN6c3FJNEZSYjdFUUF0YnhBYnUzV1R1blVUVXNid1dGd1dqVHJ0dW9qQzA5RUI4ay15dTNvRGY2XzM0UzF6cnpSOS0xUkk5TzBtd3FaV3hTZXVmblBnakFpQkEySkR4RlVHTFJWdnVnaXZ3c1dDQjlZUURXSnRycmFPRVJ1czY3eDZXd3hHbnVXSGtkS2JZZmh0UDE5OGxzSzVOemVybjVSRUZfMXRtM1hxc1RsdkIwREFZTTdHUmlTMFhZSFlLallWQQ?oc=5"
+        },
+        {
+          "headline": "Unemployment rate remains Fed's labor market lodestar",
+          "source": "Reuters",
+          "snippet": "Unemployment rate remains Fed's labor market lodestar &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2NvR0U1UFptOEF6cERsd1diMU9McnU3VDFneDhZSlBSTWcyemxieGwyRW5LaUpwRWRtNnVlZU5zT3JBVE14b29YNHNxVEJ4Ykhn?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "ETHRWorld.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmtWTFN6c3FJNEZSYjdFUUF0YnhBYnUzV1R1blVUVXNid1dGd1dqVHJ0dW9qQzA5RUI4ay15dTNvRGY2XzM0UzF6cnpSOS0xUkk5TzBtd3FaV3hTZXVmblBnakFpQkEySkR4RlVHTFJWdnVnaXZ3c1dDQjlZUURXSnRycmFPRVJ1czY3eDZXd3hHbnVXSGtkS2JZZmh0UDE5OGxzSzVOemVybjVSRUZfMXRtM1hxc1RsdkIwREFZTTdHUmlTMFhZSFlLallWQdIBzgFBVV95cUxPWmtWTFN6c3FJNEZSYjdFUUF0YnhBYnUzV1R1blVUVXNid1dGd1dqVHJ0dW9qQzA5RUI4ay15dTNvRGY2XzM0UzF6cnpSOS0xUkk5TzBtd3FaV3hTZXVmblBnakFpQkEySkR4RlVHTFJWdnVnaXZ3c1dDQjlZUURXSnRycmFPRVJ1czY3eDZXd3hHbnVXSGtkS2JZZmh0UDE5OGxzSzVOemVybjVSRUZfMXRtM1hxc1RsdkIwREFZTTdHUmlTMFhZSFlLallWQQ?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2NvR0U1UFptOEF6cERsd1diMU9McnU3VDFneDhZSlBSTWcyemxieGwyRW5LaUpwRWRtNnVlZU5zT3JBVE14b29YNHNxVEJ4Ykhn?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-d341f93d315b",
+      "original_title": "FinancialJuice: US forces fire on Panama-flagged ship attempting to run blockade of Iranian ports",
+      "published_at": "2026-08-11T12:22:43Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US forces fire on Panama-flagged ship attempting to run blockade of Iranian ports",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716341/US-forces-fire-on-Panama-flagged-ship-attempting-to-run-blockade-of-Iranian-ports---WSJ-Citing--US-Official.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716341/US-forces-fire-on-Panama-flagged-ship-attempting-to-run-blockade-of-Iranian-ports---WSJ-Citing--US-Official.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-df7897c9199c",
+      "original_title": "FinancialJuice: US ADP Wkly Employment Change Actual 8.25k (Forecast -, Previous 15k)",
+      "published_at": "2026-08-11T12:15:00Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US ADP Wkly Employment Change Actual 8.25k (Forecast -, Previous 15k)",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716338/US-ADP-Wkly-Employment-Change-Actual-825k-Forecast---Previous-15k.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716338/US-ADP-Wkly-Employment-Change-Actual-825k-Forecast---Previous-15k.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-035fb3162007",
+      "original_title": "FinancialJuice: Pakistan: US-Iran are close to some arrangement on peace.",
+      "published_at": "2026-08-11T12:09:35Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Pakistan: US-Iran are close to some arrangement on peace.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716337/Pakistan-US-Iran-are-close-to-some-arrangement-on-peace.aspx?xy=rss"
+        },
+        {
+          "headline": "Pakistan Says US-Iran Are Close to Some Arrangement on Peace",
+          "source": "Bloomberg.com",
+          "snippet": "Pakistan Says US-Iran Are Close to Some Arrangement on Peace &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRUFhZ2R3U3dzU2kxOVdMdWN4NWRjSU12RlY2dW5kaGl2Yk00eGZjZnhSc2FRbU9DNWVxRW91U0lFbWQxY2dXNTZxX3FxbW1zQXJlV0plbldiWXBOSlVuNHJqVV9EODVfQVI2TjFPbW1SQy1hU0RqWFpweW84QzZFcnNPRGsxcXBDd2ZkV0huU29lSmUxVG1TbWVXMmRBOTVSRWwyUnVDLUJHai1NS3FkYQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716337/Pakistan-US-Iran-are-close-to-some-arrangement-on-peace.aspx?xy=rss"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRUFhZ2R3U3dzU2kxOVdMdWN4NWRjSU12RlY2dW5kaGl2Yk00eGZjZnhSc2FRbU9DNWVxRW91U0lFbWQxY2dXNTZxX3FxbW1zQXJlV0plbldiWXBOSlVuNHJqVV9EODVfQVI2TjFPbW1SQy1hU0RqWFpweW84QzZFcnNPRGsxcXBDd2ZkV0huU29lSmUxVG1TbWVXMmRBOTVSRWwyUnVDLUJHai1NS3FkYQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-ecc2c432439b",
+      "original_title": "MoneyGram expands on Solana with global crypto-to-cash service",
+      "published_at": "2026-08-11T12:02:22Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "MoneyGram expands on Solana with global crypto-to-cash service",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-a00ee2a29895",
+      "original_title": "FinancialJuice: Secured overnight financing rate: 3.63% on August 10 vs 3.62% August 7th",
+      "published_at": "2026-08-11T12:00:25Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Secured overnight financing rate: 3.63% on August 10 vs 3.62% August 7th",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716310/Secured-overnight-financing-rate-363-on-August-10-vs-362-August-7th.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716310/Secured-overnight-financing-rate-363-on-August-10-vs-362-August-7th.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-8d326e9b18c0",
+      "original_title": "FinancialJuice: US 10-year treasury yield more likely to come in higher than expectations than lower over the next three months, said 18 of 22 bond strategists",
+      "published_at": "2026-08-11T11:51:51Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US 10-year treasury yield more likely to come in higher than expectations than lower over the next three months, said 18 of 22 bond strategists",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716307/US-10-year-treasury-yield-more-likely-to-come-in-higher-than-expectations-than-lower-over-the-next-three-months-said-18-of-22-bond-strategists---Poll.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716307/US-10-year-treasury-yield-more-likely-to-come-in-higher-than-expectations-than-lower-over-the-next-three-months-said-18-of-22-bond-strategists---Poll.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-520b48252ada",
+      "original_title": "FinancialJuice: Poll: US 2-year Treasury yield to decline to 4.07% in three months, 3.92% in six months, and 3.80% in a year (vs 4.00%, 3.90%, and 3.85%, respectively, in the July poll)",
+      "published_at": "2026-08-11T11:51:43Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Poll: US 2-year Treasury yield to decline to 4.07% in three months, 3.92% in six months, and 3.80% in a year (vs 4.00%, 3.90%, and 3.85%, respectively, in the July poll)",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9716306/Poll-US-2-year-Treasury-yield-to-decline-to-407-in-three-months-392-in-six-months-and-380-in-a-year-vs-400-390-and-385-respectively-in-the-July-poll.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9716306/Poll-US-2-year-Treasury-yield-to-decline-to-407-in-three-months-392-in-six-months-and-380-in-a-year-vs-400-390-and-385-respectively-in-the-July-poll.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-1b4d7f975d3a",
+      "original_title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+      "published_at": "2026-08-11T11:45:47Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-c1e9b634f90a",
+      "original_title": "Anthropic struck a $9.1 billion deal with bitcoin miner Riot Platforms for AI computing",
+      "published_at": "2026-08-11T11:37:47Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Anthropic struck a $9.1 billion deal with bitcoin miner Riot Platforms for AI computing",
+          "source": "qz.com",
+          "snippet": "Anthropic struck a $9.1 billion deal with bitcoin miner Riot Platforms for AI computing &nbsp;&nbsp; qz.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JLXViN2U0eEk0bDRKcUpmNXl2X1gzQVZjNDFEOEVfNjFtQ1hlSnAwSW80WTZIbmoxSmJjVEdja2MwVU4ybXFOT3ctSEZNYkxCSklEOGRwelNlbDhpR1NidnJWUllrQTA2Z3dnSnJNWWE5a1EtODZwM2hoeEtLUQ?oc=5"
+        },
+        {
+          "headline": "Anthropic Signs $9.1 Billion Cloud-Computing Deal With Bitcoin Miner Riot Platforms",
+          "source": "en.bloomingbit.io",
+          "snippet": "Anthropic Signs $9.1 Billion Cloud-Computing Deal With Bitcoin Miner Riot Platforms &nbsp;&nbsp; en.bloomingbit.io",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHX2M1bTdiZVVPNkNGTDU5QXNOSy1xSkJfVFI4UWlXNEZ6VWNKRWVTa2pMaU03Wk1lRmJDNENVWVlld2E4VG9PMW1zOGUybFFZMHNSTA?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JLXViN2U0eEk0bDRKcUpmNXl2X1gzQVZjNDFEOEVfNjFtQ1hlSnAwSW80WTZIbmoxSmJjVEdja2MwVU4ybXFOT3ctSEZNYkxCSklEOGRwelNlbDhpR1NidnJWUllrQTA2Z3dnSnJNWWE5a1EtODZwM2hoeEtLUQ?oc=5"
+        },
+        {
+          "name": "en.bloomingbit.io",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHX2M1bTdiZVVPNkNGTDU5QXNOSy1xSkJfVFI4UWlXNEZ6VWNKRWVTa2pMaU03Wk1lRmJDNENVWVlld2E4VG9PMW1zOGUybFFZMHNSTA?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-c642e2717fef",
+      "original_title": "Gold Touches $4,400 as Traders Turn Focus to US Inflation Data",
+      "published_at": "2026-08-11T11:37:24Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Gold Touches $4,400 as Traders Turn Focus to US Inflation Data",
+          "source": "Bloomberg.com",
+          "snippet": "Gold Touches $4,400 as Traders Turn Focus to US Inflation Data &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmZIUFBpdUxJSTNqeXIyU1BGazNWVlFFZnRTMGxodXV0M2ZYeG9CRXJ5WkQ0MWt6cjhSd29fWk9SWjJRWWtodnpCU3hWRTVwUG1sdXNra3Z5X2t2VndBdTVkSXNJR3ZNbm5WNTJGYkhBNnJtTU5tZzR3RENSTmpZUHJOSkxXMVBJem1BbjBXSXBBdGdjVnB6RldCY2NybUZvRjBtdm11X2s4d2xmUnVqMWJ3?oc=5"
+        },
+        {
+          "headline": "Gold Climbs Above $4,400 as Traders Turn Focus to US Inflation",
+          "source": "livemint.com",
+          "snippet": "Gold Climbs Above $4,400 as Traders Turn Focus to US Inflation &nbsp;&nbsp; livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVBEa0ZMTFlZalZsUm1SaDhEakh3S01kTGs4aFVDekxpQVVTcl9Lbjc1aU5rRE9PMkxxYlgtY3hnTi1CaGF0T2xKZGVpWV9NTV95SzFWU3p1dnhZd01WaFlQRVZLWG9XR0U2YWZHdVgwbWlONlk1MVVWSEVQVzlqU3ZlNHJYQUhKUHJpem1waWhEb0QyVURVMWg3Nk1ZY0hPLU1TbENtMVNIeWEzc0owd1FPY9IBuAFBVV95cUxNVkowYjN2d2J2X2szbXRiRy1DZHJfN3Q2VzNEeGpOREVsYjB3YkRXSGx3ZXdoY2JVUjhlblYtQU4xSXFSeW96REF5OUxUSTROVG9GYWN0UlN2VEVIRWdpNUh5WVphMHVJTnA1NzQ3endVQl9KSHVKanRPOWZja2p5WTl5cXR0cVZiNzA2LUM3WGV6Y04tTFNmN2c1U2p2eUhkdDYyWGxRU29vRVFua3FrUlFKOUFpQlZv?oc=5"
+        },
+        {
+          "headline": "Gold touches US$4,400 as traders turn focus to US inflation data",
+          "source": "The Business Times",
+          "snippet": "Gold touches US$4,400 as traders turn focus to US inflation data &nbsp;&nbsp; The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUd3THBVVmNTSUJhSXM5S3VkM3Bkck5XanRRZDVUUDVpamdnRHFNdzZnOXVRd2k4eFRUVEFEMjRCbXZvU2xiZ3dMRGtKV1phWUhFVzhxYmlXbkN6WGppc3dhSWtpencxYXhINkpnS0xZaG43ckNvRnVkY0YtT2tsem1GZVd2QmQ5ckJueEZJSWl0OXpxSEdZWnhmY2MyeGpsRWpwdENPN1c4YXlTMndDbHJGY3ZveEh4YkNHZ0RpSllvVTFy?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmZIUFBpdUxJSTNqeXIyU1BGazNWVlFFZnRTMGxodXV0M2ZYeG9CRXJ5WkQ0MWt6cjhSd29fWk9SWjJRWWtodnpCU3hWRTVwUG1sdXNra3Z5X2t2VndBdTVkSXNJR3ZNbm5WNTJGYkhBNnJtTU5tZzR3RENSTmpZUHJOSkxXMVBJem1BbjBXSXBBdGdjVnB6RldCY2NybUZvRjBtdm11X2s4d2xmUnVqMWJ3?oc=5"
+        },
+        {
+          "name": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVBEa0ZMTFlZalZsUm1SaDhEakh3S01kTGs4aFVDekxpQVVTcl9Lbjc1aU5rRE9PMkxxYlgtY3hnTi1CaGF0T2xKZGVpWV9NTV95SzFWU3p1dnhZd01WaFlQRVZLWG9XR0U2YWZHdVgwbWlONlk1MVVWSEVQVzlqU3ZlNHJYQUhKUHJpem1waWhEb0QyVURVMWg3Nk1ZY0hPLU1TbENtMVNIeWEzc0owd1FPY9IBuAFBVV95cUxNVkowYjN2d2J2X2szbXRiRy1DZHJfN3Q2VzNEeGpOREVsYjB3YkRXSGx3ZXdoY2JVUjhlblYtQU4xSXFSeW96REF5OUxUSTROVG9GYWN0UlN2VEVIRWdpNUh5WVphMHVJTnA1NzQ3endVQl9KSHVKanRPOWZja2p5WTl5cXR0cVZiNzA2LUM3WGV6Y04tTFNmN2c1U2p2eUhkdDYyWGxRU29vRVFua3FrUlFKOUFpQlZv?oc=5"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUd3THBVVmNTSUJhSXM5S3VkM3Bkck5XanRRZDVUUDVpamdnRHFNdzZnOXVRd2k4eFRUVEFEMjRCbXZvU2xiZ3dMRGtKV1phWUhFVzhxYmlXbkN6WGppc3dhSWtpencxYXhINkpnS0xZaG43ckNvRnVkY0YtT2tsem1GZVd2QmQ5ckJueEZJSWl0OXpxSEdZWnhmY2MyeGpsRWpwdENPN1c4YXlTMndDbHJGY3ZveEh4YkNHZ0RpSllvVTFy?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-6acd8b7d0942",
+      "original_title": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
+      "published_at": "2026-08-11T11:24:56Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-028c7f886d0f",
+      "original_title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
+      "published_at": "2026-08-11T11:23:25Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Coinbase picks Abu Dhabi for its global tokenized asset push",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-e2b93914a511",
+      "original_title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
+      "published_at": "2026-08-11T11:13:55Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-211f2c47984e",
+      "original_title": "How a Fed-Backed Yen Rescue Could Fuel Bitcoin and Ether, According to Arthur Hayes",
+      "published_at": "2026-08-11T11:10:03Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "How a Fed-Backed Yen Rescue Could Fuel Bitcoin and Ether, According to Arthur Hayes",
+          "source": "CryptoRank",
+          "snippet": "How a Fed-Backed Yen Rescue Could Fuel Bitcoin and Ether, According to Arthur Hayes &nbsp;&nbsp; CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFBBRnUydWt5WnVSWWJ4dGxSbHRwM3dGdEluRUhnOHVMWmpCOHAzWk5uRnFVWVFhR0Q5XzJpUnFSLVpGQ0dDYzU1ay1RRUJCdkF1SDNsdG9DdGQ4UHNrNHZDejEybGd1QXlnZEs1MzI5RFVjUElrRWVNeFBoRHc1S1NRTEdoLU1keWptQl9TcUJGaklBTnRUOEFxWF9hMXU1ME1iNFZZVXg1ZzdGOXF0RUNiN2lYSXlWQnpOSQ?oc=5"
+        },
+        {
+          "headline": "Arthur Hayes Says Fed’s Yen Rescue Could Send Bitcoin, Gold and Ether Higher",
+          "source": "Coinpedia",
+          "snippet": "Arthur Hayes Says Fed’s Yen Rescue Could Send Bitcoin, Gold and Ether Higher &nbsp;&nbsp; Coinpedia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2oxV25SSTVSaGIyODE2T1BycnpsdGhNaFFnaGFxenY4V092T2hhSGZIS0JkZnlDTFdwMW9jV2dMQ2VvNlZSd2d3bTI3d2tVUDhpS2pzbmdYLUlWM2ktWEFsMTNHQUhnZHl1NkUyLTZHYmhlVEFzNTAzVVF2Sk9SV1Rwd3lzTnhydkpwOWUyZUtFbkk1Qi1CWXN3OGhlODJNQTZfaNIBqgFBVV95cUxPX05YV0hLZEZCZU9kX192TGkwNFAzNlV6eF9HcWp1Sm1fMU9VTlZDYVJyNDQ0NkpHM1cwUi1ZUldUaUlkYkhQWFNpUVAxZHNqQUNFcjgyY0NfMVVRTXlWZlRzbGkycWZIbHd3WXYyR2s0Y2xUdGN5ZURsaE5EXzZOMGZwYlBrTXlzVnFNNFowUmlUaE9XMl9JX2R4U3BXM2NrMUQxaDhGMDRnQQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFBBRnUydWt5WnVSWWJ4dGxSbHRwM3dGdEluRUhnOHVMWmpCOHAzWk5uRnFVWVFhR0Q5XzJpUnFSLVpGQ0dDYzU1ay1RRUJCdkF1SDNsdG9DdGQ4UHNrNHZDejEybGd1QXlnZEs1MzI5RFVjUElrRWVNeFBoRHc1S1NRTEdoLU1keWptQl9TcUJGaklBTnRUOEFxWF9hMXU1ME1iNFZZVXg1ZzdGOXF0RUNiN2lYSXlWQnpOSQ?oc=5"
+        },
+        {
+          "name": "Coinpedia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2oxV25SSTVSaGIyODE2T1BycnpsdGhNaFFnaGFxenY4V092T2hhSGZIS0JkZnlDTFdwMW9jV2dMQ2VvNlZSd2d3bTI3d2tVUDhpS2pzbmdYLUlWM2ktWEFsMTNHQUhnZHl1NkUyLTZHYmhlVEFzNTAzVVF2Sk9SV1Rwd3lzTnhydkpwOWUyZUtFbkk1Qi1CWXN3OGhlODJNQTZfaNIBqgFBVV95cUxPX05YV0hLZEZCZU9kX192TGkwNFAzNlV6eF9HcWp1Sm1fMU9VTlZDYVJyNDQ0NkpHM1cwUi1ZUldUaUlkYkhQWFNpUVAxZHNqQUNFcjgyY0NfMVVRTXlWZlRzbGkycWZIbHd3WXYyR2s0Y2xUdGN5ZURsaE5EXzZOMGZwYlBrTXlzVnFNNFowUmlUaE9XMl9JX2R4U3BXM2NrMUQxaDhGMDRnQQ?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-11-094e42b0ab01",
       "original_title": "Bitcoin-backed lending is entering its institutional era: Two Prime",
@@ -42,6 +902,36 @@
       ]
     },
     {
+      "stable_id": "2026-08-11-7281c07d35d6",
+      "original_title": "Bitcoin Miner Riot Stock Jumps 24% After $9.1B Anthropic AI Deal",
+      "published_at": "2026-08-11T10:39:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin Miner Riot Stock Jumps 24% After $9.1B Anthropic AI Deal",
+          "source": "CryptoPotato",
+          "snippet": "Bitcoin Miner Riot Stock Jumps 24% After $9.1B Anthropic AI Deal &nbsp;&nbsp; CryptoPotato",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaHhHMkloRVd5WHBoU2xtZ0VHcFAzOFozMEZkb1pRcnpSb3ZVSnNSOUFvSXdybUk0NncxcU5aY1ZJVGdTeU00YTljdU1jeWY1VzBRUVhVQ28yOW9WNUZMX0dVVlE2YXVBVlB3eUFwck1sTTBfZzZxRXVaZ3VUOEl6RmJtekVrS3lrN3BXQTFTNUtZUQ?oc=5"
+        },
+        {
+          "headline": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
+          "source": "TradingView",
+          "snippet": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report &nbsp;&nbsp; TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVmlaZ3ZuYXY3WGFxVUw5dU5zMXFNWHhSOFRlU2hIZnBRZlhoUUxoWDhEbnZGRm94UnNEWWRxMnU5N0hKc2RSNjUtNHFRaFczYUE3Uml2TkFrWmJyLW5yQzJQT2ZiTnlfRkxSWWh6elRUc3gyNmtjQWpEVUQtMVNlOHNwNTRmb3JSSmpQb1lkTXNxNlRRWDlMa3dkME1hdnBLT0NEMFpTRDhpWDhuZzJXekZIdC1HbEZhRVA4Q05MaGR6Mjd5TnRF?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CryptoPotato",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaHhHMkloRVd5WHBoU2xtZ0VHcFAzOFozMEZkb1pRcnpSb3ZVSnNSOUFvSXdybUk0NncxcU5aY1ZJVGdTeU00YTljdU1jeWY1VzBRUVhVQ28yOW9WNUZMX0dVVlE2YXVBVlB3eUFwck1sTTBfZzZxRXVaZ3VUOEl6RmJtekVrS3lrN3BXQTFTNUtZUQ?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVmlaZ3ZuYXY3WGFxVUw5dU5zMXFNWHhSOFRlU2hIZnBRZlhoUUxoWDhEbnZGRm94UnNEWWRxMnU5N0hKc2RSNjUtNHFRaFczYUE3Uml2TkFrWmJyLW5yQzJQT2ZiTnlfRkxSWWh6elRUc3gyNmtjQWpEVUQtMVNlOHNwNTRmb3JSSmpQb1lkTXNxNlRRWDlMa3dkME1hdnBLT0NEMFpTRDhpWDhuZzJXekZIdC1HbEZhRVA4Q05MaGR6Mjd5TnRF?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-11-7fb9ce4b61b0",
       "original_title": "Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI",
       "published_at": "2026-08-11T10:34:52Z",
@@ -49,6 +939,26 @@
       "evidence": [
         {
           "headline": "Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-f9ecccfdbe7f",
+      "original_title": "Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations",
+      "published_at": "2026-08-11T10:34:52Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations",
           "source": "CoinDesk",
           "snippet": "",
           "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai"
@@ -131,13 +1041,13 @@
           "headline": "FinancialJuice: Qatar: Oman-iran talks reached an advanced stage",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9716202/Qatar-Oman-iran-talks-reached-an-advanced-stage---Al-Jazeera.aspx"
+          "url": "https://www.financialjuice.com/News/9716202/Qatar-Oman-iran-talks-reached-an-advanced-stage---Al-Jazeera.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9716202/Qatar-Oman-iran-talks-reached-an-advanced-stage---Al-Jazeera.aspx"
+          "url": "https://www.financialjuice.com/News/9716202/Qatar-Oman-iran-talks-reached-an-advanced-stage---Al-Jazeera.aspx?xy=rss"
         }
       ]
     },
@@ -151,13 +1061,13 @@
           "headline": "FinancialJuice: Qatar's foreign ministry spokesperson: Negotiations between Oman and Iran are now in an advanced stage",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9716201/Qatars-foreign-ministry-spokesperson-Negotiations-between-Oman-and-Iran-are-now-in-an-advanced-stage.aspx"
+          "url": "https://www.financialjuice.com/News/9716201/Qatars-foreign-ministry-spokesperson-Negotiations-between-Oman-and-Iran-are-now-in-an-advanced-stage.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9716201/Qatars-foreign-ministry-spokesperson-Negotiations-between-Oman-and-Iran-are-now-in-an-advanced-stage.aspx"
+          "url": "https://www.financialjuice.com/News/9716201/Qatars-foreign-ministry-spokesperson-Negotiations-between-Oman-and-Iran-are-now-in-an-advanced-stage.aspx?xy=rss"
         }
       ]
     },
@@ -251,13 +1161,13 @@
           "headline": "FinancialJuice: Burnham urges UK justice secretary to accelerate prison capacity plan",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9716153/Burnham-urges-UK-justice-secretary-to-accelerate-prison-capacity-plan.aspx"
+          "url": "https://www.financialjuice.com/News/9716153/Burnham-urges-UK-justice-secretary-to-accelerate-prison-capacity-plan.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9716153/Burnham-urges-UK-justice-secretary-to-accelerate-prison-capacity-plan.aspx"
+          "url": "https://www.financialjuice.com/News/9716153/Burnham-urges-UK-justice-secretary-to-accelerate-prison-capacity-plan.aspx?xy=rss"
         }
       ]
     },
@@ -391,13 +1301,13 @@
           "headline": "FinancialJuice: ING: The AUD",
           "source": "FinancialJuice",
           "snippet": "The Reserve Bank of Australia left rates unchanged at 4.35% today. Some argue that the added description of the policy as 'somewhat restrictive' means that the RBA is less likely to hike in future. However, Governor Sandra Bullock proved quite hawkish at the press conference, reminding the audience that the RBA sees inflation risks as skewed to the upside and admitting that the RBA did discuss the possibility of a rate hike at today's meeting. This prompted short-dated Australian yields to do a U-turn. Our team does not see a further RBA rate hike this year, but from an FX perspective, we still see AUD/USD heading up to 0.73 bu uear-end.",
-          "url": "https://www.financialjuice.com/News/9716066/ING-The-AUD---FJElite.aspx"
+          "url": "https://www.financialjuice.com/News/9716066/ING-The-AUD---FJElite.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9716066/ING-The-AUD---FJElite.aspx"
+          "url": "https://www.financialjuice.com/News/9716066/ING-The-AUD---FJElite.aspx?xy=rss"
         }
       ]
     },
@@ -525,8 +1435,8 @@
         },
         {
           "headline": "Oil rises as Iran lays out latest demands from US for Strait of Hormuz reopening",
-          "source": "upstreamonline.com",
-          "snippet": "Oil rises as Iran lays out latest demands from US for Strait of Hormuz reopening &nbsp;&nbsp; upstreamonline.com",
+          "source": "Upstream Online",
+          "snippet": "Oil rises as Iran lays out latest demands from US for Strait of Hormuz reopening &nbsp;&nbsp; Upstream Online",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTNmcGh1b1pCb1R1MEJDVktKT3ctN2d4SkMxQkREVWRRelNJSnhHbDA3Q1Nib195WUg2dGlPQjE5RFNIcDNXZEpRQ3NRMGs2UTF3UTREeUVRS18tVDdlQUNjVmVsZm53Q0R2RzlOdmM1bTQ5eHZQbi0tZV9OZmlOY19qcjl5ZW9XRUZrNnpkYUFYWTZVU2hNWjdZMjdZcEsyRl9oaUlDekJWR04zcV9GcWVjN3VYOG1wMmJMVU44eWFQd3o0cEloUE9FVWNrNWxfRWRDd1d3?oc=5"
         }
       ],
@@ -536,8 +1446,38 @@
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNREdWV09aSWpFY1p2aVZIUDdlTkY5X0V0NW1QSmpqUGhZODlqcUFoTjRYR2pqeG9xd0xtSWJIVy02SnZNeGFjdWRHVTR6UmFVNFBjMGVUQVFXckM0LVBzN083WHp0SmlneEl6eXBKWlg2bC1nRHItSWtyWnFoZHNwTTBmOU1wbXZydC1FcG80YzRPdUZ1a0p0QTN6TmxlS0pXMWZHaHhfbVJEeVhycTJfa0F4MzA5NHpKVElQdmhQN1NXb3NVaEJoOVVkbFlLdG1GSkN1ZTFJWVZvRElpdHI0SzlrdHIteHQ0OG1icXZud1BPaFZnVm4zbHowMkFhdw?oc=5"
         },
         {
-          "name": "upstreamonline.com",
+          "name": "Upstream Online",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTNmcGh1b1pCb1R1MEJDVktKT3ctN2d4SkMxQkREVWRRelNJSnhHbDA3Q1Nib195WUg2dGlPQjE5RFNIcDNXZEpRQ3NRMGs2UTF3UTREeUVRS18tVDdlQUNjVmVsZm53Q0R2RzlOdmM1bTQ5eHZQbi0tZV9OZmlOY19qcjl5ZW9XRUZrNnpkYUFYWTZVU2hNWjdZMjdZcEsyRl9oaUlDekJWR04zcV9GcWVjN3VYOG1wMmJMVU44eWFQd3o0cEloUE9FVWNrNWxfRWRDd1d3?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-e7cb78ef6749",
+      "original_title": "U.S. SEC Schedules August 14 Meeting to Propose Regulation Crypto for Crypto Investment Contracts",
+      "published_at": "2026-08-11T06:19:44Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "U.S. SEC Schedules August 14 Meeting to Propose Regulation Crypto for Crypto Investment Contracts",
+          "source": "NewsCord",
+          "snippet": "U.S. SEC Schedules August 14 Meeting to Propose Regulation Crypto for Crypto Investment Contracts &nbsp;&nbsp; NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbUpEazMwOWxYOXI0dkg1S3ExX3pYSnZoSFJSR3B6VFhZbkFHYVIwbklsMzBuRGpYQURSYVdrdkZLQy1vZkNKTFNKbnRiLV9NZjNCSlVXZzZXX2ZIZVB1TFhUc2ZOVHlOVk5aREhOT2JHdVN3dVZ0RTJFZk1fVzQ5ZzNNanlrRWY5OUMtWS1jdGk3T0V2ZzVNMTFYXzhSWDdNclNSd1VqVmlCUml3WjE0UC1QNkdjdTZzNWZOeDZpa2ktdG1OeVBISk1yOGpkeW8xV21FX29leERBdF8zVGdURFJHVUgyY2NLRmc?oc=5"
+        },
+        {
+          "headline": "US SEC Schedules Meeting to Consider New Rules for Crypto Investment Contracts",
+          "source": "CoinGape",
+          "snippet": "US SEC Schedules Meeting to Consider New Rules for Crypto Investment Contracts &nbsp;&nbsp; CoinGape",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORG9hd3ExUGhreERtNDVmSXNmTnYySnFnNjkta1otMWRGT29qbzI2V29NV3JxMUNNaHNqY3NWaHA5cjdyUHBYR1k0TGV0ZDU1WUFxSE1GcjFCa2ZlalI0eUcyOHZaUmIwNjM5RFZnN0wwYmo1ZVRUaWVOU29CRnBOQ0I5ZVNDbC1ocHZSSXQ5TUw1NEE3UTZjWQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbUpEazMwOWxYOXI0dkg1S3ExX3pYSnZoSFJSR3B6VFhZbkFHYVIwbklsMzBuRGpYQURSYVdrdkZLQy1vZkNKTFNKbnRiLV9NZjNCSlVXZzZXX2ZIZVB1TFhUc2ZOVHlOVk5aREhOT2JHdVN3dVZ0RTJFZk1fVzQ5ZzNNanlrRWY5OUMtWS1jdGk3T0V2ZzVNMTFYXzhSWDdNclNSd1VqVmlCUml3WjE0UC1QNkdjdTZzNWZOeDZpa2ktdG1OeVBISk1yOGpkeW8xV21FX29leERBdF8zVGdURFJHVUgyY2NLRmc?oc=5"
+        },
+        {
+          "name": "CoinGape",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORG9hd3ExUGhreERtNDVmSXNmTnYySnFnNjkta1otMWRGT29qbzI2V29NV3JxMUNNaHNqY3NWaHA5cjdyUHBYR1k0TGV0ZDU1WUFxSE1GcjFCa2ZlalI0eUcyOHZaUmIwNjM5RFZnN0wwYmo1ZVRUaWVOU29CRnBOQ0I5ZVNDbC1ocHZSSXQ5TUw1NEE3UTZjWQ?oc=5"
         }
       ]
     },
@@ -562,36 +1502,6 @@
       ]
     },
     {
-      "stable_id": "2026-08-11-e7cb78ef6749",
-      "original_title": "U.S. SEC Schedules August 14 Meeting to Propose Regulation Crypto for Crypto Investment Contracts",
-      "published_at": "2026-08-11T06:15:02Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "U.S. SEC Schedules August 14 Meeting to Propose Regulation Crypto for Crypto Investment Contracts",
-          "source": "newscord.org",
-          "snippet": "U.S. SEC Schedules August 14 Meeting to Propose Regulation Crypto for Crypto Investment Contracts &nbsp;&nbsp; newscord.org",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbUpEazMwOWxYOXI0dkg1S3ExX3pYSnZoSFJSR3B6VFhZbkFHYVIwbklsMzBuRGpYQURSYVdrdkZLQy1vZkNKTFNKbnRiLV9NZjNCSlVXZzZXX2ZIZVB1TFhUc2ZOVHlOVk5aREhOT2JHdVN3dVZ0RTJFZk1fVzQ5ZzNNanlrRWY5OUMtWS1jdGk3T0V2ZzVNMTFYXzhSWDdNclNSd1VqVmlCUml3WjE0UC1QNkdjdTZzNWZOeDZpa2ktdG1OeVBISk1yOGpkeW8xV21FX29leERBdF8zVGdURFJHVUgyY2NLRmc?oc=5"
-        },
-        {
-          "headline": "US SEC Schedules Meeting to Consider New Rules for Crypto Investment Contracts",
-          "source": "CoinGape",
-          "snippet": "US SEC Schedules Meeting to Consider New Rules for Crypto Investment Contracts &nbsp;&nbsp; CoinGape",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORG9hd3ExUGhreERtNDVmSXNmTnYySnFnNjkta1otMWRGT29qbzI2V29NV3JxMUNNaHNqY3NWaHA5cjdyUHBYR1k0TGV0ZDU1WUFxSE1GcjFCa2ZlalI0eUcyOHZaUmIwNjM5RFZnN0wwYmo1ZVRUaWVOU29CRnBOQ0I5ZVNDbC1ocHZSSXQ5TUw1NEE3UTZjWQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "newscord.org",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbUpEazMwOWxYOXI0dkg1S3ExX3pYSnZoSFJSR3B6VFhZbkFHYVIwbklsMzBuRGpYQURSYVdrdkZLQy1vZkNKTFNKbnRiLV9NZjNCSlVXZzZXX2ZIZVB1TFhUc2ZOVHlOVk5aREhOT2JHdVN3dVZ0RTJFZk1fVzQ5ZzNNanlrRWY5OUMtWS1jdGk3T0V2ZzVNMTFYXzhSWDdNclNSd1VqVmlCUml3WjE0UC1QNkdjdTZzNWZOeDZpa2ktdG1OeVBISk1yOGpkeW8xV21FX29leERBdF8zVGdURFJHVUgyY2NLRmc?oc=5"
-        },
-        {
-          "name": "CoinGape",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORG9hd3ExUGhreERtNDVmSXNmTnYySnFnNjkta1otMWRGT29qbzI2V29NV3JxMUNNaHNqY3NWaHA5cjdyUHBYR1k0TGV0ZDU1WUFxSE1GcjFCa2ZlalI0eUcyOHZaUmIwNjM5RFZnN0wwYmo1ZVRUaWVOU29CRnBOQ0I5ZVNDbC1ocHZSSXQ5TUw1NEE3UTZjWQ?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-08-11-40df4d1936e7",
       "original_title": "FinancialJuice: Bank of Korea Senior Deputy Governor Ryoo: There will be an additional rate hike",
       "published_at": "2026-08-11T06:00:57Z",
@@ -601,13 +1511,13 @@
           "headline": "FinancialJuice: Bank of Korea Senior Deputy Governor Ryoo: There will be an additional rate hike",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715884/Bank-of-Korea-Senior-Deputy-Governor-Ryoo-There-will-be-an-additional-rate-hike.aspx"
+          "url": "https://www.financialjuice.com/News/9715884/Bank-of-Korea-Senior-Deputy-Governor-Ryoo-There-will-be-an-additional-rate-hike.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715884/Bank-of-Korea-Senior-Deputy-Governor-Ryoo-There-will-be-an-additional-rate-hike.aspx"
+          "url": "https://www.financialjuice.com/News/9715884/Bank-of-Korea-Senior-Deputy-Governor-Ryoo-There-will-be-an-additional-rate-hike.aspx?xy=rss"
         }
       ]
     },
@@ -621,13 +1531,13 @@
           "headline": "FinancialJuice: SNB Interest Rate Probabilities",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715881/SNB-Interest-Rate-Probabilities.aspx"
+          "url": "https://www.financialjuice.com/News/9715881/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715881/SNB-Interest-Rate-Probabilities.aspx"
+          "url": "https://www.financialjuice.com/News/9715881/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
         }
       ]
     },
@@ -641,13 +1551,13 @@
           "headline": "FinancialJuice: RBA's Gov. Bullock: We need slower growth and higher jobless to cool inflation",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715873/RBAs-Gov-Bullock-We-need-slower-growth-and-higher-jobless-to-cool-inflation.aspx"
+          "url": "https://www.financialjuice.com/News/9715873/RBAs-Gov-Bullock-We-need-slower-growth-and-higher-jobless-to-cool-inflation.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715873/RBAs-Gov-Bullock-We-need-slower-growth-and-higher-jobless-to-cool-inflation.aspx"
+          "url": "https://www.financialjuice.com/News/9715873/RBAs-Gov-Bullock-We-need-slower-growth-and-higher-jobless-to-cool-inflation.aspx?xy=rss"
         }
       ]
     },
@@ -661,13 +1571,13 @@
           "headline": "FinancialJuice: RBA's Gov. Bullock: The board decided to wait for a bit more information; rate hike still front of mind.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715872/RBAs-Gov-Bullock-The-board-decided-to-wait-for-a-bit-more-information-rate-hike-still-front-of-mind.aspx"
+          "url": "https://www.financialjuice.com/News/9715872/RBAs-Gov-Bullock-The-board-decided-to-wait-for-a-bit-more-information-rate-hike-still-front-of-mind.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715872/RBAs-Gov-Bullock-The-board-decided-to-wait-for-a-bit-more-information-rate-hike-still-front-of-mind.aspx"
+          "url": "https://www.financialjuice.com/News/9715872/RBAs-Gov-Bullock-The-board-decided-to-wait-for-a-bit-more-information-rate-hike-still-front-of-mind.aspx?xy=rss"
         }
       ]
     },
@@ -681,13 +1591,13 @@
           "headline": "FinancialJuice: RBA's Gov. Bullock: Arguments for a hike include inflation still too high, and upside risks from the Middle East",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715871/RBAs-Gov-Bullock-Arguments-for-a-hike-include-inflation-still-too-high-and-upside-risks-from-the-Middle-East.aspx"
+          "url": "https://www.financialjuice.com/News/9715871/RBAs-Gov-Bullock-Arguments-for-a-hike-include-inflation-still-too-high-and-upside-risks-from-the-Middle-East.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715871/RBAs-Gov-Bullock-Arguments-for-a-hike-include-inflation-still-too-high-and-upside-risks-from-the-Middle-East.aspx"
+          "url": "https://www.financialjuice.com/News/9715871/RBAs-Gov-Bullock-Arguments-for-a-hike-include-inflation-still-too-high-and-upside-risks-from-the-Middle-East.aspx?xy=rss"
         }
       ]
     },
@@ -701,13 +1611,13 @@
           "headline": "FinancialJuice: RBA's Gov. Bullock: Did not discuss a rate cut at the meeting, only a raise or a stay",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715860/RBAs-Gov-Bullock-Did-not-discuss-a-rate-cut-at-the-meeting-only-a-raise-or-a-stay.aspx"
+          "url": "https://www.financialjuice.com/News/9715860/RBAs-Gov-Bullock-Did-not-discuss-a-rate-cut-at-the-meeting-only-a-raise-or-a-stay.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715860/RBAs-Gov-Bullock-Did-not-discuss-a-rate-cut-at-the-meeting-only-a-raise-or-a-stay.aspx"
+          "url": "https://www.financialjuice.com/News/9715860/RBAs-Gov-Bullock-Did-not-discuss-a-rate-cut-at-the-meeting-only-a-raise-or-a-stay.aspx?xy=rss"
         }
       ]
     },
@@ -784,9 +1694,9 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEJzVDZUZ1d1VDFIZHM1RFY1NTZVd1RWRDJtdXhvV0czdXdlRi1lT3JuMXRMU2IweDEzZWtOMEJxRkZud3F1ZVc3Y2xpal9KbDk2ZGNDa2c2SEtES3JPbzVzLVRhbkZSTURWRE5ScGo5QjRSVkZPWGZEQUpnMnQtcXpxRG5TclJEOEhfMEZ4RjBCSDRmTkMxWVo5djZveS1kTFBEeV8zMmVULXVDQzE5eTVLbDE?oc=5"
         },
         {
-          "headline": "Oil Holds Three-Day Gain as Trump Demands Cloud Hormuz Outlook",
+          "headline": "Oil Rises Toward $90 as Fresh Trump Demands Cloud Hormuz Deal",
           "source": "Bloomberg.com",
-          "snippet": "Oil Holds Three-Day Gain as Trump Demands Cloud Hormuz Outlook &nbsp;&nbsp; Bloomberg.com",
+          "snippet": "Oil Rises Toward $90 as Fresh Trump Demands Cloud Hormuz Deal &nbsp;&nbsp; Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2RUZEtOYndHTmhYWGE4TDYwbDJyRmJKR3ZoYTZaY3F6bW9vdTBqSlJLQkdXWnRKU0FJaUpPOHJsYlEwejAwTlZQMVRMM3dEcDZvMFpxdlZJaWo3cVJ2bnlEZGJ5OU9aSF9YLTRudjd5RTZVS3dua2xkdFBMRndwVWZOdGVSSG05SWJNRWJhMDhYUXlXUWQyTHhFZmhudw?oc=5"
         }
       ],
@@ -1002,46 +1912,6 @@
       ]
     },
     {
-      "stable_id": "2026-08-11-c7e5e42bfa72",
-      "original_title": "Hopes for Hormuz deal fade as Trump demands Iranian reparations",
-      "published_at": "2026-08-11T03:41:11Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Hopes for Hormuz deal fade as Trump demands Iranian reparations",
-          "source": "The Business Standard",
-          "snippet": "Hopes for Hormuz deal fade as Trump demands Iranian reparations &nbsp;&nbsp; The Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWDJGVmJPeFBLdjNWOVdqNU1wYnEtLVJYMHdhRURBaFFoSlowOWFKNXJkSFRHNkkzaXNZZzVKbGVORk1JWXl1MnVIX0JSa2NSYngzX25xdi1HR2VHZGVkVV9EcU5QY0ExQjRoX2tmVzFhVHZHWnNCR25QRWhDN2ZwS3lhdVJwYVh1dFZWTWlUQXpEMXhzb0dlRjVpQTNhNzV3WUZLeDJRVjJsUjlfMUHSAbMBQVVfeXFMT0JxYnZuOW5NRGhCQ0dKQlRBYzFJRHhDcGFpVXhaTFZIQ0FTaThzYmlEZEhxUXlacVpCM2ZOWmh1RVhqZFNEWFRMSEdNbFRSZ3RTQm1kT3VyNEk2ZEo3UGVuMkd4ZF94U0ZHZXROR0taZkdKazk4SHo4LWpTTnA5Vmk3ZE9WWC0waFRNMVRQWFFXaXNPamdKUm0xdnpkOVIzSHJESkx6bWM0YWwxdjZlNjlSQmc?oc=5"
-        },
-        {
-          "headline": "Hopes for Hormuz Deal Fade as Trump Demands Iranian Reparations",
-          "source": "Deccan Chronicle",
-          "snippet": "Hopes for Hormuz Deal Fade as Trump Demands Iranian Reparations &nbsp;&nbsp; Deccan Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlZVSmd5VDdPRlV2MlRHMDg1Y1h5RU93SjJHQWotbEc5a2FMcjBYRGd6bU4zeHFrbHQwbGlNMTVkbmpfMnVIanVLYnpPbDNxeU1JMkNSZ1FMTFY5YmpXblVicUFldUpDeVc4SDRIOWkxVnlnMU1vSHNqSUh4MkQxNjBxQ016SklOdVpEV29QNWdrdUdzWWJZMFN1V202cC1jYWh3QVlWRnJhWUpCbXN0MlcyONIBuAFBVV95cUxOX0VRRElnTWRWYU45Wk1DLUkzTmdsTDBlcXVNanRUS3E0NGtZMGJQTEY2NURfNUV5T1EzMFZ4ajVYd1Q1M0Z1b19ETS1qaG5lVUZOMWhIdTBJMm1hVVRJc0NHZExnek5JT0g3ZFBuQ1VWZXQ0WlNDSjd6TVRJSktidVl1YkdrYlRBVlBKakdyNWk3SHl0cE1qTlZhVmlpWWdJTmpBMDFqNXF6bV90b2pWODV5WmRZd3d3?oc=5"
-        },
-        {
-          "headline": "Trump Demands Compensation From Iran as Hormuz Deal Hopes Fade",
-          "source": "gCaptain",
-          "snippet": "Trump Demands Compensation From Iran as Hormuz Deal Hopes Fade &nbsp;&nbsp; gCaptain",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0txQmJhTXI5T1hVcmdEazlSXzU1MWMwcWotYTRRTW1ORm9xWHpnTTNXMDlPM0VVTm45NUNPc1pRNm5jVEhKdVowRUo2UWx4N3NscmxTMnA4Tld5ZHNXdGEybE1xUmFzYXJ6X1VvcTlSeVJQY1dwMkx3WkFnSkFEdUhmLWlmRTNLWDA4SQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWDJGVmJPeFBLdjNWOVdqNU1wYnEtLVJYMHdhRURBaFFoSlowOWFKNXJkSFRHNkkzaXNZZzVKbGVORk1JWXl1MnVIX0JSa2NSYngzX25xdi1HR2VHZGVkVV9EcU5QY0ExQjRoX2tmVzFhVHZHWnNCR25QRWhDN2ZwS3lhdVJwYVh1dFZWTWlUQXpEMXhzb0dlRjVpQTNhNzV3WUZLeDJRVjJsUjlfMUHSAbMBQVVfeXFMT0JxYnZuOW5NRGhCQ0dKQlRBYzFJRHhDcGFpVXhaTFZIQ0FTaThzYmlEZEhxUXlacVpCM2ZOWmh1RVhqZFNEWFRMSEdNbFRSZ3RTQm1kT3VyNEk2ZEo3UGVuMkd4ZF94U0ZHZXROR0taZkdKazk4SHo4LWpTTnA5Vmk3ZE9WWC0waFRNMVRQWFFXaXNPamdKUm0xdnpkOVIzSHJESkx6bWM0YWwxdjZlNjlSQmc?oc=5"
-        },
-        {
-          "name": "Deccan Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlZVSmd5VDdPRlV2MlRHMDg1Y1h5RU93SjJHQWotbEc5a2FMcjBYRGd6bU4zeHFrbHQwbGlNMTVkbmpfMnVIanVLYnpPbDNxeU1JMkNSZ1FMTFY5YmpXblVicUFldUpDeVc4SDRIOWkxVnlnMU1vSHNqSUh4MkQxNjBxQ016SklOdVpEV29QNWdrdUdzWWJZMFN1V202cC1jYWh3QVlWRnJhWUpCbXN0MlcyONIBuAFBVV95cUxOX0VRRElnTWRWYU45Wk1DLUkzTmdsTDBlcXVNanRUS3E0NGtZMGJQTEY2NURfNUV5T1EzMFZ4ajVYd1Q1M0Z1b19ETS1qaG5lVUZOMWhIdTBJMm1hVVRJc0NHZExnek5JT0g3ZFBuQ1VWZXQ0WlNDSjd6TVRJSktidVl1YkdrYlRBVlBKakdyNWk3SHl0cE1qTlZhVmlpWWdJTmpBMDFqNXF6bV90b2pWODV5WmRZd3d3?oc=5"
-        },
-        {
-          "name": "gCaptain",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0txQmJhTXI5T1hVcmdEazlSXzU1MWMwcWotYTRRTW1ORm9xWHpnTTNXMDlPM0VVTm45NUNPc1pRNm5jVEhKdVowRUo2UWx4N3NscmxTMnA4Tld5ZHNXdGEybE1xUmFzYXJ6X1VvcTlSeVJQY1dwMkx3WkFnSkFEdUhmLWlmRTNLWDA4SQ?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-08-11-bc8558410280",
       "original_title": "Oil prices rise amid US-Iran stalemate",
       "published_at": "2026-08-11T03:25:00Z",
@@ -1232,6 +2102,26 @@
       ]
     },
     {
+      "stable_id": "2026-08-11-06ddd28a12b2",
+      "original_title": "Oil firm as US-Iran impasse drags on; stocks edge up",
+      "published_at": "2026-08-11T01:41:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil firm as US-Iran impasse drags on; stocks edge up",
+          "source": "Reuters",
+          "snippet": "Oil firm as US-Iran impasse drags on; stocks edge up &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-11-0a7370cd7197",
       "original_title": "Yen steadies as intervention boost fades; RBA in focus",
       "published_at": "2026-08-11T01:34:00Z",
@@ -1241,6 +2131,26 @@
           "headline": "Yen steadies as intervention boost fades; RBA in focus",
           "source": "Reuters",
           "snippet": "Yen steadies as intervention boost fades; RBA in focus &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzhZVWVFX0IxZHRHRTExeHVkajFlQ3U3X3RhbjdFbW5uNnFHR0lLNmd5ZVZRT0tqd1h2X090Snd4bk5VLWhKd0UwaTlDUTNkbnpsLWRIdXFJWE1wdDlUbVd0SXJjb1JYaVlKTVVxUllYQ2lRZjNZcFA1LWVEY2xZRTVHdkNEd3cyNGRNNDhHUDRYem15Szg5dFFadXRCNnFYNHQ1Yg?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzhZVWVFX0IxZHRHRTExeHVkajFlQ3U3X3RhbjdFbW5uNnFHR0lLNmd5ZVZRT0tqd1h2X090Snd4bk5VLWhKd0UwaTlDUTNkbnpsLWRIdXFJWE1wdDlUbVd0SXJjb1JYaVlKTVVxUllYQ2lRZjNZcFA1LWVEY2xZRTVHdkNEd3cyNGRNNDhHUDRYem15Szg5dFFadXRCNnFYNHQ1Yg?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-cdecfeb18382",
+      "original_title": "Dollar steady as traders await key US inflation data",
+      "published_at": "2026-08-11T01:34:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Dollar steady as traders await key US inflation data",
+          "source": "Reuters",
+          "snippet": "Dollar steady as traders await key US inflation data &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzhZVWVFX0IxZHRHRTExeHVkajFlQ3U3X3RhbjdFbW5uNnFHR0lLNmd5ZVZRT0tqd1h2X090Snd4bk5VLWhKd0UwaTlDUTNkbnpsLWRIdXFJWE1wdDlUbVd0SXJjb1JYaVlKTVVxUllYQ2lRZjNZcFA1LWVEY2xZRTVHdkNEd3cyNGRNNDhHUDRYem15Szg5dFFadXRCNnFYNHQ1Yg?oc=5"
         }
       ],
@@ -1278,6 +2188,36 @@
         {
           "name": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2RUZEtOYndHTmhYWGE4TDYwbDJyRmJKR3ZoYTZaY3F6bW9vdTBqSlJLQkdXWnRKU0FJaUpPOHJsYlEwejAwTlZQMVRMM3dEcDZvMFpxdlZJaWo3cVJ2bnlEZGJ5OU9aSF9YLTRudjd5RTZVS3dua2xkdFBMRndwVWZOdGVSSG05SWJNRWJhMDhYUXlXUWQyTHhFZmhudw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-c7e5e42bfa72",
+      "original_title": "Hopes for Hormuz Deal Fade as Trump Demands Iranian Reparations",
+      "published_at": "2026-08-11T01:05:03Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Hopes for Hormuz Deal Fade as Trump Demands Iranian Reparations",
+          "source": "Deccan Chronicle",
+          "snippet": "Hopes for Hormuz Deal Fade as Trump Demands Iranian Reparations &nbsp;&nbsp; Deccan Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlZVSmd5VDdPRlV2MlRHMDg1Y1h5RU93SjJHQWotbEc5a2FMcjBYRGd6bU4zeHFrbHQwbGlNMTVkbmpfMnVIanVLYnpPbDNxeU1JMkNSZ1FMTFY5YmpXblVicUFldUpDeVc4SDRIOWkxVnlnMU1vSHNqSUh4MkQxNjBxQ016SklOdVpEV29QNWdrdUdzWWJZMFN1V202cC1jYWh3QVlWRnJhWUpCbXN0MlcyONIBuAFBVV95cUxOX0VRRElnTWRWYU45Wk1DLUkzTmdsTDBlcXVNanRUS3E0NGtZMGJQTEY2NURfNUV5T1EzMFZ4ajVYd1Q1M0Z1b19ETS1qaG5lVUZOMWhIdTBJMm1hVVRJc0NHZExnek5JT0g3ZFBuQ1VWZXQ0WlNDSjd6TVRJSktidVl1YkdrYlRBVlBKakdyNWk3SHl0cE1qTlZhVmlpWWdJTmpBMDFqNXF6bV90b2pWODV5WmRZd3d3?oc=5"
+        },
+        {
+          "headline": "Trump Demands Compensation From Iran as Hormuz Deal Hopes Fade",
+          "source": "gCaptain",
+          "snippet": "Trump Demands Compensation From Iran as Hormuz Deal Hopes Fade &nbsp;&nbsp; gCaptain",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0txQmJhTXI5T1hVcmdEazlSXzU1MWMwcWotYTRRTW1ORm9xWHpnTTNXMDlPM0VVTm45NUNPc1pRNm5jVEhKdVowRUo2UWx4N3NscmxTMnA4Tld5ZHNXdGEybE1xUmFzYXJ6X1VvcTlSeVJQY1dwMkx3WkFnSkFEdUhmLWlmRTNLWDA4SQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deccan Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlZVSmd5VDdPRlV2MlRHMDg1Y1h5RU93SjJHQWotbEc5a2FMcjBYRGd6bU4zeHFrbHQwbGlNMTVkbmpfMnVIanVLYnpPbDNxeU1JMkNSZ1FMTFY5YmpXblVicUFldUpDeVc4SDRIOWkxVnlnMU1vSHNqSUh4MkQxNjBxQ016SklOdVpEV29QNWdrdUdzWWJZMFN1V202cC1jYWh3QVlWRnJhWUpCbXN0MlcyONIBuAFBVV95cUxOX0VRRElnTWRWYU45Wk1DLUkzTmdsTDBlcXVNanRUS3E0NGtZMGJQTEY2NURfNUV5T1EzMFZ4ajVYd1Q1M0Z1b19ETS1qaG5lVUZOMWhIdTBJMm1hVVRJc0NHZExnek5JT0g3ZFBuQ1VWZXQ0WlNDSjd6TVRJSktidVl1YkdrYlRBVlBKakdyNWk3SHl0cE1qTlZhVmlpWWdJTmpBMDFqNXF6bV90b2pWODV5WmRZd3d3?oc=5"
+        },
+        {
+          "name": "gCaptain",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0txQmJhTXI5T1hVcmdEazlSXzU1MWMwcWotYTRRTW1ORm9xWHpnTTNXMDlPM0VVTm45NUNPc1pRNm5jVEhKdVowRUo2UWx4N3NscmxTMnA4Tld5ZHNXdGEybE1xUmFzYXJ6X1VvcTlSeVJQY1dwMkx3WkFnSkFEdUhmLWlmRTNLWDA4SQ?oc=5"
         }
       ]
     },
@@ -1338,1006 +2278,6 @@
         {
           "name": "Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hWUFSSWNuTTMwZEJUX1pzOVVLc19kRGo1bC1kVXdmeEZpdGRJM1pjS0EyVXJrWEhVZW40UmFUZWY1REdDWXUxN2FJanNOWGczYW9RZEQ3MThvRzA2WE1ydkdTVUt3aExWZ0Z6UzhTbHkzVkNOSWlsYmFMUThVM0k?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-11-229eab218d1b",
-      "original_title": "Gold gains for third session, inflation reports in focus",
-      "published_at": "2026-08-11T00:48:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Gold gains for third session, inflation reports in focus",
-          "source": "Reuters",
-          "snippet": "Gold gains for third session, inflation reports in focus &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3pfajk5NldmMDliSlhNU3ZYd1J6UGt3cWM4ZHBzTkxnYTVGbnVWU0ZOVFFqLUk2eFYyQnhxdUxiUFp5Y0lXTnpEOGIwMHBveTR5bzBvZmxjWTA4TmR6OUt0U1ZSd2V0dDhkMlg4TkpFdlFCSEtJN3BXYXJQMFZLZDgyZjR6UTRXeU5fRFZ1MHM1WXpCMEtTOF9CNmptQTJmNzBQN1JyMA?oc=5"
-        },
-        {
-          "headline": "Gold rises for third straight session, inflation prints in focus",
-          "source": "Yahoo News Singapore",
-          "snippet": "Gold rises for third straight session, inflation prints in focus &nbsp;&nbsp; Yahoo News Singapore",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OZzN6Z2lWanNLTDlYeUpCUTdQY0dqQzYyS0xnZkszVjN0Z01mcko0UHB3VWZHXzJwYldtX0U2VzdSaVpod3pqcVdydklNa2tzcmU2Y3NJaFc0VFhXWGw1X2YxRnFyY05SVXZIVWVxQlFyNWoyY3NYVG82WFpEcTQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3pfajk5NldmMDliSlhNU3ZYd1J6UGt3cWM4ZHBzTkxnYTVGbnVWU0ZOVFFqLUk2eFYyQnhxdUxiUFp5Y0lXTnpEOGIwMHBveTR5bzBvZmxjWTA4TmR6OUt0U1ZSd2V0dDhkMlg4TkpFdlFCSEtJN3BXYXJQMFZLZDgyZjR6UTRXeU5fRFZ1MHM1WXpCMEtTOF9CNmptQTJmNzBQN1JyMA?oc=5"
-        },
-        {
-          "name": "Yahoo News Singapore",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OZzN6Z2lWanNLTDlYeUpCUTdQY0dqQzYyS0xnZkszVjN0Z01mcko0UHB3VWZHXzJwYldtX0U2VzdSaVpod3pqcVdydklNa2tzcmU2Y3NJaFc0VFhXWGw1X2YxRnFyY05SVXZIVWVxQlFyNWoyY3NYVG82WFpEcTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-11-2a8b50eea4d7",
-      "original_title": "Gold eases from over two-month high as rising oil prices cloud rate outlook",
-      "published_at": "2026-08-11T00:48:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Gold eases from over two-month high as rising oil prices cloud rate outlook",
-          "source": "Reuters",
-          "snippet": "Gold eases from over two-month high as rising oil prices cloud rate outlook &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3pfajk5NldmMDliSlhNU3ZYd1J6UGt3cWM4ZHBzTkxnYTVGbnVWU0ZOVFFqLUk2eFYyQnhxdUxiUFp5Y0lXTnpEOGIwMHBveTR5bzBvZmxjWTA4TmR6OUt0U1ZSd2V0dDhkMlg4TkpFdlFCSEtJN3BXYXJQMFZLZDgyZjR6UTRXeU5fRFZ1MHM1WXpCMEtTOF9CNmptQTJmNzBQN1JyMA?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3pfajk5NldmMDliSlhNU3ZYd1J6UGt3cWM4ZHBzTkxnYTVGbnVWU0ZOVFFqLUk2eFYyQnhxdUxiUFp5Y0lXTnpEOGIwMHBveTR5bzBvZmxjWTA4TmR6OUt0U1ZSd2V0dDhkMlg4TkpFdlFCSEtJN3BXYXJQMFZLZDgyZjR6UTRXeU5fRFZ1MHM1WXpCMEtTOF9CNmptQTJmNzBQN1JyMA?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-11-2befceaa3a54",
-      "original_title": "FinancialJuice: Dollar/yen down 0.21% to 158.94",
-      "published_at": "2026-08-11T00:43:48Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Dollar/yen down 0.21% to 158.94",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715496/Dollaryen-down-021-to-15894.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715496/Dollaryen-down-021-to-15894.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-11-9ec2baa0829f",
-      "original_title": "FinancialJuice: Singapore central bank official: monetary policy stance remains suitable",
-      "published_at": "2026-08-11T00:41:53Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Singapore central bank official: monetary policy stance remains suitable",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715495/Singapore-central-bank-official-monetary-policy-stance-remains-suitable.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715495/Singapore-central-bank-official-monetary-policy-stance-remains-suitable.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-11-fedca402de47",
-      "original_title": "Oil steadies near one-week highs as US-Iran peace deal hopes dim",
-      "published_at": "2026-08-11T00:38:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil steadies near one-week highs as US-Iran peace deal hopes dim",
-          "source": "Reuters",
-          "snippet": "Oil steadies near one-week highs as US-Iran peace deal hopes dim &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-11-90d4bd222ee1",
-      "original_title": "Fed’s Hammack Says Rates Not Restrictive Enough, Calls for Further Hikes",
-      "published_at": "2026-08-11T00:18:35Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Fed’s Hammack Says Rates Not Restrictive Enough, Calls for Further Hikes",
-          "source": "CryptoRank",
-          "snippet": "Fed’s Hammack Says Rates Not Restrictive Enough, Calls for Further Hikes &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kcTBINVQyc3FwMFVqNXo5Zjl6bEw4Mk9HR1pTSm45dE92SEkyaXd1cjcyWWJJZHFhb0tZaUluLUR4WGlrZDF1Z2kzX19TUDVudkFTY09YcldYVTlCV3dJWHQ5QWR6WEduLXVqUg?oc=5"
-        },
-        {
-          "headline": "Fed's Hammack Says Rates Not Restrictive Enough, Calls For Further Hikes",
-          "source": "bitcoinworld.co.in",
-          "snippet": "Fed's Hammack Says Rates Not Restrictive Enough, Calls For Further Hikes &nbsp;&nbsp; bitcoinworld.co.in",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04T2p0OEttdkREb3M3R0hwQlRlbnpzamZGUzJ2YVFIblNiQ1JfUWV4RGhTYkM3YzdDUUN2SlItVUNWa1hXMW43SkpGTU1fQlVWdjlRS3A5dkR5cmM2QWJN?oc=5"
-        },
-        {
-          "headline": "Fed's Hammack calls for rate hikes, says policy not restrictive enough",
-          "source": "FXStreet",
-          "snippet": "Fed's Hammack calls for rate hikes, says policy not restrictive enough &nbsp;&nbsp; FXStreet",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXhrdjBPT2xFcDlzT1hMd25TaG5kd3g2QUhpcUVjV2gzODRqaU5XSG1IQmE1Ykw3S0ZXYndtUGxlRWF2WWJrTHJFZWdMYVN0VFFTdVowLWFqeWV1STB6SnlKdHU3VEthREJIS19iMXdIRTVKSUY4R3BYa1J2bUtfZnZ2cE4zTk80emNGNEpnNE5kaUtKbUR3UTZUbVM4MGxZYkJRcWJXZktyaGNCSmJV?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kcTBINVQyc3FwMFVqNXo5Zjl6bEw4Mk9HR1pTSm45dE92SEkyaXd1cjcyWWJJZHFhb0tZaUluLUR4WGlrZDF1Z2kzX19TUDVudkFTY09YcldYVTlCV3dJWHQ5QWR6WEduLXVqUg?oc=5"
-        },
-        {
-          "name": "bitcoinworld.co.in",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04T2p0OEttdkREb3M3R0hwQlRlbnpzamZGUzJ2YVFIblNiQ1JfUWV4RGhTYkM3YzdDUUN2SlItVUNWa1hXMW43SkpGTU1fQlVWdjlRS3A5dkR5cmM2QWJN?oc=5"
-        },
-        {
-          "name": "FXStreet",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXhrdjBPT2xFcDlzT1hMd25TaG5kd3g2QUhpcUVjV2gzODRqaU5XSG1IQmE1Ykw3S0ZXYndtUGxlRWF2WWJrTHJFZWdMYVN0VFFTdVowLWFqeWV1STB6SnlKdHU3VEthREJIS19iMXdIRTVKSUY4R3BYa1J2bUtfZnZ2cE4zTk80emNGNEpnNE5kaUtKbUR3UTZUbVM4MGxZYkJRcWJXZktyaGNCSmJV?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-11-398dcb5c8c13",
-      "original_title": "FinancialJuice: China PBOC seen setting yuan midpoint at 6.7497 per dollar: Estimate",
-      "published_at": "2026-08-11T00:18:33Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: China PBOC seen setting yuan midpoint at 6.7497 per dollar: Estimate",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715472/China-PBOC-seen-setting-yuan-midpoint-at-67497-per-dollar-Estimate.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715472/China-PBOC-seen-setting-yuan-midpoint-at-67497-per-dollar-Estimate.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-11-1c2f3e08b4b6",
-      "original_title": "트럼프, '이란 암살 위협' 때문에 터키에서 다른 군용기를 타고 비밀리에 출국 언론인들과 일부 백악관 직원들은 그가 에어포스 원에 탑승했다고 믿었습니다. 백악관은 공식적으로 그가 에어포스 원에 탑승했다고 발표했지만, 실제로는 그렇지 않았습니다. 트럼프 대통령의 이동을 언론으로부터 숨기기 위해, 그는 공항 내 식자재 운송 트럭을 이용하여 다른 항공기로 비밀리에 이동했습니다. - 워싱턴 포스트워",
-      "published_at": "2026-08-11T00:07:28Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "트럼프, '이란 암살 위협' 때문에 터키에서 다른 군용기를 타고 비밀리에 출국 언론인들과 일부 백악관 직원들은 그가 에어포스 원에 탑승했다고 믿었습니다. 백악관은 공식적으로 그가 에어포스 원에 탑승했다고 발표했지만, 실제로는 그렇지 않았습니다. 트럼프 대통령의 이동을 언론으로부터 숨기기 위해, 그는 공항 내 식자재 운송 트럭을 이용하여 다른 항공기로 비밀리에 이동했습니다. - 워싱턴 포스트워",
-          "source": "Telegram @goddessTTF",
-          "snippet": "트럼프, '이란 암살 위협' 때문에 터키에서 다른 군용기를 타고 비밀리에 출국 언론인들과 일부 백악관 직원들은 그가 에어포스 원에 탑승했다고 믿었습니다. 백악관은 공식적으로 그가 에어포스 원에 탑승했다고 발표했지만, 실제로는 그렇지 않았습니다. 트럼프 대통령의 이동을 언론으로부터 숨기기 위해, 그는 공항 내 식자재 운송 트럭을 이용하여 다른 항공기로 비밀리에 이동했습니다. - 워싱턴 포스트워싱턴 포스트",
-          "url": "https://t.me/goddessTTF/82123"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82123"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-d8cfea1b6497",
-      "original_title": "Iran says Strait of Hormuz won’t reopen until US meets sweeping demands",
-      "published_at": "2026-08-10T23:33:14Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran says Strait of Hormuz won’t reopen until US meets sweeping demands",
-          "source": "Scripps News",
-          "snippet": "Iran says Strait of Hormuz won’t reopen until US meets sweeping demands &nbsp;&nbsp; Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHM4cmJ2Szd3NGhRMFNwOVZvSHpWUS1paHJydTVBVnQtOERHRlAtcE1tSmxpRXVNUzU1QkxJSmlVSnRrTjk4QWZnWkhHUUpqYk5oRlFHZmVLTVRYajFhclQwSTFfbjAzeVR2SDFsa2k5c1lCMGFvOFN2OTZTU3pTS2kzZXN4WGFpLTlNT2dmQUdYN1VseERSamVMLWZIY0NLTHlySnlPbGhpeGVvZFdWb2ZCX0JwZw?oc=5"
-        },
-        {
-          "headline": "Iran Again Refuses to Reopen Strait of Hormuz Unless US Meets Demands",
-          "source": "mb.ntd.com",
-          "snippet": "Iran Again Refuses to Reopen Strait of Hormuz Unless US Meets Demands &nbsp;&nbsp; mb.ntd.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFpXaGRtZG5yRmhRUFk3aFJQS2pwTVM5LTBqVDd4UDR5MVFMR0ROM3lxRUVMMkNJdEp2dGpHMV9lVWR3RW8wYVNvVWp6RHZLdXFGNU1kZ2VZYk5PLTh2OTZuaDI4YXg3S1M0RU1mYk1ONnVFWnBlcFJ2SEVNRWJEem51aHhlRm1EOHZ0NERyZW5XS0MySnpJTnpOLWRwQ2VBNGln?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHM4cmJ2Szd3NGhRMFNwOVZvSHpWUS1paHJydTVBVnQtOERHRlAtcE1tSmxpRXVNUzU1QkxJSmlVSnRrTjk4QWZnWkhHUUpqYk5oRlFHZmVLTVRYajFhclQwSTFfbjAzeVR2SDFsa2k5c1lCMGFvOFN2OTZTU3pTS2kzZXN4WGFpLTlNT2dmQUdYN1VseERSamVMLWZIY0NLTHlySnlPbGhpeGVvZFdWb2ZCX0JwZw?oc=5"
-        },
-        {
-          "name": "mb.ntd.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFpXaGRtZG5yRmhRUFk3aFJQS2pwTVM5LTBqVDd4UDR5MVFMR0ROM3lxRUVMMkNJdEp2dGpHMV9lVWR3RW8wYVNvVWp6RHZLdXFGNU1kZ2VZYk5PLTh2OTZuaDI4YXg3S1M0RU1mYk1ONnVFWnBlcFJ2SEVNRWJEem51aHhlRm1EOHZ0NERyZW5XS0MySnpJTnpOLWRwQ2VBNGln?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-c8c8c5e81fb5",
-      "original_title": "Unemployment rate remains Fed's labor market lodestar",
-      "published_at": "2026-08-10T23:30:26Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Unemployment rate remains Fed's labor market lodestar",
-          "source": "Reuters",
-          "snippet": "Unemployment rate remains Fed's labor market lodestar &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2NvR0U1UFptOEF6cERsd1diMU9McnU3VDFneDhZSlBSTWcyemxieGwyRW5LaUpwRWRtNnVlZU5zT3JBVE14b29YNHNxVEJ4Ykhn?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2NvR0U1UFptOEF6cERsd1diMU9McnU3VDFneDhZSlBSTWcyemxieGwyRW5LaUpwRWRtNnVlZU5zT3JBVE14b29YNHNxVEJ4Ykhn?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-b27744483766",
-      "original_title": "Wall Street ends down as expectations of Hormuz deal fade",
-      "published_at": "2026-08-10T23:19:10Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Wall Street ends down as expectations of Hormuz deal fade",
-          "source": "Reuters",
-          "snippet": "Wall Street ends down as expectations of Hormuz deal fade &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-056e5f38fddf",
-      "original_title": "FinancialJuice: Colombia inflation rose 0.17% last month: government statistics agency",
-      "published_at": "2026-08-10T22:59:52Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Colombia inflation rose 0.17% last month: government statistics agency",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715395/Colombia-inflation-rose-017-last-month-government-statistics-agency.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715395/Colombia-inflation-rose-017-last-month-government-statistics-agency.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-82dd90508d10",
-      "original_title": "Oil surges as Iran’s Hormuz deal with Oman remains elusive",
-      "published_at": "2026-08-10T22:55:23Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil surges as Iran’s Hormuz deal with Oman remains elusive",
-          "source": "The Edge Singapore",
-          "snippet": "Oil surges as Iran’s Hormuz deal with Oman remains elusive &nbsp;&nbsp; The Edge Singapore",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnEwX2lYLWxJUDh0bDJSWnJNRFl2RVl2aW9xS0k4cThldjlOdjFZRXZMOXBEZm1oTEktMHJoVk1nS1Q3Ri1mRktEZzlfd1NZLTVjUUY5TDFhLWNpSGJ2eGFIQXVidU15azJ3VGlsanZoOXdEQnRjTjA5MlhacDBpalUzdWFKRHJNVGxMRGlONVdTQVI5OUZid3czOXBtd9IBowFBVV95cUxPUHpLMFFNTkRJUEQ4VTNxbmpTUmxVY2J5aVZLdUZnQzctS0VCVnlvZEc0RzQ3c0tMNVF6MlIyN05QOG1RWkVlZjBsemhycHlvQ1p4dVhqamRsMVZJQTY2VGh0MTNreWJNVlg4bXM2QWRUaFF4Vk9wclhpWDV2ekpFV3ZvQUoydVQ4YUFXT0V3TFF3TmpCTE94cTJmbng0V0M2dFJN?oc=5"
-        },
-        {
-          "headline": "Oil rises as Iran-Oman Hormuz deal nears but reopening remains uncertain",
-          "source": "Geo News",
-          "snippet": "Oil rises as Iran-Oman Hormuz deal nears but reopening remains uncertain &nbsp;&nbsp; Geo News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzBVaURQUlBka0R2VXFWSDgwRFQtMG9hNkwzbXhJMzQxbnZlV09BcTFDZXRKWGV6ZDBiVGFIQjBwakZMNmlmZ2dZVnh2cUU0aG15amlqVTB0OU9kcHNzTTJvWXlEU3ZhdFA1ZnhoTURLMGd1MUdFSEduYlhkb3M0dmxPTzl1UW1MeFowY3gwa3ppM0taSDNkWkVtc1QzXzNlQzVsYlRVZzc?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Edge Singapore",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnEwX2lYLWxJUDh0bDJSWnJNRFl2RVl2aW9xS0k4cThldjlOdjFZRXZMOXBEZm1oTEktMHJoVk1nS1Q3Ri1mRktEZzlfd1NZLTVjUUY5TDFhLWNpSGJ2eGFIQXVidU15azJ3VGlsanZoOXdEQnRjTjA5MlhacDBpalUzdWFKRHJNVGxMRGlONVdTQVI5OUZid3czOXBtd9IBowFBVV95cUxPUHpLMFFNTkRJUEQ4VTNxbmpTUmxVY2J5aVZLdUZnQzctS0VCVnlvZEc0RzQ3c0tMNVF6MlIyN05QOG1RWkVlZjBsemhycHlvQ1p4dVhqamRsMVZJQTY2VGh0MTNreWJNVlg4bXM2QWRUaFF4Vk9wclhpWDV2ekpFV3ZvQUoydVQ4YUFXT0V3TFF3TmpCTE94cTJmbng0V0M2dFJN?oc=5"
-        },
-        {
-          "name": "Geo News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzBVaURQUlBka0R2VXFWSDgwRFQtMG9hNkwzbXhJMzQxbnZlV09BcTFDZXRKWGV6ZDBiVGFIQjBwakZMNmlmZ2dZVnh2cUU0aG15amlqVTB0OU9kcHNzTTJvWXlEU3ZhdFA1ZnhoTURLMGd1MUdFSEduYlhkb3M0dmxPTzl1UW1MeFowY3gwa3ppM0taSDNkWkVtc1QzXzNlQzVsYlRVZzc?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-9d75f8570d25",
-      "original_title": "Trump Hints US Will Let Economic Pressure on Iran Do the Work",
-      "published_at": "2026-08-10T22:43:08Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Trump Hints US Will Let Economic Pressure on Iran Do the Work",
-          "source": "Bloomberg.com",
-          "snippet": "Trump Hints US Will Let Economic Pressure on Iran Do the Work &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGVBQ1MzZTB1d2lIS2R0RkpKVFZVdElNUEF0TkxQR2hxZ1ZnMnVGUE9zS0ppTS1mS3pBUC10bHBraTE0TzVBUEc2WGVYMjRSUEk2QWc1dy1Xa21yVHR3YVplRURnZUpZNzdHRDF6aGIyUUlCSTZmT2pVUktqWTUzbEZyNDVVcHc3Zlp0RkZIa19ja3NBNmZ0ZUV6MGFWZldkcGlpYkIyV3hqcWJsWV9KQW1CYndlWlAyYkVOZnBKbG1FQQ?oc=5"
-        },
-        {
-          "headline": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
-          "source": "Al Jazeera",
-          "snippet": "What’s behind Trump’s shift to economic pressure on Iran? Will it work? &nbsp;&nbsp; Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTY5TTlwdkYwOHlVbjNDM1Jia3BsMkc0LWdrNjJ4dlEtZFgzRkxTdDc2bFRvUnUzMUNJMzlSUjNmellWTWwtVWY2ejBrRG9ETkNOdkt5el8zV1F0a29CU1k3aW9BcXJrc1NmOE9vWVJXT2J0ZEtkb0NHVnVLMml4M2FxMjFBUFhEWDhIVzc3VnZVODU0dllLTVdVYW9pRDd6d3hSaFhsZlEtS2xp0gGyAUFVX3lxTE5OUkxXWmxET0s2MzdDb2RXZklsTnJIb3BtZkZ3c1ZINWw2YmoyWXlZRzM0WmpGdVlidFBSdnNMUUdURlV2Tmk0Q3o1c3ZYZTJ1MnNBVDdnVkxPSVVZNExSXzczV0loZHM2SEJ6VVNENlFEZzBpY21qal9oUDhZRXdjZlNHTzBiRXZuRUQ4TTBrem9yOVpaOFlSQzUzdnBkUmNvc2s0ZTdMMjIxNWVBNlFHMVE?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGVBQ1MzZTB1d2lIS2R0RkpKVFZVdElNUEF0TkxQR2hxZ1ZnMnVGUE9zS0ppTS1mS3pBUC10bHBraTE0TzVBUEc2WGVYMjRSUEk2QWc1dy1Xa21yVHR3YVplRURnZUpZNzdHRDF6aGIyUUlCSTZmT2pVUktqWTUzbEZyNDVVcHc3Zlp0RkZIa19ja3NBNmZ0ZUV6MGFWZldkcGlpYkIyV3hqcWJsWV9KQW1CYndlWlAyYkVOZnBKbG1FQQ?oc=5"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTY5TTlwdkYwOHlVbjNDM1Jia3BsMkc0LWdrNjJ4dlEtZFgzRkxTdDc2bFRvUnUzMUNJMzlSUjNmellWTWwtVWY2ejBrRG9ETkNOdkt5el8zV1F0a29CU1k3aW9BcXJrc1NmOE9vWVJXT2J0ZEtkb0NHVnVLMml4M2FxMjFBUFhEWDhIVzc3VnZVODU0dllLTVdVYW9pRDd6d3hSaFhsZlEtS2xp0gGyAUFVX3lxTE5OUkxXWmxET0s2MzdDb2RXZklsTnJIb3BtZkZ3c1ZINWw2YmoyWXlZRzM0WmpGdVlidFBSdnNMUUdURlV2Tmk0Q3o1c3ZYZTJ1MnNBVDdnVkxPSVVZNExSXzczV0loZHM2SEJ6VVNENlFEZzBpY21qal9oUDhZRXdjZlNHTzBiRXZuRUQ4TTBrem9yOVpaOFlSQzUzdnBkUmNvc2s0ZTdMMjIxNWVBNlFHMVE?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-d99d04294f1a",
-      "original_title": "FinancialJuice: Libya's National Oil Corporation: Drone strikes Zawiya oil blending plant, no damage or casualties",
-      "published_at": "2026-08-10T22:01:14Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Libya's National Oil Corporation: Drone strikes Zawiya oil blending plant, no damage or casualties",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715335/Libyas-National-Oil-Corporation-Drone-strikes-Zawiya-oil-blending-plant-no-damage-or-casualties.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715335/Libyas-National-Oil-Corporation-Drone-strikes-Zawiya-oil-blending-plant-no-damage-or-casualties.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-aa655f5bbc24",
-      "original_title": "LatAm assets mixed ahead of US inflation; Middle East in focus",
-      "published_at": "2026-08-10T21:23:43Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "LatAm assets mixed ahead of US inflation; Middle East in focus",
-          "source": "Reuters",
-          "snippet": "LatAm assets mixed ahead of US inflation; Middle East in focus &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnpjam04V3d5MXZUa0xXZnZCbEJMX0F0Qms3ZFNBdGtSVF9DVTRCM1hNV0hYdEEydTN4UjRRaFdkMEdpYTBWdHJWdHdsbnB0LWZyN0xmdnRxTU9BVFdDNVc2R21NWDg0VlZjU2xWN1VRREExVWNRM292d0Utb1NiZHh0SkljYVV3bDA0NE10Z213YXh5RGItM3pRdlpOdkVkVVoyT3VDVnNZTXNU?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnpjam04V3d5MXZUa0xXZnZCbEJMX0F0Qms3ZFNBdGtSVF9DVTRCM1hNV0hYdEEydTN4UjRRaFdkMEdpYTBWdHJWdHdsbnB0LWZyN0xmdnRxTU9BVFdDNVc2R21NWDg0VlZjU2xWN1VRREExVWNRM292d0Utb1NiZHh0SkljYVV3bDA0NE10Z213YXh5RGItM3pRdlpOdkVkVVoyT3VDVnNZTXNU?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-970b0feed0bc",
-      "original_title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
-      "published_at": "2026-08-10T21:12:07Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-e6de2bcfe32b",
-      "original_title": "Upbit Lists Six Altcoins Including DePIN and AI Tokens in BTC and USDT Markets",
-      "published_at": "2026-08-10T21:01:59Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Upbit Lists Six Altcoins Including DePIN and AI Tokens in BTC and USDT Markets",
-          "source": "Cryptonews.net",
-          "snippet": "Upbit Lists Six Altcoins Including DePIN and AI Tokens in BTC and USDT Markets &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zQmlaYi1HYUtkNWwxd1FKS0M3QW5jeGxscmNFX3drSjJBR2xCaG1TRjMyOHJ5Y21tdmwySHRsOWs4b0dJckRtY19PbldtUjRSWDVIVGRyTQ?oc=5"
-        },
-        {
-          "headline": "Upbit Lists Six Altcoins Including DePIN and AI Tokens in BTC and USDT Markets",
-          "source": "CryptoRank",
-          "snippet": "Upbit Lists Six Altcoins Including DePIN and AI Tokens in BTC and USDT Markets &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1R0Uk1BWDNSVjdBdDdYODZhd2J5bjN0VjVKdmV3NTl0YnVuZkNIVDZHUnBuNXhqZDRFRmlSam5HTWtSRVQ1aUprMXNpMFBndlRjSDJLbXljS25pV3I1U0pWcVI2WU00c05xZWNMZy1uTWJOUGJ2UXJTNkNLeFNYeG83TUlwUUFWak9vcnZ6RWpRZU5yVUJCMExJSy1rOHpndkRWemZkT3dVT3RsQkx1bHZqT25TOGs?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zQmlaYi1HYUtkNWwxd1FKS0M3QW5jeGxscmNFX3drSjJBR2xCaG1TRjMyOHJ5Y21tdmwySHRsOWs4b0dJckRtY19PbldtUjRSWDVIVGRyTQ?oc=5"
-        },
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1R0Uk1BWDNSVjdBdDdYODZhd2J5bjN0VjVKdmV3NTl0YnVuZkNIVDZHUnBuNXhqZDRFRmlSam5HTWtSRVQ1aUprMXNpMFBndlRjSDJLbXljS25pV3I1U0pWcVI2WU00c05xZWNMZy1uTWJOUGJ2UXJTNkNLeFNYeG83TUlwUUFWak9vcnZ6RWpRZU5yVUJCMExJSy1rOHpndkRWemZkT3dVT3RsQkx1bHZqT25TOGs?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-97afd19479da",
-      "original_title": "비트코인까지 팔기 시작한 세일러…스트래티지 전략이 바뀌고 있다",
-      "published_at": "2026-08-10T21:00:20Z",
-      "discovery_source": "youtube",
-      "evidence": [
-        {
-          "headline": "비트코인까지 팔기 시작한 세일러…스트래티지 전략이 바뀌고 있다",
-          "source": "YouTube @새벽에온주호",
-          "snippet": "스트래티지가 다시 비트코인을 팔았습니다. 그런데 이번에는 단순한 현금 확보가 아니었습니다. 비트코인 매도대금으로 STRC 우선주를 다시 사들이고, MSTR 보통주를 발행해 현금 준비금까지 늘렸습니다. 예전의 스트래티지는 “주식을 팔아 비트코인을 사는 회사”에 가까웠습니다. 그런데 이제는 비트코인, MSTR, STRC, 현금을 서로 움직이며 하나의 자본 구조를 관리하기 시작했습니다. 왜 세일러는 비트코인까지 팔면서 STRC를 지키려는 걸까요? 이번 영상에서는 STRC가 스트래티지에게 왜 중요해졌는지, Digital Credit 전략이 어디까지 커졌는지, 그리고 스트래티지가 단순한 비트코인 보유회사를 넘어 ‘비트코인 기반 금융회사’로 바뀌고 있는지 살펴봅니다. #스트래티지 #마이클세일러 #STRC #비트코인 #코인규제 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
-          "url": "https://www.youtube.com/watch?v=JmbhD3TqzkE"
-        }
-      ],
-      "sources": [
-        {
-          "name": "YouTube @새벽에온주호",
-          "url": "https://www.youtube.com/watch?v=JmbhD3TqzkE"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-3a9a1200f6d8",
-      "original_title": "FinancialJuice: Morgan Stanley to target AI, infrastructure, defense sectors.",
-      "published_at": "2026-08-10T20:15:12Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Morgan Stanley to target AI, infrastructure, defense sectors.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715217/Morgan-Stanley-to-target-AI-infrastructure-defense-sectors.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715217/Morgan-Stanley-to-target-AI-infrastructure-defense-sectors.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-9c317d63b368",
-      "original_title": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
-      "published_at": "2026-08-10T20:11:59Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
-          "source": "Bloomberg.com",
-          "snippet": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ051QnFmV3hNQzM4UV9JMGFIWVBKRmpSdS1IUGRmdWpFLTFtMTdiSDk0TUdpdXhxTGtQMzVXeVZtblBNWVhZMm5CQ1ZqVXhob0F4bEk2NjlBZ2VNcGp1OERjUWhNWGpyODFZMUo5clcycEtuOUxQRzI4M1g2RlpmdFloRXExUkROV3RZX3RBbWxwWEM3cEVLSDc4a2I4SU9OQ29ueDdnR1lXY0ZrLUJr?oc=5"
-        },
-        {
-          "headline": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
-          "source": "Yahoo Finance",
-          "snippet": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenpsZU5XZWxkdWwzaXN0R0hRODFySmJaU3Z5U1E2T1p6dmltV3BJWG1nMXNpSm9RYm1LTktGaktwbXNaSC12WHNvQXpjU1JSbVpEelVWLXdyaG9Fc1hqQVpVcjVQaDY4Q3I0R29OWktMdlJleTQwQmNjUFN2ZGNINUVCSHBXQWxpdEU2MEtnOV8xbU8tYkF3QzRCVE9mMTA?oc=5"
-        },
-        {
-          "headline": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
-          "source": "Yahoo! Finance Canada",
-          "snippet": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile &nbsp;&nbsp; Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWktyaHlmTU5vOXF5TzlFQVp5bmJTdmpQa2xiblBiVUpzSWlUN1Z2R3ZQWTY3dU9sY2lQNzJqOU1pamFFUTA1NGZaYzlidXlDNDEyTldlNGVCcTRhcjZtdTA4dFZCSHRvSnZBd0NCUkU3X1dRb0lKNWV3SkhBM0JjU3NTQUtCT3kzNHc?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ051QnFmV3hNQzM4UV9JMGFIWVBKRmpSdS1IUGRmdWpFLTFtMTdiSDk0TUdpdXhxTGtQMzVXeVZtblBNWVhZMm5CQ1ZqVXhob0F4bEk2NjlBZ2VNcGp1OERjUWhNWGpyODFZMUo5clcycEtuOUxQRzI4M1g2RlpmdFloRXExUkROV3RZX3RBbWxwWEM3cEVLSDc4a2I4SU9OQ29ueDdnR1lXY0ZrLUJr?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenpsZU5XZWxkdWwzaXN0R0hRODFySmJaU3Z5U1E2T1p6dmltV3BJWG1nMXNpSm9RYm1LTktGaktwbXNaSC12WHNvQXpjU1JSbVpEelVWLXdyaG9Fc1hqQVpVcjVQaDY4Q3I0R29OWktMdlJleTQwQmNjUFN2ZGNINUVCSHBXQWxpdEU2MEtnOV8xbU8tYkF3QzRCVE9mMTA?oc=5"
-        },
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWktyaHlmTU5vOXF5TzlFQVp5bmJTdmpQa2xiblBiVUpzSWlUN1Z2R3ZQWTY3dU9sY2lQNzJqOU1pamFFUTA1NGZaYzlidXlDNDEyTldlNGVCcTRhcjZtdTA4dFZCSHRvSnZBd0NCUkU3X1dRb0lKNWV3SkhBM0JjU3NTQUtCT3kzNHc?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-947b1eef79ba",
-      "original_title": "FinancialJuice: Oil Rally Pressures Stocks as Inflation Fears Build – US Market Wrap",
-      "published_at": "2026-08-10T20:05:36Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Oil Rally Pressures Stocks as Inflation Fears Build – US Market Wrap",
-          "source": "FinancialJuice",
-          "snippet": "A rally in oil left stocks wavering and pushed bond yields higher, with investors turning cautious ahead of key US inflation reports. Brent crude climbed above $87 as the US and Iran failed to reach a deal to reopen the Strait of Hormuz. Higher energy costs fueled concerns that the Federal Reserve may still need to raise rates this year despite signs of a cooling labor market. Most S&amp;P 500 shares declined, while Nvidia sank amid reports that major Wall Street firms are working with the chipmaker on a $500 billion AI funding package. Trump criticized Iran’s demands for war compensation as part of negotiations to end the conflict, dampening hopes for a swift agreement to restore traffic through the strait. Trump had indicated Sunday that he was willing to let economic pressure on Iran intensify rather than launch new strikes to force the waterway’s reopening. Cleveland Fed President Beth Hammack said several rate hikes could be required to return inflation to target, though she cautioned against prejudging where rates ultimately need to settle. Elsewhere, the yen weakened, giving back roughly half of the gains sparked by coordinated US-Japan intervention to support the currency.",
-          "url": "https://www.financialjuice.com/News/9715215/Oil-Rally-Pressures-Stocks-as-Inflation-Fears-Build--US-Market-Wrap.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715215/Oil-Rally-Pressures-Stocks-as-Inflation-Fears-Build--US-Market-Wrap.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-c34cef71b38d",
-      "original_title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
-      "published_at": "2026-08-10T20:03:24Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-a9dd2fef7617",
-      "original_title": "Cleveland Fed's Hammack expects that more than one rate hike will be needed",
-      "published_at": "2026-08-10T20:00:01Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Cleveland Fed's Hammack expects that more than one rate hike will be needed",
-          "source": "Seeking Alpha",
-          "snippet": "Cleveland Fed's Hammack expects that more than one rate hike will be needed &nbsp;&nbsp; Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHd5MGNGMTh3VGhqTXNOTTNxb0VhZ1VIN0pCeXNXb2tfcWtvX1AtbnJNZ2RmSG5BLU1YWkplZDh6ZTdvZ0pTUHNGWDJhb0RseTFyUVVMOTJNbG5XQWhHTGhiR0ZMUnBhTG91NmFUQ0lSbXZfbElZR0V2Q25sT3VnLWg4UEVteFpROXMwcG5NZ1JxQWJJT0xHTDVCOGM5UGJ0N3hZT0hfZHd3Q1M5OC12dVFB?oc=5"
-        },
-        {
-          "headline": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
-          "source": "Forex Factory",
-          "snippet": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation &nbsp;&nbsp; Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmRBcXVGZkdObUJxODREY2dwZFo5d3JzR2NjdGFpVlRobGhaNEUwenRndjJWa2p5UEc1ZTRCZWF6ZzB3c3A2dmgtS1FoTFRnLUtINlZSZ3NBMGM4bHE0a0ZTRWI3ZDA0dk1JNnR2WUZFZWVOTXlWZW9xTWdoaXRSajlEWGpFRC1CYjdOakhXLWvSAZYBQVVfeXFMUGxhZC1KYjV2VVk4cENGTHNKRXp0RU02SGs4QWpiZDAwYVBwVWdVSlZYb2U0SE1DXzNRbkpJYnhLOXJKaC1RMElmeXhhd1dCUjBvbVctdUpFNUp0VFMxODlCNWJvU2dpakRWTE5qWHVpY1pJZExFYlhPMGg5Z2pMWHRRUV96N1hiOUhUdkZIVWZDUDhfa2tR?oc=5"
-        },
-        {
-          "headline": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
-          "source": "Yahoo Finance",
-          "snippet": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc0p6bmp0dkFSREZzNXpRZC1aZTBzSHlZcDlSMVdNRGh1NWNJbHhsQXc2OG9PcEozRzZqXzgyOU5QMV9vRm1hYXMycXZ6UDRuQmhNRENOVHg2M2I5dDJXNUM1akRGMWN1TUh0eUNUelZIalB5MVhCNXhHc21UZkxwdC1lSzV0RWpUaEVwNU9odkx0XzlLVUVzajQ5VlA3VzBpWkYtaVNPeTA1Xzg3RUtzNHZMd3ZnbncxVHk5X0RUM3dPdGRIMWF2R1hjU3ZBS0pnMFF5Z28zOGthamEtSTU4b3NpUGFITTVpbnlCYg?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHd5MGNGMTh3VGhqTXNOTTNxb0VhZ1VIN0pCeXNXb2tfcWtvX1AtbnJNZ2RmSG5BLU1YWkplZDh6ZTdvZ0pTUHNGWDJhb0RseTFyUVVMOTJNbG5XQWhHTGhiR0ZMUnBhTG91NmFUQ0lSbXZfbElZR0V2Q25sT3VnLWg4UEVteFpROXMwcG5NZ1JxQWJJT0xHTDVCOGM5UGJ0N3hZT0hfZHd3Q1M5OC12dVFB?oc=5"
-        },
-        {
-          "name": "Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmRBcXVGZkdObUJxODREY2dwZFo5d3JzR2NjdGFpVlRobGhaNEUwenRndjJWa2p5UEc1ZTRCZWF6ZzB3c3A2dmgtS1FoTFRnLUtINlZSZ3NBMGM4bHE0a0ZTRWI3ZDA0dk1JNnR2WUZFZWVOTXlWZW9xTWdoaXRSajlEWGpFRC1CYjdOakhXLWvSAZYBQVVfeXFMUGxhZC1KYjV2VVk4cENGTHNKRXp0RU02SGs4QWpiZDAwYVBwVWdVSlZYb2U0SE1DXzNRbkpJYnhLOXJKaC1RMElmeXhhd1dCUjBvbVctdUpFNUp0VFMxODlCNWJvU2dpakRWTE5qWHVpY1pJZExFYlhPMGg5Z2pMWHRRUV96N1hiOUhUdkZIVWZDUDhfa2tR?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc0p6bmp0dkFSREZzNXpRZC1aZTBzSHlZcDlSMVdNRGh1NWNJbHhsQXc2OG9PcEozRzZqXzgyOU5QMV9vRm1hYXMycXZ6UDRuQmhNRENOVHg2M2I5dDJXNUM1akRGMWN1TUh0eUNUelZIalB5MVhCNXhHc21UZkxwdC1lSzV0RWpUaEVwNU9odkx0XzlLVUVzajQ5VlA3VzBpWkYtaVNPeTA1Xzg3RUtzNHZMd3ZnbncxVHk5X0RUM3dPdGRIMWF2R1hjU3ZBS0pnMFF5Z28zOGthamEtSTU4b3NpUGFITTVpbnlCYg?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-80f83525555e",
-      "original_title": "FinancialJuice: Trump: Spoke to Warsh once briefly a few days ago.",
-      "published_at": "2026-08-10T19:35:25Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Trump: Spoke to Warsh once briefly a few days ago.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715192/Trump-Spoke-to-Warsh-once-briefly-a-few-days-ago.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715192/Trump-Spoke-to-Warsh-once-briefly-a-few-days-ago.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-426fe1ffa264",
-      "original_title": "FinancialJuice: Trump denies WSJ story about Warsh conversations.",
-      "published_at": "2026-08-10T19:35:15Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Trump denies WSJ story about Warsh conversations.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715191/Trump-denies-WSJ-story-about-Warsh-conversations.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715191/Trump-denies-WSJ-story-about-Warsh-conversations.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-0b2a55749e13",
-      "original_title": "Cleveland Fed president Hammack says ‘some number’ of rate hikes may be needed",
-      "published_at": "2026-08-10T19:35:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Cleveland Fed president Hammack says ‘some number’ of rate hikes may be needed",
-          "source": "Crain's Cleveland Business",
-          "snippet": "Cleveland Fed president Hammack says ‘some number’ of rate hikes may be needed &nbsp;&nbsp; Crain's Cleveland Business",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hQ2szeWg0dWczR2thejNsdVgxN0htbFl5Q25WM2gzamRCdVNmaTR0ZnM1UmptS19UUEk5ejgtdGNnQ1h0ZXU3a1BpNTZzNlNVUFZ4VjlOb3NOSUhpa054eEhSX0dQZXZkNnlXSkFZQ1BydWZmVXRJdVB2bWRtYms?oc=5"
-        },
-        {
-          "headline": "Fed’s Hammack Says ‘Some Number’ of Rate Hikes May Be Needed",
-          "source": "Bloomberg.com",
-          "snippet": "Fed’s Hammack Says ‘Some Number’ of Rate Hikes May Be Needed &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEVhVkM1SUhSLUtrbUR6ODh2Mll2bTFMVTY5azl2YnZPZnpjd3Nhemt4N3ktYmU1bVVDb21vYTA0eC1WeG9CM1RCUkJZT2JPc0dUREtGVmhOZTREZHRPUVMzRzhPV2RseDRuOHdFYTNCWU1yR3VvUkNycVptYlJVTTJJa0gwSXVwZ1ZwTWVfV2dIMl9wdzdPT0ZYbmk2MkQwOTJrR0VtX19DRlA4VkE?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Crain's Cleveland Business",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hQ2szeWg0dWczR2thejNsdVgxN0htbFl5Q25WM2gzamRCdVNmaTR0ZnM1UmptS19UUEk5ejgtdGNnQ1h0ZXU3a1BpNTZzNlNVUFZ4VjlOb3NOSUhpa054eEhSX0dQZXZkNnlXSkFZQ1BydWZmVXRJdVB2bWRtYms?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEVhVkM1SUhSLUtrbUR6ODh2Mll2bTFMVTY5azl2YnZPZnpjd3Nhemt4N3ktYmU1bVVDb21vYTA0eC1WeG9CM1RCUkJZT2JPc0dUREtGVmhOZTREZHRPUVMzRzhPV2RseDRuOHdFYTNCWU1yR3VvUkNycVptYlJVTTJJa0gwSXVwZ1ZwTWVfV2dIMl9wdzdPT0ZYbmk2MkQwOTJrR0VtX19DRlA4VkE?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-302995e32a28",
-      "original_title": "FinancialJuice: Trump: US is the only one that has control of Hormuz.",
-      "published_at": "2026-08-10T19:33:55Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Trump: US is the only one that has control of Hormuz.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715189/Trump-US-is-the-only-one-that-has-control-of-Hormuz.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715189/Trump-US-is-the-only-one-that-has-control-of-Hormuz.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-d9e9f08a65bf",
-      "original_title": "FinancialJuice: Trump on Iran: US is going to ask for money for damage Iran has done.",
-      "published_at": "2026-08-10T19:24:39Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Trump on Iran: US is going to ask for money for damage Iran has done.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715164/Trump-on-Iran-US-is-going-to-ask-for-money-for-damage-Iran-has-done.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715164/Trump-on-Iran-US-is-going-to-ask-for-money-for-damage-Iran-has-done.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-833d91d297f6",
-      "original_title": "FinancialJuice: Trump on Iran: We still have ability to escalate",
-      "published_at": "2026-08-10T19:24:06Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Trump on Iran: We still have ability to escalate",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715163/Trump-on-Iran-We-still-have-ability-to-escalate.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715163/Trump-on-Iran-We-still-have-ability-to-escalate.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-7364ec92de95",
-      "original_title": "Hormuz opening hopes fade as Trump, Iran trade demands",
-      "published_at": "2026-08-10T19:17:08Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Hormuz opening hopes fade as Trump, Iran trade demands",
-          "source": "Transport Topics",
-          "snippet": "Hormuz opening hopes fade as Trump, Iran trade demands &nbsp;&nbsp; Transport Topics",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CTlN4WEZKUmtvelk3U2N6MzdRRmJLd1llYXg1MzBFZ01yZjFuaEFjaWV0RGp5ekR1dXlsNXJIRnhNd1ZkTUg4S09qaS1TUW9CNUI1RjF1NFJzcFFBcVg2cHBHZ09ZUi1q?oc=5"
-        },
-        {
-          "headline": "Trump demands Iran pay compensation for deaths as Hormuz deal hopes fade",
-          "source": "Reuters",
-          "snippet": "Trump demands Iran pay compensation for deaths as Hormuz deal hopes fade &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmFvNGYwRDFRdHZrdWhBOWR0ZmVCdkZTSzRROXVNMG1UX1Azb04xa3ZCbEtYNkl4eFhSZG16b0xYeHNyd2tTdHhGWXFUTXJ6WFNVRjg3bmZYOEhEeHNaNHh4NU9qN0RQYXY3ZG13Qzh6Mk1LNG9jaGZraUZwRHVKY0hMZlFWUTdMOEpoaTRuemlPWEFJZUhsYk5TaUpNdWFqR1dId3NCM0xvYS1SNlNBMg?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Transport Topics",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CTlN4WEZKUmtvelk3U2N6MzdRRmJLd1llYXg1MzBFZ01yZjFuaEFjaWV0RGp5ekR1dXlsNXJIRnhNd1ZkTUg4S09qaS1TUW9CNUI1RjF1NFJzcFFBcVg2cHBHZ09ZUi1q?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmFvNGYwRDFRdHZrdWhBOWR0ZmVCdkZTSzRROXVNMG1UX1Azb04xa3ZCbEtYNkl4eFhSZG16b0xYeHNyd2tTdHhGWXFUTXJ6WFNVRjg3bmZYOEhEeHNaNHh4NU9qN0RQYXY3ZG13Qzh6Mk1LNG9jaGZraUZwRHVKY0hMZlFWUTdMOEpoaTRuemlPWEFJZUhsYk5TaUpNdWFqR1dId3NCM0xvYS1SNlNBMg?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-4ffd019e9738",
-      "original_title": "FinancialJuice: NOC Chairman Suleman: A drone hit a laden fuel storage tank at Zawiya oil refinery. Another targeting took place on Saturday but caused no fire.",
-      "published_at": "2026-08-10T19:14:11Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: NOC Chairman Suleman: A drone hit a laden fuel storage tank at Zawiya oil refinery. Another targeting took place on Saturday but caused no fire.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715153/NOC-Chairman-Suleman-A-drone-hit-a-laden-fuel-storage-tank-at-Zawiya-oil-refinery-Another-targeting-took-place-on-Saturday-but-caused-no-fire-.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715153/NOC-Chairman-Suleman-A-drone-hit-a-laden-fuel-storage-tank-at-Zawiya-oil-refinery-Another-targeting-took-place-on-Saturday-but-caused-no-fire-.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-aeb3276d9deb",
-      "original_title": "Gold climbs to nine-week high on buying momentum as inflation data looms",
-      "published_at": "2026-08-10T19:13:32Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Gold climbs to nine-week high on buying momentum as inflation data looms",
-          "source": "Reuters",
-          "snippet": "Gold climbs to nine-week high on buying momentum as inflation data looms &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEF0Uk1tb1JuQWhENTdaLVRfN2ZtbExLM3RoUFVJZ0IzNkhCYlZuc3R2dTY5ZHJxWVJBZVpQbHBES0NybEFsRVkxUFRmT0lVSVMxeUFxOEJKb2ZMWUFDSDh5WHh6S2NscTc1dE5uUFJTalpGLUltVllCX085a2lUbndIeDRVU0NvUmVINTRjU1BnZm9oREFxbUFPeVhTSllrc1h2d29vN0E?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEF0Uk1tb1JuQWhENTdaLVRfN2ZtbExLM3RoUFVJZ0IzNkhCYlZuc3R2dTY5ZHJxWVJBZVpQbHBES0NybEFsRVkxUFRmT0lVSVMxeUFxOEJKb2ZMWUFDSDh5WHh6S2NscTc1dE5uUFJTalpGLUltVllCX085a2lUbndIeDRVU0NvUmVINTRjU1BnZm9oREFxbUFPeVhTSllrc1h2d29vN0E?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-d5d025b41456",
-      "original_title": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops",
-      "published_at": "2026-08-10T19:10:41Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops",
-          "source": "Reuters",
-          "snippet": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-42653385241b",
-      "original_title": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week",
-      "published_at": "2026-08-10T19:06:58Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week",
-          "source": "Cryptonews.net",
-          "snippet": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mRUJ2bFN5dkwtVHEycjhsQ1d6Ty11bnMzMDJJanpSaC1lYnVJT3B6QW1YVmhLZFF6TmlwcnM5dDlsYkprdFUzY0ltVDRUdE1XS0RvZGFHcGw?oc=5"
-        },
-        {
-          "headline": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week",
-          "source": "TradingView",
-          "snippet": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week &nbsp;&nbsp; TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3VYTDV3S1hqcmFsVk1SaXZkYkc1b192R2FLNThxb3lvR081YlVwakNlbmZnN2lYazM4cHEzSm9WenNXYnA0Y0hhWllPZ0NsNGhLYktlNUo0a3RrcnY3akUxQ0d6Q1Y0VGNfb3JqTjQzdmtTYWhwZkJ3Q29HWlBGOUROaHpid21uUlJTV3BvT09OTS1oVEd6X3lKUGpMZmRrMnVSOHhHc2NyMVB2ZUlGLXFTaFBJNDRsTFNMM1puYmZzUzlCcV84cnFWUE80aTN2SWtyOVY4SzlEZkxkYUw2c1lGSU0?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mRUJ2bFN5dkwtVHEycjhsQ1d6Ty11bnMzMDJJanpSaC1lYnVJT3B6QW1YVmhLZFF6TmlwcnM5dDlsYkprdFUzY0ltVDRUdE1XS0RvZGFHcGw?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3VYTDV3S1hqcmFsVk1SaXZkYkc1b192R2FLNThxb3lvR081YlVwakNlbmZnN2lYazM4cHEzSm9WenNXYnA0Y0hhWllPZ0NsNGhLYktlNUo0a3RrcnY3akUxQ0d6Q1Y0VGNfb3JqTjQzdmtTYWhwZkJ3Q29HWlBGOUROaHpid21uUlJTV3BvT09OTS1oVEd6X3lKUGpMZmRrMnVSOHhHc2NyMVB2ZUlGLXFTaFBJNDRsTFNMM1puYmZzUzlCcV84cnFWUE80aTN2SWtyOVY4SzlEZkxkYUw2c1lGSU0?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-f5dce23a4c40",
-      "original_title": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade",
-      "published_at": "2026-08-10T19:05:26Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade",
-          "source": "Yahoo Finance",
-          "snippet": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTl0TXZOenBQNzZtOHJ0Yk5hTkN0Sk1PeVlBUEFiMWxpUGJYaVpTM2liNFJ3bVhuUVJobXRoZ1NWc2dZVnlGUXpudjJ2RmRBQzRmZjludFFEVnMwOHBONXRrYnpLaTQ3bUM0SnVfVjF4NGtFeHNXbFJRZXNYY1JYRk8tY0NoZGJJbVhtTW1CZ1ZNX3RiX2hHOQ?oc=5"
-        },
-        {
-          "headline": "Oil rises 4% as Iran, US both demand compensation and Hormuz hopes fade",
-          "source": "The Lufkin Daily News",
-          "snippet": "Oil rises 4% as Iran, US both demand compensation and Hormuz hopes fade &nbsp;&nbsp; The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQW95ejMwblk2Wk42MWlWMHR6ci1IQnNmdEUxeVFzb0RxcEFRZDBGem45TkZsWU1vVmJSMDJENERDbE9DOWtKLTBFdm9KdGEtaDlvQWhENV9UQ0tUbWVQd0dKMkNwYlVJRGJzTm5xdGFFTEk1QWZPaE53TXVxQk9IbHk3VVFZTnRGSDF4OENia0pTeldkMHlldHV0TXJCel9mcTFUY3lSQUI4MzJoY20yMGdIZ1dXRFl2bThFemNFMVdqWk5Md0VsQkhZV2I3ZVJLZ1hXYUZHaWdtVENILWtiQ1VUZVQ2WFhmNWxrRGZJNTFCenFOOHpLdWVKMFRaUQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTl0TXZOenBQNzZtOHJ0Yk5hTkN0Sk1PeVlBUEFiMWxpUGJYaVpTM2liNFJ3bVhuUVJobXRoZ1NWc2dZVnlGUXpudjJ2RmRBQzRmZjludFFEVnMwOHBONXRrYnpLaTQ3bUM0SnVfVjF4NGtFeHNXbFJRZXNYY1JYRk8tY0NoZGJJbVhtTW1CZ1ZNX3RiX2hHOQ?oc=5"
-        },
-        {
-          "name": "The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQW95ejMwblk2Wk42MWlWMHR6ci1IQnNmdEUxeVFzb0RxcEFRZDBGem45TkZsWU1vVmJSMDJENERDbE9DOWtKLTBFdm9KdGEtaDlvQWhENV9UQ0tUbWVQd0dKMkNwYlVJRGJzTm5xdGFFTEk1QWZPaE53TXVxQk9IbHk3VVFZTnRGSDF4OENia0pTeldkMHlldHV0TXJCel9mcTFUY3lSQUI4MzJoY20yMGdIZ1dXRFl2bThFemNFMVdqWk5Md0VsQkhZV2I3ZVJLZ1hXYUZHaWdtVENILWtiQ1VUZVQ2WFhmNWxrRGZJNTFCenFOOHpLdWVKMFRaUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-902ca7c6256a",
-      "original_title": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows",
-      "published_at": "2026-08-10T18:59:25Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows",
-          "source": "Reuters",
-          "snippet": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamx6ZmttRHhDNkRmaGxMNngyOFpJbkwxcVU4a3JqZFZ0U3ZXSzNmeUlNWkowUHh2Q29FYnhfNVZ3Wm15WUFsd1FjSDJfczk5Sk90bG1zV2I1emtmOGZuUHpNZTF6TXNGSDVEQXVhMjBRSHQ5TkJ2eWljS3lCU24tRGlCeWgwMlhOa0V0SGlLQUZDX0RDOFExS3VacFpzUWJQdFJEMUFfYVNzeWNzUVE2bmZrNTVkN2tBOVBneVR0dlp1SWwyS2JQLQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamx6ZmttRHhDNkRmaGxMNngyOFpJbkwxcVU4a3JqZFZ0U3ZXSzNmeUlNWkowUHh2Q29FYnhfNVZ3Wm15WUFsd1FjSDJfczk5Sk90bG1zV2I1emtmOGZuUHpNZTF6TXNGSDVEQXVhMjBRSHQ5TkJ2eWljS3lCU24tRGlCeWgwMlhOa0V0SGlLQUZDX0RDOFExS3VacFpzUWJQdFJEMUFfYVNzeWNzUVE2bmZrNTVkN2tBOVBneVR0dlp1SWwyS2JQLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-223de6035721",
-      "original_title": "3 Altcoins to Watch for the Second Week of August 2026",
-      "published_at": "2026-08-10T18:53:44Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "3 Altcoins to Watch for the Second Week of August 2026",
-          "source": "BeInCrypto",
-          "snippet": "3 Altcoins to Watch for the Second Week of August 2026 &nbsp;&nbsp; BeInCrypto",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvRE9VbDEzZ1F0Tjl4eURCUjFUZUlELVJxQi1UV01nM2JCMVUwdVoxMkhITjZZYjZiRHhhdHVJTTlNNDZLRWNFZUZ0TEtMbUZweEdTRW5EVHE5dlNTWV91enp1enVvbk5oLVF4S3JSb1J0ZUk?oc=5"
-        },
-        {
-          "headline": "3 Token Unlocks to Watch in the Second Week of August 2026",
-          "source": "CryptoRank",
-          "snippet": "3 Token Unlocks to Watch in the Second Week of August 2026 &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcE5NYU9UN3o2NjZpNUZSUXhoZzZ6OFd2Y1BtY3ZjckplOGVPWDhta0FlQVNTcUdtWGpldUk4NFUtM3FlcVJMUV9TWXZxNXNWdHZKQXBzc2JaRHBxZUxrcENqbGlWOWZFaHRDRjlfeFRGTjh2VnRXZlpCRTJpWnlGcE9vOVc?oc=5"
-        },
-        {
-          "headline": "3 Token Unlocks to Watch in the Second Week of August 2026",
-          "source": "Yahoo Finance",
-          "snippet": "3 Token Unlocks to Watch in the Second Week of August 2026 &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOby00RGF3TkRYd3d0cktrMmw2QmVLY2hpWG1EamVxb0c3TG81VXU0dXBLeEpCakhiTWhGZDJxUTEzdi1weVpZWlN4RDNSN2Z4RURneXZuNU5PRkxHZzcyNGZGLVNPSC1PQXdiUnprS2dEbGZnc0haS0lPTW9tcHlXV0lDQXJqMFVzRDh6Z19fN0Zic0NGWUlSZw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "BeInCrypto",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvRE9VbDEzZ1F0Tjl4eURCUjFUZUlELVJxQi1UV01nM2JCMVUwdVoxMkhITjZZYjZiRHhhdHVJTTlNNDZLRWNFZUZ0TEtMbUZweEdTRW5EVHE5dlNTWV91enp1enVvbk5oLVF4S3JSb1J0ZUk?oc=5"
-        },
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcE5NYU9UN3o2NjZpNUZSUXhoZzZ6OFd2Y1BtY3ZjckplOGVPWDhta0FlQVNTcUdtWGpldUk4NFUtM3FlcVJMUV9TWXZxNXNWdHZKQXBzc2JaRHBxZUxrcENqbGlWOWZFaHRDRjlfeFRGTjh2VnRXZlpCRTJpWnlGcE9vOVc?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOby00RGF3TkRYd3d0cktrMmw2QmVLY2hpWG1EamVxb0c3TG81VXU0dXBLeEpCakhiTWhGZDJxUTEzdi1weVpZWlN4RDNSN2Z4RURneXZuNU5PRkxHZzcyNGZGLVNPSC1PQXdiUnprS2dEbGZnc0haS0lPTW9tcHlXV0lDQXJqMFVzRDh6Z19fN0Zic0NGWUlSZw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-ec7a49185ed0",
-      "original_title": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments",
-      "published_at": "2026-08-10T18:52:38Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments",
-          "source": "BNN Bloomberg",
-          "snippet": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments &nbsp;&nbsp; BNN Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbm1Ib3NhUWpQYWVWQzBGNHBJSHZRM1RydXlXdmtjcG1mSFdidjVsdnUxb0lRQzMxX1pNOTdoZGh2eUVaSExhRGNfX1NaZkdZTUJwSlNaNTcxVnZXRFpSeGpxWVIwVWFDbVVDNXdSZjhMV1FJNTB6NmR1TDVKb3ltQS1mazlIZExWS2JzekVRZGVkZjczTUltMHdZNEc5N0ZURXdwNzV4NzBOaWRwNVRONDhjUXgyN1RBMlltYjBZUGExalhxcWw3bG8zV1NNbzM4dm9rM0hQQjNaSHdCWHZxT0tQTQ?oc=5"
-        },
-        {
-          "headline": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments",
-          "source": "AP News",
-          "snippet": "Trump scoffs at Iran’s demand for war reparations and other Mideast developments &nbsp;&nbsp; AP News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "BNN Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbm1Ib3NhUWpQYWVWQzBGNHBJSHZRM1RydXlXdmtjcG1mSFdidjVsdnUxb0lRQzMxX1pNOTdoZGh2eUVaSExhRGNfX1NaZkdZTUJwSlNaNTcxVnZXRFpSeGpxWVIwVWFDbVVDNXdSZjhMV1FJNTB6NmR1TDVKb3ltQS1mazlIZExWS2JzekVRZGVkZjczTUltMHdZNEc5N0ZURXdwNzV4NzBOaWRwNVRONDhjUXgyN1RBMlltYjBZUGExalhxcWw3bG8zV1NNbzM4dm9rM0hQQjNaSHdCWHZxT0tQTQ?oc=5"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-eef953787c66",
-      "original_title": "FinancialJuice: Fed's Hammack: Markets are a complement for the Fed, not a substitute.",
-      "published_at": "2026-08-10T18:50:33Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Hammack: Markets are a complement for the Fed, not a substitute.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715132/Feds-Hammack-Markets-are-a-complement-for-the-Fed-not-a-substitute.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715132/Feds-Hammack-Markets-are-a-complement-for-the-Fed-not-a-substitute.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-01fd1a5ec7db",
-      "original_title": "FinancialJuice: Fed's Hammack: still no signs of trouble in the job market.",
-      "published_at": "2026-08-10T18:49:42Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Hammack: still no signs of trouble in the job market.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9715131/Feds-Hammack-still-no-signs-of-trouble-in-the-job-market.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9715131/Feds-Hammack-still-no-signs-of-trouble-in-the-job-market.aspx?xy=rss"
         }
       ]
     }
