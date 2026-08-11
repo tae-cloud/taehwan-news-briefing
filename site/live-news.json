@@ -1,6 +1,56 @@
 {
-  "generated_at_kst": "2026-08-11 13:40:32 KST",
+  "generated_at_kst": "2026-08-11 13:50:01 KST",
   "items": [
+    {
+      "stable_id": "2026-08-10-trump-us-100-control-hormuz-claim",
+      "published_at": "2026-08-10T18:44:37Z",
+      "published_at_kst": "2026-08-11 03:44 KST",
+      "kst": "2026-08-11 03:44 KST",
+      "source_time": "2026-08-10T18:44:37Z",
+      "title": "트럼프 “미국이 호르무즈 해협 100% 통제”…실제 통항 정상화는 미확인",
+      "summary": "트럼프 대통령은 8월 10일 오벌오피스 기자문답에서 미국이 호르무즈 해협을 ‘100% 통제’하고 있다고 주장했다. 미국이 선박의 통과를 선택적으로 허용하고 이란행 선박을 막고 있으며 기뢰도 제거했다는 취지다. 다만 AP는 해협 상황이 여전히 복잡하다고 전했고, 미국의 완전 통제와 상업 선박 통항 정상화는 독립적으로 확인되지 않았다. 따라서 대통령 발언 자체는 확인됐지만 현장 상태는 주장과 분리해 봐야 한다.",
+      "importance": 5,
+      "tone": "warn",
+      "impact": "양방향",
+      "status": "verified_quote_field_unconfirmed",
+      "btc_impact": {
+        "direction": "양방향",
+        "assessment": "발언이 사실이고 상업 선박 통항이 정상화되면 원유 공급 차질과 유가의 전쟁 프리미엄이 낮아져 인플레이션·연준 긴축 우려를 완화할 수 있으므로 비트코인에 호재다. 반대로 이란과의 통제권 충돌이나 선박 차단이 이어지면 군사적 긴장과 유가 변동성이 커질 수 있어 악재가 된다."
+      },
+      "why_it_matters": "호르무즈 해협은 세계 에너지 운송의 핵심 통로다. 트럼프의 ‘완전 통제’ 발언은 협상 우위와 공급 정상화를 시사할 수 있지만, 같은 시기 이란은 통제권과 배상 문제를 놓고 미국과 대립하고 있다. 실제 선박 흐름이 발언을 뒷받침하는지가 유가와 위험자산 방향을 가를 핵심이다.",
+      "missed_point": "‘미국이 통제한다’는 정치적 선언과 ‘민간 선박이 전쟁 전 수준으로 안전하게 통항한다’는 시장 사실은 다르다. 발언만으로 유가 하락이나 지정학적 위험 해소를 확정하면 안 되며 선박 위치·통항량·보험료·이란의 공식 반응을 확인해야 한다.",
+      "follow_up": [
+        "호르무즈 해협 일일 선박 통항량과 유조선 위치",
+        "미 해군·CENTCOM의 공식 통제 및 기뢰 제거 확인",
+        "이란 정부·혁명수비대의 반응",
+        "브렌트유·WTI와 해상보험료 반응"
+      ],
+      "sources": [
+        {
+          "name": "Associated Press — 오벌오피스 문답 및 후속 보도",
+          "url": "https://apnews.com/article/d10f81f221c4ae9f5b2f83dd0ee98b29"
+        },
+        {
+          "name": "Associated Press — 8월 10일 실시간 업데이트",
+          "url": "https://apnews.com/article/72f1ac63ddceb542775aba556b45c701"
+        },
+        {
+          "name": "FinancialJuice — 원문 속보 흐름",
+          "url": "https://www.financialjuice.com/home"
+        }
+      ],
+      "verification": {
+        "state": "verified_quote_field_unconfirmed",
+        "independent_sources": 1,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": false,
+        "official_source": false,
+        "notes": "AP가 오벌오피스 발언을 확인했다. 다만 미국의 100% 통제·기뢰 제거·통항 정상화는 독립적인 현장 자료로 교차확인되지 않아 주장과 사실을 분리해 표시했다."
+      },
+      "asset_class": "bitcoin",
+      "event_type": "geopolitics"
+    },
     {
       "stable_id": "2026-08-10-fed-hammack-multiple-rate-hikes",
       "published_at": "2026-08-10T18:19:19Z",
