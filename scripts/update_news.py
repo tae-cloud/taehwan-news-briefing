@@ -418,8 +418,8 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
 출처에 없는 숫자나 사실을 만들지 않는다."""
     patches = {}
     models = ("openai/gpt-oss-120b", "qwen/qwen3.6-27b")
-    for start in range(0, len(items), 3):
-        batch = items[start:start + 3]
+    for start in range(0, len(items), 1):
+        batch = items[start:start + 1]
         completed = False
         last_error = None
         for model in models:
@@ -433,7 +433,7 @@ burn_method(자동 소각·바이백 후 소각 등), verification.official_sour
                     json={
                         "model": model,
                         "temperature": 0.2,
-                        "max_completion_tokens": 6000,
+                        "max_completion_tokens": 2500,
                         "messages": [
                             {"role": "system", "content": prompt},
                             {"role": "user", "content":
