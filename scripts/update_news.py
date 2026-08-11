@@ -33,7 +33,7 @@ QUERIES = [
     "Iran negotiations AP Reuters", "Iran talks Hormuz agreement Reuters AP",
     "US Japan coordinated yen intervention Reuters AP",
     "Japan yen intervention FIMA Repo Reuters AP",
-    "Federal Reserve rates inflation Reuters", "CME FedWatch bitcoin",
+    "Federal Reserve rates inflation Reuters", "Beth Hammack Federal Reserve rate hikes inflation", "CME FedWatch bitcoin",
     "altcoin token burn crypto", "official scheduled token burn crypto",
     "token burn announcement buyback burn schedule", "소각 예정 코인 공식 발표",
     "token unlock crypto",
@@ -60,7 +60,7 @@ BTC_TERMS = {"bitcoin", "btc", "crypto", "federal reserve", "interest rate",
              "비트코인", "암호화폐", "연준", "금리", "인플레이션", "유가",
              "이란", "호르무즈", "관세", "달러", "채권"}
 BTC_TERMS.update({
-    "fomc", "powell", "williams", "warsh", "employment", "unemployment",
+    "fomc", "powell", "williams", "warsh", "hammack", "beth hammack", "해맥", "employment", "unemployment",
     "monetary policy", "rate hike", "rate cut", "treasury yield", "middle east",
     "venezuela", "dollar", "yen", "intervention",
     "strategy", "microstrategy", "mstr", "saylor", "usd reserve", "preferred dividend",
