@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-08-11T13:10:21+09:00",
+  "updated_at_kst": "2026-08-11T13:12:26+09:00",
   "items": [
     {
       "stable_id": "2026-08-11-8ac7eb39ea82",
@@ -278,6 +278,36 @@
         {
           "name": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2RUZEtOYndHTmhYWGE4TDYwbDJyRmJKR3ZoYTZaY3F6bW9vdTBqSlJLQkdXWnRKU0FJaUpPOHJsYlEwejAwTlZQMVRMM3dEcDZvMFpxdlZJaWo3cVJ2bnlEZGJ5OU9aSF9YLTRudjd5RTZVS3dua2xkdFBMRndwVWZOdGVSSG05SWJNRWJhMDhYUXlXUWQyTHhFZmhudw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-11-9d1cedd1e489",
+      "original_title": "Gold Climbs Above $4,400 as Traders Turn Focus to US Inflation",
+      "published_at": "2026-08-11T01:02:42Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Gold Climbs Above $4,400 as Traders Turn Focus to US Inflation",
+          "source": "livemint.com",
+          "snippet": "Gold Climbs Above $4,400 as Traders Turn Focus to US Inflation &nbsp;&nbsp; livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVBEa0ZMTFlZalZsUm1SaDhEakh3S01kTGs4aFVDekxpQVVTcl9Lbjc1aU5rRE9PMkxxYlgtY3hnTi1CaGF0T2xKZGVpWV9NTV95SzFWU3p1dnhZd01WaFlQRVZLWG9XR0U2YWZHdVgwbWlONlk1MVVWSEVQVzlqU3ZlNHJYQUhKUHJpem1waWhEb0QyVURVMWg3Nk1ZY0hPLU1TbENtMVNIeWEzc0owd1FPY9IBuAFBVV95cUxNVkowYjN2d2J2X2szbXRiRy1DZHJfN3Q2VzNEeGpOREVsYjB3YkRXSGx3ZXdoY2JVUjhlblYtQU4xSXFSeW96REF5OUxUSTROVG9GYWN0UlN2VEVIRWdpNUh5WVphMHVJTnA1NzQ3endVQl9KSHVKanRPOWZja2p5WTl5cXR0cVZiNzA2LUM3WGV6Y04tTFNmN2c1U2p2eUhkdDYyWGxRU29vRVFua3FrUlFKOUFpQlZv?oc=5"
+        },
+        {
+          "headline": "Gold touches US$4,400 as traders turn focus to US inflation data",
+          "source": "The Business Times",
+          "snippet": "Gold touches US$4,400 as traders turn focus to US inflation data &nbsp;&nbsp; The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUd3THBVVmNTSUJhSXM5S3VkM3Bkck5XanRRZDVUUDVpamdnRHFNdzZnOXVRd2k4eFRUVEFEMjRCbXZvU2xiZ3dMRGtKV1phWUhFVzhxYmlXbkN6WGppc3dhSWtpencxYXhINkpnS0xZaG43ckNvRnVkY0YtT2tsem1GZVd2QmQ5ckJueEZJSWl0OXpxSEdZWnhmY2MyeGpsRWpwdENPN1c4YXlTMndDbHJGY3ZveEh4YkNHZ0RpSllvVTFy?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVBEa0ZMTFlZalZsUm1SaDhEakh3S01kTGs4aFVDekxpQVVTcl9Lbjc1aU5rRE9PMkxxYlgtY3hnTi1CaGF0T2xKZGVpWV9NTV95SzFWU3p1dnhZd01WaFlQRVZLWG9XR0U2YWZHdVgwbWlONlk1MVVWSEVQVzlqU3ZlNHJYQUhKUHJpem1waWhEb0QyVURVMWg3Nk1ZY0hPLU1TbENtMVNIeWEzc0owd1FPY9IBuAFBVV95cUxNVkowYjN2d2J2X2szbXRiRy1DZHJfN3Q2VzNEeGpOREVsYjB3YkRXSGx3ZXdoY2JVUjhlblYtQU4xSXFSeW96REF5OUxUSTROVG9GYWN0UlN2VEVIRWdpNUh5WVphMHVJTnA1NzQ3endVQl9KSHVKanRPOWZja2p5WTl5cXR0cVZiNzA2LUM3WGV6Y04tTFNmN2c1U2p2eUhkdDYyWGxRU29vRVFua3FrUlFKOUFpQlZv?oc=5"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUd3THBVVmNTSUJhSXM5S3VkM3Bkck5XanRRZDVUUDVpamdnRHFNdzZnOXVRd2k4eFRUVEFEMjRCbXZvU2xiZ3dMRGtKV1phWUhFVzhxYmlXbkN6WGppc3dhSWtpencxYXhINkpnS0xZaG43ckNvRnVkY0YtT2tsem1GZVd2QmQ5ckJueEZJSWl0OXpxSEdZWnhmY2MyeGpsRWpwdENPN1c4YXlTMndDbHJGY3ZveEh4YkNHZ0RpSllvVTFy?oc=5"
         }
       ]
     },
@@ -654,7 +684,7 @@
     {
       "stable_id": "2026-08-10-e6de2bcfe32b",
       "original_title": "Upbit Lists Six Altcoins Including DePIN and AI Tokens in BTC and USDT Markets",
-      "published_at": "2026-08-10T21:02:29Z",
+      "published_at": "2026-08-10T21:01:59Z",
       "discovery_source": "news",
       "evidence": [
         {
@@ -778,6 +808,46 @@
         {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-10-a9dd2fef7617",
+      "original_title": "Cleveland Fed's Hammack expects that more than one rate hike will be needed",
+      "published_at": "2026-08-10T20:00:01Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Cleveland Fed's Hammack expects that more than one rate hike will be needed",
+          "source": "Seeking Alpha",
+          "snippet": "Cleveland Fed's Hammack expects that more than one rate hike will be needed &nbsp;&nbsp; Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHd5MGNGMTh3VGhqTXNOTTNxb0VhZ1VIN0pCeXNXb2tfcWtvX1AtbnJNZ2RmSG5BLU1YWkplZDh6ZTdvZ0pTUHNGWDJhb0RseTFyUVVMOTJNbG5XQWhHTGhiR0ZMUnBhTG91NmFUQ0lSbXZfbElZR0V2Q25sT3VnLWg4UEVteFpROXMwcG5NZ1JxQWJJT0xHTDVCOGM5UGJ0N3hZT0hfZHd3Q1M5OC12dVFB?oc=5"
+        },
+        {
+          "headline": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
+          "source": "Forex Factory",
+          "snippet": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation &nbsp;&nbsp; Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmRBcXVGZkdObUJxODREY2dwZFo5d3JzR2NjdGFpVlRobGhaNEUwenRndjJWa2p5UEc1ZTRCZWF6ZzB3c3A2dmgtS1FoTFRnLUtINlZSZ3NBMGM4bHE0a0ZTRWI3ZDA0dk1JNnR2WUZFZWVOTXlWZW9xTWdoaXRSajlEWGpFRC1CYjdOakhXLWvSAZYBQVVfeXFMUGxhZC1KYjV2VVk4cENGTHNKRXp0RU02SGs4QWpiZDAwYVBwVWdVSlZYb2U0SE1DXzNRbkpJYnhLOXJKaC1RMElmeXhhd1dCUjBvbVctdUpFNUp0VFMxODlCNWJvU2dpakRWTE5qWHVpY1pJZExFYlhPMGg5Z2pMWHRRUV96N1hiOUhUdkZIVWZDUDhfa2tR?oc=5"
+        },
+        {
+          "headline": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
+          "source": "Yahoo Finance",
+          "snippet": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc0p6bmp0dkFSREZzNXpRZC1aZTBzSHlZcDlSMVdNRGh1NWNJbHhsQXc2OG9PcEozRzZqXzgyOU5QMV9vRm1hYXMycXZ6UDRuQmhNRENOVHg2M2I5dDJXNUM1akRGMWN1TUh0eUNUelZIalB5MVhCNXhHc21UZkxwdC1lSzV0RWpUaEVwNU9odkx0XzlLVUVzajQ5VlA3VzBpWkYtaVNPeTA1Xzg3RUtzNHZMd3ZnbncxVHk5X0RUM3dPdGRIMWF2R1hjU3ZBS0pnMFF5Z28zOGthamEtSTU4b3NpUGFITTVpbnlCYg?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHd5MGNGMTh3VGhqTXNOTTNxb0VhZ1VIN0pCeXNXb2tfcWtvX1AtbnJNZ2RmSG5BLU1YWkplZDh6ZTdvZ0pTUHNGWDJhb0RseTFyUVVMOTJNbG5XQWhHTGhiR0ZMUnBhTG91NmFUQ0lSbXZfbElZR0V2Q25sT3VnLWg4UEVteFpROXMwcG5NZ1JxQWJJT0xHTDVCOGM5UGJ0N3hZT0hfZHd3Q1M5OC12dVFB?oc=5"
+        },
+        {
+          "name": "Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmRBcXVGZkdObUJxODREY2dwZFo5d3JzR2NjdGFpVlRobGhaNEUwenRndjJWa2p5UEc1ZTRCZWF6ZzB3c3A2dmgtS1FoTFRnLUtINlZSZ3NBMGM4bHE0a0ZTRWI3ZDA0dk1JNnR2WUZFZWVOTXlWZW9xTWdoaXRSajlEWGpFRC1CYjdOakhXLWvSAZYBQVVfeXFMUGxhZC1KYjV2VVk4cENGTHNKRXp0RU02SGs4QWpiZDAwYVBwVWdVSlZYb2U0SE1DXzNRbkpJYnhLOXJKaC1RMElmeXhhd1dCUjBvbVctdUpFNUp0VFMxODlCNWJvU2dpakRWTE5qWHVpY1pJZExFYlhPMGg5Z2pMWHRRUV96N1hiOUhUdkZIVWZDUDhfa2tR?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc0p6bmp0dkFSREZzNXpRZC1aZTBzSHlZcDlSMVdNRGh1NWNJbHhsQXc2OG9PcEozRzZqXzgyOU5QMV9vRm1hYXMycXZ6UDRuQmhNRENOVHg2M2I5dDJXNUM1akRGMWN1TUh0eUNUelZIalB5MVhCNXhHc21UZkxwdC1lSzV0RWpUaEVwNU9odkx0XzlLVUVzajQ5VlA3VzBpWkYtaVNPeTA1Xzg3RUtzNHZMd3ZnbncxVHk5X0RUM3dPdGRIMWF2R1hjU3ZBS0pnMFF5Z28zOGthamEtSTU4b3NpUGFITTVpbnlCYg?oc=5"
         }
       ]
     },
@@ -1072,6 +1142,46 @@
       ]
     },
     {
+      "stable_id": "2026-08-10-eef953787c66",
+      "original_title": "FinancialJuice: Fed's Hammack: Markets are a complement for the Fed, not a substitute.",
+      "published_at": "2026-08-10T18:50:33Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Fed's Hammack: Markets are a complement for the Fed, not a substitute.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9715132/Feds-Hammack-Markets-are-a-complement-for-the-Fed-not-a-substitute.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9715132/Feds-Hammack-Markets-are-a-complement-for-the-Fed-not-a-substitute.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-10-01fd1a5ec7db",
+      "original_title": "FinancialJuice: Fed's Hammack: still no signs of trouble in the job market.",
+      "published_at": "2026-08-10T18:49:42Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Fed's Hammack: still no signs of trouble in the job market.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9715131/Feds-Hammack-still-no-signs-of-trouble-in-the-job-market.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9715131/Feds-Hammack-still-no-signs-of-trouble-in-the-job-market.aspx?xy=rss"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-10-4e237e42968b",
       "original_title": "FinancialJuice: Fed's Hammack: Don't see inflation coming back down on its own.",
       "published_at": "2026-08-10T18:49:31Z",
@@ -1088,6 +1198,66 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9715129/Feds-Hammack-Dont-see-inflation-coming-back-down-on-its-own.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-10-e69162908dac",
+      "original_title": "FinancialJuice: Fed's Hammack: Now is the time for us to start acting.",
+      "published_at": "2026-08-10T18:46:23Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Fed's Hammack: Now is the time for us to start acting.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9715124/Feds-Hammack-Now-is-the-time-for-us-to-start-acting.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9715124/Feds-Hammack-Now-is-the-time-for-us-to-start-acting.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-10-1bdee71c7161",
+      "original_title": "FinancialJuice: Fed's Hammack: Current rate not meaningfully restricting the economy.",
+      "published_at": "2026-08-10T18:46:08Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Fed's Hammack: Current rate not meaningfully restricting the economy.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9715123/Feds-Hammack-Current-rate-not-meaningfully-restricting-the-economy.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9715123/Feds-Hammack-Current-rate-not-meaningfully-restricting-the-economy.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-10-ca0e261c2c23",
+      "original_title": "FinancialJuice: Fed's Hammack: No intention to prejudge the number of rate increases or the final level.",
+      "published_at": "2026-08-10T18:44:59Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Fed's Hammack: No intention to prejudge the number of rate increases or the final level.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9715116/Feds-Hammack-No-intention-to-prejudge-the-number-of-rate-increases-or-the-final-level.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9715116/Feds-Hammack-No-intention-to-prejudge-the-number-of-rate-increases-or-the-final-level.aspx?xy=rss"
         }
       ]
     },
@@ -1178,6 +1348,36 @@
         {
           "name": "Scripps News",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHM4cmJ2Szd3NGhRMFNwOVZvSHpWUS1paHJydTVBVnQtOERHRlAtcE1tSmxpRXVNUzU1QkxJSmlVSnRrTjk4QWZnWkhHUUpqYk5oRlFHZmVLTVRYajFhclQwSTFfbjAzeVR2SDFsa2k5c1lCMGFvOFN2OTZTU3pTS2kzZXN4WGFpLTlNT2dmQUdYN1VseERSamVMLWZIY0NLTHlySnlPbGhpeGVvZFdWb2ZCX0JwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-10-5865851d2560",
+      "original_title": "BlackRock Canada launches ETF with 3% Bitcoin allocation",
+      "published_at": "2026-08-10T18:17:35Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "BlackRock Canada launches ETF with 3% Bitcoin allocation",
+          "source": "Crypto News",
+          "snippet": "BlackRock Canada launches ETF with 3% Bitcoin allocation &nbsp;&nbsp; Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWVURvV0Y0N2MwMW40elQxcU5jRFNSN3daRjZ0V1AyeWNKWlRHbzhjb0ktQjdNWnh6VGdXT0tOOEkxbGc2REVhNEFTT3FITU5vUXByQjNPZEVFdmFpb1BCdHJZTjdXa18wVG5ZUUMtRG5ZZFpSajhGQUh5d195ZXc?oc=5"
+        },
+        {
+          "headline": "BlackRock Canada launches iShares Equity + Bitcoin ETF Portfolio on TSX﻿",
+          "source": "Bitget",
+          "snippet": "BlackRock Canada launches iShares Equity + Bitcoin ETF Portfolio on TSX﻿ &nbsp;&nbsp; Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MNnN1aEFkb2c5UWNOMlJlRXplbW4yblhObDJULUN1OXVaRVNZTHJkY3czMDZfM2o1NFZ5c1ljRU9kTnRuMTlZNk5QZzNHRzlrVW5wMmZjR0RqNkxvaWVjSkFJa9IBY0FVX3lxTE1MNnN1aEFkb2c5UWNOMlJlRXplbW4yblhObDJULUN1OXVaRVNZTHJkY3czMDZfM2o1NFZ5c1ljRU9kTnRuMTlZNk5QZzNHRzlrVW5wMmZjR0RqNkxvaWVjSkFJaw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWVURvV0Y0N2MwMW40elQxcU5jRFNSN3daRjZ0V1AyeWNKWlRHbzhjb0ktQjdNWnh6VGdXT0tOOEkxbGc2REVhNEFTT3FITU5vUXByQjNPZEVFdmFpb1BCdHJZTjdXa18wVG5ZUUMtRG5ZZFpSajhGQUh5d195ZXc?oc=5"
+        },
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MNnN1aEFkb2c5UWNOMlJlRXplbW4yblhObDJULUN1OXVaRVNZTHJkY3czMDZfM2o1NFZ5c1ljRU9kTnRuMTlZNk5QZzNHRzlrVW5wMmZjR0RqNkxvaWVjSkFJa9IBY0FVX3lxTE1MNnN1aEFkb2c5UWNOMlJlRXplbW4yblhObDJULUN1OXVaRVNZTHJkY3czMDZfM2o1NFZ5c1ljRU9kTnRuMTlZNk5QZzNHRzlrVW5wMmZjR0RqNkxvaWVjSkFJaw?oc=5"
         }
       ]
     },
@@ -2238,236 +2438,6 @@
         {
           "name": "Al-Monitor",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUI1TVNoTm5YUzJyNUF4Wk16enBBTnpCMlB0cDlQTHBJdW85amhiR3dhaVpLWm9ScE13VGFvRFBlWnVZSHhSNlhVZEhwM3Q0OHViUjZPM25nTUxpVTVxMXpNYWhSdFNqdW54T3pUYUF3X3BVWjZHa1d3Wm5aVE55ZFBENDNlUWJmc0lzR1B6d1VOQXUySVZWdmFiRnpkSkgzWTNUdQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-6f6c41c8ab14",
-      "original_title": "Solana gets its first Strategy STRC product through Solstice Finance",
-      "published_at": "2026-08-10T13:26:36Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Solana gets its first Strategy STRC product through Solstice Finance",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-d5fc39fe15fb",
-      "original_title": "FinancialJuice: Iran's Galibaf's visit to Baghdad postponed until next week",
-      "published_at": "2026-08-10T13:26:22Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's Galibaf's visit to Baghdad postponed until next week",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9714734/Irans-Galibafs-visit-to-Baghdad-postponed-until-next-week---Alhadath-citing-event-sources.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9714734/Irans-Galibafs-visit-to-Baghdad-postponed-until-next-week---Alhadath-citing-event-sources.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-f954cd99c2e2",
-      "original_title": "Iran won't reopen Strait of Hormuz without US concessions and other Mideast developments - Herald-Banner",
-      "published_at": "2026-08-10T13:15:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran won't reopen Strait of Hormuz without US concessions and other Mideast developments - Herald-Banner",
-          "source": "Herald-Banner",
-          "snippet": "Iran won't reopen Strait of Hormuz without US concessions and other Mideast developments &nbsp;&nbsp; Herald-Banner",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZFhJSUx2RkdKOS0wdmRjd09IeWMwRWs2cVlVM0ZucVpMTGw5c3JmSU03UDVkZXhCRkI1VV95VnFZMUFCWVp4eURZQzhieWFYRW9WRmZsWW9SdDUwa1JIbEk3VGFxcURVWkJ0Mks0cTkwaHFYU0owaHE1N2ZkY3VsLWVxRWNUbHN2cEI3TmNMZGtTLWFSUEpqaUU1eUlWLUFyODBaaHB4Y1l6UHhCWW1id0lacHdnNkkyUVZ5Q0M2MURNbDgzaXVEYkEyUl9LM214WkdJWTJ4LXo3aGJTcnNNMkREUldYQTJ4ZFNfS1NrdGo4RTNRRjNZY1ZTZGpkUQ?oc=5"
-        },
-        {
-          "headline": "Iran won't reopen Strait of Hormuz without US concessions",
-          "source": "DT Next",
-          "snippet": "Iran won't reopen Strait of Hormuz without US concessions &nbsp;&nbsp; DT Next",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUHhkV1djWmtOME1QVFJXMFF6WUJGdVUwRlotV3ZNRW81dTR2WVdseTdqTEx6NnA4YTEzcG1TYkJ4SVpuY0lKMmxXTUc5YzFNTWw4T1pSMXRiNWxwVHpOV2NEWWJFam5FQlV4ZjFlS0hibUtpUjR4YnZUbDRMVEZZM3NGYjllV2RMYzY5ekRSOXdybDjSAaABQVVfeXFMTjkyS0hGbGlLWDJZUHlDNnhZNDh2T1YzZ1NkMmdkdktGc3lNVHpZT2ZaQWZ5V1dfdS1lYVBPVExScmo2Y19MNUVibjlRSTlVUFl0LXFPSjFpMXpUS1JNdGZBVjc3UlFzMi1icVNOazBVdzh0SW1pUTJUZHI5LVpYcDRUUkVfWkVIU0N4OGktLWhscmxzUF9pUmh2WGJmcER4UA?oc=5"
-        },
-        {
-          "headline": "Iran won't reopen Strait of Hormuz without US concessions and other Mideast developments",
-          "source": "The Washington Post",
-          "snippet": "Iran won't reopen Strait of Hormuz without US concessions and other Mideast developments &nbsp;&nbsp; The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZHhKSFFtV1ltRmZkR3NRdUJLU3dLbmlabVdNVGdLdXpkSFFXaEdmZlNfSkFQclNyMzVUT2N0Sl8tRXh6X1cxTWFrN1o3QWJOSUxCUFJnMzBXNjM3Y3cyMlpBYUl5U3NURGhCNWJENWtXNjh2blZqWkhUQTZGOEVVNXlicU5OeEpnTnRQUHFKTUY4eVQ5ekFKSmNGZUNQbWQ0cV9sYkFLd2NaTzE4b1BidjI5V01xeFJUbnB6Ql9kQ1ptUk5kQUtVbjZkSDNBTW00?oc=5"
-        },
-        {
-          "headline": "Iran won't reopen Strait of Hormuz without US concessions and other Mideast developments",
-          "source": "Click2Houston",
-          "snippet": "Iran won't reopen Strait of Hormuz without US concessions and other Mideast developments &nbsp;&nbsp; Click2Houston",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb19iSFpZcTd6RXBoY05HY1ZqeEFpaDQ0cThBNnFRY3BnUFlZcGxBZlpZTEtHNmd4Y01ja2tsSXNJX0R3TFBGeXdsTXloeDhuX2s2Y1FDeE15RnJaZmFDUWdGcHpRZDFaMjh4MzdsVzFpeExyOUlmbnZRZWNJcUpVRFh1LUItRGJDdUJZNHVUQVotaFZEdk1ZWTNYQkhGT0dwYzlIb1RxQUIzYzFhd2ZNakZDV2VJQ2dSajRIcnk3WGpFQnpQbWVmdmMyWUJ2a29zcXNnSkdPdFhYZw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Herald-Banner",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZFhJSUx2RkdKOS0wdmRjd09IeWMwRWs2cVlVM0ZucVpMTGw5c3JmSU03UDVkZXhCRkI1VV95VnFZMUFCWVp4eURZQzhieWFYRW9WRmZsWW9SdDUwa1JIbEk3VGFxcURVWkJ0Mks0cTkwaHFYU0owaHE1N2ZkY3VsLWVxRWNUbHN2cEI3TmNMZGtTLWFSUEpqaUU1eUlWLUFyODBaaHB4Y1l6UHhCWW1id0lacHdnNkkyUVZ5Q0M2MURNbDgzaXVEYkEyUl9LM214WkdJWTJ4LXo3aGJTcnNNMkREUldYQTJ4ZFNfS1NrdGo4RTNRRjNZY1ZTZGpkUQ?oc=5"
-        },
-        {
-          "name": "DT Next",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUHhkV1djWmtOME1QVFJXMFF6WUJGdVUwRlotV3ZNRW81dTR2WVdseTdqTEx6NnA4YTEzcG1TYkJ4SVpuY0lKMmxXTUc5YzFNTWw4T1pSMXRiNWxwVHpOV2NEWWJFam5FQlV4ZjFlS0hibUtpUjR4YnZUbDRMVEZZM3NGYjllV2RMYzY5ekRSOXdybDjSAaABQVVfeXFMTjkyS0hGbGlLWDJZUHlDNnhZNDh2T1YzZ1NkMmdkdktGc3lNVHpZT2ZaQWZ5V1dfdS1lYVBPVExScmo2Y19MNUVibjlRSTlVUFl0LXFPSjFpMXpUS1JNdGZBVjc3UlFzMi1icVNOazBVdzh0SW1pUTJUZHI5LVpYcDRUUkVfWkVIU0N4OGktLWhscmxzUF9pUmh2WGJmcER4UA?oc=5"
-        },
-        {
-          "name": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZHhKSFFtV1ltRmZkR3NRdUJLU3dLbmlabVdNVGdLdXpkSFFXaEdmZlNfSkFQclNyMzVUT2N0Sl8tRXh6X1cxTWFrN1o3QWJOSUxCUFJnMzBXNjM3Y3cyMlpBYUl5U3NURGhCNWJENWtXNjh2blZqWkhUQTZGOEVVNXlicU5OeEpnTnRQUHFKTUY4eVQ5ekFKSmNGZUNQbWQ0cV9sYkFLd2NaTzE4b1BidjI5V01xeFJUbnB6Ql9kQ1ptUk5kQUtVbjZkSDNBTW00?oc=5"
-        },
-        {
-          "name": "Click2Houston",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb19iSFpZcTd6RXBoY05HY1ZqeEFpaDQ0cThBNnFRY3BnUFlZcGxBZlpZTEtHNmd4Y01ja2tsSXNJX0R3TFBGeXdsTXloeDhuX2s2Y1FDeE15RnJaZmFDUWdGcHpRZDFaMjh4MzdsVzFpeExyOUlmbnZRZWNJcUpVRFh1LUItRGJDdUJZNHVUQVotaFZEdk1ZWTNYQkhGT0dwYzlIb1RxQUIzYzFhd2ZNakZDV2VJQ2dSajRIcnk3WGpFQnpQbWVmdmMyWUJ2a29zcXNnSkdPdFhYZw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-de2f514a460c",
-      "original_title": "FinancialJuice: Kazakhstan's oil and gas condensate output was up 40% on August 9th from July 31st",
-      "published_at": "2026-08-10T13:11:14Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Kazakhstan's oil and gas condensate output was up 40% on August 9th from July 31st",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9714727/Kazakhstans-oil-and-gas-condensate-output-was-up-40-on-August-9th-from-July-31st---Source.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9714727/Kazakhstans-oil-and-gas-condensate-output-was-up-40-on-August-9th-from-July-31st---Source.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-9c317d63b368",
-      "original_title": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
-      "published_at": "2026-08-10T13:02:43Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
-          "source": "Yahoo Finance",
-          "snippet": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenpsZU5XZWxkdWwzaXN0R0hRODFySmJaU3Z5U1E2T1p6dmltV3BJWG1nMXNpSm9RYm1LTktGaktwbXNaSC12WHNvQXpjU1JSbVpEelVWLXdyaG9Fc1hqQVpVcjVQaDY4Q3I0R29OWktMdlJleTQwQmNjUFN2ZGNINUVCSHBXQWxpdEU2MEtnOV8xbU8tYkF3QzRCVE9mMTA?oc=5"
-        },
-        {
-          "headline": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
-          "source": "Yahoo! Finance Canada",
-          "snippet": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile &nbsp;&nbsp; Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWktyaHlmTU5vOXF5TzlFQVp5bmJTdmpQa2xiblBiVUpzSWlUN1Z2R3ZQWTY3dU9sY2lQNzJqOU1pamFFUTA1NGZaYzlidXlDNDEyTldlNGVCcTRhcjZtdTA4dFZCSHRvSnZBd0NCUkU3X1dRb0lKNWV3SkhBM0JjU3NTQUtCT3kzNHc?oc=5"
-        },
-        {
-          "headline": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
-          "source": "Bloomberg.com",
-          "snippet": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ051QnFmV3hNQzM4UV9JMGFIWVBKRmpSdS1IUGRmdWpFLTFtMTdiSDk0TUdpdXhxTGtQMzVXeVZtblBNWVhZMm5CQ1ZqVXhob0F4bEk2NjlBZ2VNcGp1OERjUWhNWGpyODFZMUo5clcycEtuOUxQRzI4M1g2RlpmdFloRXExUkROV3RZX3RBbWxwWEM3cEVLSDc4a2I4SU9OQ29ueDdnR1lXY0ZrLUJr?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenpsZU5XZWxkdWwzaXN0R0hRODFySmJaU3Z5U1E2T1p6dmltV3BJWG1nMXNpSm9RYm1LTktGaktwbXNaSC12WHNvQXpjU1JSbVpEelVWLXdyaG9Fc1hqQVpVcjVQaDY4Q3I0R29OWktMdlJleTQwQmNjUFN2ZGNINUVCSHBXQWxpdEU2MEtnOV8xbU8tYkF3QzRCVE9mMTA?oc=5"
-        },
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWktyaHlmTU5vOXF5TzlFQVp5bmJTdmpQa2xiblBiVUpzSWlUN1Z2R3ZQWTY3dU9sY2lQNzJqOU1pamFFUTA1NGZaYzlidXlDNDEyTldlNGVCcTRhcjZtdTA4dFZCSHRvSnZBd0NCUkU3X1dRb0lKNWV3SkhBM0JjU3NTQUtCT3kzNHc?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ051QnFmV3hNQzM4UV9JMGFIWVBKRmpSdS1IUGRmdWpFLTFtMTdiSDk0TUdpdXhxTGtQMzVXeVZtblBNWVhZMm5CQ1ZqVXhob0F4bEk2NjlBZ2VNcGp1OERjUWhNWGpyODFZMUo5clcycEtuOUxQRzI4M1g2RlpmdFloRXExUkROV3RZX3RBbWxwWEM3cEVLSDc4a2I4SU9OQ29ueDdnR1lXY0ZrLUJr?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-7300554eedf8",
-      "original_title": "Gulf Shares mixed on uncertainty over Hormuz deal",
-      "published_at": "2026-08-10T13:00:42Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Gulf Shares mixed on uncertainty over Hormuz deal",
-          "source": "Reuters",
-          "snippet": "Gulf Shares mixed on uncertainty over Hormuz deal &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNTZaVnh5WHdNVDhpendOT1hqODUybGJqeDVVSnluX1JMUkE1eHI5SnRYUEExYW1zTk1VLUZGTV9xQWs4Wm1iSEFBNTBWUGQ5VGN0dXlPX0czRHJkSlNsUHZ5LWozM0FJVVM1dWktRjVRT1BpcDhtTTdMcExLQUZ1bGVRQXNuLXBaTm9jS1o1RzUzVlM1TFpCenhGVThCd1JhSFdWY0txazh3WW11?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNTZaVnh5WHdNVDhpendOT1hqODUybGJqeDVVSnluX1JMUkE1eHI5SnRYUEExYW1zTk1VLUZGTV9xQWs4Wm1iSEFBNTBWUGQ5VGN0dXlPX0czRHJkSlNsUHZ5LWozM0FJVVM1dWktRjVRT1BpcDhtTTdMcExLQUZ1bGVRQXNuLXBaTm9jS1o1RzUzVlM1TFpCenhGVThCd1JhSFdWY0txazh3WW11?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-cdd8f950d1be",
-      "original_title": "Oil rises nearly 2% as Iran tempers hopes of Hormuz reopening",
-      "published_at": "2026-08-10T12:58:28Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil rises nearly 2% as Iran tempers hopes of Hormuz reopening",
-          "source": "The Lufkin Daily News",
-          "snippet": "Oil rises nearly 2% as Iran tempers hopes of Hormuz reopening &nbsp;&nbsp; The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2QzR3JYRjFQWnFnUnI3SHdoQUc2amlBbl9qdHZSUXZRYktUR2ZmMEY3QV9ZT1MyT1lYM1BaMVVaVWhoWGJaQi15aVJ3N0F3NWhTRWs3QzBQMEtzNGtHU0NpYmlXc1RsUEFYRHlUcEFGdWZCZ3YybXVLbTFzT2RmeXA4QngyYjFZQXd0SklHRXQ0eE9aQnFzbmFmUWJ0cHNES1RRYUxfMUk3ZkhVOW1ESU80Um5sYTA0ZVNMS3pQODlYVllBS180czVhT3pOX2RoaktrRGc3TWQ1S0NtX3gzSGFNSGF1MEhYVjVUUGM5Xy10QQ?oc=5"
-        },
-        {
-          "headline": "Oil Steady as Iran Tempers Hopes for Swift Strait of Hormuz Reopening",
-          "source": "Global Banking & Finance Review",
-          "snippet": "Oil Steady as Iran Tempers Hopes for Swift Strait of Hormuz Reopening &nbsp;&nbsp; Global Banking & Finance Review",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdE9KWUNzb1Azb0ZVT2g4cnZKTTY1YkVhdjJISEZ1bVpFUlozV3prRWJYakVKckl2UXRtdUdLQzVvMWVHelFlOHo4LUNteHhhWTJOQ3YwQnZ5NVJXUzdnazE0bjNSZHFRN0NxcFQ0UENlV0FITTFSOEMwRmtBMWxLYlZCQ0JrZmFDMTRydk5mbkNNSFFjRnBXcjNB?oc=5"
-        },
-        {
-          "headline": "Oil steady as Iran tempers hopes of swift Hormuz reopening",
-          "source": "AOL.com",
-          "snippet": "Oil steady as Iran tempers hopes of swift Hormuz reopening &nbsp;&nbsp; AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQalhrOU8wZ3V0VmNJWVdkc0tvRkcxRlZZNVFUSURYUllBamJXYkdSN3pyWldqSGF1YlB0YTYzZmZfUV9yTUN2S2F4NHI4Yy1VaVExT0ZsZFZCdVJ0Vno0TUlQb3JQcmE1NjlpajBTNUpFY2w0MG11MFlMZzFrNWJXalREbENiZmM?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2QzR3JYRjFQWnFnUnI3SHdoQUc2amlBbl9qdHZSUXZRYktUR2ZmMEY3QV9ZT1MyT1lYM1BaMVVaVWhoWGJaQi15aVJ3N0F3NWhTRWs3QzBQMEtzNGtHU0NpYmlXc1RsUEFYRHlUcEFGdWZCZ3YybXVLbTFzT2RmeXA4QngyYjFZQXd0SklHRXQ0eE9aQnFzbmFmUWJ0cHNES1RRYUxfMUk3ZkhVOW1ESU80Um5sYTA0ZVNMS3pQODlYVllBS180czVhT3pOX2RoaktrRGc3TWQ1S0NtX3gzSGFNSGF1MEhYVjVUUGM5Xy10QQ?oc=5"
-        },
-        {
-          "name": "Global Banking & Finance Review",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdE9KWUNzb1Azb0ZVT2g4cnZKTTY1YkVhdjJISEZ1bVpFUlozV3prRWJYakVKckl2UXRtdUdLQzVvMWVHelFlOHo4LUNteHhhWTJOQ3YwQnZ5NVJXUzdnazE0bjNSZHFRN0NxcFQ0UENlV0FITTFSOEMwRmtBMWxLYlZCQ0JrZmFDMTRydk5mbkNNSFFjRnBXcjNB?oc=5"
-        },
-        {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQalhrOU8wZ3V0VmNJWVdkc0tvRkcxRlZZNVFUSURYUllBamJXYkdSN3pyWldqSGF1YlB0YTYzZmZfUV9yTUN2S2F4NHI4Yy1VaVExT0ZsZFZCdVJ0Vno0TUlQb3JQcmE1NjlpajBTNUpFY2w0MG11MFlMZzFrNWJXalREbENiZmM?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-6a4303a8ede2",
-      "original_title": "FinancialJuice: JPMorgan on Upcoming RBA Rate",
-      "published_at": "2026-08-10T12:34:45Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: JPMorgan on Upcoming RBA Rate",
-          "source": "FinancialJuice",
-          "snippet": "The RBA's August meeting appeared contentious as recently as a couple of weeks ago. However, following a softer 2Q CPI report, market expectations have converged to a highly likely on-hold decision this week. Having been proactive in tightening into a supply shock earlier in the year, the material undershoot on realised inflation outcomes gives the RBA room to pause. We have argued that the Australian inflation overshoot has been narrowly concentrated in goods and ener­gy, supporting our view that May's hike would prove the last in the cycle. With measures of inflation breadth falling to multi-year lows in 2Q, despite the backdrop of a supply shock, the risk of second-round effects appears diminished. Perceived risk to price-setting behaviour was always front loaded and with base effects applying a mechanical headwind to the annual inflation rate in coming prints, inflation expecta­tions concerns should also be easing. We expect dovish forecast revisions in August's SOMP. The Bank's 4Q26 headline inflation forecast is likely to be low­ered by 50bp to 3.5%oya, while trimmed mean inflation should be lowered by one to two tenths, to still sit slightly above the top of the target band. Recent declines in spot energy prices argue for a more pronounced adjustment in head­line, but we think officials will err on the side of caution in extrapolating to broader disinflation through core. On the growth side, activity data have broadly tracked RBA fore­casts, and we don't expect material changes.",
-          "url": "https://www.financialjuice.com/News/9714682/JPMorgan-on-Upcoming-RBA-Rate---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9714682/JPMorgan-on-Upcoming-RBA-Rate---FJElite.aspx?xy=rss"
         }
       ]
     }
