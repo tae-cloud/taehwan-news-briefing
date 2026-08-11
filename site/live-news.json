@@ -1,6 +1,51 @@
 {
-  "generated_at_kst": "2026-08-11T13:12:26+09:00",
+  "generated_at_kst": "2026-08-11 13:34:21 KST",
   "items": [
+    {
+      "stable_id": "2026-08-10-fed-hammack-multiple-rate-hikes",
+      "published_at": "2026-08-10T18:19:19Z",
+      "published_at_kst": "2026-08-11 03:19 KST",
+      "kst": "2026-08-11 03:19 KST",
+      "source_time": "2026-08-10T18:19:19Z",
+      "title": "해맥 연은 총재 “물가 억제 위해 여러 차례 금리 인상 필요”",
+      "summary": "베스 해맥 클리블랜드 연은 총재는 확산되는 인플레이션을 억제하려면 한 차례를 넘어 여러 차례의 기준금리 인상이 필요할 수 있다고 밝혔다. 그는 현재 통화정책이 의미 있게 제약적인 수준이 아니며 물가가 연준의 2% 목표로 돌아올 것이라는 확신도 부족하다고 평가했다. 고용지표가 약해졌지만 인플레이션 위험이 더 크기 때문에 지금 행동해야 한다는 입장을 강조했다. 다만 최종 금리 수준은 앞으로 나올 지표를 보면서 판단해야 한다며 특정 인상 횟수나 종착점을 확정하지는 않았다.",
+      "importance": 5,
+      "tone": "down",
+      "impact": "악재",
+      "status": "cross_verified",
+      "btc_impact": {
+        "direction": "악재",
+        "assessment": "복수의 금리 인상 가능성은 미국 국채금리와 달러 상승 압력을 높여 비트코인을 포함한 위험자산의 밸류에이션에 부담을 줄 수 있다. 시장이 금리 동결이나 인하 가능성을 반영하고 있었다면 해맥의 발언은 기대를 되돌리는 매파적 재료다. 다만 해맥 개인의 견해가 곧 FOMC 전체의 결정은 아니므로 다른 위원 발언과 다음 물가·고용 지표를 함께 확인해야 한다."
+      },
+      "why_it_matters": "이번 발언은 단순히 금리를 오래 유지하자는 수준을 넘어 추가 인상이 여러 차례 필요할 수 있다고 직접 언급했다는 점에서 강도가 높다. 인플레이션이 고용 둔화보다 우선순위에 놓이면 연준의 완화 전환 시점이 뒤로 밀릴 수 있다. 이는 달러 유동성과 위험선호에 민감한 비트코인 시장의 핵심 거시 변수다.",
+      "missed_point": "‘여러 차례 인상’은 확정된 FOMC 계획이 아니라 해맥 총재의 조건부 전망이다. 동시에 그는 최종 금리 수준을 미리 판단하지 않겠다고 했으므로 향후 데이터가 약해지면 견해가 달라질 여지도 있다. 헤드라인만 보고 실제 금리 인상 횟수가 결정됐다고 해석하면 안 된다.",
+      "follow_up": [
+        "다음 CPI·PCE 물가와 기대인플레이션",
+        "다른 FOMC 위원들의 추가 인상 동의 여부",
+        "연방기금금리 선물과 미국 2년물 국채금리 반응"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/article/cleveland-feds-hammack-it-will-take-more-than-one-interest-rate-hike-to-bring-down-inflation-173530729.html"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/fed-s-hammack-says-some-number-of-rate-hikes-may-be-needed"
+        }
+      ],
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": false,
+        "official_source": false,
+        "notes": "Yahoo Finance의 해맥 인터뷰와 Bloomberg 보도를 교차 확인"
+      },
+      "asset_class": "bitcoin",
+      "event_type": "monetary_policy"
+    },
     {
       "stable_id": "2026-08-10-strategy-sells-1690-btc",
       "published_at": "2026-08-10T12:09:26Z",
