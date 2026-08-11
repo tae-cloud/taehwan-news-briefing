@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-08-11 13:34:21 KST",
+  "generated_at_kst": "2026-08-11 13:40:32 KST",
   "items": [
     {
       "stable_id": "2026-08-10-fed-hammack-multiple-rate-hikes",
@@ -45,6 +45,56 @@
       },
       "asset_class": "bitcoin",
       "event_type": "monetary_policy"
+    },
+    {
+      "stable_id": "2026-08-10-trump-iran-compensation-demand",
+      "published_at": "2026-08-10T17:12:00Z",
+      "published_at_kst": "2026-08-11 02:12 KST",
+      "kst": "2026-08-11 02:12 KST",
+      "source_time": "2026-08-10T17:12:00Z",
+      "title": "트럼프 “이란, 사망·부상 및 피해에 배상해야”",
+      "summary": "도널드 트럼프 미국 대통령은 8월 10일 백악관 오벌오피스 행사에서 이란이 초래한 사망·부상과 피해에 대해 배상해야 한다고 밝혔다. 그는 미국이 이란 측에 배상을 요구할 것이라며, 피해 규모가 크기 때문에 책임을 물어야 한다는 입장을 강조했다. 이 발언은 같은 날 이란이 미국에 전쟁 피해 배상과 제재 해제를 요구한 상황에서 나와 양측의 조건이 정면으로 충돌하고 있음을 보여준다. 오벌오피스 행사의 공식 주제는 백신 행정명령이었지만, 기자 문답에서 나온 이란 관련 발언은 협상과 에너지 시장에 직접 영향을 줄 수 있는 별도 뉴스다.",
+      "importance": 5,
+      "tone": "warn",
+      "impact": "악재",
+      "status": "cross_verified",
+      "btc_impact": {
+        "direction": "악재",
+        "assessment": "미국과 이란이 서로에게 배상을 요구하면 협상 타결 조건이 복잡해지고 호르무즈·원유 공급 위험이 다시 커질 수 있다. 유가 상승은 물가 압력과 연준의 긴축 유지 가능성을 높여 비트코인을 포함한 위험자산에 부담이 된다. 다만 배상 요구가 실제 협상 결렬이나 추가 군사행동으로 이어졌다는 증거는 아직 없으므로 발언과 정책 행동을 구분해야 한다."
+      },
+      "why_it_matters": "이란은 미국에 전쟁 피해 배상을 요구했고 트럼프는 반대로 이란이 미국 측 피해를 배상해야 한다고 맞섰다. 양측이 동시에 배상 문제를 전면에 내세우면 단순한 기술협상보다 정치적 타협 비용이 커진다. 시장은 후속 발언보다 실제 협상 일정, 호르무즈 통항과 제재 정책 변화를 확인해야 한다.",
+      "missed_point": "백신 행정명령 서명 행사의 주제만 보면 시장과 무관해 보이지만 기자 문답에서 나온 이란 발언은 별도의 거시 변수다. 반대로 ‘배상 요구’ 자체를 곧바로 협상 파탄으로 해석해서도 안 된다. 트럼프의 발언, 미국 정부의 공식 협상안, 실제 제재·군사 조치를 분리해 봐야 한다.",
+      "follow_up": [
+        "미국·이란 협상 재개 일정과 공식 의제",
+        "배상 요구가 협상 조건에 포함되는지 여부",
+        "호르무즈 통항·유가 및 미국의 추가 제재 변화"
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/trump-says-iran-must-pay-compensation-those-it-has-killed-wounded-2026-08-10/"
+        },
+        {
+          "name": "The White House",
+          "url": "https://www.whitehouse.gov/videos/president-trump-signs-an-executive-order-aug-10-2026/"
+        }
+      ],
+      "verification": {
+        "state": "cross_verified",
+        "independent_sources": 2,
+        "financialjuice_only": false,
+        "rumor_excluded": true,
+        "official_or_onchain": true,
+        "official_source": true,
+        "notes": "Reuters 보도와 백악관 오벌오피스 공식 영상을 교차 확인",
+        "trump_separation": {
+          "statement": "이란이 사망·부상 및 피해에 배상해야 한다는 발언",
+          "policy_action": "추가 제재·군사조치 또는 공식 배상 청구 절차는 확인되지 않음",
+          "market_interpretation": "협상 조건 충돌로 유가·위험자산 변동성이 커질 수 있음"
+        }
+      },
+      "asset_class": "bitcoin",
+      "event_type": "geopolitics"
     },
     {
       "stable_id": "2026-08-10-strategy-sells-1690-btc",
