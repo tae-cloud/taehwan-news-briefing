@@ -1,6 +1,26 @@
 {
-  "updated_at_kst": "2026-08-11T13:06:59+09:00",
+  "updated_at_kst": "2026-08-11T13:10:21+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-11-8ac7eb39ea82",
+      "original_title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+      "published_at": "2026-08-11T04:07:48Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-11-af7f12265df7",
       "original_title": "Bitcoin's 'strongest hands' are back, on-chain data show",
@@ -634,7 +654,7 @@
     {
       "stable_id": "2026-08-10-e6de2bcfe32b",
       "original_title": "Upbit Lists Six Altcoins Including DePIN and AI Tokens in BTC and USDT Markets",
-      "published_at": "2026-08-10T21:01:59Z",
+      "published_at": "2026-08-10T21:02:29Z",
       "discovery_source": "news",
       "evidence": [
         {
@@ -1158,6 +1178,36 @@
         {
           "name": "Scripps News",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHM4cmJ2Szd3NGhRMFNwOVZvSHpWUS1paHJydTVBVnQtOERHRlAtcE1tSmxpRXVNUzU1QkxJSmlVSnRrTjk4QWZnWkhHUUpqYk5oRlFHZmVLTVRYajFhclQwSTFfbjAzeVR2SDFsa2k5c1lCMGFvOFN2OTZTU3pTS2kzZXN4WGFpLTlNT2dmQUdYN1VseERSamVMLWZIY0NLTHlySnlPbGhpeGVvZFdWb2ZCX0JwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-10-e9bfe01f9443",
+      "original_title": "Kalshi Traders Slash Odds of September Fed Rate Hike to 46%",
+      "published_at": "2026-08-10T18:14:10Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Kalshi Traders Slash Odds of September Fed Rate Hike to 46%",
+          "source": "CryptoRank",
+          "snippet": "Kalshi Traders Slash Odds of September Fed Rate Hike to 46% &nbsp;&nbsp; CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmJKVVg2YzdqTnMwMlcyazZLa3h1QndURDFONVhoZzFMRmstaXNQOHgyTnR4enVsOTFCalpSTFhrYklUNlhJakVtaWtqcV94eWZwOG1zTHEwTFdrY0NvTW81U3FqelRKTlVxU2wyVVZFR05jMkktVFU5VHVxSVFOSHBtTG1RamdwR05FSUln?oc=5"
+        },
+        {
+          "headline": "Kalshi Traders Slash Odds Of September Fed Rate Hike To 46%",
+          "source": "Bitcoin World",
+          "snippet": "Kalshi Traders Slash Odds Of September Fed Rate Hike To 46% &nbsp;&nbsp; Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdXNZQ2tuN0Nfdlp1MjZiMnl0ZlM4eGRscjJZbHhSanJleThjRTNSQTg4R3hEUjl1X1RrUHJRUDhoRkNZX1dIRnpMTkhDWkZWcVozbm9fSzBWR0NFMGw4alp6MnJQRFFVVV9ZODVuQkJycVFBOHBCWjhqN3dxLXFQSQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmJKVVg2YzdqTnMwMlcyazZLa3h1QndURDFONVhoZzFMRmstaXNQOHgyTnR4enVsOTFCalpSTFhrYklUNlhJakVtaWtqcV94eWZwOG1zTHEwTFdrY0NvTW81U3FqelRKTlVxU2wyVVZFR05jMkktVFU5VHVxSVFOSHBtTG1RamdwR05FSUln?oc=5"
+        },
+        {
+          "name": "Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdXNZQ2tuN0Nfdlp1MjZiMnl0ZlM4eGRscjJZbHhSanJleThjRTNSQTg4R3hEUjl1X1RrUHJRUDhoRkNZX1dIRnpMTkhDWkZWcVozbm9fSzBWR0NFMGw4alp6MnJQRFFVVV9ZODVuQkJycVFBOHBCWjhqN3dxLXFQSQ?oc=5"
         }
       ]
     },
@@ -2244,16 +2294,16 @@
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZFhJSUx2RkdKOS0wdmRjd09IeWMwRWs2cVlVM0ZucVpMTGw5c3JmSU03UDVkZXhCRkI1VV95VnFZMUFCWVp4eURZQzhieWFYRW9WRmZsWW9SdDUwa1JIbEk3VGFxcURVWkJ0Mks0cTkwaHFYU0owaHE1N2ZkY3VsLWVxRWNUbHN2cEI3TmNMZGtTLWFSUEpqaUU1eUlWLUFyODBaaHB4Y1l6UHhCWW1id0lacHdnNkkyUVZ5Q0M2MURNbDgzaXVEYkEyUl9LM214WkdJWTJ4LXo3aGJTcnNNMkREUldYQTJ4ZFNfS1NrdGo4RTNRRjNZY1ZTZGpkUQ?oc=5"
         },
         {
-          "headline": "Iran won't reopen Strait of Hormuz without US concessions an...",
-          "source": "Daily American Republic",
-          "snippet": "Iran won't reopen Strait of Hormuz without US concessions an... &nbsp;&nbsp; Daily American Republic",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDVBOFo1YnZxZGFxMjJxbWtyc09aVHpud0lLVUhZSDdidGMyRy1fOXVwaEZNd2diWGJJcC1DcHg1bmlOaTVPVk41dXl5dnZobmNaQUdINEQtSGZnZHZNTXp4ZGtyeGFGRTNuekc1NlZtSFpXRF80MWhoNnVEMHVvQUd6ek4ta1JkNDFra0xKOGU2RmhMNmFyTzE4eTFnZDdQakJhY2ZEUEN1WFRUYjF1RE9CVjFTZlFTOE9QTUdPLVBOaHhid1E?oc=5"
-        },
-        {
           "headline": "Iran won't reopen Strait of Hormuz without US concessions",
           "source": "DT Next",
           "snippet": "Iran won't reopen Strait of Hormuz without US concessions &nbsp;&nbsp; DT Next",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUHhkV1djWmtOME1QVFJXMFF6WUJGdVUwRlotV3ZNRW81dTR2WVdseTdqTEx6NnA4YTEzcG1TYkJ4SVpuY0lKMmxXTUc5YzFNTWw4T1pSMXRiNWxwVHpOV2NEWWJFam5FQlV4ZjFlS0hibUtpUjR4YnZUbDRMVEZZM3NGYjllV2RMYzY5ekRSOXdybDjSAaABQVVfeXFMTjkyS0hGbGlLWDJZUHlDNnhZNDh2T1YzZ1NkMmdkdktGc3lNVHpZT2ZaQWZ5V1dfdS1lYVBPVExScmo2Y19MNUVibjlRSTlVUFl0LXFPSjFpMXpUS1JNdGZBVjc3UlFzMi1icVNOazBVdzh0SW1pUTJUZHI5LVpYcDRUUkVfWkVIU0N4OGktLWhscmxzUF9pUmh2WGJmcER4UA?oc=5"
+        },
+        {
+          "headline": "Iran won't reopen Strait of Hormuz without US concessions and other Mideast developments",
+          "source": "The Washington Post",
+          "snippet": "Iran won't reopen Strait of Hormuz without US concessions and other Mideast developments &nbsp;&nbsp; The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZHhKSFFtV1ltRmZkR3NRdUJLU3dLbmlabVdNVGdLdXpkSFFXaEdmZlNfSkFQclNyMzVUT2N0Sl8tRXh6X1cxTWFrN1o3QWJOSUxCUFJnMzBXNjM3Y3cyMlpBYUl5U3NURGhCNWJENWtXNjh2blZqWkhUQTZGOEVVNXlicU5OeEpnTnRQUHFKTUY4eVQ5ekFKSmNGZUNQbWQ0cV9sYkFLd2NaTzE4b1BidjI5V01xeFJUbnB6Ql9kQ1ptUk5kQUtVbjZkSDNBTW00?oc=5"
         },
         {
           "headline": "Iran won't reopen Strait of Hormuz without US concessions and other Mideast developments",
@@ -2268,12 +2318,12 @@
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZFhJSUx2RkdKOS0wdmRjd09IeWMwRWs2cVlVM0ZucVpMTGw5c3JmSU03UDVkZXhCRkI1VV95VnFZMUFCWVp4eURZQzhieWFYRW9WRmZsWW9SdDUwa1JIbEk3VGFxcURVWkJ0Mks0cTkwaHFYU0owaHE1N2ZkY3VsLWVxRWNUbHN2cEI3TmNMZGtTLWFSUEpqaUU1eUlWLUFyODBaaHB4Y1l6UHhCWW1id0lacHdnNkkyUVZ5Q0M2MURNbDgzaXVEYkEyUl9LM214WkdJWTJ4LXo3aGJTcnNNMkREUldYQTJ4ZFNfS1NrdGo4RTNRRjNZY1ZTZGpkUQ?oc=5"
         },
         {
-          "name": "Daily American Republic",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDVBOFo1YnZxZGFxMjJxbWtyc09aVHpud0lLVUhZSDdidGMyRy1fOXVwaEZNd2diWGJJcC1DcHg1bmlOaTVPVk41dXl5dnZobmNaQUdINEQtSGZnZHZNTXp4ZGtyeGFGRTNuekc1NlZtSFpXRF80MWhoNnVEMHVvQUd6ek4ta1JkNDFra0xKOGU2RmhMNmFyTzE4eTFnZDdQakJhY2ZEUEN1WFRUYjF1RE9CVjFTZlFTOE9QTUdPLVBOaHhid1E?oc=5"
-        },
-        {
           "name": "DT Next",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUHhkV1djWmtOME1QVFJXMFF6WUJGdVUwRlotV3ZNRW81dTR2WVdseTdqTEx6NnA4YTEzcG1TYkJ4SVpuY0lKMmxXTUc5YzFNTWw4T1pSMXRiNWxwVHpOV2NEWWJFam5FQlV4ZjFlS0hibUtpUjR4YnZUbDRMVEZZM3NGYjllV2RMYzY5ekRSOXdybDjSAaABQVVfeXFMTjkyS0hGbGlLWDJZUHlDNnhZNDh2T1YzZ1NkMmdkdktGc3lNVHpZT2ZaQWZ5V1dfdS1lYVBPVExScmo2Y19MNUVibjlRSTlVUFl0LXFPSjFpMXpUS1JNdGZBVjc3UlFzMi1icVNOazBVdzh0SW1pUTJUZHI5LVpYcDRUUkVfWkVIU0N4OGktLWhscmxzUF9pUmh2WGJmcER4UA?oc=5"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZHhKSFFtV1ltRmZkR3NRdUJLU3dLbmlabVdNVGdLdXpkSFFXaEdmZlNfSkFQclNyMzVUT2N0Sl8tRXh6X1cxTWFrN1o3QWJOSUxCUFJnMzBXNjM3Y3cyMlpBYUl5U3NURGhCNWJENWtXNjh2blZqWkhUQTZGOEVVNXlicU5OeEpnTnRQUHFKTUY4eVQ5ekFKSmNGZUNQbWQ0cV9sYkFLd2NaTzE4b1BidjI5V01xeFJUbnB6Ql9kQ1ptUk5kQUtVbjZkSDNBTW00?oc=5"
         },
         {
           "name": "Click2Houston",
@@ -2369,8 +2419,8 @@
       "evidence": [
         {
           "headline": "Oil rises nearly 2% as Iran tempers hopes of Hormuz reopening",
-          "source": "lufkindailynews.com",
-          "snippet": "Oil rises nearly 2% as Iran tempers hopes of Hormuz reopening &nbsp;&nbsp; lufkindailynews.com",
+          "source": "The Lufkin Daily News",
+          "snippet": "Oil rises nearly 2% as Iran tempers hopes of Hormuz reopening &nbsp;&nbsp; The Lufkin Daily News",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2QzR3JYRjFQWnFnUnI3SHdoQUc2amlBbl9qdHZSUXZRYktUR2ZmMEY3QV9ZT1MyT1lYM1BaMVVaVWhoWGJaQi15aVJ3N0F3NWhTRWs3QzBQMEtzNGtHU0NpYmlXc1RsUEFYRHlUcEFGdWZCZ3YybXVLbTFzT2RmeXA4QngyYjFZQXd0SklHRXQ0eE9aQnFzbmFmUWJ0cHNES1RRYUxfMUk3ZkhVOW1ESU80Um5sYTA0ZVNMS3pQODlYVllBS180czVhT3pOX2RoaktrRGc3TWQ1S0NtX3gzSGFNSGF1MEhYVjVUUGM5Xy10QQ?oc=5"
         },
         {
@@ -2388,7 +2438,7 @@
       ],
       "sources": [
         {
-          "name": "lufkindailynews.com",
+          "name": "The Lufkin Daily News",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2QzR3JYRjFQWnFnUnI3SHdoQUc2amlBbl9qdHZSUXZRYktUR2ZmMEY3QV9ZT1MyT1lYM1BaMVVaVWhoWGJaQi15aVJ3N0F3NWhTRWs3QzBQMEtzNGtHU0NpYmlXc1RsUEFYRHlUcEFGdWZCZ3YybXVLbTFzT2RmeXA4QngyYjFZQXd0SklHRXQ0eE9aQnFzbmFmUWJ0cHNES1RRYUxfMUk3ZkhVOW1ESU80Um5sYTA0ZVNMS3pQODlYVllBS180czVhT3pOX2RoaktrRGc3TWQ1S0NtX3gzSGFNSGF1MEhYVjVUUGM5Xy10QQ?oc=5"
         },
         {
@@ -2418,46 +2468,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9714682/JPMorgan-on-Upcoming-RBA-Rate---FJElite.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-4f1e324f1e74",
-      "original_title": "FinancialJuice: Morgan Stanley on US CPI",
-      "published_at": "2026-08-10T12:31:21Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Morgan Stanley on US CPI",
-          "source": "FinancialJuice",
-          "snippet": "We forecast core CPI at 0.24% m/m (2.5% y/y) and headline CPI at 0.10% m/m (3.4% y/y), with the rebound driven primarily by core services returning toward their underlying trend and a pickup in core goods. Headline inflation should remain softer than core due to continued declines in energy prices—we forecast headline at 0.10%m/m (3.4%y/y, NSA index: 334.029). We think a core print rounding to 0.3% is more likely than one rounding to 0.1%. The main upside risk is a larger rebound in non-housing core services than we anticipate, particularly In lodging away from home, medical services, and communication services. Downside risks appear more limited. On the goods side, apparel inflation could come in softer than expected, while a sharper-than-anticipated deceleration in household operations, a historically volatile category, could also bring down services ex-housing inflation relative to our numbers.",
-          "url": "https://www.financialjuice.com/News/9714658/Morgan-Stanley-on-US-CPI---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9714658/Morgan-Stanley-on-US-CPI---FJElite.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-10-b053a72e7162",
-      "original_title": "FinancialJuice: US Sentiment: Yen Strength After Kyodo News Gives Reason to Intervention",
-      "published_at": "2026-08-10T12:25:50Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Sentiment: Yen Strength After Kyodo News Gives Reason to Intervention",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9714652/US-Sentiment-Yen-Strength-After-Kyodo-News-Gives-Reason-to-Intervention---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9714652/US-Sentiment-Yen-Strength-After-Kyodo-News-Gives-Reason-to-Intervention---FJElite.aspx?xy=rss"
         }
       ]
     }
