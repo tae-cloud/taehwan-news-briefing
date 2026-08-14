@@ -1,10 +1,50 @@
 {
-  "updated_at_kst": "2026-08-15T07:59:10+09:00",
+  "updated_at_kst": "2026-08-15T08:59:40+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-14-8fe275e0f547",
+      "original_title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+      "published_at": "2026-08-14T23:41:49Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-14-f13afefc7591",
+      "original_title": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz",
+      "published_at": "2026-08-14T23:13:47Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz",
+          "source": "Reuters",
+          "snippet": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-14-5024e304eb7b",
       "original_title": "Trump says he’ll hit Iran hard economically, will soon declare Hormuz ‘US territory’",
-      "published_at": "2026-08-14T22:32:56Z",
+      "published_at": "2026-08-14T22:56:50Z",
       "discovery_source": "financialjuice",
       "evidence": [
         {
@@ -23,7 +63,7 @@
           "headline": "FinancialJuice: Trump: Will hit Iran hard economically",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722147/Trump-Will-hit-Iran-hard-economically---Fox-News.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722147/Trump-Will-hit-Iran-hard-economically---Fox-News.aspx?xy=rss"
         }
       ],
       "sources": [
@@ -37,27 +77,37 @@
         },
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722147/Trump-Will-hit-Iran-hard-economically---Fox-News.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722147/Trump-Will-hit-Iran-hard-economically---Fox-News.aspx?xy=rss"
         }
       ]
     },
     {
-      "stable_id": "2026-08-14-f13afefc7591",
-      "original_title": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz",
-      "published_at": "2026-08-14T22:17:43Z",
+      "stable_id": "2026-08-14-c98c6e0b9a3e",
+      "original_title": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
+      "published_at": "2026-08-14T22:36:06Z",
       "discovery_source": "news",
       "evidence": [
         {
-          "headline": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz",
+          "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
           "source": "Reuters",
-          "snippet": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5"
+          "snippet": "Hormuz traffic slows further after US threatens more economic pressure on Iran &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5"
+        },
+        {
+          "headline": "U.S. Warns Iran of More Economic Pressure as Hormuz Vessel Traffic Slows",
+          "source": "Haaretz",
+          "snippet": "U.S. Warns Iran of More Economic Pressure as Hormuz Vessel Traffic Slows &nbsp;&nbsp; Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWUFUM3diMkdOMEpfbW16Nnoxd3Y1SFlXaldpVS01WURKN3djeF84MklxY3Etbk9VVjhKWHdKazhhOE5VcVdWZzFWOHBEZGQxZlpVVUhxNEYzMk1MNnEwMHdFRUZuVlVsQUJvQXljYjZkbUhsV2dFSC1fOTZ0bWNmTnEtRTVxeUVDZnI4UzhQblR1aVJrMUV3dnhQczF5M2NzellZZmJjbG5nbmVfS1NrOVhOODFrU2EzRzlQamxHOVRMeUU3NWZ2Q0diTFAyM1ZuRHl1dklYMzZiUERIQ2dQd2R4QVdUZEU3SEMySnBHbjdfbm5ZLTZWQ182cnZNdW83T3pVbTZwRQ?oc=5"
         }
       ],
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5"
+        },
+        {
+          "name": "Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWUFUM3diMkdOMEpfbW16Nnoxd3Y1SFlXaldpVS01WURKN3djeF84MklxY3Etbk9VVjhKWHdKazhhOE5VcVdWZzFWOHBEZGQxZlpVVUhxNEYzMk1MNnEwMHdFRUZuVlVsQUJvQXljYjZkbUhsV2dFSC1fOTZ0bWNmTnEtRTVxeUVDZnI4UzhQblR1aVJrMUV3dnhQczF5M2NzellZZmJjbG5nbmVfS1NrOVhOODFrU2EzRzlQamxHOVRMeUU3NWZ2Q0diTFAyM1ZuRHl1dklYMzZiUERIQ2dQd2R4QVdUZEU3SEMySnBHbjdfbm5ZLTZWQ182cnZNdW83T3pVbTZwRQ?oc=5"
         }
       ]
     },
@@ -71,13 +121,13 @@
           "headline": "FinancialJuice: Third Point LLC offloads share stake in Lam Research: SEC filing",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722299/Third-Point-LLC-offloads-share-stake-in-Lam-Research-SEC-filing.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722299/Third-Point-LLC-offloads-share-stake-in-Lam-Research-SEC-filing.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722299/Third-Point-LLC-offloads-share-stake-in-Lam-Research-SEC-filing.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722299/Third-Point-LLC-offloads-share-stake-in-Lam-Research-SEC-filing.aspx?xy=rss"
         }
       ]
     },
@@ -111,13 +161,13 @@
           "headline": "FinancialJuice: Iran's FM Aragchi: Qatar, Pakistan relay messages with Iran, but this does not indicate talks",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722289/Irans-FM-Aragchi-Qatar-Pakistan-relay-messages-with-Iran-but-this-does-not-indicate-talks---ISNA.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722289/Irans-FM-Aragchi-Qatar-Pakistan-relay-messages-with-Iran-but-this-does-not-indicate-talks---ISNA.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722289/Irans-FM-Aragchi-Qatar-Pakistan-relay-messages-with-Iran-but-this-does-not-indicate-talks---ISNA.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722289/Irans-FM-Aragchi-Qatar-Pakistan-relay-messages-with-Iran-but-this-does-not-indicate-talks---ISNA.aspx?xy=rss"
         }
       ]
     },
@@ -131,13 +181,13 @@
           "headline": "FinancialJuice: Iran’s FM Aragchi: no decision yet on resuming talks with U.S.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722288/Irans-FM-Aragchi-no-decision-yet-on-resuming-talks-with-US---ISNA.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722288/Irans-FM-Aragchi-no-decision-yet-on-resuming-talks-with-US---ISNA.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722288/Irans-FM-Aragchi-no-decision-yet-on-resuming-talks-with-US---ISNA.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722288/Irans-FM-Aragchi-no-decision-yet-on-resuming-talks-with-US---ISNA.aspx?xy=rss"
         }
       ]
     },
@@ -151,13 +201,13 @@
           "headline": "FinancialJuice: Iran's Gharibabadi: Trump declaring Strait of Hormuz U.S. territory won't intimidate Iran amid threats or force",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722273/Irans-Gharibabadi-Trump-declaring-Strait-of-Hormuz-US-territory-wont-intimidate-Iran-amid-threats-or-force.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722273/Irans-Gharibabadi-Trump-declaring-Strait-of-Hormuz-US-territory-wont-intimidate-Iran-amid-threats-or-force.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722273/Irans-Gharibabadi-Trump-declaring-Strait-of-Hormuz-US-territory-wont-intimidate-Iran-amid-threats-or-force.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722273/Irans-Gharibabadi-Trump-declaring-Strait-of-Hormuz-US-territory-wont-intimidate-Iran-amid-threats-or-force.aspx?xy=rss"
         }
       ]
     },
@@ -171,13 +221,33 @@
           "headline": "FinancialJuice: Iran's Deputy Foreign Minister Gharibabadi: The Strait of Hormuz will be opened or closed only under Iran's authority.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722272/Irans-Deputy-Foreign-Minister-Gharibabadi-The-Strait-of-Hormuz-will-be-opened-or-closed-only-under-Irans-authority.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722272/Irans-Deputy-Foreign-Minister-Gharibabadi-The-Strait-of-Hormuz-will-be-opened-or-closed-only-under-Irans-authority.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722272/Irans-Deputy-Foreign-Minister-Gharibabadi-The-Strait-of-Hormuz-will-be-opened-or-closed-only-under-Irans-authority.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722272/Irans-Deputy-Foreign-Minister-Gharibabadi-The-Strait-of-Hormuz-will-be-opened-or-closed-only-under-Irans-authority.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-14-20a4c1c95ecb",
+      "original_title": "Crypto Bank Tied to Trumps Wins Preliminary Approval from OCC",
+      "published_at": "2026-08-14T20:46:35Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Crypto Bank Tied to Trumps Wins Preliminary Approval from OCC",
+          "source": "Bloomberg",
+          "snippet": "Crypto Bank Tied to Trumps Wins Preliminary Approval from OCC &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3pNa2dfelRLYnhBT0NyaGJqMlgwY0tsSTdpTlNDUVB0ODI1emJGbTFnNE1JY3lBTkQ2M185cmNJNFB1eHYza29OZDhKb2Q5Z0NoRXRCcHM3SjhBMVpiSDNqMjlIV0tMbldRQVNpUjBGWVd6NTdBWWZ0V0UzVEZsb2EyWDFnWHJWZC1IQnloNFpPY000dlJnRHU4RzJRYVBOUjNieHdsMXA0NHJ6VURESnR3?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3pNa2dfelRLYnhBT0NyaGJqMlgwY0tsSTdpTlNDUVB0ODI1emJGbTFnNE1JY3lBTkQ2M185cmNJNFB1eHYza29OZDhKb2Q5Z0NoRXRCcHM3SjhBMVpiSDNqMjlIV0tMbldRQVNpUjBGWVd6NTdBWWZ0V0UzVEZsb2EyWDFnWHJWZC1IQnloNFpPY000dlJnRHU4RzJRYVBOUjNieHdsMXA0NHJ6VURESnR3?oc=5"
         }
       ]
     },
@@ -202,6 +272,56 @@
       ]
     },
     {
+      "stable_id": "2026-08-14-9fed24e219fa",
+      "original_title": "US Readies Iran Penalties as Trump Downplays Midterms Impact",
+      "published_at": "2026-08-14T20:39:37Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US Readies Iran Penalties as Trump Downplays Midterms Impact",
+          "source": "Bloomberg",
+          "snippet": "US Readies Iran Penalties as Trump Downplays Midterms Impact &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVi01Z0lDR0hQZDl1RUl3eUFya3FsQjFmMmRJT0luTjBlaWItbDhjUDdGLURDQ2lEOHlVajRWZjIzTUNsTmx5OFlLdXJwb2wxazgwUXNuNE5nM0JwMV9wN29LQkt1LVZlalZrOEMxc1d3d3k2RkRCM3d4dFRNM2w1OUFDSlVUbWVNc3VUclBiS1FINzdJekZZekZCWnE1XzdwOEw1enRPcXpjUENlWVZoSQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVi01Z0lDR0hQZDl1RUl3eUFya3FsQjFmMmRJT0luTjBlaWItbDhjUDdGLURDQ2lEOHlVajRWZjIzTUNsTmx5OFlLdXJwb2wxazgwUXNuNE5nM0JwMV9wN29LQkt1LVZlalZrOEMxc1d3d3k2RkRCM3d4dFRNM2w1OUFDSlVUbWVNc3VUclBiS1FINzdJekZZekZCWnE1XzdwOEw1enRPcXpjUENlWVZoSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-14-b4bb561aa99b",
+      "original_title": "Dollar falls on surprise drop in US retail sales By Reuters",
+      "published_at": "2026-08-14T20:33:08Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Dollar falls on surprise drop in US retail sales By Reuters",
+          "source": "Investing.com Australia",
+          "snippet": "Dollar falls on surprise drop in US retail sales By Reuters &nbsp;&nbsp; Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnpyQjJvUlFJSy1jbnhQRktqWkpHakRCMUxhMlh0WlFLd3ZLTGZLSzlHbnhOdXN4ZTBNMWJhMmVqSUh0bjJpTHo0bThPay1GMEFUX2MzZlRXU1dtbTFCWEUxcDRKR0twMUxBcjROdU1lQm04bG9MS0QyemdoR1IxRjRsOFRHSzEySkJPR1lKNDI3UUJGWmRGTFUtdVh1VkFEZzdaSU5UZ3JtY1hxSTNudg?oc=5"
+        },
+        {
+          "headline": "Dollar falls on surprise drop in US retail sales",
+          "source": "Reuters",
+          "snippet": "Dollar falls on surprise drop in US retail sales &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdOaGFHQW9UT2djdjRLSnBkeE9pMnJ4N3NkSVlxczRQZ0otbmJTNS1fa2VOU3dqcExCRGgwYVAxY0lKQnZvc2JUSk9BcGlkT3pPdTlRLWQzVlRuR1F4ZTBFd2FkRkVNZnFLQ2dwUXY4RlZQdjFjNngyZVp5SWd0LVJSUnNidmcwTUdnRDJOd2hsa0xaQ1Z5VmM1WmdjS3NnNmRubmdFVXpaTUk2LURMZQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnpyQjJvUlFJSy1jbnhQRktqWkpHakRCMUxhMlh0WlFLd3ZLTGZLSzlHbnhOdXN4ZTBNMWJhMmVqSUh0bjJpTHo0bThPay1GMEFUX2MzZlRXU1dtbTFCWEUxcDRKR0twMUxBcjROdU1lQm04bG9MS0QyemdoR1IxRjRsOFRHSzEySkJPR1lKNDI3UUJGWmRGTFUtdVh1VkFEZzdaSU5UZ3JtY1hxSTNudg?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdOaGFHQW9UT2djdjRLSnBkeE9pMnJ4N3NkSVlxczRQZ0otbmJTNS1fa2VOU3dqcExCRGgwYVAxY0lKQnZvc2JUSk9BcGlkT3pPdTlRLWQzVlRuR1F4ZTBFd2FkRkVNZnFLQ2dwUXY4RlZQdjFjNngyZVp5SWd0LVJSUnNidmcwTUdnRDJOd2hsa0xaQ1Z5VmM1WmdjS3NnNmRubmdFVXpaTUk2LURMZQ?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-14-218c2206b578",
       "original_title": "FinancialJuice: Trump: Taking millions of bbls of oil from Venezuela weekly.",
       "published_at": "2026-08-14T20:23:48Z",
@@ -211,13 +331,13 @@
           "headline": "FinancialJuice: Trump: Taking millions of bbls of oil from Venezuela weekly.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722243/Trump-Taking-millions-of-bbls-of-oil-from-Venezuela-weekly.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722243/Trump-Taking-millions-of-bbls-of-oil-from-Venezuela-weekly.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722243/Trump-Taking-millions-of-bbls-of-oil-from-Venezuela-weekly.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722243/Trump-Taking-millions-of-bbls-of-oil-from-Venezuela-weekly.aspx?xy=rss"
         }
       ]
     },
@@ -231,13 +351,13 @@
           "headline": "FinancialJuice: Trump: The US is capable of destroying Iran, we don't want to do that",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722240/Trump-The-US-is-capable-of-destroying-Iran-we-dont-want-to-do-that---Fox-Business-Interview-Clip.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722240/Trump-The-US-is-capable-of-destroying-Iran-we-dont-want-to-do-that---Fox-Business-Interview-Clip.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722240/Trump-The-US-is-capable-of-destroying-Iran-we-dont-want-to-do-that---Fox-Business-Interview-Clip.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722240/Trump-The-US-is-capable-of-destroying-Iran-we-dont-want-to-do-that---Fox-Business-Interview-Clip.aspx?xy=rss"
         }
       ]
     },
@@ -251,13 +371,13 @@
           "headline": "FinancialJuice: No forthcoming extension of the US-Iran ceasefire yet",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722238/No-forthcoming-extension-of-the-US-Iran-ceasefire-yet---Politico-citing-a-White-House-Official.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722238/No-forthcoming-extension-of-the-US-Iran-ceasefire-yet---Politico-citing-a-White-House-Official.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722238/No-forthcoming-extension-of-the-US-Iran-ceasefire-yet---Politico-citing-a-White-House-Official.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722238/No-forthcoming-extension-of-the-US-Iran-ceasefire-yet---Politico-citing-a-White-House-Official.aspx?xy=rss"
         }
       ]
     },
@@ -271,13 +391,13 @@
           "headline": "FinancialJuice: USD CFTC Positions Week August 11th",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722237/USD-CFTC-Positions-Week-August-11th---FJElite.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722237/USD-CFTC-Positions-Week-August-11th---FJElite.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722237/USD-CFTC-Positions-Week-August-11th---FJElite.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722237/USD-CFTC-Positions-Week-August-11th---FJElite.aspx?xy=rss"
         }
       ]
     },
@@ -291,13 +411,13 @@
           "headline": "FinancialJuice: The US-Iran situation is static",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722223/The-US-Iran-situation-is-static---Politico-citing-a-White-House-Official.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722223/The-US-Iran-situation-is-static---Politico-citing-a-White-House-Official.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722223/The-US-Iran-situation-is-static---Politico-citing-a-White-House-Official.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722223/The-US-Iran-situation-is-static---Politico-citing-a-White-House-Official.aspx?xy=rss"
         }
       ]
     },
@@ -331,13 +451,13 @@
           "headline": "FinancialJuice: Trump on Iran: Blockade is a wall of steel.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722205/Trump-on-Iran-Blockade-is-a-wall-of-steel.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722205/Trump-on-Iran-Blockade-is-a-wall-of-steel.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722205/Trump-on-Iran-Blockade-is-a-wall-of-steel.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722205/Trump-on-Iran-Blockade-is-a-wall-of-steel.aspx?xy=rss"
         }
       ]
     },
@@ -351,13 +471,13 @@
           "headline": "FinancialJuice: Trump on Iran: The US is going to pay a tiny little price for gasoline.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722204/Trump-on-Iran-The-US-is-going-to-pay-a-tiny-little-price-for-gasoline.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722204/Trump-on-Iran-The-US-is-going-to-pay-a-tiny-little-price-for-gasoline.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722204/Trump-on-Iran-The-US-is-going-to-pay-a-tiny-little-price-for-gasoline.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722204/Trump-on-Iran-The-US-is-going-to-pay-a-tiny-little-price-for-gasoline.aspx?xy=rss"
         }
       ]
     },
@@ -371,13 +491,13 @@
           "headline": "FinancialJuice: Trump on Iran: We have loaded up.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722202/Trump-on-Iran-We-have-loaded-up.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722202/Trump-on-Iran-We-have-loaded-up.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722202/Trump-on-Iran-We-have-loaded-up.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722202/Trump-on-Iran-We-have-loaded-up.aspx?xy=rss"
         }
       ]
     },
@@ -391,13 +511,13 @@
           "headline": "FinancialJuice: Trump: We can't let Iran keep going.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722201/Trump-We-cant-let-Iran-keep-going.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722201/Trump-We-cant-let-Iran-keep-going.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722201/Trump-We-cant-let-Iran-keep-going.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722201/Trump-We-cant-let-Iran-keep-going.aspx?xy=rss"
         }
       ]
     },
@@ -411,13 +531,13 @@
           "headline": "FinancialJuice: Trump on Iran: Pretty soon I'll be declaring the Strait of Hormuz a territory of the United States.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722200/Trump-on-Iran-Pretty-soon-Ill-be-declaring-the-Strait-of-Hormuz-a-territory-of-the-United-States.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722200/Trump-on-Iran-Pretty-soon-Ill-be-declaring-the-Strait-of-Hormuz-a-territory-of-the-United-States.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722200/Trump-on-Iran-Pretty-soon-Ill-be-declaring-the-Strait-of-Hormuz-a-territory-of-the-United-States.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722200/Trump-on-Iran-Pretty-soon-Ill-be-declaring-the-Strait-of-Hormuz-a-territory-of-the-United-States.aspx?xy=rss"
         }
       ]
     },
@@ -431,13 +551,43 @@
           "headline": "FinancialJuice: Trump: We're making a fortune with tariffs.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722198/Trump-Were-making-a-fortune-with-tariffs.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722198/Trump-Were-making-a-fortune-with-tariffs.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722198/Trump-Were-making-a-fortune-with-tariffs.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722198/Trump-Were-making-a-fortune-with-tariffs.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-14-74c3d7a920e1",
+      "original_title": "Oil climbs on tanker attacks, US-Iran claims about Hormuz control",
+      "published_at": "2026-08-14T19:41:36Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil climbs on tanker attacks, US-Iran claims about Hormuz control",
+          "source": "104.1 WIKY",
+          "snippet": "Oil climbs on tanker attacks, US-Iran claims about Hormuz control &nbsp;&nbsp; 104.1 WIKY",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONWFkRjEwa2M2N0NqN0JaT214dFB1UldiV045NHNXS1JNQ09IV0UyUmVfNnIyajRacndsLTJBeTRWcmdoM1h6R1VnTkFscnZCUkNMS2dzdTRGb3VIRFFsd2Iyczk1eGxmaFpvc3YtSlFrYnJ2YlRsY2NUMUVOQ0hWdTMycXB2OVpiOTZCUm81aTF6Q2lFNi1wU1M1YzFCVEVoUGc?oc=5"
+        },
+        {
+          "headline": "Oil climbs on tanker attacks, US-Iran claims about Hormuz control",
+          "source": "The Lufkin Daily News",
+          "snippet": "Oil climbs on tanker attacks, US-Iran claims about Hormuz control &nbsp;&nbsp; The Lufkin Daily News",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZE16aVdLa3YxTDF0SnB2RjAzc1BNYzhVYzVWelNScVJnV1RMcXFralpvSlhXNkRJZVRYcmh6R0dqVzBQX2xMMU0wNlkwc0d2eGd0R1NsQjRnVFhrc2tRUkI4S2RzOTcxMkM0UTc0RzVXbzRqdkdXZ1AxWGpxWUhWSnlMaTY2Um5iak1TcWdKYjBUVy1aWmFfaThORnNWUWhDWGhsOGMzZ3ROTV9DcWpjZjRYUFpBemV0S1JGS3M1RmtuTGxRSXgyNjd6cFhIZlRfM3UtZ09oSDFLRF9xeVhveUk2R2RTam1EaGJvNzNYSnpXc2xLRnBZ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "104.1 WIKY",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONWFkRjEwa2M2N0NqN0JaT214dFB1UldiV045NHNXS1JNQ09IV0UyUmVfNnIyajRacndsLTJBeTRWcmdoM1h6R1VnTkFscnZCUkNMS2dzdTRGb3VIRFFsd2Iyczk1eGxmaFpvc3YtSlFrYnJ2YlRsY2NUMUVOQ0hWdTMycXB2OVpiOTZCUm81aTF6Q2lFNi1wU1M1YzFCVEVoUGc?oc=5"
+        },
+        {
+          "name": "The Lufkin Daily News",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZE16aVdLa3YxTDF0SnB2RjAzc1BNYzhVYzVWelNScVJnV1RMcXFralpvSlhXNkRJZVRYcmh6R0dqVzBQX2xMMU0wNlkwc0d2eGd0R1NsQjRnVFhrc2tRUkI4S2RzOTcxMkM0UTc0RzVXbzRqdkdXZ1AxWGpxWUhWSnlMaTY2Um5iak1TcWdKYjBUVy1aWmFfaThORnNWUWhDWGhsOGMzZ3ROTV9DcWpjZjRYUFpBemV0S1JGS3M1RmtuTGxRSXgyNjd6cFhIZlRfM3UtZ09oSDFLRF9xeVhveUk2R2RTam1EaGJvNzNYSnpXc2xLRnBZ?oc=5"
         }
       ]
     },
@@ -511,43 +661,13 @@
           "headline": "FinancialJuice: Trump: Don't care if hitting Iran's economy before the midterm.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722149/Trump-Dont-care-if-hitting-Irans-economy-before-the-midterm.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722149/Trump-Dont-care-if-hitting-Irans-economy-before-the-midterm.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722149/Trump-Dont-care-if-hitting-Irans-economy-before-the-midterm.aspx?xy=1"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-b4bb561aa99b",
-      "original_title": "Dollar falls on surprise drop in US retail sales By Reuters",
-      "published_at": "2026-08-14T19:24:15Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Dollar falls on surprise drop in US retail sales By Reuters",
-          "source": "Investing.com South Africa",
-          "snippet": "Dollar falls on surprise drop in US retail sales By Reuters &nbsp;&nbsp; Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbk9JSVcxRl8xNHpJTWI5WlUzZm1hT3Ewc05wS0g1X3NPSHBhc0xUTlR2ekVvNTRKUXlqMU9KalRNUS03S29aZUNzbzlCbjQ1TkJaektJUXNKQnRjVGdXUTE4TlM5R3lBYV9KZ0xFNGlSelpCQ2o5Y1F5Wnl4V2pYeXl5UUxRZ1c2aFlEd1dZdnZqTml1eC1DN1VONFQtSVB0VjAzZmg0aUxRZjNTN1Z3SA?oc=5"
-        },
-        {
-          "headline": "Dollar falls on surprise drop in US retail sales",
-          "source": "Reuters",
-          "snippet": "Dollar falls on surprise drop in US retail sales &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdOaGFHQW9UT2djdjRLSnBkeE9pMnJ4N3NkSVlxczRQZ0otbmJTNS1fa2VOU3dqcExCRGgwYVAxY0lKQnZvc2JUSk9BcGlkT3pPdTlRLWQzVlRuR1F4ZTBFd2FkRkVNZnFLQ2dwUXY4RlZQdjFjNngyZVp5SWd0LVJSUnNidmcwTUdnRDJOd2hsa0xaQ1Z5VmM1WmdjS3NnNmRubmdFVXpaTUk2LURMZQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbk9JSVcxRl8xNHpJTWI5WlUzZm1hT3Ewc05wS0g1X3NPSHBhc0xUTlR2ekVvNTRKUXlqMU9KalRNUS03S29aZUNzbzlCbjQ1TkJaektJUXNKQnRjVGdXUTE4TlM5R3lBYV9KZ0xFNGlSelpCQ2o5Y1F5Wnl4V2pYeXl5UUxRZ1c2aFlEd1dZdnZqTml1eC1DN1VONFQtSVB0VjAzZmg0aUxRZjNTN1Z3SA?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdOaGFHQW9UT2djdjRLSnBkeE9pMnJ4N3NkSVlxczRQZ0otbmJTNS1fa2VOU3dqcExCRGgwYVAxY0lKQnZvc2JUSk9BcGlkT3pPdTlRLWQzVlRuR1F4ZTBFd2FkRkVNZnFLQ2dwUXY4RlZQdjFjNngyZVp5SWd0LVJSUnNidmcwTUdnRDJOd2hsa0xaQ1Z5VmM1WmdjS3NnNmRubmdFVXpaTUk2LURMZQ?oc=5"
+          "url": "https://www.financialjuice.com/News/9722149/Trump-Dont-care-if-hitting-Irans-economy-before-the-midterm.aspx?xy=rss"
         }
       ]
     },
@@ -601,13 +721,13 @@
           "headline": "FinancialJuice: WH Press Sec. Leavitt: The US can continue to punish Iran and cripple its economy.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722084/WH-Press-Sec-Leavitt-The-US-can-continue-to-punish-Iran-and-cripple-its-economy.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722084/WH-Press-Sec-Leavitt-The-US-can-continue-to-punish-Iran-and-cripple-its-economy.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722084/WH-Press-Sec-Leavitt-The-US-can-continue-to-punish-Iran-and-cripple-its-economy.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722084/WH-Press-Sec-Leavitt-The-US-can-continue-to-punish-Iran-and-cripple-its-economy.aspx?xy=rss"
         }
       ]
     },
@@ -621,13 +741,13 @@
           "headline": "FinancialJuice: WH Press Sec. Leavitt on Iran pressure: There are more tools at our disposal.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722083/WH-Press-Sec-Leavitt-on-Iran-pressure-There-are-more-tools-at-our-disposal.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722083/WH-Press-Sec-Leavitt-on-Iran-pressure-There-are-more-tools-at-our-disposal.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722083/WH-Press-Sec-Leavitt-on-Iran-pressure-There-are-more-tools-at-our-disposal.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722083/WH-Press-Sec-Leavitt-on-Iran-pressure-There-are-more-tools-at-our-disposal.aspx?xy=rss"
         }
       ]
     },
@@ -721,13 +841,33 @@
           "headline": "FinancialJuice: US Baker Hughes Oil Rig Count Actual 455 (Forecast -, Previous 454)",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9722016/US-Baker-Hughes-Oil-Rig-Count-Actual-455-Forecast---Previous-454.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722016/US-Baker-Hughes-Oil-Rig-Count-Actual-455-Forecast---Previous-454.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9722016/US-Baker-Hughes-Oil-Rig-Count-Actual-455-Forecast---Previous-454.aspx?xy=1"
+          "url": "https://www.financialjuice.com/News/9722016/US-Baker-Hughes-Oil-Rig-Count-Actual-455-Forecast---Previous-454.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-14-370ca5a3f2e6",
+      "original_title": "US Threat to Boost Economic Pressure on Iran Unnerves Oil Market",
+      "published_at": "2026-08-14T16:00:01Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US Threat to Boost Economic Pressure on Iran Unnerves Oil Market",
+          "source": "Bloomberg",
+          "snippet": "US Threat to Boost Economic Pressure on Iran Unnerves Oil Market &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUENubkd2RnZISEN5dXVvMGVIS01STVFmbjZOOTZsNjJZOXJudjl1cHFLODRpT29BWDdEeElJMmlTU2NGZGwtVi04cTJfRXVtUVgwekdBa1A1NC1OUGdlOHJwVmJfcW5PMkE2OEJJY2lEWUwxX3VGbWZQSFk5SXBlRDBrRHY0aXhnNy1MZFQ4UFJzX2hhRWI5OXc0dGNHNzZDN21vRzZzS3A3OTJoNnMyX1dfUGFjVlZweVE?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUENubkd2RnZISEN5dXVvMGVIS01STVFmbjZOOTZsNjJZOXJudjl1cHFLODRpT29BWDdEeElJMmlTU2NGZGwtVi04cTJfRXVtUVgwekdBa1A1NC1OUGdlOHJwVmJfcW5PMkE2OEJJY2lEWUwxX3VGbWZQSFk5SXBlRDBrRHY0aXhnNy1MZFQ4UFJzX2hhRWI5OXc0dGNHNzZDN21vRzZzS3A3OTJoNnMyX1dfUGFjVlZweVE?oc=5"
         }
       ]
     },
@@ -758,6 +898,26 @@
         {
           "name": "Transport Topics",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96RGprc0NCQlE0MkxNNENld093ZHRPUFhLX3pqUTZKLWpEZWQtS0JLMkVlN3BkYndmMFVzcmU2ZnE1VlU4V1BvY3gtdk1YYkdpbDZ3QWRUa0lDdUlOeW1OOTVtWFdDeEo5cFE?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-14-60d0d5d87f61",
+      "original_title": "‘Economic Isolation’ Plan for Iran, Farage Wins UK Election | The Opening Trade 8/14/2026",
+      "published_at": "2026-08-14T15:52:20Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "‘Economic Isolation’ Plan for Iran, Farage Wins UK Election | The Opening Trade 8/14/2026",
+          "source": "Bloomberg",
+          "snippet": "‘Economic Isolation’ Plan for Iran, Farage Wins UK Election | The Opening Trade 8/14/2026 &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDI0V1dleUJBQ1BPZ0o5RkFnX3NiaFQ0R3JxV3pGZ0Vfdl9IRGpKNDdZTWlkMlhPLTRXUDdoWXNiTFMzcVNHdlhvSGg2U01NaVc4QU9CTzNWejZTREFmTldaNFIxOWVTdlFjbUcyVTRabm1hdlUwaHk3TGNOR3hFa2J3cnVMX0RueGc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDI0V1dleUJBQ1BPZ0o5RkFnX3NiaFQ0R3JxV3pGZ0Vfdl9IRGpKNDdZTWlkMlhPLTRXUDdoWXNiTFMzcVNHdlhvSGg2U01NaVc4QU9CTzNWejZTREFmTldaNFIxOWVTdlFjbUcyVTRabm1hdlUwaHk3TGNOR3hFa2J3cnVMX0RueGc?oc=5"
         }
       ]
     },
@@ -828,26 +988,6 @@
         {
           "name": "UA.NEWS",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHp1WnUyb2d6R1lDbC1XT09NMlFUeHZjVzM2b0hhNE5lajJFRUR5TlFNYU52QzBTN2ZyUGNRSE9lSDJIT19PU1kxZmQ0WGFfTDY0dFJiSVlSRFEybjQxbHNJUUV5cy1BZGFRREdaZkZoaFpmeXJHT2Q5Y3VhSGZNSlludWZnZ2dReG9LVGVDMm81Rkd0LWkwZWhDQURJQjJrcFE?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-c98c6e0b9a3e",
-      "original_title": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
-      "published_at": "2026-08-14T14:27:38Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
-          "source": "Reuters",
-          "snippet": "Hormuz traffic slows further after US threatens more economic pressure on Iran &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5"
         }
       ]
     },
@@ -1015,8 +1155,8 @@
         },
         {
           "headline": "Iranians Struggle to Afford Groceries as Trump Squeezes Economy",
-          "source": "Bloomberg.com",
-          "snippet": "Iranians Struggle to Afford Groceries as Trump Squeezes Economy &nbsp;&nbsp; Bloomberg.com",
+          "source": "Bloomberg",
+          "snippet": "Iranians Struggle to Afford Groceries as Trump Squeezes Economy &nbsp;&nbsp; Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1QwRjE1Z2VTN1hfUHZid3lmaVhGOTRLVGtHSXpfZUdZNU5TSkhmS0RRQl9DTUQzcFh4Z1BUd0t1NXJLaEdfUDJDNnFUTTBWLXBveUFnbFFBSGU0YUg1SkFabFpSY1U2S2tJMkNmMTRNYjJoZF9FODBZdy1jZUg3dTdYWDlaWDNadEIyV0xQLXlWSnlaRzFmNk5DZjRmYkhxTTBnQk85eWpmdEozYWY2bk1XN2k?oc=5"
         }
       ],
@@ -1026,8 +1166,28 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOU10M0pjU003eUdjTU1MWjlIaEV3NmQ4WWVmdkNrR2hQZjFMVVl2Zk4wQnFZVnNQamd2NUEzaVhKbnVENHdseFB3SWJIRUpWd3dtU05jZkFYSmFTV1VRSjlFNm52ZWhROHEzQXU5MUlvN3l2ajRmeTVaUEFZRC1PVEw2TG5vcFYwS21YU0FZMkZYQQ?oc=5"
         },
         {
-          "name": "Bloomberg.com",
+          "name": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1QwRjE1Z2VTN1hfUHZid3lmaVhGOTRLVGtHSXpfZUdZNU5TSkhmS0RRQl9DTUQzcFh4Z1BUd0t1NXJLaEdfUDJDNnFUTTBWLXBveUFnbFFBSGU0YUg1SkFabFpSY1U2S2tJMkNmMTRNYjJoZF9FODBZdy1jZUg3dTdYWDlaWDNadEIyV0xQLXlWSnlaRzFmNk5DZjRmYkhxTTBnQk85eWpmdEozYWY2bk1XN2k?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-14-da2f073e06f7",
+      "original_title": "Crypto",
+      "published_at": "2026-08-14T13:27:14Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Crypto",
+          "source": "Bloomberg",
+          "snippet": "Crypto &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqQXEyT1U5T2ItWWtBSDJGQkRHLUU2WmUyMEtGa053Mmx2TThXamxvV21abkZmQVpfMGNtdEVtNi1GXzZ6MzVR?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqQXEyT1U5T2ItWWtBSDJGQkRHLUU2WmUyMEtGa053Mmx2TThXamxvV21abkZmQVpfMGNtdEVtNi1GXzZ6MzVR?oc=5"
         }
       ]
     },
@@ -1039,8 +1199,8 @@
       "evidence": [
         {
           "headline": "US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week",
-          "source": "Bloomberg.com",
-          "snippet": "US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week &nbsp;&nbsp; Bloomberg.com",
+          "source": "Bloomberg",
+          "snippet": "US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week &nbsp;&nbsp; Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0NXREk1M2c0WmFMQmF4YnNtYktlMmdpQms2NDE0RFppYkw2VlVsRzdRa2VmS3NXMTNaQlIwRlBHZ3hTRVBKZkRSdkRtNml2YlMzY0dBQTF4Z2tpeU1fRS0wR1Y4Y0hCVjF3V0lfdXZTN3NXNEtmRFJIUHZKbkZ3a1dYcl9nd3ZtLVhqSGt1blhWd1dPNy1fZERjdjFXUEEya1pXTHF2VlNVQ0hS?oc=5"
         },
         {
@@ -1052,7 +1212,7 @@
       ],
       "sources": [
         {
-          "name": "Bloomberg.com",
+          "name": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0NXREk1M2c0WmFMQmF4YnNtYktlMmdpQms2NDE0RFppYkw2VlVsRzdRa2VmS3NXMTNaQlIwRlBHZ3hTRVBKZkRSdkRtNml2YlMzY0dBQTF4Z2tpeU1fRS0wR1Y4Y0hCVjF3V0lfdXZTN3NXNEtmRFJIUHZKbkZ3a1dYcl9nd3ZtLVhqSGt1blhWd1dPNy1fZERjdjFXUEEya1pXTHF2VlNVQ0hS?oc=5"
         },
         {
@@ -1168,6 +1328,26 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9721664/Traders-pare-wagers-on-more-than-one-Fed-rate-hike-by-mid-2027.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-14-3989ec8edba0",
+      "original_title": "Crypto’s $1 Trillion Rout Hits Funds Built for Day-Trader Crowd",
+      "published_at": "2026-08-14T12:29:09Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Crypto’s $1 Trillion Rout Hits Funds Built for Day-Trader Crowd",
+          "source": "Bloomberg",
+          "snippet": "Crypto’s $1 Trillion Rout Hits Funds Built for Day-Trader Crowd &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzRoVnJidTA1TWwwZjVCV2NfSk93NjBSLXc0MnJjbktERzAzLWJ6WXpveUk4bzIyckZldGg4QXBfQk9SOVh3RzlRaDNUUXdJWkpiVDBiQlRsR3FDemN2eV9CeDlOZm05WDlmLW9KcEI5ZzVYMFE5ZGhUYkVQMDNrSWNKeXhZOU9YNk5NN2FGX3Ayc1dFVnFkVmVNUl85RUdpTU9VWnliNzAyVXVLOHRKam94cw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzRoVnJidTA1TWwwZjVCV2NfSk93NjBSLXc0MnJjbktERzAzLWJ6WXpveUk4bzIyckZldGg4QXBfQk9SOVh3RzlRaDNUUXdJWkpiVDBiQlRsR3FDemN2eV9CeDlOZm05WDlmLW9KcEI5ZzVYMFE5ZGhUYkVQMDNrSWNKeXhZOU9YNk5NN2FGX3Ayc1dFVnFkVmVNUl85RUdpTU9VWnliNzAyVXVLOHRKam94cw?oc=5"
         }
       ]
     },
@@ -1384,9 +1564,15 @@
     {
       "stable_id": "2026-08-14-12a030f7b644",
       "original_title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
-      "published_at": "2026-08-14T11:07:49Z",
+      "published_at": "2026-08-14T11:23:57Z",
       "discovery_source": "coindesk",
       "evidence": [
+        {
+          "headline": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
+          "source": "Cryptonews.net",
+          "snippet": "Trump family's World Liberty Financial delay plans to sell Maldives resort token &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UcGhTLWRwcFJ6c0ZTdUhnMGhibjQtcVJPbkkxam8wcFZHbVlwWTZGRWR5WkpEUzEtWHdWazcxWmdoNkY3X2RhazJPQ3pyZm5WMW9nUHB4OU0?oc=5"
+        },
         {
           "headline": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
           "source": "CoinDesk",
@@ -1396,8 +1582,32 @@
       ],
       "sources": [
         {
+          "name": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UcGhTLWRwcFJ6c0ZTdUhnMGhibjQtcVJPbkkxam8wcFZHbVlwWTZGRWR5WkpEUzEtWHdWazcxWmdoNkY3X2RhazJPQ3pyZm5WMW9nUHB4OU0?oc=5"
+        },
+        {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-14-41feaced40b0",
+      "original_title": "Oil Spills Show Cost of Keeping Middle East Barrels Flowing",
+      "published_at": "2026-08-14T11:20:34Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil Spills Show Cost of Keeping Middle East Barrels Flowing",
+          "source": "Bloomberg",
+          "snippet": "Oil Spills Show Cost of Keeping Middle East Barrels Flowing &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMm1ORXdhSy1mQkNWOXI5SDNCOS1lbXBJTUpzU1ZsVlViWnJURGJENEF6N1hXWE9lT0d2QWdFRHpXRVowZXFkVHRRVkZEeTlKNS1EcGl1dHctbDlJQV9BR05EZEY1ampyamw3bGtUclFId0Q5c2FjMktzTmVDMmNta3lCNEVyOFdZZ0kyeFdzT1prWG8yY0dTU3gwSjRVOTBBZzVKTUlUdjlTWW9pNzFBV015MA?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMm1ORXdhSy1mQkNWOXI5SDNCOS1lbXBJTUpzU1ZsVlViWnJURGJENEF6N1hXWE9lT0d2QWdFRHpXRVowZXFkVHRRVkZEeTlKNS1EcGl1dHctbDlJQV9BR05EZEY1ampyamw3bGtUclFId0Q5c2FjMktzTmVDMmNta3lCNEVyOFdZZ0kyeFdzT1prWG8yY0dTU3gwSjRVOTBBZzVKTUlUdjlTWW9pNzFBV015MA?oc=5"
         }
       ]
     },
@@ -1522,6 +1732,26 @@
       ]
     },
     {
+      "stable_id": "2026-08-14-7b3c661b0669",
+      "original_title": "Kraken Parent Payward Reports Earnings Slump Amid Crypto Winter",
+      "published_at": "2026-08-14T10:30:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Kraken Parent Payward Reports Earnings Slump Amid Crypto Winter",
+          "source": "Bloomberg",
+          "snippet": "Kraken Parent Payward Reports Earnings Slump Amid Crypto Winter &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJPRnd4TnlIWVpxcEpELUpyMmI4N0YtY21MQUZNRGZrQmY3OExiem5oWXRuLTZzWVhVY0NIWFdkaElzYjJuOXBaMEdrbkF6eVNtaDZwaTdWRXIwQ3hQekJKT1N5MG9sbDBpR3VTSXQ4ekZISTVQajE0NzJiY3oydFpHZEN2R0duNFBtR0h0TEFBVVl2OWt3QWlBZ2xPUlp2SXJMNFQxeDVDaGdOQ3pxdEFvVlc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJPRnd4TnlIWVpxcEpELUpyMmI4N0YtY21MQUZNRGZrQmY3OExiem5oWXRuLTZzWVhVY0NIWFdkaElzYjJuOXBaMEdrbkF6eVNtaDZwaTdWRXIwQ3hQekJKT1N5MG9sbDBpR3VTSXQ4ekZISTVQajE0NzJiY3oydFpHZEN2R0duNFBtR0h0TEFBVVl2OWt3QWlBZ2xPUlp2SXJMNFQxeDVDaGdOQ3pxdEFvVlc?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-14-f8dd146aa50a",
       "original_title": "FinancialJuice: Maersk: Continue to operate cautiously in the Middle East",
       "published_at": "2026-08-14T10:04:44Z",
@@ -1575,8 +1805,8 @@
         },
         {
           "headline": "Upbit Delisting Notice Sends 3 Altcoins Lower Before September Cutoff",
-          "source": "BeInCrypto",
-          "snippet": "Upbit Delisting Notice Sends 3 Altcoins Lower Before September Cutoff &nbsp;&nbsp; BeInCrypto",
+          "source": "beincrypto.com",
+          "snippet": "Upbit Delisting Notice Sends 3 Altcoins Lower Before September Cutoff &nbsp;&nbsp; beincrypto.com",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wNHE0ajFjRDNHMzJqVm5fQTQ3VlNZY0E5VjhTbkpXVWZqemdERzZtdUx2dG5lYllqa1VBb1RLTmd1VzlEWUhJQjE2VmNReldrS1RIMW9MYS00eURnaHF4YUc5RUNQSXNV?oc=5"
         }
       ],
@@ -1586,7 +1816,7 @@
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BLVA2ZEtpZktKeGxod3d6TTVWbXNuTU04VFhpaFR1Nm5EV3NiQlEzZEE0QUlrNmcxTVVlNW5PLXo4RmRpemlHMGxzTFl6ZnRvdm0wU2lWQ2xKQzRBN0owNV9LSXdtdG4wRzVqNFJDcllvREk0T2lHVU5iWQ?oc=5"
         },
         {
-          "name": "BeInCrypto",
+          "name": "beincrypto.com",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wNHE0ajFjRDNHMzJqVm5fQTQ3VlNZY0E5VjhTbkpXVWZqemdERzZtdUx2dG5lYllqa1VBb1RLTmd1VzlEWUhJQjE2VmNReldrS1RIMW9MYS00eURnaHF4YUc5RUNQSXNV?oc=5"
         }
       ]
@@ -1772,6 +2002,36 @@
       ]
     },
     {
+      "stable_id": "2026-08-14-6fe11993072d",
+      "original_title": "Gold Heads for Weekly Loss as Investors Unwind Inflation-fueled Rally - ASHARQ AL-AWSAT English",
+      "published_at": "2026-08-14T08:16:18Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Gold Heads for Weekly Loss as Investors Unwind Inflation-fueled Rally - ASHARQ AL-AWSAT English",
+          "source": "ASHARQ AL-AWSAT English",
+          "snippet": "Gold Heads for Weekly Loss as Investors Unwind Inflation-fueled Rally &nbsp;&nbsp; ASHARQ AL-AWSAT English",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjl5dlp1TzNkd3hnVktzOWpXdFNNUnlrUWFxbGpWZm1jYzhvUHVUbEUtT2ZXMXdnVnd3bkUwVUo1emlTZlRHNUhEWWVJeWEwNHc2cWRWM08tdEVXWFdZRHRVQVBQbHBWaG1pcExJOUk1N0tqMVVydEI0OWJOYWpDVlY5Ukl2YkVjVlBBVzlfcjBfRDN4MUlWU0tLV0RkWXhUUjZCNjZqSVJRUQ?oc=5"
+        },
+        {
+          "headline": "Gold heads for weekly loss as investors unwind inflation-fuelled rally",
+          "source": "CNBC",
+          "snippet": "Gold heads for weekly loss as investors unwind inflation-fuelled rally &nbsp;&nbsp; CNBC",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbkRzV0FIckZlSVpvNmpYbUpQWnFmSDA1TWJKOG53RDYyWko3eUFJUGVOdGt6cmNmbXY2VkZKOWs5YVNPWFhjYUxuYk5GbjN2VWVQRjJ0VkNBX2Ztel94cnFIM1l4TVA5TmdYRDlidmhsSWdGM05BYURSTnY5WHcxZms2NW5SMlVOVV8tWEFyS0hjQUNDd1p0T0tzdGlKUkxaWnZNU0h0bDFodWFLRWFoWNIBsAFBVV95cUxQbkRzV0FIckZlSVpvNmpYbUpQWnFmSDA1TWJKOG53RDYyWko3eUFJUGVOdGt6cmNmbXY2VkZKOWs5YVNPWFhjYUxuYk5GbjN2VWVQRjJ0VkNBX2Ztel94cnFIM1l4TVA5TmdYRDlidmhsSWdGM05BYURSTnY5WHcxZms2NW5SMlVOVV8tWEFyS0hjQUNDd1p0T0tzdGlKUkxaWnZNU0h0bDFodWFLRWFoWA?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "ASHARQ AL-AWSAT English",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjl5dlp1TzNkd3hnVktzOWpXdFNNUnlrUWFxbGpWZm1jYzhvUHVUbEUtT2ZXMXdnVnd3bkUwVUo1emlTZlRHNUhEWWVJeWEwNHc2cWRWM08tdEVXWFdZRHRVQVBQbHBWaG1pcExJOUk1N0tqMVVydEI0OWJOYWpDVlY5Ukl2YkVjVlBBVzlfcjBfRDN4MUlWU0tLV0RkWXhUUjZCNjZqSVJRUQ?oc=5"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbkRzV0FIckZlSVpvNmpYbUpQWnFmSDA1TWJKOG53RDYyWko3eUFJUGVOdGt6cmNmbXY2VkZKOWs5YVNPWFhjYUxuYk5GbjN2VWVQRjJ0VkNBX2Ztel94cnFIM1l4TVA5TmdYRDlidmhsSWdGM05BYURSTnY5WHcxZms2NW5SMlVOVV8tWEFyS0hjQUNDd1p0T0tzdGlKUkxaWnZNU0h0bDFodWFLRWFoWNIBsAFBVV95cUxQbkRzV0FIckZlSVpvNmpYbUpQWnFmSDA1TWJKOG53RDYyWko3eUFJUGVOdGt6cmNmbXY2VkZKOWs5YVNPWFhjYUxuYk5GbjN2VWVQRjJ0VkNBX2Ztel94cnFIM1l4TVA5TmdYRDlidmhsSWdGM05BYURSTnY5WHcxZms2NW5SMlVOVV8tWEFyS0hjQUNDd1p0T0tzdGlKUkxaWnZNU0h0bDFodWFLRWFoWA?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-14-517d3fa84360",
       "original_title": "FinancialJuice: UKMTO: Tanker struck by drone during Hormuz outbound transit.",
       "published_at": "2026-08-14T07:59:58Z",
@@ -1872,36 +2132,6 @@
       ]
     },
     {
-      "stable_id": "2026-08-14-8a160f1b2cf2",
-      "original_title": "Tankers are going dark for longer to get oil out of Middle East",
-      "published_at": "2026-08-14T06:50:08Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Tankers are going dark for longer to get oil out of Middle East",
-          "source": "Moneyweb",
-          "snippet": "Tankers are going dark for longer to get oil out of Middle East &nbsp;&nbsp; Moneyweb",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSElZcDBMREJtUFR4UFJOSHd4UWVLMFJLNHVkNmNvOGdwSzR0b1h5cTVDRjhZX2t3RlZzLWpRSXZwcmU5a0Q0LXVIRnVBdk1xNnh4ZURJelhMYThucGZHOFRwQkhwNzJROE5CbE1iYkZOSHdyMEFwZ0dIZk5tR2drT1J4XzRBWE1rWUtJTXZqSzJla3Z3ZnZWVXY5LTVUY2lFd3dwZDIwbUZMVFp0dVV3?oc=5"
-        },
-        {
-          "headline": "Tankers Are Going Dark for Longer to Get Oil Out of Middle East",
-          "source": "Bloomberg",
-          "snippet": "Tankers Are Going Dark for Longer to Get Oil Out of Middle East &nbsp;&nbsp; Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGc1T1dSWGFFcDNpbFJJODJPU1hIaUQ0S1pjVlFLVkpRZlR1MmtyZk5fVnBsZVFFZnBHUGsyV01BVVN0WkpuQmotSHJHbkRNSmFEMWtERHRFMU8zTWZsVWszbFdNYUNDb0VfSjNtSE9LT1BNdFl0WmVpWXJBQ294d3lTWDE3Q25Dd1kxUGRfMFdVcHNFQWtNcm9pb3N1TGxYbGZuOUpRUVFVa19YNXBqeFFQcjE?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Moneyweb",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSElZcDBMREJtUFR4UFJOSHd4UWVLMFJLNHVkNmNvOGdwSzR0b1h5cTVDRjhZX2t3RlZzLWpRSXZwcmU5a0Q0LXVIRnVBdk1xNnh4ZURJelhMYThucGZHOFRwQkhwNzJROE5CbE1iYkZOSHdyMEFwZ0dIZk5tR2drT1J4XzRBWE1rWUtJTXZqSzJla3Z3ZnZWVXY5LTVUY2lFd3dwZDIwbUZMVFp0dVV3?oc=5"
-        },
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGc1T1dSWGFFcDNpbFJJODJPU1hIaUQ0S1pjVlFLVkpRZlR1MmtyZk5fVnBsZVFFZnBHUGsyV01BVVN0WkpuQmotSHJHbkRNSmFEMWtERHRFMU8zTWZsVWszbFdNYUNDb0VfSjNtSE9LT1BNdFl0WmVpWXJBQ294d3lTWDE3Q25Dd1kxUGRfMFdVcHNFQWtNcm9pb3N1TGxYbGZuOUpRUVFVa19YNXBqeFFQcjE?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-08-14-2d7aed8f7cf0",
       "original_title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
       "published_at": "2026-08-14T06:20:54Z",
@@ -1992,6 +2222,26 @@
       ]
     },
     {
+      "stable_id": "2026-08-14-8a160f1b2cf2",
+      "original_title": "Tankers Are Going Dark for Longer to Get Oil Out of Middle East",
+      "published_at": "2026-08-14T05:35:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Tankers Are Going Dark for Longer to Get Oil Out of Middle East",
+          "source": "Bloomberg",
+          "snippet": "Tankers Are Going Dark for Longer to Get Oil Out of Middle East &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGc1T1dSWGFFcDNpbFJJODJPU1hIaUQ0S1pjVlFLVkpRZlR1MmtyZk5fVnBsZVFFZnBHUGsyV01BVVN0WkpuQmotSHJHbkRNSmFEMWtERHRFMU8zTWZsVWszbFdNYUNDb0VfSjNtSE9LT1BNdFl0WmVpWXJBQ294d3lTWDE3Q25Dd1kxUGRfMFdVcHNFQWtNcm9pb3N1TGxYbGZuOUpRUVFVa19YNXBqeFFQcjE?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGc1T1dSWGFFcDNpbFJJODJPU1hIaUQ0S1pjVlFLVkpRZlR1MmtyZk5fVnBsZVFFZnBHUGsyV01BVVN0WkpuQmotSHJHbkRNSmFEMWtERHRFMU8zTWZsVWszbFdNYUNDb0VfSjNtSE9LT1BNdFl0WmVpWXJBQ294d3lTWDE3Q25Dd1kxUGRfMFdVcHNFQWtNcm9pb3N1TGxYbGZuOUpRUVFVa19YNXBqeFFQcjE?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-14-43f51f08acc6",
       "original_title": "Oil steadies after US threatens indefinite blockade of Iran",
       "published_at": "2026-08-14T04:55:00Z",
@@ -2016,12 +2266,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13cE9CblJfbklQQ3RUTmY2eHQwYlNfUkJuWlF0OFA1dFJiWW9nX1dfX0pDei0wa3picmI0NEhoLUZNWHRGeWxIMmYtTEN2NlZzUVAxTHl30gFWQVVfeXFMTXdwT0JuUl9uSVBDdFROZjZ4dDBiU19SQm5aUXQ4UDV0UmJZb2dfV19fSkN6LTBremJyYjQ0SGgtRk1YdEZ5bEgyZi1MQ3Y2VnNRUDFMeXc?oc=5"
         },
         {
-          "headline": "Oil steadies after US threatens to blockade Iran indefinitely",
-          "source": "The Economic Times",
-          "snippet": "Oil steadies after US threatens to blockade Iran indefinitely &nbsp;&nbsp; The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMnU0bU5ZZHVyRXZvbzRKNVlxUkdQbUNYQ3Bzand1Z2pBTWVkT1d3bkNIV3ZQeFFTb0I1dHcybmt4UzVWZUlTeEdWVXBKbW9ObjJUYjFCYUpwcmpxbHcyNUJidzBtanh0ZGJxQlVHV2Q5M25hc09sMzgzdWNhWm5uaDBTbEVha1E3VzlJYjV3Yk9QdUVERDYxVkdpYV9xay1BYTd4X01VMVhDeVFyV1hsZlItWElvb3A3M0lRWE5nZUxJSlphRGhVd0xnSkpfNmtyTGJGeVIyRWdPM2pW0gHcAUFVX3lxTE4ydTRtTllkdXJFdm9vNEo1WXFSR1BtQ1hDcHNqd3VnakFNZWRPV3duQ0hXdlB4UVNvQjV0dzJua3hTNVZlSVN4R1ZVcEptb05uMlRiMUJhSnByanFsdzI1QmJ3MG1qeHRkYnFCVUdXZDkzbmFzT2wzODN1Y2Fabm5oMFNsRWFrUTdXOUliNXdiT1B1RURENjFWR2lhX3FrLUFhN3hfTVUxWEN5UXJXWGxmUi1YSW9vcDczSVFYTmdlTElKWmFEaFV3TGdKSl82a3JMYkZ5UjJFZ08zalY?oc=5"
-        },
-        {
           "headline": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains",
           "source": "Reuters",
           "snippet": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains &nbsp;&nbsp; Reuters",
@@ -2040,10 +2284,6 @@
         {
           "name": "Business Recorder",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13cE9CblJfbklQQ3RUTmY2eHQwYlNfUkJuWlF0OFA1dFJiWW9nX1dfX0pDei0wa3picmI0NEhoLUZNWHRGeWxIMmYtTEN2NlZzUVAxTHl30gFWQVVfeXFMTXdwT0JuUl9uSVBDdFROZjZ4dDBiU19SQm5aUXQ4UDV0UmJZb2dfV19fSkN6LTBremJyYjQ0SGgtRk1YdEZ5bEgyZi1MQ3Y2VnNRUDFMeXc?oc=5"
-        },
-        {
-          "name": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMnU0bU5ZZHVyRXZvbzRKNVlxUkdQbUNYQ3Bzand1Z2pBTWVkT1d3bkNIV3ZQeFFTb0I1dHcybmt4UzVWZUlTeEdWVXBKbW9ObjJUYjFCYUpwcmpxbHcyNUJidzBtanh0ZGJxQlVHV2Q5M25hc09sMzgzdWNhWm5uaDBTbEVha1E3VzlJYjV3Yk9QdUVERDYxVkdpYV9xay1BYTd4X01VMVhDeVFyV1hsZlItWElvb3A3M0lRWE5nZUxJSlphRGhVd0xnSkpfNmtyTGJGeVIyRWdPM2pW0gHcAUFVX3lxTE4ydTRtTllkdXJFdm9vNEo1WXFSR1BtQ1hDcHNqd3VnakFNZWRPV3duQ0hXdlB4UVNvQjV0dzJua3hTNVZlSVN4R1ZVcEptb05uMlRiMUJhSnByanFsdzI1QmJ3MG1qeHRkYnFCVUdXZDkzbmFzT2wzODN1Y2Fabm5oMFNsRWFrUTdXOUliNXdiT1B1RURENjFWR2lhX3FrLUFhN3hfTVUxWEN5UXJXWGxmUi1YSW9vcDczSVFYTmdlTElKWmFEaFV3TGdKSl82a3JMYkZ5UjJFZ08zalY?oc=5"
         },
         {
           "name": "Reuters",
@@ -2068,246 +2308,6 @@
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWFVSOGplbWU3bk82Q3VmWjhaMExfQVEwQXBiR3FHMTJhdzBXQmM2b3o1VFd2cXhXMF9RYlRDY0JOZFhpSE1TbTlrNUNtMDlGYjcxMEV4eHdVUXV5SUFhWTZ4QkJRSGo0Q1ZWeDdYQzh5dy1EYmNPb25HUnNkTDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-4d8f1b9b7f05",
-      "original_title": "백악관 보고서, 수백억 달러 규모의 관세 회피 초래한 ‘대규모 환적 사기’ 상세 공개: https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-      "published_at": "2026-08-14T04:22:00Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "백악관 보고서, 수백억 달러 규모의 관세 회피 초래한 ‘대규모 환적 사기’ 상세 공개: https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-          "source": "Telegram @goddessTTF",
-          "snippet": "백악관 보고서, 수백억 달러 규모의 관세 회피 초래한 ‘대규모 환적 사기’ 상세 공개: https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-          "url": "https://t.me/goddessTTF/82301"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82301"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-dda3cf5121cd",
-      "original_title": "Gold heads for weekly loss as investors unwind inflation-fuelled rally",
-      "published_at": "2026-08-14T04:02:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Gold heads for weekly loss as investors unwind inflation-fuelled rally",
-          "source": "Reuters",
-          "snippet": "Gold heads for weekly loss as investors unwind inflation-fuelled rally &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-8c1cfcb8f976",
-      "original_title": "Gold steadies from two-month peak as inflation-led rally loses steam",
-      "published_at": "2026-08-14T04:02:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Gold steadies from two-month peak as inflation-led rally loses steam",
-          "source": "Reuters",
-          "snippet": "Gold steadies from two-month peak as inflation-led rally loses steam &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-f6f615204bb5",
-      "original_title": "Gold firms on weaker dollar as inflation data cements rate hold bets",
-      "published_at": "2026-08-14T04:02:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Gold firms on weaker dollar as inflation data cements rate hold bets",
-          "source": "Reuters",
-          "snippet": "Gold firms on weaker dollar as inflation data cements rate hold bets &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-384e6beeb61e",
-      "original_title": "Gold rises on weaker dollar as inflation data cements rate-hold bets",
-      "published_at": "2026-08-14T04:02:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Gold rises on weaker dollar as inflation data cements rate-hold bets",
-          "source": "Reuters",
-          "snippet": "Gold rises on weaker dollar as inflation data cements rate-hold bets &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-1776e2ca3c29",
-      "original_title": "Hormuz shipping traffic capped amid competing claims from US and Iran",
-      "published_at": "2026-08-14T03:48:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Hormuz shipping traffic capped amid competing claims from US and Iran",
-          "source": "Reuters",
-          "snippet": "Hormuz shipping traffic capped amid competing claims from US and Iran &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHN6X2pBMFpxcnFUajQxN1B2MlhZTUVTRlZSYzVkVXp6MENXb2xUai1zRXVTeEhKUVVtSnJabU9yTVd6U05ETV9uRS1FNlVvWjh1dS1vTGd6UjltTXZXU1o0ODlEUWhZNUl6SFF5WGhtNldwbnpNa3lVbEV6SG12RjgtT2V4d2pCVnB4c2UtTEp4S2JOZFY5REVPdUZscnVFaC02akt2dF9rWUhDckZVNmlVRjk?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHN6X2pBMFpxcnFUajQxN1B2MlhZTUVTRlZSYzVkVXp6MENXb2xUai1zRXVTeEhKUVVtSnJabU9yTVd6U05ETV9uRS1FNlVvWjh1dS1vTGd6UjltTXZXU1o0ODlEUWhZNUl6SFF5WGhtNldwbnpNa3lVbEV6SG12RjgtT2V4d2pCVnB4c2UtTEp4S2JOZFY5REVPdUZscnVFaC02akt2dF9rWUhDckZVNmlVRjk?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-df850c663eb2",
-      "original_title": "Fed’s Hammack Pushes Immediate Rate Hikes, Putting Crypto Market and Stocks on Alert",
-      "published_at": "2026-08-14T03:46:17Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Fed’s Hammack Pushes Immediate Rate Hikes, Putting Crypto Market and Stocks on Alert",
-          "source": "CryptoRank",
-          "snippet": "Fed’s Hammack Pushes Immediate Rate Hikes, Putting Crypto Market and Stocks on Alert &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkpuRkpwNk9uOHpaZW1mSHRXZkhBdHo5eHdSY3dKcEVSbmlkc2I5OElUbTBob0poOHktVkZhU3dpV0ktRDd1N2l0TkEybVY5VEpyNzNYbVdYVGlCVnZpYzhBVnM2VW95c1lDRzVnWGxwLUVmVXRtSE9jVGZHRkpKT3lJR1FVWnlsT2FlcHVRZkZyS1hWVk5tY0UwcFc2dzhkN0IzM1haSVM3T1F3VWh0VW1QRjhldWRTdzJaeQ?oc=5"
-        },
-        {
-          "headline": "Fed’s Hammack Pushes Immediate Rate Hikes, Putting Crypto Market and Stocks on Alert",
-          "source": "The Coin Republic",
-          "snippet": "Fed’s Hammack Pushes Immediate Rate Hikes, Putting Crypto Market and Stocks on Alert &nbsp;&nbsp; The Coin Republic",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTXBmcEgwOEtlZUdxZ1hmaUVONHJsUDh5QnF0Z3JOTTBWbEtIb3dCeDc3M3VKcFViNjV1SE1qcy1kVThSamVpTUphNTNveEg1ekRyd2ZIZjJXdmx0eTFvNG5VNFZ4eTE0ejlJY1liRHZGZ1p6NTd4a3dXV1BJWnFWMU9weGtUUGJBazlQOHp5amI0RkxZWUkybU96bHVwX2lxVmdrbk5pYW1heVM5WHhFbkMzX3FfamV3bk1GQWZLbTJoUThK0gHKAUFVX3lxTFBEMFV4ZGZYQVVMeEREYmRqTGlRRVpBS3cxNVdqVC11N0NMSmZSZm91VTJkT0k0RU94LXFPYWlJenRWOF9iOWRRdjhsX3dXZE1rbS11RUU2OVVrTlh2UEhUUnpIQTd3MzZGSkRFWnlkUlRoRWRBdlU4TmJFZWhiMEtyejJMU1liQk1UZlM0VmJXZG1CWE50SThiajFIY0dtSlNyOUNIbGYwLV9EV3lmZjgwSVhzbzk1U05aRU5YUTNuNDNPZDRwSUdSRUE?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkpuRkpwNk9uOHpaZW1mSHRXZkhBdHo5eHdSY3dKcEVSbmlkc2I5OElUbTBob0poOHktVkZhU3dpV0ktRDd1N2l0TkEybVY5VEpyNzNYbVdYVGlCVnZpYzhBVnM2VW95c1lDRzVnWGxwLUVmVXRtSE9jVGZHRkpKT3lJR1FVWnlsT2FlcHVRZkZyS1hWVk5tY0UwcFc2dzhkN0IzM1haSVM3T1F3VWh0VW1QRjhldWRTdzJaeQ?oc=5"
-        },
-        {
-          "name": "The Coin Republic",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTXBmcEgwOEtlZUdxZ1hmaUVONHJsUDh5QnF0Z3JOTTBWbEtIb3dCeDc3M3VKcFViNjV1SE1qcy1kVThSamVpTUphNTNveEg1ekRyd2ZIZjJXdmx0eTFvNG5VNFZ4eTE0ejlJY1liRHZGZ1p6NTd4a3dXV1BJWnFWMU9weGtUUGJBazlQOHp5amI0RkxZWUkybU96bHVwX2lxVmdrbk5pYW1heVM5WHhFbkMzX3FfamV3bk1GQWZLbTJoUThK0gHKAUFVX3lxTFBEMFV4ZGZYQVVMeEREYmRqTGlRRVpBS3cxNVdqVC11N0NMSmZSZm91VTJkT0k0RU94LXFPYWlJenRWOF9iOWRRdjhsX3dXZE1rbS11RUU2OVVrTlh2UEhUUnpIQTd3MzZGSkRFWnlkUlRoRWRBdlU4TmJFZWhiMEtyejJMU1liQk1UZlM0VmJXZG1CWE50SThiajFIY0dtSlNyOUNIbGYwLV9EV3lmZjgwSVhzbzk1U05aRU5YUTNuNDNPZDRwSUdSRUE?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-11d2cc1892e0",
-      "original_title": "트럼프, 외국산 드론에 최대 100% 관세…한국산은 조건부 15% 상한 [공부의여신 네트워크] 도널드 트럼프 미국 대통령이 국가안보를 이유로 외국산 드론과 주요 부품에 최대 100%의 품목관세를 부과했다. 한국산 제품에는 일정한 원산지 요건을 충족할 경우 기존 관세를 포함해 15%를 넘지 않는 우대 상한이 적용된다. 백악관은 13일(현지시간) 트럼프 대통령이 무인항공시스템(UAS)과 관련 부",
-      "published_at": "2026-08-14T03:40:40Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "트럼프, 외국산 드론에 최대 100% 관세…한국산은 조건부 15% 상한 [공부의여신 네트워크] 도널드 트럼프 미국 대통령이 국가안보를 이유로 외국산 드론과 주요 부품에 최대 100%의 품목관세를 부과했다. 한국산 제품에는 일정한 원산지 요건을 충족할 경우 기존 관세를 포함해 15%를 넘지 않는 우대 상한이 적용된다. 백악관은 13일(현지시간) 트럼프 대통령이 무인항공시스템(UAS)과 관련 부",
-          "source": "Telegram @goddessTTF",
-          "snippet": "트럼프, 외국산 드론에 최대 100% 관세…한국산은 조건부 15% 상한 [공부의여신 네트워크] 도널드 트럼프 미국 대통령이 국가안보를 이유로 외국산 드론과 주요 부품에 최대 100%의 품목관세를 부과했다. 한국산 제품에는 일정한 원산지 요건을 충족할 경우 기존 관세를 포함해 15%를 넘지 않는 우대 상한이 적용된다. 백악관은 13일(현지시간) 트럼프 대통령이 무인항공시스템(UAS)과 관련 부품의 수입을 조정하는 대통령 포고문에 서명했다고 발표했다. 이번…",
-          "url": "https://t.me/goddessTTF/82298"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82298"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-4dc598286bba",
-      "original_title": "FinancialJuice: China finance ministry auctions 30-year ultra-long special treasury bonds at 2.14% yield: traders",
-      "published_at": "2026-08-14T03:38:19Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: China finance ministry auctions 30-year ultra-long special treasury bonds at 2.14% yield: traders",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9720970/China-finance-ministry-auctions-30-year-ultra-long-special-treasury-bonds-at-214-yield-traders.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9720970/China-finance-ministry-auctions-30-year-ultra-long-special-treasury-bonds-at-214-yield-traders.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-c0383b92979b",
-      "original_title": "재무부 장관 스콧 베센트는 워싱턴이 다음 주에 새로운 조치를 발표할 것이며, 이는 이란을 더욱 고립시키기 위해 강화된 경제 제재와 함께 열린 형태의 해상 봉쇄를 결합한 것이라고 밝혔습니다.",
-      "published_at": "2026-08-14T03:37:47Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "재무부 장관 스콧 베센트는 워싱턴이 다음 주에 새로운 조치를 발표할 것이며, 이는 이란을 더욱 고립시키기 위해 강화된 경제 제재와 함께 열린 형태의 해상 봉쇄를 결합한 것이라고 밝혔습니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "재무부 장관 스콧 베센트는 워싱턴이 다음 주에 새로운 조치를 발표할 것이며, 이는 이란을 더욱 고립시키기 위해 강화된 경제 제재와 함께 열린 형태의 해상 봉쇄를 결합한 것이라고 밝혔습니다.",
-          "url": "https://t.me/goddessTTF/82295"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82295"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-14-82ce30c20148",
-      "original_title": "US says it can keep naval blockade on Iran indefinitely, vows more economic pressure",
-      "published_at": "2026-08-14T03:35:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "US says it can keep naval blockade on Iran indefinitely, vows more economic pressure",
-          "source": "The Business Standard",
-          "snippet": "US says it can keep naval blockade on Iran indefinitely, vows more economic pressure &nbsp;&nbsp; The Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3BuTW5hb1BMWDJYZklHeExWRXlENDVYbXVaNlBfZWg4N3VBLTdkeDlJb2s5N1lKeGJPXzdCSTF2R09zcjJWUWMwSG9Fb2lFNEhLdlkwNUs5bjB6cXNLaW1qblV2VXlTcElWWDVyejFDYXg1d21ac25BU19tUC1zV2RrcE1MMG5xcDRQelhKVFRhOEFCYk5YRXZOYUNqdXNoNlBfTE5tbXdJV1Fxd1FQWmo1ZmJzUjVH0gG-AUFVX3lxTE8zMzNqLUFmX0RmcDRSOG1ueWhoUGt1TEFyYjRBbjJGdWFzTW9iREROelIxUV8xTHZGZ3JZWUw3U0NHV2RpS3p5blRITzQwYzFsaExyUms3M0w5LV9KZXBueW8xSWhHMFhWckNZZ0dNZnJRSGVuWm9LWEdCNGREZDZqOUZhcFN1Q2ZuMTNPVUlSc3Z1cjNhaG5kVXl1RUFpYWZWazNQekNJdDZWLUs0NG5LRHljM3Z0WG9OeUVMNHc?oc=5"
-        },
-        {
-          "headline": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure",
-          "source": "Yahoo",
-          "snippet": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure &nbsp;&nbsp; Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTRTOV84SE5OYks5Qkc0M3k4b2JUclVrMFZLUC1KQWdmdFpLdnlBSFhQVDZ1dUlwY251alVoR1dTSm9lMWpONkU1ZFJwNUl5TWRWTENtMkpOWjdHVUU3d0hSZjQxLWZXR2RyanY1Zy0tTG4wZjFfNzczRXQwTXpwdFB6ajNMN00?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3BuTW5hb1BMWDJYZklHeExWRXlENDVYbXVaNlBfZWg4N3VBLTdkeDlJb2s5N1lKeGJPXzdCSTF2R09zcjJWUWMwSG9Fb2lFNEhLdlkwNUs5bjB6cXNLaW1qblV2VXlTcElWWDVyejFDYXg1d21ac25BU19tUC1zV2RrcE1MMG5xcDRQelhKVFRhOEFCYk5YRXZOYUNqdXNoNlBfTE5tbXdJV1Fxd1FQWmo1ZmJzUjVH0gG-AUFVX3lxTE8zMzNqLUFmX0RmcDRSOG1ueWhoUGt1TEFyYjRBbjJGdWFzTW9iREROelIxUV8xTHZGZ3JZWUw3U0NHV2RpS3p5blRITzQwYzFsaExyUms3M0w5LV9KZXBueW8xSWhHMFhWckNZZ0dNZnJRSGVuWm9LWEdCNGREZDZqOUZhcFN1Q2ZuMTNPVUlSc3Z1cjNhaG5kVXl1RUFpYWZWazNQekNJdDZWLUs0NG5LRHljM3Z0WG9OeUVMNHc?oc=5"
-        },
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTRTOV84SE5OYks5Qkc0M3k4b2JUclVrMFZLUC1KQWdmdFpLdnlBSFhQVDZ1dUlwY251alVoR1dTSm9lMWpONkU1ZFJwNUl5TWRWTENtMkpOWjdHVUU3d0hSZjQxLWZXR2RyanY1Zy0tTG4wZjFfNzczRXQwTXpwdFB6ajNMN00?oc=5"
         }
       ]
     }
