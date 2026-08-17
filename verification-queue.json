@@ -1,6 +1,746 @@
 {
-  "updated_at_kst": "2026-08-17T20:59:01+09:00",
+  "updated_at_kst": "2026-08-17T23:02:22+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-17-c8ed57363a44",
+      "original_title": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
+      "published_at": "2026-08-17T13:57:11Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-fde17dc1f719",
+      "original_title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
+      "published_at": "2026-08-17T13:50:40Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
+          "source": "Reuters",
+          "snippet": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-233b9d898a27",
+      "original_title": "The 60-day deadline for a peace deal with Iran is expiring. Here's where things stand",
+      "published_at": "2026-08-17T13:45:33Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "The 60-day deadline for a peace deal with Iran is expiring. Here's where things stand",
+          "source": "PBS",
+          "snippet": "The 60-day deadline for a peace deal with Iran is expiring. Here's where things stand &nbsp;&nbsp; PBS",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1VsV083TW9jNDBRZUZIODhPaXdTb2JCNzdaYTk1dTl1VmFhdVpMdW5oMlBtdXNnY3lZeFRCNUtkblFxOEU0SjdvVktWemg4X3dfMFQ5bVdtVDZkWDB1RjlYUXhabDlEVmppOEFJTUJ1QXQtUUJMcWxncVlfalBnY2lTSW1wbHZ6dEExNndzLW1ESkQzVUpNZ0xDWFVkMWY5X0ItNVFYdnBFeVFfVTVHSTJIYVdXeGlwZ2fSAb8BQVVfeXFMUDFyQlQxUkpvLTktS0NXaFBhUW9aaHNwd0oybGJTTVlMc1hIUHpwcURuMGt2dXk4ODgwYVktcGNYYnFOUkgtNlVJOGJHckVQNFp0OHBfYkJ0QnlGdmJwbVdKeGx4NjRhRjBWOXp6ZVVvTjV5bFFaV3hoQzlMWk9wMGI3WDlHUGN3V2huTUFPQVEtVXUyS3d3R1pqOS1EOG1LdFRBSE1vMmZGS3BkT0hWRXhxRG1aVE8ydWZXaHhIYUE?oc=5"
+        },
+        {
+          "headline": "The 60-day deadline for an Iran peace deal is expiring. Here's where things stand",
+          "source": "WRAL",
+          "snippet": "The 60-day deadline for an Iran peace deal is expiring. Here's where things stand &nbsp;&nbsp; WRAL",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3JQcFVNTU5xRjRCM0Z3MXdXWm5TdDQyM0ZuY3VIY0FYSVpQekNRdVVjcFd2U2ZpSlNJcWNiOUZpOTBvSkJ1TXRLclkwOFRLZnFHQy1MdVBiZzQzVEhkQ0xncVFjbnQ4MHlodFhTRk1OT0hWWGh3ckNpenpjNGl6ZFM1RE5ESnlGV3F1Z2RpYmJEeXctS0Vkb1otNFA4RTNfbGxIOS1hcWU2WXJIT29KVW9hMlctQQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1VsV083TW9jNDBRZUZIODhPaXdTb2JCNzdaYTk1dTl1VmFhdVpMdW5oMlBtdXNnY3lZeFRCNUtkblFxOEU0SjdvVktWemg4X3dfMFQ5bVdtVDZkWDB1RjlYUXhabDlEVmppOEFJTUJ1QXQtUUJMcWxncVlfalBnY2lTSW1wbHZ6dEExNndzLW1ESkQzVUpNZ0xDWFVkMWY5X0ItNVFYdnBFeVFfVTVHSTJIYVdXeGlwZ2fSAb8BQVVfeXFMUDFyQlQxUkpvLTktS0NXaFBhUW9aaHNwd0oybGJTTVlMc1hIUHpwcURuMGt2dXk4ODgwYVktcGNYYnFOUkgtNlVJOGJHckVQNFp0OHBfYkJ0QnlGdmJwbVdKeGx4NjRhRjBWOXp6ZVVvTjV5bFFaV3hoQzlMWk9wMGI3WDlHUGN3V2huTUFPQVEtVXUyS3d3R1pqOS1EOG1LdFRBSE1vMmZGS3BkT0hWRXhxRG1aVE8ydWZXaHhIYUE?oc=5"
+        },
+        {
+          "name": "WRAL",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3JQcFVNTU5xRjRCM0Z3MXdXWm5TdDQyM0ZuY3VIY0FYSVpQekNRdVVjcFd2U2ZpSlNJcWNiOUZpOTBvSkJ1TXRLclkwOFRLZnFHQy1MdVBiZzQzVEhkQ0xncVFjbnQ4MHlodFhTRk1OT0hWWGh3ckNpenpjNGl6ZFM1RE5ESnlGV3F1Z2RpYmJEeXctS0Vkb1otNFA4RTNfbGxIOS1hcWU2WXJIT29KVW9hMlctQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-9fe62910121e",
+      "original_title": "Michael Saylor’s Strategy Raises $333M Selling MSTR Stock, Leaves Bitcoin Stash Untouched",
+      "published_at": "2026-08-17T13:36:08Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Michael Saylor’s Strategy Raises $333M Selling MSTR Stock, Leaves Bitcoin Stash Untouched",
+          "source": "TradingView",
+          "snippet": "Michael Saylor’s Strategy Raises $333M Selling MSTR Stock, Leaves Bitcoin Stash Untouched &nbsp;&nbsp; TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnhmSWJRdm5wNDVrRmQzVWd0S0Iwek45aTlQTUJFZXF3UVVvWlBWMHBHZmRTbk92dFloVVpUbThVbmFLcnp3NUxMR0MtQ24zOU93amFObzY4eUtOMGw2R3pRcWlKS3hlZ3lTWTZBMmRPbjAyMEdPb0J5dC0yRzdUM0lnVHFaSVd0cjdHTTBGcWpCcmRGcTFVVTlFRXhkTkphNXJtbzlNaGRIMWtRZGc4SFM1VVlEYVB3YU4ySnVtRUtHSXV4TTJPXzRVLV9KNHJadlhQV2c0ZXAwckpibkRWemh3?oc=5"
+        },
+        {
+          "headline": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
+          "source": "Decrypt",
+          "snippet": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock &nbsp;&nbsp; Decrypt",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODRvUS1oQXNlNmhxLUNkczNaeVA5UEFMYlctQXM5S2kzTUFkTlNnRFdROFlVLXpQR3I3ODVqLUlOMW0tZ19Tc3VLaldxYnJJTVVMSHdla21EbTRMVThxbVF3N2NHTDUxX2Y0el81cENpSzZWN0VPOW82c09SUldwLVFmVGpXRzRPQ1M3WjRvUHVCcmZW0gGcAUFVX3lxTE16WGJsY1ZOdXFNRjc4UXdpcFItR2k4ODFWdDl0Q2NZMW9WTU5ZSHFELTExc0xXa21MdW5qcVBMYWpFQnh5clpCblBmdTRhWXlVUE9zaVpDQ1EyRlIwZE9nbWI2S3JRVkJCNHBHWkZzektKTFN6R0JBZllfLTA3Z1d2TUZhdWF1WGl6NEhqQjQwNGlYR0ZYNmhneTlSdA?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnhmSWJRdm5wNDVrRmQzVWd0S0Iwek45aTlQTUJFZXF3UVVvWlBWMHBHZmRTbk92dFloVVpUbThVbmFLcnp3NUxMR0MtQ24zOU93amFObzY4eUtOMGw2R3pRcWlKS3hlZ3lTWTZBMmRPbjAyMEdPb0J5dC0yRzdUM0lnVHFaSVd0cjdHTTBGcWpCcmRGcTFVVTlFRXhkTkphNXJtbzlNaGRIMWtRZGc4SFM1VVlEYVB3YU4ySnVtRUtHSXV4TTJPXzRVLV9KNHJadlhQV2c0ZXAwckpibkRWemh3?oc=5"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODRvUS1oQXNlNmhxLUNkczNaeVA5UEFMYlctQXM5S2kzTUFkTlNnRFdROFlVLXpQR3I3ODVqLUlOMW0tZ19Tc3VLaldxYnJJTVVMSHdla21EbTRMVThxbVF3N2NHTDUxX2Y0el81cENpSzZWN0VPOW82c09SUldwLVFmVGpXRzRPQ1M3WjRvUHVCcmZW0gGcAUFVX3lxTE16WGJsY1ZOdXFNRjc4UXdpcFItR2k4ODFWdDl0Q2NZMW9WTU5ZSHFELTExc0xXa21MdW5qcVBMYWpFQnh5clpCblBmdTRhWXlVUE9zaVpDQ1EyRlIwZE9nbWI2S3JRVkJCNHBHWkZzektKTFN6R0JBZllfLTA3Z1d2TUZhdWF1WGl6NEhqQjQwNGlYR0ZYNmhneTlSdA?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-9f320333dce1",
+      "original_title": "이란 혁명 수비대(IRGC)는 트럼프의 이란과의 비밀적인 협상 주장을 부인했다. - 타스님 이란 혁명 수비대의 대변인 모하마디 장군은 트럼프의 주장을 \"패배와 절망에서 비롯된 망상\"이라고 일축했다. 그는 현재 미국과의 어떠한 협상도 없으며, 워싱턴이 휴전 협약을 위반하고 있다고 비난했다.",
+      "published_at": "2026-08-17T13:32:48Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "이란 혁명 수비대(IRGC)는 트럼프의 이란과의 비밀적인 협상 주장을 부인했다. - 타스님 이란 혁명 수비대의 대변인 모하마디 장군은 트럼프의 주장을 \"패배와 절망에서 비롯된 망상\"이라고 일축했다. 그는 현재 미국과의 어떠한 협상도 없으며, 워싱턴이 휴전 협약을 위반하고 있다고 비난했다.",
+          "source": "Telegram @goddessTTF",
+          "snippet": "이란 혁명 수비대(IRGC)는 트럼프의 이란과의 비밀적인 협상 주장을 부인했다. - 타스님 이란 혁명 수비대의 대변인 모하마디 장군은 트럼프의 주장을 \"패배와 절망에서 비롯된 망상\"이라고 일축했다. 그는 현재 미국과의 어떠한 협상도 없으며, 워싱턴이 휴전 협약을 위반하고 있다고 비난했다.",
+          "url": "https://t.me/goddessTTF/82441"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/82441"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-47dce4893c7d",
+      "original_title": "FinancialJuice: Wells Fargo investment institute raises global energy sector to neutral from unfavorable.",
+      "published_at": "2026-08-17T13:28:30Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Wells Fargo investment institute raises global energy sector to neutral from unfavorable.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724263/Wells-Fargo-investment-institute-raises-global-energy-sector-to-neutral-from-unfavorable.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724263/Wells-Fargo-investment-institute-raises-global-energy-sector-to-neutral-from-unfavorable.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-501c9097e5bb",
+      "original_title": "FinancialJuice: Iran's Ministry of Foreign Affairs: If we return to negotiations, we will do so based on the Islamabad agreement, not the Manama meeting",
+      "published_at": "2026-08-17T13:18:32Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's Ministry of Foreign Affairs: If we return to negotiations, we will do so based on the Islamabad agreement, not the Manama meeting",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724260/Irans-Ministry-of-Foreign-Affairs-If-we-return-to-negotiations-we-will-do-so-based-on-the-Islamabad-agreement-not-the-Manama-meeting---ISNA.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724260/Irans-Ministry-of-Foreign-Affairs-If-we-return-to-negotiations-we-will-do-so-based-on-the-Islamabad-agreement-not-the-Manama-meeting---ISNA.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-b7c45be3e394",
+      "original_title": "Most Gulf markets ease as Iran tensions, Hormuz shipping disruptions weigh",
+      "published_at": "2026-08-17T13:12:32Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Most Gulf markets ease as Iran tensions, Hormuz shipping disruptions weigh",
+          "source": "Reuters",
+          "snippet": "Most Gulf markets ease as Iran tensions, Hormuz shipping disruptions weigh &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU9NOVk5OEQ2MTFBZ3MyTlFITGJvOFF2R08wR1hyanE3TlJEZ3VlWjk2M191ZGZkc1UyOTdCUEloLXdDZnhnLVFlUkIwY3I4RjZuV3pLMW5BRFVsMjNTWmxDb0tiNU5xYmVDNTVkWlgxOTRIc2tnejNQX0d6OUdNOHJ1T2lKeXVlU08wdmtpU2F1U3g5TmVPUGRkRk1xdnJIcjdiQW9iUzJxaVZyVm5uNFVENDdraW9na29LMFhsbl9nQQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU9NOVk5OEQ2MTFBZ3MyTlFITGJvOFF2R08wR1hyanE3TlJEZ3VlWjk2M191ZGZkc1UyOTdCUEloLXdDZnhnLVFlUkIwY3I4RjZuV3pLMW5BRFVsMjNTWmxDb0tiNU5xYmVDNTVkWlgxOTRIc2tnejNQX0d6OUdNOHJ1T2lKeXVlU08wdmtpU2F1U3g5TmVPUGRkRk1xdnJIcjdiQW9iUzJxaVZyVm5uNFVENDdraW9na29LMFhsbl9nQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-4a5ebed46809",
+      "original_title": "Saudi Aramco offers crude outside Hormuz to some Asian refiners, sources say",
+      "published_at": "2026-08-17T13:12:23Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Saudi Aramco offers crude outside Hormuz to some Asian refiners, sources say",
+          "source": "Reuters",
+          "snippet": "Saudi Aramco offers crude outside Hormuz to some Asian refiners, sources say &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeW92d3NKRW1icGEtMkw0bEUtampSSkJRT05DWUhwMlozU3AtUTVESGdQMlNpRGtBM3ZYUVFQN0l3NnduZlByZ25GUnNJVVkxc29qQ3NYcnZ0TGRNM1ZQb0xOU3lZc0N0VFpDY1pXVkNVRlNPaDZYU2RiYW44Yk8ySHY1a3ItNjVYQUs3T0cwZ0VlQWhBNXVKWDdXUVZDM2tZOUo1WHJaU3lSR1JHRU4tQ0RrTi1xR1JZell5bVNKcTV2UQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeW92d3NKRW1icGEtMkw0bEUtampSSkJRT05DWUhwMlozU3AtUTVESGdQMlNpRGtBM3ZYUVFQN0l3NnduZlByZ25GUnNJVVkxc29qQ3NYcnZ0TGRNM1ZQb0xOU3lZc0N0VFpDY1pXVkNVRlNPaDZYU2RiYW44Yk8ySHY1a3ItNjVYQUs3T0cwZ0VlQWhBNXVKWDdXUVZDM2tZOUo1WHJaU3lSR1JHRU4tQ0RrTi1xR1JZell5bVNKcTV2UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-34272ca48688",
+      "original_title": "FinancialJuice: CIBC: Persian Gulf Stalemate Keeps Oil Outlook Highly Uncertain",
+      "published_at": "2026-08-17T13:05:21Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: CIBC: Persian Gulf Stalemate Keeps Oil Outlook Highly Uncertain",
+          "source": "FinancialJuice",
+          "snippet": "Active fighting has largely stopped and oil volatility has eased, but the range of plausible outcomes is now wider. Iran appears willing to hold out for better terms, while the US has shown little willingness to meet those demands, leaving no clear timetable for a full reopening of the Strait of Hormuz. The base case remains closer to a resolution within months rather than years, but Gulf states are already spending heavily on alternative export routes, suggesting they are also preparing for a prolonged disruption. Current oil prices may understate the risks. If a deal is reached, crude could fall toward $70 or lower, but if the Strait remains threatened, prices could move into triple digits. SPR drawdowns are becoming less effective, while refinery disruptions have already pushed US gasoline above $4 a gallon. The main uncertainty is how long higher energy costs persist and how much they spill into core inflation. For monetary policy, the risk is greater in the US than Canada because the US labour market is tighter and core inflation is already around 3%. A return to headline inflation above 4% alongside firmer core inflation would make it harder for the Fed to stay on hold. That risk is unlikely to be decisive by September, and the base case remains that oil inflation cools enough for the Fed to stay on hold this year, but confidence in that outcome remains low.",
+          "url": "https://www.financialjuice.com/News/9724240/CIBC-Persian-Gulf-Stalemate-Keeps-Oil-Outlook-Highly-Uncertain---FJElite.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724240/CIBC-Persian-Gulf-Stalemate-Keeps-Oil-Outlook-Highly-Uncertain---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-719c4dbb1fb4",
+      "original_title": "FinancialJuice: BofA: AI Capex Remains a Tailwind for US Growth",
+      "published_at": "2026-08-17T13:03:37Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BofA: AI Capex Remains a Tailwind for US Growth",
+          "source": "FinancialJuice",
+          "snippet": "AI capex continues to rise, with hyperscaler spending estimates being revised higher and expected to increase again in 2027. The investment boom is also supporting the broader economy through wealth effects, stronger manufacturing production, employment in AI-related industries, and data-centre construction. These effects continue to reinforce US economic resilience even with the risk of higher-for-longer rates. Next week’s main focus is the July FOMC minutes, alongside industrial production and a heavy housing calendar. The minutes are already somewhat stale after softer July jobs and inflation data reduced expectations for further hikes, but they may still show how many officials beyond the three dissenters were leaning toward a hike or willing to support one. Markets will also look for any clues on what threshold the Committee might require for a September move.",
+          "url": "https://www.financialjuice.com/News/9724234/BofA-AI-Capex-Remains-a-Tailwind-for-US-Growth---FJElite.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724234/BofA-AI-Capex-Remains-a-Tailwind-for-US-Growth---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-ec7c53b46665",
+      "original_title": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
+      "published_at": "2026-08-17T13:03:16Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
+          "source": "Reuters",
+          "snippet": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkx4M1hZeWx5Mnp2endmVlRLNnltcERaNG55Sk9YSmpOU2lQaUhxLUtnRGNJal9KcEtwTG1kdS1HMlRHcGE3amwzRl84LVNWT3JUMmlQWE5VZ3JaQ0VqMUpFNEJRV2U3bjUyLVY0dzFWVndmS3lTcUt6OWluLTQxeVc0cmU2TGRFdlJMVjV1QXZDSkJhM2JTNW12S0JVZmJya1YyRGdMQzloN2FqeFplWEtibVU1T3BWc09Gb0h2SkxvYjFNSjFYa0ZWdw?oc=5"
+        },
+        {
+          "headline": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation: McGeever",
+          "source": "TradingView",
+          "snippet": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation: McGeever &nbsp;&nbsp; TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRlJUVzFvTWFjenc0WlZEOVhpY3ZlMUNEdzRIWWFnVHUtS2pjVXdOLW9henNybG1acGNrR0NUNXpkNWxoNWhVR09Wa0VJT3JEcE0xUGtjbW41bFUtUlZqMEV4cHlOd3hKZzlqRC1lSENlZWs2VmJUSjRjcHF0b2JWdmxJTjR2V2l4QlVqVlRyejdrclhvYXpiSVJWMS1rTmF0dEM4RXo1dVk4b1NyODJSTjlXaF9Wd3pXbThiY19YdlFHdGhubEZyTGZoZllqVV9DM1V5ZEtIT0hJdVFmc3hFS3Nkd2FMb1JJbGhV?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkx4M1hZeWx5Mnp2endmVlRLNnltcERaNG55Sk9YSmpOU2lQaUhxLUtnRGNJal9KcEtwTG1kdS1HMlRHcGE3amwzRl84LVNWT3JUMmlQWE5VZ3JaQ0VqMUpFNEJRV2U3bjUyLVY0dzFWVndmS3lTcUt6OWluLTQxeVc0cmU2TGRFdlJMVjV1QXZDSkJhM2JTNW12S0JVZmJya1YyRGdMQzloN2FqeFplWEtibVU1T3BWc09Gb0h2SkxvYjFNSjFYa0ZWdw?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRlJUVzFvTWFjenc0WlZEOVhpY3ZlMUNEdzRIWWFnVHUtS2pjVXdOLW9henNybG1acGNrR0NUNXpkNWxoNWhVR09Wa0VJT3JEcE0xUGtjbW41bFUtUlZqMEV4cHlOd3hKZzlqRC1lSENlZWs2VmJUSjRjcHF0b2JWdmxJTjR2V2l4QlVqVlRyejdrclhvYXpiSVJWMS1rTmF0dEM4RXo1dVk4b1NyODJSTjlXaF9Wd3pXbThiY19YdlFHdGhubEZyTGZoZllqVV9DM1V5ZEtIT0hJdVFmc3hFS3Nkd2FMb1JJbGhV?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-ff91d0dcd79d",
+      "original_title": "FinancialJuice: Bank of America: Lower Real Yields Could Ease Pressure on Equities",
+      "published_at": "2026-08-17T13:01:58Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Bank of America: Lower Real Yields Could Ease Pressure on Equities",
+          "source": "FinancialJuice",
+          "snippet": "European equities are up 12% year-to-date and 35% over the past two years, supported by EPS expectations at record highs and the equity risk premium at a 25-year low. That support has been partly offset by the US real bond yield rising to around 2.4%, just below a 20-year high, increasing the discount rate for global equities. There is scope for that pressure to fade. The rise in real yields was driven by a hawkish shift in central-bank expectations as inflation and US jobs data strengthened, but the latest data point the other way. US payrolls fell by 23,000 in July, the three-month run rate dropped to 20,000, and core PCE is tracking at 0.19% month-on-month. If that continues, US 10-year yields could fall toward 4.50%, pulling real yields lower and reducing a key headwind for equities.",
+          "url": "https://www.financialjuice.com/News/9724232/Bank-of-America-Lower-Real-Yields-Could-Ease-Pressure-on-Equities---FJElite.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724232/Bank-of-America-Lower-Real-Yields-Could-Ease-Pressure-on-Equities---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-f09ad468f313",
+      "original_title": "미국-이란 60일 MoU 기한 만료… 알 아라비야 “휴전 연장 합의” 보도, 이란은 “논의 없다” 반박 [공부의여신 네트워크] 2026년 8월 17일, 미국과 이란이 지난 6월 파키스탄 중재로 서명한 이슬라마바드 양해각서(MoU)의 60일 협상 기한이 만료됐다. 사우디 매체 알 아라비야는 이날 소스를 인용해 양측이 60일 휴전 연장을 합의했다고 보도했으나, 이란 측은 이를 일축하며 연장 논의",
+      "published_at": "2026-08-17T12:46:32Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "미국-이란 60일 MoU 기한 만료… 알 아라비야 “휴전 연장 합의” 보도, 이란은 “논의 없다” 반박 [공부의여신 네트워크] 2026년 8월 17일, 미국과 이란이 지난 6월 파키스탄 중재로 서명한 이슬라마바드 양해각서(MoU)의 60일 협상 기한이 만료됐다. 사우디 매체 알 아라비야는 이날 소스를 인용해 양측이 60일 휴전 연장을 합의했다고 보도했으나, 이란 측은 이를 일축하며 연장 논의",
+          "source": "Telegram @goddessTTF",
+          "snippet": "미국-이란 60일 MoU 기한 만료… 알 아라비야 “휴전 연장 합의” 보도, 이란은 “논의 없다” 반박 [공부의여신 네트워크] 2026년 8월 17일, 미국과 이란이 지난 6월 파키스탄 중재로 서명한 이슬라마바드 양해각서(MoU)의 60일 협상 기한이 만료됐다. 사우디 매체 알 아라비야는 이날 소스를 인용해 양측이 60일 휴전 연장을 합의했다고 보도했으나, 이란 측은 이를 일축하며 연장 논의 자체가 없다고 반박했다. MoU는 군사 작전의 즉시·영구 종료와 함께 최종 합의(핵 프로그램 제한, 제재 완화 등)를 최대 60일 내에 추진하도록 규정했다. 그러나 체결 직후부터 양측이 서로 위반을 주장하며 충돌이 재개됐고, 도널드 트럼프 미국 대통령은 7월 초 “협정이 끝났다”고 선언한 바 있다. 호르무즈 해협 통항과 핵 문제 등 핵심 쟁점에서 진전이 없어 기한 만료에도 돌파구가 없었다. 트럼프 대통령은 최근 이란 이슬람혁명수비대(IRGC) 관리들과의 ‘백채널’이 존재한다고 확인했다. 액시오스 등에 따르면 이 채널은 5월경 이라크 쿠르드 지도자를 통해 구축됐으며, IRGC가 이란 협상팀을 지지한다는 메시지를 전달받은 것으로 알려졌다. 이란 외무부 등은 MoU가 미국 측 위반으로 이미 무의미해졌고, 60일 기한 논의는 더 이상 해당되지 않는다고 강조했다. 중개국을 통한 메시지 교환은 이어지고 있으나 공식 협상 재개 여부는 불투명하다. 트럼프 대통령은 이란의 핵무기 보유 방지를 최우선 목표로 내세우며, 양측 간 즉각적인 최종 합의 조짐은 보이지 않는다. 전문가들은 호르무즈 해협 통제권과 경제·군사 압박이 당분간 지속될 가능성이 크다고 전망한다. 상황 변화에 따라 중개 외교가 재가동될 여지는 남아 있다.",
+          "url": "https://t.me/goddessTTF/82440"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/82440"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-99a6b9ccc912",
+      "original_title": "미·이란 60일 최종합의 시한 종료…트럼프 “항복의 백기 들어야” [공부의여신 네트워크] 도널드 트럼프 미국 대통령이 이란과 체결한 이슬라마바드 양해각서의 60일 협상 시한이 최종 평화협정이나 공식 연장 발표 없이 종료됐다. 트럼프 대통령은 이란을 향해 “항복의 백기를 들어야 한다”고 압박했지만 향후 군사행동에 대해서는 구체적인 시간표를 제시하지 않았다. 미국과 이란은 지난 6월 17일 파키",
+      "published_at": "2026-08-17T12:44:17Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "미·이란 60일 최종합의 시한 종료…트럼프 “항복의 백기 들어야” [공부의여신 네트워크] 도널드 트럼프 미국 대통령이 이란과 체결한 이슬라마바드 양해각서의 60일 협상 시한이 최종 평화협정이나 공식 연장 발표 없이 종료됐다. 트럼프 대통령은 이란을 향해 “항복의 백기를 들어야 한다”고 압박했지만 향후 군사행동에 대해서는 구체적인 시간표를 제시하지 않았다. 미국과 이란은 지난 6월 17일 파키",
+          "source": "Telegram @goddessTTF",
+          "snippet": "미·이란 60일 최종합의 시한 종료…트럼프 “항복의 백기 들어야” [공부의여신 네트워크] 도널드 트럼프 미국 대통령이 이란과 체결한 이슬라마바드 양해각서의 60일 협상 시한이 최종 평화협정이나 공식 연장 발표 없이 종료됐다. 트럼프 대통령은 이란을 향해 “항복의 백기를 들어야 한다”고 압박했지만 향후 군사행동에 대해서는 구체적인 시간표를 제시하지 않았다. 미국과 이란은 지난 6월 17일 파키스탄을 비롯한 중동 국가들의 중재로 이슬라마바드 양해각서에 서명했다.…",
+          "url": "https://t.me/goddessTTF/82439"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/82439"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-e0e06a61fd4b",
+      "original_title": "미 전쟁부와 미 해군이 토마호크 순항미사일 생산 확대를 위해 레이시온(Raytheon)에 229억 달러(약 31조 7천억 원) 규모의 계약을 체결했습니다. 이번 대규모 투자는 방위산업 기반을 강화하고 합동군으로의 무기 인도를 공고히 할 것입니다. https://www.war.gov/News/Releases/Release/Article/4573544/department-of-war-and-rt",
+      "published_at": "2026-08-17T12:40:03Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "미 전쟁부와 미 해군이 토마호크 순항미사일 생산 확대를 위해 레이시온(Raytheon)에 229억 달러(약 31조 7천억 원) 규모의 계약을 체결했습니다. 이번 대규모 투자는 방위산업 기반을 강화하고 합동군으로의 무기 인도를 공고히 할 것입니다. https://www.war.gov/News/Releases/Release/Article/4573544/department-of-war-and-rt",
+          "source": "Telegram @goddessTTF",
+          "snippet": "미 전쟁부와 미 해군이 토마호크 순항미사일 생산 확대를 위해 레이시온(Raytheon)에 229억 달러(약 31조 7천억 원) 규모의 계약을 체결했습니다. 이번 대규모 투자는 방위산업 기반을 강화하고 합동군으로의 무기 인도를 공고히 할 것입니다. https://www.war.gov/News/Releases/Release/Article/4573544/department-of-war-and-rtx-accelerate-critical-munitions-production-through-navy/",
+          "url": "https://t.me/goddessTTF/82438"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/82438"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-e4616ce76733",
+      "original_title": "FinancialJuice: OpenAI: We are investing significantly in security controls.",
+      "published_at": "2026-08-17T12:38:27Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: OpenAI: We are investing significantly in security controls.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724199/OpenAI-We-are-investing-significantly-in-security-controls.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724199/OpenAI-We-are-investing-significantly-in-security-controls.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-448ff34a75c8",
+      "original_title": "FinancialJuice: OpenAI: Using models to help secure code.",
+      "published_at": "2026-08-17T12:38:14Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: OpenAI: Using models to help secure code.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724198/OpenAI-Using-models-to-help-secure-code.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724198/OpenAI-Using-models-to-help-secure-code.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-6b3a7f4d669f",
+      "original_title": "FinancialJuice: NVIDIA secures 4.25 IT-GW at SB energy Ohio campus.",
+      "published_at": "2026-08-17T12:35:00Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: NVIDIA secures 4.25 IT-GW at SB energy Ohio campus.",
+          "source": "FinancialJuice",
+          "snippet": "NVIDIA guarantees SB energy's ports-pike technology campus in Ohio to exclusively host NVIDIA AI compute NVIDIA to invest $1.5b in SB energy",
+          "url": "https://www.financialjuice.com/News/9724196/NVIDIA-secures-425-IT-GW-at-SB-energy-Ohio-campus.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724196/NVIDIA-secures-425-IT-GW-at-SB-energy-Ohio-campus.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-2cc5ab7ff389",
+      "original_title": "Goldman Sachs Says Rate Hike ‘Unlikely’ In September – Would It Be Good For Bitcoin?",
+      "published_at": "2026-08-17T12:34:38Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Goldman Sachs Says Rate Hike ‘Unlikely’ In September – Would It Be Good For Bitcoin?",
+          "source": "TradingView",
+          "snippet": "Goldman Sachs Says Rate Hike ‘Unlikely’ In September – Would It Be Good For Bitcoin? &nbsp;&nbsp; TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQnlKS2FfRVdEdXlwZ0xmSkFxZUdxZjYzTzM4TTE3Y1ZlZ0tWNE15NDFuZmY0YnY2djBiN2lWZlc5TjlONTByS2E4OXJQOExWQUZzZTFPMUIzclBxT1V0dk1XZUoyQU9wVnFScmY2UTRGSUJEOGhOR25ySjJEZzRQbTZDMHQxNGk1ZkpraGZJYUdxWXUtRHE1djVTdFhkVnJwdk1fZXZyUTdzZFhJdzIwUHJlSUVwZjNIMVNBVGFCVi01UEt0dFM0MTZ6UGxDSktaalpDOTR3NA?oc=5"
+        },
+        {
+          "headline": "Goldman Sachs Says Rate Hike ‘Unlikely’ In September – Would It Be Good For Bitcoin?",
+          "source": "Stocktwits",
+          "snippet": "Goldman Sachs Says Rate Hike ‘Unlikely’ In September – Would It Be Good For Bitcoin? &nbsp;&nbsp; Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEdsMGpGdVZ2ZVJTaGJhd0xPTGJ5SXlQNGhZb2NwRFZUa29PS2hZZEwxRnJBdnctaU9JV0hoT2lHTTQxVHRhZGJ3TzJDTVRsLUhkN3p4cmVwaW9uVmNWZGZEWUpWak5VdXE3WG5iaXo0MjhvMjh0OV8tREhYRmlGeVVmdEduNUgtb2xuSk1TUEZka1hMNlFfYndMb0t5c0VTNXB1U3phLVZKLS0wV2tPbnBIaTVXcUZm?oc=5"
+        },
+        {
+          "headline": "Goldman Sachs Sees September Rate Hike as Unlikely, Boosting Bitcoin Sentiment",
+          "source": "Crypto Economy",
+          "snippet": "Goldman Sachs Sees September Rate Hike as Unlikely, Boosting Bitcoin Sentiment &nbsp;&nbsp; Crypto Economy",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMFFXbzZucGZISkVCR2o3d2htVFZWYVFQSVZReUk4aTlVRGdtb09CbVJqaGVJQ2hsRFRHQXExRkRDNEJMSnlsUHNtWG9UTHg2MVoyTEk2bXJObWhHbU1QeERCbGtjV3p0RmVmRVhBRnJ6WUFDU1htOQ?oc=5"
+        },
+        {
+          "headline": "Good news for bitcoin: Goldman says September Fed rate hike is 'very unlikely.'",
+          "source": "CoinDesk",
+          "snippet": "Good news for bitcoin: Goldman says September Fed rate hike is 'very unlikely.' &nbsp;&nbsp; CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcThKdkdVSl9Kd1k3RDlZMXEydUdjekRPWmtWRHpRQzNFZmlpNXBXVXgzd2xXWnRkVUEtbkVmaXFUQ1VTQ2ZILXJ0a2RPX01OUnIzNEJIanFoenlfcE1YdnEzZFRkX3gzZFlDNjRybEF3d0tua2RFOXVObFZKVzJQa0RRRmNEdWhzbXI0VG16YWdZbnNKNGRmT2pfWkhmcjA4YWE2cXFTZ2ltSm5OZkRaYVFEdmpsb1k?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQnlKS2FfRVdEdXlwZ0xmSkFxZUdxZjYzTzM4TTE3Y1ZlZ0tWNE15NDFuZmY0YnY2djBiN2lWZlc5TjlONTByS2E4OXJQOExWQUZzZTFPMUIzclBxT1V0dk1XZUoyQU9wVnFScmY2UTRGSUJEOGhOR25ySjJEZzRQbTZDMHQxNGk1ZkpraGZJYUdxWXUtRHE1djVTdFhkVnJwdk1fZXZyUTdzZFhJdzIwUHJlSUVwZjNIMVNBVGFCVi01UEt0dFM0MTZ6UGxDSktaalpDOTR3NA?oc=5"
+        },
+        {
+          "name": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEdsMGpGdVZ2ZVJTaGJhd0xPTGJ5SXlQNGhZb2NwRFZUa29PS2hZZEwxRnJBdnctaU9JV0hoT2lHTTQxVHRhZGJ3TzJDTVRsLUhkN3p4cmVwaW9uVmNWZGZEWUpWak5VdXE3WG5iaXo0MjhvMjh0OV8tREhYRmlGeVVmdEduNUgtb2xuSk1TUEZka1hMNlFfYndMb0t5c0VTNXB1U3phLVZKLS0wV2tPbnBIaTVXcUZm?oc=5"
+        },
+        {
+          "name": "Crypto Economy",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMFFXbzZucGZISkVCR2o3d2htVFZWYVFQSVZReUk4aTlVRGdtb09CbVJqaGVJQ2hsRFRHQXExRkRDNEJMSnlsUHNtWG9UTHg2MVoyTEk2bXJObWhHbU1QeERCbGtjV3p0RmVmRVhBRnJ6WUFDU1htOQ?oc=5"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcThKdkdVSl9Kd1k3RDlZMXEydUdjekRPWmtWRHpRQzNFZmlpNXBXVXgzd2xXWnRkVUEtbkVmaXFUQ1VTQ2ZILXJ0a2RPX01OUnIzNEJIanFoenlfcE1YdnEzZFRkX3gzZFlDNjRybEF3d0tua2RFOXVObFZKVzJQa0RRRmNEdWhzbXI0VG16YWdZbnNKNGRmT2pfWkhmcjA4YWE2cXFTZ2ltSm5OZkRaYVFEdmpsb1k?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-b0e12bdc0b3c",
+      "original_title": "FinancialJuice: Senior Iranian Official: Iran will not wait for the US to continue the naval blockade indefinitely",
+      "published_at": "2026-08-17T12:28:46Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Senior Iranian Official: Iran will not wait for the US to continue the naval blockade indefinitely",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724154/Senior-Iranian-Official-Iran-will-not-wait-for-the-US-to-continue-the-naval-blockade-indefinitely.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724154/Senior-Iranian-Official-Iran-will-not-wait-for-the-US-to-continue-the-naval-blockade-indefinitely.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-d7af2af06dc3",
+      "original_title": "FinancialJuice: The timeframe set by Iran will be conveyed to US, regional countries via mediators",
+      "published_at": "2026-08-17T12:28:23Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: The timeframe set by Iran will be conveyed to US, regional countries via mediators",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724153/The-timeframe-set-by-Iran-will-be-conveyed-to-US-regional-countries-via-mediators---Senior-Iranian-Official.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724153/The-timeframe-set-by-Iran-will-be-conveyed-to-US-regional-countries-via-mediators---Senior-Iranian-Official.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-845b92318b5c",
+      "original_title": "FinancialJuice: Senior Iranian Official: All Iranian entities will be prepared to escalate tensions in the Hormuz Strait and the region if diplomacy fails",
+      "published_at": "2026-08-17T12:27:54Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Senior Iranian Official: All Iranian entities will be prepared to escalate tensions in the Hormuz Strait and the region if diplomacy fails",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724152/Senior-Iranian-Official-All-Iranian-entities-will-be-prepared-to-escalate-tensions-in-the-Hormuz-Strait-and-the-region-if-diplomacy-fails.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724152/Senior-Iranian-Official-All-Iranian-entities-will-be-prepared-to-escalate-tensions-in-the-Hormuz-Strait-and-the-region-if-diplomacy-fails.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-dceee9776a87",
+      "original_title": "FinancialJuice: Iran has set a deadline of a few weeks for full implementation of MOU by US",
+      "published_at": "2026-08-17T12:27:34Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran has set a deadline of a few weeks for full implementation of MOU by US",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724151/Iran-has-set-a-deadline-of-a-few-weeks-for-full-implementation-of-MOU-by-US---Senior-Iranian-Official.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724151/Iran-has-set-a-deadline-of-a-few-weeks-for-full-implementation-of-MOU-by-US---Senior-Iranian-Official.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-5be8d670b365",
+      "original_title": "FinancialJuice: Senior Iranian Official: Pressuring the US or relying on mediators to reach a lasting peace is not realistic",
+      "published_at": "2026-08-17T12:27:25Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Senior Iranian Official: Pressuring the US or relying on mediators to reach a lasting peace is not realistic",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724150/Senior-Iranian-Official-Pressuring-the-US-or-relying-on-mediators-to-reach-a-lasting-peace-is-not-realistic.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724150/Senior-Iranian-Official-Pressuring-the-US-or-relying-on-mediators-to-reach-a-lasting-peace-is-not-realistic.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-142b58309924",
+      "original_title": "FinancialJuice: Senior Iranian Official: Iran has decided to shift its policy from defensive to a fully offensive one.",
+      "published_at": "2026-08-17T12:26:55Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Senior Iranian Official: Iran has decided to shift its policy from defensive to a fully offensive one.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724149/Senior-Iranian-Official-Iran-has-decided-to-shift-its-policy-from-defensive-to-a-fully-offensive-one.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724149/Senior-Iranian-Official-Iran-has-decided-to-shift-its-policy-from-defensive-to-a-fully-offensive-one.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-ac2ff8142160",
+      "original_title": "No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week",
+      "published_at": "2026-08-17T12:19:45Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-1675c18e9999",
+      "original_title": "트럼프, 오만에 경고: \"우리가 그들을 완전히 초토화할 것이다\" - 폭스 뉴스 그는 오만이 호르무즈 해협에서의 미국의 노력을 방해해서는 안 된다고 경고했습니다.",
+      "published_at": "2026-08-17T12:14:18Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프, 오만에 경고: \"우리가 그들을 완전히 초토화할 것이다\" - 폭스 뉴스 그는 오만이 호르무즈 해협에서의 미국의 노력을 방해해서는 안 된다고 경고했습니다.",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프, 오만에 경고: \"우리가 그들을 완전히 초토화할 것이다\" - 폭스 뉴스 그는 오만이 호르무즈 해협에서의 미국의 노력을 방해해서는 안 된다고 경고했습니다.",
+          "url": "https://t.me/goddessTTF/82436"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/82436"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-d36fcc435d1f",
+      "original_title": "Iran works to finalize Strait of Hormuz agreement with Oman, and other Middle East news",
+      "published_at": "2026-08-17T12:14:14Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran works to finalize Strait of Hormuz agreement with Oman, and other Middle East news",
+          "source": "AP News",
+          "snippet": "Iran works to finalize Strait of Hormuz agreement with Oman, and other Middle East news &nbsp;&nbsp; AP News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEF1REJ4VlIteVJOUS1hVEppZzNadkVkVTVicGJrWXphNGxmcVZGQlNNTHhvTGttWUUzRGgtWW9kTVJ2T284OWo0RXRoME1yWEpfWGN3cG5FYXBwU0VDdDdOT2hzWDVYZVpyOHpscWR2ZW9oNk9ON1ZRSEwtaWJUX3dvOHpieWVqRWF1cDFEVm9PcFR5dXhoQlh1TlFxWGFUN2JaRlphSENKMk1FUXc?oc=5"
+        },
+        {
+          "headline": "Iran working to finalize Hormuz agreement with Oman, and other news from the Middle East",
+          "source": "tdtnews.com",
+          "snippet": "Iran working to finalize Hormuz agreement with Oman, and other news from the Middle East &nbsp;&nbsp; tdtnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGxYTTFlTlhpVTdzUU56TzA4WUhuRlhhWEowNUI4d2VUMURDa200OGdWbXZ1Mzg1bWY2T3VZSWNSYUJub2YtUVEyQmk3Ujc1YnFTSUxZaXdPWE8tLW1OMDAzTVZDYk9GTUlEOVJ6OTFEVjJjMnA1MmpGWVpCUkRXQmI3NWNCNkxuQl9mU1d6U3U4ckNid1E?oc=5"
+        },
+        {
+          "headline": "Iran working to finalize Hormuz agreement with Oman, and other news from the Middle East",
+          "source": "The Batesville Daily Guard",
+          "snippet": "Iran working to finalize Hormuz agreement with Oman, and other news from the Middle East &nbsp;&nbsp; The Batesville Daily Guard",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcVUtWkxvME9YZ3VFM1lRQlk4WmROVnctTUhxejhsak1XTWk2RnBzTmtmSjBNU0t1emo3ZTdRMS1fZWV4VEtaNFpuVXBFV2FfS3pmWDhwbXphWHA0Q2dpV2s0QW5NSkNkR2N2MmQxRmVMeWZQRXhBbWgwQ0cxTnR5X04zQ0JSZnI0dnZ4WDdrb2Znc0VNVXZPYjdWUXhKVlNKazBfbmRtRDNzWVI4bGEtUks1andOTHNqdlRLN051Wl9WbTA1ZDB2bEkwZk8wZnpFX3pjVGlFVHRzSU5VVXpnUVpmaDNCZWxvSENCdllqOGtRTnVMWFh0RnB1UWkyaTltUkRFNURoM1R0WDQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEF1REJ4VlIteVJOUS1hVEppZzNadkVkVTVicGJrWXphNGxmcVZGQlNNTHhvTGttWUUzRGgtWW9kTVJ2T284OWo0RXRoME1yWEpfWGN3cG5FYXBwU0VDdDdOT2hzWDVYZVpyOHpscWR2ZW9oNk9ON1ZRSEwtaWJUX3dvOHpieWVqRWF1cDFEVm9PcFR5dXhoQlh1TlFxWGFUN2JaRlphSENKMk1FUXc?oc=5"
+        },
+        {
+          "name": "tdtnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGxYTTFlTlhpVTdzUU56TzA4WUhuRlhhWEowNUI4d2VUMURDa200OGdWbXZ1Mzg1bWY2T3VZSWNSYUJub2YtUVEyQmk3Ujc1YnFTSUxZaXdPWE8tLW1OMDAzTVZDYk9GTUlEOVJ6OTFEVjJjMnA1MmpGWVpCUkRXQmI3NWNCNkxuQl9mU1d6U3U4ckNid1E?oc=5"
+        },
+        {
+          "name": "The Batesville Daily Guard",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcVUtWkxvME9YZ3VFM1lRQlk4WmROVnctTUhxejhsak1XTWk2RnBzTmtmSjBNU0t1emo3ZTdRMS1fZWV4VEtaNFpuVXBFV2FfS3pmWDhwbXphWHA0Q2dpV2s0QW5NSkNkR2N2MmQxRmVMeWZQRXhBbWgwQ0cxTnR5X04zQ0JSZnI0dnZ4WDdrb2Znc0VNVXZPYjdWUXhKVlNKazBfbmRtRDNzWVI4bGEtUks1andOTHNqdlRLN051Wl9WbTA1ZDB2bEkwZk8wZnpFX3pjVGlFVHRzSU5VVXpnUVpmaDNCZWxvSENCdllqOGtRTnVMWFh0RnB1UWkyaTltUkRFNURoM1R0WDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-02283d1a5845",
+      "original_title": "Bitcoin ETFs See Largest Outflow in Six Weeks: What's Going On?",
+      "published_at": "2026-08-17T12:11:12Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin ETFs See Largest Outflow in Six Weeks: What's Going On?",
+          "source": "Benzinga",
+          "snippet": "Bitcoin ETFs See Largest Outflow in Six Weeks: What's Going On? &nbsp;&nbsp; Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNkV3Z2RrR3JWdE13cHJWYkZTQWxKakRpeFdVZFd5T0VReFl1aXkydU5zX1V2LW5XN3FONG5OVHpiYVVvaXhSVFlneDFLVHBrb1MtN1A4b3JYTkNKbmdabXZ2YVBWZ19rX0cyOUFPeUwtVDM4aVdINUFjTl9GZjRndmpaQWtzdTNBMEVReUFKVVB5LUtvWmJ3NlpHV3I4YVFwcmJlMDg4MWppUVpUeFZPWVpSYWlZN2dhbEFmY1RHUQ?oc=5"
+        },
+        {
+          "headline": "Bitcoin ETFs see largest outflow in six weeks as token stagnates",
+          "source": "The Business Times",
+          "snippet": "Bitcoin ETFs see largest outflow in six weeks as token stagnates &nbsp;&nbsp; The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVJocmJlRC1oMUdQalNmV2NfYzBDY29zbWJNLUhCcDNjRmk2VTFwV1lNQkhZYlp3RTBCdHhFUE9JUzJXOVVHa3c3b090Q1VnWGlWUGhmLWthcUZybVJXMFdvaFEtZ3VpSFBEemZodjh0NDMyNGdwZzh3UkdPaW00NFRUZDBobkxoSmh2d3J4c0t2ZEdCWjlHWVpPX0s0a0pmekp1YmtPRWFTdXdOMEE?oc=5"
+        },
+        {
+          "headline": "Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates",
+          "source": "Bloomberg.com",
+          "snippet": "Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2NpdDk2TUdlREt6cFBTRlBCWTFEai14QVdsWmdtMmt4WFFwVFBIbTVLNHp0dzBKdl9wWS1GWEFILTdhcmczWlVKSktRTGpINi04U3hPWXYzcG5NVmQ2S0UyZnEtdmtnUExLNVVEVGg0LXNPcFkyNEdRWVpBQ3N2MkJGSjcxLTdvRlNhVU5KQ0VuNzJlcFI5RHBWQU5MeVJSWTVya1F2RGNybDRPZ2RlUHpVVy1Idw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNkV3Z2RrR3JWdE13cHJWYkZTQWxKakRpeFdVZFd5T0VReFl1aXkydU5zX1V2LW5XN3FONG5OVHpiYVVvaXhSVFlneDFLVHBrb1MtN1A4b3JYTkNKbmdabXZ2YVBWZ19rX0cyOUFPeUwtVDM4aVdINUFjTl9GZjRndmpaQWtzdTNBMEVReUFKVVB5LUtvWmJ3NlpHV3I4YVFwcmJlMDg4MWppUVpUeFZPWVpSYWlZN2dhbEFmY1RHUQ?oc=5"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVJocmJlRC1oMUdQalNmV2NfYzBDY29zbWJNLUhCcDNjRmk2VTFwV1lNQkhZYlp3RTBCdHhFUE9JUzJXOVVHa3c3b090Q1VnWGlWUGhmLWthcUZybVJXMFdvaFEtZ3VpSFBEemZodjh0NDMyNGdwZzh3UkdPaW00NFRUZDBobkxoSmh2d3J4c0t2ZEdCWjlHWVpPX0s0a0pmekp1YmtPRWFTdXdOMEE?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2NpdDk2TUdlREt6cFBTRlBCWTFEai14QVdsWmdtMmt4WFFwVFBIbTVLNHp0dzBKdl9wWS1GWEFILTdhcmczWlVKSktRTGpINi04U3hPWXYzcG5NVmQ2S0UyZnEtdmtnUExLNVVEVGg0LXNPcFkyNEdRWVpBQ3N2MkJGSjcxLTdvRlNhVU5KQ0VuNzJlcFI5RHBWQU5MeVJSWTVya1F2RGNybDRPZ2RlUHpVVy1Idw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-fbfbbd54db4d",
+      "original_title": "FinancialJuice: Secured Overnight Financing Rate 3.62% August 14 vs 3.62% August 13.",
+      "published_at": "2026-08-17T11:59:56Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Secured Overnight Financing Rate 3.62% August 14 vs 3.62% August 13.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9724118/Secured-Overnight-Financing-Rate-362-August-14-vs-362-August-13.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9724118/Secured-Overnight-Financing-Rate-362-August-14-vs-362-August-13.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-5603910a7c7a",
+      "original_title": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
+      "published_at": "2026-08-17T11:59:23Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-17-f9c2a08ee09a",
       "original_title": "Economists agree: Fed to leave interest rates unchanged this year – Reuters poll",
@@ -9,8 +749,8 @@
       "evidence": [
         {
           "headline": "Economists agree: Fed to leave interest rates unchanged this year – Reuters poll",
-          "source": "FXStreet",
-          "snippet": "Economists agree: Fed to leave interest rates unchanged this year – Reuters poll &nbsp;&nbsp; FXStreet",
+          "source": "fxstreet.com",
+          "snippet": "Economists agree: Fed to leave interest rates unchanged this year – Reuters poll &nbsp;&nbsp; fxstreet.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSm1jTVVpNGhHNDhBLTVLLS1pNlpzbnkyTGo0T0EtZVVmUVc2dzdNRHBHRVlGVF9DOUV3U0lUMEJDS0xwQzlqVTJ3MHFUMjU0UEJYdTdCRlVkNER0a3pqek1SYlpQNDR2U1paX0p5em5tR0kwS1dwS0dkblpRUGstTFNUZ1JJcEZjeEdzaUc0SUJOSzdIZjlEWG1OZ3ZuX01lQzliUlhHZXBzc2MtNGIwNWt4cTk4VEI5LU5JSQ?oc=5"
         },
         {
@@ -22,7 +762,7 @@
       ],
       "sources": [
         {
-          "name": "FXStreet",
+          "name": "fxstreet.com",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSm1jTVVpNGhHNDhBLTVLLS1pNlpzbnkyTGo0T0EtZVVmUVc2dzdNRHBHRVlGVF9DOUV3U0lUMEJDS0xwQzlqVTJ3MHFUMjU0UEJYdTdCRlVkNER0a3pqek1SYlpQNDR2U1paX0p5em5tR0kwS1dwS0dkblpRUGstTFNUZ1JJcEZjeEdzaUc0SUJOSzdIZjlEWG1OZ3ZuX01lQzliUlhHZXBzc2MtNGIwNWt4cTk4VEI5LU5JSQ?oc=5"
         },
         {
@@ -262,36 +1002,6 @@
       ]
     },
     {
-      "stable_id": "2026-08-17-913c317085db",
-      "original_title": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited",
-      "published_at": "2026-08-17T10:10:58Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited",
-          "source": "Profit by Pakistan Today",
-          "snippet": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited &nbsp;&nbsp; Profit by Pakistan Today",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaGFZeWlpNTU2d1lZYTB0Q0l1S284ZjZfbVlaVllfTEtaSE9McDJabnlaMk94U1JheFFYdVRKQ0NaYVFjYnc5VTZ6YXNTREJpUjhqdzdHdlh1QlRfZ1VFbF83c1RfbHJkbFpSWWo4Sy1GMkI5TkdWTzNtQzFMdHl1SVV1NzRNVnQzeUo4cXF1eFIzT2Q4akdVU2FsSnlIVWdGd0xMNlMyUW1udVkySTU1Y3drYy1uQ2M?oc=5"
-        },
-        {
-          "headline": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited",
-          "source": "Reuters",
-          "snippet": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Profit by Pakistan Today",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaGFZeWlpNTU2d1lZYTB0Q0l1S284ZjZfbVlaVllfTEtaSE9McDJabnlaMk94U1JheFFYdVRKQ0NaYVFjYnc5VTZ6YXNTREJpUjhqdzdHdlh1QlRfZ1VFbF83c1RfbHJkbFpSWWo4Sy1GMkI5TkdWTzNtQzFMdHl1SVV1NzRNVnQzeUo4cXF1eFIzT2Q4akdVU2FsSnlIVWdGd0xMNlMyUW1udVkySTU1Y3drYy1uQ2M?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-08-17-c2cc39750055",
       "original_title": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
       "published_at": "2026-08-17T09:59:55Z",
@@ -308,6 +1018,36 @@
         {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-913c317085db",
+      "original_title": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited",
+      "published_at": "2026-08-17T09:56:04Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited",
+          "source": "WSAU",
+          "snippet": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited &nbsp;&nbsp; WSAU",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmxFZ1o0WFJjNWZmUEpOVTI1WWUzSXdick95S3U2NTNIbGxwSmUwVGstTUdPTl9GRWV1Q01zVFZjMnpDbm9WSUdObzlrY3hKbFVKSGFfS29yR3VJNnJtMDFPVTR0am53b2lKOEFzWE5oWVlUWTFjZWJ4MUppdjZyRThHbWFkQVFmUElnMEZVY2JWZEs1WFE2bEF4MVE?oc=5"
+        },
+        {
+          "headline": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited",
+          "source": "Reuters",
+          "snippet": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "WSAU",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmxFZ1o0WFJjNWZmUEpOVTI1WWUzSXdick95S3U2NTNIbGxwSmUwVGstTUdPTl9GRWV1Q01zVFZjMnpDbm9WSUdObzlrY3hKbFVKSGFfS29yR3VJNnJtMDFPVTR0am53b2lKOEFzWE5oWVlUWTFjZWJ4MUppdjZyRThHbWFkQVFmUElnMEZVY2JWZEs1WFE2bEF4MVE?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5"
         }
       ]
     },
@@ -502,26 +1242,6 @@
       ]
     },
     {
-      "stable_id": "2026-08-17-b7c45be3e394",
-      "original_title": "Most Gulf markets ease as Iran tensions, Hormuz shipping disruptions weigh",
-      "published_at": "2026-08-17T08:37:01Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Most Gulf markets ease as Iran tensions, Hormuz shipping disruptions weigh",
-          "source": "Reuters",
-          "snippet": "Most Gulf markets ease as Iran tensions, Hormuz shipping disruptions weigh &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU9NOVk5OEQ2MTFBZ3MyTlFITGJvOFF2R08wR1hyanE3TlJEZ3VlWjk2M191ZGZkc1UyOTdCUEloLXdDZnhnLVFlUkIwY3I4RjZuV3pLMW5BRFVsMjNTWmxDb0tiNU5xYmVDNTVkWlgxOTRIc2tnejNQX0d6OUdNOHJ1T2lKeXVlU08wdmtpU2F1U3g5TmVPUGRkRk1xdnJIcjdiQW9iUzJxaVZyVm5uNFVENDdraW9na29LMFhsbl9nQQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNU9NOVk5OEQ2MTFBZ3MyTlFITGJvOFF2R08wR1hyanE3TlJEZ3VlWjk2M191ZGZkc1UyOTdCUEloLXdDZnhnLVFlUkIwY3I4RjZuV3pLMW5BRFVsMjNTWmxDb0tiNU5xYmVDNTVkWlgxOTRIc2tnejNQX0d6OUdNOHJ1T2lKeXVlU08wdmtpU2F1U3g5TmVPUGRkRk1xdnJIcjdiQW9iUzJxaVZyVm5uNFVENDdraW9na29LMFhsbl9nQQ?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-08-17-8923c54bb82a",
       "original_title": "Bitcoin ETFs see largest outflow in six weeks as token stagnates",
       "published_at": "2026-08-17T08:07:00Z",
@@ -648,6 +1368,66 @@
         {
           "name": "AsiaOne",
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc2xnc0YtTzVGbENJSnJWZTJDS0htRVlhcVBrZzV2SHdiLTRxNld0MkNJQzhiYlFlTk81VHo1dHJlNjJuLW9Nckh5RGVuNEdpTXAyNDRGSlFTdkV6ZU80elQwYzNmTE4zZk5LMF9ZNG5NOVF2X2FweTY2OXBKcUFWc3RaWmIzRFNBVTc4bURtQ3liSFdSY1JGVkt4N0VIMXZ1dXUteTBYSzNTaG5WLW1UamF5VDBPbm4wYll6WTVqWGhYdDJUYmEtRkExQlJlZzRtbzVfVy00Z2k3ZW9LYV90VmxmajRUT3dESFAyRjl3OEhjS18wbzlneGZwYXBkQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-f80aba10a3e6",
+      "original_title": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows",
+      "published_at": "2026-08-17T07:01:40Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows",
+          "source": "Arab News",
+          "snippet": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows &nbsp;&nbsp; Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaSVN3dkh0WHU3a0Q0Y0dRaXlTOF9FR1dBeTZjdzh1Ym9jaU1DM2xkYnYtT1N5MktHeGpPM1BZeS1TUWQ2MjJJV0Y0YnZtcHVDSVhN?oc=5"
+        },
+        {
+          "headline": "Oil struggles for direction as US-Iran talks stall, Hormuz shipping slows",
+          "source": "The Lufkin Daily News",
+          "snippet": "Oil struggles for direction as US-Iran talks stall, Hormuz shipping slows &nbsp;&nbsp; The Lufkin Daily News",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQlhMQ1BGSkV3SlBwNk1zdXpMdGRrYkFQUGI0VmE1RF90X0RhVzd1Y2dGb3hkZlMtN2I3MUl0WEw3bDE1UEltR2NVanN4SzFqOEoyWDFXZUZpajNmZU13WjlrRVFuenlUSG50UTJ2Z2ZjS0hJUnRjZlREeHg3SkpDeU5wSXRHckthZVB4dzBpbTZqM0E5RDgyLThlNE1aSjBlTll4M3FlV0M4TF85dXZiSHRQVC1LUmlOckk0WWlETFJYYVpjREM4UFlkMHlBTWVCWFp2LVVKMkpoWjBaVUpBQWpvU3dSTS1PaDJxYzBobE5pVmFyQUt0cEk1blVUdXA2NGc?oc=5"
+        },
+        {
+          "headline": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows, Money News",
+          "source": "AsiaOne",
+          "snippet": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows, Money News &nbsp;&nbsp; AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc2xnc0YtTzVGbENJSnJWZTJDS0htRVlhcVBrZzV2SHdiLTRxNld0MkNJQzhiYlFlTk81VHo1dHJlNjJuLW9Nckh5RGVuNEdpTXAyNDRGSlFTdkV6ZU80elQwYzNmTE4zZk5LMF9ZNG5NOVF2X2FweTY2OXBKcUFWc3RaWmIzRFNBVTc4bURtQ3liSFdSY1JGVkt4N0VIMXZ1dXUteTBYSzNTaG5WLW1UamF5VDBPbm4wYll6WTVqWGhYdDJUYmEtRkExQlJlZzRtbzVfVy00Z2k3ZW9LYV90VmxmajRUT3dESFAyRjl3OEhjS18wbzlneGZwYXBkQQ?oc=5"
+        },
+        {
+          "headline": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows",
+          "source": "The Economic Times",
+          "snippet": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows &nbsp;&nbsp; The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeGRBSy1tWDFVeUMyN1N1enhlX2dkZUZuS0VWd2VjUkt4Y0dNZHo5MGVHM0ZheEtlWG5CeVZoNGdHMUlrZHVPSXd4clg0WGl6WmFOODFTUjZVTFQwV1VoS08zajNvd29aU2p6UUVtVGs5cF9mQXZZYzBieU4xSlJqaHdSUTdFZXlpeDQzMXBlVTRMd3NhNzktWlN1NEJzcldidFh2VmtIcTY3c1REaEUtX201LXpQeDBlSTJ3c29CWkplaFJ1dG9qWGdQSWZMa3hEWWhzbzN4ZzhOVFJQdXltSUQ2UWLSAeQBQVVfeXFMTXhkQUstbVgxVXlDMjdTdXp4ZV9nZGVGbktFVndlY1JLeGNHTWR6OTBlRzNGYXhLZVhuQnlWaDRnRzFJa2R1T0l3eHJYNFhpelphTjgxU1I2VUxUMFdVaEtPM2ozb3dvWlNqelFFbVRrOXBfZkF2WWMwYnlOMUpSamh3UlE3RWV5aXg0MzFwZVU0THdzYTc5LVpTdTRCc3JXYnRYdlZrSHE2N3NURGhFLV9tNS16UHgwZUkyd3NvQlpKZWhSdXRvalhnUElmTGt4RFloc28zeGc4TlRSUHV5bUlENlFi?oc=5"
+        },
+        {
+          "headline": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows By Reuters",
+          "source": "Investing.com",
+          "snippet": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows By Reuters &nbsp;&nbsp; Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNal9ZZDlOZ1FRVksyeEZQcmswQjViMnhpU2IwWEZJWVh4bmJTT1pRTmJMWTFtb1VlN05PTW1nX213TmFkbVlzVzRhTEhEMXRXM0FYS24ybmw1SzR6SkJ5UjZQWkpBalRMd0FuVVVqMWRHZ2pJdHhST0JwOERYdmZwTUJFbDZwNGlGWEZSNldCaFRrUFFxWU9iRnhBTmV2RkpMcC1rVTY4VF9vTUZRQkctTVVPdDRNVGJlcXZIMGl0bw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaSVN3dkh0WHU3a0Q0Y0dRaXlTOF9FR1dBeTZjdzh1Ym9jaU1DM2xkYnYtT1N5MktHeGpPM1BZeS1TUWQ2MjJJV0Y0YnZtcHVDSVhN?oc=5"
+        },
+        {
+          "name": "The Lufkin Daily News",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQlhMQ1BGSkV3SlBwNk1zdXpMdGRrYkFQUGI0VmE1RF90X0RhVzd1Y2dGb3hkZlMtN2I3MUl0WEw3bDE1UEltR2NVanN4SzFqOEoyWDFXZUZpajNmZU13WjlrRVFuenlUSG50UTJ2Z2ZjS0hJUnRjZlREeHg3SkpDeU5wSXRHckthZVB4dzBpbTZqM0E5RDgyLThlNE1aSjBlTll4M3FlV0M4TF85dXZiSHRQVC1LUmlOckk0WWlETFJYYVpjREM4UFlkMHlBTWVCWFp2LVVKMkpoWjBaVUpBQWpvU3dSTS1PaDJxYzBobE5pVmFyQUt0cEk1blVUdXA2NGc?oc=5"
+        },
+        {
+          "name": "AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc2xnc0YtTzVGbENJSnJWZTJDS0htRVlhcVBrZzV2SHdiLTRxNld0MkNJQzhiYlFlTk81VHo1dHJlNjJuLW9Nckh5RGVuNEdpTXAyNDRGSlFTdkV6ZU80elQwYzNmTE4zZk5LMF9ZNG5NOVF2X2FweTY2OXBKcUFWc3RaWmIzRFNBVTc4bURtQ3liSFdSY1JGVkt4N0VIMXZ1dXUteTBYSzNTaG5WLW1UamF5VDBPbm4wYll6WTVqWGhYdDJUYmEtRkExQlJlZzRtbzVfVy00Z2k3ZW9LYV90VmxmajRUT3dESFAyRjl3OEhjS18wbzlneGZwYXBkQQ?oc=5"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeGRBSy1tWDFVeUMyN1N1enhlX2dkZUZuS0VWd2VjUkt4Y0dNZHo5MGVHM0ZheEtlWG5CeVZoNGdHMUlrZHVPSXd4clg0WGl6WmFOODFTUjZVTFQwV1VoS08zajNvd29aU2p6UUVtVGs5cF9mQXZZYzBieU4xSlJqaHdSUTdFZXlpeDQzMXBlVTRMd3NhNzktWlN1NEJzcldidFh2VmtIcTY3c1REaEUtX201LXpQeDBlSTJ3c29CWkplaFJ1dG9qWGdQSWZMa3hEWWhzbzN4ZzhOVFJQdXltSUQ2UWLSAeQBQVVfeXFMTXhkQUstbVgxVXlDMjdTdXp4ZV9nZGVGbktFVndlY1JLeGNHTWR6OTBlRzNGYXhLZVhuQnlWaDRnRzFJa2R1T0l3eHJYNFhpelphTjgxU1I2VUxUMFdVaEtPM2ozb3dvWlNqelFFbVRrOXBfZkF2WWMwYnlOMUpSamh3UlE3RWV5aXg0MzFwZVU0THdzYTc5LVpTdTRCc3JXYnRYdlZrSHE2N3NURGhFLV9tNS16UHgwZUkyd3NvQlpKZWhSdXRvalhnUElmTGt4RFloc28zeGc4TlRSUHV5bUlENlFi?oc=5"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNal9ZZDlOZ1FRVksyeEZQcmswQjViMnhpU2IwWEZJWVh4bmJTT1pRTmJMWTFtb1VlN05PTW1nX213TmFkbVlzVzRhTEhEMXRXM0FYS24ybmw1SzR6SkJ5UjZQWkpBalRMd0FuVVVqMWRHZ2pJdHhST0JwOERYdmZwTUJFbDZwNGlGWEZSNldCaFRrUFFxWU9iRnhBTmV2RkpMcC1rVTY4VF9vTUZRQkctTVVPdDRNVGJlcXZIMGl0bw?oc=5"
         }
       ]
     },
@@ -812,6 +1592,36 @@
       ]
     },
     {
+      "stable_id": "2026-08-17-abf47747d0b6",
+      "original_title": "A Quiet Macro Week? These US Events Could Still Spark Bitcoin Volatility",
+      "published_at": "2026-08-17T06:17:34Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "A Quiet Macro Week? These US Events Could Still Spark Bitcoin Volatility",
+          "source": "CryptoRank",
+          "snippet": "A Quiet Macro Week? These US Events Could Still Spark Bitcoin Volatility &nbsp;&nbsp; CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX21Sc0p0Nm5raTRQLUtwZ1pkMUdsM2l4QTlyckk4VE8wOVl3WGZzbG8wUzBKMldPaFI3d1BoMjdKVjdaeUk4SG9qWFFYbFhVMXF2N3FVNlByWXFSQUFra2tZUG9tZUZwcWNIZzVQTmhXc2VmN2hpNTV1dnAyamhlQ1dZMTR5ZzFQX0dMc1hLck9JcU5JY3owSEdwYVFzRGlnV21Wbld5UEx0Tm4yS1E?oc=5"
+        },
+        {
+          "headline": "A Quiet Macro Week? These US Events Could Still Spark Bitcoin Volatility",
+          "source": "CryptoPotato",
+          "snippet": "A Quiet Macro Week? These US Events Could Still Spark Bitcoin Volatility &nbsp;&nbsp; CryptoPotato",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdTJfZ0VEcFVtUnR3VWxaZWV4UGV6SEhfNDdYa2wwQ0xQN2pxWFU5YkhjVDh6bmNwSWQzX2NzWXByMjhLQXRWSGtKNUdyanFzc3oxN0hHcWloV0tuUmVkV05ZQUFPSTNtbjNHaEt3aTJVZEkyQXByYTZIeDgxUHN3bmlwWnE0dzBhd2hoNHFHQXhwTGMtdUFWTkNFUTN0dw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX21Sc0p0Nm5raTRQLUtwZ1pkMUdsM2l4QTlyckk4VE8wOVl3WGZzbG8wUzBKMldPaFI3d1BoMjdKVjdaeUk4SG9qWFFYbFhVMXF2N3FVNlByWXFSQUFra2tZUG9tZUZwcWNIZzVQTmhXc2VmN2hpNTV1dnAyamhlQ1dZMTR5ZzFQX0dMc1hLck9JcU5JY3owSEdwYVFzRGlnV21Wbld5UEx0Tm4yS1E?oc=5"
+        },
+        {
+          "name": "CryptoPotato",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdTJfZ0VEcFVtUnR3VWxaZWV4UGV6SEhfNDdYa2wwQ0xQN2pxWFU5YkhjVDh6bmNwSWQzX2NzWXByMjhLQXRWSGtKNUdyanFzc3oxN0hHcWloV0tuUmVkV05ZQUFPSTNtbjNHaEt3aTJVZEkyQXByYTZIeDgxUHN3bmlwWnE0dzBhd2hoNHFHQXhwTGMtdUFWTkNFUTN0dw?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-17-4e429b571010",
       "original_title": "Bloomberg: Hidden oil shipments continue through Strait of Hormuz",
       "published_at": "2026-08-17T06:05:26Z",
@@ -827,7 +1637,7 @@
           "headline": "Secret oil shipments through the Strait of Hormuz curb the rise in global prices - Bloomberg",
           "source": "Українські Національні Новини (УНН)",
           "snippet": "Secret oil shipments through the Strait of Hormuz curb the rise in global prices - Bloomberg &nbsp;&nbsp; Українські Національні Новини (УНН)",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbG40LTA5UG1HUkF0bkJQQnFzZDk1UHM0VzFaNFJsaW1kYXZ1cjdESlBNcDZnLUFtS01rQjB4eGVCYVRFOUNsMWxTV1Z3cGJPd2FESThnZS15eGF6dE8ydDE1WS0taDcxWVIzNmd3cFNUU19IemlRTUVmYWkwSVVDanVyTlNlRzRXSzZVeEZxTk5vcmVLekplTVU0VVBtYmxUWVp3OGlKVFhhckF4eVZjRVdR0gGyAUFVX3lxTE1sbjQtMDlQbUdSQXRuQlBCcXNkOTVQczRXMVo0UmxpbWRhdnVyN0RKUE1wNmctQW1LTWtCMHh4ZUJhVEU5Q2wxbFNXVndwYk93YURJOGdlLXl4YXp0TzJ0MTVZLS1oNzFZUjM2Z3dwU1RTX0h6aVFNRWZhaTBJVUNqdXJOU2VHNFdLNlV4RnFOTm9yZUt6SmVNVTRVUG1ibFRZWnc4aUpUWGFyQXh5VmNFV1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR01oaTZ5RjJNY2xTR0puSjZpNHI4Tk5lTkhRRTdjc3R1N3pGZ0dZS24tY216RktUZHVVM0VvdXZocXVDWHJrMzcwblU3TmZfM0NxVDZfdTk5Nk5nam0yaVhFeG5hMldpdVNCR1c3TTlOb2JvcWRhZ2JPaXhZMExpdncwcGFXeGdfcTNZTU9BR2o5VXpWZjUxcHhkWWk3VHFYZWdjOTBqbklMaG5QRE5ZcGlvc9IBsgFBVV95cUxNbG40LTA5UG1HUkF0bkJQQnFzZDk1UHM0VzFaNFJsaW1kYXZ1cjdESlBNcDZnLUFtS01rQjB4eGVCYVRFOUNsMWxTV1Z3cGJPd2FESThnZS15eGF6dE8ydDE1WS0taDcxWVIzNmd3cFNUU19IemlRTUVmYWkwSVVDanVyTlNlRzRXSzZVeEZxTk5vcmVLekplTVU0VVBtYmxUWVp3OGlKVFhhckF4eVZjRVdR?oc=5"
         }
       ],
       "sources": [
@@ -837,7 +1647,7 @@
         },
         {
           "name": "Українські Національні Новини (УНН)",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbG40LTA5UG1HUkF0bkJQQnFzZDk1UHM0VzFaNFJsaW1kYXZ1cjdESlBNcDZnLUFtS01rQjB4eGVCYVRFOUNsMWxTV1Z3cGJPd2FESThnZS15eGF6dE8ydDE1WS0taDcxWVIzNmd3cFNUU19IemlRTUVmYWkwSVVDanVyTlNlRzRXSzZVeEZxTk5vcmVLekplTVU0VVBtYmxUWVp3OGlKVFhhckF4eVZjRVdR0gGyAUFVX3lxTE1sbjQtMDlQbUdSQXRuQlBCcXNkOTVQczRXMVo0UmxpbWRhdnVyN0RKUE1wNmctQW1LTWtCMHh4ZUJhVEU5Q2wxbFNXVndwYk93YURJOGdlLXl4YXp0TzJ0MTVZLS1oNzFZUjM2Z3dwU1RTX0h6aVFNRWZhaTBJVUNqdXJOU2VHNFdLNlV4RnFOTm9yZUt6SmVNVTRVUG1ibFRZWnc4aUpUWGFyQXh5VmNFV1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR01oaTZ5RjJNY2xTR0puSjZpNHI4Tk5lTkhRRTdjc3R1N3pGZ0dZS24tY216RktUZHVVM0VvdXZocXVDWHJrMzcwblU3TmZfM0NxVDZfdTk5Nk5nam0yaVhFeG5hMldpdVNCR1c3TTlOb2JvcWRhZ2JPaXhZMExpdncwcGFXeGdfcTNZTU9BR2o5VXpWZjUxcHhkWWk3VHFYZWdjOTBqbklMaG5QRE5ZcGlvc9IBsgFBVV95cUxNbG40LTA5UG1HUkF0bkJQQnFzZDk1UHM0VzFaNFJsaW1kYXZ1cjdESlBNcDZnLUFtS01rQjB4eGVCYVRFOUNsMWxTV1Z3cGJPd2FESThnZS15eGF6dE8ydDE1WS0taDcxWVIzNmd3cFNUU19IemlRTUVmYWkwSVVDanVyTlNlRzRXSzZVeEZxTk5vcmVLekplTVU0VVBtYmxUWVp3OGlKVFhhckF4eVZjRVdR?oc=5"
         }
       ]
     },
@@ -1432,46 +2242,6 @@
       ]
     },
     {
-      "stable_id": "2026-08-17-f80aba10a3e6",
-      "original_title": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows",
-      "published_at": "2026-08-17T02:47:44Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows",
-          "source": "The Lufkin Daily News",
-          "snippet": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows &nbsp;&nbsp; The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOamQ2eDFNRjdFRXNZSk9PQlhabEo1OEJ0TmtGM3Z4Q0FBM3JPcUoxSmNSY1lLVHZaVUlGZm1HODZtZXg0emNka1hiX0R3enJzLVVQQjVrTTVVMnZ3Y0tvOWl6RmJjY1VzR2pITWpBSEdDMHAtTnVtZzFhSmFDUEJobEI0ekhzTUxGeS1sTUg4NnZfekNTeGdtYWJfLVpxT0ZvNGx0c3JuTEhSTGZVOGhTMFE1N29FZktpNnkwTDZlMEdDVGFFQkFucFM5THRSTTJESWdjUEdGRkstYmlxbXZINHZYczJQcTdDQVMxWV9jUS1CQQ?oc=5"
-        },
-        {
-          "headline": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows",
-          "source": "Reuters",
-          "snippet": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5"
-        },
-        {
-          "headline": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows",
-          "source": "Yahoo Finance Singapore",
-          "snippet": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows &nbsp;&nbsp; Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1TFZmMlR3Z2R1MG9UQUxYR3FHTjktU3B1UUFiTGEwTDVLbEJFY29Kc2ZYRGxqVThsd2d3dFdwV21YSFBlRmk5YXUxTGRQR2JkdVBZVmMzeXJEWFRYbzVjQU1rc1RkM3k0SXZmY1JYcHc5dUZWd2dLUWFUUzVtQQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOamQ2eDFNRjdFRXNZSk9PQlhabEo1OEJ0TmtGM3Z4Q0FBM3JPcUoxSmNSY1lLVHZaVUlGZm1HODZtZXg0emNka1hiX0R3enJzLVVQQjVrTTVVMnZ3Y0tvOWl6RmJjY1VzR2pITWpBSEdDMHAtTnVtZzFhSmFDUEJobEI0ekhzTUxGeS1sTUg4NnZfekNTeGdtYWJfLVpxT0ZvNGx0c3JuTEhSTGZVOGhTMFE1N29FZktpNnkwTDZlMEdDVGFFQkFucFM5THRSTTJESWdjUEdGRkstYmlxbXZINHZYczJQcTdDQVMxWV9jUS1CQQ?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5"
-        },
-        {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1TFZmMlR3Z2R1MG9UQUxYR3FHTjktU3B1UUFiTGEwTDVLbEJFY29Kc2ZYRGxqVThsd2d3dFdwV21YSFBlRmk5YXUxTGRQR2JkdVBZVmMzeXJEWFRYbzVjQU1rc1RkM3k0SXZmY1JYcHc5dUZWd2dLUWFUUzVtQQ?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-08-17-86c68cae2872",
       "original_title": "Asian shares mark time as Gulf war keeps oil prices up By Reuters",
       "published_at": "2026-08-17T02:39:33Z",
@@ -1514,6 +2284,12 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObnduOElLNzc0QkJBbzBTZEVTSlJfZ0g4VG4yczBLTVptWUJTcGtMX0JtTFhnRjdUS2o4OHNvWTVreWF1ci1Nd0RGamxFbmVPZGtPV2NSZTJScmQwS3NIRkRHS216X3A3cHFMY05MTGVtRU5NVmEzeXRGN0YyVFI0by1BSGZBUEZVbnQyLXo1WHc2N2VjRmY0Si1Md1U2dllka2hNWjdwbDI5NF8wbERpR3oyTGt3OWZoWk5vMmE2LTdDUDFwOENXZFRZcTQ1bkdx0gHQAUFVX3lxTE5ud244SUs3NzRCQkFvMFNkRVNKUl9nSDhUbjJzMEtNWm1ZQlNwa0xfQm1MWGdGN1RLajg4c29ZNWt5YXVyLU13REZqbEVuZU9ka09XY1JlMlJyZDBLc0hGREdLbXpfcDdwcUxjTkxMZW1FTk1WYTN5dEY3RjJUUjRvLUFIZkFQRlVudDItejVYdzY3ZWNGZjRKLUx3VTZ2WWRraE1aN3BsMjk0XzBsRGlHejJMa3c5ZmhaTm8yYTYtN0NQMXA4Q1dkVFlxNDVuR3E?oc=5"
         },
         {
+          "headline": "Yen stronger as traders cut back bets on Fed rate hike",
+          "source": "95 KQDS",
+          "snippet": "Yen stronger as traders cut back bets on Fed rate hike &nbsp;&nbsp; 95 KQDS",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUV1S3dfaGJ3dnBqNDVZSjBxUjhuSjlRcEtkUDdDMlJQSVRSRkdCNnlUc0lpZHFHanhkZ2s1UFlubHU0VzBFN0hVR09HT05mVDVyb0N0QjZMbmZOdFBjalNjZFdKLVliSVJhQlczWnlvQnlYNklQQVAybHRlT3cwd0tHWHJ3LTcwNXg4?oc=5"
+        },
+        {
           "headline": "Yen edges up as traders push back Fed rate hike bets",
           "source": "Reuters",
           "snippet": "Yen edges up as traders push back Fed rate hike bets &nbsp;&nbsp; Reuters",
@@ -1524,6 +2300,10 @@
         {
           "name": "The Economic Times",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObnduOElLNzc0QkJBbzBTZEVTSlJfZ0g4VG4yczBLTVptWUJTcGtMX0JtTFhnRjdUS2o4OHNvWTVreWF1ci1Nd0RGamxFbmVPZGtPV2NSZTJScmQwS3NIRkRHS216X3A3cHFMY05MTGVtRU5NVmEzeXRGN0YyVFI0by1BSGZBUEZVbnQyLXo1WHc2N2VjRmY0Si1Md1U2dllka2hNWjdwbDI5NF8wbERpR3oyTGt3OWZoWk5vMmE2LTdDUDFwOENXZFRZcTQ1bkdx0gHQAUFVX3lxTE5ud244SUs3NzRCQkFvMFNkRVNKUl9nSDhUbjJzMEtNWm1ZQlNwa0xfQm1MWGdGN1RLajg4c29ZNWt5YXVyLU13REZqbEVuZU9ka09XY1JlMlJyZDBLc0hGREdLbXpfcDdwcUxjTkxMZW1FTk1WYTN5dEY3RjJUUjRvLUFIZkFQRlVudDItejVYdzY3ZWNGZjRKLUx3VTZ2WWRraE1aN3BsMjk0XzBsRGlHejJMa3c5ZmhaTm8yYTYtN0NQMXA4Q1dkVFlxNDVuR3E?oc=5"
+        },
+        {
+          "name": "95 KQDS",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUV1S3dfaGJ3dnBqNDVZSjBxUjhuSjlRcEtkUDdDMlJQSVRSRkdCNnlUc0lpZHFHanhkZ2s1UFlubHU0VzBFN0hVR09HT05mVDVyb0N0QjZMbmZOdFBjalNjZFdKLVliSVJhQlczWnlvQnlYNklQQVAybHRlT3cwd0tHWHJ3LTcwNXg4?oc=5"
         },
         {
           "name": "Reuters",
@@ -1632,6 +2412,26 @@
       ]
     },
     {
+      "stable_id": "2026-08-17-2624ee1a0ed6",
+      "original_title": "Shares steady, dollar slips as markets pare Fed rate risks",
+      "published_at": "2026-08-17T01:17:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Shares steady, dollar slips as markets pare Fed rate risks",
+          "source": "Reuters",
+          "snippet": "Shares steady, dollar slips as markets pare Fed rate risks &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-17-f3f1f0e6f39a",
       "original_title": "Yen edges up as traders push back Fed rate hike bets - KELO-AM",
       "published_at": "2026-08-17T01:06:46Z",
@@ -1681,6 +2481,26 @@
           "headline": "Dollar falls to lowest since early June as rate hike bets fade",
           "source": "Reuters",
           "snippet": "Dollar falls to lowest since early June as rate hike bets fade &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-17-46996b103dcd",
+      "original_title": "Dollar slips to lowest since early June as rate hike bets fade",
+      "published_at": "2026-08-17T00:41:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Dollar slips to lowest since early June as rate hike bets fade",
+          "source": "Reuters",
+          "snippet": "Dollar slips to lowest since early June as rate hike bets fade &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5"
         }
       ],
@@ -1778,816 +2598,6 @@
         {
           "name": "UnionLeader.com",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXNWdjY4VlFyQjZPWGg0V3BaTkt2TUd0R3NVRVpiUGFkcU92eFp0YzM4emtkdnpCMmhicy1JMkdlLUtUYnpOUzRqQnlaR05la0VVVmxoWk8yRTM4UTF4SDVPc3VaemxScnkzNDlWdmlIWXhEZFo2azR0b0pkMUVOZklNWklWWTZMdi1EbEpZM0M2cThfMUVfeVBSNXRaTV9uSndQTDVBT0hzZUxiOWg2SEw2cUs3NGo2Q0Q2QnE3MWVQTjFHUzc1dXB2SmdtcjcwZ2ZHakh5QUxIeVM0bzJaSjFoNmVLVXQ5aWkwcDU5aVA?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-c859866aa8c5",
-      "original_title": "FinancialJuice: Dollar/yen little changed after Japanese GDP data, down 0.08% at 159.21 yen",
-      "published_at": "2026-08-16T23:54:44Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Dollar/yen little changed after Japanese GDP data, down 0.08% at 159.21 yen",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9723362/Dollaryen-little-changed-after-Japanese-GDP-data-down-008-at-15921-yen.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9723362/Dollaryen-little-changed-after-Japanese-GDP-data-down-008-at-15921-yen.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-bcd039860304",
-      "original_title": "FinancialJuice: Strait of Hormuz vessel transits slow over weekend after tanker assaults, no progress in U.S.-Iran peace talks, data shows",
-      "published_at": "2026-08-16T23:18:39Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Strait of Hormuz vessel transits slow over weekend after tanker assaults, no progress in U.S.-Iran peace talks, data shows",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9723330/Strait-of-Hormuz-vessel-transits-slow-over-weekend-after-tanker-assaults-no-progress-in-US-Iran-peace-talks-data-shows.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9723330/Strait-of-Hormuz-vessel-transits-slow-over-weekend-after-tanker-assaults-no-progress-in-US-Iran-peace-talks-data-shows.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-47c8b74deed3",
-      "original_title": "FinancialJuice: New Zealand food price inflation index rises 0.1% in July on previous month",
-      "published_at": "2026-08-16T22:45:04Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: New Zealand food price inflation index rises 0.1% in July on previous month",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9723320/New-Zealand-food-price-inflation-index-rises-01-in-July-on-previous-month---Stats-NZ.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9723320/New-Zealand-food-price-inflation-index-rises-01-in-July-on-previous-month---Stats-NZ.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-d2cca927f195",
-      "original_title": "Israel strikes Lebanon as US preps fresh Iran sanctions package",
-      "published_at": "2026-08-16T22:42:32Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Israel strikes Lebanon as US preps fresh Iran sanctions package",
-          "source": "UnionLeader.com",
-          "snippet": "Israel strikes Lebanon as US preps fresh Iran sanctions package &nbsp;&nbsp; UnionLeader.com",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXNWdjY4VlFyQjZPWGg0V3BaTkt2TUd0R3NVRVpiUGFkcU92eFp0YzM4emtkdnpCMmhicy1JMkdlLUtUYnpOUzRqQnlaR05la0VVVmxoWk8yRTM4UTF4SDVPc3VaemxScnkzNDlWdmlIWXhEZFo2azR0b0pkMUVOZklNWklWWTZMdi1EbEpZM0M2cThfMUVfeVBSNXRaTV9uSndQTDVBT0hzZUxiOWg2SEw2cUs3NGo2Q0Q2QnE3MWVQTjFHUzc1dXB2SmdtcjcwZ2ZHakh5QUxIeVM0bzJaSjFoNmVLVXQ5aWkwcDU5aVA?oc=5"
-        },
-        {
-          "headline": "Israel Strikes Lebanon as US Prepares Fresh Iran Sanctions",
-          "source": "Bloomberg.com",
-          "snippet": "Israel Strikes Lebanon as US Prepares Fresh Iran Sanctions &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlQ2TTRnS1c5aHBnVlgxWUNmSWJVMXpDNFpzNEROTWNXVDFib29UdkZRTE05aHFCdTFrZHJoaHY4WUFramp4VFVodk9ZOEdyN0dpd001ZGk0ZWdGUnkwXy1OQVZ3NmtXQk13N2RoWWFaZm5XRTd1T0o3aERlYk5JUUZQN3Y5azR5bS01RUtNVzhGejUzN1NtSUFVbEdSUEhnaW1jcThCTWlHQkk?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "UnionLeader.com",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXNWdjY4VlFyQjZPWGg0V3BaTkt2TUd0R3NVRVpiUGFkcU92eFp0YzM4emtkdnpCMmhicy1JMkdlLUtUYnpOUzRqQnlaR05la0VVVmxoWk8yRTM4UTF4SDVPc3VaemxScnkzNDlWdmlIWXhEZFo2azR0b0pkMUVOZklNWklWWTZMdi1EbEpZM0M2cThfMUVfeVBSNXRaTV9uSndQTDVBT0hzZUxiOWg2SEw2cUs3NGo2Q0Q2QnE3MWVQTjFHUzc1dXB2SmdtcjcwZ2ZHakh5QUxIeVM0bzJaSjFoNmVLVXQ5aWkwcDU5aVA?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlQ2TTRnS1c5aHBnVlgxWUNmSWJVMXpDNFpzNEROTWNXVDFib29UdkZRTE05aHFCdTFrZHJoaHY4WUFramp4VFVodk9ZOEdyN0dpd001ZGk0ZWdGUnkwXy1OQVZ3NmtXQk13N2RoWWFaZm5XRTd1T0o3aERlYk5JUUZQN3Y5azR5bS01RUtNVzhGejUzN1NtSUFVbEdSUEhnaW1jcThCTWlHQkk?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-217f8bad6431",
-      "original_title": "SEC Abruptly Cancels Crypto Rulemaking Meeting Amid Clarity Act Negotiation Concerns",
-      "published_at": "2026-08-16T22:35:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "SEC Abruptly Cancels Crypto Rulemaking Meeting Amid Clarity Act Negotiation Concerns",
-          "source": "finance.biggo.com",
-          "snippet": "SEC Abruptly Cancels Crypto Rulemaking Meeting Amid Clarity Act Negotiation Concerns &nbsp;&nbsp; finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WVTU2b2tyckJ1MTRLUFR2R3dXMUpia21pM01uQko0MXRKdk1jXzlPWlBmU1k1UHJ2YkxyUzRqOXRlYm14TC05WlFvdGs3eDdRMVF5MTJjUmZ4aG9nclY3d0JGanQycGswLTJicWRKOEwwbVI3cVE?oc=5"
-        },
-        {
-          "headline": "SEC Abruptly Cancels Public Crypto Rulemaking Meeting Amid Clarity Act Talks",
-          "source": "bloomingbit",
-          "snippet": "SEC Abruptly Cancels Public Crypto Rulemaking Meeting Amid Clarity Act Talks &nbsp;&nbsp; bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rQnNZNVRUWG1CdXpzUjItMWp3QjhjUTZCUTh5OTVnQjJmWnpwOEdKaHFHN1EwU0RJalhKMnA3ckxXWTJENU5sWERneUNwX2ZFUllibQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WVTU2b2tyckJ1MTRLUFR2R3dXMUpia21pM01uQko0MXRKdk1jXzlPWlBmU1k1UHJ2YkxyUzRqOXRlYm14TC05WlFvdGs3eDdRMVF5MTJjUmZ4aG9nclY3d0JGanQycGswLTJicWRKOEwwbVI3cVE?oc=5"
-        },
-        {
-          "name": "bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rQnNZNVRUWG1CdXpzUjItMWp3QjhjUTZCUTh5OTVnQjJmWnpwOEdKaHFHN1EwU0RJalhKMnA3ckxXWTJENU5sWERneUNwX2ZFUllibQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-02d01c6a234f",
-      "original_title": "Bloomberg strategist warns bitcoin could fall to $10,000",
-      "published_at": "2026-08-16T22:19:42Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bloomberg strategist warns bitcoin could fall to $10,000",
-          "source": "디지털투데이",
-          "snippet": "Bloomberg strategist warns bitcoin could fall to $10,000 &nbsp;&nbsp; 디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGcwVjg4ZjRkdnlDd0g5aEVROXJPdDJvd3hqLWt4X2NyNUtHbXNZQzdUZkt1TG43VmdoOXAyTWh3Q3BnZm5FY0lHYWkyUG5DSjVYUER2WU56WHdFZGd1d3RSWlM2NmJDZUs5OTBQRlFTU2dNWjRiUTBhdTM5SG85YTNTMVlYRFpGbjh4RWxVRzczbFNRLTVFazdXOUo1SVp4?oc=5"
-        },
-        {
-          "headline": "Bloomberg warns Bitcoin could drop to $10,000 a...",
-          "source": "Pluang",
-          "snippet": "Bloomberg warns Bitcoin could drop to $10,000 a... &nbsp;&nbsp; Pluang",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiVFQySkVkeEt2Vnk5TEVoaS1lc0ttaXJudWpQM1cxZXpyY2R3R0piWVNBSjJxenlUZkVDUHZvX0NIZVZMd3BBQ2lFMDVTaUJzaEgxaGlJR0oyU0NzOXoyMlJXMEFUbDhSa2IyMXA5OU0wLWM4Yldici1va2NYZFk?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGcwVjg4ZjRkdnlDd0g5aEVROXJPdDJvd3hqLWt4X2NyNUtHbXNZQzdUZkt1TG43VmdoOXAyTWh3Q3BnZm5FY0lHYWkyUG5DSjVYUER2WU56WHdFZGd1d3RSWlM2NmJDZUs5OTBQRlFTU2dNWjRiUTBhdTM5SG85YTNTMVlYRFpGbjh4RWxVRzczbFNRLTVFazdXOUo1SVp4?oc=5"
-        },
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiVFQySkVkeEt2Vnk5TEVoaS1lc0ttaXJudWpQM1cxZXpyY2R3R0piWVNBSjJxenlUZkVDUHZvX0NIZVZMd3BBQ2lFMDVTaUJzaEgxaGlJR0oyU0NzOXoyMlJXMEFUbDhSa2IyMXA5OU0wLWM4Yldici1va2NYZFk?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-d7c8ef77df37",
-      "original_title": "트럼프, 한미연합훈련 ‘대폭 축소’ 지시…안보·동맹·남북관계 전방위 파장 예고 [공부의여신 네트워크] 도널드 트럼프 미국 대통령이 16일(현지시간) 트루스 소셜을 통해 한미 연합군사훈련 규모를 대폭 축소하라고 지시했다. 김정은 북한 국무위원장과의 “매우 좋은 관계”, 훈련 비용 부담, 그리고 한국이 이란 비핵화 참여를 거절했다는 점을 이유로 들었다. 을지 자유의 방패(UFS) 훈련이 17일부",
-      "published_at": "2026-08-16T22:18:08Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "트럼프, 한미연합훈련 ‘대폭 축소’ 지시…안보·동맹·남북관계 전방위 파장 예고 [공부의여신 네트워크] 도널드 트럼프 미국 대통령이 16일(현지시간) 트루스 소셜을 통해 한미 연합군사훈련 규모를 대폭 축소하라고 지시했다. 김정은 북한 국무위원장과의 “매우 좋은 관계”, 훈련 비용 부담, 그리고 한국이 이란 비핵화 참여를 거절했다는 점을 이유로 들었다. 을지 자유의 방패(UFS) 훈련이 17일부",
-          "source": "Telegram @goddessTTF",
-          "snippet": "트럼프, 한미연합훈련 ‘대폭 축소’ 지시…안보·동맹·남북관계 전방위 파장 예고 [공부의여신 네트워크] 도널드 트럼프 미국 대통령이 16일(현지시간) 트루스 소셜을 통해 한미 연합군사훈련 규모를 대폭 축소하라고 지시했다. 김정은 북한 국무위원장과의 “매우 좋은 관계”, 훈련 비용 부담, 그리고 한국이 이란 비핵화 참여를 거절했다는 점을 이유로 들었다. 을지 자유의 방패(UFS) 훈련이 17일부터 시작되는 상황에서 나온 결정 결정이 한국에 어떤 영향을 미칠지 주목된다. 트럼프 대통령은 “북한은 내가 대통령인 동안 위협적이지 않았고 존중해왔다”며 “훈련이 부적절하고 적대적인 신호를 보낸다”고 밝혔다. 이어 “이미 취소를 하기에는 너무 늦었기 때문에 피트 헤그세스 전쟁부 장관에게 훈련을 실질적으로 축소하라고 지시했다”고 밝혔다. 동시에 한국 대통령에게 이란 비핵화 동참을 제안했으나 “노 땡스(No thanks)”라는 답을 들었다고 언급해 동맹 간 이견을 공개적으로 드러냈다. 안보 대비태세 약화 우려 이번 축소 지시는 한미 연합작전체계의 실전성 검증 기회를 줄일 가능성이 크다. UFS는 전시작전통제권(전작권) 전환을 위한 조건 충족 여부를 점검하는 핵심 계기로 활용돼 왔다. 이미 이재명 정부 들어 야외기동훈련 횟수가 이전보다 줄어든 상태에서 미국 측 참여 규모까지 추가 축소되면 병력·장비 기동과 다영역 연계 훈련의 질이 떨어질 수 있다는 지적이 나온다. 북한은 최근 미사일 발사를 이어가며 전력을 고도화하고 있다. 이런 상황에서 억지력 공백 우려가 커질 수 있다. 반면 일부에서는 시뮬레이션 중심 훈련으로도 충분하며, 북한을 자극하지 않는 것이 오히려 안정에 기여할 수 있다는 반론도 제기된다. 한미동맹 신뢰 시험대 트럼프 대통령의 발표는 동맹을 ‘거래’ 관점에서 바라보는 미국 우선주의를 다시 확인시켰다. “비용은 미국이 대부분 부담한다”는 표현은 방위비 분담금 협상 재점화 신호로 해석된다. 이란 문제를 이유로 든 것은 한국이 중동 정책에서 미국과 보조를 맞추지 않으면 한반도 안보에서도 대가를 치를 수 있다는 메시지를 담고 있다. 전문가들은 미국이 ‘한반도에서 한국이 1차 책임을 지고, 미국은 제한적 지원’이라는 국방전략 기조를 가속화할 가능성이 있다고 본다. 이는 전작권 전환을 앞당기는 압력으로 작용할 수 있지만, 동시에 한국이 독자적으로 감당해야 할 군사 부담이 커진다는 의미이기도 하다. 남북관계와 국내 정치 북한은 한미연합훈련을 오랫동안 ‘침략 연습’으로 규정해왔다. 이번 축소는 북한에 대화 재개의 긍정적 신호로 비칠 수 있다. 그러나 과거 사례를 보면 훈련 축소 후에도 북한이 도발을 중단한 적은 거의 없었다. 오히려 추가 양보를 요구하는 계기가 될 위험이 있다. 국내적으로는 이재명 정부의 대북 정책 기조와 어느 정도 맞닿아 있어 여당 측에서는 평화 분위기 조성에 도움이 된다는 평가가 나올 수 있다. 반면 야당과 보수 진영에서는 “안보 포기” “동맹 균열” 프레임으로 강하게 비판할 가능성이 크다. 이란 문제까지 거론된 점은 주권 논란으로 번질 여지도 있다. 외교·경제적 파급 외교적으로는 일본·호주 등 인도·태평양 파트너들에게 미국이 동맹을 선별적으로 관리한다는 인상을 줄 수 있다. 중국은 이를 환영하며 한국에 대한 압박을 강화할 가능성이 있다. 경제적으로는 단기 비용 절감 효과가 있을 수 있으나, 안보 불확실성 증가는 외국인 투자 심리와 시장에 부정적 영향을 줄 수 있다. 장기적으로는 한국이 핵추진잠수함 도입과 자체 억지력 강화 논의를 가속화하는 동력으로 작용할 전망이다. 이미 국방비 증액과 자주국방 역량 강화를 추진 중인 상황에서 이번 사건이 그 속도를 더 높일 수 있다",
-          "url": "https://t.me/goddessTTF/82414"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82414"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-baee9e408505",
-      "original_title": "트럼프: 베네수엘라... 우리는 그 전쟁을 실제로 48분 만에, 하루 만에 승리했습니다. 수십억 달러, 심지어 수백억 달러 상당의 석유를 확보하고 있습니다. 이란에 대해서도 큰 변화를 가져올 것입니다... 통화 가치는 없고, 군사력은 약화되었으며, 해군은 완전히 파괴되었고, 비행기도 없습니다.",
-      "published_at": "2026-08-16T22:06:18Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "트럼프: 베네수엘라... 우리는 그 전쟁을 실제로 48분 만에, 하루 만에 승리했습니다. 수십억 달러, 심지어 수백억 달러 상당의 석유를 확보하고 있습니다. 이란에 대해서도 큰 변화를 가져올 것입니다... 통화 가치는 없고, 군사력은 약화되었으며, 해군은 완전히 파괴되었고, 비행기도 없습니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "트럼프: 베네수엘라... 우리는 그 전쟁을 실제로 48분 만에, 하루 만에 승리했습니다. 수십억 달러, 심지어 수백억 달러 상당의 석유를 확보하고 있습니다. 이란에 대해서도 큰 변화를 가져올 것입니다... 통화 가치는 없고, 군사력은 약화되었으며, 해군은 완전히 파괴되었고, 비행기도 없습니다.",
-          "url": "https://t.me/goddessTTF/82412"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82412"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-98b26d5454c7",
-      "original_title": "사우디아라비아, 튀르키예, 파키스탄이 최근, 그리고 마침내 ‘메카 공동 방위 협정’에 서명한 것을 보게 되어 매우 기쁩니다. 이는 중동이 어떻게 하나로 뭉치고 있는지, 그리고 각 국가들이 마침내 어떻게 더 의미 있는 방식으로 스스로를 방어할 수 있게 될 것인지를 보여줍니다. 언급된 세 국가의 위대한 지도부에 축하를 보냅니다. 이것은 크고, 대담하며, 중요한 첫걸음입니다 — 와우! 도널드 J.",
-      "published_at": "2026-08-16T22:05:00Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "사우디아라비아, 튀르키예, 파키스탄이 최근, 그리고 마침내 ‘메카 공동 방위 협정’에 서명한 것을 보게 되어 매우 기쁩니다. 이는 중동이 어떻게 하나로 뭉치고 있는지, 그리고 각 국가들이 마침내 어떻게 더 의미 있는 방식으로 스스로를 방어할 수 있게 될 것인지를 보여줍니다. 언급된 세 국가의 위대한 지도부에 축하를 보냅니다. 이것은 크고, 대담하며, 중요한 첫걸음입니다 — 와우! 도널드 J.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "사우디아라비아, 튀르키예, 파키스탄이 최근, 그리고 마침내 ‘메카 공동 방위 협정’에 서명한 것을 보게 되어 매우 기쁩니다. 이는 중동이 어떻게 하나로 뭉치고 있는지, 그리고 각 국가들이 마침내 어떻게 더 의미 있는 방식으로 스스로를 방어할 수 있게 될 것인지를 보여줍니다. 언급된 세 국가의 위대한 지도부에 축하를 보냅니다. 이것은 크고, 대담하며, 중요한 첫걸음입니다 — 와우! 도널드 J. 트럼프 대통령",
-          "url": "https://t.me/goddessTTF/82411"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82411"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-65d2e085dd05",
-      "original_title": "섀넌 브림이 진행하는 폭스 뉴스를 보는 것은 언제나 최악의 가짜 뉴스 CNN을 보는 것과 같습니다. 저는 섀넌을 잘 모르지만, 그녀는 언제나 부정적인 게스트, 도표, 그리고 “여론조사”만을 고르는 것처럼 보이며, 완전한 국경 통제, 역사상 가장 성공적인 주식 시장(1년 반 만에 81번의 사상 최고치 기록!), 역사상 최대 규모의 대미 투자(19조 2천억 달러!)로 종전 기록을 몇 배나 갈아치",
-      "published_at": "2026-08-16T22:03:44Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "섀넌 브림이 진행하는 폭스 뉴스를 보는 것은 언제나 최악의 가짜 뉴스 CNN을 보는 것과 같습니다. 저는 섀넌을 잘 모르지만, 그녀는 언제나 부정적인 게스트, 도표, 그리고 “여론조사”만을 고르는 것처럼 보이며, 완전한 국경 통제, 역사상 가장 성공적인 주식 시장(1년 반 만에 81번의 사상 최고치 기록!), 역사상 최대 규모의 대미 투자(19조 2천억 달러!)로 종전 기록을 몇 배나 갈아치",
-          "source": "Telegram @goddessTTF",
-          "snippet": "섀넌 브림이 진행하는 폭스 뉴스를 보는 것은 언제나 최악의 가짜 뉴스 CNN을 보는 것과 같습니다. 저는 섀넌을 잘 모르지만, 그녀는 언제나 부정적인 게스트, 도표, 그리고 “여론조사”만을 고르는 것처럼 보이며, 완전한 국경 통제, 역사상 가장 성공적인 주식 시장(1년 반 만에 81번의 사상 최고치 기록!), 역사상 최대 규모의 대미 투자(19조 2천억 달러!)로 종전 기록을 몇 배나 갈아치운 것, 베네수엘라에 대한 위대한 군사적 승리와 이란의 실질적인 비핵화 — 나머지도 뒤따를 것입니다! —, 기록상 역사상 최저 범죄율, 1900년 이후 125년 만의 최저 살인율, 미국 역사상 최고치의 취업자 수, 미국이 기억할 수 있는 그 어느 때보다 전 세계적으로 더 큰 ‘존중’을 받고 있다는 사실, 의료비의 엄청난 절감으로 이어질 역사상 유례없는 500% 이상의 최대 약값 인하 폭, 우주군 창설을 포함하여 미국 역사상 가장 강한 군대로 만든 첫 임기 동안의 군 재건, 그리고 그 외 셀 수 없이 많은 트럼프 행정부의 놀라운 업적들에 대해서는 결코 이야기하지 않습니다! 그럼에도 불구하고 매주 저는 섀넌이 적대적인 게스트들을 “인터뷰”하고, PBS에서 개처럼 해고당하고 그보다 훨씬 더 멍청한 제시카 타를로프를 대신 앉히느라 ‘더 파이브(The Five)’에서 쫓겨났던 후안 윌리엄스 같은 패배자들을 출연시키는 것을 봅니다. 그는 제가 폭스 본사로 걸어 들어오는 것을 보았을 때 “함께 사진 한 장 찍을 수 있을까요? 정말 큰 영광일 것입니다!”라며 미친 듯이 사진을 찍어달라고 애원했습니다. 어쨌든 섀넌의 “쇼”는 구제 불능입니다. 다행히도 공화당의 100%에 가까운 마가는 이를 이해하고 있으며, 그녀의 “시청률”이 떨어지기 시작하는 것을 지켜보십시오. 크리스 월리스도 형편없었지만 섀넌은 그보다 훨씬 더 나쁩니다! 뭐 괜찮습니다, 어차피 그리 큰 영향은 없었을 테니까요. 저는 (이미 백악관에 입성했고) 우리 나라를 위한 더 많은 ‘승리’와 ‘성공’을 이끌어내기 위해 집무실(Oval Office)로 당당히 돌아갑니다! 도널드 J. 트럼프 대통령",
-          "url": "https://t.me/goddessTTF/82410"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82410"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-8ca24a0a50e6",
-      "original_title": "트럼프 \"한미 연합훈련 대폭 축소 지시\"…한국의 '이란 비핵화 거절' 불만도 노출 [공부의여신 네트워크] 도널드 J. 트럼프 미국 대통령이 한미 연합 군사 훈련을 대폭 축소하라고 국방부에 공식 지시했다. 아울러 한국 정부가 미국의 이란 비핵화 동참 요구를 거절한 사실을 공개적으로 밝히며 강한 불만을 드러냈다. 트럼프 대통령은 16일(현지시간) 자체 소셜미디어 트루스 소셜을 통해 북한 김정은과",
-      "published_at": "2026-08-16T21:57:33Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "트럼프 \"한미 연합훈련 대폭 축소 지시\"…한국의 '이란 비핵화 거절' 불만도 노출 [공부의여신 네트워크] 도널드 J. 트럼프 미국 대통령이 한미 연합 군사 훈련을 대폭 축소하라고 국방부에 공식 지시했다. 아울러 한국 정부가 미국의 이란 비핵화 동참 요구를 거절한 사실을 공개적으로 밝히며 강한 불만을 드러냈다. 트럼프 대통령은 16일(현지시간) 자체 소셜미디어 트루스 소셜을 통해 북한 김정은과",
-          "source": "Telegram @goddessTTF",
-          "snippet": "트럼프 \"한미 연합훈련 대폭 축소 지시\"…한국의 '이란 비핵화 거절' 불만도 노출 [공부의여신 네트워크] 도널드 J. 트럼프 미국 대통령이 한미 연합 군사 훈련을 대폭 축소하라고 국방부에 공식 지시했다. 아울러 한국 정부가 미국의 이란 비핵화 동참 요구를 거절한 사실을 공개적으로 밝히며 강한 불만을 드러냈다. 트럼프 대통령은 16일(현지시간) 자체 소셜미디어 트루스 소셜을 통해 북한 김정은과의 긴밀한 유대 관계를 강조하며, 과거 미국이 한국과의 합동 군사 훈련에 합의한 것에 대해 공개적으로 회의감을 표명했다. 핵심 내용 정리 - 훈련 축소 지시 : 트럼프 대통령은 훈련을 완전히 취소하기에는 일정이 임박했다며, 피트 헥세스 국방장관에게 한미 연합훈련을 '대폭 축소(substantially reduce)'할 것을 지시했다고 밝혔다. - 비용 부담 및 대북 메시지 비판 : 해당 훈련이 과도한 비용을 수반하며 미국이 대부분의 비용을 부담해 왔다고 지적했다. 이어 자신의 재임 기간 동안 미국에 존중을 표해 온 북한을 상대로 부적절하고 적대적인 신호를 보내는 것이라고 비판했다. - 이란 비핵화 동참 거절 공개 : 트럼프 대통령은 최근 대한민국 대통령에게 이란 비핵화 작전 동참을 요청했으나 \"괜찮다(No thanks)\"며 거절당한 사실을 공개했다. 이번 발표는 한미 동맹의 핵심 축인 연합 방위 태세에 직접적인 영향을 미칠 뿐만 아니라, 방위비 분담 및 글로벌 안보 협력 전반에 걸쳐 한미 간 상당한 외교·안보적 파장을 불러일으킬 것으로 보인다.",
-          "url": "https://t.me/goddessTTF/82409"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82409"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-ba1df582c051",
-      "original_title": "북한 김정은과의 매우 좋은 관계를 바탕으로 볼 때, 미국이 오래전에 한국과의 합동 군사 훈련에 참여하기로 합의했다는 사실이 마음에 들지 않습니다. 이 훈련들은 비용이 많이 들고 (늘 그렇듯이!) 그 비용의 상당 부분을 미합중국이 지불하고 있을 뿐만 아니라, 도널드 J. 트럼프가 대통령으로 재임하는 동안 전혀 위협적이지 않았고 존중을 표해 온 한 국가에 완전히 부적절하고 적대적인 신호를 보냅니",
-      "published_at": "2026-08-16T21:54:09Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "북한 김정은과의 매우 좋은 관계를 바탕으로 볼 때, 미국이 오래전에 한국과의 합동 군사 훈련에 참여하기로 합의했다는 사실이 마음에 들지 않습니다. 이 훈련들은 비용이 많이 들고 (늘 그렇듯이!) 그 비용의 상당 부분을 미합중국이 지불하고 있을 뿐만 아니라, 도널드 J. 트럼프가 대통령으로 재임하는 동안 전혀 위협적이지 않았고 존중을 표해 온 한 국가에 완전히 부적절하고 적대적인 신호를 보냅니",
-          "source": "Telegram @goddessTTF",
-          "snippet": "북한 김정은과의 매우 좋은 관계를 바탕으로 볼 때, 미국이 오래전에 한국과의 합동 군사 훈련에 참여하기로 합의했다는 사실이 마음에 들지 않습니다. 이 훈련들은 비용이 많이 들고 (늘 그렇듯이!) 그 비용의 상당 부분을 미합중국이 지불하고 있을 뿐만 아니라, 도널드 J. 트럼프가 대통령으로 재임하는 동안 전혀 위협적이지 않았고 존중을 표해 온 한 국가에 완전히 부적절하고 적대적인 신호를 보냅니다. 따라서 취소하기에는 너무 늦었다는 점을 감안하여, 저는 피트 헥세스 국방장관에게 합동 군사 훈련을 대폭 축소하라고 지시했습니다! 다소 무관할 수도 있지만(?), 최근 저는 대한민국 대통령에게 이슬람 공화국 이란의 비핵화에 동참할 의향이 있는지 물었으나, 그들은 “괜찮습니다(사양하겠습니다)!”라고 답했습니다. 이 사안에 관심을 가져주셔서 감사합니다. 도널드 J. 트럼프 대통령",
-          "url": "https://t.me/goddessTTF/82408"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82408"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-0987c354b054",
-      "original_title": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
-      "published_at": "2026-08-16T21:54:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information",
-          "source": "The Business Times",
-          "snippet": "Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users' order information &nbsp;&nbsp; The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTUdPaWxHb1V4VTNnZ0sxMVdCT1RKZXpIVWg1Y09HSldEaEU5SzlCSHNUUWdTaFgtcHhRLS13YUxQR3AzMDQzeEJmaGhMVFdhbFlLVjk5RFJXN3VJRXE5cWRkUHJWdm5tSFNKZTV6ZTNJQld0VGRZY1hLRmpMZkdTaFl3Uy1SSkNPTU1DSkNGMHNObllEUnJNeDcwSlpsVzB1QUNObTBzMWczeVllMldHRWtTUzB2dW4zbHEzMnJPdEJRcl82MFZzSlRYamVmcUlMYnZXQ0pBTk1BYWZHaTBycnJhbER5YVJaLXBFcTRFRVdnMlN0YlVLU2tn?oc=5"
-        },
-        {
-          "headline": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTUdPaWxHb1V4VTNnZ0sxMVdCT1RKZXpIVWg1Y09HSldEaEU5SzlCSHNUUWdTaFgtcHhRLS13YUxQR3AzMDQzeEJmaGhMVFdhbFlLVjk5RFJXN3VJRXE5cWRkUHJWdm5tSFNKZTV6ZTNJQld0VGRZY1hLRmpMZkdTaFl3Uy1SSkNPTU1DSkNGMHNObllEUnJNeDcwSlpsVzB1QUNObTBzMWczeVllMldHRWtTUzB2dW4zbHEzMnJPdEJRcl82MFZzSlRYamVmcUlMYnZXQ0pBTk1BYWZHaTBycnJhbER5YVJaLXBFcTRFRVdnMlN0YlVLU2tn?oc=5"
-        },
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-694224129846",
-      "original_title": "Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026?",
-      "published_at": "2026-08-16T21:45:47Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026?",
-          "source": "24/7 Wall St.",
-          "snippet": "Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026? &nbsp;&nbsp; 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUhvYnNRanY4RVNQZmxfaGJNMHVBQUs2TlA4X1N4M1R2M2pFOTVTUjRCQzh0MnN3ZVBrRjk2a2E2bFNDZTNyUEcxMjBQZXk1U09ra09Bell1NVhYSmpUTHl2dXd3cVRCdHdOWkpPZW9SeDB1WUtNM2xoVnoxbjg3dU5IaGNISGkwcURmWEVWSEs2cGhPYWJ2UUo0d0NLR0x0RjNNRUtjb2VVTF81dEpFZHczM2piTmxGVjgw?oc=5"
-        },
-        {
-          "headline": "Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026?",
-          "source": "Yahoo Finance",
-          "snippet": "Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026? &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnIzcTJnTnkwdlBSV2VVTDdzNko4YzdDWkJGdzVtckxkTVoxSlZDcTd1cURRQ1AwSkd2MlZ6VkR1cVlTYldGS3NhZFRjNXJIRXFsY1loMWNQc1U3dTN3MHVfdWNwazAxQ1pJMGdhcmlwcnEyUVNLTHNoaUtVVUhTNGd6WWVoTVZPVGhJRXhzZGJybHpkc09OSFk5Ylo2UQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUhvYnNRanY4RVNQZmxfaGJNMHVBQUs2TlA4X1N4M1R2M2pFOTVTUjRCQzh0MnN3ZVBrRjk2a2E2bFNDZTNyUEcxMjBQZXk1U09ra09Bell1NVhYSmpUTHl2dXd3cVRCdHdOWkpPZW9SeDB1WUtNM2xoVnoxbjg3dU5IaGNISGkwcURmWEVWSEs2cGhPYWJ2UUo0d0NLR0x0RjNNRUtjb2VVTF81dEpFZHczM2piTmxGVjgw?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnIzcTJnTnkwdlBSV2VVTDdzNko4YzdDWkJGdzVtckxkTVoxSlZDcTd1cURRQ1AwSkd2MlZ6VkR1cVlTYldGS3NhZFRjNXJIRXFsY1loMWNQc1U3dTN3MHVfdWNwazAxQ1pJMGdhcmlwcnEyUVNLTHNoaUtVVUhTNGd6WWVoTVZPVGhJRXhzZGJybHpkc09OSFk5Ylo2UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-e2608993db8b",
-      "original_title": "Israel Strikes Lebanon With US-Iran Ceasefire Due to Lapse",
-      "published_at": "2026-08-16T21:30:39Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Israel Strikes Lebanon With US-Iran Ceasefire Due to Lapse",
-          "source": "Bloomberg.com",
-          "snippet": "Israel Strikes Lebanon With US-Iran Ceasefire Due to Lapse &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVNUazhGWkNMSDlmWmFILUp3TFBPX2c2Ym5CeUJZQS1LSjN3MmY0bGx5R1BEV3JhYjN3NHprX1Bhd1dqZWlfOHo3WWEwVmRTUF92VGVlc0U1REJIaVE2MHlJT0RtWWs2UmFMVDBHelh1djNWUU9FQi1OQjM1Vy1QWXVhaU9zb0otcDFzWGs4SmlMa3JSUUJPTDBGQTZhNEhiMmRDOC16MnBoUE5yblBQRlZn?oc=5"
-        },
-        {
-          "headline": "Israel strikes Lebanon as end of US-Iran ceasefire looms",
-          "source": "The Straits Times",
-          "snippet": "Israel strikes Lebanon as end of US-Iran ceasefire looms &nbsp;&nbsp; The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX29PTTNqcmJZLUNPQ0xfQ1ZoWENxMVhZdjR0UkszVkJWYll6ZXliRXdlOHE3MGo0b2JEQk9CX0tlMTgwYVVGV3lGRndkaEtLUmx3aUEtQ1hXQU1ydml6SUIyVXhtTUMtWXBMQk9wRlgtUmJHMUgzY0J1ejVnSnVZU1JJaWlBY0lIaEdOV2U0UWdodWdkN0ZWSmcyazNFcVZhYms0WVFn?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVNUazhGWkNMSDlmWmFILUp3TFBPX2c2Ym5CeUJZQS1LSjN3MmY0bGx5R1BEV3JhYjN3NHprX1Bhd1dqZWlfOHo3WWEwVmRTUF92VGVlc0U1REJIaVE2MHlJT0RtWWs2UmFMVDBHelh1djNWUU9FQi1OQjM1Vy1QWXVhaU9zb0otcDFzWGs4SmlMa3JSUUJPTDBGQTZhNEhiMmRDOC16MnBoUE5yblBQRlZn?oc=5"
-        },
-        {
-          "name": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX29PTTNqcmJZLUNPQ0xfQ1ZoWENxMVhZdjR0UkszVkJWYll6ZXliRXdlOHE3MGo0b2JEQk9CX0tlMTgwYVVGV3lGRndkaEtLUmx3aUEtQ1hXQU1ydml6SUIyVXhtTUMtWXBMQk9wRlgtUmJHMUgzY0J1ejVnSnVZU1JJaWlBY0lIaEdOV2U0UWdodWdkN0ZWSmcyazNFcVZhYms0WVFn?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-e82de261c3f3",
-      "original_title": "FinancialJuice: Trump: I have directed Secretary of War Pete Hegseth to significantly cut joint military drills",
-      "published_at": "2026-08-16T21:06:05Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Trump: I have directed Secretary of War Pete Hegseth to significantly cut joint military drills",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9723296/Trump-I-have-directed-Secretary-of-War-Pete-Hegseth-to-significantly-cut-joint-military-drills.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9723296/Trump-I-have-directed-Secretary-of-War-Pete-Hegseth-to-significantly-cut-joint-military-drills.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-9b839f77bf35",
-      "original_title": "4 Reasons This Could Be the Most Important Week of August for Bitcoin and XRP",
-      "published_at": "2026-08-16T21:03:27Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "4 Reasons This Could Be the Most Important Week of August for Bitcoin and XRP",
-          "source": "Yahoo Finance",
-          "snippet": "4 Reasons This Could Be the Most Important Week of August for Bitcoin and XRP &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlZ4X3J1aU9Uc1ZTcEJTQUlmQ2NEa2R2N1g2VjZOTmo5S0FyM0VHNzktTm5qZkRIdVRsLTZWUjdNLU9vZVhYMUtvaW5XOWFFWGMyTmY5QkUwVEhlY3l4dGtqVGxLWFNSVzZDVXZOZl8zZjIyV0NJVUNfYWt2UWpTYXpOUmFRYVk3U1FFcktiZWJIUE5BNDdYZUgwMA?oc=5"
-        },
-        {
-          "headline": "4 Reasons This Could Be the Most Important Week of August for Bitcoin and XRP",
-          "source": "beincrypto.com",
-          "snippet": "4 Reasons This Could Be the Most Important Week of August for Bitcoin and XRP &nbsp;&nbsp; beincrypto.com",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0weXJMRTRlSFFTMWJXY194ZWRpaGVoM29TeXBEMlU0Y09teVlrN0tUR2MyZ0pYRXhIclBDbENQeVl4cE55VDBCVGVqT0VSTmgxZ2pKaXlITW82dGRWZXp6allIcWFCd1B6?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlZ4X3J1aU9Uc1ZTcEJTQUlmQ2NEa2R2N1g2VjZOTmo5S0FyM0VHNzktTm5qZkRIdVRsLTZWUjdNLU9vZVhYMUtvaW5XOWFFWGMyTmY5QkUwVEhlY3l4dGtqVGxLWFNSVzZDVXZOZl8zZjIyV0NJVUNfYWt2UWpTYXpOUmFRYVk3U1FFcktiZWJIUE5BNDdYZUgwMA?oc=5"
-        },
-        {
-          "name": "beincrypto.com",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0weXJMRTRlSFFTMWJXY194ZWRpaGVoM29TeXBEMlU0Y09teVlrN0tUR2MyZ0pYRXhIclBDbENQeVl4cE55VDBCVGVqT0VSTmgxZ2pKaXlITW82dGRWZXp6allIcWFCd1B6?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-b37500f612a7",
-      "original_title": "Iran Attacks Third ADNOC Vessel in Strait of Hormuz",
-      "published_at": "2026-08-16T19:33:26Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran Attacks Third ADNOC Vessel in Strait of Hormuz",
-          "source": "Data Portuaria",
-          "snippet": "Iran Attacks Third ADNOC Vessel in Strait of Hormuz &nbsp;&nbsp; Data Portuaria",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjB1ZXBHRGgzVWFSQmhLRTN1cjB5UUxiVHJENHozOFBQVUR5dllXRl9GeFZ5VGYxTlJZVWx2ZHFBRTlkQWNmYjZUV3k4MUFGVUFNSE5kVWRjbUpGN25wVEIxZHNrUVo2RmxMUklOWWl3eGRUZzFGekVCYjhKajhGX0pmaEtRdXl0aTc3TlRHdjYxTHZUbWpxTkllLUEwbmNyRU9WQ3ZB?oc=5"
-        },
-        {
-          "headline": "Iran Accused of Attacking ADNOC Vessel in Strait of Hormuz",
-          "source": "Egypt Oil & Gas",
-          "snippet": "Iran Accused of Attacking ADNOC Vessel in Strait of Hormuz &nbsp;&nbsp; Egypt Oil & Gas",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHFuVVNkUS1VYWN5WVlDaW03U19fRG95WkRndkxuWFVZckZadWRJZmlBUWxBUm85TnNxY1BLQjRRM2pmYjdlX0JjOFZ4V21xUXh2VUVGbGdFcUl6bWhBTTgyOFV1cnlpVl9ZY0dsendSR0M0LTF1dHFxU3k5LXQ2RS0ySmxGNXkzNlFyM1pvNG9BN1U?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Data Portuaria",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjB1ZXBHRGgzVWFSQmhLRTN1cjB5UUxiVHJENHozOFBQVUR5dllXRl9GeFZ5VGYxTlJZVWx2ZHFBRTlkQWNmYjZUV3k4MUFGVUFNSE5kVWRjbUpGN25wVEIxZHNrUVo2RmxMUklOWWl3eGRUZzFGekVCYjhKajhGX0pmaEtRdXl0aTc3TlRHdjYxTHZUbWpxTkllLUEwbmNyRU9WQ3ZB?oc=5"
-        },
-        {
-          "name": "Egypt Oil & Gas",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHFuVVNkUS1VYWN5WVlDaW03U19fRG95WkRndkxuWFVZckZadWRJZmlBUWxBUm85TnNxY1BLQjRRM2pmYjdlX0JjOFZ4V21xUXh2VUVGbGdFcUl6bWhBTTgyOFV1cnlpVl9ZY0dsendSR0M0LTF1dHFxU3k5LXQ2RS0ySmxGNXkzNlFyM1pvNG9BN1U?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-af5fece24043",
-      "original_title": "Iran offers US$30,000 bounty for killing, capturing U.S. soldiers",
-      "published_at": "2026-08-16T19:03:21Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran offers US$30,000 bounty for killing, capturing U.S. soldiers",
-          "source": "CP24",
-          "snippet": "Iran offers US$30,000 bounty for killing, capturing U.S. soldiers &nbsp;&nbsp; CP24",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2xJUFQ3ZWs3eWRCTGpuMmVXVmJZRE4tQ014aVloOVN6Si12ZmJRLWw3QnZZWmJ4TXRKQUxmUXg3cHhzVGE1SjdkTjJjTFhLQXBFbjYwTnRmTWFRQmV1ZWt0R3FIeEl3am5ZM04tbzdack5GUUxab3ZQV0hxazZfVDlaVEV1LUg5ZjkyOWRySHdlaHdlb1dJLU5JblJ3NUhTLU5rSi13?oc=5"
-        },
-        {
-          "headline": "Iran offers $30,000 bounty for killing or capturing US soldiers",
-          "source": "France 24",
-          "snippet": "Iran offers $30,000 bounty for killing or capturing US soldiers &nbsp;&nbsp; France 24",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUFVOVduVlZTWFpDYURxYjROVWdvd0pIX0tZRGItN2NaRlpWZy1DYTA5NERsOTJNRFBjYVl2VFZZdzRYWkZCZGFTYW9nOEM3UWx0XzdNZzJBRE11VFhhNms2aDRqcEFzaGE5QjZkcVlCWGt4UzVnMnh0cTBYQW9Qc1dZc0luTjBiSldoY0ZGZDRDbGFsOEVEcW5ZVkR1ZFVEM0JIeV9PTmdZNFF4LVlXWQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CP24",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2xJUFQ3ZWs3eWRCTGpuMmVXVmJZRE4tQ014aVloOVN6Si12ZmJRLWw3QnZZWmJ4TXRKQUxmUXg3cHhzVGE1SjdkTjJjTFhLQXBFbjYwTnRmTWFRQmV1ZWt0R3FIeEl3am5ZM04tbzdack5GUUxab3ZQV0hxazZfVDlaVEV1LUg5ZjkyOWRySHdlaHdlb1dJLU5JblJ3NUhTLU5rSi13?oc=5"
-        },
-        {
-          "name": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUFVOVduVlZTWFpDYURxYjROVWdvd0pIX0tZRGItN2NaRlpWZy1DYTA5NERsOTJNRFBjYVl2VFZZdzRYWkZCZGFTYW9nOEM3UWx0XzdNZzJBRE11VFhhNms2aDRqcEFzaGE5QjZkcVlCWGt4UzVnMnh0cTBYQW9Qc1dZc0luTjBiSldoY0ZGZDRDbGFsOEVEcW5ZVkR1ZFVEM0JIeV9PTmdZNFF4LVlXWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-e4ea4626f26e",
-      "original_title": "The SEC meeting that wasn't: State of Crypto",
-      "published_at": "2026-08-16T18:30:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "The SEC meeting that wasn't: State of Crypto",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-6f2e80476bc2",
-      "original_title": "Covert Mideast Oil Flows Are Keeping Global Prices In Check",
-      "published_at": "2026-08-16T17:41:29Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Covert Mideast Oil Flows Are Keeping Global Prices In Check",
-          "source": "gcaptain.com",
-          "snippet": "Covert Mideast Oil Flows Are Keeping Global Prices In Check &nbsp;&nbsp; gcaptain.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1lZVHBxUlVwODI1V3pqcDN2OEF6b3NFWUFVWEFBRWFpYkJISS1QMHUzb1RkdVp2dzNZU1NOelNNSEs2MGFsWlFEb1BNRHpCWVpQZjNzdW8zMXNBT25BckNMMzNRblZHMlZRalJYNGdtSFRmb0NSdVNJZnJ0MG9Vc25hWDdDLVot?oc=5"
-        },
-        {
-          "headline": "Covert Mideast Oil Flows Are Keeping Global Prices in Check",
-          "source": "Bloomberg.com",
-          "snippet": "Covert Mideast Oil Flows Are Keeping Global Prices in Check &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNei0tNHpURXVhbzZOY05jX3VabGZPR1o1d0NnMEo3bW9mOFNxWF96VFZhWmVDU3ZnTjFYY3RrSkVWU2F4ZURKZ01fdEtMQlZ6QjVTYk43Qzh6d0EtX3N6cXhzNkJTZ29VcWpsMVB6NTdFNlR3MzJVS3p2bVYwLU9pcUtjOFBvWGhoQmF0djAxWHBtYTZ3NW9PM0E5dFpsRE1SeGJ2cE5jSlBta3JVQ2JB?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "gcaptain.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1lZVHBxUlVwODI1V3pqcDN2OEF6b3NFWUFVWEFBRWFpYkJISS1QMHUzb1RkdVp2dzNZU1NOelNNSEs2MGFsWlFEb1BNRHpCWVpQZjNzdW8zMXNBT25BckNMMzNRblZHMlZRalJYNGdtSFRmb0NSdVNJZnJ0MG9Vc25hWDdDLVot?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNei0tNHpURXVhbzZOY05jX3VabGZPR1o1d0NnMEo3bW9mOFNxWF96VFZhWmVDU3ZnTjFYY3RrSkVWU2F4ZURKZ01fdEtMQlZ6QjVTYk43Qzh6d0EtX3N6cXhzNkJTZ29VcWpsMVB6NTdFNlR3MzJVS3p2bVYwLU9pcUtjOFBvWGhoQmF0djAxWHBtYTZ3NW9PM0E5dFpsRE1SeGJ2cE5jSlBta3JVQ2JB?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-ea1d691c33db",
-      "original_title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "published_at": "2026-08-16T16:00:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-a5f3864c421c",
-      "original_title": "Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook",
-      "published_at": "2026-08-16T15:58:39Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook",
-          "source": "U.Today",
-          "snippet": "Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook &nbsp;&nbsp; U.Today",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjdXbFR3NC1XZVlGMDlkTXlfUUd4LUZ2cEduSElORmI1ZmxhdmVnNG00V1dLMnZua2FESFJ3NzlWMHByTmZHb05KakVCUmRwZWZncVZyejE3TlVNUTh5NHFUREdBREctWjQ0ZGZCcGdJbEtOVVFVcURSMGxRNFV4NDJ6NnNVT1p6bU5xRl8yd3B5aXE0M3VIbHltUjRxTVY3Sm1HRUhB0gGrAUFVX3lxTFBTSE5rQkdjb0stRnV5dU42OXdsYUdISElrYWVuTGQ4Vk92cElkTzRkSjg1bnB4RGtZNXZSeFp4UlVLeDRIc1ZGczUzTGtSSGVZVHVsZ0ZUNUNOVWt6My1UY085akFVV0gxRlk0RU5NdUhPT3c3WGpWNVd3TndlTlFHaFVhSkRXcnVYaElJRzRmbmI3a0pIVXUtTEtDZG9zaUkxUHFrNkdZbWZqaw?oc=5"
-        },
-        {
-          "headline": "Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook",
-          "source": "TradingView",
-          "snippet": "Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook &nbsp;&nbsp; TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdFhrU3RrNXZQS09pcWxIM3RuWG94LVV1VlV2V0xzdjRQT3l1NHAta292bDdiUjRzZ3E3SzhjbDJWdDNGYmZUTTRadWhOZ0dQRkZCRWZQUlFpMU9RUzZ4SWlhMHhfQ1pyYW95Y3RZdENjc19LVmRCQW16c0VYdGhtQXJpbVpGRUJad0UyMUIyMG1tQkMwWGhzTFJlTmlqa2JJY1ZVcTVkc1N3T2MxT1c5bG1zWGVUM1ZhaFZuTzMzTnJ1dEJ1N3ZVNTJkc1RxSnV5LUwwY0xWN3JXYzhpSnlIWg?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "U.Today",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjdXbFR3NC1XZVlGMDlkTXlfUUd4LUZ2cEduSElORmI1ZmxhdmVnNG00V1dLMnZua2FESFJ3NzlWMHByTmZHb05KakVCUmRwZWZncVZyejE3TlVNUTh5NHFUREdBREctWjQ0ZGZCcGdJbEtOVVFVcURSMGxRNFV4NDJ6NnNVT1p6bU5xRl8yd3B5aXE0M3VIbHltUjRxTVY3Sm1HRUhB0gGrAUFVX3lxTFBTSE5rQkdjb0stRnV5dU42OXdsYUdISElrYWVuTGQ4Vk92cElkTzRkSjg1bnB4RGtZNXZSeFp4UlVLeDRIc1ZGczUzTGtSSGVZVHVsZ0ZUNUNOVWt6My1UY085akFVV0gxRlk0RU5NdUhPT3c3WGpWNVd3TndlTlFHaFVhSkRXcnVYaElJRzRmbmI3a0pIVXUtTEtDZG9zaUkxUHFrNkdZbWZqaw?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdFhrU3RrNXZQS09pcWxIM3RuWG94LVV1VlV2V0xzdjRQT3l1NHAta292bDdiUjRzZ3E3SzhjbDJWdDNGYmZUTTRadWhOZ0dQRkZCRWZQUlFpMU9RUzZ4SWlhMHhfQ1pyYW95Y3RZdENjc19LVmRCQW16c0VYdGhtQXJpbVpGRUJad0UyMUIyMG1tQkMwWGhzTFJlTmlqa2JJY1ZVcTVkc1N3T2MxT1c5bG1zWGVUM1ZhaFZuTzMzTnJ1dEJ1N3ZVNTJkc1RxSnV5LUwwY0xWN3JXYzhpSnlIWg?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-9ebb27781f34",
-      "original_title": "이란 군 최고 사령관인 아마르 하타미 대장은 일요일에 테헤란에서 열린 행사에서, 이란 국적자가 \"미국 세력\"을 포획하거나 살해하는 경우 3만 달러의 보상을 제공한다고 발표했습니다. 여성의 경우, 보상액은 두 배로 지급됩니다. - Fars",
-      "published_at": "2026-08-16T15:49:46Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "이란 군 최고 사령관인 아마르 하타미 대장은 일요일에 테헤란에서 열린 행사에서, 이란 국적자가 \"미국 세력\"을 포획하거나 살해하는 경우 3만 달러의 보상을 제공한다고 발표했습니다. 여성의 경우, 보상액은 두 배로 지급됩니다. - Fars",
-          "source": "Telegram @goddessTTF",
-          "snippet": "이란 군 최고 사령관인 아마르 하타미 대장은 일요일에 테헤란에서 열린 행사에서, 이란 국적자가 \"미국 세력\"을 포획하거나 살해하는 경우 3만 달러의 보상을 제공한다고 발표했습니다. 여성의 경우, 보상액은 두 배로 지급됩니다. - Fars",
-          "url": "https://t.me/goddessTTF/82407"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82407"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-2cc627e61fed",
-      "original_title": "트럼프家 코인은행까지 진입…클래리티법 없이 美 코인시장 먼저 열리나",
-      "published_at": "2026-08-16T15:40:15Z",
-      "discovery_source": "youtube",
-      "evidence": [
-        {
-          "headline": "트럼프家 코인은행까지 진입…클래리티법 없이 美 코인시장 먼저 열리나",
-          "source": "YouTube @새벽에온주호",
-          "snippet": "트럼프 일가와 연결된 월드 리버티가 미국 국립신탁은행 설립 문턱에 들어섰습니다. OCC는 월드 리버티 트러스트에 예비 조건부 승인을 내렸고, USD1의 발행·준비자산 관리까지 내부화할 길이 열렸습니다. 그런데 미국의 코인 시장구조법인 클래리티 액트는 아직 상원 60표를 넘어야 합니다. 그렇다면 미국은 클래리티법을 기다리지 않고 코인 금융시장부터 제도권에 넣고 있는 걸까요? 월드 리버티의 WLFI·USD1·대출 사업부터 OCC 은행 승인까지 사업 확장 과정을 추적합니다. 그리고 트럼프 가족의 코인사업이 클래리티 윤리조항과 상원 협상에 어떤 변수가 되는지도 함께 살펴봅니다. 결국 미국 코인시장은 어디까지 먼저 열릴 수 있는지, 그리고 무엇이 법으로 남아야 하는지 정리했습니다. #비트코인 #월드리버티 #클래리티법 #트럼프 #USD1 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
-          "url": "https://www.youtube.com/watch?v=345nOVZZhCI"
-        }
-      ],
-      "sources": [
-        {
-          "name": "YouTube @새벽에온주호",
-          "url": "https://www.youtube.com/watch?v=345nOVZZhCI"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-879f0bd42aad",
-      "original_title": "Polymarket Referral Code SBWIRE: $20 Bonus for NFL, UFC, Crypto & More (August 2026)",
-      "published_at": "2026-08-16T14:17:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Polymarket Referral Code SBWIRE: $20 Bonus for NFL, UFC, Crypto & More (August 2026)",
-          "source": "ftw.usatoday.com",
-          "snippet": "Polymarket Referral Code SBWIRE: $20 Bonus for NFL, UFC, Crypto & More (August 2026) &nbsp;&nbsp; ftw.usatoday.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0VkRmV5VnJ6Rm5wVHJOLVlBRU1KbTd6SEpRSXpRWDBBdjNMZGFQYWFQZlY1T3loN2VFaU1CQTE4bmpweEtXekQzTW9URXBHT002Q3AxWC1EVjRoX3NuMmQ5cW5oRHI1UWRFMDNudU5zbHFILVdiekZZUVE5QTdRWkRYZzJNTE5NdmZvQkNQT09pck41bkV3MUU4LUwyd1NTeDUteW1R?oc=5"
-        },
-        {
-          "headline": "Kalshi Promo Code SBWIRE | $25 Bonus for NFL, Crypto & More (August 2026)",
-          "source": "Golfweek",
-          "snippet": "Kalshi Promo Code SBWIRE | $25 Bonus for NFL, Crypto & More (August 2026) &nbsp;&nbsp; Golfweek",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2xtY1pteGE2YVFEaFdtSUNDNGg0S3pEeFlfaEFaM1B4aklRS3BMTF8tRGRXQjR5UFprV3cwYlFkWlUtUGJWRjFkOUN5QXhULTlTQ0JoR2s2T094cUxSZzh4QV8zREZqRFR0NHdDOUhxYXFtMU56UUVlZm1rdkJpYkY0Nk1NRnpQNzhmbUtiTFRWS3g3TWcyUE9sNHBFSVBjUEkw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "ftw.usatoday.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0VkRmV5VnJ6Rm5wVHJOLVlBRU1KbTd6SEpRSXpRWDBBdjNMZGFQYWFQZlY1T3loN2VFaU1CQTE4bmpweEtXekQzTW9URXBHT002Q3AxWC1EVjRoX3NuMmQ5cW5oRHI1UWRFMDNudU5zbHFILVdiekZZUVE5QTdRWkRYZzJNTE5NdmZvQkNQT09pck41bkV3MUU4LUwyd1NTeDUteW1R?oc=5"
-        },
-        {
-          "name": "Golfweek",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2xtY1pteGE2YVFEaFdtSUNDNGg0S3pEeFlfaEFaM1B4aklRS3BMTF8tRGRXQjR5UFprV3cwYlFkWlUtUGJWRjFkOUN5QXhULTlTQ0JoR2s2T094cUxSZzh4QV8zREZqRFR0NHdDOUhxYXFtMU56UUVlZm1rdkJpYkY0Nk1NRnpQNzhmbUtiTFRWS3g3TWcyUE9sNHBFSVBjUEkw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-85cef95870db",
-      "original_title": "트럼프 행정부, 이란 혁명수비대와 비밀 접촉…막후 종전협상 전모 드러나 [공부의여신 네트워크] 트럼프 행정부가 이란과의 종전협상 과정에서 공식 협상대표단을 우회해 이란 이슬람혁명수비대(IRGC) 지도부와 비밀 접촉한 사실이 새롭게 알려졌다. 미국 인터넷 매체 Axios는 16일(현지시간) 관련 내용을 직접 알고 있는 복수의 소식통을 인용해, 트럼프 행정부가 이라크 쿠르드자치정부 수반인 네치르",
-      "published_at": "2026-08-16T14:15:05Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "트럼프 행정부, 이란 혁명수비대와 비밀 접촉…막후 종전협상 전모 드러나 [공부의여신 네트워크] 트럼프 행정부가 이란과의 종전협상 과정에서 공식 협상대표단을 우회해 이란 이슬람혁명수비대(IRGC) 지도부와 비밀 접촉한 사실이 새롭게 알려졌다. 미국 인터넷 매체 Axios는 16일(현지시간) 관련 내용을 직접 알고 있는 복수의 소식통을 인용해, 트럼프 행정부가 이라크 쿠르드자치정부 수반인 네치르",
-          "source": "Telegram @goddessTTF",
-          "snippet": "트럼프 행정부, 이란 혁명수비대와 비밀 접촉…막후 종전협상 전모 드러나 [공부의여신 네트워크] 트럼프 행정부가 이란과의 종전협상 과정에서 공식 협상대표단을 우회해 이란 이슬람혁명수비대(IRGC) 지도부와 비밀 접촉한 사실이 새롭게 알려졌다. 미국 인터넷 매체 Axios는 16일(현지시간) 관련 내용을 직접 알고 있는 복수의 소식통을 인용해, 트럼프 행정부가 이라크 쿠르드자치정부 수반인 네치르반 바르자니를 비공식 연락책으로 활용했다고 보도했다. 이번 보도는 미·이란 간 공식 협상이 교착상태에 빠진 가운데, 트럼프 행정부가 이란의 실질적인 권력 중심으로 부상한 혁명수비대와 직접 소통할 수 있는 별도의 외교 경로를 모색했다는 점에서 주목된다. “공식 협상대표들이 실제 결정권자인가” 보도에 따르면 미국 협상팀은 지난 5월 이란과의 전쟁을 끝내기 위한 협상을 진행하면서 중대한 문제에 직면했다. 당시 미국 측은 이란 측 협상대표였던 모하마드 바게르 갈리바프 의회 의장과 압바스 아라그치 외무장관이 혁명수비대를 대표해 최종 합의를 체결할 실질적인 권한을 갖고 있는지 확신하지 못했다. 이란전으로 최고지도자 알리 하메네이와 다수의 고위급 정치 지도자가 사망한 뒤, 혁명수비대가 국가안보와 외교정책을 포함한 이란 권력의 핵심을 장악한 것으로 미국 정부가 판단했기 때문이다. 미국 측은 공식 협상대표들이 혁명수비대의 승인을 받지 못하거나 협상 과정에서 혁명수비대에 의해 제동이 걸리고 있다고 의심하기 시작했다. 이에 백악관은 공식 협상 채널을 우회해 혁명수비대 지도부의 의중을 직접 확인할 수 있는 비밀 연락망을 구축하기로 한 것으로 전해졌다. 트럼프·밴스 승인 아래 바르자니에게 연락 Axios에 따르면 당시 국가정보국장이었던 털시 개버드는 지난 5월 10일을 전후해 네치르반 바르자니에게 전화했다. 개버드는 도널드 트럼프 대통령과 JD 밴스 부통령의 승인을 받아 연락했다는 점을 분명히 밝히고, 바르자니에게 아흐마드 바히디 혁명수비대 총사령관과 접촉해 줄 것을 요청한 것으로 알려졌다. 바르자니는 이란에서 생활하고 테헤란대학교에서 공부한 경험이 있으며, 페르시아어에도 능통하다. 미국과 이란 양측 고위 인사들과 모두 신뢰 관계를 유지하는 드문 중재자로 평가된다. 개버드는 바르자니에게 이란 공식 협상대표들이 제시한 입장에 혁명수비대 지도부도 동의하고 있는지, 아니면 별도의 요구사항을 갖고 있는지 확인해 달라고 요청했다. 암호화된 전화로 혁명수비대 총사령관과 통화 바르자니는 미국 측의 요청을 받아들여 혁명수비대 관계자들에게 트럼프 행정부의 메시지를 전달했다. 지난 5월 14일에는 혁명수비대 관계자가 암호화된 통신 장비를 들고 이라크 쿠르드자치정부 수도 에르빌에 있는 바르자니의 사무실을 방문했다. 바르자니는 이 장비를 이용해 바히디 총사령관과 직접 통화한 것으로 전해졌다. 바르자니가 이란 협상대표단의 입장을 지지하는지를 묻자 바히디는 “전적으로 지지하며, 이는 혁명수비대의 입장이기도 하다”며 “우리는 협상을 통해 이번 위기를 해결하기를 원한다”고 답한 것으로 알려졌다. 바르자니는 통화 직후 개버드에게 혁명수비대 측의 입장을 전달했고, 개버드는 이를 백악관에 보고했다. Axios는 이 같은 내용이 관련 사안을 직접 알고 있는 소식통 3명의 증언을 통해 확인됐으며, 이 가운데 한 명은 백악관 관계자라고 전했다. 미국, 에르빌 비밀회담까지 제안 혁명수비대의 답변을 전달받은 트럼프 행정부는 바르자니가 미국과 이란의 고위급 협상대표들이 참여하는 비밀회담을 에르빌에서 주선하는 방안도 제안했다. 바르자니는 이란 측에 미국의 제안을 전달했다. 이란 측은 제안을 즉각 거부하지는 않았지만, 이라크 쿠르드 지역에 이스라엘",
-          "url": "https://t.me/goddessTTF/82406"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82406"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-885ad9a50220",
-      "original_title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "published_at": "2026-08-16T14:02:32Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-33e9bd2ba8a3",
-      "original_title": "Israel strikes Lebanon as end of US-Iran ceasefire looms",
-      "published_at": "2026-08-16T13:44:09Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Israel strikes Lebanon as end of US-Iran ceasefire looms",
-          "source": "The Straits Times",
-          "snippet": "Israel strikes Lebanon as end of US-Iran ceasefire looms &nbsp;&nbsp; The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX29PTTNqcmJZLUNPQ0xfQ1ZoWENxMVhZdjR0UkszVkJWYll6ZXliRXdlOHE3MGo0b2JEQk9CX0tlMTgwYVVGV3lGRndkaEtLUmx3aUEtQ1hXQU1ydml6SUIyVXhtTUMtWXBMQk9wRlgtUmJHMUgzY0J1ejVnSnVZU1JJaWlBY0lIaEdOV2U0UWdodWdkN0ZWSmcyazNFcVZhYms0WVFn?oc=5"
-        },
-        {
-          "headline": "Israel Strikes Lebanon as End of US-Iran Ceasefire Looms",
-          "source": "Bloomberg.com",
-          "snippet": "Israel Strikes Lebanon as End of US-Iran Ceasefire Looms &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlQ2TTRnS1c5aHBnVlgxWUNmSWJVMXpDNFpzNEROTWNXVDFib29UdkZRTE05aHFCdTFrZHJoaHY4WUFramp4VFVodk9ZOEdyN0dpd001ZGk0ZWdGUnkwXy1OQVZ3NmtXQk13N2RoWWFaZm5XRTd1T0o3aERlYk5JUUZQN3Y5azR5bS01RUtNVzhGejUzN1NtSUFVbEdSUEhnaW1jcThCTWlHQkk?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX29PTTNqcmJZLUNPQ0xfQ1ZoWENxMVhZdjR0UkszVkJWYll6ZXliRXdlOHE3MGo0b2JEQk9CX0tlMTgwYVVGV3lGRndkaEtLUmx3aUEtQ1hXQU1ydml6SUIyVXhtTUMtWXBMQk9wRlgtUmJHMUgzY0J1ejVnSnVZU1JJaWlBY0lIaEdOV2U0UWdodWdkN0ZWSmcyazNFcVZhYms0WVFn?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlQ2TTRnS1c5aHBnVlgxWUNmSWJVMXpDNFpzNEROTWNXVDFib29UdkZRTE05aHFCdTFrZHJoaHY4WUFramp4VFVodk9ZOEdyN0dpd001ZGk0ZWdGUnkwXy1OQVZ3NmtXQk13N2RoWWFaZm5XRTd1T0o3aERlYk5JUUZQN3Y5azR5bS01RUtNVzhGejUzN1NtSUFVbEdSUEhnaW1jcThCTWlHQkk?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-7d9f1dfc60c7",
-      "original_title": "피터 나바로: 그것은 지속되는 동안 엄청난 사기극이었습니다: https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-      "published_at": "2026-08-16T13:28:06Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "피터 나바로: 그것은 지속되는 동안 엄청난 사기극이었습니다: https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-          "source": "Telegram @goddessTTF",
-          "snippet": "피터 나바로: 그것은 지속되는 동안 엄청난 사기극이었습니다: https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-          "url": "https://t.me/goddessTTF/82397"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82397"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-3859a525fa7f",
-      "original_title": "트럼프, 저렴한 수입품에 대한 관세 유지 소송에서 승리: https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-      "published_at": "2026-08-16T13:26:55Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "트럼프, 저렴한 수입품에 대한 관세 유지 소송에서 승리: https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-          "source": "Telegram @goddessTTF",
-          "snippet": "트럼프, 저렴한 수입품에 대한 관세 유지 소송에서 승리: https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-          "url": "https://t.me/goddessTTF/82394"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82394"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-ebdb855b510a",
-      "original_title": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption",
-      "published_at": "2026-08-16T13:17:44Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption",
-          "source": "Reuters",
-          "snippet": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-b05dfb164047",
-      "original_title": "\"호르무즈 해협은 이란 국민에게 신이 주신 지정학적 자산입니다.\" - 육군 총사령관 하타미 장군 \"미국 대통령의 유산 중 하나는 바로 호르무즈 해협의 잠재력을 활성화한 것입니다... 우리는 알고 있었지만, 만약 이 갈등이 없었다면, 그것은 활성화되지 않았을 것입니다.\"",
-      "published_at": "2026-08-16T13:13:52Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "\"호르무즈 해협은 이란 국민에게 신이 주신 지정학적 자산입니다.\" - 육군 총사령관 하타미 장군 \"미국 대통령의 유산 중 하나는 바로 호르무즈 해협의 잠재력을 활성화한 것입니다... 우리는 알고 있었지만, 만약 이 갈등이 없었다면, 그것은 활성화되지 않았을 것입니다.\"",
-          "source": "Telegram @goddessTTF",
-          "snippet": "\"호르무즈 해협은 이란 국민에게 신이 주신 지정학적 자산입니다.\" - 육군 총사령관 하타미 장군 \"미국 대통령의 유산 중 하나는 바로 호르무즈 해협의 잠재력을 활성화한 것입니다... 우리는 알고 있었지만, 만약 이 갈등이 없었다면, 그것은 활성화되지 않았을 것입니다.\"",
-          "url": "https://t.me/goddessTTF/82393"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82393"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-16-043c09513e57",
-      "original_title": "이란 의회는 미국 또는 이스라엘 언론과의 인터뷰를 범죄로 규정하는 법안을 통과시켰으며, 위반 시 6개월에서 2년의 징역형을 선고할 수 있도록 했습니다. 아직 최고 의회(Guardian Council)의 심의를 거쳐야 발효되는 이 법안은 또한 정보기관의 승인 없이 외국인과 정보를 공유하는 것을 금지하고, 외국의 지시 하에 제안된 정책에 대해서는 최대 30년의 징역형을 부과합니다. -로이터통신",
-      "published_at": "2026-08-16T13:11:47Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "이란 의회는 미국 또는 이스라엘 언론과의 인터뷰를 범죄로 규정하는 법안을 통과시켰으며, 위반 시 6개월에서 2년의 징역형을 선고할 수 있도록 했습니다. 아직 최고 의회(Guardian Council)의 심의를 거쳐야 발효되는 이 법안은 또한 정보기관의 승인 없이 외국인과 정보를 공유하는 것을 금지하고, 외국의 지시 하에 제안된 정책에 대해서는 최대 30년의 징역형을 부과합니다. -로이터통신",
-          "source": "Telegram @goddessTTF",
-          "snippet": "이란 의회는 미국 또는 이스라엘 언론과의 인터뷰를 범죄로 규정하는 법안을 통과시켰으며, 위반 시 6개월에서 2년의 징역형을 선고할 수 있도록 했습니다. 아직 최고 의회(Guardian Council)의 심의를 거쳐야 발효되는 이 법안은 또한 정보기관의 승인 없이 외국인과 정보를 공유하는 것을 금지하고, 외국의 지시 하에 제안된 정책에 대해서는 최대 30년의 징역형을 부과합니다. -로이터통신",
-          "url": "https://t.me/goddessTTF/82392"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82392"
         }
       ]
     }
