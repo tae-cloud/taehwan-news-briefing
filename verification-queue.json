@@ -1,6 +1,46 @@
 {
-  "updated_at_kst": "2026-08-20T08:01:47+09:00",
+  "updated_at_kst": "2026-08-20T08:57:03+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-19-c33f9cc07965",
+      "original_title": "FinancialJuice: Japan July trade balance -634.5 billion yen: Ministry of Finance (poll: -680.0 billion yen)",
+      "published_at": "2026-08-19T23:50:03Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan July trade balance -634.5 billion yen: Ministry of Finance (poll: -680.0 billion yen)",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9728499/Japan-July-trade-balance--6345-billion-yen-Ministry-of-Finance-poll--6800-billion-yen.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9728499/Japan-July-trade-balance--6345-billion-yen-Ministry-of-Finance-poll--6800-billion-yen.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-19-374280550a7e",
+      "original_title": "Trump Says US Starting ‘Economic Warfare’ Operation Against Iran",
+      "published_at": "2026-08-19T23:06:49Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Trump Says US Starting ‘Economic Warfare’ Operation Against Iran",
+          "source": "Bloomberg",
+          "snippet": "Trump Says US Starting ‘Economic Warfare’ Operation Against Iran &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVF2ODdxMWJ4SXVOQzFyTUZIRFcyYVB6cmJxOHpfTHpmREk1amI2dFFVV0tXb2c3YUxWTkRJSjdsVS15SkVFSTNpemlaZHBsZmdrdTdZVzFiZTZlZzJCdFRQSXNJY1NKZnJhWGxiLVNWcmtJS0hMR2NaUWxsOGpndkVrQ1FYd1FRSjZTX01RRjZzaERiWG1hcE1MZVhtMHY5Y2txOFlhT3I0ODNRaVlZbXIwRQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVF2ODdxMWJ4SXVOQzFyTUZIRFcyYVB6cmJxOHpfTHpmREk1amI2dFFVV0tXb2c3YUxWTkRJSjdsVS15SkVFSTNpemlaZHBsZmdrdTdZVzFiZTZlZzJCdFRQSXNJY1NKZnJhWGxiLVNWcmtJS0hMR2NaUWxsOGpndkVrQ1FYd1FRSjZTX01RRjZzaERiWG1hcE1MZVhtMHY5Y2txOFlhT3I0ODNRaVlZbXIwRQ?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-19-e3c0e499ccf4",
       "original_title": "FinancialJuice: Trump: countries allowing financial aid to Iran will face severe economic consequences",
@@ -38,6 +78,46 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9728445/Trump-announcing-most-severe-economic-action-ever-taken-against-Iran.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-19-0b67dad8fb35",
+      "original_title": "Bitcoin Surges Most Since March Ahead of White House Meeting",
+      "published_at": "2026-08-19T22:50:03Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin Surges Most Since March Ahead of White House Meeting",
+          "source": "Bloomberg",
+          "snippet": "Bitcoin Surges Most Since March Ahead of White House Meeting &nbsp;&nbsp; Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXNlMlhrZldhRUFxVFpaVmJDWnVjdERCQTVQbGJNX3BFNmxQc1p3Y0VWc0xjLWJoSUdPUHJUejFvVEV1SXJ4NkR4SExEMGtTb3FXaEplbU9vc0JCTVBKcTVxZ2RGaXJhLWtmMWF3MzVMM1VLd3NBZVVLUThZLUdGSTdtQmpkVW9tV3dodklSbHZhSDN2b2QtTFNjN2g3dmp4bGJBSnhXUS1qeW0yQXdrWg?oc=5"
+        },
+        {
+          "headline": "Bitcoin Surges Most Since March, Nears $70,000 Ahead Of Trump Crypto Meeting",
+          "source": "NDTV Profit",
+          "snippet": "Bitcoin Surges Most Since March, Nears $70,000 Ahead Of Trump Crypto Meeting &nbsp;&nbsp; NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZjbjROZDNGTDhhRER2eDF5NVJTbWNxU0h6UmZWcHA4eldMcHdlZGRrR19qQmk2T29BTC1WSlFtMnpsVFRtX1gtNVdWUG9UOWNBdFpET2ZkME1makc1S3F0TnNJUHJ6c21BQW5RRVlmMlRrdjZiTlQ5bGtJV1RvLS1hTldHY0hUY2dvT1ljcW5UMW5PMmV2Z0VzYlVQWkdoMzIxSExYdnhsWk1ib3hvMUppN1NEdEJPN2fSAcIBQVVfeXFMT0h4NGV5ay1pd2UwcFgwN1pxanl5RXMwazFHampnZ2l1QmdyUGo5WXNMSFdBWGc2VzNuTkxyaEo5NndjUF9pVlMzVjBXUXAxUHVYU3FsNTZUWi1lTGhrWFVNdURfYXFLYjhBR2ZXWVZjelQ3RmxOM3JTOWlSbTFPX0N4WjJacUxBeGhCY1Bjdjc0QjM1dXpmWWRDUkJMb19sZGVrOWxhU1g2UFRfdGRHYXhORl9uOUFIYWdnY016Zm9wQ3c?oc=5"
+        },
+        {
+          "headline": "Bitcoin Surges Most Since March Ahead of White House Meeting",
+          "source": "Yahoo Finance",
+          "snippet": "Bitcoin Surges Most Since March Ahead of White House Meeting &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3N0SjFFUFhUbDh6alM0Um1OWFk2a2pOODZDVU5POXFwOFpQaFlUMlEwY1ZraTRGUjN5dlZOV3NkR1poZTRwYkhaVTh2MmRZWl9CUGpaLWRRYXFCT1hrYnZQa1BaN2paclhMM0c1eEZyZ1p4ZUNmdFRKNVBVZlhPYVdGMU44c1ZkbUpLS2VJWUl4MDJkbV9CR0pPcnA?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXNlMlhrZldhRUFxVFpaVmJDWnVjdERCQTVQbGJNX3BFNmxQc1p3Y0VWc0xjLWJoSUdPUHJUejFvVEV1SXJ4NkR4SExEMGtTb3FXaEplbU9vc0JCTVBKcTVxZ2RGaXJhLWtmMWF3MzVMM1VLd3NBZVVLUThZLUdGSTdtQmpkVW9tV3dodklSbHZhSDN2b2QtTFNjN2g3dmp4bGJBSnhXUS1qeW0yQXdrWg?oc=5"
+        },
+        {
+          "name": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZjbjROZDNGTDhhRER2eDF5NVJTbWNxU0h6UmZWcHA4eldMcHdlZGRrR19qQmk2T29BTC1WSlFtMnpsVFRtX1gtNVdWUG9UOWNBdFpET2ZkME1makc1S3F0TnNJUHJ6c21BQW5RRVlmMlRrdjZiTlQ5bGtJV1RvLS1hTldHY0hUY2dvT1ljcW5UMW5PMmV2Z0VzYlVQWkdoMzIxSExYdnhsWk1ib3hvMUppN1NEdEJPN2fSAcIBQVVfeXFMT0h4NGV5ay1pd2UwcFgwN1pxanl5RXMwazFHampnZ2l1QmdyUGo5WXNMSFdBWGc2VzNuTkxyaEo5NndjUF9pVlMzVjBXUXAxUHVYU3FsNTZUWi1lTGhrWFVNdURfYXFLYjhBR2ZXWVZjelQ3RmxOM3JTOWlSbTFPX0N4WjJacUxBeGhCY1Bjdjc0QjM1dXpmWWRDUkJMb19sZGVrOWxhU1g2UFRfdGRHYXhORl9uOUFIYWdnY016Zm9wQ3c?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3N0SjFFUFhUbDh6alM0Um1OWFk2a2pOODZDVU5POXFwOFpQaFlUMlEwY1ZraTRGUjN5dlZOV3NkR1poZTRwYkhaVTh2MmRZWl9CUGpaLWRRYXFCT1hrYnZQa1BaN2paclhMM0c1eEZyZ1p4ZUNmdFRKNVBVZlhPYVdGMU44c1ZkbUpLS2VJWUl4MDJkbV9CR0pPcnA?oc=5"
         }
       ]
     },
@@ -178,46 +258,6 @@
         {
           "name": "Telegram @goddessTTF",
           "url": "https://t.me/goddessTTF/82601"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-0b67dad8fb35",
-      "original_title": "Bitcoin Surges Most Since March Ahead of White House Meeting",
-      "published_at": "2026-08-19T20:45:55Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin Surges Most Since March Ahead of White House Meeting",
-          "source": "Bloomberg",
-          "snippet": "Bitcoin Surges Most Since March Ahead of White House Meeting &nbsp;&nbsp; Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXNlMlhrZldhRUFxVFpaVmJDWnVjdERCQTVQbGJNX3BFNmxQc1p3Y0VWc0xjLWJoSUdPUHJUejFvVEV1SXJ4NkR4SExEMGtTb3FXaEplbU9vc0JCTVBKcTVxZ2RGaXJhLWtmMWF3MzVMM1VLd3NBZVVLUThZLUdGSTdtQmpkVW9tV3dodklSbHZhSDN2b2QtTFNjN2g3dmp4bGJBSnhXUS1qeW0yQXdrWg?oc=5"
-        },
-        {
-          "headline": "Bitcoin Surges Most Since March, Nears $70,000 Ahead Of Trump Crypto Meeting",
-          "source": "NDTV Profit",
-          "snippet": "Bitcoin Surges Most Since March, Nears $70,000 Ahead Of Trump Crypto Meeting &nbsp;&nbsp; NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZjbjROZDNGTDhhRER2eDF5NVJTbWNxU0h6UmZWcHA4eldMcHdlZGRrR19qQmk2T29BTC1WSlFtMnpsVFRtX1gtNVdWUG9UOWNBdFpET2ZkME1makc1S3F0TnNJUHJ6c21BQW5RRVlmMlRrdjZiTlQ5bGtJV1RvLS1hTldHY0hUY2dvT1ljcW5UMW5PMmV2Z0VzYlVQWkdoMzIxSExYdnhsWk1ib3hvMUppN1NEdEJPN2fSAcIBQVVfeXFMT0h4NGV5ay1pd2UwcFgwN1pxanl5RXMwazFHampnZ2l1QmdyUGo5WXNMSFdBWGc2VzNuTkxyaEo5NndjUF9pVlMzVjBXUXAxUHVYU3FsNTZUWi1lTGhrWFVNdURfYXFLYjhBR2ZXWVZjelQ3RmxOM3JTOWlSbTFPX0N4WjJacUxBeGhCY1Bjdjc0QjM1dXpmWWRDUkJMb19sZGVrOWxhU1g2UFRfdGRHYXhORl9uOUFIYWdnY016Zm9wQ3c?oc=5"
-        },
-        {
-          "headline": "Bitcoin Surges Most Since March Ahead of White House Meeting",
-          "source": "Yahoo Finance",
-          "snippet": "Bitcoin Surges Most Since March Ahead of White House Meeting &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3N0SjFFUFhUbDh6alM0Um1OWFk2a2pOODZDVU5POXFwOFpQaFlUMlEwY1ZraTRGUjN5dlZOV3NkR1poZTRwYkhaVTh2MmRZWl9CUGpaLWRRYXFCT1hrYnZQa1BaN2paclhMM0c1eEZyZ1p4ZUNmdFRKNVBVZlhPYVdGMU44c1ZkbUpLS2VJWUl4MDJkbV9CR0pPcnA?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXNlMlhrZldhRUFxVFpaVmJDWnVjdERCQTVQbGJNX3BFNmxQc1p3Y0VWc0xjLWJoSUdPUHJUejFvVEV1SXJ4NkR4SExEMGtTb3FXaEplbU9vc0JCTVBKcTVxZ2RGaXJhLWtmMWF3MzVMM1VLd3NBZVVLUThZLUdGSTdtQmpkVW9tV3dodklSbHZhSDN2b2QtTFNjN2g3dmp4bGJBSnhXUS1qeW0yQXdrWg?oc=5"
-        },
-        {
-          "name": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZjbjROZDNGTDhhRER2eDF5NVJTbWNxU0h6UmZWcHA4eldMcHdlZGRrR19qQmk2T29BTC1WSlFtMnpsVFRtX1gtNVdWUG9UOWNBdFpET2ZkME1makc1S3F0TnNJUHJ6c21BQW5RRVlmMlRrdjZiTlQ5bGtJV1RvLS1hTldHY0hUY2dvT1ljcW5UMW5PMmV2Z0VzYlVQWkdoMzIxSExYdnhsWk1ib3hvMUppN1NEdEJPN2fSAcIBQVVfeXFMT0h4NGV5ay1pd2UwcFgwN1pxanl5RXMwazFHampnZ2l1QmdyUGo5WXNMSFdBWGc2VzNuTkxyaEo5NndjUF9pVlMzVjBXUXAxUHVYU3FsNTZUWi1lTGhrWFVNdURfYXFLYjhBR2ZXWVZjelQ3RmxOM3JTOWlSbTFPX0N4WjJacUxBeGhCY1Bjdjc0QjM1dXpmWWRDUkJMb19sZGVrOWxhU1g2UFRfdGRHYXhORl9uOUFIYWdnY016Zm9wQ3c?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3N0SjFFUFhUbDh6alM0Um1OWFk2a2pOODZDVU5POXFwOFpQaFlUMlEwY1ZraTRGUjN5dlZOV3NkR1poZTRwYkhaVTh2MmRZWl9CUGpaLWRRYXFCT1hrYnZQa1BaN2paclhMM0c1eEZyZ1p4ZUNmdFRKNVBVZlhPYVdGMU44c1ZkbUpLS2VJWUl4MDJkbV9CR0pPcnA?oc=5"
         }
       ]
     },
@@ -365,8 +405,8 @@
         },
         {
           "headline": "Maya Protocol Halts Network After $1.7M Hack",
-          "source": "ForkLog",
-          "snippet": "Maya Protocol Halts Network After $1.7M Hack &nbsp;&nbsp; ForkLog",
+          "source": "forklog.com",
+          "snippet": "Maya Protocol Halts Network After $1.7M Hack &nbsp;&nbsp; forklog.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zOF9qanNsRTNraU4ycHdrbjhTakFpcEFSVnozaWZwX0pYa3E0ejExODZVTFczMzR5YUQ3SjJjMWRZTFl1bmljTS15YjNISWdYZEt3VEs2c2JyeWhHbl9mdzF5VGdyOVh1VWhibXpUc09zcUxTWWc?oc=5"
         }
       ],
@@ -376,7 +416,7 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVExSnRzN2s2QlRNUEtyczg2QzQwakE2VDE1VWpXMWJ5NVRkMWdTd2NlNHJyb0l4Sm9Ob2toeG5rRW1EZDRaeXV5V3JMd25mdU80ZjNsZHBRakxPTGFkbUI1RXc1MnBPR3lwUEM1clFnRFhENXdESkxqazcxRUYxanZPb1ZBMlh2RGw2VTBRM25VMGYxaUpnOA?oc=5"
         },
         {
-          "name": "ForkLog",
+          "name": "forklog.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zOF9qanNsRTNraU4ycHdrbjhTakFpcEFSVnozaWZwX0pYa3E0ejExODZVTFczMzR5YUQ3SjJjMWRZTFl1bmljTS15YjNISWdYZEt3VEs2c2JyeWhHbl9mdzF5VGdyOVh1VWhibXpUc09zcUxTWWc?oc=5"
         }
       ]
@@ -709,8 +749,8 @@
       "evidence": [
         {
           "headline": "UAE Suspends Trade With Iran After Coming Under Renewed Missile Fire",
-          "source": "Haaretz",
-          "snippet": "UAE Suspends Trade With Iran After Coming Under Renewed Missile Fire &nbsp;&nbsp; Haaretz",
+          "source": "haaretz.com",
+          "snippet": "UAE Suspends Trade With Iran After Coming Under Renewed Missile Fire &nbsp;&nbsp; haaretz.com",
           "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaFhoQVprdGl4TmNVamE4cUE5SGd3MjNyOXpUUlV3WjJfQklUMF9oNUdGZnN4aURiY204aHBnVXlub245MFNHVXVscVA5UkpYM1VKVjJtYnZRQWQxUEFUazZ6LUhrQjdjaFR6bXU3UzI3dlRwSWtSRGxRTzRDc05xRE50dlZGLTRMX2p6Y1VJdVdWdHRlem5STUVrOWplVWNfMzdhZm9BbF93UGVjOFBWbzdYS3lBSVlpeXR0ejI0N2NHdUs4ZDFob3lTWm5USDR6SE04YTd3OGVEZEtEUGh5NHc1WUNzb1EtbENNMWhWSFZ4MmJNMTJCbnhFS0dSYWRsVUxR?oc=5"
         },
         {
@@ -721,14 +761,14 @@
         },
         {
           "headline": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire",
-          "source": "MyNorthwest.com",
-          "snippet": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire &nbsp;&nbsp; MyNorthwest.com",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGt6aG9ZMzZHdE1XM3Y2LXc5VFZHcFBfSVdRS1NJbFB6WmRkeTZMQ0hnQTd1UTRvVHNSN2NFb2cxQk9fa1ZocmM3QkJrV2lHY3d2cktkaUJmQ0NWd1FzeTdTaUtlZXY5ZVZ1TFpORl9FR0VVRnlodVFTNUJoRDFaM21PcDhzWERBOHc0VUZkbklSbGp4dGpxMm5RdlRNdlpQVExobkNlRlZGVzRwUEYwQ3dybC1xOGFUVk9udmk4NzN4bVBSdk1QZFcyaDlwd2VIMWp3?oc=5"
+          "source": "snntv.com",
+          "snippet": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire &nbsp;&nbsp; snntv.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlk0THF0a0hFamRSa1p6QWlSeGd3akhPR0M0ODNRVWdldFVwVTYtZnBIc1psaEtJc2pnbEZuRWM3ZUdxTEMweGFuOU4wWE9vQ0FZZU9kbGkyUm91cTNjZ2tmaWRkSDRPQVRPemI0VlBzSlB4c0JMQjAtcGdraFJuaFM0SENLYm5qako0NEVvRW0ybzFTblpJdVR4V1ZjTUNnLXBESWhyRkZOZnR5ZFBwZEc4M3c1NzVZeFl6cDZsVm5hSjlQTVdNams4MzLSAdIBQVVfeXFMT2k0X3hzcWNuaDhERGU5dF9PdTFIc0w3akV2elo3YlRVa2MtMm1heE0yN1NmU20tWGFSbW9mQTE2SWlNWXNIWFQ3RVZnckt2b0hDUVVZdGFFR2pTdVlZLVZTTXVfN1dvVmRDeVpFQWtiVGNldnhIdGJ0TzAzM2VfQkU4QkxHLTloenF1UTNVOVNnZndud2tXaVFBTWRCek9ybVRUOEg4eUNBVm9aTGRZOFVJbVQ1Qlc4c21jSF9ubFR1UEJ5X21EWEE0eHQ1ekFwdjJR?oc=5"
         }
       ],
       "sources": [
         {
-          "name": "Haaretz",
+          "name": "haaretz.com",
           "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaFhoQVprdGl4TmNVamE4cUE5SGd3MjNyOXpUUlV3WjJfQklUMF9oNUdGZnN4aURiY204aHBnVXlub245MFNHVXVscVA5UkpYM1VKVjJtYnZRQWQxUEFUazZ6LUhrQjdjaFR6bXU3UzI3dlRwSWtSRGxRTzRDc05xRE50dlZGLTRMX2p6Y1VJdVdWdHRlem5STUVrOWplVWNfMzdhZm9BbF93UGVjOFBWbzdYS3lBSVlpeXR0ejI0N2NHdUs4ZDFob3lTWm5USDR6SE04YTd3OGVEZEtEUGh5NHc1WUNzb1EtbENNMWhWSFZ4MmJNMTJCbnhFS0dSYWRsVUxR?oc=5"
         },
         {
@@ -736,8 +776,8 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDkzVmlVLU9kd2M1blZKOUhUVEtuSHY3Ul8tUkU0N3ZTT2I4SVN3LTdJYzN1U0lWR0l5Q0JvOFkzZkpnX1BKUFpheVdZeHBJaDFmQjZfS1ZmVnBaR3lmRnZKeGRLbmxRRm5tOFNNR2JITHNDVDRkamdzX3BMYW1JVEJseVFwTXp3dEhXWFBUYjZNeTIwTUR4SXVyU1hMbmxLQzlScDFSOGtFZw?oc=5"
         },
         {
-          "name": "MyNorthwest.com",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGt6aG9ZMzZHdE1XM3Y2LXc5VFZHcFBfSVdRS1NJbFB6WmRkeTZMQ0hnQTd1UTRvVHNSN2NFb2cxQk9fa1ZocmM3QkJrV2lHY3d2cktkaUJmQ0NWd1FzeTdTaUtlZXY5ZVZ1TFpORl9FR0VVRnlodVFTNUJoRDFaM21PcDhzWERBOHc0VUZkbklSbGp4dGpxMm5RdlRNdlpQVExobkNlRlZGVzRwUEYwQ3dybC1xOGFUVk9udmk4NzN4bVBSdk1QZFcyaDlwd2VIMWp3?oc=5"
+          "name": "snntv.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlk0THF0a0hFamRSa1p6QWlSeGd3akhPR0M0ODNRVWdldFVwVTYtZnBIc1psaEtJc2pnbEZuRWM3ZUdxTEMweGFuOU4wWE9vQ0FZZU9kbGkyUm91cTNjZ2tmaWRkSDRPQVRPemI0VlBzSlB4c0JMQjAtcGdraFJuaFM0SENLYm5qako0NEVvRW0ybzFTblpJdVR4V1ZjTUNnLXBESWhyRkZOZnR5ZFBwZEc4M3c1NzVZeFl6cDZsVm5hSjlQTVdNams4MzLSAdIBQVVfeXFMT2k0X3hzcWNuaDhERGU5dF9PdTFIc0w3akV2elo3YlRVa2MtMm1heE0yN1NmU20tWGFSbW9mQTE2SWlNWXNIWFQ3RVZnckt2b0hDUVVZdGFFR2pTdVlZLVZTTXVfN1dvVmRDeVpFQWtiVGNldnhIdGJ0TzAzM2VfQkU4QkxHLTloenF1UTNVOVNnZndud2tXaVFBTWRCek9ybVRUOEg4eUNBVm9aTGRZOFVJbVQ1Qlc4c21jSF9ubFR1UEJ5X21EWEE0eHQ1ekFwdjJR?oc=5"
         }
       ]
     },
@@ -1662,6 +1702,46 @@
       ]
     },
     {
+      "stable_id": "2026-08-19-1d4f29842986",
+      "original_title": "Trump to Host Crypto Executives as SEC Advances Token Rules",
+      "published_at": "2026-08-19T13:45:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Trump to Host Crypto Executives as SEC Advances Token Rules",
+          "source": "Bitbo",
+          "snippet": "Trump to Host Crypto Executives as SEC Advances Token Rules &nbsp;&nbsp; Bitbo",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1udXNiYXo3S3drazRNUjVEMUs0RmM0RUFkbHc4d2hPamJocFhwcXotQktSWG83TmJFdDFpVXo5R3RTY25xQWttWU9YYmt4WE1RZHk2bUE2cUY3SjZLU1NzRWhFSDZzX1pEN1Y3UWtiYjYtUQ?oc=5"
+        },
+        {
+          "headline": "Trump to host crypto executives as SEC considers regulations",
+          "source": "Jefferson City News Tribune",
+          "snippet": "Trump to host crypto executives as SEC considers regulations &nbsp;&nbsp; Jefferson City News Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNW1uLTR6RzJYQUVSdU43ZEM2YjN4ZjM4TDdCR1hZTWNNa1BCQkk1TlI3bWNKNmswYVpFNVUzcU8ySFRrTzJTc3FINUgwY0Rndnp0QlFINFNiV2d0TlQ2ME5WdG5nNGVBUlhSVUYzb0NwV182OWlIaFdNTnIySWowaEludGVObkIteXZOOEZJRnJwNTBscjhDb0xWZ0diY2JlazI5aTBCZ3NfQQ?oc=5"
+        },
+        {
+          "headline": "Trump to host crypto executives as SEC weighs regulations",
+          "source": "Yahoo Finance",
+          "snippet": "Trump to host crypto executives as SEC weighs regulations &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEl1YzF0anNSbW5JTTl3Mk1yWFFMSmE4Nm1ENWpQNVNfLVJwemZhUzNKX1VJOFhVU2RGVks0VGkxZmVrR1dPaHZlUUJYZVc5b2kzZUFKdi1GUS1jZVlqbThERTV5OEFxOWlIbV8zdFdFbGw1QmJvQzJGMW1uMU1SYzdwaWt2SzRWUHBnRm1wZ0RmWVVqNkJYcW5ESENGQQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bitbo",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1udXNiYXo3S3drazRNUjVEMUs0RmM0RUFkbHc4d2hPamJocFhwcXotQktSWG83TmJFdDFpVXo5R3RTY25xQWttWU9YYmt4WE1RZHk2bUE2cUY3SjZLU1NzRWhFSDZzX1pEN1Y3UWtiYjYtUQ?oc=5"
+        },
+        {
+          "name": "Jefferson City News Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNW1uLTR6RzJYQUVSdU43ZEM2YjN4ZjM4TDdCR1hZTWNNa1BCQkk1TlI3bWNKNmswYVpFNVUzcU8ySFRrTzJTc3FINUgwY0Rndnp0QlFINFNiV2d0TlQ2ME5WdG5nNGVBUlhSVUYzb0NwV182OWlIaFdNTnIySWowaEludGVObkIteXZOOEZJRnJwNTBscjhDb0xWZ0diY2JlazI5aTBCZ3NfQQ?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEl1YzF0anNSbW5JTTl3Mk1yWFFMSmE4Nm1ENWpQNVNfLVJwemZhUzNKX1VJOFhVU2RGVks0VGkxZmVrR1dPaHZlUUJYZVc5b2kzZUFKdi1GUS1jZVlqbThERTV5OEFxOWlIbV8zdFdFbGw1QmJvQzJGMW1uMU1SYzdwaWt2SzRWUHBnRm1wZ0RmWVVqNkJYcW5ESENGQQ?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-19-b5ace0110ad9",
       "original_title": "트럼프 대통령의 오늘 ‘기술업계 대상 연설’은 암호화폐 업계 경영진과 금융규제 당국자들이 참석하는 디지털자산 정책 행사 로 알려졌다. 예상 참석자는 다음과 같다. 폴 앳킨스 증권거래위원회(SEC) 위원장 마이크 셀리그 상품선물거래위원회(CFTC) 위원장 패트릭 위트 백악관 암호화폐 정책 고문 Coinbase Ripple Andreessen Horowitz Nasdaq 암호화폐 업계 협회 관계",
       "published_at": "2026-08-19T13:29:01Z",
@@ -2198,106 +2278,6 @@
         {
           "name": "Coin Gabbar",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmxVTHZyLXhiSUtrWmFWM1dPanNoZENtN2wzVERtU25aWkVSTS1NOUJNckhuUkxBUFFrNTVCTEU1MzR4UXN2QkdzYlA2X0RuUjV2dUdzNFMtTVhIamd1a3U2cmdpUHVsUUFmYlZpa3MzdDY1VmJXanZYYmNsZXd4UXhuSjA4aDZHYnVwRS0xNVVUWF9xSG4xNzJkRGp3bGxTZm43RGZ0elhtQ3podWZScWxXaWg?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-095f01112a96",
-      "original_title": "Dollar softens as bond market steadies ahead of Fed minutes By Reuters",
-      "published_at": "2026-08-19T11:41:05Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Dollar softens as bond market steadies ahead of Fed minutes By Reuters",
-          "source": "Investing.com Australia",
-          "snippet": "Dollar softens as bond market steadies ahead of Fed minutes By Reuters &nbsp;&nbsp; Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUVnQ296VHRZRlEza1dRNnIyek9ETktJSTk0OExyVFNiS29ET0txbjdnOS1LMnlITVk1c2Q5RnhUb29VbUZxeFZsVnpubHJxZjRwNy1ZZWxXVVlRRlN3WlFjQ3ZHS2I1cWkzUGl6dk1DUzQ0UFBxQ05oZ2RRSXl4T2lycWN2QTZqVmdndi1jLXpCaFpkenhKbmRrbXBJcWkzY1BoTkhFTENZT1oxNlRDLUJ5M2tSZFJjd2dDRVB5MA?oc=5"
-        },
-        {
-          "headline": "Dollar softens as bond market steadies ahead of Fed minutes",
-          "source": "NewsBreak: Local News & Alerts",
-          "snippet": "Dollar softens as bond market steadies ahead of Fed minutes &nbsp;&nbsp; NewsBreak: Local News & Alerts",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXIzbU45WVFxMXFuODBKT3B1NVJ0Mkh1TklKSi1XZnR5M0xKLTIzMVc0V0RGM0I4cUhWSlZ3NEF3TGZwYkNZRVlseXoxVXZyRGpCX2J3bGt3S252MFhKd1lHMXdKVUVMM25vQWNUaDI1aVJQTWpNTV9uTDZNUmlnS09BTzJOYnlQZGZZandOWV9Mazl4OEhGLVRKQTJfSmNGaHN4SjRUSnVqSUxWR0kyNTBicEQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUVnQ296VHRZRlEza1dRNnIyek9ETktJSTk0OExyVFNiS29ET0txbjdnOS1LMnlITVk1c2Q5RnhUb29VbUZxeFZsVnpubHJxZjRwNy1ZZWxXVVlRRlN3WlFjQ3ZHS2I1cWkzUGl6dk1DUzQ0UFBxQ05oZ2RRSXl4T2lycWN2QTZqVmdndi1jLXpCaFpkenhKbmRrbXBJcWkzY1BoTkhFTENZT1oxNlRDLUJ5M2tSZFJjd2dDRVB5MA?oc=5"
-        },
-        {
-          "name": "NewsBreak: Local News & Alerts",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXIzbU45WVFxMXFuODBKT3B1NVJ0Mkh1TklKSi1XZnR5M0xKLTIzMVc0V0RGM0I4cUhWSlZ3NEF3TGZwYkNZRVlseXoxVXZyRGpCX2J3bGt3S252MFhKd1lHMXdKVUVMM25vQWNUaDI1aVJQTWpNTV9uTDZNUmlnS09BTzJOYnlQZGZZandOWV9Mazl4OEhGLVRKQTJfSmNGaHN4SjRUSnVqSUxWR0kyNTBicEQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-562cbd56c746",
-      "original_title": "Iraqi parliament speaker asks Iranian counterpart for special status on Hormuz oil exports",
-      "published_at": "2026-08-19T11:30:00Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "Iraqi parliament speaker asks Iranian counterpart for special status on Hormuz oil exports",
-          "source": "Al Arabiya English",
-          "snippet": "Iraqi parliament speaker asks Iranian counterpart for special status on Hormuz oil exports &nbsp;&nbsp; Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUw4aFF0SDR0djl1b1J6czlIVERZSzc1NkQ2aHhXX21OZEx3ZHNRTEEwRENNLWdudUJhME5aU1ROSlRrWldXa0R3d2p3MF9oVWMyd01Gam1PNFF2d2YyT25mcWE3MkZlMVVrdUtVc3FRd21OcUE4YUlxaUdvUmhoRWRxYkhKQUIyUjhXUGtBUHBsNU5UMXFuQjd0ZmVjckNUSVBkME5VblJaRGlZNWpwaWFlbm9td3Yxci1LRGFOb29ub1lQdTAxdkdwY1ROTEFpOHNFaThDNmd2QUZGOEY3REJjOHNzam_SAecBQVVfeXFMTmVMOGhRdEg0dHY5dW9SenM5SFREWUs3NTZENmh4V19tTmRMd2RzUUxBMERDTS1nbnVCYTBOWlNUTkpUa1pXV2tEd3dqdzBfaFVjMndNRmptTzRRdndmMk9uZnFhNzJGZTFVa3VLVXNxUXdtTnFBOGFJcWlHb1JoaEVkcWJISkFCMlI4V1BrQVBwbDVOVDFxbkI3dGZlY3JDVElQZDBOVW5SWkRpWTVqcGlhZW5vbXd2MXItS0RhTm9vbm9ZUHUwMXZHcGNUTkxBaThzRWk4QzZndkFGRjhGN0RCYzhzc2pv?oc=5"
-        },
-        {
-          "headline": "FinancialJuice: Iraqi parliament speaker calls for special status for Iraqi oil exports via Hormuz in meeting with Iran’s Qalibaf",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9727578/Iraqi-parliament-speaker-calls-for-special-status-for-Iraqi-oil-exports-via-Hormuz-in-meeting-with-Irans-Qalibaf.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUw4aFF0SDR0djl1b1J6czlIVERZSzc1NkQ2aHhXX21OZEx3ZHNRTEEwRENNLWdudUJhME5aU1ROSlRrWldXa0R3d2p3MF9oVWMyd01Gam1PNFF2d2YyT25mcWE3MkZlMVVrdUtVc3FRd21OcUE4YUlxaUdvUmhoRWRxYkhKQUIyUjhXUGtBUHBsNU5UMXFuQjd0ZmVjckNUSVBkME5VblJaRGlZNWpwaWFlbm9td3Yxci1LRGFOb29ub1lQdTAxdkdwY1ROTEFpOHNFaThDNmd2QUZGOEY3REJjOHNzam_SAecBQVVfeXFMTmVMOGhRdEg0dHY5dW9SenM5SFREWUs3NTZENmh4V19tTmRMd2RzUUxBMERDTS1nbnVCYTBOWlNUTkpUa1pXV2tEd3dqdzBfaFVjMndNRmptTzRRdndmMk9uZnFhNzJGZTFVa3VLVXNxUXdtTnFBOGFJcWlHb1JoaEVkcWJISkFCMlI4V1BrQVBwbDVOVDFxbkI3dGZlY3JDVElQZDBOVW5SWkRpWTVqcGlhZW5vbXd2MXItS0RhTm9vbm9ZUHUwMXZHcGNUTkxBaThzRWk4QzZndkFGRjhGN0RCYzhzc2pv?oc=5"
-        },
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9727578/Iraqi-parliament-speaker-calls-for-special-status-for-Iraqi-oil-exports-via-Hormuz-in-meeting-with-Irans-Qalibaf.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-77fb29a449a3",
-      "original_title": "What to Expect From FOMC Minutes Today?",
-      "published_at": "2026-08-19T11:24:55Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "What to Expect From FOMC Minutes Today?",
-          "source": "CryptoRank",
-          "snippet": "What to Expect From FOMC Minutes Today? &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZU8wcHdfUUwzakRoV1N6TTZFS0k1Qkh5WC1aREZEbkk2dnRsUEpuWldHMk4wbTVKOGVRQlJrVUZsUlhXTkZQSTlDcWdleUk3aUFVOW9LdGRxLXd1QUhLdHVqbTdUakhYenVKczh6dExGUVVDSzBsNHRHbnlhQ0JsR2Z1eVRCaEVQcmpwbEJB?oc=5"
-        },
-        {
-          "headline": "What to Expect From FOMC Minutes Today?",
-          "source": "Coinpedia",
-          "snippet": "What to Expect From FOMC Minutes Today? &nbsp;&nbsp; Coinpedia",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmZDSHdFd1cyT0FBa2s2WmphUlhZSXYwNWV4NTN5dXhTd2hnVy12MzV4NGJoNEJ1ZUd5UVhQYUxFYzB2MWEyeXNHUk5DMWYzN2pHQW81RkxuUW5tcUk2OEFjNXltVzFXc1A0NFdMa2F2RFhxVmZ2T1VwbUhCRXNBYjBtRk1ld9IBhgFBVV95cUxNUmZDSHdFd1cyT0FBa2s2WmphUlhZSXYwNWV4NTN5dXhTd2hnVy12MzV4NGJoNEJ1ZUd5UVhQYUxFYzB2MWEyeXNHUk5DMWYzN2pHQW81RkxuUW5tcUk2OEFjNXltVzFXc1A0NFdMa2F2RFhxVmZ2T1VwbUhCRXNBYjBtRk1ldw?oc=5"
-        },
-        {
-          "headline": "FOMC Minutes Gold Update: What to Expect",
-          "source": "GoldSilver",
-          "snippet": "FOMC Minutes Gold Update: What to Expect &nbsp;&nbsp; GoldSilver",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFBaaDJ5VGEyVGV1LVBadGdxeTdrWVprWDlpTDdDNjE5QUdxTWVuMjV5SnBwdzdwclBvN2xRQThCN21VSU9UbW56WDV6RHBKTzY4LUZPRE0yX3VmLWp4aU14bGZWQlhNT0Z6dlFpTHBNTXcybkUtbXUzUVhGTHNxS1F6OTR3M0FqcTAzemNXY3otQ0Z1M2ZMSXE1MVdLRVlEMlE?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZU8wcHdfUUwzakRoV1N6TTZFS0k1Qkh5WC1aREZEbkk2dnRsUEpuWldHMk4wbTVKOGVRQlJrVUZsUlhXTkZQSTlDcWdleUk3aUFVOW9LdGRxLXd1QUhLdHVqbTdUakhYenVKczh6dExGUVVDSzBsNHRHbnlhQ0JsR2Z1eVRCaEVQcmpwbEJB?oc=5"
-        },
-        {
-          "name": "Coinpedia",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmZDSHdFd1cyT0FBa2s2WmphUlhZSXYwNWV4NTN5dXhTd2hnVy12MzV4NGJoNEJ1ZUd5UVhQYUxFYzB2MWEyeXNHUk5DMWYzN2pHQW81RkxuUW5tcUk2OEFjNXltVzFXc1A0NFdMa2F2RFhxVmZ2T1VwbUhCRXNBYjBtRk1ld9IBhgFBVV95cUxNUmZDSHdFd1cyT0FBa2s2WmphUlhZSXYwNWV4NTN5dXhTd2hnVy12MzV4NGJoNEJ1ZUd5UVhQYUxFYzB2MWEyeXNHUk5DMWYzN2pHQW81RkxuUW5tcUk2OEFjNXltVzFXc1A0NFdMa2F2RFhxVmZ2T1VwbUhCRXNBYjBtRk1ldw?oc=5"
-        },
-        {
-          "name": "GoldSilver",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFBaaDJ5VGEyVGV1LVBadGdxeTdrWVprWDlpTDdDNjE5QUdxTWVuMjV5SnBwdzdwclBvN2xRQThCN21VSU9UbW56WDV6RHBKTzY4LUZPRE0yX3VmLWp4aU14bGZWQlhNT0Z6dlFpTHBNTXcybkUtbXUzUVhGTHNxS1F6OTR3M0FqcTAzemNXY3otQ0Z1M2ZMSXE1MVdLRVlEMlE?oc=5"
         }
       ]
     }
