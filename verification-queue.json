@@ -1,6 +1,86 @@
 {
-  "updated_at_kst": "2026-08-19T20:03:20+09:00",
+  "updated_at_kst": "2026-08-19T21:00:43+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-19-b036bbb22457",
+      "original_title": "FinancialJuice: Secured Overnight Financing Rate 3.65% August 18 vs 3.66% August 17.",
+      "published_at": "2026-08-19T11:59:57Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Secured Overnight Financing Rate 3.65% August 18 vs 3.66% August 17.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9727616/Secured-Overnight-Financing-Rate-365-August-18-vs-366-August-17.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9727616/Secured-Overnight-Financing-Rate-365-August-18-vs-366-August-17.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-19-9a43871fcf60",
+      "original_title": "FinancialJuice: Deutsche Bank: Equities and Bonds Under Pressure as Energy Prices Rise",
+      "published_at": "2026-08-19T11:59:56Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Deutsche Bank: Equities and Bonds Under Pressure as Energy Prices Rise",
+          "source": "FinancialJuice",
+          "snippet": "Markets had another difficult session, with equities hit by a sharp chip-stock selloff while several global bond yields pushed to multi-year highs. The S&amp;P 500 fell for a third straight session, Germany’s 10-year bund yield reached its highest level since 2011, and oil moved higher again as there remained no sign of progress in US-Iran talks. US Treasuries were the main exception, with the 10-year yield edging lower after weaker US data. The bond selloff remains the bigger story, driven by longer-term concerns around fiscal deficits and the AI investment boom, alongside renewed near-term inflation pressure. One-year inflation swaps moved higher in both the US and Europe as Brent reached a three-week high above $91 a barrel and European natural gas prices climbed to a three-year high, adding particular pressure to European bonds exposed to the energy shock.",
+          "url": "https://www.financialjuice.com/News/9727615/Deutsche-Bank-Equities-and-Bonds-Under-Pressure-as-Energy-Prices-Rise---FJElite.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9727615/Deutsche-Bank-Equities-and-Bonds-Under-Pressure-as-Energy-Prices-Rise---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-19-c453431a2dac",
+      "original_title": "FinancialJuice: Iraqi parliament speaker calls for special status for Iraqi oil exports via Hormuz in meeting with Iran’s Qalibaf",
+      "published_at": "2026-08-19T11:23:08Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iraqi parliament speaker calls for special status for Iraqi oil exports via Hormuz in meeting with Iran’s Qalibaf",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9727578/Iraqi-parliament-speaker-calls-for-special-status-for-Iraqi-oil-exports-via-Hormuz-in-meeting-with-Irans-Qalibaf.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9727578/Iraqi-parliament-speaker-calls-for-special-status-for-Iraqi-oil-exports-via-Hormuz-in-meeting-with-Irans-Qalibaf.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-19-b7f5e5a441f2",
+      "original_title": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
+      "published_at": "2026-08-19T11:14:50Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-19-7807aa742f23",
       "original_title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
@@ -52,12 +132,42 @@
           "source": "Reuters",
           "snippet": "Crypto Weekly: Trump's venture gets approval, SEC's pitches new rules &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LcVZhSjF3XzdOdDBiTG9ITjVjTXpTVkp0WjZFbktOa1VNbzczZUswdjR6MUlrcFRuWlhOTVFCLW81NmNQdDJ4NFp6am1NeHMyODd2d1ZKVzJrUENSTGhnVDBycjBlUE0?oc=5"
+        },
+        {
+          "headline": "Crypto Weekly: Trump's venture gets approval, SEC's pitches new rules",
+          "source": "Yahoo Finance",
+          "snippet": "Crypto Weekly: Trump's venture gets approval, SEC's pitches new rules &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcjFPQURrdzZtUzVNRmZSOHVaWUdINjdlMVNLMGF5UEVoRExIaGpHU1VXRmhLYXJWUnlQMzJ3b2E5ZUJkVTVWV1c0dktfMEFNZHNDcWl6TEhONzdLY0Z0Y0R3bk14RHV5V09GS1pkS1Zlalk4Q1lzMHNkQ0xRb1pxaUxzX0VreXM?oc=5"
         }
       ],
       "sources": [
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LcVZhSjF3XzdOdDBiTG9ITjVjTXpTVkp0WjZFbktOa1VNbzczZUswdjR6MUlrcFRuWlhOTVFCLW81NmNQdDJ4NFp6am1NeHMyODd2d1ZKVzJrUENSTGhnVDBycjBlUE0?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcjFPQURrdzZtUzVNRmZSOHVaWUdINjdlMVNLMGF5UEVoRExIaGpHU1VXRmhLYXJWUnlQMzJ3b2E5ZUJkVTVWV1c0dktfMEFNZHNDcWl6TEhONzdLY0Z0Y0R3bk14RHV5V09GS1pkS1Zlalk4Q1lzMHNkQ0xRb1pxaUxzX0VreXM?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-19-64aec7ebb957",
+      "original_title": "Canadian tariffs, Trump poll, Disney v FCC and Qusra",
+      "published_at": "2026-08-19T10:02:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Canadian tariffs, Trump poll, Disney v FCC and Qusra",
+          "source": "Reuters",
+          "snippet": "Canadian tariffs, Trump poll, Disney v FCC and Qusra &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2tySXlVdjNsc0E2Q1hlc3Nod2swM3RGaFVoeEs4NVFrMC1RdlI1bzQtcW5zMmRkb3gydDBlS1FOYlJJYTVneXlucFRxdWdnUFJhRlhCVmNGR0dpQlZwaXhlbm5Xdm1PZGZVZk5XLW5BXzBhaXN4ZTAzWGFZdnhITGFnVXBtS2sxNEM0?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2tySXlVdjNsc0E2Q1hlc3Nod2swM3RGaFVoeEs4NVFrMC1RdlI1bzQtcW5zMmRkb3gydDBlS1FOYlJJYTVneXlucFRxdWdnUFJhRlhCVmNGR0dpQlZwaXhlbm5Xdm1PZGZVZk5XLW5BXzBhaXN4ZTAzWGFZdnhITGFnVXBtS2sxNEM0?oc=5"
         }
       ]
     },
@@ -235,8 +345,8 @@
         },
         {
           "headline": "Oil extends climb on prolonged Hormuz export uncertainty",
-          "source": "The Express Tribune",
-          "snippet": "Oil extends climb on prolonged Hormuz export uncertainty &nbsp;&nbsp; The Express Tribune",
+          "source": "tribune.com.pk",
+          "snippet": "Oil extends climb on prolonged Hormuz export uncertainty &nbsp;&nbsp; tribune.com.pk",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM2RTdVhTMUxsRU9YdUpGWFBwenFSY1JSYURzV2RmR1RoV2pCMnA1SFNwa2lNQk5IU0tYdFQ4NjRvZmk5cm1lcFhrblNybnhBQmViMzlUeU5yeGNVdXI3aVp1YjlXZ1hjLVZ5dGZoZlZLNXFmbHNfd1NoVGNENktoa1FqYzNIOVp0TDd5NTVpeDJ3ZGwtQVU1btIBoAFBVV95cUxQY3ZXdVVnNmt4SnlJbmJQZlB6WkU4ZzBadEUxcGs1UjNNTTFxTEhrTzJ0V1hGRTR5STFnTEJqMS1aOUU2eEZwYVVuMHZfSEtvRjRldzRiU25tQjN1MEpuVmI0bUxNXzRLVjdJLV9PSUhTTnhpYUlCV2E1MVpFZUlKV2tXeGhuM2JGbzByWjAzRndZMmk3ZGdDckpndXBtNk1r?oc=5"
         }
       ],
@@ -246,7 +356,7 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKOG1fWlBmQjhPZ3NwdFNPQ0QxakJQczl4eTFMVWRrMWx0VmJRQTVhbzE5T2oyY1FlYzJsNEhwQ2RqNW5OM0NnQmZCWU5YZTFSZTQ4?oc=5"
         },
         {
-          "name": "The Express Tribune",
+          "name": "tribune.com.pk",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM2RTdVhTMUxsRU9YdUpGWFBwenFSY1JSYURzV2RmR1RoV2pCMnA1SFNwa2lNQk5IU0tYdFQ4NjRvZmk5cm1lcFhrblNybnhBQmViMzlUeU5yeGNVdXI3aVp1YjlXZ1hjLVZ5dGZoZlZLNXFmbHNfd1NoVGNENktoa1FqYzNIOVp0TDd5NTVpeDJ3ZGwtQVU1btIBoAFBVV95cUxQY3ZXdVVnNmt4SnlJbmJQZlB6WkU4ZzBadEUxcGs1UjNNTTFxTEhrTzJ0V1hGRTR5STFnTEJqMS1aOUU2eEZwYVVuMHZfSEtvRjRldzRiU25tQjN1MEpuVmI0bUxNXzRLVjdJLV9PSUhTTnhpYUlCV2E1MVpFZUlKV2tXeGhuM2JGbzByWjAzRndZMmk3ZGdDckpndXBtNk1r?oc=5"
         }
       ]
@@ -454,6 +564,12 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHR2cFFSdElQNExFdUlUVkNGTWlIREtWVDV3TWhUTTZ2VllTbUMwZ3c3ZFBtb2JPVVdydEVfbVZWUmpFdmZsZEMyTEJwTHUwTU9nbGlBa2JBbk1OY2UxcVFwTFNXSFVIWHlRMXd1ZGlWYnFjSFJQMWNRNExUdlJnUGdPTVpodGs0ak9PTVU1RTFaLUJMajU2T0l1dmdCUE82R3Y1NUd0TFlyVWVQVDJoQmo2QQ?oc=5"
         },
         {
+          "headline": "Trump takes Iran hard line as Hormuz tensions mark new normal",
+          "source": "themalaysianreserve.com",
+          "snippet": "Trump takes Iran hard line as Hormuz tensions mark new normal &nbsp;&nbsp; themalaysianreserve.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVo3Ym9YblBTTVoteGZ5emRXY1FYeGNuT3EtTUdFUnptQ2h0QkhfaThyZGFEalY3Z3lWalF1Z1JaLVctLWxCSWxJa3BhM0Zqa1RkSGZvbTNIWlN2WVdHSHJRenJZcV9yWmtuS0RZa1VzT05WeHh4N0QzaVQwa3ZZTVZLd2QtZWtlU3lhcWZSYVN3WS1MUGtWTnBZbjFCVW5QOHFsSDVYd1hQTURrZFE?oc=5"
+        },
+        {
           "headline": "Trump Takes Hard Line on Iran as Hormuz Standoff Drags On",
           "source": "Bloomberg.com",
           "snippet": "Trump Takes Hard Line on Iran as Hormuz Standoff Drags On &nbsp;&nbsp; Bloomberg.com",
@@ -470,6 +586,10 @@
         {
           "name": "Energy Connects",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHR2cFFSdElQNExFdUlUVkNGTWlIREtWVDV3TWhUTTZ2VllTbUMwZ3c3ZFBtb2JPVVdydEVfbVZWUmpFdmZsZEMyTEJwTHUwTU9nbGlBa2JBbk1OY2UxcVFwTFNXSFVIWHlRMXd1ZGlWYnFjSFJQMWNRNExUdlJnUGdPTVpodGs0ak9PTVU1RTFaLUJMajU2T0l1dmdCUE82R3Y1NUd0TFlyVWVQVDJoQmo2QQ?oc=5"
+        },
+        {
+          "name": "themalaysianreserve.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVo3Ym9YblBTTVoteGZ5emRXY1FYeGNuT3EtTUdFUnptQ2h0QkhfaThyZGFEalY3Z3lWalF1Z1JaLVctLWxCSWxJa3BhM0Zqa1RkSGZvbTNIWlN2WVdHSHJRenJZcV9yWmtuS0RZa1VzT05WeHh4N0QzaVQwa3ZZTVZLd2QtZWtlU3lhcWZSYVN3WS1MUGtWTnBZbjFCVW5QOHFsSDVYd1hQTURrZFE?oc=5"
         },
         {
           "name": "Bloomberg.com",
@@ -501,9 +621,9 @@
         },
         {
           "headline": "US SEC proposes new rules for crypto assets",
-          "source": "Yahoo Finance",
-          "snippet": "US SEC proposes new rules for crypto assets &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTlVMYXhyckpENXRKeHpYTmdXNHVoNHgtWWhSeVplclVrOWN4QW1KRUs1a3J5dG1BMXZaejlOT0NKdUstMEtyN3hOVTRacmFyOENIOEN4dU9LYnM2U0MxdFdZMHdmOGlGNFI1VU81ZjgwaWI3M0RFTFk3NmN6cndSbW4wRTlTNWs5T0hYcmI3a0VFSzNvSlBGLQ?oc=5"
+          "source": "Yahoo Finance Singapore",
+          "snippet": "US SEC proposes new rules for crypto assets &nbsp;&nbsp; Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOXl3LW5wUXN6V3NtYU9PNVpOdE15Z0p5ZWlrdnBIai1uZlpTN1FHV0JNR0ZUV182dENtdlVuTzVSczdaRVJ6VFRueXdUZ1Vzb3BOZ09JaDBZeTg0c29KMGxCd1lmLU5NSENteVFWX3VCYk9nekFSWlFVazRlNmNsT200TQ?oc=5"
         },
         {
           "headline": "SEC Proposes New Regulation Crypto Assets",
@@ -522,8 +642,8 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDlJVWJJRi1zeWkzNXRaSkJ6YzFpSkp6RE92VlBzQ0JXWVp2a0Q3QVJfNHMwdVFIMUhpMkM3YTV6U1BUdjJSWV9UUmYwY3ZBMV82UW9NeWRVQlF0QlRwYWNucXQycFNLeHY3UWJaSWQ0NFA0UFhla0xtYTZNcFFyX3BLREM5T2ZvZjRPcExlM2V0Vjl0Sl80R3dnUVl3a2w5eEZQOG5ZOUFCMW5JN09SdmJmVDEzS2s?oc=5"
         },
         {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTlVMYXhyckpENXRKeHpYTmdXNHVoNHgtWWhSeVplclVrOWN4QW1KRUs1a3J5dG1BMXZaejlOT0NKdUstMEtyN3hOVTRacmFyOENIOEN4dU9LYnM2U0MxdFdZMHdmOGlGNFI1VU81ZjgwaWI3M0RFTFk3NmN6cndSbW4wRTlTNWs5T0hYcmI3a0VFSzNvSlBGLQ?oc=5"
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOXl3LW5wUXN6V3NtYU9PNVpOdE15Z0p5ZWlrdnBIai1uZlpTN1FHV0JNR0ZUV182dENtdlVuTzVSczdaRVJ6VFRueXdUZ1Vzb3BOZ09JaDBZeTg0c29KMGxCd1lmLU5NSENteVFWX3VCYk9nekFSWlFVazRlNmNsT200TQ?oc=5"
         },
         {
           "name": "SEC",
@@ -675,8 +795,8 @@
         },
         {
           "headline": "Maya Protocol Exploited For $1.7M In BTC And Other Assets",
-          "source": "Bitcoin World",
-          "snippet": "Maya Protocol Exploited For $1.7M In BTC And Other Assets &nbsp;&nbsp; Bitcoin World",
+          "source": "bitcoinworld.co.in",
+          "snippet": "Maya Protocol Exploited For $1.7M In BTC And Other Assets &nbsp;&nbsp; bitcoinworld.co.in",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNVBTcFllT1dxdjNZOXlPU0JyZmJpZks3Z1JlM1ltMXU3WExjdThEYTZ2aGVlbXRCQThuZzd0SkVJTEVXNVoteHdYbWlnVzQ4LTFLLTFIQWp2M0NaTHphbWxRZWphdzY2UjdVeQ?oc=5"
         }
       ],
@@ -686,7 +806,7 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50N1pXaE9ad0FLTGN5MWlWNmprd0FBcUpPZTFpcHR1ZmhLODEyUG9KbTVySTJMbkJpejc2SFJXXzVjX1RKM01HZ2RPMGZFeEY3NVZnQ2dzNXNDZkEwb0Q4WUpSWFVra2JYamZmcWxqaW5UWnBG?oc=5"
         },
         {
-          "name": "Bitcoin World",
+          "name": "bitcoinworld.co.in",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNVBTcFllT1dxdjNZOXlPU0JyZmJpZks3Z1JlM1ltMXU3WExjdThEYTZ2aGVlbXRCQThuZzd0SkVJTEVXNVoteHdYbWlnVzQ4LTFLLTFIQWp2M0NaTHphbWxRZWphdzY2UjdVeQ?oc=5"
         }
       ]
@@ -894,10 +1014,10 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYXZJOG5temF4YjFVaG5KLWNoenJCQnl6U2Izd2VrTzh5eE5ud1Vrc0hCSHNXVjItU05TV3FjclU4eTJPd29fdktCcHFFVFc2dTU4QXJ4X3M1ZFI3LTVSSndMOGJJMW5EcHVpank5eVdDQzRTWkRoWVRTZEZvbUFMb1ZWY2FVT2NPMkduR1kxR09JREdZZ3V4YkhjdXoxcFZrRW50OHhPbjcyZC04bVNR?oc=5"
         },
         {
-          "headline": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited",
-          "source": "whbl.com",
-          "snippet": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited &nbsp;&nbsp; whbl.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVRBcVFObGY5TzE1OF9ZNmFUUGNyc3ZTR3YwVDBEYTJWRlpPQjBSZlBXOHNjck1mSWpQa0tkd0ptcVQwcmxfZFEzV2RXU3Ftek5wbE9yWjhTdU12aHJUUE9rTW5nT3J4RXJrQUt4eVd4X1pfWnd3ekpmcHlKbkFzWFJOSzFzUGZ5VHE5VTZUZm1uYWI5dDY2REVWWG5xdFFnb1JXcjQzUnoxc1ZE?oc=5"
+          "headline": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited By Reuters",
+          "source": "Investing.com",
+          "snippet": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited By Reuters &nbsp;&nbsp; Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEdvb2dPLWZrWXcxZVhqRVRDeWpCcW5BRWdMMnkwdHZSQjBnTDVRV3k5TzhCVzFaZjdlY081a3l5NXFoUVl6bFhsbV9CVjdMSjVZNGxOUXRvU2xSMW1OOGF5X2pNMms5ZTlCMHBITVRDaGlacVUtN1JFUV9GRTRQSG1mb09ya2YyUXFJT0F0TzBGLThJdVMzaGdrdWwwZ0JObHpUM1VDVXp2OTYza2FDTTRObFQyQkt1eVhQMWxzTVVZLVVOdlp1RDJ3?oc=5"
         }
       ],
       "sources": [
@@ -906,8 +1026,8 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYXZJOG5temF4YjFVaG5KLWNoenJCQnl6U2Izd2VrTzh5eE5ud1Vrc0hCSHNXVjItU05TV3FjclU4eTJPd29fdktCcHFFVFc2dTU4QXJ4X3M1ZFI3LTVSSndMOGJJMW5EcHVpank5eVdDQzRTWkRoWVRTZEZvbUFMb1ZWY2FVT2NPMkduR1kxR09JREdZZ3V4YkhjdXoxcFZrRW50OHhPbjcyZC04bVNR?oc=5"
         },
         {
-          "name": "whbl.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVRBcVFObGY5TzE1OF9ZNmFUUGNyc3ZTR3YwVDBEYTJWRlpPQjBSZlBXOHNjck1mSWpQa0tkd0ptcVQwcmxfZFEzV2RXU3Ftek5wbE9yWjhTdU12aHJUUE9rTW5nT3J4RXJrQUt4eVd4X1pfWnd3ekpmcHlKbkFzWFJOSzFzUGZ5VHE5VTZUZm1uYWI5dDY2REVWWG5xdFFnb1JXcjQzUnoxc1ZE?oc=5"
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEdvb2dPLWZrWXcxZVhqRVRDeWpCcW5BRWdMMnkwdHZSQjBnTDVRV3k5TzhCVzFaZjdlY081a3l5NXFoUVl6bFhsbV9CVjdMSjVZNGxOUXRvU2xSMW1OOGF5X2pNMms5ZTlCMHBITVRDaGlacVUtN1JFUV9GRTRQSG1mb09ya2YyUXFJT0F0TzBGLThJdVMzaGdrdWwwZ0JObHpUM1VDVXp2OTYza2FDTTRObFQyQkt1eVhQMWxzTVVZLVVOdlp1RDJ3?oc=5"
         }
       ]
     },
@@ -1031,6 +1151,26 @@
           "headline": "Bond selloff slows, oil climbs further",
           "source": "Reuters",
           "snippet": "Bond selloff slows, oil climbs further &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-19-0d766f4346a2",
+      "original_title": "Bonds selloff pressures Europe, oil climbs further",
+      "published_at": "2026-08-19T02:51:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bonds selloff pressures Europe, oil climbs further",
+          "source": "Reuters",
+          "snippet": "Bonds selloff pressures Europe, oil climbs further &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5"
         }
       ],
@@ -1191,8 +1331,8 @@
         },
         {
           "headline": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut",
-          "source": "The Korea Times",
-          "snippet": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut &nbsp;&nbsp; The Korea Times",
+          "source": "koreatimes.co.kr",
+          "snippet": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut &nbsp;&nbsp; koreatimes.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNlU5dGlBZjRvXzZRRlZhOWFMazdlRG5VNDhPY003czdDTG9URHotWUVOVml4WDFJRmtWMkRaV0hwb19id0JOY0ZTRDJwMUxZcURrbWtfWU13czZ5VDhtSXdzZ1BodXVUQlFZbks3WkJ4ZnV5Z3FfYWlpRDFGMVJtX0Nrb2ZrY0FuYXFscExYRDMyNUZIXzhXaUY2OUlzYXJqcXpxZG1YNGd2b2xIUmlqZ1FudVloUjFZY2FTSmhVT0cyYkHSAcMBQVVfeXFMUDZVOXRpQWY0b182UUZWYTlhTGs3ZURuVTQ4T2NNN3M3Q0xvVER6LVlFTlZpeFgxSUZrVjJEWldIcG9fYndCTmNGU0QycDFMWXFEa21rX1lNd3M2eVQ4bUl3c2dQaHV1VEJRWW5LN1pCeGZ1eWdxX2FpaUQxRjFSbV9Da29ma2NBbmFxbHBMWEQzMjVGSF84V2lGNjlJc2FyanF6cWRtWDRndm9sSFJpamdRbnVZaFIxWWNhU0poVU9HMmJB?oc=5"
         },
         {
@@ -1212,7 +1352,7 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGxfZjJXQlkzUGY0NnhZNVJJOVpXaHppMWhCTkZsYVhkR2Z0UHJ3MXNGckhVWl9NbjFLVzdVVkVhSVRqejZ4bDdpOFlSVmR3S0xmZTJJWk12OWpvT0hOR2RSNkNKOGNSZklBZXktTUZqbllRZkdoUnlBNXl4X241eEdmUHdicmUtbTdNdnZSVVVucUo5Y2thQ2VJZ2FqckVkNloxQ28wSnJPNDRRM0ItRUVOekhFOHIyNDZfQi03S0c4VTFaRWVDbUtBMA?oc=5"
         },
         {
-          "name": "The Korea Times",
+          "name": "koreatimes.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNlU5dGlBZjRvXzZRRlZhOWFMazdlRG5VNDhPY003czdDTG9URHotWUVOVml4WDFJRmtWMkRaV0hwb19id0JOY0ZTRDJwMUxZcURrbWtfWU13czZ5VDhtSXdzZ1BodXVUQlFZbks3WkJ4ZnV5Z3FfYWlpRDFGMVJtX0Nrb2ZrY0FuYXFscExYRDMyNUZIXzhXaUY2OUlzYXJqcXpxZG1YNGd2b2xIUmlqZ1FudVloUjFZY2FTSmhVT0cyYkHSAcMBQVVfeXFMUDZVOXRpQWY0b182UUZWYTlhTGs3ZURuVTQ4T2NNN3M3Q0xvVER6LVlFTlZpeFgxSUZrVjJEWldIcG9fYndCTmNGU0QycDFMWXFEa21rX1lNd3M2eVQ4bUl3c2dQaHV1VEJRWW5LN1pCeGZ1eWdxX2FpaUQxRjFSbV9Da29ma2NBbmFxbHBMWEQzMjVGSF84V2lGNjlJc2FyanF6cWRtWDRndm9sSFJpamdRbnVZaFIxWWNhU0poVU9HMmJB?oc=5"
         },
         {
@@ -1282,6 +1422,26 @@
       ]
     },
     {
+      "stable_id": "2026-08-19-88e5007e61b8",
+      "original_title": "FinancialJuice: Trump: 50% Canada tariffs paused for three days.",
+      "published_at": "2026-08-19T02:16:16Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Trump: 50% Canada tariffs paused for three days.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9726886/Trump-50-Canada-tariffs-paused-for-three-days.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9726886/Trump-50-Canada-tariffs-paused-for-three-days.aspx?xy=rss"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-19-2a6fdaeb3e98",
       "original_title": "SEC Proposes New Crypto Rules With a $75 Million Offering Path",
       "published_at": "2026-08-19T02:16:00Z",
@@ -1318,6 +1478,26 @@
         {
           "name": "U.S. News - Money",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFFMalZOLU9pcEQzdGx2YmQ2N1NQNHZ6a250VHpkQ0lSVW5jVUEyUGFLZXNnREgwVU1LS0hRVldnNHpUYmZ2OXYya1h0Q3ptV0tTLWk0TlM0YXB0bUNoNkpyQnFwcGotLWVnRlNWZjFhRTFJbjNzeU1fNm1tbEpOZHRmTGFGblhvM05fel85RC1IRDRTeWdBRC0yMlhiV2Z1WTZCSGdR?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-19-9e595f20b66d",
+      "original_title": "FinancialJuice: Trump: I have suspended 50% tariffs on Canada.",
+      "published_at": "2026-08-19T02:16:00Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Trump: I have suspended 50% tariffs on Canada.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9726884/Trump-I-have-suspended-50-tariffs-on-Canada.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9726884/Trump-I-have-suspended-50-tariffs-on-Canada.aspx?xy=rss"
         }
       ]
     },
@@ -1368,6 +1548,36 @@
         {
           "name": "WJTV",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXJHdTN5LW9NY0puNVQySXFtTDJzT1I3eTZTN01IbDdnVkhZZk9Ib2Zja3BHZ19pcG85YTgtb0FITmFsbDJHQW1DMHFYaDlrQlhNOUgtRF82U1pYTXVkODBvZUY5VDNIN2s1SEFlTndLOFVTMmtzX2NGYkQ3NzAtQWx2RVE2TG9TUmFmbUh5ckFzWjd0a0dYTzNVaEhuZFNDV2Vwa3VDaFdVSXR3THJmSThYRmh6eG9WcVRqQ1NwZnlPeEJYMk0xZ3gxa9IB0AFBVV95cUxPNFY4eGR4UDhzQ25hS2syZ1F0U0JhM0VWUW1GQTFNZFBVRmRVTjNUamdZeDFjZHNrVUdoVFc0d0syQ3U5RFgwajI3NGkwYWtjN2I3aUpBbkVxSkFtYnRHOEl0X2s3WHQ1MFdvUjJRU1dJNmFoVWg4YUNGeGdCMUpMSmE1Yy1PVUdtT1VYWVU5SFVyY3Z3dVFEWXVWY1FIT3M1SHJpXzJNZXJlNDBXakxRaTlsNUhuUW4yU3RSOUl0TXVPQXdTSFRrSjNKdTNKYWNM?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-19-92b5b7e40a4b",
+      "original_title": "Oil edges up on uncertainty over exports through Hormuz",
+      "published_at": "2026-08-19T01:54:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil edges up on uncertainty over exports through Hormuz",
+          "source": "The Economic Times",
+          "snippet": "Oil edges up on uncertainty over exports through Hormuz &nbsp;&nbsp; The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdVhxN2FIQ2JwMU9KTXNaeHJjT21MMHZTMzAxdFpVeGtEd2sySk9sTTlLTnRmQkIwUHg4V1BuVVJNOUdkZXNqTWl0aklIZjNYc0pqRUVaMGdYbTJYRWRkQ3h0bVhsZVEwWVR2X0Z1aHpMU0R4YTNzR0pmZU1zckZ0X3NWb1RCYjBDbEZhQnJXU0lIcFRrVTJUUFRLUlRBVTJ1RmpibG5xQ3MyN3o5NjhMQWhJMU9QVDhscmhLUk5NX0lnSEo3Wm5HYUhfRGRjVldLenViStIB1AFBVV95cUxPdVhxN2FIQ2JwMU9KTXNaeHJjT21MMHZTMzAxdFpVeGtEd2sySk9sTTlLTnRmQkIwUHg4V1BuVVJNOUdkZXNqTWl0aklIZjNYc0pqRUVaMGdYbTJYRWRkQ3h0bVhsZVEwWVR2X0Z1aHpMU0R4YTNzR0pmZU1zckZ0X3NWb1RCYjBDbEZhQnJXU0lIcFRrVTJUUFRLUlRBVTJ1RmpibG5xQ3MyN3o5NjhMQWhJMU9QVDhscmhLUk5NX0lnSEo3Wm5HYUhfRGRjVldLenViSg?oc=5"
+        },
+        {
+          "headline": "Oil edges up on uncertainty over exports through Hormuz",
+          "source": "Yahoo! Finance Canada",
+          "snippet": "Oil edges up on uncertainty over exports through Hormuz &nbsp;&nbsp; Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0g0U05UcmpybXFwSmpacVJhUUpKSEhFTWYzdkVtUjhkeHJGTjRGZEhzQ2YxWFZCbWtoLUpsVks2WVpJQ2FBWEk3UEM3YTNWdlNyZ2Q4UXhmR1FJdmJGRzFjbHZESWdxV1VySUZDX3Vnak52WHNZMGhkMDhuNV9PUGFNSkg4ME5IcmZF?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdVhxN2FIQ2JwMU9KTXNaeHJjT21MMHZTMzAxdFpVeGtEd2sySk9sTTlLTnRmQkIwUHg4V1BuVVJNOUdkZXNqTWl0aklIZjNYc0pqRUVaMGdYbTJYRWRkQ3h0bVhsZVEwWVR2X0Z1aHpMU0R4YTNzR0pmZU1zckZ0X3NWb1RCYjBDbEZhQnJXU0lIcFRrVTJUUFRLUlRBVTJ1RmpibG5xQ3MyN3o5NjhMQWhJMU9QVDhscmhLUk5NX0lnSEo3Wm5HYUhfRGRjVldLenViStIB1AFBVV95cUxPdVhxN2FIQ2JwMU9KTXNaeHJjT21MMHZTMzAxdFpVeGtEd2sySk9sTTlLTnRmQkIwUHg4V1BuVVJNOUdkZXNqTWl0aklIZjNYc0pqRUVaMGdYbTJYRWRkQ3h0bVhsZVEwWVR2X0Z1aHpMU0R4YTNzR0pmZU1zckZ0X3NWb1RCYjBDbEZhQnJXU0lIcFRrVTJUUFRLUlRBVTJ1RmpibG5xQ3MyN3o5NjhMQWhJMU9QVDhscmhLUk5NX0lnSEo3Wm5HYUhfRGRjVldLenViSg?oc=5"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0g0U05UcmpybXFwSmpacVJhUUpKSEhFTWYzdkVtUjhkeHJGTjRGZEhzQ2YxWFZCbWtoLUpsVks2WVpJQ2FBWEk3UEM3YTNWdlNyZ2Q4UXhmR1FJdmJGRzFjbHZESWdxV1VySUZDX3Vnak52WHNZMGhkMDhuNV9PUGFNSkg4ME5IcmZF?oc=5"
         }
       ]
     },
@@ -1522,22 +1732,22 @@
       ]
     },
     {
-      "stable_id": "2026-08-19-92b5b7e40a4b",
-      "original_title": "Oil edges up on uncertainty over exports through Hormuz",
-      "published_at": "2026-08-19T00:39:00Z",
+      "stable_id": "2026-08-19-9a04296a51ba",
+      "original_title": "Gold rises as dollar weakens, bond yields ease",
+      "published_at": "2026-08-19T00:59:00Z",
       "discovery_source": "news",
       "evidence": [
         {
-          "headline": "Oil edges up on uncertainty over exports through Hormuz",
+          "headline": "Gold rises as dollar weakens, bond yields ease",
           "source": "Reuters",
-          "snippet": "Oil edges up on uncertainty over exports through Hormuz &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5"
+          "snippet": "Gold rises as dollar weakens, bond yields ease &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5"
         }
       ],
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5"
         }
       ]
     },
@@ -2348,186 +2558,6 @@
         {
           "name": "Cryptonews.net",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XeE80ZnpZRGs3aklhNHdjUS1PRDRLSVRTWkEzUU1JeGI0bDhIRXRzellaQ2JTLXc5YjBiSWZqazE5T2RTQmQxalJneVh3QnlYc2RjNlFPc1M?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-18-57b06c9af935",
-      "original_title": "트럼프 대통령이 민주당의 제임스 탈라리코 후보를 꺾기 위해 수백만 달러를 확보할 수 있도록, 다음 주 목요일 텍사스주 상원의원 후보 켄 팩스턴을 위한 모금 행사의 메인 연사로 나설 계획입니다. — MSNOW",
-      "published_at": "2026-08-18T21:20:32Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "트럼프 대통령이 민주당의 제임스 탈라리코 후보를 꺾기 위해 수백만 달러를 확보할 수 있도록, 다음 주 목요일 텍사스주 상원의원 후보 켄 팩스턴을 위한 모금 행사의 메인 연사로 나설 계획입니다. — MSNOW",
-          "source": "Telegram @goddessTTF",
-          "snippet": "트럼프 대통령이 민주당의 제임스 탈라리코 후보를 꺾기 위해 수백만 달러를 확보할 수 있도록, 다음 주 목요일 텍사스주 상원의원 후보 켄 팩스턴을 위한 모금 행사의 메인 연사로 나설 계획입니다. — MSNOW",
-          "url": "https://t.me/goddessTTF/82505"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82505"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-18-ac4bb37ae255",
-      "original_title": "US yields edge lower despite Iran worries, broader sell-off",
-      "published_at": "2026-08-18T21:20:27Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "US yields edge lower despite Iran worries, broader sell-off",
-          "source": "Reuters",
-          "snippet": "US yields edge lower despite Iran worries, broader sell-off &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaERYcG1nTmtNcy1ia2hGekZQaVp4X1Y5RHlab3QydTVDV2tfSVZmQnctVC1iaWFmZ2xJRmN6U3pzNk1wdUx1VlpQWmF6WTZsdmtfdmF3SmpGUWYzMzluM3JEVVBVTmZXU2NfMG9lcjRzUktxWEZNZDZxbTE1Q2FkVmd4Mmd3ekpxeHY3RWtpRC14QmV0SktSNA?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaERYcG1nTmtNcy1ia2hGekZQaVp4X1Y5RHlab3QydTVDV2tfSVZmQnctVC1iaWFmZ2xJRmN6U3pzNk1wdUx1VlpQWmF6WTZsdmtfdmF3SmpGUWYzMzluM3JEVVBVTmZXU2NfMG9lcjRzUktxWEZNZDZxbTE1Q2FkVmd4Mmd3ekpxeHY3RWtpRC14QmV0SktSNA?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-18-a571ee8097f8",
-      "original_title": "CNN 보도: 트럼프 대통령, 최고위급 대사에게 이란과의 모든 대화 중단 명령 정부는 이제 군사적, 경제적 압박을 통해 테헤란을 \"고립\"시키는 장기적인 노력을 추진하고 있습니다.",
-      "published_at": "2026-08-18T21:16:21Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "CNN 보도: 트럼프 대통령, 최고위급 대사에게 이란과의 모든 대화 중단 명령 정부는 이제 군사적, 경제적 압박을 통해 테헤란을 \"고립\"시키는 장기적인 노력을 추진하고 있습니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "CNN 보도: 트럼프 대통령, 최고위급 대사에게 이란과의 모든 대화 중단 명령 정부는 이제 군사적, 경제적 압박을 통해 테헤란을 \"고립\"시키는 장기적인 노력을 추진하고 있습니다.",
-          "url": "https://t.me/goddessTTF/82502"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82502"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-18-8819ded956ca",
-      "original_title": "Apathy Takes Over as Saylor’s Step Back From Bitcoin Sinks In",
-      "published_at": "2026-08-18T21:13:45Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Apathy Takes Over as Saylor’s Step Back From Bitcoin Sinks In",
-          "source": "Bloomberg",
-          "snippet": "Apathy Takes Over as Saylor’s Step Back From Bitcoin Sinks In &nbsp;&nbsp; Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXNVLUFfQXZyMjVTWmlaMWRmSmpTR0R0VEEyTl9lSlQxWkFmZE5reG1OT081M2tiM3c4QWl6cUJfQ25mWlFCdzJnMjN4QUVJaGoyRGN2ZGxLM1ljVEo3X3BsTGhTeHFPa01hdjVGUi0xdlpqTVRwcjNQcXVETmdZUER0eHNlSHcwZmNrREYyRDlReEx1VkxobWlRUFhJSGtFWms0cDg2QzA0WVhhcDRoS2Faa1I3S1U?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXNVLUFfQXZyMjVTWmlaMWRmSmpTR0R0VEEyTl9lSlQxWkFmZE5reG1OT081M2tiM3c4QWl6cUJfQ25mWlFCdzJnMjN4QUVJaGoyRGN2ZGxLM1ljVEo3X3BsTGhTeHFPa01hdjVGUi0xdlpqTVRwcjNQcXVETmdZUER0eHNlSHcwZmNrREYyRDlReEx1VkxobWlRUFhJSGtFWms0cDg2QzA0WVhhcDRoS2Faa1I3S1U?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-18-68158b79b657",
-      "original_title": "이란은 아랍에미리트(UAE)를 향해 두 개의 탄도 미사일을 발사했다고 UAE 국방부가 발표했습니다. 한 발은 UAE 영해 밖으로 떨어졌고, 다른 한 발은 영해 안에 떨어졌습니다. 국방부는 모든 부대가 경계 태세에 있다고 밝혔습니다.",
-      "published_at": "2026-08-18T21:12:40Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "이란은 아랍에미리트(UAE)를 향해 두 개의 탄도 미사일을 발사했다고 UAE 국방부가 발표했습니다. 한 발은 UAE 영해 밖으로 떨어졌고, 다른 한 발은 영해 안에 떨어졌습니다. 국방부는 모든 부대가 경계 태세에 있다고 밝혔습니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "이란은 아랍에미리트(UAE)를 향해 두 개의 탄도 미사일을 발사했다고 UAE 국방부가 발표했습니다. 한 발은 UAE 영해 밖으로 떨어졌고, 다른 한 발은 영해 안에 떨어졌습니다. 국방부는 모든 부대가 경계 태세에 있다고 밝혔습니다.",
-          "url": "https://t.me/goddessTTF/82501"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82501"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-18-84a48a82cf9a",
-      "original_title": "17명의 이란인이 이란 혁명 수비대(IRGC) 및 기타 이란 기관을 위해 대규모 사이버 절도 캠페인을 벌인 혐의로 기소되었습니다. 이들은 31테라바이트 이상의 학술 데이터와 지적 재산을 훔친 혐의를 받고 있습니다. 출처: https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behal",
-      "published_at": "2026-08-18T21:11:56Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "17명의 이란인이 이란 혁명 수비대(IRGC) 및 기타 이란 기관을 위해 대규모 사이버 절도 캠페인을 벌인 혐의로 기소되었습니다. 이들은 31테라바이트 이상의 학술 데이터와 지적 재산을 훔친 혐의를 받고 있습니다. 출처: https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behal",
-          "source": "Telegram @goddessTTF",
-          "snippet": "17명의 이란인이 이란 혁명 수비대(IRGC) 및 기타 이란 기관을 위해 대규모 사이버 절도 캠페인을 벌인 혐의로 기소되었습니다. 이들은 31테라바이트 이상의 학술 데이터와 지적 재산을 훔친 혐의를 받고 있습니다. 출처: https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary",
-          "url": "https://t.me/goddessTTF/82500"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/82500"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-18-fe5c84958a75",
-      "original_title": "트럼프까지 백악관 코인 회동 참석…SEC·CFTC, 클래리티 없이 규제 먼저 움직이나",
-      "published_at": "2026-08-18T21:00:02Z",
-      "discovery_source": "youtube",
-      "evidence": [
-        {
-          "headline": "트럼프까지 백악관 코인 회동 참석…SEC·CFTC, 클래리티 없이 규제 먼저 움직이나",
-          "source": "YouTube @새벽에온주호",
-          "snippet": "8월 19일, 백악관에 코인업계 주요 CEO들과 규제기관 수장들이 모일 예정입니다. 이번 회동에는 트럼프 대통령도 참석할 것으로 전해졌습니다. Coinbase·Ripple·Chainlink와 SEC·CFTC가 한 테이블에 앉는 이유는 무엇일까요. CLARITY 법안이 아직 마무리되지 않은 상황에서도 규제기관은 움직일 수 있습니다. SEC는 토큰 발행·공시·증권법 해석을, CFTC는 파생상품과 일부 현물 영역을 먼저 건드릴 수 있습니다. 하지만 일반 비증권 코인 현물시장 전체를 규율하는 데는 여전히 의회의 입법이 필요합니다. 이번 영상에서는 백악관 회동 이후 실제로 어떤 규제 변화가 먼저 나올 수 있는지 정리합니다. #비트코인 #클래리티법 #코인규제 #리플 #이더리움 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
-          "url": "https://www.youtube.com/watch?v=Tio_N4QOcPA"
-        }
-      ],
-      "sources": [
-        {
-          "name": "YouTube @새벽에온주호",
-          "url": "https://www.youtube.com/watch?v=Tio_N4QOcPA"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-18-d26880daf818",
-      "original_title": "FinancialJuice: US API Crude Oil Stock Change Actual -0.328M  (Forecast -, Previous 9.072M)",
-      "published_at": "2026-08-18T20:47:38Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US API Crude Oil Stock Change Actual -0.328M  (Forecast -, Previous 9.072M)",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9726484/US-API-Crude-Oil-Stock-Change-Actual--0328M--Forecast---Previous-9072M.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9726484/US-API-Crude-Oil-Stock-Change-Actual--0328M--Forecast---Previous-9072M.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-18-3b483c87ca08",
-      "original_title": "FinancialJuice: Iran's Foreign Ministry Spokesperson rejects the UAE's statement on missiles being launched from Iran against the Gulf country.",
-      "published_at": "2026-08-18T20:42:11Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's Foreign Ministry Spokesperson rejects the UAE's statement on missiles being launched from Iran against the Gulf country.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9726471/Irans-Foreign-Ministry-Spokesperson-rejects-the-UAEs-statement-on-missiles-being-launched-from-Iran-against-the-Gulf-country.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9726471/Irans-Foreign-Ministry-Spokesperson-rejects-the-UAEs-statement-on-missiles-being-launched-from-Iran-against-the-Gulf-country.aspx?xy=rss"
         }
       ]
     }
