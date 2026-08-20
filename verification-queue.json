@@ -1,33 +1,203 @@
 {
-  "updated_at_kst": "2026-08-20T20:15:24+09:00",
+  "updated_at_kst": "2026-08-20T21:04:09+09:00",
   "items": [
     {
-      "stable_id": "2026-08-20-d24432551e28",
-      "original_title": "Bitcoin, crypto shares climb after Trump pushes Clarity Act",
-      "published_at": "2026-08-20T11:08:46Z",
-      "discovery_source": "news",
+      "stable_id": "2026-08-20-799e73c66b33",
+      "original_title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
+      "published_at": "2026-08-20T12:00:25Z",
+      "discovery_source": "coindesk",
       "evidence": [
         {
-          "headline": "Bitcoin, crypto shares climb after Trump pushes Clarity Act",
-          "source": "Yahoo News Canada",
-          "snippet": "Bitcoin, crypto shares climb after Trump pushes Clarity Act &nbsp;&nbsp; Yahoo News Canada",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HdGI0d0UzVWlQTGR2S3pIWThvSGRNdFFwS0QyOG81R2Z6SDJlU0piVFpMQmxLSXRwbHpWbHBRNTlZcmtBUGxVUnhjZnBSNmF5c3BLaHdlNFFVb2t2bzBZNkpYWDZhYzNpUjdkZTdEbjlaaFl3Q0xuV0I2RDAwZWs?oc=5"
+          "headline": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-20-f9a1e90784ce",
+      "original_title": "FinancialJuice: Secured overnight financing rate: 3.62% August 19th vs 3.65% August 18th",
+      "published_at": "2026-08-20T11:59:57Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Secured overnight financing rate: 3.62% August 19th vs 3.65% August 18th",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9729393/Secured-overnight-financing-rate-362-August-19th-vs-365-August-18th.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9729393/Secured-overnight-financing-rate-362-August-19th-vs-365-August-18th.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-20-1c3d070ee105",
+      "original_title": "Trump pushes Clarity Act at White House crypto meeting",
+      "published_at": "2026-08-20T11:50:43Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Trump pushes Clarity Act at White House crypto meeting",
+          "source": "qz.com",
+          "snippet": "Trump pushes Clarity Act at White House crypto meeting &nbsp;&nbsp; qz.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJSlRiVlF6STlyaDRXM2FUd2MzYlcwcGZrb2J3Tkh0ZjdhOVhPQWJEVXZySHB1UGhkdnpUNUl6WEdBY3MzR1RWRlNrdzVzTnV1WnlpbC1QbjdXeC1tQ3hTbHB0RV9PRmw0YkktTmhzT0Q4bEZk?oc=5"
         },
         {
           "headline": "White House Crypto Meeting: Trump Pushes Clarity Act as Bitcoin Above $70K",
           "source": "Bitcoin Foundation",
           "snippet": "White House Crypto Meeting: Trump Pushes Clarity Act as Bitcoin Above $70K &nbsp;&nbsp; Bitcoin Foundation",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdHZmbG9aejBkeW1xOXljLXlDNTU4M0pHOThRU1EyRlphZndSTWdyVC1KdVJOaUFjeF81S3hMRUQ2U0RsMjM0TDBTelhaMkEwLTlfejZoSkdFNGtadlhHMWhUQlBXTmNVV3puc1ZkdDBKeF80RlBTVTRNUFVxNFdjMTNMZFplNEdnOUNiWk40aEp6UEZoZU5zZVl3VEVVdG4wc1B6a2FpNl9lcXlDRmRoUGxsNjl2ZlVUSHo4?oc=5"
+        },
+        {
+          "headline": "Trump pushes Congress to move on Clarity Act during White House crypto event",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event"
         }
       ],
       "sources": [
         {
-          "name": "Yahoo News Canada",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HdGI0d0UzVWlQTGR2S3pIWThvSGRNdFFwS0QyOG81R2Z6SDJlU0piVFpMQmxLSXRwbHpWbHBRNTlZcmtBUGxVUnhjZnBSNmF5c3BLaHdlNFFVb2t2bzBZNkpYWDZhYzNpUjdkZTdEbjlaaFl3Q0xuV0I2RDAwZWs?oc=5"
+          "name": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJSlRiVlF6STlyaDRXM2FUd2MzYlcwcGZrb2J3Tkh0ZjdhOVhPQWJEVXZySHB1UGhkdnpUNUl6WEdBY3MzR1RWRlNrdzVzTnV1WnlpbC1QbjdXeC1tQ3hTbHB0RV9PRmw0YkktTmhzT0Q4bEZk?oc=5"
         },
         {
           "name": "Bitcoin Foundation",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdHZmbG9aejBkeW1xOXljLXlDNTU4M0pHOThRU1EyRlphZndSTWdyVC1KdVJOaUFjeF81S3hMRUQ2U0RsMjM0TDBTelhaMkEwLTlfejZoSkdFNGtadlhHMWhUQlBXTmNVV3puc1ZkdDBKeF80RlBTVTRNUFVxNFdjMTNMZFplNEdnOUNiWk40aEp6UEZoZU5zZVl3VEVVdG4wc1B6a2FpNl9lcXlDRmRoUGxsNjl2ZlVUSHo4?oc=5"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-20-d24432551e28",
+      "original_title": "Bitcoin, crypto shares climb after Trump pushes Clarity Act",
+      "published_at": "2026-08-20T11:40:14Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin, crypto shares climb after Trump pushes Clarity Act",
+          "source": "BNN Bloomberg",
+          "snippet": "Bitcoin, crypto shares climb after Trump pushes Clarity Act &nbsp;&nbsp; BNN Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTJFNmlGNzVWa3QyMEdKdHR3UjI1QjFSWEZwRjZUaXdDTFIxNWNwQV9MQU1EcVFRYkFpQVFwUjVYajBFaXBDbk0tWjRfSkJ6SEl6S3VSOGJsWllUQTZDa1prYld0Z1l6M1FPZDVCOC1WY0prVUxtQmxjbHFuYWJ2dV84dkwxdm11VWVBeWVPX25hdjFLSkVUcC04Q3BqYlIzcFRZUVhYSGNDNU9mZmdOTUQyaw?oc=5"
+        },
+        {
+          "headline": "Bitcoin, crypto shares climb after Trump pushes Clarity Act",
+          "source": "Reuters",
+          "snippet": "Bitcoin, crypto shares climb after Trump pushes Clarity Act &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "BNN Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTJFNmlGNzVWa3QyMEdKdHR3UjI1QjFSWEZwRjZUaXdDTFIxNWNwQV9MQU1EcVFRYkFpQVFwUjVYajBFaXBDbk0tWjRfSkJ6SEl6S3VSOGJsWllUQTZDa1prYld0Z1l6M1FPZDVCOC1WY0prVUxtQmxjbHFuYWJ2dV84dkwxdm11VWVBeWVPX25hdjFLSkVUcC04Q3BqYlIzcFRZUVhYSGNDNU9mZmdOTUQyaw?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-20-900f27c42d25",
+      "original_title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
+      "published_at": "2026-08-20T11:31:10Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-20-98bb1287ccce",
+      "original_title": "미국 이민 당국은 2025년 9월부터 2026년 1월까지 이란과 협력하여 100명 이상의 이란인을 추방했으며, 이메일 기록에 따르면 이란 당국자들이 일부 추방 대상을 직접 선정했으며, 이러한 결정은 정부 최고위층의 압력으로 이루어진 것으로 나타났습니다. - AP통신.",
+      "published_at": "2026-08-20T11:29:39Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "미국 이민 당국은 2025년 9월부터 2026년 1월까지 이란과 협력하여 100명 이상의 이란인을 추방했으며, 이메일 기록에 따르면 이란 당국자들이 일부 추방 대상을 직접 선정했으며, 이러한 결정은 정부 최고위층의 압력으로 이루어진 것으로 나타났습니다. - AP통신.",
+          "source": "Telegram @goddessTTF",
+          "snippet": "미국 이민 당국은 2025년 9월부터 2026년 1월까지 이란과 협력하여 100명 이상의 이란인을 추방했으며, 이메일 기록에 따르면 이란 당국자들이 일부 추방 대상을 직접 선정했으며, 이러한 결정은 정부 최고위층의 압력으로 이루어진 것으로 나타났습니다. - AP통신.",
+          "url": "https://t.me/goddessTTF/82623"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/82623"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-20-d7c4348c4a85",
+      "original_title": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say",
+      "published_at": "2026-08-20T11:24:10Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say",
+          "source": "Reuters",
+          "snippet": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHNxUXpMLWp6eDNUendUcVlMS01NTnk0eVNqN1FlYnBwdlgwMElUTXlfR3paamtTNFhBXzJULXlfUDBkaHFuU3poamlYVHhBMGdEQ3ZiWTdtR2dpQng4aE1CMERFWFVGLXBtSTFLY2VpODJKN3paamJSUDV5U1JYUHZIVGNILWJiZzluejV5Vy12dURhVmRfVjdLVTFETXMyRE9hUG1Da2JUcGhISGM4clB0LV9CbXVfeVBlamhRNTA5cjQ1d1hpWA?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHNxUXpMLWp6eDNUendUcVlMS01NTnk0eVNqN1FlYnBwdlgwMElUTXlfR3paamtTNFhBXzJULXlfUDBkaHFuU3poamlYVHhBMGdEQ3ZiWTdtR2dpQng4aE1CMERFWFVGLXBtSTFLY2VpODJKN3paamJSUDV5U1JYUHZIVGNILWJiZzluejV5Vy12dURhVmRfVjdLVTFETXMyRE9hUG1Da2JUcGhISGM4clB0LV9CbXVfeVBlamhRNTA5cjQ1d1hpWA?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-20-9c99c8afb804",
+      "original_title": "Binance’s Delisting Wave Struck 3 Altcoins Fighting Separate Crises",
+      "published_at": "2026-08-20T11:11:25Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Binance’s Delisting Wave Struck 3 Altcoins Fighting Separate Crises",
+          "source": "CryptoRank",
+          "snippet": "Binance’s Delisting Wave Struck 3 Altcoins Fighting Separate Crises &nbsp;&nbsp; CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3VlNGhpdUJTb3dWaHRZMWhyVF9KUXhET0xjTEV4S2dkZGJ3ZS0xOGVpX3VvN0Z4VjI5bmNKZVMyQ0JyX2ZnMDZMVkVZTHo2M2ZOMThMMkV0azNld1ZmMnpsNzMzVmZCd2lfT3F4V3RnQ2tXeDlHSjRLcHFRWFFVR1BnblRJcGhYRlMwVw?oc=5"
+        },
+        {
+          "headline": "Binance’s Delisting Wave Struck 3 Altcoins Fighting Separate Crises",
+          "source": "BeInCrypto",
+          "snippet": "Binance’s Delisting Wave Struck 3 Altcoins Fighting Separate Crises &nbsp;&nbsp; BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CWEVmd3RCblJvZHNpQUdZVXMyZnhHRldtbUUtbmMzUEQteGtIcC1nNjV6OHRIRlhaTUVuTWV2aC1UVE1kazVJcTJwd0dXaGhPWGVoMTlDeFA5NEh3RWp2RjVGTEg4QUpjV09FMnBMVHdaazcxeTdkMU5B?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3VlNGhpdUJTb3dWaHRZMWhyVF9KUXhET0xjTEV4S2dkZGJ3ZS0xOGVpX3VvN0Z4VjI5bmNKZVMyQ0JyX2ZnMDZMVkVZTHo2M2ZOMThMMkV0azNld1ZmMnpsNzMzVmZCd2lfT3F4V3RnQ2tXeDlHSjRLcHFRWFFVR1BnblRJcGhYRlMwVw?oc=5"
+        },
+        {
+          "name": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CWEVmd3RCblJvZHNpQUdZVXMyZnhHRldtbUUtbmMzUEQteGtIcC1nNjV6OHRIRlhaTUVuTWV2aC1UVE1kazVJcTJwd0dXaGhPWGVoMTlDeFA5NEh3RWp2RjVGTEg4QUpjV09FMnBMVHdaazcxeTdkMU5B?oc=5"
         }
       ]
     },
@@ -125,9 +295,21 @@
         },
         {
           "headline": "Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism",
+          "source": "Bloomberg.com",
+          "snippet": "Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmVhSm5IVEpPSGxyZDB0S3pVQ1N2andjcXpaS3NUdS03RkhnMVNBMzBVZmNRakdoczQ1eEZzRE1HUUV5bzhJbjk3QW1kZkVnOGRBTHhfU1kxZlNXQ3RaQnBtTFEtYk0zaDNJamRISlNSY2tmcmhKbGRoelFYaXhNWkRQTTFnRVdsdWNYQUxKS2pGRGtkbk9oQVFtZjljT2hkYU51Wi1GTUNudw?oc=5"
+        },
+        {
+          "headline": "Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism",
           "source": "Yahoo Finance",
           "snippet": "Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism &nbsp;&nbsp; Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFFmOXNLbkUtUzh0N0Rsa3plV3MzZ01nVVFLVjJ3OW5jUU5BalBaeTZCNTB2RHJsSVdMQzUzNGNDSnBzU2NHVVJGeVhPN01BcWRLUjNGSWg4UkZIb2tFR3paUUF5NTVUY19kMTdYVFBjVzRqMW42c0dvQkdhT1kxTzJZZjU1UnBMWnZBcXZZcXpEUTR4cVFhOXRPUGJtN1FhcHBSOC1jcmRJTFRyQ1dnb1FZZm9TSWJtYTAxZGxmWDk1OG9M?oc=5"
+        },
+        {
+          "headline": "Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism",
+          "source": "Yahoo! Finance Canada",
+          "snippet": "Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism &nbsp;&nbsp; Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3JQdkQza0Fzay1MZXhzNjFIdGlwcjJYVzFicEtUOG13OUVTbkdIOHZQZmZLTnoyTzJ2bkREdVc5S25XUHYydTlJTGd6Rld6V3VPOXNfak8xNVd1MXk2bS1KQnc0MzdfZW5ybWpNcWRNR3FtNDdRbHBzZXFfZXdKdzQ2dnNHQXlQVzFvNUN0YmptUjdHLUJmTk1PVVlkOHhwaU51WEVQOW9yTjlnNjNZ?oc=5"
         }
       ],
       "sources": [
@@ -136,8 +318,16 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3lFS3Z5SGJmLTU3d19KVVN6aGQ3TWN3aGJoMTZyOVlSZ0ZZdWY4MWw1R0VJSXNreHBadDU2ZjJEUzRNU010YkVjVnh0M2t6djFTMTVVemlYbUZZWktBQnNTeVgwNlVYcHJlX1QtZXpHeXlUcTg5dzFSUDg4RkZOMS1JaW11X0UxWTZyZlhqYXJZSFY1YWhpVEFjWC1sc1hqV1p3c1BYMUJyZ0U0NDNVeWtwa2FvUW1VemVpY0xoMXhTczIwaFE?oc=5"
         },
         {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmVhSm5IVEpPSGxyZDB0S3pVQ1N2andjcXpaS3NUdS03RkhnMVNBMzBVZmNRakdoczQ1eEZzRE1HUUV5bzhJbjk3QW1kZkVnOGRBTHhfU1kxZlNXQ3RaQnBtTFEtYk0zaDNJamRISlNSY2tmcmhKbGRoelFYaXhNWkRQTTFnRVdsdWNYQUxKS2pGRGtkbk9oQVFtZjljT2hkYU51Wi1GTUNudw?oc=5"
+        },
+        {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFFmOXNLbkUtUzh0N0Rsa3plV3MzZ01nVVFLVjJ3OW5jUU5BalBaeTZCNTB2RHJsSVdMQzUzNGNDSnBzU2NHVVJGeVhPN01BcWRLUjNGSWg4UkZIb2tFR3paUUF5NTVUY19kMTdYVFBjVzRqMW42c0dvQkdhT1kxTzJZZjU1UnBMWnZBcXZZcXpEUTR4cVFhOXRPUGJtN1FhcHBSOC1jcmRJTFRyQ1dnb1FZZm9TSWJtYTAxZGxmWDk1OG9M?oc=5"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3JQdkQza0Fzay1MZXhzNjFIdGlwcjJYVzFicEtUOG13OUVTbkdIOHZQZmZLTnoyTzJ2bkREdVc5S25XUHYydTlJTGd6Rld6V3VPOXNfak8xNVd1MXk2bS1KQnc0MzdfZW5ybWpNcWRNR3FtNDdRbHBzZXFfZXdKdzQ2dnNHQXlQVzFvNUN0YmptUjdHLUJmTk1PVVlkOHhwaU51WEVQOW9yTjlnNjNZ?oc=5"
         }
       ]
     },
@@ -272,26 +462,6 @@
       ]
     },
     {
-      "stable_id": "2026-08-20-89eb67f0182d",
-      "original_title": "Dollar falls to three-month low as Treasury moves to soothe bond jitters",
-      "published_at": "2026-08-20T08:38:04Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Dollar falls to three-month low as Treasury moves to soothe bond jitters",
-          "source": "Reuters",
-          "snippet": "Dollar falls to three-month low as Treasury moves to soothe bond jitters &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-08-20-f71d441a8552",
       "original_title": "Trump Crypto Firm Backs WorldClaw Offering Restricted Chinese AI",
       "published_at": "2026-08-20T08:26:34Z",
@@ -398,6 +568,46 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9729088/Chinas-Foreign-Minister-Wang-Yi-in-meeting-with-South-Korean-President-calls-for-early-completion-of-China-South-Korea-FTA-second-stage-talks---Xinhua.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-20-a2fd33e15583",
+      "original_title": "Trump announces \"crushing economic operation\" on Iran with talks in limbo",
+      "published_at": "2026-08-20T07:15:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Trump announces \"crushing economic operation\" on Iran with talks in limbo",
+          "source": "CBS News",
+          "snippet": "Trump announces \"crushing economic operation\" on Iran with talks in limbo &nbsp;&nbsp; CBS News",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5"
+        },
+        {
+          "headline": "Trump vows 'crushing economic operation' against Iran",
+          "source": "juneesoutherncross.com.au",
+          "snippet": "Trump vows 'crushing economic operation' against Iran &nbsp;&nbsp; juneesoutherncross.com.au",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0NpcnZ0Y0tuTkx1cFI0amhvT3I3aXYtejhSbmctUFY1SE9GdFJzUFZyd1VfNnMzS09YU0o1cXZHOXRwN05tbmljMExZMTBqMFRfbWNXd0ZUelNoWlBBT3llRHR3aW9kbXhQMjNSYmExOHoxVUpSOFJQYjBhcl9FNTcteGVGZzM5eVdjMlEtWUdPbE8zRmZCYlZJUmVfT1ZSd2tDYzlONA?oc=5"
+        },
+        {
+          "headline": "Trump announces 'most crushing economic operation ever taken' against Iran",
+          "source": "thenationalnews.com",
+          "snippet": "Trump announces 'most crushing economic operation ever taken' against Iran &nbsp;&nbsp; thenationalnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTZrdno3MzEycVdkWWFTbFJxSVRMOWtTclNXWkd5aHo3ekl5QXpRdWRJYlJ5TUxTSkM2bHFuaUU5VkF4aU1qd1YtTEN3cjBuWkR1Yk1CMTEySi03dV95RTM1cW5aYTNtVld0UHhRRjRMUHQyS1FJc04wNjhwTC1pcmxSOTRCSzRnTzBhT0lMZElkZDdQQ2doYnlrRC1yRUxCM0tFd3BaWEVQUF80eXFIZ2JhdTAzcEZJd1AwdjVZYkNrQQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96dTlXTXdLdkJfWHpuYUtTRlp1dDh5SEd2a2F6ZUxwcTJCa3kxRXhqaUE1aHhmWTFxOG9Zd21SQzBsalAyRjN1czlieHlXT1lIT1MtcnFDM0tTX1dCeDJqRHdJTXZZYjVHLXRndEJlZ1N6akkyMWRmR2Z5TQ?oc=5"
+        },
+        {
+          "name": "juneesoutherncross.com.au",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0NpcnZ0Y0tuTkx1cFI0amhvT3I3aXYtejhSbmctUFY1SE9GdFJzUFZyd1VfNnMzS09YU0o1cXZHOXRwN05tbmljMExZMTBqMFRfbWNXd0ZUelNoWlBBT3llRHR3aW9kbXhQMjNSYmExOHoxVUpSOFJQYjBhcl9FNTcteGVGZzM5eVdjMlEtWUdPbE8zRmZCYlZJUmVfT1ZSd2tDYzlONA?oc=5"
+        },
+        {
+          "name": "thenationalnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTZrdno3MzEycVdkWWFTbFJxSVRMOWtTclNXWkd5aHo3ekl5QXpRdWRJYlJ5TUxTSkM2bHFuaUU5VkF4aU1qd1YtTEN3cjBuWkR1Yk1CMTEySi03dV95RTM1cW5aYTNtVld0UHhRRjRMUHQyS1FJc04wNjhwTC1pcmxSOTRCSzRnTzBhT0lMZElkZDdQQ2doYnlrRC1yRUxCM0tFd3BaWEVQUF80eXFIZ2JhdTAzcEZJd1AwdjVZYkNrQQ?oc=5"
         }
       ]
     },
@@ -549,6 +759,26 @@
       "evidence": [
         {
           "headline": "Live updates: Bitcoin jumps above $72,000, ETFs draw $700 million in biggest inflows in months",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-20-7659dd67d5e6",
+      "original_title": "Live updates: Bitcoin jumps above $72,000, ETF inflows of $700 million were largest in months",
+      "published_at": "2026-08-20T06:21:17Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Live updates: Bitcoin jumps above $72,000, ETF inflows of $700 million were largest in months",
           "source": "CoinDesk",
           "snippet": "",
           "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months"
@@ -1202,6 +1432,26 @@
       ]
     },
     {
+      "stable_id": "2026-08-20-89eb67f0182d",
+      "original_title": "Dollar falls to three-month low as Treasury moves to soothe bond jitters",
+      "published_at": "2026-08-20T00:53:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Dollar falls to three-month low as Treasury moves to soothe bond jitters",
+          "source": "Reuters",
+          "snippet": "Dollar falls to three-month low as Treasury moves to soothe bond jitters &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFxZlBhRm1DcmRBZF9VSDd4aXllSmNTWEttZ2dLUkprSnJ5c2xBNXRKT1lQTDdrbXlUUjBnTXdWdVRrWENPYkRkal9pbm9UVDNueFd0am56Z3JCakxsZ2ZHclBRMHpyUUMzeVJHV1FPcVp1dXBYNUtMNk81Z3k1QkRmV1RnRHdPVjhDU3hNYS1xaWxYOU4wMUQwWk5nTDJPWG9kblZIQV9xOG11QTJR?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-20-12d893c10a49",
       "original_title": "Dollar at three-month lows as Treasury seeks to rein in surging bond yields",
       "published_at": "2026-08-20T00:53:00Z",
@@ -1255,9 +1505,9 @@
         },
         {
           "headline": "Boston Fed paper says strong productivity blunted tariff inflation impact",
-          "source": "Reuters",
-          "snippet": "Boston Fed paper says strong productivity blunted tariff inflation impact &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ01EeTRlMHZBZEJuRFNSWnJYWkpDekpXLS1NNlFiTFhHTkFyY0dzRFM2RkpuNzBhRVl3aWtLVnVHYWFZOFFMMmZXTlcxRkVlMEF4TGNpYWZyRFNHdEJEZE53U1NfcWgzLU1PNzIyeUR3MTlXSVA3YWRUVFlXaFZKNnU3ZW5sdUE2RVlXV0tKZTRtdjdSQmpzRWhNMHZnZ2RIVThBdzVDaU1PS3czRF9pNm91Szl0dTBPcFRfWkdzdF9JSGozRURhWA?oc=5"
+          "source": "Yahoo Finance",
+          "snippet": "Boston Fed paper says strong productivity blunted tariff inflation impact &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa05zbEhTNFZvckpnX1YwQ2xMTEM5MWdFMWlmaWlyN2pvR2xpZUNxNzd1dzM1YXRHUWVkNkhFUkhIckh6dnYtMmdiYVQ3N1E5S1N6WUhUX24zRHpRNHlQakw5a3Z6S0RxNUVOUzlfN1ZsZjFpeHA5cjAySFRqenBKYS0wT2FYSzdJRGlzTW1OODFFaWdzeHg2WA?oc=5"
         }
       ],
       "sources": [
@@ -1266,8 +1516,8 @@
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qX1czUXdJUDU0QUlmQlhjU3Vfa2hkMWxjb1B6SllRMGlaRXdyU0lUZThVS1d5VGJQbmxDQV9Tbjk0UUZPREkyTHZkOFRPTGtkUWc5TjE5bWJGeVYxNFBSczVnbEtFNXhVTXEyVGxMNi1pcmtWTF9wNXJCTQ?oc=5"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ01EeTRlMHZBZEJuRFNSWnJYWkpDekpXLS1NNlFiTFhHTkFyY0dzRFM2RkpuNzBhRVl3aWtLVnVHYWFZOFFMMmZXTlcxRkVlMEF4TGNpYWZyRFNHdEJEZE53U1NfcWgzLU1PNzIyeUR3MTlXSVA3YWRUVFlXaFZKNnU3ZW5sdUE2RVlXV0tKZTRtdjdSQmpzRWhNMHZnZ2RIVThBdzVDaU1PS3czRF9pNm91Szl0dTBPcFRfWkdzdF9JSGozRURhWA?oc=5"
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa05zbEhTNFZvckpnX1YwQ2xMTEM5MWdFMWlmaWlyN2pvR2xpZUNxNzd1dzM1YXRHUWVkNkhFUkhIckh6dnYtMmdiYVQ3N1E5S1N6WUhUX24zRHpRNHlQakw5a3Z6S0RxNUVOUzlfN1ZsZjFpeHA5cjAySFRqenBKYS0wT2FYSzdJRGlzTW1OODFFaWdzeHg2WA?oc=5"
         }
       ]
     },
@@ -1308,12 +1558,6 @@
           "source": "KuCoin",
           "snippet": "Maya Protocol Loses $1.7M in Six-Bug Exploit &nbsp;&nbsp; KuCoin",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3F6a1pJcWxsQXdRSzFxdExkMWFObGE5WFQ1aGZkSjhJdlY3cWJRVU5GTmVKXzh2c1VVY1FhWFpCVF9LSG50cVMzb3c0SW1makZ5ZFZoTTEzeUNtNFdmNVdxZ25xQnViTENvcTBSclQ1UVRaTHRPb0xlN3dsZHZhRllTUQ?oc=5"
-        },
-        {
-          "headline": "Maya Protocol loses $1.7M as six-bug exploit exposes DeFi security gaps",
-          "source": "Cryptopolitan",
-          "snippet": "Maya Protocol loses $1.7M as six-bug exploit exposes DeFi security gaps &nbsp;&nbsp; Cryptopolitan",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UU0xucnFrbFBWc1h6VTBfUUE0Ny1ubEd2VVZHRk9YRmxZcXlPLUtJMVNiQUZsWk5rSGlpeXJhOUZoeFI4aUYyZGlWbUR1SHJhM0h3NkxlNm03SUFqYVFtdW03cDZtV2theUFiWTJIN2NfckMxVHc?oc=5"
         }
       ],
       "sources": [
@@ -1324,10 +1568,6 @@
         {
           "name": "KuCoin",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3F6a1pJcWxsQXdRSzFxdExkMWFObGE5WFQ1aGZkSjhJdlY3cWJRVU5GTmVKXzh2c1VVY1FhWFpCVF9LSG50cVMzb3c0SW1makZ5ZFZoTTEzeUNtNFdmNVdxZ25xQnViTENvcTBSclQ1UVRaTHRPb0xlN3dsZHZhRllTUQ?oc=5"
-        },
-        {
-          "name": "Cryptopolitan",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UU0xucnFrbFBWc1h6VTBfUUE0Ny1ubEd2VVZHRk9YRmxZcXlPLUtJMVNiQUZsWk5rSGlpeXJhOUZoeFI4aUYyZGlWbUR1SHJhM0h3NkxlNm03SUFqYVFtdW03cDZtV2theUFiWTJIN2NfckMxVHc?oc=5"
         }
       ]
     },
@@ -2028,206 +2268,6 @@
         {
           "name": "Coin Edition",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmeUN0enBNVEhoZkxmcXdWa20wd2pneVRMX3BTX2p2UVkzc3ZvR3JiOUNzUWVZdVJySENCY0dpVE5IR2ZUa3Vhc2ctb1BSRW02Ym1rSkFQRUhjdjIxa05lV2MxbW9tQW9LOUl4TGgwdWFXc1gwS1JOTGdoU1luUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-f3857701c257",
-      "original_title": "Oil prices settle near 4-week high as Middle East crisis escalates",
-      "published_at": "2026-08-19T19:12:23Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil prices settle near 4-week high as Middle East crisis escalates",
-          "source": "Yahoo Finance",
-          "snippet": "Oil prices settle near 4-week high as Middle East crisis escalates &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORW9uUXFEOTg5NnhfQU93azRpN0hPRkp5aGVlMWdCX1kzS3Nnc295VVFyRE5BdllTeXpFeUM5YXdudUFlb21vcEM3Z21tTFZHTURTcDhwSzB0bnJfai1PRmk5M01kSFhJTDJPeUdEY2RyUzMtY2YwOWRJWm9lQ05BNDNkQUUzaWM?oc=5"
-        },
-        {
-          "headline": "Oil Prices up 1% to $91.89, Near 3-Week High",
-          "source": "Newsmax",
-          "snippet": "Oil Prices up 1% to $91.89, Near 3-Week High &nbsp;&nbsp; Newsmax",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3FmRTdRM1ZCTFBESFR4UXpvSDRBZkhGNGtpSkw4d0N6MFNRZWtTVVVycmxCUUxSYnZpeFdmdjRxTlNMMnVCak9nc2hxZjdnc3hzeUJwaEIwUDVFLUpuWmhQV2Y3YTJzdURuTVBCempuTU13bjhlazNYbWF1ZmVRNGRkQXJRdnVj?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORW9uUXFEOTg5NnhfQU93azRpN0hPRkp5aGVlMWdCX1kzS3Nnc295VVFyRE5BdllTeXpFeUM5YXdudUFlb21vcEM3Z21tTFZHTURTcDhwSzB0bnJfai1PRmk5M01kSFhJTDJPeUdEY2RyUzMtY2YwOWRJWm9lQ05BNDNkQUUzaWM?oc=5"
-        },
-        {
-          "name": "Newsmax",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3FmRTdRM1ZCTFBESFR4UXpvSDRBZkhGNGtpSkw4d0N6MFNRZWtTVVVycmxCUUxSYnZpeFdmdjRxTlNMMnVCak9nc2hxZjdnc3hzeUJwaEIwUDVFLUpuWmhQV2Y3YTJzdURuTVBCempuTU13bjhlazNYbWF1ZmVRNGRkQXJRdnVj?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-c7ce4e889627",
-      "original_title": "FinancialJuice: US-Canada trade deal expected to cut top-line US tariff rates on canadian steel, aluminum to 25% but also will include some quota arrangements",
-      "published_at": "2026-08-19T19:10:54Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US-Canada trade deal expected to cut top-line US tariff rates on canadian steel, aluminum to 25% but also will include some quota arrangements",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9728228/US-Canada-trade-deal-expected-to-cut-top-line-US-tariff-rates-on-canadian-steel-aluminum-to-25-but-also-will-include-some-quota-arrangements---source.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9728228/US-Canada-trade-deal-expected-to-cut-top-line-US-tariff-rates-on-canadian-steel-aluminum-to-25-but-also-will-include-some-quota-arrangements---source.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-046914026e67",
-      "original_title": "FinancialJuice: Iran's Central Bank Gov. Hemmati: So far, no funds from the blocked assets have been released under the agreement.",
-      "published_at": "2026-08-19T19:07:05Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's Central Bank Gov. Hemmati: So far, no funds from the blocked assets have been released under the agreement.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9728226/Irans-Central-Bank-Gov-Hemmati-So-far-no-funds-from-the-blocked-assets-have-been-released-under-the-agreement.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9728226/Irans-Central-Bank-Gov-Hemmati-So-far-no-funds-from-the-blocked-assets-have-been-released-under-the-agreement.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-5d9f2c573749",
-      "original_title": "FinancialJuice: Iran's Central Bank Gov. Hemmati: We proposed the creation of a financial corridor within BRICS; this initiative will help advance the country's economy",
-      "published_at": "2026-08-19T19:07:00Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's Central Bank Gov. Hemmati: We proposed the creation of a financial corridor within BRICS; this initiative will help advance the country's economy",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9728225/Irans-Central-Bank-Gov-Hemmati-We-proposed-the-creation-of-a-financial-corridor-within-BRICS-this-initiative-will-help-advance-the-countrys-economy---IRIB-News.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9728225/Irans-Central-Bank-Gov-Hemmati-We-proposed-the-creation-of-a-financial-corridor-within-BRICS-this-initiative-will-help-advance-the-countrys-economy---IRIB-News.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-6afea3a97e6c",
-      "original_title": "FinancialJuice: The move is intended to create weapons independence in the face of tensions with Iran",
-      "published_at": "2026-08-19T19:03:41Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: The move is intended to create weapons independence in the face of tensions with Iran",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9728223/The-move-is-intended-to-create-weapons-independence-in-the-face-of-tensions-with-Iran---Israels-N12-News.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9728223/The-move-is-intended-to-create-weapons-independence-in-the-face-of-tensions-with-Iran---Israels-N12-News.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-1b65fd330db9",
-      "original_title": "Fed policymakers' inflation concerns increased at July meeting, minutes show",
-      "published_at": "2026-08-19T19:00:35Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Fed policymakers' inflation concerns increased at July meeting, minutes show",
-          "source": "Reuters",
-          "snippet": "Fed policymakers' inflation concerns increased at July meeting, minutes show &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5"
-        },
-        {
-          "headline": "Inflation concerns rose at US Fed's July meeting, minutes show; policymakers insisted on rate hike",
-          "source": "inkl",
-          "snippet": "Inflation concerns rose at US Fed's July meeting, minutes show; policymakers insisted on rate hike &nbsp;&nbsp; inkl",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2xoRUhQMmsxZEdqYldRMXpLT1d5RnA5M3BBbm9WREhheExuMEVfTkIxUVFsRm9UOFZCZEU1ZEJRWjFnWmJiT0hfZzR1QXZnaS1qTDE0RjlQVk9JajlaejMtSUItRW40d091ZlVrVDRkVl9fMXVBNF9pYkxJWjktbnFuc1RrNks5eUZpcUNIQTNHeVVqeUwxM0lBNnFhTVB5RlRjMlUzTndPclJSd0JHN1BIeHV3NTFza3QwNVd3?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5"
-        },
-        {
-          "name": "inkl",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2xoRUhQMmsxZEdqYldRMXpLT1d5RnA5M3BBbm9WREhheExuMEVfTkIxUVFsRm9UOFZCZEU1ZEJRWjFnWmJiT0hfZzR1QXZnaS1qTDE0RjlQVk9JajlaejMtSUItRW40d091ZlVrVDRkVl9fMXVBNF9pYkxJWjktbnFuc1RrNks5eUZpcUNIQTNHeVVqeUwxM0lBNnFhTVB5RlRjMlUzTndPclJSd0JHN1BIeHV3NTFza3QwNVd3?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-f10bb7bc08c1",
-      "original_title": "Crypto Firm OKX Bars Claude Use in Hong Kong After Suspension",
-      "published_at": "2026-08-19T18:38:32Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Crypto Firm OKX Bars Claude Use in Hong Kong After Suspension",
-          "source": "Bloomberg",
-          "snippet": "Crypto Firm OKX Bars Claude Use in Hong Kong After Suspension &nbsp;&nbsp; Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR2x0bmxTcWNrUzd1cUxEd3NpTVZXUjhlRG9XQmNweWJlNGx6cl83U21sajk5Q1d5bmM5X19kRHJBbjFxS1FSZVJ2elA2MkN0YjF5dElDZEdLZk1Bd2VnQXpYMUhqbnVYaXVRM1pTWDVtcVN6R2xWWVNZRzRaRE1jN19ZRUU3bGd4WUk4cTVJRHpPdm5sY3IxVTJwWk56WjU3WmJyMUp6ZHRmenM4Wk1XRE9B?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR2x0bmxTcWNrUzd1cUxEd3NpTVZXUjhlRG9XQmNweWJlNGx6cl83U21sajk5Q1d5bmM5X19kRHJBbjFxS1FSZVJ2elA2MkN0YjF5dElDZEdLZk1Bd2VnQXpYMUhqbnVYaXVRM1pTWDVtcVN6R2xWWVNZRzRaRE1jN19ZRUU3bGd4WUk4cTVJRHpPdm5sY3IxVTJwWk56WjU3WmJyMUp6ZHRmenM4Wk1XRE9B?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-4e536b5bec83",
-      "original_title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
-      "published_at": "2026-08-19T18:10:10Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-19-2c29a7f8f2cc",
-      "original_title": "FinancialJuice: Iran and Pakistan discuss recent developments in call.",
-      "published_at": "2026-08-19T18:06:20Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran and Pakistan discuss recent developments in call.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9728140/Iran-and-Pakistan-discuss-recent-developments-in-call.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9728140/Iran-and-Pakistan-discuss-recent-developments-in-call.aspx?xy=rss"
         }
       ]
     }
