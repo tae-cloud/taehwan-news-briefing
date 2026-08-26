@@ -1,6 +1,186 @@
 {
-  "updated_at_kst": "2026-08-27T01:58:51+09:00",
+  "updated_at_kst": "2026-08-27T04:19:38+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-26-e93544dde511",
+      "original_title": "FinancialJuice: OpenAI: Could have moved to prevent the Hugging Face hack.",
+      "published_at": "2026-08-26T19:04:22Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: OpenAI: Could have moved to prevent the Hugging Face hack.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9737577/OpenAI-Could-have-moved-to-prevent-the-Hugging-Face-hack.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9737577/OpenAI-Could-have-moved-to-prevent-the-Hugging-Face-hack.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-6c9b253e5d9f",
+      "original_title": "FinancialJuice: OpenAI releases report on the Hugging Face AI agent hack",
+      "published_at": "2026-08-26T19:02:53Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: OpenAI releases report on the Hugging Face AI agent hack",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9737575/OpenAI-releases-report-on-the-Hugging-Face-AI-agent-hack---CNBC.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9737575/OpenAI-releases-report-on-the-Hugging-Face-AI-agent-hack---CNBC.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-448518e4e0e2",
+      "original_title": "Wall Street dips on hot inflation data ahead of Nvidia earnings",
+      "published_at": "2026-08-26T18:43:03Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Wall Street dips on hot inflation data ahead of Nvidia earnings",
+          "source": "Reuters",
+          "snippet": "Wall Street dips on hot inflation data ahead of Nvidia earnings &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-841983889f50",
+      "original_title": "FinancialJuice: The Qatari Prime Minister is going to meet in Tehran with a number of Iranian officials to discuss ways to de-escalate tensions",
+      "published_at": "2026-08-26T18:25:52Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: The Qatari Prime Minister is going to meet in Tehran with a number of Iranian officials to discuss ways to de-escalate tensions",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9737536/The-Qatari-Prime-Minister-is-going-to-meet-in-Tehran-with-a-number-of-Iranian-officials-to-discuss-ways-to-de-escalate-tensions---Foreign-Ministry-Spokesperson.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9737536/The-Qatari-Prime-Minister-is-going-to-meet-in-Tehran-with-a-number-of-Iranian-officials-to-discuss-ways-to-de-escalate-tensions---Foreign-Ministry-Spokesperson.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-58fe5e330f16",
+      "original_title": "A Major Altcoin Is Preparing for a Massive Token Burn Surge",
+      "published_at": "2026-08-26T17:46:44Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "A Major Altcoin Is Preparing for a Massive Token Burn Surge",
+          "source": "Cryptonews.net",
+          "snippet": "A Major Altcoin Is Preparing for a Massive Token Burn Surge &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wdnBSZ3RFbzFiMk1LQjN6SFVxRTZsUWRubS1BM21ocWYxRlY5YkZTNzBfbDI5anZ5eDdPUFNUNTJLMXBvNTkyTF80MW1vMzVZdjAwX1RDOEFOdw?oc=5"
+        },
+        {
+          "headline": "A Major Altcoin Is Preparing for a Massive Token Burn Surge",
+          "source": "Bitcoin Sistemi",
+          "snippet": "A Major Altcoin Is Preparing for a Massive Token Burn Surge &nbsp;&nbsp; Bitcoin Sistemi",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVRkaGM1cVJsZVoxWmFsTFg3YjFoQ3B3LWV2TURBYTdlcUJlYVRZSHRoRlRVbkdyQ2NROHVNNm82aVJzSUMta1NFYnFkVjV1N3pMQ25xTk9KNG1jZzM3RTI5NWJPZENWbXVGVTJGU2tFalZSYk1qMlY1SUw0blJfSWtpZENDcWw5VkVOVHVPOWZkNHF6?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wdnBSZ3RFbzFiMk1LQjN6SFVxRTZsUWRubS1BM21ocWYxRlY5YkZTNzBfbDI5anZ5eDdPUFNUNTJLMXBvNTkyTF80MW1vMzVZdjAwX1RDOEFOdw?oc=5"
+        },
+        {
+          "name": "Bitcoin Sistemi",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVRkaGM1cVJsZVoxWmFsTFg3YjFoQ3B3LWV2TURBYTdlcUJlYVRZSHRoRlRVbkdyQ2NROHVNNm82aVJzSUMta1NFYnFkVjV1N3pMQ25xTk9KNG1jZzM3RTI5NWJPZENWbXVGVTJGU2tFalZSYk1qMlY1SUw0blJfSWtpZENDcWw5VkVOVHVPOWZkNHF6?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-88d763031517",
+      "original_title": "FinancialJuice: Treasury WI 5 Yr yield 4.391% before $70 billion auction",
+      "published_at": "2026-08-26T17:00:19Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Treasury WI 5 Yr yield 4.391% before $70 billion auction",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9737421/Treasury-WI-5-Yr-yield-4391-before-70-billion-auction.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9737421/Treasury-WI-5-Yr-yield-4391-before-70-billion-auction.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-cd6009d5f3e1",
+      "original_title": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news",
+      "published_at": "2026-08-26T16:58:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news",
+          "source": "AP News",
+          "snippet": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news &nbsp;&nbsp; AP News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5"
+        },
+        {
+          "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news",
+          "source": "reflector.com",
+          "snippet": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news &nbsp;&nbsp; reflector.com",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdEd0Rlhsb2hYc1htM2dpWGtqUkpHT01xdU92dm5fZ1VuVDlVcG9waEo0X1hWZURRZ0l5MjRiNTBCdGw1Y1IxSEN3X2NvRkFIa003bGJHWWdTVU1Fd2R6b04zQm1rbFVOa2VpS3VZSVB3cWFmWGgxa2JLUG1OTVhNZlZWU3RnS2FoSmxjbTRmanBzR1YxM2tWSGoyN0VFYVJOQTVJWUZsUFlzaGtodXlYbGtVQXUxME5RaFE1S3ZuVkh3WVl1cE9MZ29xb2ZvU0w2OVpwOUFuS1A5SmRhUUhOcUVvZjdmaFdWcG0wRFRJeWk3Y05ETmlnQ2Rmek0xR1BnNWc?oc=5"
+        },
+        {
+          "headline": "Iran warns of military ship ban in Strait of Hormuz under potential deal with Oman",
+          "source": "Spectrum News",
+          "snippet": "Iran warns of military ship ban in Strait of Hormuz under potential deal with Oman &nbsp;&nbsp; Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFBlczJQRjFfYVZpTUlnampjNkJqbTFxQ2FoUXcxdHZvblpSZXFKZk10MkdYOFg4d1ZNQ25UdkNPQS1odDNUS1p1OWw4d3cwYkhROC1NSzVOSjlIWkU5WmVPcjhKeWU4UHhBelZKbFFYdkg0RGVvaXZ3Zl9KSHFtbkNSay1WR2kyc0NENXNxaXlkSmFuZjJrTE9MZ3p3dXBiT1EwaVdDWXNnVDVqU3RmaDBCeWw2Mms3MW03MEdIMFpvZw?oc=5"
+        },
+        {
+          "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news",
+          "source": "MyNorthwest.com",
+          "snippet": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news &nbsp;&nbsp; MyNorthwest.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPczIzbWp0RXVpTFFWMG1ZMVlMM2lBbjZPeFdObm9wbVpjalAtV1NuVndsZENaa0dRWUhEZUxEcGFmSTNvWnlMb2lqSTJpMG9rMmNGa1Nodm1HcGFyLUM2RDV0a1BoYV82SnVveGFNQkQ5WVhxUlRmNFZuRU1GeVhKM1MtaEZkYVZmY2hTTExtMGhjclk4OEpJYjhkdjJjSzVEQk1zaHBuNjdRTGE2M1ZUTzBoRGpKTjJzX3h3eEkwaGRyQjd1ZF9qb0hXS1d5YWZiSVFV?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5"
+        },
+        {
+          "name": "reflector.com",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdEd0Rlhsb2hYc1htM2dpWGtqUkpHT01xdU92dm5fZ1VuVDlVcG9waEo0X1hWZURRZ0l5MjRiNTBCdGw1Y1IxSEN3X2NvRkFIa003bGJHWWdTVU1Fd2R6b04zQm1rbFVOa2VpS3VZSVB3cWFmWGgxa2JLUG1OTVhNZlZWU3RnS2FoSmxjbTRmanBzR1YxM2tWSGoyN0VFYVJOQTVJWUZsUFlzaGtodXlYbGtVQXUxME5RaFE1S3ZuVkh3WVl1cE9MZ29xb2ZvU0w2OVpwOUFuS1A5SmRhUUhOcUVvZjdmaFdWcG0wRFRJeWk3Y05ETmlnQ2Rmek0xR1BnNWc?oc=5"
+        },
+        {
+          "name": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFBlczJQRjFfYVZpTUlnampjNkJqbTFxQ2FoUXcxdHZvblpSZXFKZk10MkdYOFg4d1ZNQ25UdkNPQS1odDNUS1p1OWw4d3cwYkhROC1NSzVOSjlIWkU5WmVPcjhKeWU4UHhBelZKbFFYdkg0RGVvaXZ3Zl9KSHFtbkNSay1WR2kyc0NENXNxaXlkSmFuZjJrTE9MZ3p3dXBiT1EwaVdDWXNnVDVqU3RmaDBCeWw2Mms3MW03MEdIMFpvZw?oc=5"
+        },
+        {
+          "name": "MyNorthwest.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPczIzbWp0RXVpTFFWMG1ZMVlMM2lBbjZPeFdObm9wbVpjalAtV1NuVndsZENaa0dRWUhEZUxEcGFmSTNvWnlMb2lqSTJpMG9rMmNGa1Nodm1HcGFyLUM2RDV0a1BoYV82SnVveGFNQkQ5WVhxUlRmNFZuRU1GeVhKM1MtaEZkYVZmY2hTTExtMGhjclk4OEpJYjhkdjJjSzVEQk1zaHBuNjdRTGE2M1ZUTzBoRGpKTjJzX3h3eEkwaGRyQjd1ZF9qb0hXS1d5YWZiSVFV?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-26-15e36dc7e474",
       "original_title": "Bitcoin and Gold Funds Draw $7 Billion as Scarcity Trade Surges",
@@ -18,6 +198,106 @@
         {
           "name": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1Bsc1NKVGlEVDhFdFF4MzFrQ2tLZDFPcGVEd3N2YmRrbTFCX0FzY3czd2tncnl2RTFTQjVZQmpZcGd2QUNuMGFCdWxyUU1QRU5ObnRpbkUxaW9PTnJ4Z2Y1TVpvUEJVeXZ5RThIWDUwN25tYWgzOGpyc3Z0R3dGcDBQYTZTRzhqVEVyMERSajRTMkx0cHFaLXhvZ1loRTNmcHVYTmdORVB4bGhld2lBSE9TamZxS1FmZm42cEpUM2R3QmNySWY5T3pMRVByUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-b3597a936f53",
+      "original_title": "Hyperliquid advocates push CFTC to open U.S. energy perpetual futures market",
+      "published_at": "2026-08-26T16:48:36Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Hyperliquid advocates push CFTC to open U.S. energy perpetual futures market",
+          "source": "CryptoRank",
+          "snippet": "Hyperliquid advocates push CFTC to open U.S. energy perpetual futures market &nbsp;&nbsp; CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS0RvcUMzb3R4Mi1GTlM5bjItbkZFVEhIajRQeDhFcFl4S3lmTHRiX19tV05VUFRiaFgxSUYydkRFOWg4X29naXV6aXY0UFRlWWZVcDJYbjlPclMxYlBBbkxIaVdfdmxLOFQxczZYbTdiSlJoWUpYQWxPRThHaVE0VGdtTmRYZw?oc=5"
+        },
+        {
+          "headline": "Hyperliquid Advocates Push CFTC To Open U.S. Energy Perpetual Futures Market",
+          "source": "Bitcoin World",
+          "snippet": "Hyperliquid Advocates Push CFTC To Open U.S. Energy Perpetual Futures Market &nbsp;&nbsp; Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YWU41QjRYd0hNNEZVdHdXQ2dpRkl4emhfWk5hN2FaOTVMS3luYjhmTElIdUdjYVJRWmZEYm4zYVVXV3ZRYWRBazIyejQzaEh1dFA2d2JGczhWN2o0MUtWQXB3dVR3RTFVSVlBeUhqajFHS1IxS2xYSw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS0RvcUMzb3R4Mi1GTlM5bjItbkZFVEhIajRQeDhFcFl4S3lmTHRiX19tV05VUFRiaFgxSUYydkRFOWg4X29naXV6aXY0UFRlWWZVcDJYbjlPclMxYlBBbkxIaVdfdmxLOFQxczZYbTdiSlJoWUpYQWxPRThHaVE0VGdtTmRYZw?oc=5"
+        },
+        {
+          "name": "Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YWU41QjRYd0hNNEZVdHdXQ2dpRkl4emhfWk5hN2FaOTVMS3luYjhmTElIdUdjYVJRWmZEYm4zYVVXV3ZRYWRBazIyejQzaEh1dFA2d2JGczhWN2o0MUtWQXB3dVR3RTFVSVlBeUhqajFHS1IxS2xYSw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-a67b4a944955",
+      "original_title": "European shares muted as investors assess Iran-Oman talks, U.S. inflation",
+      "published_at": "2026-08-26T16:41:46Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "European shares muted as investors assess Iran-Oman talks, U.S. inflation",
+          "source": "Reuters",
+          "snippet": "European shares muted as investors assess Iran-Oman talks, U.S. inflation &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1pZeWdGeTdjVWRoOE0zZi1zQzhRVTdhU3g3U3VPV2J4dHVRQWtiRF9CUHlWVGllbFpPYnIyUmc5TDZPVlJrX0lrNDZCME5rcWZEYmN2a1JFY1diVE5oeDk1WEFDNmhIeDZfUmdFMFBBVUh6M1ZibFFvdkNzSDRVc1NEcFdZZmVhRDVjTGtxQWZwd2JDd3hzS1lHalBGUmMwRkZDUTRidDZIQ3lM?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1pZeWdGeTdjVWRoOE0zZi1zQzhRVTdhU3g3U3VPV2J4dHVRQWtiRF9CUHlWVGllbFpPYnIyUmc5TDZPVlJrX0lrNDZCME5rcWZEYmN2a1JFY1diVE5oeDk1WEFDNmhIeDZfUmdFMFBBVUh6M1ZibFFvdkNzSDRVc1NEcFdZZmVhRDVjTGtxQWZwd2JDd3hzS1lHalBGUmMwRkZDUTRidDZIQ3lM?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-0063711255a0",
+      "original_title": "Iran, Oman Agree to Share Strait of Hormuz Revenue",
+      "published_at": "2026-08-26T16:29:11Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran, Oman Agree to Share Strait of Hormuz Revenue",
+          "source": "gCaptain",
+          "snippet": "Iran, Oman Agree to Share Strait of Hormuz Revenue &nbsp;&nbsp; gCaptain",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55SWpocDAza01Nb3JUcVpxTFhXY0dqZXpJTXhHNGZ5SlJjSFhkaHZ5NzUwTmdqWC13RDBFNjh0LWtPLUZpRWFHRkpQYlBSLXpKa0drakdKdjhaQ0t1UHN4ZFNURkZ0NHVlUU43QzBqUjBwRU50ak9CRlFCZw?oc=5"
+        },
+        {
+          "headline": "Iran, Oman agree to share Strait of Hormuz revenue",
+          "source": "Transport Topics",
+          "snippet": "Iran, Oman agree to share Strait of Hormuz revenue &nbsp;&nbsp; Transport Topics",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90ejVDZ1dSek1QYVBuNWt2N2hVZ04zQ2phOFk5SzdSQWx5YnFXaW0yX3dTdldySVliODl2UUNUVFRJczhMNVhBZktJZE9KVk0xbUlGMnlXQ1JRYk1NT3dyaUlTQ0ZsRDA?oc=5"
+        },
+        {
+          "headline": "Iran, Oman Agree to Share Strait of Hormuz Revenue",
+          "source": "Bloomberg.com",
+          "snippet": "Iran, Oman Agree to Share Strait of Hormuz Revenue &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJZVnJEc3hLNEtvZVFJRTZOQzMxQTlKRzhQT3JoWUJOblJFNXg4eWJyXzRfNTVTMi1FLXNSUnZiaVhoblBsNEVmbWVwei1McHFnU1hSb0dYTHRUbjgxMVZQeFdzLXNLYjFNRzdzNG9hQlRVbW5UTU1QNzF5WVhtUlFyTnNiR01yQkJ1ckEyb3VVVkh2RHlzakZGSkpCOEMtcnhvTWNuQk5JYmZCRXlR?oc=5"
+        },
+        {
+          "headline": "Iran, Oman Agree to Share Strait of Hormuz Revenue, IRGC Says",
+          "source": "Yahoo Finance",
+          "snippet": "Iran, Oman Agree to Share Strait of Hormuz Revenue, IRGC Says &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmJHOXN1alBzZGd3OU1IS2lQYWJLYTRrSVRyeXJZNXdOQWlibDBILXdCYlBodXVzWTJyN3RZVDRXNGhYTXNnWVlOZFlKcHluanN2Sm9POXVOd29hWlZIZFF2eHZtU05pOFJmVWgtV00tYlpPSjJtelpqZ3pKb1VvWVpkX0RMejE1ZkotVi13?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "gCaptain",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55SWpocDAza01Nb3JUcVpxTFhXY0dqZXpJTXhHNGZ5SlJjSFhkaHZ5NzUwTmdqWC13RDBFNjh0LWtPLUZpRWFHRkpQYlBSLXpKa0drakdKdjhaQ0t1UHN4ZFNURkZ0NHVlUU43QzBqUjBwRU50ak9CRlFCZw?oc=5"
+        },
+        {
+          "name": "Transport Topics",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90ejVDZ1dSek1QYVBuNWt2N2hVZ04zQ2phOFk5SzdSQWx5YnFXaW0yX3dTdldySVliODl2UUNUVFRJczhMNVhBZktJZE9KVk0xbUlGMnlXQ1JRYk1NT3dyaUlTQ0ZsRDA?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJZVnJEc3hLNEtvZVFJRTZOQzMxQTlKRzhQT3JoWUJOblJFNXg4eWJyXzRfNTVTMi1FLXNSUnZiaVhoblBsNEVmbWVwei1McHFnU1hSb0dYTHRUbjgxMVZQeFdzLXNLYjFNRzdzNG9hQlRVbW5UTU1QNzF5WVhtUlFyTnNiR01yQkJ1ckEyb3VVVkh2RHlzakZGSkpCOEMtcnhvTWNuQk5JYmZCRXlR?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmJHOXN1alBzZGd3OU1IS2lQYWJLYTRrSVRyeXJZNXdOQWlibDBILXdCYlBodXVzWTJyN3RZVDRXNGhYTXNnWVlOZFlKcHluanN2Sm9POXVOd29hWlZIZFF2eHZtU05pOFJmVWgtV00tYlpPSjJtelpqZ3pKb1VvWVpkX0RMejE1ZkotVi13?oc=5"
         }
       ]
     },
@@ -82,56 +362,6 @@
       ]
     },
     {
-      "stable_id": "2026-08-26-cd6009d5f3e1",
-      "original_title": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news",
-      "published_at": "2026-08-26T15:51:52Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news",
-          "source": "FOX 56 News",
-          "snippet": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news &nbsp;&nbsp; FOX 56 News",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONk5UdTlIaFJraURmckdRYjgtZFRvVVFjWjhfa1hyRkpEa2JCWUlfbldmaHN1Qlhmc0JoUGYtTWZ3ZXd1cXlPMFo4ZFlVcThFSjZ5Q1FWUUhNc2UwWlMteHlqNFRRZE9sU1hSSjlLTGU5REN0bzh5a2hGdk5Md2hjbkthTFhjRHlFSHVMZlBGSDFpYnFKSS1NeUM3TXh0X2UtVzF5V1QzSGNmRnlSb2F3cnZLb01aQ1BRRmhNWGdwSEJBMzl5ZHhOMkNpSUllVmIxR2tBUElLV0RpaS05QUFSZUEtQjdHUdIB6wFBVV95cUxNYWo0QU5YU1Rtam1INVp2RE0xX1dQVWZ0czV4bjZIMGQxQXQ2X3FhNmFpcVc1Q3VuRUtSaUZNOENtRTZRR0xkUGlWTFBIQjRSeE9EZF9QeVlSb1pzQnVRQU05dDdPMWp3TG9odVp1UFk1RzI3YUp1amc2eFRSaHZLQ01Gd0pEaWdmVVFoMERUai1oZlY3dnpwREVzMFA2VkgyTnpIZmd5ZkZpS09VWWl5MnU2RXI2Yl9OdUNFTkRlQjctYmQ4UzlnQk1sM2lDTVFxUGNKTTJhVWtxeklJUlpIYXgxWEdhWDdRaHBJ?oc=5"
-        },
-        {
-          "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news",
-          "source": "AP News",
-          "snippet": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news &nbsp;&nbsp; AP News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5"
-        },
-        {
-          "headline": "Iran warns of military ship ban in Strait of Hormuz under potential deal with Oman",
-          "source": "Spectrum News",
-          "snippet": "Iran warns of military ship ban in Strait of Hormuz under potential deal with Oman &nbsp;&nbsp; Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFBlczJQRjFfYVZpTUlnampjNkJqbTFxQ2FoUXcxdHZvblpSZXFKZk10MkdYOFg4d1ZNQ25UdkNPQS1odDNUS1p1OWw4d3cwYkhROC1NSzVOSjlIWkU5WmVPcjhKeWU4UHhBelZKbFFYdkg0RGVvaXZ3Zl9KSHFtbkNSay1WR2kyc0NENXNxaXlkSmFuZjJrTE9MZ3p3dXBiT1EwaVdDWXNnVDVqU3RmaDBCeWw2Mms3MW03MEdIMFpvZw?oc=5"
-        },
-        {
-          "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news",
-          "source": "WRAL",
-          "snippet": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news &nbsp;&nbsp; WRAL",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcVcwTGJHYlZsMGRxdkN4ejlvRVAxdE9sVUxkeWZXcm1rVmt3UThsVTBDSG5LcnVRTEJPemhhd253NVJ5ZXdGRWliOURHS1NzUUJyTHdRRWxwNlplLVJYVENNdzJDODNiY2h4S2xWR0xHM01RaXNTSW9nOGRUV3czdFFqcnA0RkJaYUhNVEhYWjVzYXFqZGVVZ3BleDFoUkFEUmE5dXlXUHY1WXN5ajQ1b2FFU2FnbEpiYjZ6T1lzaXBtWUVwZ1R5NkFmZEQzMTN6?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FOX 56 News",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONk5UdTlIaFJraURmckdRYjgtZFRvVVFjWjhfa1hyRkpEa2JCWUlfbldmaHN1Qlhmc0JoUGYtTWZ3ZXd1cXlPMFo4ZFlVcThFSjZ5Q1FWUUhNc2UwWlMteHlqNFRRZE9sU1hSSjlLTGU5REN0bzh5a2hGdk5Md2hjbkthTFhjRHlFSHVMZlBGSDFpYnFKSS1NeUM3TXh0X2UtVzF5V1QzSGNmRnlSb2F3cnZLb01aQ1BRRmhNWGdwSEJBMzl5ZHhOMkNpSUllVmIxR2tBUElLV0RpaS05QUFSZUEtQjdHUdIB6wFBVV95cUxNYWo0QU5YU1Rtam1INVp2RE0xX1dQVWZ0czV4bjZIMGQxQXQ2X3FhNmFpcVc1Q3VuRUtSaUZNOENtRTZRR0xkUGlWTFBIQjRSeE9EZF9QeVlSb1pzQnVRQU05dDdPMWp3TG9odVp1UFk1RzI3YUp1amc2eFRSaHZLQ01Gd0pEaWdmVVFoMERUai1oZlY3dnpwREVzMFA2VkgyTnpIZmd5ZkZpS09VWWl5MnU2RXI2Yl9OdUNFTkRlQjctYmQ4UzlnQk1sM2lDTVFxUGNKTTJhVWtxeklJUlpIYXgxWEdhWDdRaHBJ?oc=5"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5"
-        },
-        {
-          "name": "Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFBlczJQRjFfYVZpTUlnampjNkJqbTFxQ2FoUXcxdHZvblpSZXFKZk10MkdYOFg4d1ZNQ25UdkNPQS1odDNUS1p1OWw4d3cwYkhROC1NSzVOSjlIWkU5WmVPcjhKeWU4UHhBelZKbFFYdkg0RGVvaXZ3Zl9KSHFtbkNSay1WR2kyc0NENXNxaXlkSmFuZjJrTE9MZ3p3dXBiT1EwaVdDWXNnVDVqU3RmaDBCeWw2Mms3MW03MEdIMFpvZw?oc=5"
-        },
-        {
-          "name": "WRAL",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcVcwTGJHYlZsMGRxdkN4ejlvRVAxdE9sVUxkeWZXcm1rVmt3UThsVTBDSG5LcnVRTEJPemhhd253NVJ5ZXdGRWliOURHS1NzUUJyTHdRRWxwNlplLVJYVENNdzJDODNiY2h4S2xWR0xHM01RaXNTSW9nOGRUV3czdFFqcnA0RkJaYUhNVEhYWjVzYXFqZGVVZ3BleDFoUkFEUmE5dXlXUHY1WXN5ajQ1b2FFU2FnbEpiYjZ6T1lzaXBtWUVwZ1R5NkFmZEQzMTN6?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-08-26-50090ce41d68",
       "original_title": "FinancialJuice: Iran's Vice President: National interests will be secured if US returns to agreement through diplomacy and military pressure",
       "published_at": "2026-08-26T15:48:49Z",
@@ -152,46 +382,6 @@
       ]
     },
     {
-      "stable_id": "2026-08-26-0063711255a0",
-      "original_title": "Iran, Oman Agree to Share Strait of Hormuz Revenue",
-      "published_at": "2026-08-26T15:40:11Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran, Oman Agree to Share Strait of Hormuz Revenue",
-          "source": "Bloomberg",
-          "snippet": "Iran, Oman Agree to Share Strait of Hormuz Revenue &nbsp;&nbsp; Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJZVnJEc3hLNEtvZVFJRTZOQzMxQTlKRzhQT3JoWUJOblJFNXg4eWJyXzRfNTVTMi1FLXNSUnZiaVhoblBsNEVmbWVwei1McHFnU1hSb0dYTHRUbjgxMVZQeFdzLXNLYjFNRzdzNG9hQlRVbW5UTU1QNzF5WVhtUlFyTnNiR01yQkJ1ckEyb3VVVkh2RHlzakZGSkpCOEMtcnhvTWNuQk5JYmZCRXlR?oc=5"
-        },
-        {
-          "headline": "Iran, Oman agree to share Strait of Hormuz revenue",
-          "source": "Transport Topics",
-          "snippet": "Iran, Oman agree to share Strait of Hormuz revenue &nbsp;&nbsp; Transport Topics",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90ejVDZ1dSek1QYVBuNWt2N2hVZ04zQ2phOFk5SzdSQWx5YnFXaW0yX3dTdldySVliODl2UUNUVFRJczhMNVhBZktJZE9KVk0xbUlGMnlXQ1JRYk1NT3dyaUlTQ0ZsRDA?oc=5"
-        },
-        {
-          "headline": "Iran, Oman Agree to Share Strait of Hormuz Revenue, IRGC Says",
-          "source": "Yahoo Finance",
-          "snippet": "Iran, Oman Agree to Share Strait of Hormuz Revenue, IRGC Says &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmJHOXN1alBzZGd3OU1IS2lQYWJLYTRrSVRyeXJZNXdOQWlibDBILXdCYlBodXVzWTJyN3RZVDRXNGhYTXNnWVlOZFlKcHluanN2Sm9POXVOd29hWlZIZFF2eHZtU05pOFJmVWgtV00tYlpPSjJtelpqZ3pKb1VvWVpkX0RMejE1ZkotVi13?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJZVnJEc3hLNEtvZVFJRTZOQzMxQTlKRzhQT3JoWUJOblJFNXg4eWJyXzRfNTVTMi1FLXNSUnZiaVhoblBsNEVmbWVwei1McHFnU1hSb0dYTHRUbjgxMVZQeFdzLXNLYjFNRzdzNG9hQlRVbW5UTU1QNzF5WVhtUlFyTnNiR01yQkJ1ckEyb3VVVkh2RHlzakZGSkpCOEMtcnhvTWNuQk5JYmZCRXlR?oc=5"
-        },
-        {
-          "name": "Transport Topics",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90ejVDZ1dSek1QYVBuNWt2N2hVZ04zQ2phOFk5SzdSQWx5YnFXaW0yX3dTdldySVliODl2UUNUVFRJczhMNVhBZktJZE9KVk0xbUlGMnlXQ1JRYk1NT3dyaUlTQ0ZsRDA?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmJHOXN1alBzZGd3OU1IS2lQYWJLYTRrSVRyeXJZNXdOQWlibDBILXdCYlBodXVzWTJyN3RZVDRXNGhYTXNnWVlOZFlKcHluanN2Sm9POXVOd29hWlZIZFF2eHZtU05pOFJmVWgtV00tYlpPSjJtelpqZ3pKb1VvWVpkX0RMejE1ZkotVi13?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-08-26-3e15f89aadb0",
       "original_title": "Oil Slips as Investors Focus on Hormuz Talks",
       "published_at": "2026-08-26T15:31:19Z",
@@ -204,9 +394,21 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNekNySFVVM2hHUk9mR1JpNTd6aDVWdExuemdfS3NRUmUxLV9lWUo1Y1Y5aThRUWdfVWFLTldMSkxQMDNoZ2hXdWlUTmdqNDN2MmJndUg2UTh3VEFpUTBPV2NPWEtkVzJBX1JLWG9TLWZBUGpDdkVUVE9yMS1DWTdBbw?oc=5"
         },
         {
-          "headline": "Oil slips as investors focus on Hormuz talks",
+          "headline": "Oil slips as investors focus on Hormuz talks By Reuters",
+          "source": "Investing.com South Africa",
+          "snippet": "Oil slips as investors focus on Hormuz talks By Reuters &nbsp;&nbsp; Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblM4X0FIVjE5X3hKNk92dElvcjRLeENQdkU0ZnFVY25xTDRZNXdtUERWQi03WXU3T2lWOTZTNkJlanRjdGZFQ3VKQUkyZE9JclN2SWtCWHdpVVVTc1hYYmQ1LVJEajMwbVFfRFZMaXY4aHFLeXJXM1djMzVKY0VLYjFyUlhSTV9GMmtvWnkybTliZ2cxeUlaT3pZZURscElyM2REZjFiQ0U4SFZfd1VDNXFuelVUOTdOZnc?oc=5"
+        },
+        {
+          "headline": "Oil rises as investors weigh Hormuz talks",
+          "source": "NewsBreak: Local News & Alerts",
+          "snippet": "Oil rises as investors weigh Hormuz talks &nbsp;&nbsp; NewsBreak: Local News & Alerts",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRm94TXBQcEV0enhJcXdzQXF6TE5TUFNCRnlaelBvWTBzNnh0a1AyWm5HVzJkZF9tU05QSUlNVm1SY28xQzlzZ3Voem1HeUxDcXE3TzhBZElWRk5zdlFtcUstTEwyNjc2N004ZWpiYjNTTUFPVXNpMHJJM3lSWVNKYmMwZWVxRGRLc3pRX0tocEtYTnZRN2pYeldibFc?oc=5"
+        },
+        {
+          "headline": "Oil rises as investors weigh Hormuz talks",
           "source": "Reuters",
-          "snippet": "Oil slips as investors focus on Hormuz talks &nbsp;&nbsp; Reuters",
+          "snippet": "Oil rises as investors weigh Hormuz talks &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5"
         }
       ],
@@ -214,6 +416,14 @@
         {
           "name": "GV Wire",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNekNySFVVM2hHUk9mR1JpNTd6aDVWdExuemdfS3NRUmUxLV9lWUo1Y1Y5aThRUWdfVWFLTldMSkxQMDNoZ2hXdWlUTmdqNDN2MmJndUg2UTh3VEFpUTBPV2NPWEtkVzJBX1JLWG9TLWZBUGpDdkVUVE9yMS1DWTdBbw?oc=5"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblM4X0FIVjE5X3hKNk92dElvcjRLeENQdkU0ZnFVY25xTDRZNXdtUERWQi03WXU3T2lWOTZTNkJlanRjdGZFQ3VKQUkyZE9JclN2SWtCWHdpVVVTc1hYYmQ1LVJEajMwbVFfRFZMaXY4aHFLeXJXM1djMzVKY0VLYjFyUlhSTV9GMmtvWnkybTliZ2cxeUlaT3pZZURscElyM2REZjFiQ0U4SFZfd1VDNXFuelVUOTdOZnc?oc=5"
+        },
+        {
+          "name": "NewsBreak: Local News & Alerts",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRm94TXBQcEV0enhJcXdzQXF6TE5TUFNCRnlaelBvWTBzNnh0a1AyWm5HVzJkZF9tU05QSUlNVm1SY28xQzlzZ3Voem1HeUxDcXE3TzhBZElWRk5zdlFtcUstTEwyNjc2N004ZWpiYjNTTUFPVXNpMHJJM3lSWVNKYmMwZWVxRGRLc3pRX0tocEtYTnZRN2pYeldibFc?oc=5"
         },
         {
           "name": "Reuters",
@@ -1072,12 +1282,22 @@
           "source": "Reuters",
           "snippet": "Aramco offers more oil outside Hormuz with some cargoes heading to China &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN28yZHRvaDZjTnZZZUxaLVNTSTdyb0JUTVJfZmN2TUhWa2d5Tk9id0hDNm11YjlZZFFKV1RrV3FSUjNUeWlmaHhCbGFraDlnVm5EVVIxdUJYWHlqS1BpNTRXaDV4WjJSVkg1OTZhalpnMldOdmNaTFkyTE9LczQ0NUhlalM1dDlPMVVBbGtnZ1FlNFRacm40Y3Z0MjhXSy1HRXk1UmVwZkl2WmhhaVdGWVdHb1M5eU43eHFZZzR3?oc=5"
+        },
+        {
+          "headline": "Saudi Aramco offers more oil to China outside Strait of Hormuz - Reuters",
+          "source": "t.co",
+          "snippet": "Saudi Aramco offers more oil to China outside Strait of Hormuz - Reuters &nbsp;&nbsp; t.co",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5meFNuODZ2NWc0YVlhWnFONlcxT2VEWU1BcFBwblZEZEJhN1IwdW5PV0ctYUZxODh4X2t3?oc=5"
         }
       ],
       "sources": [
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN28yZHRvaDZjTnZZZUxaLVNTSTdyb0JUTVJfZmN2TUhWa2d5Tk9id0hDNm11YjlZZFFKV1RrV3FSUjNUeWlmaHhCbGFraDlnVm5EVVIxdUJYWHlqS1BpNTRXaDV4WjJSVkg1OTZhalpnMldOdmNaTFkyTE9LczQ0NUhlalM1dDlPMVVBbGtnZ1FlNFRacm40Y3Z0MjhXSy1HRXk1UmVwZkl2WmhhaVdGWVdHb1M5eU43eHFZZzR3?oc=5"
+        },
+        {
+          "name": "t.co",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5meFNuODZ2NWc0YVlhWnFONlcxT2VEWU1BcFBwblZEZEJhN1IwdW5PV0ctYUZxODh4X2t3?oc=5"
         }
       ]
     },
@@ -1138,6 +1358,36 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9737118/Trump-on-Irans-Ayatollah-I-dont-think-hes-dead.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-0fa471a2cab7",
+      "original_title": "US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5 percent",
+      "published_at": "2026-08-26T13:11:55Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5 percent",
+          "source": "The Standard (HK)",
+          "snippet": "US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5 percent &nbsp;&nbsp; The Standard (HK)",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVdvNjJaYnhCZTdtVXRsNDQ4akxrZnZGdm50YmRra3I3UHFDMVhoVjU1NWZGQThNTEJGSUJvOFd5amJGd25RQkcxZVpVaklIR0oxbzJ3aVp2ZXIwNHRwUlQtWllwQlFVNEJ1WUgtUzV0LVpKYjJSclh5T3BIelhncDEtVnFHbTl4ZXRSbEpOdFk3Nzh3TC1EcVYzYjlwU2xuWmQxZGZLS3NSaF84cTduVGZDdnRJdnpTZE9nclVVbUNoMXhjVk5wbg?oc=5"
+        },
+        {
+          "headline": "US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5%",
+          "source": "Reuters",
+          "snippet": "US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5% &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGZMbzZKcjQta1dMdl9LYzRqcHJ3NENGVVZjT2UtVWFHTnNlMHgxWkFpU282LUFlanJqUDU2YWZBSnp5TVJEQ005d3FvSGZWa0tQRVdDZURPNFJRazRacHpCMU1nYjZ2cnhPb1JPcVZTTGtYNkxCb01uQ3V5UFZrNmppWTRpcGRwdVluU19tdFo0TjlfVFhneVRkTmNPYXVxU3FmRU1MZE1tZw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Standard (HK)",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVdvNjJaYnhCZTdtVXRsNDQ4akxrZnZGdm50YmRra3I3UHFDMVhoVjU1NWZGQThNTEJGSUJvOFd5amJGd25RQkcxZVpVaklIR0oxbzJ3aVp2ZXIwNHRwUlQtWllwQlFVNEJ1WUgtUzV0LVpKYjJSclh5T3BIelhncDEtVnFHbTl4ZXRSbEpOdFk3Nzh3TC1EcVYzYjlwU2xuWmQxZGZLS3NSaF84cTduVGZDdnRJdnpTZE9nclVVbUNoMXhjVk5wbg?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGZMbzZKcjQta1dMdl9LYzRqcHJ3NENGVVZjT2UtVWFHTnNlMHgxWkFpU282LUFlanJqUDU2YWZBSnp5TVJEQ005d3FvSGZWa0tQRVdDZURPNFJRazRacHpCMU1nYjZ2cnhPb1JPcVZTTGtYNkxCb01uQ3V5UFZrNmppWTRpcGRwdVluU19tdFo0TjlfVFhneVRkTmNPYXVxU3FmRU1MZE1tZw?oc=5"
         }
       ]
     },
@@ -1525,8 +1775,8 @@
         },
         {
           "headline": "Japan Energy Plan Seeks to Back Pipelines Bypassing Hormuz",
-          "source": "Bloomberg",
-          "snippet": "Japan Energy Plan Seeks to Back Pipelines Bypassing Hormuz &nbsp;&nbsp; Bloomberg",
+          "source": "Bloomberg.com",
+          "snippet": "Japan Energy Plan Seeks to Back Pipelines Bypassing Hormuz &nbsp;&nbsp; Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGFINTB3Z3ctOHdxdTVHeExubnREQjd2Z3h2ZTJuMGthcVdJbTRSZ0RfTmRJZU9NOUFYQzdBYlRPTWJ6VDV0SGdkeDU0LThseUt4R1pvYVllRjNFSk50Uk44cE5ieVMtX1JsRUdoN3hVMlVCRDdTdXJiTWFnZFpBdUczLUVzYUUwSUhvMmxMZkwyYTRmTU03Snk5cEJNV2U4VDUybW4xc3UzUzV1a2NOR0FIMTc?oc=5"
         }
       ],
@@ -1536,8 +1786,48 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXI3X0thMXdVX2VfN3E1cEZoUVhMWDNtUlRMRHJUSDhWMDJGR0NFcmU3cGdkVkt2UXQ3RVFtX1BjLVJaLS14bXprY21HVEc3b0J4V2h6dlUxQmwyUHZDYUozaWpmMTlwRWVvVmtKZ1I0MlA1akdUaHhsSldDWks1alUtM0ZUMGM?oc=5"
         },
         {
-          "name": "Bloomberg",
+          "name": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGFINTB3Z3ctOHdxdTVHeExubnREQjd2Z3h2ZTJuMGthcVdJbTRSZ0RfTmRJZU9NOUFYQzdBYlRPTWJ6VDV0SGdkeDU0LThseUt4R1pvYVllRjNFSk50Uk44cE5ieVMtX1JsRUdoN3hVMlVCRDdTdXJiTWFnZFpBdUczLUVzYUUwSUhvMmxMZkwyYTRmTU03Snk5cEJNV2U4VDUybW4xc3UzUzV1a2NOR0FIMTc?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-c52ec51d9647",
+      "original_title": "Iran and Oman Plan for Temporary Hormuz Corridor as Impasse With US Persists",
+      "published_at": "2026-08-26T11:37:14Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran and Oman Plan for Temporary Hormuz Corridor as Impasse With US Persists",
+          "source": "gCaptain",
+          "snippet": "Iran and Oman Plan for Temporary Hormuz Corridor as Impasse With US Persists &nbsp;&nbsp; gCaptain",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNV9HVUZBbXJDTzVFWUU5YlVkM2lnd3J3aTktREh1LWpnWFpzeVQxOHF0QTA5cXZZQlQzdGlFcnVVS2NYZ3I4djJpeXVfX21xUHJycUNyN184eUI3N3RtRkNmQkNpVmhBaTJzMEVuckxDRmp6NTRHd0VtdHZzZXRWRE1HQ2VKaTMwMERPUkNFSnRoZVF6TXR6blBHSG5LbWs?oc=5"
+        },
+        {
+          "headline": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on",
+          "source": "Awani International",
+          "snippet": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on &nbsp;&nbsp; Awani International",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkR2SFpMVEVDbmgxWjJ0Zk93TFR6MGZBMmI4NWRxRlVTOS1ZZ3NacndqSm4zT1RFNFE2TDBWUjA3R1p3emRSRGFzMmQwazRrSnN2TG5QN244WGUzZmRhMHNIY2hmd2NEWFZUcEFoczJWd0NZUHJ2Qzcyd2o2ZlBGTGlqc0hiRFdMSGdtZGYteElqZTg1TjE0WUtxZTZFUjItRHh5eWFUYlMxcnNWQXZIYkNMYw?oc=5"
+        },
+        {
+          "headline": "Iran and Oman discuss temporary Hormuz corridor",
+          "source": "aapnews.aap.com.au",
+          "snippet": "Iran and Oman discuss temporary Hormuz corridor &nbsp;&nbsp; aapnews.aap.com.au",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9haVVDSWJJblo0NjdRWHBZOTBIUDRBeFUwZGNzRHZrbDRGcENTOUNrYmh4UGN6UUJIdDRzU21KdE5KSklNby1TeWFJd0lqUGotdERKd29xay10NjhkaG5hTmpPZ1NleGdWdGV5Wk9mTFREMno0eGZyZkpxSUo?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "gCaptain",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNV9HVUZBbXJDTzVFWUU5YlVkM2lnd3J3aTktREh1LWpnWFpzeVQxOHF0QTA5cXZZQlQzdGlFcnVVS2NYZ3I4djJpeXVfX21xUHJycUNyN184eUI3N3RtRkNmQkNpVmhBaTJzMEVuckxDRmp6NTRHd0VtdHZzZXRWRE1HQ2VKaTMwMERPUkNFSnRoZVF6TXR6blBHSG5LbWs?oc=5"
+        },
+        {
+          "name": "Awani International",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkR2SFpMVEVDbmgxWjJ0Zk93TFR6MGZBMmI4NWRxRlVTOS1ZZ3NacndqSm4zT1RFNFE2TDBWUjA3R1p3emRSRGFzMmQwazRrSnN2TG5QN244WGUzZmRhMHNIY2hmd2NEWFZUcEFoczJWd0NZUHJ2Qzcyd2o2ZlBGTGlqc0hiRFdMSGdtZGYteElqZTg1TjE0WUtxZTZFUjItRHh5eWFUYlMxcnNWQXZIYkNMYw?oc=5"
+        },
+        {
+          "name": "aapnews.aap.com.au",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9haVVDSWJJblo0NjdRWHBZOTBIUDRBeFUwZGNzRHZrbDRGcENTOUNrYmh4UGN6UUJIdDRzU21KdE5KSklNby1TeWFJd0lqUGotdERKd29xay10NjhkaG5hTmpPZ1NleGdWdGV5Wk9mTFREMno0eGZyZkpxSUo?oc=5"
         }
       ]
     },
@@ -1814,12 +2104,6 @@
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcVN1VWJRN2l0YUlsRnBLREZLZ29Qd0ozZUtXaEFpVExPQ2k4dDVfLUc1NWJ0c04yV1ZHWkFiTDUzR24wdWc0ckRFME5mVEpIaUdDc3FKSDBIcDMycy1RNklRWFhDSGIwLWducDBURjd2ZlFjTGN2c09sVWRuUE94V09JLVB6NnNJaGtyQ3JCZ2hMb3hfUnRscnVsclloR3RPUmljY2xWdm8zZ2ZKR21iYVFQZzFCY1ByUVVIckJxRVBFRk1zQmt4N05USXlOOGZxUERDT0xEUjZOX1kyNFdtRjc5cGRYcHlrUDVUU1RFM2NLY2ZkVnFJWWVLVXFFeFpG?oc=5"
         },
         {
-          "headline": "Oil drops to more than two-week low on Iran-Oman talks to reopen Strait of Hormuz",
-          "source": "AOL.com",
-          "snippet": "Oil drops to more than two-week low on Iran-Oman talks to reopen Strait of Hormuz &nbsp;&nbsp; AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBreE1vT1NCYmdNTTAwc2hNelZHTnc5Sm9YRFE2aVRUM1pLSDB4d0I1WjZmMm5MbGVZVTE1N1NTZE5DYmdHLTA4bkJ4Q0g2Ylp2SlFiY1ZiSEtRZXgwc3o3bXVrUW9rT0JxbzJTaDBhNV9ZUmtfcGJUSmJoaw?oc=5"
-        },
-        {
           "headline": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz",
           "source": "Arab News",
           "snippet": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz &nbsp;&nbsp; Arab News",
@@ -1844,10 +2128,6 @@
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcVN1VWJRN2l0YUlsRnBLREZLZ29Qd0ozZUtXaEFpVExPQ2k4dDVfLUc1NWJ0c04yV1ZHWkFiTDUzR24wdWc0ckRFME5mVEpIaUdDc3FKSDBIcDMycy1RNklRWFhDSGIwLWducDBURjd2ZlFjTGN2c09sVWRuUE94V09JLVB6NnNJaGtyQ3JCZ2hMb3hfUnRscnVsclloR3RPUmljY2xWdm8zZ2ZKR21iYVFQZzFCY1ByUVVIckJxRVBFRk1zQmt4N05USXlOOGZxUERDT0xEUjZOX1kyNFdtRjc5cGRYcHlrUDVUU1RFM2NLY2ZkVnFJWWVLVXFFeFpG?oc=5"
         },
         {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBreE1vT1NCYmdNTTAwc2hNelZHTnc5Sm9YRFE2aVRUM1pLSDB4d0I1WjZmMm5MbGVZVTE1N1NTZE5DYmdHLTA4bkJ4Q0g2Ylp2SlFiY1ZiSEtRZXgwc3o3bXVrUW9rT0JxbzJTaDBhNV9ZUmtfcGJUSmJoaw?oc=5"
-        },
-        {
           "name": "Arab News",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Eay1pNGxlcjBCQkl6WFhXbHNLTlZtdDdIYUtTNWNtaGI5ZFBTb19QM3VZZGV4cElHUzRjUEpWRnRJVWRPWldQLVZzcHRLNFcwcTdZ?oc=5"
         },
@@ -1858,46 +2138,6 @@
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdFg4TGluLUduR3VtN1FNeGsxNXlQT3Fvd3pmc1hTRWdtcXRFSzI5U0xwcWxMQkN2aUEtR2daX0IxSnUydjdzTFhja0VDa1FMQW5BWFpqNmdZSFhFMjlkZExLQVlha0NpNVJUV1NJa3JfSDhFR3hWYm9JZGE0OGROQV8zUDBFZXhSMk1wbzVCeHN4OFR6a0VLXzk2cVBfWThxeGJYRV96V2xSZjVmcXJvS1JUWW9VbnplUHoxd0czSmFwejFMbEZLX1YwMW10VFk?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-c52ec51d9647",
-      "original_title": "Iran and Oman plan for temporary Hormuz corridor as impasse with US persists",
-      "published_at": "2026-08-26T10:36:55Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran and Oman plan for temporary Hormuz corridor as impasse with US persists",
-          "source": "GMA Network",
-          "snippet": "Iran and Oman plan for temporary Hormuz corridor as impasse with US persists &nbsp;&nbsp; GMA Network",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQi1ybkhuaHVJNVE4LW1GMUxSUmRQTlBtT3VlZ3lTOUg0ZklUMTRuTzJ3LVRIZjNEZU96bjFjUElWLUlTNnlFVjF0c3ZJemVkZExFTnZlc1JqY1B1alZQR1VMZm1LMFZKci11RnFmZnVGemdqaTVseU9lRlZEaHhBTW5tSW1GZkpacGN6WnFIVk1ndUxUX3EzYm9PZXJFd2tGemRHUVFVRXJTTzA3NGJ6QkhKT0cwSTIwVkdKMEJ3QVJBZXFtY1AwMDM0cWFTalNVdVhwSjF30gHbAUFVX3lxTE0wcGtWMGlQZWpKUlFDTEFQTWJ5WnBVTXFhdjBsUzlwR3BXeXhnd2tGa0wzV09IUU1kMHlSMjlnSWg1a3BoRXdsVW1DU1JPeGxfY3VfNHJjVHFWaWRJaURKSjFpbXFmcHZzU3o0R19GSExReUx2d05TUkl6TTd3VDNyQlhuRmFtdThveWRoZ3hRX2JhdXl1bXlWcmNFOWY4U0VtYzBmblhlNTVMVTF1Tnc5dnlTOHJYb1NHWFVnODM1MXZqM2x5aGItX1ZsMFQ5VTFQTFpBZy1zUXJhQQ?oc=5"
-        },
-        {
-          "headline": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on",
-          "source": "Awani International",
-          "snippet": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on &nbsp;&nbsp; Awani International",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkR2SFpMVEVDbmgxWjJ0Zk93TFR6MGZBMmI4NWRxRlVTOS1ZZ3NacndqSm4zT1RFNFE2TDBWUjA3R1p3emRSRGFzMmQwazRrSnN2TG5QN244WGUzZmRhMHNIY2hmd2NEWFZUcEFoczJWd0NZUHJ2Qzcyd2o2ZlBGTGlqc0hiRFdMSGdtZGYteElqZTg1TjE0WUtxZTZFUjItRHh5eWFUYlMxcnNWQXZIYkNMYw?oc=5"
-        },
-        {
-          "headline": "Iran and Oman discuss temporary Hormuz corridor",
-          "source": "aapnews.aap.com.au",
-          "snippet": "Iran and Oman discuss temporary Hormuz corridor &nbsp;&nbsp; aapnews.aap.com.au",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9haVVDSWJJblo0NjdRWHBZOTBIUDRBeFUwZGNzRHZrbDRGcENTOUNrYmh4UGN6UUJIdDRzU21KdE5KSklNby1TeWFJd0lqUGotdERKd29xay10NjhkaG5hTmpPZ1NleGdWdGV5Wk9mTFREMno0eGZyZkpxSUo?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "GMA Network",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQi1ybkhuaHVJNVE4LW1GMUxSUmRQTlBtT3VlZ3lTOUg0ZklUMTRuTzJ3LVRIZjNEZU96bjFjUElWLUlTNnlFVjF0c3ZJemVkZExFTnZlc1JqY1B1alZQR1VMZm1LMFZKci11RnFmZnVGemdqaTVseU9lRlZEaHhBTW5tSW1GZkpacGN6WnFIVk1ndUxUX3EzYm9PZXJFd2tGemRHUVFVRXJTTzA3NGJ6QkhKT0cwSTIwVkdKMEJ3QVJBZXFtY1AwMDM0cWFTalNVdVhwSjF30gHbAUFVX3lxTE0wcGtWMGlQZWpKUlFDTEFQTWJ5WnBVTXFhdjBsUzlwR3BXeXhnd2tGa0wzV09IUU1kMHlSMjlnSWg1a3BoRXdsVW1DU1JPeGxfY3VfNHJjVHFWaWRJaURKSjFpbXFmcHZzU3o0R19GSExReUx2d05TUkl6TTd3VDNyQlhuRmFtdThveWRoZ3hRX2JhdXl1bXlWcmNFOWY4U0VtYzBmblhlNTVMVTF1Tnc5dnlTOHJYb1NHWFVnODM1MXZqM2x5aGItX1ZsMFQ5VTFQTFpBZy1zUXJhQQ?oc=5"
-        },
-        {
-          "name": "Awani International",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkR2SFpMVEVDbmgxWjJ0Zk93TFR6MGZBMmI4NWRxRlVTOS1ZZ3NacndqSm4zT1RFNFE2TDBWUjA3R1p3emRSRGFzMmQwazRrSnN2TG5QN244WGUzZmRhMHNIY2hmd2NEWFZUcEFoczJWd0NZUHJ2Qzcyd2o2ZlBGTGlqc0hiRFdMSGdtZGYteElqZTg1TjE0WUtxZTZFUjItRHh5eWFUYlMxcnNWQXZIYkNMYw?oc=5"
-        },
-        {
-          "name": "aapnews.aap.com.au",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9haVVDSWJJblo0NjdRWHBZOTBIUDRBeFUwZGNzRHZrbDRGcENTOUNrYmh4UGN6UUJIdDRzU21KdE5KSklNby1TeWFJd0lqUGotdERKd29xay10NjhkaG5hTmpPZ1NleGdWdGV5Wk9mTFREMno0eGZyZkpxSUo?oc=5"
         }
       ]
     },
@@ -1988,6 +2228,36 @@
         {
           "name": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-8b3cdd57dedc",
+      "original_title": "Middle East live: Iran says Hormuz strait still closed despite transit corridor talks with Oman",
+      "published_at": "2026-08-26T10:09:17Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Middle East live: Iran says Hormuz strait still closed despite transit corridor talks with Oman",
+          "source": "AOL.ca",
+          "snippet": "Middle East live: Iran says Hormuz strait still closed despite transit corridor talks with Oman &nbsp;&nbsp; AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUWJWWHd2QXhNclp2eHFFMFE4YjRGRm5pa3Izb1NTTFphWXJybXo5UEVyTUlPamlUTkxObnFpX2NqVjE3aTItb19NdC10eDZnNnpiSE1mcG95eXJKRGNNX1JxT3hNQTRsRERQZWxQVnVGZGV5MnVEWA?oc=5"
+        },
+        {
+          "headline": "Middle East live: Iran says Hormuz strait still closed despite transit corridor talks with Oman",
+          "source": "AOL.co.uk",
+          "snippet": "Middle East live: Iran says Hormuz strait still closed despite transit corridor talks with Oman &nbsp;&nbsp; AOL.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vWTFjQWdRM1ZicWRVcW1WQUNUTDhGRXNFcEZ3ajFQVnp6LVQxWHZ6YkFfX183X29OMFA3aXF6QnRfcFE5V2I1MXplZkphb2ZIUkdyeVdZS1J6ZnpUcWRyNHlqOW9MOGRkTU1Kb3NSaE9zRVVGdGJMZThhcnE?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUWJWWHd2QXhNclp2eHFFMFE4YjRGRm5pa3Izb1NTTFphWXJybXo5UEVyTUlPamlUTkxObnFpX2NqVjE3aTItb19NdC10eDZnNnpiSE1mcG95eXJKRGNNX1JxT3hNQTRsRERQZWxQVnVGZGV5MnVEWA?oc=5"
+        },
+        {
+          "name": "AOL.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vWTFjQWdRM1ZicWRVcW1WQUNUTDhGRXNFcEZ3ajFQVnp6LVQxWHZ6YkFfX183X29OMFA3aXF6QnRfcFE5V2I1MXplZkphb2ZIUkdyeVdZS1J6ZnpUcWRyNHlqOW9MOGRkTU1Kb3NSaE9zRVVGdGJMZThhcnE?oc=5"
         }
       ]
     },
@@ -2218,216 +2488,6 @@
         {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-ccd009e4aea4",
-      "original_title": "FinancialJuice: SNB Interest Rate Probabilities",
-      "published_at": "2026-08-26T09:05:15Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: SNB Interest Rate Probabilities",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9736789/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9736789/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-3f457f90f5c2",
-      "original_title": "Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings",
-      "published_at": "2026-08-26T08:51:18Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-6b487b899a71",
-      "original_title": "Live updates: Bitcoin flat near $78,500 ahead of Nvidia earnings",
-      "published_at": "2026-08-26T08:51:18Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Live updates: Bitcoin flat near $78,500 ahead of Nvidia earnings",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-6194d3fb8be4",
-      "original_title": "Live updates: Bitcoin adds to early losses, slipping below $78,000",
-      "published_at": "2026-08-26T08:51:18Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Live updates: Bitcoin adds to early losses, slipping below $78,000",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-31cb7395de01",
-      "original_title": "Live updates: Bitcoin adds to early losses, slipping to $78,000",
-      "published_at": "2026-08-26T08:51:18Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Live updates: Bitcoin adds to early losses, slipping to $78,000",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-ea61c68fa31e",
-      "original_title": "FinancialJuice: Credit Ágricole: Gold",
-      "published_at": "2026-08-26T08:45:57Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Credit Ágricole: Gold",
-          "source": "FinancialJuice",
-          "snippet": "Gold has emerged as one of the key beneficiaries from the USD sell-off triggered by the US Treasury’s recent attempts to curb the rise of long­dated UST yields. These efforts included an FX intervention in support of the JPY - which among other things was meant to keep Japanese policy rates low and Japanese investors invested in USTs. We also got signals that the US Treasury would buy long-dated bonds with: (1) the proceeds from sales of short-dated US paper (‘Operation Treasury twist’); or (2) the funds from its account at the Fed (TGA). The above developments made worse the risk-reward trade-off for UST investors amid rising US debt levels and burnished the appeal of XAU as safe-haven asset. The policy announcements have threatened to flood the market with USD-cash, fanned US inflation fears and lowered US real yields, in a boost to gold as a currency-debasement hedge. If the FOMC further lowers the average duration of its bond holdings as part of its balance sheet overhaul, a ‘Fed operation twist’ could flatten the UST yield curve some more and make short-USD hedges more profitable, in a blow to the USD vs XAU. Gold should benefit from market fears that the Trump administration will continue to weaponise the USD too. The newest US economic sanctions against Iran and the latest trade tensions between the US and Canada have recently fanned such concerns. We have already seen some EM central banks increase their gold purchases, including central banks of energy importers that sold their XAU-reserves aggressively in search of USD liquidity at the start of the Iran war. The de-dollarisation theme could stage a return as a result, in a boost to XAU. We remain long XAU/USD as a trade idea and continue to forecast gold to appreciate to USD5000 by the end of year &amp; extend",
-          "url": "https://www.financialjuice.com/News/9736746/Credit-%c3%81gricole-Gold---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9736746/Credit-%c3%81gricole-Gold---FJElite.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-472fb12bdb33",
-      "original_title": "FinancialJuice: ING: The USD",
-      "published_at": "2026-08-26T08:44:38Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ING: The USD",
-          "source": "FinancialJuice",
-          "snippet": "A week after US Treasury Secretary Scott Bessent's intervention in the US Treasury market, longer-dated yields are some 10-15bp lower. In defending that intervention last week, Bessent claimed that, as Treasury Secretary, he has 'asymmetric information’- i.e. more information than the market. Whether such information includes the path to de-escalation talks in the Middle East remains to be seen, but it is clear that an 8% swing lower in oil prices since last week has helped. Here, Pakistani-brokered peace talks seem to be grabbing the market's attention. The next test for the long-end comes from today's release of US PCE inflation data, tomorrow's $44bn 7-year note auction and then Friday's Jackson Hole speech from Fed Chair Kevin Warsh. Lower yields have seen interest volatility dip again and feed into lower volatility in FX and equities. Carry remains king and, overnight, one of the popular carry trade targets in the G10 space - the Australian dollar - got a boost when July CPI surprised on the upside. This has increased the chances of a Reserve Bank of Australia rate hike in November. Back to the dollar. A benign US core PCE print at 0.2% month-on-month should keep the dollar relatively steady today, though the benign risk environment could see some mild dollar losses. 99.00/10 may well cap the topside for DXY and we favour a drift back to the recent lows at 98.60.",
-          "url": "https://www.financialjuice.com/News/9736742/ING-The-USD---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9736742/ING-The-USD---FJElite.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-928ad39a22f1",
-      "original_title": "Watch Crypto Market: Is the Bitcoin Rally Sustainable?",
-      "published_at": "2026-08-26T08:37:45Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Watch Crypto Market: Is the Bitcoin Rally Sustainable?",
-          "source": "Bloomberg",
-          "snippet": "Watch Crypto Market: Is the Bitcoin Rally Sustainable? &nbsp;&nbsp; Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd0t4NGRmdnM1aGtxSFVZVUJUTGJPZV9yYU84TExwMTZFY2lrNGo5eldHNmpNWXFCWFRoT0VCVUpNVkhsekRVVnZvT056N0x3TEt2N0gtLU9OcGdwb25mTTBFTEI5VWlsZWxmS255STczWkRVaVdDdUNVWmlBWWs4QTVYN1ZBRXFRcmFJajB3X3o?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd0t4NGRmdnM1aGtxSFVZVUJUTGJPZV9yYU84TExwMTZFY2lrNGo5eldHNmpNWXFCWFRoT0VCVUpNVkhsekRVVnZvT056N0x3TEt2N0gtLU9OcGdwb25mTTBFTEI5VWlsZWxmS255STczWkRVaVdDdUNVWmlBWWs4QTVYN1ZBRXFRcmFJajB3X3o?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-978e6738a756",
-      "original_title": "FinancialJuice: MUFG: The AUD",
-      "published_at": "2026-08-26T08:37:11Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: MUFG: The AUD",
-          "source": "FinancialJuice",
-          "snippet": "The Australian dollar was roughly stable yesterday with different crosscurrents keeping the FX moves limited. From an energy perspective, natural gas prices fell between 3- 4% in Europe and that from a terms of trade perspective is negative for AUD given Australia is the second largest global exporter of LNG. In addition, the escalation of tensions between China and the US carry risks for Australia and any deterioration in China growth expectations on a breakdown in the trade truce between China and the US would weigh on AUD. But the minutes from the August RBA meeting were also released yesterday and the contents certainly point to the RBA being closer to a rate hike than currently implied by market pricing. Our current view is that the RBA can hold off from hiking this year.&nbsp; A full rate hike in Australia is not priced until Feb 2027 but the minutes from the August RBA meeting suggests the risk of another hike sooner are higher. &quot;Several members&quot; judged that it was “quite possible&quot; that inflation risks would be realised and require further monetary tightening. A pre-emptive rate hike was considered at the meeting given these views. That would have been a considerable surprise given pricing the day before the meeting on 11,h August indicated zero probability of a rate hike. It suggests a tendency of the market to underprice RBA rate hike risks. Today the monthly CPI data was released, and the data has reinforced the view that the RBA could prove more active than was priced in the market. The July CPI showed smaller than expected moderation with the annual CPI rate slowing from 3.8% to 3.5%, versus an expected 3.3%. Fuel costs increased but this was offset by an easing in household electricity bills - the fuel cost jumped relates to the unwinding of ",
-          "url": "https://www.financialjuice.com/News/9736741/MUFG-The-AUD---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9736741/MUFG-The-AUD---FJElite.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-0e5034ecc368",
-      "original_title": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data",
-      "published_at": "2026-08-26T08:21:52Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data",
-          "source": "Bloomberg",
-          "snippet": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data &nbsp;&nbsp; Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDkycGFHb3NwbmI1VTVIbDJIeWkzalRUaGVqVUZ0SkozOFpuSkROZ1BjQTNpbXFNbk9ZX3d4R1N0RHYybHFZVXk2bU56UE9iOGYxN0lwUUpKMjlGWUdOamkyMXBKZkdvYTNIVktLVU9vM0IxQmtzYmU5RWE4UlJlUXowdEFhakE2S0tsR01Tc3UzRERxMU1veUl4NkhuREFIOU5BTjh4WGR2MHFUNmVta3BaTQ?oc=5"
-        },
-        {
-          "headline": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data",
-          "source": "Yahoo Finance",
-          "snippet": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSVJxSFNSdkloT0t2Q0l2dG5lQUJsT2hQZERGdTNNaVBzdlJDdElWVWRLU3g5XzJqWnJGX2tXWlhpc3FUZWFPekJPaW5lcjdYWXZ5ekI1bmVnTUVzNzBhS2RVRTFHRTYyb042dG1pWEh1VnpwZDFWbVVYZW1VcTYtNU42WmNBRWRVOWZvb0l0Rk02TklxYkkzV1ZidVZEd0E4RU9tZXlXbTdmeGp4Ml9WU04zSmVpc0F2bEZBeThqZ05mN0NG?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDkycGFHb3NwbmI1VTVIbDJIeWkzalRUaGVqVUZ0SkozOFpuSkROZ1BjQTNpbXFNbk9ZX3d4R1N0RHYybHFZVXk2bU56UE9iOGYxN0lwUUpKMjlGWUdOamkyMXBKZkdvYTNIVktLVU9vM0IxQmtzYmU5RWE4UlJlUXowdEFhakE2S0tsR01Tc3UzRERxMU1veUl4NkhuREFIOU5BTjh4WGR2MHFUNmVta3BaTQ?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSVJxSFNSdkloT0t2Q0l2dG5lQUJsT2hQZERGdTNNaVBzdlJDdElWVWRLU3g5XzJqWnJGX2tXWlhpc3FUZWFPekJPaW5lcjdYWXZ5ekI1bmVnTUVzNzBhS2RVRTFHRTYyb042dG1pWEh1VnpwZDFWbVVYZW1VcTYtNU42WmNBRWRVOWZvb0l0Rk02TklxYkkzV1ZidVZEd0E4RU9tZXlXbTdmeGp4Ml9WU04zSmVpc0F2bEZBeThqZ05mN0NG?oc=5"
         }
       ]
     }
