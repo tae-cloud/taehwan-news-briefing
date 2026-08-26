@@ -1,6 +1,46 @@
 {
-  "updated_at_kst": "2026-08-26T18:01:38+09:00",
+  "updated_at_kst": "2026-08-26T18:57:32+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-26-3756dbe09e43",
+      "original_title": "Aramco offers more oil outside Hormuz with some cargoes heading to China",
+      "published_at": "2026-08-26T09:43:55Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Aramco offers more oil outside Hormuz with some cargoes heading to China",
+          "source": "Reuters",
+          "snippet": "Aramco offers more oil outside Hormuz with some cargoes heading to China &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN28yZHRvaDZjTnZZZUxaLVNTSTdyb0JUTVJfZmN2TUhWa2d5Tk9id0hDNm11YjlZZFFKV1RrV3FSUjNUeWlmaHhCbGFraDlnVm5EVVIxdUJYWHlqS1BpNTRXaDV4WjJSVkg1OTZhalpnMldOdmNaTFkyTE9LczQ0NUhlalM1dDlPMVVBbGtnZ1FlNFRacm40Y3Z0MjhXSy1HRXk1UmVwZkl2WmhhaVdGWVdHb1M5eU43eHFZZzR3?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN28yZHRvaDZjTnZZZUxaLVNTSTdyb0JUTVJfZmN2TUhWa2d5Tk9id0hDNm11YjlZZFFKV1RrV3FSUjNUeWlmaHhCbGFraDlnVm5EVVIxdUJYWHlqS1BpNTRXaDV4WjJSVkg1OTZhalpnMldOdmNaTFkyTE9LczQ0NUhlalM1dDlPMVVBbGtnZ1FlNFRacm40Y3Z0MjhXSy1HRXk1UmVwZkl2WmhhaVdGWVdHb1M5eU43eHFZZzR3?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-ccd009e4aea4",
+      "original_title": "FinancialJuice: SNB Interest Rate Probabilities",
+      "published_at": "2026-08-26T09:05:15Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: SNB Interest Rate Probabilities",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9736789/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9736789/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-26-ea61c68fa31e",
       "original_title": "FinancialJuice: Credit Ágricole: Gold",
@@ -58,6 +98,36 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9736741/MUFG-The-AUD---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-26-0e5034ecc368",
+      "original_title": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data",
+      "published_at": "2026-08-26T08:21:52Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data",
+          "source": "Yahoo Finance",
+          "snippet": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2JPd0tIMHkyNVk1eE54T010Y2ViOWZ0cmhPTHVsOTdHLWV3eVJiQkFzeml6QkM1Q29QcHVrMmtVb3JUZ0lESFloMXg5UjhtVjktLUp0WHZTRFBoRmxLd2NieXB4U0h5ZldlbklDZE5TNW1IVXUwLWNXZThkMkF5RHh4VzhSUmV2RWRxYVJjLWxwZzM0M3FB?oc=5"
+        },
+        {
+          "headline": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data",
+          "source": "Bloomberg.com",
+          "snippet": "Bitcoin Rally Stalls at $80,000 as Traders Await Inflation Data &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDkycGFHb3NwbmI1VTVIbDJIeWkzalRUaGVqVUZ0SkozOFpuSkROZ1BjQTNpbXFNbk9ZX3d4R1N0RHYybHFZVXk2bU56UE9iOGYxN0lwUUpKMjlGWUdOamkyMXBKZkdvYTNIVktLVU9vM0IxQmtzYmU5RWE4UlJlUXowdEFhakE2S0tsR01Tc3UzRERxMU1veUl4NkhuREFIOU5BTjh4WGR2MHFUNmVta3BaTQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2JPd0tIMHkyNVk1eE54T010Y2ViOWZ0cmhPTHVsOTdHLWV3eVJiQkFzeml6QkM1Q29QcHVrMmtVb3JUZ0lESFloMXg5UjhtVjktLUp0WHZTRFBoRmxLd2NieXB4U0h5ZldlbklDZE5TNW1IVXUwLWNXZThkMkF5RHh4VzhSUmV2RWRxYVJjLWxwZzM0M3FB?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDkycGFHb3NwbmI1VTVIbDJIeWkzalRUaGVqVUZ0SkozOFpuSkROZ1BjQTNpbXFNbk9ZX3d4R1N0RHYybHFZVXk2bU56UE9iOGYxN0lwUUpKMjlGWUdOamkyMXBKZkdvYTNIVktLVU9vM0IxQmtzYmU5RWE4UlJlUXowdEFhakE2S0tsR01Tc3UzRERxMU1veUl4NkhuREFIOU5BTjh4WGR2MHFUNmVta3BaTQ?oc=5"
         }
       ]
     },
@@ -432,6 +502,36 @@
       ]
     },
     {
+      "stable_id": "2026-08-26-67779e915ae7",
+      "original_title": "Dollar steady ahead of US inflation data; Aussie gains on rate bets",
+      "published_at": "2026-08-26T05:18:49Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Dollar steady ahead of US inflation data; Aussie gains on rate bets",
+          "source": "WTVB",
+          "snippet": "Dollar steady ahead of US inflation data; Aussie gains on rate bets &nbsp;&nbsp; WTVB",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWd4aXM0NUZvNzl1NDFfOVpEbXo2WGgyZ2ZkbXhJUmFsQVpaUUIyaElUSDN2WWRsT2g3VmlOak1uNFJaTzZidERCVHU0UnhFR2E2RGJjbnhmSW11OXIxYTFsaHRWYUFwNHVQeHc4UU5vNkpndjZJYnNJMmVxc0h6a2JKOUlUcm9MUDBsal8yTnVvRzFtOWRQTktWR1Fybk0?oc=5"
+        },
+        {
+          "headline": "Dollar inches higher ahead of US inflation data; Aussie gains on rate bets",
+          "source": "Reuters",
+          "snippet": "Dollar inches higher ahead of US inflation data; Aussie gains on rate bets &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalFaeTZ2Tl9BS09vVjROdl84Z24tcVpyWWRLMVltR3hyQ1g5OThDMllnMGxscnZMWktXT2FxNVVMd1ZGTTVycFJMV0JVT202NFFncFh0MVRYUlBiLS1XWEVvUnI1dHNaMEt0TXgzanprZGp5MDRsRXl5cTVVRDZ0SjYwNXc0UUtGNWlMVDlQUE9MRk5EbDgzTFllcWlOZ3ZFWkM0MWFwOGYtYk9CRUl3bWNJVXk?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "WTVB",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWd4aXM0NUZvNzl1NDFfOVpEbXo2WGgyZ2ZkbXhJUmFsQVpaUUIyaElUSDN2WWRsT2g3VmlOak1uNFJaTzZidERCVHU0UnhFR2E2RGJjbnhmSW11OXIxYTFsaHRWYUFwNHVQeHc4UU5vNkpndjZJYnNJMmVxc0h6a2JKOUlUcm9MUDBsal8yTnVvRzFtOWRQTktWR1Fybk0?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalFaeTZ2Tl9BS09vVjROdl84Z24tcVpyWWRLMVltR3hyQ1g5OThDMllnMGxscnZMWktXT2FxNVVMd1ZGTTVycFJMV0JVT202NFFncFh0MVRYUlBiLS1XWEVvUnI1dHNaMEt0TXgzanprZGp5MDRsRXl5cTVVRDZ0SjYwNXc0UUtGNWlMVDlQUE9MRk5EbDgzTFllcWlOZ3ZFWkM0MWFwOGYtYk9CRUl3bWNJVXk?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-26-6113e3b9ffc3",
       "original_title": "FinancialJuice: ECB's Schnabel: Inflation likely to top 2% for extended period.",
       "published_at": "2026-08-26T05:16:52Z",
@@ -614,12 +714,6 @@
           "source": "WRAL",
           "snippet": "Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East &nbsp;&nbsp; WRAL",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkd6T1M2MkZyWDd6UVo3OFFMYWdQUjJMeXNtekt4V09EanZHTGRmeWVTbE1oc1dBTDdXZVctUEE3Y01STGwyalpseC0tZWg5djB2cUdNVjk1UERIcDFHQ0NkR29jZndKQXB6MFBLU28yUFdfWWtTcExPMkpXZS1GWWo2WklGUHcxcjByQnlFZ2t1R2ozUmUyZ3U2dUl4LUlMM29FanhnNW95ZDVqclBORFlQZTZ3N0FEWWdENmgtMA?oc=5"
-        },
-        {
-          "headline": "Iran, Oman Push Talks for ‘Interim’ Reopening of Hormuz Strait",
-          "source": "Bloomberg",
-          "snippet": "Iran, Oman Push Talks for ‘Interim’ Reopening of Hormuz Strait &nbsp;&nbsp; Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWdvcExZTXluazQtMWpQT01taDk2LTl6MTdIcXl3U1NqTE8yYU9iblI0RTBjTkdJSmMtSGJidjZQR3V2UEJRVDM3eGg5dzdreG03YjRVMEVtTF8xR24zT3RJY05lQmh5ZUozbXQySFNQc3hWNnhhSFE5YnhyQko1dzRfWnlUS25yaW1wclU1cEd5ZWk3bTVZczBfZHNVX1BjSjNTWnhKbmd1aHlKajNr?oc=5"
         }
       ],
       "sources": [
@@ -634,10 +728,6 @@
         {
           "name": "WRAL",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkd6T1M2MkZyWDd6UVo3OFFMYWdQUjJMeXNtekt4V09EanZHTGRmeWVTbE1oc1dBTDdXZVctUEE3Y01STGwyalpseC0tZWg5djB2cUdNVjk1UERIcDFHQ0NkR29jZndKQXB6MFBLU28yUFdfWWtTcExPMkpXZS1GWWo2WklGUHcxcjByQnlFZ2t1R2ozUmUyZ3U2dUl4LUlMM29FanhnNW95ZDVqclBORFlQZTZ3N0FEWWdENmgtMA?oc=5"
-        },
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWdvcExZTXluazQtMWpQT01taDk2LTl6MTdIcXl3U1NqTE8yYU9iblI0RTBjTkdJSmMtSGJidjZQR3V2UEJRVDM3eGg5dzdreG03YjRVMEVtTF8xR24zT3RJY05lQmh5ZUozbXQySFNQc3hWNnhhSFE5YnhyQko1dzRfWnlUS25yaW1wclU1cEd5ZWk3bTVZczBfZHNVX1BjSjNTWnhKbmd1aHlKajNr?oc=5"
         }
       ]
     },
@@ -952,6 +1042,36 @@
       ]
     },
     {
+      "stable_id": "2026-08-26-b168241edea9",
+      "original_title": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes By Reuters",
+      "published_at": "2026-08-26T02:32:16Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes By Reuters",
+          "source": "Investing.com",
+          "snippet": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes By Reuters &nbsp;&nbsp; Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmdfcm5JeGNWUllId3V6Tk5waXFFRTdKTnhlSzBDdTNXYzdhbnp5emdkZllPb01pVERHdW1oMHI5cHJYUzdXZFdFV3hMeG9fb1Z0ZktMMHZVUWVlU2lEc2w5VTRYTGdjTDgxNThPZnk4S0ZwbnV6dV9GOXVUbW56R1FmZjdfTWtFZ1Ntcndvck13VHFDR3VUQjFlUmpaQkdpcFE3MUR3c0NobjdDUjJZbjcyUXNBS1pSVWc?oc=5"
+        },
+        {
+          "headline": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes",
+          "source": "Reuters",
+          "snippet": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmdfcm5JeGNWUllId3V6Tk5waXFFRTdKTnhlSzBDdTNXYzdhbnp5emdkZllPb01pVERHdW1oMHI5cHJYUzdXZFdFV3hMeG9fb1Z0ZktMMHZVUWVlU2lEc2w5VTRYTGdjTDgxNThPZnk4S0ZwbnV6dV9GOXVUbW56R1FmZjdfTWtFZ1Ntcndvck13VHFDR3VUQjFlUmpaQkdpcFE3MUR3c0NobjdDUjJZbjcyUXNBS1pSVWc?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-26-b35631d02451",
       "original_title": "Iran and Oman push talks for ‘interim’ reopening of Hormuz — Bloomberg",
       "published_at": "2026-08-26T02:26:37Z",
@@ -988,36 +1108,6 @@
         {
           "name": "FXStreet",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlRST2dHSVJucFlMSnQwRHlHaktSNEU0WHlsNEFEVm44T1huaFlkRk5YQkRKcE9BTW11bFFUa3dJZm5ZV0FUSG4zRW9mTnl2ekF3QUY2TTZDcFdLNG83anU0LUk3TDBzMkZWQ3EwcWJVYTlibTJXX0NaSU9vRHVVQk1xY3ljSl84WTQ3YTlBOXoteFZ5LTZJWFJONEV2ZU9q?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-b168241edea9",
-      "original_title": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes By Reuters",
-      "published_at": "2026-08-26T02:25:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes By Reuters",
-          "source": "Investing.com",
-          "snippet": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes By Reuters &nbsp;&nbsp; Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQm9hRzJmRTZUMURybFFqX3JQMUotMEk2VHM1T2Z1S2tQb25SejJTMzRRNGlSNkc3QTNOekNzR0xWSnBoMVBJbEd4NTZuZHkyREJjR1dVVzEyOWx1d2dKQ0RPd1pfY1BDVmpibjFZZG1UdGd6dG5DRFRCV2hSOFctZ3ljdm4zYjgzNnhaTldFcnplZW40R202UFo3RWJ3c3hyMW43LUJCeGpQM0pyYWQxcDljQjNTV1dXX2dRQU54NGM2NnhL?oc=5"
-        },
-        {
-          "headline": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes",
-          "source": "Reuters",
-          "snippet": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQm9hRzJmRTZUMURybFFqX3JQMUotMEk2VHM1T2Z1S2tQb25SejJTMzRRNGlSNkc3QTNOekNzR0xWSnBoMVBJbEd4NTZuZHkyREJjR1dVVzEyOWx1d2dKQ0RPd1pfY1BDVmpibjFZZG1UdGd6dG5DRFRCV2hSOFctZ3ljdm4zYjgzNnhaTldFcnplZW40R202UFo3RWJ3c3hyMW43LUJCeGpQM0pyYWQxcDljQjNTV1dXX2dRQU54NGM2NnhL?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5"
         }
       ]
     },
@@ -1201,26 +1291,6 @@
           "headline": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole",
           "source": "Reuters",
           "snippet": "Dollar moves in a narrow range ahead of inflation data, Jackson Hole &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalFaeTZ2Tl9BS09vVjROdl84Z24tcVpyWWRLMVltR3hyQ1g5OThDMllnMGxscnZMWktXT2FxNVVMd1ZGTTVycFJMV0JVT202NFFncFh0MVRYUlBiLS1XWEVvUnI1dHNaMEt0TXgzanprZGp5MDRsRXl5cTVVRDZ0SjYwNXc0UUtGNWlMVDlQUE9MRk5EbDgzTFllcWlOZ3ZFWkM0MWFwOGYtYk9CRUl3bWNJVXk?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalFaeTZ2Tl9BS09vVjROdl84Z24tcVpyWWRLMVltR3hyQ1g5OThDMllnMGxscnZMWktXT2FxNVVMd1ZGTTVycFJMV0JVT202NFFncFh0MVRYUlBiLS1XWEVvUnI1dHNaMEt0TXgzanprZGp5MDRsRXl5cTVVRDZ0SjYwNXc0UUtGNWlMVDlQUE9MRk5EbDgzTFllcWlOZ3ZFWkM0MWFwOGYtYk9CRUl3bWNJVXk?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-26-67779e915ae7",
-      "original_title": "Dollar steady ahead of US inflation data; Aussie gains on rate bets",
-      "published_at": "2026-08-26T01:51:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Dollar steady ahead of US inflation data; Aussie gains on rate bets",
-          "source": "Reuters",
-          "snippet": "Dollar steady ahead of US inflation data; Aussie gains on rate bets &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalFaeTZ2Tl9BS09vVjROdl84Z24tcVpyWWRLMVltR3hyQ1g5OThDMllnMGxscnZMWktXT2FxNVVMd1ZGTTVycFJMV0JVT202NFFncFh0MVRYUlBiLS1XWEVvUnI1dHNaMEt0TXgzanprZGp5MDRsRXl5cTVVRDZ0SjYwNXc0UUtGNWlMVDlQUE9MRk5EbDgzTFllcWlOZ3ZFWkM0MWFwOGYtYk9CRUl3bWNJVXk?oc=5"
         }
       ],
@@ -2262,46 +2332,6 @@
       ]
     },
     {
-      "stable_id": "2026-08-25-f0fdc7f17128",
-      "original_title": "Bitcoin Tops $80K as Bullish Mood Returns to Crypto Market",
-      "published_at": "2026-08-25T20:25:52Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin Tops $80K as Bullish Mood Returns to Crypto Market",
-          "source": "marketscreener.com",
-          "snippet": "Bitcoin Tops $80K as Bullish Mood Returns to Crypto Market &nbsp;&nbsp; marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcE1LUTJTdTM1TWY0UGdwNzU4b2k3SzVPdHl4UTExbHIyTXZKUDVBMjJPMlpJVHA1bFVfZkt4YXhMblhhZVhrUWYzZGdqb2ZmZHpFQ2dvdTNIZExIbUlpeTNlaFVhUDVsU1E5d2FWTGxyTmVmZFFQaXJGdVlVQ0YzSWxSY2xiNF9lOV9wbnF4UTdwenRzWERWZ3hlZzBzZTQ3NEFlQXQ3djgyLWZBVFhJ?oc=5"
-        },
-        {
-          "headline": "Bitcoin Tops $80K as Bullish Mood Returns to Crypto Market",
-          "source": "Yahoo Finance",
-          "snippet": "Bitcoin Tops $80K as Bullish Mood Returns to Crypto Market &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUNUdEVHSWtSTnUtNEZ5OHlrTDh2Zm53RHI3bWpwM2xBUWxBRVlWZDNlXzM3S3V5bW43RnBRbXozMkRya3VUOW5SS3diMjRlMVgxdTc5OUF1eUdzZ1BrOE5RUTRCTmluZ0t3dDZfOU5SQ2Z4MDMyLUFUWTBCcHNjTVZ3?oc=5"
-        },
-        {
-          "headline": "Bitcoin tops $80,000 as optimistic mood returns to crypto market",
-          "source": "Business Standard",
-          "snippet": "Bitcoin tops $80,000 as optimistic mood returns to crypto market &nbsp;&nbsp; Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRU5McDBpT3hkZXJ1WGYxNGtpM0h5cjZ5M0lHOEIwelVlVEZYYko0c09PNEJCVVYzcWRZWXh6UDJzT0U2TEYwbi1zLUsyZkN6MktJZkU3dVFMeGE5ZGdJSlZDTm9QVGpGNjBTU2dSN21YM1YyTlVZQm5HdDJ0eVlfekk0YVVoZGk5ZXJuM1lOZlBDTzV2SnZIcWFkdzJCSUpLMFNzQV9hXzV2a0dLdG1KVWZEQTkzZHBKTkFjVTI0X3R2aWUyQzJxSWo4MUJ5dDDSAc8BQVVfeXFMTUVOTHAwaU94ZGVydVhmMTRraTNIeXI2eTNJRzhCMHpVZVRGWGJKNHNPTzRCQlVWM3FkWVl4elAyc09FNkxGMG4tcy1LMmZDejJLSWZFN3VRTHhhOWRnSUpWQ05vUFRqRjYwU1NnUjdtWDNWMk5VWUJuR3QydHlZX3pJNGFVaGRpOWVybjNZTmZQQ081dkp2SHFhZHcyQklKSzBTc0FfYV81dmtHS3RtSlVmREE5M2RwSk5BY1UyNF90dmllMkMycUlqODFCeXQw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcE1LUTJTdTM1TWY0UGdwNzU4b2k3SzVPdHl4UTExbHIyTXZKUDVBMjJPMlpJVHA1bFVfZkt4YXhMblhhZVhrUWYzZGdqb2ZmZHpFQ2dvdTNIZExIbUlpeTNlaFVhUDVsU1E5d2FWTGxyTmVmZFFQaXJGdVlVQ0YzSWxSY2xiNF9lOV9wbnF4UTdwenRzWERWZ3hlZzBzZTQ3NEFlQXQ3djgyLWZBVFhJ?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUNUdEVHSWtSTnUtNEZ5OHlrTDh2Zm53RHI3bWpwM2xBUWxBRVlWZDNlXzM3S3V5bW43RnBRbXozMkRya3VUOW5SS3diMjRlMVgxdTc5OUF1eUdzZ1BrOE5RUTRCTmluZ0t3dDZfOU5SQ2Z4MDMyLUFUWTBCcHNjTVZ3?oc=5"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRU5McDBpT3hkZXJ1WGYxNGtpM0h5cjZ5M0lHOEIwelVlVEZYYko0c09PNEJCVVYzcWRZWXh6UDJzT0U2TEYwbi1zLUsyZkN6MktJZkU3dVFMeGE5ZGdJSlZDTm9QVGpGNjBTU2dSN21YM1YyTlVZQm5HdDJ0eVlfekk0YVVoZGk5ZXJuM1lOZlBDTzV2SnZIcWFkdzJCSUpLMFNzQV9hXzV2a0dLdG1KVWZEQTkzZHBKTkFjVTI0X3R2aWUyQzJxSWo4MUJ5dDDSAc8BQVVfeXFMTUVOTHAwaU94ZGVydVhmMTRraTNIeXI2eTNJRzhCMHpVZVRGWGJKNHNPTzRCQlVWM3FkWVl4elAyc09FNkxGMG4tcy1LMmZDejJLSWZFN3VRTHhhOWRnSUpWQ05vUFRqRjYwU1NnUjdtWDNWMk5VWUJuR3QydHlZX3pJNGFVaGRpOWVybjNZTmZQQ081dkp2SHFhZHcyQklKSzBTc0FfYV81dmtHS3RtSlVmREE5M2RwSk5BY1UyNF90dmllMkMycUlqODFCeXQw?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-08-25-ab961105fb95",
       "original_title": "FinancialJuice: Iranian Deputy Foreign Minister Gharibabadi: Iran told negotiators that the US must correct its errors and return to its commitments if it wants a reopening of the Strait of Hormuz",
       "published_at": "2026-08-25T20:14:06Z",
@@ -2364,6 +2394,36 @@
         {
           "name": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbms3UVAxUXZMVUttckZjM2R6d0tVY0VjZUtMN1BIWjJOOGM5aGhvZGRJclIwMXpiNkFUX3pfSm1PTDNnU082QjFxbk85QVJXc2xkMTctcUdVbnZOeENaMG5OaEdnWXk3OXhsRXpMdW5JLVFuTG5MeUNJMURDdU9Dd0EwWXpNcGRodlVRZUVDWFBfZ1dpNXBmQnBGb3g3TmdQbXhXSUVEMnFPRTZibHc?oc=5"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRU5McDBpT3hkZXJ1WGYxNGtpM0h5cjZ5M0lHOEIwelVlVEZYYko0c09PNEJCVVYzcWRZWXh6UDJzT0U2TEYwbi1zLUsyZkN6MktJZkU3dVFMeGE5ZGdJSlZDTm9QVGpGNjBTU2dSN21YM1YyTlVZQm5HdDJ0eVlfekk0YVVoZGk5ZXJuM1lOZlBDTzV2SnZIcWFkdzJCSUpLMFNzQV9hXzV2a0dLdG1KVWZEQTkzZHBKTkFjVTI0X3R2aWUyQzJxSWo4MUJ5dDDSAc8BQVVfeXFMTUVOTHAwaU94ZGVydVhmMTRraTNIeXI2eTNJRzhCMHpVZVRGWGJKNHNPTzRCQlVWM3FkWVl4elAyc09FNkxGMG4tcy1LMmZDejJLSWZFN3VRTHhhOWRnSUpWQ05vUFRqRjYwU1NnUjdtWDNWMk5VWUJuR3QydHlZX3pJNGFVaGRpOWVybjNZTmZQQ081dkp2SHFhZHcyQklKSzBTc0FfYV81dmtHS3RtSlVmREE5M2RwSk5BY1UyNF90dmllMkMycUlqODFCeXQw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-25-f0fdc7f17128",
+      "original_title": "Bitcoin Tops $80K as Bullish Mood Returns to Crypto Market",
+      "published_at": "2026-08-25T19:53:12Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin Tops $80K as Bullish Mood Returns to Crypto Market",
+          "source": "Yahoo Finance",
+          "snippet": "Bitcoin Tops $80K as Bullish Mood Returns to Crypto Market &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUNUdEVHSWtSTnUtNEZ5OHlrTDh2Zm53RHI3bWpwM2xBUWxBRVlWZDNlXzM3S3V5bW43RnBRbXozMkRya3VUOW5SS3diMjRlMVgxdTc5OUF1eUdzZ1BrOE5RUTRCTmluZ0t3dDZfOU5SQ2Z4MDMyLUFUWTBCcHNjTVZ3?oc=5"
+        },
+        {
+          "headline": "Bitcoin tops $80,000 as optimistic mood returns to crypto market",
+          "source": "Business Standard",
+          "snippet": "Bitcoin tops $80,000 as optimistic mood returns to crypto market &nbsp;&nbsp; Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRU5McDBpT3hkZXJ1WGYxNGtpM0h5cjZ5M0lHOEIwelVlVEZYYko0c09PNEJCVVYzcWRZWXh6UDJzT0U2TEYwbi1zLUsyZkN6MktJZkU3dVFMeGE5ZGdJSlZDTm9QVGpGNjBTU2dSN21YM1YyTlVZQm5HdDJ0eVlfekk0YVVoZGk5ZXJuM1lOZlBDTzV2SnZIcWFkdzJCSUpLMFNzQV9hXzV2a0dLdG1KVWZEQTkzZHBKTkFjVTI0X3R2aWUyQzJxSWo4MUJ5dDDSAc8BQVVfeXFMTUVOTHAwaU94ZGVydVhmMTRraTNIeXI2eTNJRzhCMHpVZVRGWGJKNHNPTzRCQlVWM3FkWVl4elAyc09FNkxGMG4tcy1LMmZDejJLSWZFN3VRTHhhOWRnSUpWQ05vUFRqRjYwU1NnUjdtWDNWMk5VWUJuR3QydHlZX3pJNGFVaGRpOWVybjNZTmZQQ081dkp2SHFhZHcyQklKSzBTc0FfYV81dmtHS3RtSlVmREE5M2RwSk5BY1UyNF90dmllMkMycUlqODFCeXQw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUNUdEVHSWtSTnUtNEZ5OHlrTDh2Zm53RHI3bWpwM2xBUWxBRVlWZDNlXzM3S3V5bW43RnBRbXozMkRya3VUOW5SS3diMjRlMVgxdTc5OUF1eUdzZ1BrOE5RUTRCTmluZ0t3dDZfOU5SQ2Z4MDMyLUFUWTBCcHNjTVZ3?oc=5"
         },
         {
           "name": "Business Standard",
@@ -2658,76 +2718,6 @@
         {
           "name": "Arab News PK",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRQllxVDNpQURQYkNsajJQR0h5azdJcDBCckE2cGdIU0pCY2JxSU9BSEtKNG92WHcwdUxzdDcwSnJZRVJLZEJKcEUzQnlrWWpGNGFfYi03Mm1ZZ2NL?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-25-1bcedb788271",
-      "original_title": "FinancialJuice: US Treasury Debt Buyback",
-      "published_at": "2026-08-25T18:06:32Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Debt Buyback",
-          "source": "FinancialJuice",
-          "snippet": "Treasury debt buyback targets coupons maturing in 2031–2033 Treasury receives $8.402B of offers for buyback, accepts $1.19B Treasury accepts 10 of 25 eligible issues in debt buyback",
-          "url": "https://www.financialjuice.com/News/9735775/US-Treasury-Debt-Buyback.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9735775/US-Treasury-Debt-Buyback.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-25-9400ae2eeb94",
-      "original_title": "Turkey Braces For Potential Gas Squeeze as U.S. Targets Iran Trade",
-      "published_at": "2026-08-25T18:04:53Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Turkey Braces For Potential Gas Squeeze as U.S. Targets Iran Trade",
-          "source": "gCaptain",
-          "snippet": "Turkey Braces For Potential Gas Squeeze as U.S. Targets Iran Trade &nbsp;&nbsp; gCaptain",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1JyczhDQVFXeWk1U21IenEtWHVpQjJwWC1HNWt3NFBEOFg3MEpzQWJDdWlQQ3QyWWstbW0wX2dFUmhOdFlCcFo3dXM5UVpiTVQzRHF4UWhfM1BCS3hrR1d4SlFfaXdWYkk3Q0tjMkd5cUdtVHdiMXdicUZVX2wzb0xycWh0MXpzX0FkeWU2YVc?oc=5"
-        },
-        {
-          "headline": "Turkey Braces For Potential Gas Squeeze as US Targets Iran Trade",
-          "source": "Bloomberg.com",
-          "snippet": "Turkey Braces For Potential Gas Squeeze as US Targets Iran Trade &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa184QnhEY2kzajF6MEw5UGFjMUs3RVhUdUtQNXRteTE5YktvSXJDQjFFbXI5TTlqbHpsTEFJV1J3cXBJblhlc2lVaS1QU1AzVmlpalRSQW1ONXdtdmU4OFlRYTVKaXBCVDdBWlYtaFhlanY1RDBaVzNZdTJ4cFFkR0pNUUxDZzk2aDZqU3NkRmE0RWdXTmhLWGdKbzNtTG85bGxuRnVBT0RuTU96OGdBLWtnRXF5QQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "gCaptain",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1JyczhDQVFXeWk1U21IenEtWHVpQjJwWC1HNWt3NFBEOFg3MEpzQWJDdWlQQ3QyWWstbW0wX2dFUmhOdFlCcFo3dXM5UVpiTVQzRHF4UWhfM1BCS3hrR1d4SlFfaXdWYkk3Q0tjMkd5cUdtVHdiMXdicUZVX2wzb0xycWh0MXpzX0FkeWU2YVc?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa184QnhEY2kzajF6MEw5UGFjMUs3RVhUdUtQNXRteTE5YktvSXJDQjFFbXI5TTlqbHpsTEFJV1J3cXBJblhlc2lVaS1QU1AzVmlpalRSQW1ONXdtdmU4OFlRYTVKaXBCVDdBWlYtaFhlanY1RDBaVzNZdTJ4cFFkR0pNUUxDZzk2aDZqU3NkRmE0RWdXTmhLWGdKbzNtTG85bGxuRnVBT0RuTU96OGdBLWtnRXF5QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-25-e369500d784d",
-      "original_title": "FinancialJuice: IMF's Managing Director Georgieva: The IMF is concerned about mounting fiscal pressures as evidenced by rising bond yields and a stalled disinflation process.",
-      "published_at": "2026-08-25T18:02:01Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: IMF's Managing Director Georgieva: The IMF is concerned about mounting fiscal pressures as evidenced by rising bond yields and a stalled disinflation process.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9735757/IMFs-Managing-Director-Georgieva-The-IMF-is-concerned-about-mounting-fiscal-pressures-as-evidenced-by-rising-bond-yields-and-a-stalled-disinflation-process.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9735757/IMFs-Managing-Director-Georgieva-The-IMF-is-concerned-about-mounting-fiscal-pressures-as-evidenced-by-rising-bond-yields-and-a-stalled-disinflation-process.aspx?xy=rss"
         }
       ]
     }
