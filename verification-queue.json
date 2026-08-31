@@ -1,6 +1,886 @@
 {
-  "updated_at_kst": "2026-08-31T08:29:09+09:00",
+  "updated_at_kst": "2026-08-31T14:32:15+09:00",
   "items": [
+    {
+      "stable_id": "2026-08-31-1316442dc168",
+      "original_title": "Oil prices jump over 2% after US attacks on Iran's Larak island",
+      "published_at": "2026-08-31T05:24:06Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil prices jump over 2% after US attacks on Iran's Larak island",
+          "source": "t.co",
+          "snippet": "Oil prices jump over 2% after US attacks on Iran's Larak island &nbsp;&nbsp; t.co",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5OejFCcFVaOWNxNVdfVWJ2VVhqUjZLTmVRejFJdU1zRnBmdVc4N2ttY21pSElwd0tWTDlN?oc=5"
+        },
+        {
+          "headline": "Oil prices surge after US attack on Iran's Larak island",
+          "source": "Daily Monitor",
+          "snippet": "Oil prices surge after US attack on Iran's Larak island &nbsp;&nbsp; Daily Monitor",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY1VLUWVXMnU5RHpiaGd4RVJaLVp1NlNvdS1GV3o1aHBUVjNaSVRjYUZSXzJWeFptLTNoaDJ6dXdxc0tHMktQWkxfSWxCeUlkV3ducUNDNVNWVHdxWHlIZmdpNTZ1cWNFa2otS1FWZjFGeHJLZGdFdllQdENBNmEyWlQ5ZzVGTmY0djFEVXg4MzE4RDFacm9JLVBsYVZLOUI0bGNwTlhqYkFYTG8?oc=5"
+        },
+        {
+          "headline": "Oil prices jump more than 1% after US attack on Iran's Larak island",
+          "source": "Business Standard",
+          "snippet": "Oil prices jump more than 1% after US attack on Iran's Larak island &nbsp;&nbsp; Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON3cwMEpxLWU2bS1aNzJURnJ1MW5xUjRMajl0UzhrOFI0OFkteHI5QzZPOWFXT1A3QTA3cXNnQXNnY1FJclNjQlhrZG51NFhSMnJFZ2FxREFRdjdFWUYyaFV6YXNIRk5VcUN0SlYxSmVIYzhLcXR6RXBFVVAxWUhtWDNRSlJiNWRMbXR6N1RIaVZIU2otNlhpM3VMN1czd0pvVmZmckxTaVcwU2tTWWhsemNZVU5ZS04yWTZIZG9tWmwxbkRrbkR4Yld2c1dGenRHbzVMcUpMak9HWmtI0gHcAUFVX3lxTE43dzAwSnEtZTZtLVo3MlRGcnUxbnFSNExqOXRTOGs4UjQ4WS14cjlDNk85YVdPUDdBMDdxc2dBc2djUUlyU2NCWGtkbnU0WFIyckVnYXFEQVF2N0VZRjJoVXphc0hGTlVxQ3RKVjFKZUhjOEtxdHpFcEVVUDFZSG1YM1FKUmI1ZExtdHo3VEhpVkhTai02WGkzdUw3VzN3Sm9WZmZyTFNpVzBTa1NZaGx6Y1lVTllLTjJZNkhkb21abDFuRGtuRHhiV3ZzV0Z6dEdvNUxxSkxqT0daa0g?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "t.co",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5OejFCcFVaOWNxNVdfVWJ2VVhqUjZLTmVRejFJdU1zRnBmdVc4N2ttY21pSElwd0tWTDlN?oc=5"
+        },
+        {
+          "name": "Daily Monitor",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY1VLUWVXMnU5RHpiaGd4RVJaLVp1NlNvdS1GV3o1aHBUVjNaSVRjYUZSXzJWeFptLTNoaDJ6dXdxc0tHMktQWkxfSWxCeUlkV3ducUNDNVNWVHdxWHlIZmdpNTZ1cWNFa2otS1FWZjFGeHJLZGdFdllQdENBNmEyWlQ5ZzVGTmY0djFEVXg4MzE4RDFacm9JLVBsYVZLOUI0bGNwTlhqYkFYTG8?oc=5"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON3cwMEpxLWU2bS1aNzJURnJ1MW5xUjRMajl0UzhrOFI0OFkteHI5QzZPOWFXT1A3QTA3cXNnQXNnY1FJclNjQlhrZG51NFhSMnJFZ2FxREFRdjdFWUYyaFV6YXNIRk5VcUN0SlYxSmVIYzhLcXR6RXBFVVAxWUhtWDNRSlJiNWRMbXR6N1RIaVZIU2otNlhpM3VMN1czd0pvVmZmckxTaVcwU2tTWWhsemNZVU5ZS04yWTZIZG9tWmwxbkRrbkR4Yld2c1dGenRHbzVMcUpMak9HWmtI0gHcAUFVX3lxTE43dzAwSnEtZTZtLVo3MlRGcnUxbnFSNExqOXRTOGs4UjQ4WS14cjlDNk85YVdPUDdBMDdxc2dBc2djUUlyU2NCWGtkbnU0WFIyckVnYXFEQVF2N0VZRjJoVXphc0hGTlVxQ3RKVjFKZUhjOEtxdHpFcEVVUDFZSG1YM1FKUmI1ZExtdHo3VEhpVkhTai02WGkzdUw3VzN3Sm9WZmZyTFNpVzBTa1NZaGx6Y1lVTllLTjJZNkhkb21abDFuRGtuRHhiV3ZzV0Z6dEdvNUxxSkxqT0daa0g?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-0dce816f2c9a",
+      "original_title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
+      "published_at": "2026-08-31T04:57:13Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-b791884fd31d",
+      "original_title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details",
+      "published_at": "2026-08-31T04:48:57Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details",
+          "source": "Reuters",
+          "snippet": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG1feHdFUWRFMFNabndpLXB1STE5dmJNVlMyQ3A4djRaZE9UTzVzc2o5WkEtSlR5MWMxZFpfNFJqOUNtTlFpOW1ZVFRTcFhTVmRjTXI1YVhxbmhwYXotdTdibnRJYnpmWjdQejd6WFh3YTBmOGFMaVpqd1gwNFozeUVwSzFCNkdWTVVmQmtNS0ttVWl3YXVVNUhWWmF5RU1RdGRYaF9xMVJNdS1WSUJIbnM5S2Exdw?oc=5"
+        },
+        {
+          "headline": "Trump says Iran's Kharg is being 'blown to smithereens'",
+          "source": "aapnews.aap.com.au",
+          "snippet": "Trump says Iran's Kharg is being 'blown to smithereens' &nbsp;&nbsp; aapnews.aap.com.au",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNYWFSejhUYkxCV1FxYThCYmF4X3RJMEp3MmU2VnlqZmJXVW1MWFhyakdxRGs3YktEdjFnR1d1SzRzTG91X05YblhzUXdkeDVfV1RhdkFSVE14anhLSndSckJNT3JGZ1BNREZ1OUdtMTNUbzl1eW1TYndxUm4?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG1feHdFUWRFMFNabndpLXB1STE5dmJNVlMyQ3A4djRaZE9UTzVzc2o5WkEtSlR5MWMxZFpfNFJqOUNtTlFpOW1ZVFRTcFhTVmRjTXI1YVhxbmhwYXotdTdibnRJYnpmWjdQejd6WFh3YTBmOGFMaVpqd1gwNFozeUVwSzFCNkdWTVVmQmtNS0ttVWl3YXVVNUhWWmF5RU1RdGRYaF9xMVJNdS1WSUJIbnM5S2Exdw?oc=5"
+        },
+        {
+          "name": "aapnews.aap.com.au",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNYWFSejhUYkxCV1FxYThCYmF4X3RJMEp3MmU2VnlqZmJXVW1MWFhyakdxRGs3YktEdjFnR1d1SzRzTG91X05YblhzUXdkeDVfV1RhdkFSVE14anhLSndSckJNT3JGZ1BNREZ1OUdtMTNUbzl1eW1TYndxUm4?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-9e694b9d9a7c",
+      "original_title": "Morning Bid: Oil climbs as missiles fly in the Gulf By Reuters",
+      "published_at": "2026-08-31T04:37:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Morning Bid: Oil climbs as missiles fly in the Gulf By Reuters",
+          "source": "Investing.com",
+          "snippet": "Morning Bid: Oil climbs as missiles fly in the Gulf By Reuters &nbsp;&nbsp; Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUNzYVhmbURwczBQSjVGdUxaV3U1UkdFNjMtUHJMS1dtZVA1VFFxMmE2NjBKZ3NFU0xiNFo3X0N1dG04bk1CaFhXcTZRZDdRR0lsWVRVOUxYUVFFWjd3SnZiclJtTmVIVjJZOUtoMzl0amx6MWJCVnBWTF9QdGhRUWhDSi1xVG1MMW9CM3J1dDFGVmNyZ1o1blg2TlhDZGphWmxfcnJONFFvZ2JUbHVR?oc=5"
+        },
+        {
+          "headline": "Morning Bid: Oil climbs as missiles fly in the Gulf",
+          "source": "Reuters",
+          "snippet": "Morning Bid: Oil climbs as missiles fly in the Gulf &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNbU0wNVdySEl6cVlUdjlVZWlFYmp2eDlTU200dDJkTFJZSk5YbnJmenZmRS1LaTVvcC1nVVdjX2NtNDZUNlA3YU1NQUY4QXBnNGVUTnJZVld3MUNfZjIweU0tYXRlZ2lrUldFUGVXNVBSdjl0RHY5aEN1dG50TFk?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUNzYVhmbURwczBQSjVGdUxaV3U1UkdFNjMtUHJMS1dtZVA1VFFxMmE2NjBKZ3NFU0xiNFo3X0N1dG04bk1CaFhXcTZRZDdRR0lsWVRVOUxYUVFFWjd3SnZiclJtTmVIVjJZOUtoMzl0amx6MWJCVnBWTF9QdGhRUWhDSi1xVG1MMW9CM3J1dDFGVmNyZ1o1blg2TlhDZGphWmxfcnJONFFvZ2JUbHVR?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNbU0wNVdySEl6cVlUdjlVZWlFYmp2eDlTU200dDJkTFJZSk5YbnJmenZmRS1LaTVvcC1nVVdjX2NtNDZUNlA3YU1NQUY4QXBnNGVUTnJZVld3MUNfZjIweU0tYXRlZ2lrUldFUGVXNVBSdjl0RHY5aEN1dG50TFk?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-a99aec4caede",
+      "original_title": "Cronos halts network after Tectonic exploit involving estimated $75M",
+      "published_at": "2026-08-31T04:30:01Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Cronos halts network after Tectonic exploit involving estimated $75M",
+          "source": "LCX Exchange",
+          "snippet": "Cronos halts network after Tectonic exploit involving estimated $75M &nbsp;&nbsp; LCX Exchange",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekhDM29OcDR6NXBhZ2hBeHRJcW9MZVFXSjlxblc5eUsweWpZQkM5UUlWZEZicG1ZYkdKZ2ZXY3c3VEdBQXlxYmhKRW1RZUUyd2g5QTZtSXpidXJSYkhQZ3FCN1M2Q0FHbGxQSUlCUXdpa0oxbzh0SkZHLXBDYUxpcHFuTkF5RlBuNjJIM05yQTJDQ0diWklCSjF0OHBWdw?oc=5"
+        },
+        {
+          "headline": "Cronos Network Halts After Tectonic Price Exploit Triggers $75M Loss",
+          "source": "Blockonomi",
+          "snippet": "Cronos Network Halts After Tectonic Price Exploit Triggers $75M Loss &nbsp;&nbsp; Blockonomi",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGhPRlJwYXRmU2NUNGYtRHJHUkRkZGMycjBCVWRzaXZ1RTZRc1ZvZ1FZMUlyYVRvR3VzalFsNkNWQkpLNjVKSUh2bnB1LWszMDFZWUVIWUZwX29CZmhCY3I3Q2hEaVpCM1VLM2FwcFhUa0JpYmxJY080Vnc4ZkpqdXRaM3MyOUI4bXIxNng4V2RoaDB0UHc?oc=5"
+        },
+        {
+          "headline": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+          "source": "The Block",
+          "snippet": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million &nbsp;&nbsp; The Block",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1VjZ3NEbVgtOGpIUjBWU0gwZEZpQVlhdjdkbHlxT3VCRjY1WlRoQnp3M180RnBRZDFWSnp0NFNZb3AtQnY1bDVnRkE1OGRqVWV5WWRXTDlRMWV3WGIxVTRuQ1M2NThqakdudDIwaWlOQ0lDc2txQ1lNeDV6bXBPNlQzbUN0VkdVU1ZGeWVmTFVwaVJNVTBUNFFJeEZJdG9vVFlOamlhSzRlN0FnVGNNemdCb19yTXRHc2tkVEg1M2t0eFAtaEJqT3haYWlHSUk2RWRr?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "LCX Exchange",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekhDM29OcDR6NXBhZ2hBeHRJcW9MZVFXSjlxblc5eUsweWpZQkM5UUlWZEZicG1ZYkdKZ2ZXY3c3VEdBQXlxYmhKRW1RZUUyd2g5QTZtSXpidXJSYkhQZ3FCN1M2Q0FHbGxQSUlCUXdpa0oxbzh0SkZHLXBDYUxpcHFuTkF5RlBuNjJIM05yQTJDQ0diWklCSjF0OHBWdw?oc=5"
+        },
+        {
+          "name": "Blockonomi",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGhPRlJwYXRmU2NUNGYtRHJHUkRkZGMycjBCVWRzaXZ1RTZRc1ZvZ1FZMUlyYVRvR3VzalFsNkNWQkpLNjVKSUh2bnB1LWszMDFZWUVIWUZwX29CZmhCY3I3Q2hEaVpCM1VLM2FwcFhUa0JpYmxJY080Vnc4ZkpqdXRaM3MyOUI4bXIxNng4V2RoaDB0UHc?oc=5"
+        },
+        {
+          "name": "The Block",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1VjZ3NEbVgtOGpIUjBWU0gwZEZpQVlhdjdkbHlxT3VCRjY1WlRoQnp3M180RnBRZDFWSnp0NFNZb3AtQnY1bDVnRkE1OGRqVWV5WWRXTDlRMWV3WGIxVTRuQ1M2NThqakdudDIwaWlOQ0lDc2txQ1lNeDV6bXBPNlQzbUN0VkdVU1ZGeWVmTFVwaVJNVTBUNFFJeEZJdG9vVFlOamlhSzRlN0FnVGNNemdCb19yTXRHc2tkVEg1M2t0eFAtaEJqT3haYWlHSUk2RWRr?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-9ef77cb69a63",
+      "original_title": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
+      "published_at": "2026-08-31T04:29:10Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-5ed09d41b29a",
+      "original_title": "FinancialJuice: Iran's Revolutionary Guards: vessels must follow its rules for transit through Strait of Hormuz",
+      "published_at": "2026-08-31T04:26:26Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's Revolutionary Guards: vessels must follow its rules for transit through Strait of Hormuz",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742391/Irans-Revolutionary-Guards-vessels-must-follow-its-rules-for-transit-through-Strait-of-Hormuz.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742391/Irans-Revolutionary-Guards-vessels-must-follow-its-rules-for-transit-through-Strait-of-Hormuz.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-f37c97c737af",
+      "original_title": "FinancialJuice: Iran's Revolutionary Guards: tanker tried to cross southern Strait of Hormuz illegally",
+      "published_at": "2026-08-31T04:26:02Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's Revolutionary Guards: tanker tried to cross southern Strait of Hormuz illegally",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742390/Irans-Revolutionary-Guards-tanker-tried-to-cross-southern-Strait-of-Hormuz-illegally.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742390/Irans-Revolutionary-Guards-tanker-tried-to-cross-southern-Strait-of-Hormuz-illegally.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-015cc7b03623",
+      "original_title": "FinancialJuice: Iran’s Revolutionary Guards: Supertanker caught fire, stopped after hitting two naval mines in Strait of Hormuz",
+      "published_at": "2026-08-31T04:25:45Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran’s Revolutionary Guards: Supertanker caught fire, stopped after hitting two naval mines in Strait of Hormuz",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742389/Irans-Revolutionary-Guards-Supertanker-caught-fire-stopped-after-hitting-two-naval-mines-in-Strait-of-Hormuz---state-TV.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742389/Irans-Revolutionary-Guards-Supertanker-caught-fire-stopped-after-hitting-two-naval-mines-in-Strait-of-Hormuz---state-TV.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-683ea7086665",
+      "original_title": "FinancialJuice: Iran: U.S. and allies backing its military moves hold full responsibility for escalation consequences",
+      "published_at": "2026-08-31T04:16:15Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran: U.S. and allies backing its military moves hold full responsibility for escalation consequences",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742386/Iran-US-and-allies-backing-its-military-moves-hold-full-responsibility-for-escalation-consequences---foreign-ministry.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742386/Iran-US-and-allies-backing-its-military-moves-hold-full-responsibility-for-escalation-consequences---foreign-ministry.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-17158160609c",
+      "original_title": "FinancialJuice: Iran: will respond decisively to any further hostile military aggression",
+      "published_at": "2026-08-31T04:16:03Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran: will respond decisively to any further hostile military aggression",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742379/Iran-will-respond-decisively-to-any-further-hostile-military-aggression---foreign-ministry.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742379/Iran-will-respond-decisively-to-any-further-hostile-military-aggression---foreign-ministry.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-3d46e4b1ebf3",
+      "original_title": "FinancialJuice: Iran: U.S. bases in Jordan used to launch and back attack on Larak Island",
+      "published_at": "2026-08-31T04:15:39Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran: U.S. bases in Jordan used to launch and back attack on Larak Island",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742378/Iran-US-bases-in-Jordan-used-to-launch-and-back-attack-on-Larak-Island---foreign-ministry.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742378/Iran-US-bases-in-Jordan-used-to-launch-and-back-attack-on-Larak-Island---foreign-ministry.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-e99dfebbc00f",
+      "original_title": "FinancialJuice: Iran: armed forces hit U.S. military bases in Jordan in retaliation for U.S. strike on Larak island",
+      "published_at": "2026-08-31T04:15:28Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran: armed forces hit U.S. military bases in Jordan in retaliation for U.S. strike on Larak island",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742377/Iran-armed-forces-hit-US-military-bases-in-Jordan-in-retaliation-for-US-strike-on-Larak-island---foreign-ministry-statement.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742377/Iran-armed-forces-hit-US-military-bases-in-Jordan-in-retaliation-for-US-strike-on-Larak-island---foreign-ministry-statement.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-cf0b5c4867c0",
+      "original_title": "FinancialJuice: Iran's army: drone strike targeted UAE's Al Minhad air base early Monday",
+      "published_at": "2026-08-31T04:06:18Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's army: drone strike targeted UAE's Al Minhad air base early Monday",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742372/Irans-army-drone-strike-targeted-UAEs-Al-Minhad-air-base-early-Monday---state-TV.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742372/Irans-army-drone-strike-targeted-UAEs-Al-Minhad-air-base-early-Monday---state-TV.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-97383db21e30",
+      "original_title": "US Strikes Iranian Rocket Launchers in First Attack in Weeks",
+      "published_at": "2026-08-31T03:40:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US Strikes Iranian Rocket Launchers in First Attack in Weeks",
+          "source": "Bloomberg.com",
+          "snippet": "US Strikes Iranian Rocket Launchers in First Attack in Weeks &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2JpRHFuQ2xrR0xDTEhWbkxobGJxRktFR1RQMThiY3hvZzdNb24wWmdFUUZSVzVwS3k3akFpbEk5Mzg0ak9Vem9TVDE3Ti1naEFIR1JDWXloaDJWb1NrZ2FRRkYxaXAwdnZYb1FVOEhpYlluNmZES01oMWJRVUExYWdSZEk1dVdIY1VHYTFDaGw5M081NXNSaHgxeHpKMTdkaW9HOVYxdHR4SXB0MV9EQQ?oc=5"
+        },
+        {
+          "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+          "source": "BBC",
+          "snippet": "US strikes Iranian launchers on Larak Island in first known attack in weeks &nbsp;&nbsp; BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR1VYOXlxY0JNeElMalZOaEw0VDcycU9GeDBFLUdEQ2x4NjRuSjQzd0drUUtfVDRIR2hzenZjY2lRU2ZvbzVUeWVzYUQxc2QwcS1pWW5HX2EzUQ?oc=5"
+        },
+        {
+          "headline": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+          "source": "AP News",
+          "snippet": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks &nbsp;&nbsp; AP News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5"
+        },
+        {
+          "headline": "US strikes Iranian rocket launchers on Strait of Hormuz in first military action in weeks",
+          "source": "The Korea Times",
+          "snippet": "US strikes Iranian rocket launchers on Strait of Hormuz in first military action in weeks &nbsp;&nbsp; The Korea Times",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSW01a2hMcXRqbWExOFFjYkRRV3ZVaXBWRHM5MG52NS15eU5WeUVZNWNsenJ6aDlsdmI3MG9iMXZWWTB2VnlUUnJWSFNuZlF5blZlRFV2UTU5ZmtJbXFwc1FleDJNU2pSNVVYSTFHZndtaWdzMTlhc1p1Z1dwX0trWEswck9BaUpVbFNpaFkyaF9zTjNZZ2N3cUJDUW91OWN4UHdOMXNhMVVKQnNMMFRtLTZzV3lUOGo1eV9iYzQtTjFCUFNaMk1VLWsyUlN2MFJyTW1j0gHTAUFVX3lxTE9JbTVraExxdGptYTE4UWNiRFFXdlVpcFZEczkwbnY1LXl5TlZ5RVk1Y2x6cnpoOWx2Yjcwb2IxdlZZMHZWeVRSclZIU25mUXluVmVEVXZRNTlma0ltcXBzUWV4Mk1TalI1VVhJMUdmd21pZ3MxOWFzWnVnV3BfS2tYSzByT0FpSlVsU2loWTJoX3NOM1lnY3dxQkNRb3U5Y3hQd04xc2ExVUpCc0wwVG0tNnNXeVQ4ajV5X2JjNC1OMUJQU1oyTVUtazJSU3YwUnJNbWM?oc=5"
+        },
+        {
+          "headline": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+          "source": "Click2Houston",
+          "snippet": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks &nbsp;&nbsp; Click2Houston",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV1hIRjFvc2ZRb0dRUlR6MnhvbUtER0pDSEhiaW05R0xWbV9kbkEwZUtSSFU0SVNTbXhvcVpuMkU5TWZEXzk1RGJMWmxWRkQ4TDVyc0d2YW5Wd21sTVRaNWVwRERFSTcyMzVFdUhLVzdkTWxTVGFzelRkMjYzWHhBNTQxVjA0Rkt1UmdwZzVrM3BRYUdxQVMtc0xXUGJUTmk4cDBwU21BWmpaWGZQeVRQZ1M4ZVBEV3d5SDh4OFZXTThNMmJna1ctVDhtQ3JLRGdObVB3Q3plczRQOFBqU2tIaC1B?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2JpRHFuQ2xrR0xDTEhWbkxobGJxRktFR1RQMThiY3hvZzdNb24wWmdFUUZSVzVwS3k3akFpbEk5Mzg0ak9Vem9TVDE3Ti1naEFIR1JDWXloaDJWb1NrZ2FRRkYxaXAwdnZYb1FVOEhpYlluNmZES01oMWJRVUExYWdSZEk1dVdIY1VHYTFDaGw5M081NXNSaHgxeHpKMTdkaW9HOVYxdHR4SXB0MV9EQQ?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR1VYOXlxY0JNeElMalZOaEw0VDcycU9GeDBFLUdEQ2x4NjRuSjQzd0drUUtfVDRIR2hzenZjY2lRU2ZvbzVUeWVzYUQxc2QwcS1pWW5HX2EzUQ?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5"
+        },
+        {
+          "name": "The Korea Times",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSW01a2hMcXRqbWExOFFjYkRRV3ZVaXBWRHM5MG52NS15eU5WeUVZNWNsenJ6aDlsdmI3MG9iMXZWWTB2VnlUUnJWSFNuZlF5blZlRFV2UTU5ZmtJbXFwc1FleDJNU2pSNVVYSTFHZndtaWdzMTlhc1p1Z1dwX0trWEswck9BaUpVbFNpaFkyaF9zTjNZZ2N3cUJDUW91OWN4UHdOMXNhMVVKQnNMMFRtLTZzV3lUOGo1eV9iYzQtTjFCUFNaMk1VLWsyUlN2MFJyTW1j0gHTAUFVX3lxTE9JbTVraExxdGptYTE4UWNiRFFXdlVpcFZEczkwbnY1LXl5TlZ5RVk1Y2x6cnpoOWx2Yjcwb2IxdlZZMHZWeVRSclZIU25mUXluVmVEVXZRNTlma0ltcXBzUWV4Mk1TalI1VVhJMUdmd21pZ3MxOWFzWnVnV3BfS2tYSzByT0FpSlVsU2loWTJoX3NOM1lnY3dxQkNRb3U5Y3hQd04xc2ExVUpCc0wwVG0tNnNXeVQ4ajV5X2JjNC1OMUJQU1oyTVUtazJSU3YwUnJNbWM?oc=5"
+        },
+        {
+          "name": "Click2Houston",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV1hIRjFvc2ZRb0dRUlR6MnhvbUtER0pDSEhiaW05R0xWbV9kbkEwZUtSSFU0SVNTbXhvcVpuMkU5TWZEXzk1RGJMWmxWRkQ4TDVyc0d2YW5Wd21sTVRaNWVwRERFSTcyMzVFdUhLVzdkTWxTVGFzelRkMjYzWHhBNTQxVjA0Rkt1UmdwZzVrM3BRYUdxQVMtc0xXUGJUTmk4cDBwU21BWmpaWGZQeVRQZ1M4ZVBEV3d5SDh4OFZXTThNMmJna1ctVDhtQ3JLRGdObVB3Q3plczRQOFBqU2tIaC1B?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-86e7b3a692de",
+      "original_title": "FinancialJuice: Iran’s Revolutionary Guards: They shot down U.S. MQ-9 drone over Strait of Hormuz",
+      "published_at": "2026-08-31T03:22:14Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran’s Revolutionary Guards: They shot down U.S. MQ-9 drone over Strait of Hormuz",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742324/Irans-Revolutionary-Guards-They-shot-down-US-MQ-9-drone-over-Strait-of-Hormuz---Mehr-News-Agency.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742324/Irans-Revolutionary-Guards-They-shot-down-US-MQ-9-drone-over-Strait-of-Hormuz---Mehr-News-Agency.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-fdd94a020d9a",
+      "original_title": "Rising Fed hike bets pressure rupee, oil worries linger",
+      "published_at": "2026-08-31T02:14:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Rising Fed hike bets pressure rupee, oil worries linger",
+          "source": "Reuters",
+          "snippet": "Rising Fed hike bets pressure rupee, oil worries linger &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEFscm9ibG1XX3ZKcFdiTUZheGctLWxuUDR3NFR6Z2h3MWRBYTZ1VWctNjVLUE9JcWVnd1VqVkJtUFpRRDF1LVNRZHEwdGE1Ym1wR3Bwb3haR3QzdnEyS205VGN2VUt6ckdvNnI5aU14OS1XVXJYV2RYSTdSSnZhMWQ0WU5ZQXdBNGE4SmdMUWxZa1B3eW0wc0RfenJGS0MwYWRReg?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEFscm9ibG1XX3ZKcFdiTUZheGctLWxuUDR3NFR6Z2h3MWRBYTZ1VWctNjVLUE9JcWVnd1VqVkJtUFpRRDF1LVNRZHEwdGE1Ym1wR3Bwb3haR3QzdnEyS205VGN2VUt6ckdvNnI5aU14OS1XVXJYV2RYSTdSSnZhMWQ0WU5ZQXdBNGE4SmdMUWxZa1B3eW0wc0RfenJGS0MwYWRReg?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-3e3c7ba8332b",
+      "original_title": "🚫 주장: 이란의 이슬람 혁명수비대(IRGC)는 최근 성명에서 미국군의 공격이 IRGC가 호르무즈 해협에 기뢰를 설치하는 것을 막기 위한 것이었으며, 이는 \"침략 행위\"라고 주장했습니다. 이 주장은 절대적으로 거짓입니다. ✅ 사실: 미국군은 호르무즈 해협에서 즉각적인 위협을 가하는 IRGC 기뢰 설치 부대에 대해 제한적이고 정밀한 조치를 취했습니다. 본질적으로, 이란이 위협을 만들어냈고, 미",
+      "published_at": "2026-08-31T01:47:49Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "🚫 주장: 이란의 이슬람 혁명수비대(IRGC)는 최근 성명에서 미국군의 공격이 IRGC가 호르무즈 해협에 기뢰를 설치하는 것을 막기 위한 것이었으며, 이는 \"침략 행위\"라고 주장했습니다. 이 주장은 절대적으로 거짓입니다. ✅ 사실: 미국군은 호르무즈 해협에서 즉각적인 위협을 가하는 IRGC 기뢰 설치 부대에 대해 제한적이고 정밀한 조치를 취했습니다. 본질적으로, 이란이 위협을 만들어냈고, 미",
+          "source": "Telegram @goddessTTF",
+          "snippet": "🚫 주장: 이란의 이슬람 혁명수비대(IRGC)는 최근 성명에서 미국군의 공격이 IRGC가 호르무즈 해협에 기뢰를 설치하는 것을 막기 위한 것이었으며, 이는 \"침략 행위\"라고 주장했습니다. 이 주장은 절대적으로 거짓입니다. ✅ 사실: 미국군은 호르무즈 해협에서 즉각적인 위협을 가하는 IRGC 기뢰 설치 부대에 대해 제한적이고 정밀한 조치를 취했습니다. 본질적으로, 이란이 위협을 만들어냈고, 미국 군대는 민간 선박, 상업 운송, 그리고 글로벌 무역의 자유로운 흐름을 보호하기 위해 이를 제거했습니다.",
+          "url": "https://t.me/goddessTTF/83394"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83394"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-38b79387a1e9",
+      "original_title": "이란, 라라크섬 공습에 즉각 보복…요르단 미군기지 2곳에 탄도미사일 발사 [공부의여신 네트워크] 이란 혁명수비대가 라라크섬에 대한 미군 공습의 보복으로 요르단의 킹후세인 기지와 알아즈라크 기지를 탄도미사일로 공격했다고 발표했다. 미국 당국자는 여러 발의 미사일이 발사됐지만 미군기지에 명중한 미사일은 없으며 현재까지 피해나 사상자도 보고되지 않았다고 밝혔다. 이란의 발사 주장 자체와 미국 측 ",
+      "published_at": "2026-08-31T01:46:30Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "이란, 라라크섬 공습에 즉각 보복…요르단 미군기지 2곳에 탄도미사일 발사 [공부의여신 네트워크] 이란 혁명수비대가 라라크섬에 대한 미군 공습의 보복으로 요르단의 킹후세인 기지와 알아즈라크 기지를 탄도미사일로 공격했다고 발표했다. 미국 당국자는 여러 발의 미사일이 발사됐지만 미군기지에 명중한 미사일은 없으며 현재까지 피해나 사상자도 보고되지 않았다고 밝혔다. 이란의 발사 주장 자체와 미국 측 ",
+          "source": "Telegram @goddessTTF",
+          "snippet": "이란, 라라크섬 공습에 즉각 보복…요르단 미군기지 2곳에 탄도미사일 발사 [공부의여신 네트워크] 이란 혁명수비대가 라라크섬에 대한 미군 공습의 보복으로 요르단의 킹후세인 기지와 알아즈라크 기지를 탄도미사일로 공격했다고 발표했다. 미국 당국자는 여러 발의 미사일이 발사됐지만 미군기지에 명중한 미사일은 없으며 현재까지 피해나 사상자도 보고되지 않았다고 밝혔다. 이란의 발사 주장 자체와 미국 측 피해 평가가 각각 별도 당사자의 발표인 만큼 추가 공식 확인이…",
+          "url": "https://t.me/goddessTTF/83393"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83393"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-8710704aca59",
+      "original_title": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks - Traverse City Record-Eagle",
+      "published_at": "2026-08-31T01:38:22Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks - Traverse City Record-Eagle",
+          "source": "Traverse City Record-Eagle",
+          "snippet": "US strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks &nbsp;&nbsp; Traverse City Record-Eagle",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPY0RqWUJRdXlwYkpwSFdaekR1NDdLT2l4TUJ2bHdDeFhlNVVMZl9ReUg3VWx0NWdwZEVBZ1RfNjNwX3lra1RsMlU2czBxU0t2N1NqeVRWd2l4aTU2UEJjeHNKNWpWMjNDMTZfQTJvNmU0N1U3Qjlta1JiTURxelhSdUN5WW5zclBQSTFkNTZYaGRPbjhOMy1LbHdCTndwUGlISXBpbmZEX2RZcFZfVWM0M0hJYVlFejRmbDJoTDNWbXpPM0E5bzQ3c28wSW9pcDRlU2FLVlp6ajlRTTJRNk0zaHpOdHJSTFpnNVRfcXBIQ003bGNIUGFIVnZLb0tUczJDSGVzQzI0cUxsTzZC?oc=5"
+        },
+        {
+          "headline": "AP report: U.S. forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+          "source": "PBS",
+          "snippet": "AP report: U.S. forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks &nbsp;&nbsp; PBS",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd1Bmb0JDZHk3SGN5X21fUzdHZElrNHpRazc1RzBvbTgwOVk4SzhGZGMxODFvNW1GTHNNa3JlMWwxVU9DWXBoS1IwWWlsRV9VbTBiN0Zfb0RiQWVyQWRFSElfbjdrdkJpRzV3QTIwSGpMZmIxeUFJTXpmd2hMdzlxQzgtM2pNTmRUNEY0WmNXeFVnS0JRdjg2d3NSTnAwaGl1M05Ya0hKVGVEaGhrdW5BSHNjNmllWW9tRzlXYlV5ZjBoQ3lOZHhjbGFSMlZWTEpJZHdkRHdPRVZvS3ZESW9tOGJhONIB4wFBVV95cUxNd1Bmb0JDZHk3SGN5X21fUzdHZElrNHpRazc1RzBvbTgwOVk4SzhGZGMxODFvNW1GTHNNa3JlMWwxVU9DWXBoS1IwWWlsRV9VbTBiN0Zfb0RiQWVyQWRFSElfbjdrdkJpRzV3QTIwSGpMZmIxeUFJTXpmd2hMdzlxQzgtM2pNTmRUNEY0WmNXeFVnS0JRdjg2d3NSTnAwaGl1M05Ya0hKVGVEaGhrdW5BSHNjNmllWW9tRzlXYlV5ZjBoQ3lOZHhjbGFSMlZWTEpJZHdkRHdPRVZvS3ZESW9tOGJhOA?oc=5"
+        },
+        {
+          "headline": "U.S. forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+          "source": "CP24",
+          "snippet": "U.S. forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks &nbsp;&nbsp; CP24",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQV9lMlVsT2dTbVNmN0NPWV92akpqWlNkWUpDdEJJM1gweHRRbTMzVnFyT0dLZVpJdDJzTGw5YXlmSGUtSU1jX0g0b1h3dEFtZkZWLV83dGNLYmZRUHVtSi1iQ2ZpQnpjWmt3WS1LNG1JNkpWWmEyM2cwNXppVXZVUWgtaFQwV0lPbHdYbjNuaTFpRW5hSVBtZnlJdjhyTFU2d0dNVDVlMnM3WjFmVVZpWHdGM2x6dWlHZ1ZKNkZ6dHJiT2QyMWFtY2lSZ29RTThlNHRMalZUZzY4X1E?oc=5"
+        },
+        {
+          "headline": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+          "source": "CityNews Toronto",
+          "snippet": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks &nbsp;&nbsp; CityNews Toronto",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS1RxbWlITnRkRE93ZGJrLVRPUTNxcVhDVTJpX2J5LXJVMHVyR1d6Y3lnd1hyTzVJNjhEWUdZSkpZRDViTk1GRjRHQzJnZlhVSE9SN05WNTZOb3ZsSDFpLVI1NGVBUlJ5V09yWmFKalNtQU02RGFiNjRTMHUtSkVGaU1WcEkyZ3p5WVVadnpZUmtpcXJUR0Y5Nk9nNHlxbGhlb3RlekpCMVJZcVZDY2c1Q3JRdFRiZEJsMjJlTE9PdXU2WkkzeExlZTVUOWZ4MWJHYm10eURn?oc=5"
+        },
+        {
+          "headline": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+          "source": "Audacy",
+          "snippet": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks &nbsp;&nbsp; Audacy",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkdkazB1eTFYMy1KWkRaZlBqSHBnZjdxNjBrcGpMN3pHSEtmdGFCRFpkeWlON3d5YW1UYTdlaUR3aDRKYkNNRHFyM2xkNlh6bFQ2OGgtSTVMM0o3dzh6d1YxVDNqeXNkNUk4Mm43Nk5FU1ZYOE1HWllTaXlYZHBjdi12d1gwZUFmTnMyU0p6MXR2QldZUl9QTGJESEpKaWZOV0Q2VTJfcWNiRm4wZXgyRGloZXlzRkU?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Traverse City Record-Eagle",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPY0RqWUJRdXlwYkpwSFdaekR1NDdLT2l4TUJ2bHdDeFhlNVVMZl9ReUg3VWx0NWdwZEVBZ1RfNjNwX3lra1RsMlU2czBxU0t2N1NqeVRWd2l4aTU2UEJjeHNKNWpWMjNDMTZfQTJvNmU0N1U3Qjlta1JiTURxelhSdUN5WW5zclBQSTFkNTZYaGRPbjhOMy1LbHdCTndwUGlISXBpbmZEX2RZcFZfVWM0M0hJYVlFejRmbDJoTDNWbXpPM0E5bzQ3c28wSW9pcDRlU2FLVlp6ajlRTTJRNk0zaHpOdHJSTFpnNVRfcXBIQ003bGNIUGFIVnZLb0tUczJDSGVzQzI0cUxsTzZC?oc=5"
+        },
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd1Bmb0JDZHk3SGN5X21fUzdHZElrNHpRazc1RzBvbTgwOVk4SzhGZGMxODFvNW1GTHNNa3JlMWwxVU9DWXBoS1IwWWlsRV9VbTBiN0Zfb0RiQWVyQWRFSElfbjdrdkJpRzV3QTIwSGpMZmIxeUFJTXpmd2hMdzlxQzgtM2pNTmRUNEY0WmNXeFVnS0JRdjg2d3NSTnAwaGl1M05Ya0hKVGVEaGhrdW5BSHNjNmllWW9tRzlXYlV5ZjBoQ3lOZHhjbGFSMlZWTEpJZHdkRHdPRVZvS3ZESW9tOGJhONIB4wFBVV95cUxNd1Bmb0JDZHk3SGN5X21fUzdHZElrNHpRazc1RzBvbTgwOVk4SzhGZGMxODFvNW1GTHNNa3JlMWwxVU9DWXBoS1IwWWlsRV9VbTBiN0Zfb0RiQWVyQWRFSElfbjdrdkJpRzV3QTIwSGpMZmIxeUFJTXpmd2hMdzlxQzgtM2pNTmRUNEY0WmNXeFVnS0JRdjg2d3NSTnAwaGl1M05Ya0hKVGVEaGhrdW5BSHNjNmllWW9tRzlXYlV5ZjBoQ3lOZHhjbGFSMlZWTEpJZHdkRHdPRVZvS3ZESW9tOGJhOA?oc=5"
+        },
+        {
+          "name": "CP24",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQV9lMlVsT2dTbVNmN0NPWV92akpqWlNkWUpDdEJJM1gweHRRbTMzVnFyT0dLZVpJdDJzTGw5YXlmSGUtSU1jX0g0b1h3dEFtZkZWLV83dGNLYmZRUHVtSi1iQ2ZpQnpjWmt3WS1LNG1JNkpWWmEyM2cwNXppVXZVUWgtaFQwV0lPbHdYbjNuaTFpRW5hSVBtZnlJdjhyTFU2d0dNVDVlMnM3WjFmVVZpWHdGM2x6dWlHZ1ZKNkZ6dHJiT2QyMWFtY2lSZ29RTThlNHRMalZUZzY4X1E?oc=5"
+        },
+        {
+          "name": "CityNews Toronto",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS1RxbWlITnRkRE93ZGJrLVRPUTNxcVhDVTJpX2J5LXJVMHVyR1d6Y3lnd1hyTzVJNjhEWUdZSkpZRDViTk1GRjRHQzJnZlhVSE9SN05WNTZOb3ZsSDFpLVI1NGVBUlJ5V09yWmFKalNtQU02RGFiNjRTMHUtSkVGaU1WcEkyZ3p5WVVadnpZUmtpcXJUR0Y5Nk9nNHlxbGhlb3RlekpCMVJZcVZDY2c1Q3JRdFRiZEJsMjJlTE9PdXU2WkkzeExlZTVUOWZ4MWJHYm10eURn?oc=5"
+        },
+        {
+          "name": "Audacy",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkdkazB1eTFYMy1KWkRaZlBqSHBnZjdxNjBrcGpMN3pHSEtmdGFCRFpkeWlON3d5YW1UYTdlaUR3aDRKYkNNRHFyM2xkNlh6bFQ2OGgtSTVMM0o3dzh6d1YxVDNqeXNkNUk4Mm43Nk5FU1ZYOE1HWllTaXlYZHBjdi12d1gwZUFmTnMyU0p6MXR2QldZUl9QTGJESEpKaWZOV0Q2VTJfcWNiRm4wZXgyRGloZXlzRkU?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-7964348dfc9f",
+      "original_title": "Indian rupee under pressure from Fed, oil; bonds at risk of further selloff",
+      "published_at": "2026-08-31T01:33:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Indian rupee under pressure from Fed, oil; bonds at risk of further selloff",
+          "source": "Reuters",
+          "snippet": "Indian rupee under pressure from Fed, oil; bonds at risk of further selloff &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblJ2YTFRQ3gwdmJPd1FmLXZUSi16TlpBb0lENndWMkI5elBMMzBrejRDUkhVd3pqb0xjRy1ZdWZGZk9yZEFWSzVaZWtpdTJiWVJ6QkR6QVIzZ1JnQUZGak9RMnpGSzVYZVZXcXowV1VUS1RUTDQ3T0lJcnJMSFRHSUNIeEIyOEd5cmVIOW5sSVEzV1B4QUFYYnRRVFk0aWFUOGVza0hmU0VZUUp5dnNB?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblJ2YTFRQ3gwdmJPd1FmLXZUSi16TlpBb0lENndWMkI5elBMMzBrejRDUkhVd3pqb0xjRy1ZdWZGZk9yZEFWSzVaZWtpdTJiWVJ6QkR6QVIzZ1JnQUZGak9RMnpGSzVYZVZXcXowV1VUS1RUTDQ3T0lJcnJMSFRHSUNIeEIyOEd5cmVIOW5sSVEzV1B4QUFYYnRRVFk0aWFUOGVza0hmU0VZUUp5dnNB?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-cb4b6998f055",
+      "original_title": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160",
+      "published_at": "2026-08-31T01:32:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160",
+          "source": "Reuters",
+          "snippet": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160 &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzZFV05UVTZLQjh4TGh6S2xxU0xMU0w3c2lXNUd0am8tak9EV3p6NV84cVV0NDM2aXFrUkFpQUpVZ3dmdGNkYS1OaXRQbGhybm9lcHBfU2lLaVRwVGxiaXJKNnFRZW9ndFppTmp1TlhxeDJ2emxQLU5YWnVraXJFYzFHbldSU0pmVEtjeHFLdHJlUERTWjlkMmp0d25FSE1Wa3Q3SHpKbG1uNXBGa3FDRTg1cGxFX2VQZUkydHoxaWdHZUxER2c?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzZFV05UVTZLQjh4TGh6S2xxU0xMU0w3c2lXNUd0am8tak9EV3p6NV84cVV0NDM2aXFrUkFpQUpVZ3dmdGNkYS1OaXRQbGhybm9lcHBfU2lLaVRwVGxiaXJKNnFRZW9ndFppTmp1TlhxeDJ2emxQLU5YWnVraXJFYzFHbldSU0pmVEtjeHFLdHJlUERTWjlkMmp0d25FSE1Wa3Q3SHpKbG1uNXBGa3FDRTg1cGxFX2VQZUkydHoxaWdHZUxER2c?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-65c35270f5d6",
+      "original_title": "FinancialJuice: Australian Private Sector Credit Actual 0.6% (Forecast 0.7%, Previous 0.8%)",
+      "published_at": "2026-08-31T01:30:21Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Australian Private Sector Credit Actual 0.6% (Forecast 0.7%, Previous 0.8%)",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742186/Australian-Private-Sector-Credit-Actual-06-Forecast-07-Previous-08.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742186/Australian-Private-Sector-Credit-Actual-06-Forecast-07-Previous-08.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-4449425f01f0",
+      "original_title": "FinancialJuice: Australia July private-sector credit rises 0.6% m/m, seasonally adjusted: central bank",
+      "published_at": "2026-08-31T01:30:18Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Australia July private-sector credit rises 0.6% m/m, seasonally adjusted: central bank",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742183/Australia-July-private-sector-credit-rises-06-mm-seasonally-adjusted-central-bank.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742183/Australia-July-private-sector-credit-rises-06-mm-seasonally-adjusted-central-bank.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-5ba23e51a790",
+      "original_title": "트럼프 대통령 인터뷰 중 (with 트레이 가우디) 질문, \"만약 모든 것을 처음부터 다시 해야 한다 해도, 에스컬레이터를 타고 내려오시겠습니까?\" \"저는 멋진 삶을 살고 있었지만, 여러분도 들어보셨을 아주 짧은 표현이 있었습니다 — 바로 '미국을 다시 위대하게(Make America Great Again)'입니다... 이보다 더 중요한 것은 결코 없습니다.\" \"그것이 바로 제가 급진 좌파에",
+      "published_at": "2026-08-31T01:26:16Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프 대통령 인터뷰 중 (with 트레이 가우디) 질문, \"만약 모든 것을 처음부터 다시 해야 한다 해도, 에스컬레이터를 타고 내려오시겠습니까?\" \"저는 멋진 삶을 살고 있었지만, 여러분도 들어보셨을 아주 짧은 표현이 있었습니다 — 바로 '미국을 다시 위대하게(Make America Great Again)'입니다... 이보다 더 중요한 것은 결코 없습니다.\" \"그것이 바로 제가 급진 좌파에",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프 대통령 인터뷰 중 (with 트레이 가우디) 질문, \"만약 모든 것을 처음부터 다시 해야 한다 해도, 에스컬레이터를 타고 내려오시겠습니까?\" \"저는 멋진 삶을 살고 있었지만, 여러분도 들어보셨을 아주 짧은 표현이 있었습니다 — 바로 '미국을 다시 위대하게(Make America Great Again)'입니다... 이보다 더 중요한 것은 결코 없습니다.\" \"그것이 바로 제가 급진 좌파에 대해 혐오하는 점 중 하나입니다 — 모든 것이 불결하고 추잡해지며, 결국 엉망진창으로 전락해 버립니다... 저는 이 나라가 자랑스럽습니다. 저는 우리나라가 바로잡히고 더 훌륭해지기를 바랍니다.\" 🇺🇸 \"이란은 테러를 지원하는 세계 최대의 주도국입니다... 그들은 결코 핵무기를 가질 수 없습니다.\" \"오직 중대한 영향을 끼치는 대통령들만이 총에 맞거나 총격을 당합니다 — 그리고 저는 매우 중대한 영향을 미치는 대통령입니다. 우리는 이 세상 전체를 바꾸어 놓았습니다. 우리는 이 나라를 구해냈습니다.\" 중간선거에 대해: \"저는 우리가 매우 잘 해낼 것이라고 생각합니다. 왜냐하면 공산주의자들이 있기 때문입니다 — 잘못된 사상과 잘못된 정책에 침투당한 정당이 있습니다. 저는 예전에 사회주의에 대해 이야기하곤 했지만, 이것은 사회주의가 아닙니다. 이것은 대체로 공산주의입니다.\" \"120일 동안 매일매일, 제가 하루에 1번, 2번, 혹은 3번 연설을 하지 않으면 죄책감이 들었습니다. \"카멀라의 일정을 보았을 때... 그녀는 이 모든 시간을 쉬었습니다. 그녀는 진정으로 열심히 선거 운동을 하지 않았습니다.\" \"매일매일 나서야만 합니다. 120일 동안 말입니다! 하루도 빠짐없이 말입니다.\" 민주당에 대해: \"그들의 이념은 정말로 형편없습니다. 그들은 여성 스포츠에 남성을 참여시키기를 원합니다. 그들은 모든 사람을 위한 트랜스젠더화를 원합니다. 그들은 국경을 전면 개방하기를 원합니다. 그들은 너무나 비정상적이고 극도로 정신 나간 것들을 원하고 있습니다.\" 대통령이 처음 취임했을 때를 돌아보며: \"언론에 어느 정도 문제가 있다는 것은 알고 있었지만, 이 정도일 줄은 결코 몰랐습니다 — 그리고 다른 그 누구도 이 정도는 겪어보지 않았을 것이라 생각합니다 — 제가 그들이 일어날 것이라 예상하지 못했던 일들을 해내고 있었기 때문입니다.\" 대통령이 고(故) 린지 그레이엄 상원의원과 정적에서 친구가 된 과정을 회고하며: \"경쟁 중일 때는 상대방을 온전히 판단할 수 없습니다 — 왜냐하면 그들은 이기기를 원하기 때문입니다... 저는 그를 알게 되었습니다. 그는 실제로 위대한 정치인이었습니다.\" \"어떤 사람들은 정당보다 저를 더 좋아합니다.\" \"저는 제가 직접 출마했을 때처럼 나가서 선거 운동을 할 것입니다. 그리고 사람들이 제가 투표용지에 올라와 있다고 생각해 주기를 바랄 것입니다!\" \"그리고 만약 제가 올라와 있지 않더라도, 그들이 나가지 않고 투표하지 않는다면 몰라도, 그들이 투표하러 나가기만 한다면 우리는 쉽게 승리할 것입니다.\" \"그들이 투표하러 나간다면 우리는 승리할 것입니다. 그리고 만약 우리가 승리하지 못한다면, 우리나라는 비참한 상태에 처하게 될 것입니다. 우리가 수많은 고난을 겪게 될 것이기 때문입니다. 세금이 인상될 것입니다.\" \"여성 스포츠에 남성이 출전하는 것과 같은 말도 안 되는 일들이 일어날 것이며, 이는 결코 끝나지 않을 것입니다. 트랜스젠더 문제는 결코 끝나지 않을 것입니다. 국경 개방도 마찬가지입니다. 그들은 즉시 국경을 전면 개방해 버릴 것입니다.\"",
+          "url": "https://t.me/goddessTTF/83388"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83388"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-437e2be0cfa6",
+      "original_title": "이란, 라락 섬 공격에 대한 보복으로 미국에 대한 공격 개시 미사일이 요르단에 있는 미국 기지에 발사된 것으로 보도되었습니다.",
+      "published_at": "2026-08-31T01:22:00Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "이란, 라락 섬 공격에 대한 보복으로 미국에 대한 공격 개시 미사일이 요르단에 있는 미국 기지에 발사된 것으로 보도되었습니다.",
+          "source": "Telegram @goddessTTF",
+          "snippet": "이란, 라락 섬 공격에 대한 보복으로 미국에 대한 공격 개시 미사일이 요르단에 있는 미국 기지에 발사된 것으로 보도되었습니다.",
+          "url": "https://t.me/goddessTTF/83386"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83386"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-5773fd54dc29",
+      "original_title": "재무부 장관 베센트와 연준 의장 워시가 G20을 주최하기 위해 노스캐롤라이나주 애슈빌에 도착하다.",
+      "published_at": "2026-08-31T01:20:34Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "재무부 장관 베센트와 연준 의장 워시가 G20을 주최하기 위해 노스캐롤라이나주 애슈빌에 도착하다.",
+          "source": "Telegram @goddessTTF",
+          "snippet": "재무부 장관 베센트와 연준 의장 워시가 G20을 주최하기 위해 노스캐롤라이나주 애슈빌에 도착하다.",
+          "url": "https://t.me/goddessTTF/83383"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83383"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-93b11c7bbf3a",
+      "original_title": "수년간 미국은 캐나다와의 거래에서 매년 600억 달러 이상의 손실을 보아 왔습니다. 왜입니까??? 오래전 빼앗겼던 우리의 기업들이 이제 관세를 내지 않기 위해 미국으로 되돌아오고 있습니다. 전 세계 다른 이들과 마찬가지로, 그들도 줄을 서고 있습니다!!! 대통령 DJT",
+      "published_at": "2026-08-31T01:17:06Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "수년간 미국은 캐나다와의 거래에서 매년 600억 달러 이상의 손실을 보아 왔습니다. 왜입니까??? 오래전 빼앗겼던 우리의 기업들이 이제 관세를 내지 않기 위해 미국으로 되돌아오고 있습니다. 전 세계 다른 이들과 마찬가지로, 그들도 줄을 서고 있습니다!!! 대통령 DJT",
+          "source": "Telegram @goddessTTF",
+          "snippet": "수년간 미국은 캐나다와의 거래에서 매년 600억 달러 이상의 손실을 보아 왔습니다. 왜입니까??? 오래전 빼앗겼던 우리의 기업들이 이제 관세를 내지 않기 위해 미국으로 되돌아오고 있습니다. 전 세계 다른 이들과 마찬가지로, 그들도 줄을 서고 있습니다!!! 대통령 DJT",
+          "url": "https://t.me/goddessTTF/83381"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83381"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-7951823c4c0d",
+      "original_title": "US forces strike two Iranian missile launchers on Larak Island ᐉ News from Fakti.bg - World",
+      "published_at": "2026-08-31T01:08:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US forces strike two Iranian missile launchers on Larak Island ᐉ News from Fakti.bg - World",
+          "source": "fakti.bg",
+          "snippet": "US forces strike two Iranian missile launchers on Larak Island ᐉ News from Fakti.bg - World &nbsp;&nbsp; fakti.bg",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWThDeWRtR3JIOUtHc1JaY2xfWWs1c21rbVBsWU1GN3hINGF0TzE1M3dVUmJBMzdNOXl5aHJOdDhycXpBYnJQOUdzazUwaUQ3UGxJRVN1S1psVzRDOVRtUUNpbEN5MGhibkJrMnl6VEJ0MHVXQXBBcEd5RUJhQ29XOVhERVRaM25haFhIcHZYZE50UzAtWGp5T2stY1g?oc=5"
+        },
+        {
+          "headline": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
+          "source": "The Standard (HK)",
+          "snippet": "US forces strike two Iranian launchers on Iran's Larak island, US official says &nbsp;&nbsp; The Standard (HK)",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLWU2d3lOTHE5WlNqRFhVbDZpb3Y4c00tdnVwVGpIOEFNUHNPMG5JcldMM2w0Q2kxWklWcmhLLV9LaGV3UklBSmxaNnBWS0l6TEJrTXhvZ1NlcHpCVWZobDFVeWZ3SnRXcnRoMVI0Szlub1RfWGJLYk1XRUkzcWdmcEhKOFlNWDZOTVpJcExmemN6ZFJxc0lydjFNZXVoLWxuV3N6NWpOUzJYWTlKWU9RM3VZNXlEZGVwUEhITENSXzk2Q3lNRUI5Zg?oc=5"
+        },
+        {
+          "headline": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
+          "source": "Reuters",
+          "snippet": "US forces strike two Iranian launchers on Iran's Larak island, US official says &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "fakti.bg",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWThDeWRtR3JIOUtHc1JaY2xfWWs1c21rbVBsWU1GN3hINGF0TzE1M3dVUmJBMzdNOXl5aHJOdDhycXpBYnJQOUdzazUwaUQ3UGxJRVN1S1psVzRDOVRtUUNpbEN5MGhibkJrMnl6VEJ0MHVXQXBBcEd5RUJhQ29XOVhERVRaM25haFhIcHZYZE50UzAtWGp5T2stY1g?oc=5"
+        },
+        {
+          "name": "The Standard (HK)",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLWU2d3lOTHE5WlNqRFhVbDZpb3Y4c00tdnVwVGpIOEFNUHNPMG5JcldMM2w0Q2kxWklWcmhLLV9LaGV3UklBSmxaNnBWS0l6TEJrTXhvZ1NlcHpCVWZobDFVeWZ3SnRXcnRoMVI0Szlub1RfWGJLYk1XRUkzcWdmcEhKOFlNWDZOTVpJcExmemN6ZFJxc0lydjFNZXVoLWxuV3N6NWpOUzJYWTlKWU9RM3VZNXlEZGVwUEhITENSXzk2Q3lNRUI5Zg?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-e48fc17fda8c",
+      "original_title": "FinancialJuice: U.S. military: U.S. forces carried out limited, precise strike against IRGC mine-laying units posing imminent threat in Strait of Hormuz",
+      "published_at": "2026-08-31T00:58:51Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: U.S. military: U.S. forces carried out limited, precise strike against IRGC mine-laying units posing imminent threat in Strait of Hormuz",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742139/US-military-US-forces-carried-out-limited-precise-strike-against-IRGC-mine-laying-units-posing-imminent-threat-in-Strait-of-Hormuz.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742139/US-military-US-forces-carried-out-limited-precise-strike-against-IRGC-mine-laying-units-posing-imminent-threat-in-Strait-of-Hormuz.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-49bcef02af29",
+      "original_title": "FinancialJuice: China PBOC expected to set yuan midpoint at 6.7344 per dollar: estimate",
+      "published_at": "2026-08-31T00:18:34Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: China PBOC expected to set yuan midpoint at 6.7344 per dollar: estimate",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742127/China-PBOC-expected-to-set-yuan-midpoint-at-67344-per-dollar-estimate.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742127/China-PBOC-expected-to-set-yuan-midpoint-at-67344-per-dollar-estimate.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-30-03d6d8e70122",
+      "original_title": "FinancialJuice: Bessent: Iran pressure campaign won't succeed unless Chinese firms face secondary sanctions",
+      "published_at": "2026-08-30T23:47:18Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Bessent: Iran pressure campaign won't succeed unless Chinese firms face secondary sanctions",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742101/Bessent-Iran-pressure-campaign-wont-succeed-unless-Chinese-firms-face-secondary-sanctions.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742101/Bessent-Iran-pressure-campaign-wont-succeed-unless-Chinese-firms-face-secondary-sanctions.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-30-6499b75c62b1",
+      "original_title": "FinancialJuice: US Treasury Secretary Bessent: U.S. blockade of Iran ports has limited Chinese imports of Iranian oil",
+      "published_at": "2026-08-30T23:47:18Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Treasury Secretary Bessent: U.S. blockade of Iran ports has limited Chinese imports of Iranian oil",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742100/US-Treasury-Secretary-Bessent-US-blockade-of-Iran-ports-has-limited-Chinese-imports-of-Iranian-oil.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742100/US-Treasury-Secretary-Bessent-US-blockade-of-Iran-ports-has-limited-Chinese-imports-of-Iranian-oil.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-30-a472492fa261",
+      "original_title": "FinancialJuice: US Treasury Secretary Bessent: next time 'we'll likely just sanction a bank outright' after U.S. limits one Egyptian bank's UAE branches",
+      "published_at": "2026-08-30T23:47:16Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Treasury Secretary Bessent: next time 'we'll likely just sanction a bank outright' after U.S. limits one Egyptian bank's UAE branches",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742099/US-Treasury-Secretary-Bessent-next-time-well-likely-just-sanction-a-bank-outright-after-US-limits-one-Egyptian-banks-UAE-branches.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742099/US-Treasury-Secretary-Bessent-next-time-well-likely-just-sanction-a-bank-outright-after-US-limits-one-Egyptian-banks-UAE-branches.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-30-d061d1de06a8",
+      "original_title": "FinancialJuice: US Treasury Secretary Bessent: banks told not to hold Iranian funds or support Iranian regime",
+      "published_at": "2026-08-30T23:47:15Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Treasury Secretary Bessent: banks told not to hold Iranian funds or support Iranian regime",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742098/US-Treasury-Secretary-Bessent-banks-told-not-to-hold-Iranian-funds-or-support-Iranian-regime.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742098/US-Treasury-Secretary-Bessent-banks-told-not-to-hold-Iranian-funds-or-support-Iranian-regime.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-30-e69905a42a60",
+      "original_title": "FinancialJuice: U.S. Treasury to impose new Iran secondary sanctions weekly, beginning with banks: Bessent",
+      "published_at": "2026-08-30T23:47:15Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: U.S. Treasury to impose new Iran secondary sanctions weekly, beginning with banks: Bessent",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9742097/US-Treasury-to-impose-new-Iran-secondary-sanctions-weekly-beginning-with-banks-Bessent.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9742097/US-Treasury-to-impose-new-Iran-secondary-sanctions-weekly-beginning-with-banks-Bessent.aspx?xy=rss"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-30-80610f8cd5fc",
       "original_title": "Iran Strikes US Forces In Jordan After US Attack On Larak Island",
@@ -28,6 +908,56 @@
         {
           "name": "Al Jazeera",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTBBc2EzTGU1VklFeXVRdXFpRG9pdmFuRHFRcnBmS1o4RE56RVFJTExZVVFySV9wSEhEZV9kNXAyb2VmajRDWTZiaEhyZWRLMjFwbGRVVU1VYlI0S3c5WU5mZGhfUmF4UmRLN1Qzdkc1US1UUGQ0S01Jb0hJeV9jMnBtLXAxWXRiZTdnbXBMcVVXMkJjT3RtdTBB0gGfAUFVX3lxTE5TWTRMMk9tZmNrUWl1MTdYUE9Ick5xeEtsMWFkRnNWbEh4eGcxMTBubTJzeUJBa3RacFFsZ2cxN3Y0OWJ4dDh1NlNwczRSaWFoODlTOFl4dnlKOXE1dG96cHlGRHMzVTlSZUJxWlhPSEJCQ3FlYXBjaHJOZW42enVhckhfV2Rkc2NScXVkV0hDNzBsbzlHTWpCeFdOOS1RZw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-30-7bcf73cb9be8",
+      "original_title": "Oil jumps more than 2% after US attack on Iran’s Larak island By Reuters",
+      "published_at": "2026-08-30T23:14:48Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil jumps more than 2% after US attack on Iran’s Larak island By Reuters",
+          "source": "Investing.com South Africa",
+          "snippet": "Oil jumps more than 2% after US attack on Iran’s Larak island By Reuters &nbsp;&nbsp; Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRUJ3ZVRPQUdfODdUNHFPNUJLdmItbzRBaVlIYnJ6NHpaeU1pRVBQdGdWYVZwaGdRRmtkZTdkazRCMmlMLWE5cjBnZW9QWU45UDQ5NHZBSDJJRDZuRm5RaEMxYTJGS2hFRmRXVEJEcW1JU0ZCbS1nRy0xXzVCN0xORXMzOFJLN3I0cmRWcFZLN2J6ekQ1U0M1N2J1NUJsLXlNUnBsUVZlNlp0ZjZTdHdHV01odmcwMG9ObnZHV0xFNHZ1VFJk?oc=5"
+        },
+        {
+          "headline": "Oil jumps more than 2% after US attack on Iran's Larak island",
+          "source": "Reuters",
+          "snippet": "Oil jumps more than 2% after US attack on Iran's Larak island &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5"
+        },
+        {
+          "headline": "Oil jumps more than 2% after US attack on Iran's Larak island",
+          "source": "Yahoo! Finance Canada",
+          "snippet": "Oil jumps more than 2% after US attack on Iran's Larak island &nbsp;&nbsp; Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JM001czg4STJWdWRVQXMzTV9pMG1EY05MakRKdlRjUXBuRjJZc1owa1lFQWZldU9QMGkzNkMzdzBTYk1ORjBMVU1pMjhxb2RUZmhpU1RRQS1iSUZPX0JMNkVnTFpONWlQVVdEeXdlNXdYN3dEQlQw?oc=5"
+        },
+        {
+          "headline": "Oil jumps more than 2% after US attack on Iran's Larak island",
+          "source": "London South East",
+          "snippet": "Oil jumps more than 2% after US attack on Iran's Larak island &nbsp;&nbsp; London South East",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3FzRk5lNS1mUmN1N3cxblVMZWUwb29FVk41STF1elpjdWFtZkl6bVBCYlZkR3ZOTU0zbFlkMTYyWm9hM3ZpMmFsSVRNajZ4ZlNnZkFlekdGWnRDdjljQkpoMmlYTFFibnFmN0g3RDJPOEoxUTdrUUNtWVNnVl9UbHBERUVBcUd2Z1MxVVpOQTNOUmR5bzU5SHFDSDQzNnkxellZUmFTaEhFUms?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRUJ3ZVRPQUdfODdUNHFPNUJLdmItbzRBaVlIYnJ6NHpaeU1pRVBQdGdWYVZwaGdRRmtkZTdkazRCMmlMLWE5cjBnZW9QWU45UDQ5NHZBSDJJRDZuRm5RaEMxYTJGS2hFRmRXVEJEcW1JU0ZCbS1nRy0xXzVCN0xORXMzOFJLN3I0cmRWcFZLN2J6ekQ1U0M1N2J1NUJsLXlNUnBsUVZlNlp0ZjZTdHdHV01odmcwMG9ObnZHV0xFNHZ1VFJk?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JM001czg4STJWdWRVQXMzTV9pMG1EY05MakRKdlRjUXBuRjJZc1owa1lFQWZldU9QMGkzNkMzdzBTYk1ORjBMVU1pMjhxb2RUZmhpU1RRQS1iSUZPX0JMNkVnTFpONWlQVVdEeXdlNXdYN3dEQlQw?oc=5"
+        },
+        {
+          "name": "London South East",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3FzRk5lNS1mUmN1N3cxblVMZWUwb29FVk41STF1elpjdWFtZkl6bVBCYlZkR3ZOTU0zbFlkMTYyWm9hM3ZpMmFsSVRNajZ4ZlNnZkFlekdGWnRDdjljQkpoMmlYTFFibnFmN0g3RDJPOEoxUTdrUUNtWVNnVl9UbHBERUVBcUd2Z1MxVVpOQTNOUmR5bzU5SHFDSDQzNnkxellZUmFTaEhFUms?oc=5"
         }
       ]
     },
@@ -402,6 +1332,36 @@
       ]
     },
     {
+      "stable_id": "2026-08-30-9b0701304922",
+      "original_title": "US Treasury Bars Reporters From Several Outlets From G20 Meeting",
+      "published_at": "2026-08-30T21:58:58Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US Treasury Bars Reporters From Several Outlets From G20 Meeting",
+          "source": "Livemint",
+          "snippet": "US Treasury Bars Reporters From Several Outlets From G20 Meeting &nbsp;&nbsp; Livemint",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1JxU3RrYkpCNjJ0VDdteXBscXptOEVaY2E3UUtjU000WTdrX2lVSTRxWmdGQjE1SWdCY2x6dUcwUFlTYlZENWc4U0ZzcldkenFUdnhveG9QTWFxenBCVVhUX3RwM3NmQkNRYzFmWmQyWXQ2bnN3MHJQQjJEaWxFdkdXZk1idUhNNmZpU0xaUXBQLXFHUk9oVFJ3MmFVR2VKTWZhN3BZZVNnYzUwaTV5NWYwX05oRjd1MXl4d0xJN0ROd29n0gHEAUFVX3lxTE5DUnFTdGtiSkI2MnRUN215cGxxem04RVpjYTdRS2NTTTRZN2tfaVVJNHFaZ0ZCMTVJZ0JjbHp1RzBQWVNiVkQ1ZzhTRnNyV2R6cVR2eG94b1BNYXF6cEJVWFRfdHAzc2ZCQ1FjMWZaZDJZdDZuc3cwclBCMkRpbEV2R1dmTWJ1SE02ZmlTTFpRcFAtcUdST2hUUncyYVVHZUpNZmE3cFllU2djNTBpNXk1ZjBfTmhGN3UxeXh3TEk3RE53b2c?oc=5"
+        },
+        {
+          "headline": "US Treasury Bars Reporters From Several Outlets From G20 Meeting",
+          "source": "Yahoo Finance UK",
+          "snippet": "US Treasury Bars Reporters From Several Outlets From G20 Meeting &nbsp;&nbsp; Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGFzT1NTODNVcDVFV0s5Mmk0SnE4MDBGSUFwamsyendfbFFPb2hOUTdiX0pvR08yZ3VTU1BQNTZaYmxlMzZlTGNITzlDcTVjdUJuZmo1Unc4S2FEM3p6MDZETmpwMlhhR01oUzNyNklacUJVOXdxS2JXWTJmSkxmemNhdWtpd2lUS1NF?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1JxU3RrYkpCNjJ0VDdteXBscXptOEVaY2E3UUtjU000WTdrX2lVSTRxWmdGQjE1SWdCY2x6dUcwUFlTYlZENWc4U0ZzcldkenFUdnhveG9QTWFxenBCVVhUX3RwM3NmQkNRYzFmWmQyWXQ2bnN3MHJQQjJEaWxFdkdXZk1idUhNNmZpU0xaUXBQLXFHUk9oVFJ3MmFVR2VKTWZhN3BZZVNnYzUwaTV5NWYwX05oRjd1MXl4d0xJN0ROd29n0gHEAUFVX3lxTE5DUnFTdGtiSkI2MnRUN215cGxxem04RVpjYTdRS2NTTTRZN2tfaVVJNHFaZ0ZCMTVJZ0JjbHp1RzBQWVNiVkQ1ZzhTRnNyV2R6cVR2eG94b1BNYXF6cEJVWFRfdHAzc2ZCQ1FjMWZaZDJZdDZuc3cwclBCMkRpbEV2R1dmTWJ1SE02ZmlTTFpRcFAtcUdST2hUUncyYVVHZUpNZmE3cFllU2djNTBpNXk1ZjBfTmhGN3UxeXh3TEk3RE53b2c?oc=5"
+        },
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGFzT1NTODNVcDVFV0s5Mmk0SnE4MDBGSUFwamsyendfbFFPb2hOUTdiX0pvR08yZ3VTU1BQNTZaYmxlMzZlTGNITzlDcTVjdUJuZmo1Unc4S2FEM3p6MDZETmpwMlhhR01oUzNyNklacUJVOXdxS2JXWTJmSkxmemNhdWtpd2lUS1NF?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-30-437e2be0cfa6",
       "original_title": "이란, 라락 섬 공격에 대한 보복으로 미국에 대한 공격 개시 미사일이 요르단에 있는 미국 기지에 발사된 것으로 보도되었습니다.",
       "published_at": "2026-08-30T21:52:28Z",
@@ -498,6 +1458,36 @@
         {
           "name": "Telegram @goddessTTF",
           "url": "https://t.me/goddessTTF/83366"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-30-6c14232b5f7e",
+      "original_title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+      "published_at": "2026-08-30T21:31:04Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+          "source": "Decrypt",
+          "snippet": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run &nbsp;&nbsp; Decrypt",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtX0RuS2Vycld4MGlHbTBDM2pJWEQwYzdXYjVPYVpmZUEzOHZvYk1NSGIzZVhDZnZhRWgwalA2NTloWTh3N0Z5bVhfbG9EaUtGV1J0bC16M183Mm96Z25MWGo1Qm9lUURZVkYzZkxZSHNKRUtnQWI2Tm5hX2HSAYQBQVVfeXFMUGVaTDRpZTEwZTlRU0R4WXVoU253bmZmS1ZUOVRobGV0VTRlWFBidmFVYWhsd1c3YkdTb0VTc3NDejN1azB6Y2Y5eWhtLVhYcmpmX1dxX0JscU91SHY4WnRYQ3hnUVpRV2V2a1RvSE9ScnZfeU9hR0hXbWQ5ak9idjhJN1BK?oc=5"
+        },
+        {
+          "headline": "Bitcoin ETFs Pull In $924 Million in a Week as Ethereum Funds Extend 17-Day Inflow Streak",
+          "source": "finance.biggo.com",
+          "snippet": "Bitcoin ETFs Pull In $924 Million in a Week as Ethereum Funds Extend 17-Day Inflow Streak &nbsp;&nbsp; finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tcHF2bmlGQUZBYWZIMEZCYjBvbzEyTlppOHBTZmQyX3ZUWDc5WlpPblNpUDZucUh6TTUwSDctUnBScUlGbkpLMl9Hdk5aVDNyZ1BBQm43X0hxLTZBX3BtTl9ldTBrd1VZZEJMYi1FV1dEbnFXM0E?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtX0RuS2Vycld4MGlHbTBDM2pJWEQwYzdXYjVPYVpmZUEzOHZvYk1NSGIzZVhDZnZhRWgwalA2NTloWTh3N0Z5bVhfbG9EaUtGV1J0bC16M183Mm96Z25MWGo1Qm9lUURZVkYzZkxZSHNKRUtnQWI2Tm5hX2HSAYQBQVVfeXFMUGVaTDRpZTEwZTlRU0R4WXVoU253bmZmS1ZUOVRobGV0VTRlWFBidmFVYWhsd1c3YkdTb0VTc3NDejN1azB6Y2Y5eWhtLVhYcmpmX1dxX0JscU91SHY4WnRYQ3hnUVpRV2V2a1RvSE9ScnZfeU9hR0hXbWQ5ak9idjhJN1BK?oc=5"
+        },
+        {
+          "name": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tcHF2bmlGQUZBYWZIMEZCYjBvbzEyTlppOHBTZmQyX3ZUWDc5WlpPblNpUDZucUh6TTUwSDctUnBScUlGbkpLMl9Hdk5aVDNyZ1BBQm43X0hxLTZBX3BtTl9ldTBrd1VZZEJMYi1FV1dEbnFXM0E?oc=5"
         }
       ]
     },
@@ -892,6 +1882,36 @@
       ]
     },
     {
+      "stable_id": "2026-08-30-3c56713629e9",
+      "original_title": "Michael Saylor’s “We’re ₿ack” Post Sends Strategy Bitcoin Buy Odds to 96%",
+      "published_at": "2026-08-30T18:25:20Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Michael Saylor’s “We’re ₿ack” Post Sends Strategy Bitcoin Buy Odds to 96%",
+          "source": "CryptoRank",
+          "snippet": "Michael Saylor’s “We’re ₿ack” Post Sends Strategy Bitcoin Buy Odds to 96% &nbsp;&nbsp; CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk9qaVZPTVl6SVFreTgzeHZSZjJubGJJSTlrNFM0VFpKY3JZd2cwakdtdFdjZ01Ma1lfUlBFQlNNTGhMc2lQT1JEaHVtd2F3MllFZHd5dW91Zk5NdzItd0ZUOExvSmYxcU1SYWNGcEQ0Q2JCaXBCRE9TSXVxMmhWWHdVd0VQaVlBM1VDT08wVTl0bWNfMGg2SUJ6NTZ0bnlhSGh4TzN3UWpRYl9TOWFhQUhMSHM?oc=5"
+        },
+        {
+          "headline": "Michael Saylor’s “We’re ₿ack” Post Sends Strategy Bitcoin Buy Odds to 96%",
+          "source": "Bitget",
+          "snippet": "Michael Saylor’s “We’re ₿ack” Post Sends Strategy Bitcoin Buy Odds to 96% &nbsp;&nbsp; Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nTXBtMXpVeG1HQ0NubjRqUnhHd3hqRm5ZcGNuYzFIUE9RUjRWRVA2dGpfWW5zeUlCRWo1UDZ2MWlUY1RjN2JhSU14dEVvSnNXRkVoeUFFMHJ2di1VSmfSAWNBVV95cUxPclQ3bkhmWDNNODdJZm5EQUR4eVZjN1JCX25PS2RVSWRSSFJ2ZEdGQ2VNWjBDYTRkUXZNNlR5VVpvRUlFMkhwdXJGQ2l4RERCY0Y5OVlhdWI4OVh1UXpKemNXR0E?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk9qaVZPTVl6SVFreTgzeHZSZjJubGJJSTlrNFM0VFpKY3JZd2cwakdtdFdjZ01Ma1lfUlBFQlNNTGhMc2lQT1JEaHVtd2F3MllFZHd5dW91Zk5NdzItd0ZUOExvSmYxcU1SYWNGcEQ0Q2JCaXBCRE9TSXVxMmhWWHdVd0VQaVlBM1VDT08wVTl0bWNfMGg2SUJ6NTZ0bnlhSGh4TzN3UWpRYl9TOWFhQUhMSHM?oc=5"
+        },
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nTXBtMXpVeG1HQ0NubjRqUnhHd3hqRm5ZcGNuYzFIUE9RUjRWRVA2dGpfWW5zeUlCRWo1UDZ2MWlUY1RjN2JhSU14dEVvSnNXRkVoeUFFMHJ2di1VSmfSAWNBVV95cUxPclQ3bkhmWDNNODdJZm5EQUR4eVZjN1JCX25PS2RVSWRSSFJ2ZEdGQ2VNWjBDYTRkUXZNNlR5VVpvRUlFMkhwdXJGQ2l4RERCY0Y5OVlhdWI4OVh1UXpKemNXR0E?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-30-32e4b309a93e",
       "original_title": "Michael Saylor Hints Strategy Will Resume Bitcoin Buying After 10-Week Pause",
       "published_at": "2026-08-30T18:12:12Z",
@@ -904,6 +1924,12 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGlLUG1pTWtqMVVkbzZkcGpiM3k1T0VUSndPTFpXaEZwYkpRV2xKMjNwM2pwZXhBUnlYVDYteEM0UU4wdTlDN1liM19yOFh1MVk0STJ3ZHNxSlJILXdTUDExNnJkWFBZUHR1ckNDcW81cHJLSnd6blppVzNyRDNqMkJjMktNejV2LXlzYUF6ZmlTaXRaQ1I5Y1NSd0pZNmQ1N0E?oc=5"
         },
         {
+          "headline": "Michael Saylor Teases End to Strategy's 10-Week Bitcoin Buying Pause",
+          "source": "finance.biggo.com",
+          "snippet": "Michael Saylor Teases End to Strategy's 10-Week Bitcoin Buying Pause &nbsp;&nbsp; finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55Qk02MnFRQ0FSb01ETGstVEFRME5pTjJWZS1VbS1aYjM2MXBERkNPNFN1Z1NscTNtNWZ0SUZsdWFlVUV6U0ZWd1F4NzhrMEgxaXQyY3p2bFZNRVJjTnlTN1hHSE9JUU8wbGhhV3JfcGhaZjNEWGc?oc=5"
+        },
+        {
           "headline": "Michael Saylor Hints At Strategy’s Return To Bitcoin Buying After 10-Week Hiatus",
           "source": "TradingView",
           "snippet": "Michael Saylor Hints At Strategy’s Return To Bitcoin Buying After 10-Week Hiatus &nbsp;&nbsp; TradingView",
@@ -914,6 +1940,10 @@
         {
           "name": "Blockonomi",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGlLUG1pTWtqMVVkbzZkcGpiM3k1T0VUSndPTFpXaEZwYkpRV2xKMjNwM2pwZXhBUnlYVDYteEM0UU4wdTlDN1liM19yOFh1MVk0STJ3ZHNxSlJILXdTUDExNnJkWFBZUHR1ckNDcW81cHJLSnd6blppVzNyRDNqMkJjMktNejV2LXlzYUF6ZmlTaXRaQ1I5Y1NSd0pZNmQ1N0E?oc=5"
+        },
+        {
+          "name": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55Qk02MnFRQ0FSb01ETGstVEFRME5pTjJWZS1VbS1aYjM2MXBERkNPNFN1Z1NscTNtNWZ0SUZsdWFlVUV6U0ZWd1F4NzhrMEgxaXQyY3p2bFZNRVJjTnlTN1hHSE9JUU8wbGhhV3JfcGhaZjNEWGc?oc=5"
         },
         {
           "name": "TradingView",
@@ -1032,6 +2062,26 @@
       ]
     },
     {
+      "stable_id": "2026-08-30-118aa3f4d396",
+      "original_title": "Michael Saylor hints at first bitcoin purchase in two months",
+      "published_at": "2026-08-30T15:39:55Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Michael Saylor hints at first bitcoin purchase in two months",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-30-07860a1fe6a8",
       "original_title": "How will NASA's new telescope unlock mysteries of the universe?",
       "published_at": "2026-08-30T14:59:56Z",
@@ -1041,13 +2091,13 @@
           "headline": "How will NASA's new telescope unlock mysteries of the universe?",
           "source": "Reuters",
           "snippet": "How will NASA's new telescope unlock mysteries of the universe? &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdHBxbVBGYnk0azdfZ0VsZERMUHNRMUYwb0tFZUtvRmZORmxwTmQtb1Q1blNrNFZGZWtZR0d6dzdZcURMZ0JkYjk0Mk9KR1ZfVFdTa2hZWC1MMk5ibERYZmlVaWFSdDNMaUtjbzVhYmw0NDVkaXAzZFNETVB5TXV6NG5nc1dxZFhzMThPbGh6TGd3TVNB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORzNKUVd3M2NDUEtvMTdsSzNlTkVTSU1fdEZGd3pMSkVPc29sdWNxS0V0LUlfZV9iYVhLZW5IdEV2OVVzRG9WOFNBVlpjWXJlNndwcEQzenBKMVZZdHVQMFVoaUMxNVMzbzFVa3I3a0xTY09EUWwzVEg4R2lyamEtR0ZzcXk0MVZ6VDJFSkx2WTRoX3Z4QlE?oc=5"
         }
       ],
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdHBxbVBGYnk0azdfZ0VsZERMUHNRMUYwb0tFZUtvRmZORmxwTmQtb1Q1blNrNFZGZWtZR0d6dzdZcURMZ0JkYjk0Mk9KR1ZfVFdTa2hZWC1MMk5ibERYZmlVaWFSdDNMaUtjbzVhYmw0NDVkaXAzZFNETVB5TXV6NG5nc1dxZFhzMThPbGh6TGd3TVNB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORzNKUVd3M2NDUEtvMTdsSzNlTkVTSU1fdEZGd3pMSkVPc29sdWNxS0V0LUlfZV9iYVhLZW5IdEV2OVVzRG9WOFNBVlpjWXJlNndwcEQzenBKMVZZdHVQMFVoaUMxNVMzbzFVa3I3a0xTY09EUWwzVEg4R2lyamEtR0ZzcXk0MVZ6VDJFSkx2WTRoX3Z4QlE?oc=5"
         }
       ]
     },
@@ -1164,9 +2214,9 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONE1xUDQwbV8xTGdWbUdoQk5nM3pJQ1d0MFdYYi14SXctSk52MmlmdnIxRmVJZmJhZjM4Njk4ZU5DQ3RCYmN3R1JFR1dlNEJZTnRBWmVpcFlfTDRxM2RtYXA4Y3J0Q2F1SmVuTTd2U2ExUzl3a3VxSTRONWk3ZXo0aVZDcVNLMG8?oc=5"
         },
         {
-          "headline": "World Mostly Shrugs Off Bessent’s ‘D-Day’ Iran Sanctions Threat",
+          "headline": "World Mostly Shrugs Off Bessent’s Iran Sanctions Warnings",
           "source": "Bloomberg.com",
-          "snippet": "World Mostly Shrugs Off Bessent’s ‘D-Day’ Iran Sanctions Threat &nbsp;&nbsp; Bloomberg.com",
+          "snippet": "World Mostly Shrugs Off Bessent’s Iran Sanctions Warnings &nbsp;&nbsp; Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUFrM2N3M2Z6VlVKNEM1SHRjR1kxTmsySTY2UXluSFJtSWd6N2FVWnRicmh2VGQ5RnkycVRiZ1NFSndJS1dwc3NvcDFXdjM0Q0pUYlVxemxWakNqNGFiTzdOSkVDTzNlcUlBckNMNFZhdEF4NmpIakVRcXVMN2E3VXYxeVpNaWd4Nmw4ZTREaXZIenh6dDZPX3ItSElQQm9EVVFIMXItZEtEN0NsS0QtVzJR?oc=5"
         }
       ],
@@ -1488,1036 +2538,6 @@
         {
           "name": "Telegram @goddessTTF",
           "url": "https://t.me/goddessTTF/83346"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-30-11f28171a8aa",
-      "original_title": "베네수엘라의 임시 대통령인 델시 로드리게스는 전국에 생중계된 5분짜리 연설에서 미국과의 석유 협정에 대한 추가적인 세부 사항을 발표했습니다. 그녀는 이 협상이 17개의 잠재적인 유전 지역을 포함하며, 25년 동안 매일 150만 배럴의 석유를 생산하는 것을 목표로 한다고 밝혔습니다. 베네수엘라 정부는 이 협상을 통해 배럴당 69달러의 가격으로 석유를 판매하여 정부에 배럴당 19달러의 이익을 확",
-      "published_at": "2026-08-30T02:18:31Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "베네수엘라의 임시 대통령인 델시 로드리게스는 전국에 생중계된 5분짜리 연설에서 미국과의 석유 협정에 대한 추가적인 세부 사항을 발표했습니다. 그녀는 이 협상이 17개의 잠재적인 유전 지역을 포함하며, 25년 동안 매일 150만 배럴의 석유를 생산하는 것을 목표로 한다고 밝혔습니다. 베네수엘라 정부는 이 협상을 통해 배럴당 69달러의 가격으로 석유를 판매하여 정부에 배럴당 19달러의 이익을 확",
-          "source": "Telegram @goddessTTF",
-          "snippet": "베네수엘라의 임시 대통령인 델시 로드리게스는 전국에 생중계된 5분짜리 연설에서 미국과의 석유 협정에 대한 추가적인 세부 사항을 발표했습니다. 그녀는 이 협상이 17개의 잠재적인 유전 지역을 포함하며, 25년 동안 매일 150만 배럴의 석유를 생산하는 것을 목표로 한다고 밝혔습니다. 베네수엘라 정부는 이 협상을 통해 배럴당 69달러의 가격으로 석유를 판매하여 정부에 배럴당 19달러의 이익을 확보하고, 유전 운영 회사에 부과되는 16%의 로열티와 34%의 소득세 수입을 통해 이익을 얻을 계획입니다. 이는 이번 주 초에 발표된 2090억 달러의 이익에 추가될 것으로 예상됩니다.",
-          "url": "https://t.me/goddessTTF/83341"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/83341"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-30-7df7d5dfda39",
-      "original_title": "FinancialJuice: Venezuela's interim president: Venezuela maintains control over its resources",
-      "published_at": "2026-08-30T01:53:39Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Venezuela's interim president: Venezuela maintains control over its resources",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9741719/Venezuelas-interim-president-Venezuela-maintains-control-over-its-resources.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9741719/Venezuelas-interim-president-Venezuela-maintains-control-over-its-resources.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-30-cf247a2554c8",
-      "original_title": "FinancialJuice: Venezuela's interim president: deal with U.S. aims to boost output to 1.5 million barrels a day",
-      "published_at": "2026-08-30T01:53:35Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Venezuela's interim president: deal with U.S. aims to boost output to 1.5 million barrels a day",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9741718/Venezuelas-interim-president-deal-with-US-aims-to-boost-output-to-15-million-barrels-a-day.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9741718/Venezuelas-interim-president-deal-with-US-aims-to-boost-output-to-15-million-barrels-a-day.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-30-65bfc77b1e53",
-      "original_title": "FinancialJuice: Venezuelan interim president Delcy Rodriguez: energy deal with U.S. will last 25 years",
-      "published_at": "2026-08-30T01:51:56Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Venezuelan interim president Delcy Rodriguez: energy deal with U.S. will last 25 years",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9741716/Venezuelan-interim-president-Delcy-Rodriguez-energy-deal-with-US-will-last-25-years.aspx?xy=rss](https://www.financialjuice.com/feed.ashx?xy=rss)"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9741716/Venezuelan-interim-president-Delcy-Rodriguez-energy-deal-with-US-will-last-25-years.aspx?xy=rss](https://www.financialjuice.com/feed.ashx?xy=rss)"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-45a137a0bd2f",
-      "original_title": "War weighs on Iran economy as US intensifies sanctions",
-      "published_at": "2026-08-29T23:59:23Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "War weighs on Iran economy as US intensifies sanctions",
-          "source": "aapnews.aap.com.au",
-          "snippet": "War weighs on Iran economy as US intensifies sanctions &nbsp;&nbsp; aapnews.aap.com.au",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnFuZzRocEM5dmxubE5LR05TbklGYjhzb1F3TTRocU5XMmJiNnVmeUUwcThvNWNIdFVGQXlLa1dnX3F4eFE0cVpEcjk3LXpjLVg2bUlyeGRpandobnhBSW91a1NNSmpzbUxTQTBVM0RERnZzbG5DSUFUWmFQVXI4QXpRLUpHNEl3dlpMYnNrbw?oc=5"
-        },
-        {
-          "headline": "War weighs on Iran's economy as U.S. intensifies sanctions",
-          "source": "Japan Today",
-          "snippet": "War weighs on Iran's economy as U.S. intensifies sanctions &nbsp;&nbsp; Japan Today",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYjROMGFTbkRkbU0yVi1ETDZrcTFrN2ljb3FXNUY1ZS0yNHNrMDV3aGNoUTVsdDk0YWJCTEFfbi1uQ05kOTdFZnczM0U5ZzhnYUg5T3Y5VG1FazNzQ0FhcFdXQmJ1ZzRfQVFHMk8wYzVoQVVOSVAzUEszTHQ4WkFCTGVIODhfelBNRko1cExoazJiY21HX05IWmVzZw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "aapnews.aap.com.au",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnFuZzRocEM5dmxubE5LR05TbklGYjhzb1F3TTRocU5XMmJiNnVmeUUwcThvNWNIdFVGQXlLa1dnX3F4eFE0cVpEcjk3LXpjLVg2bUlyeGRpandobnhBSW91a1NNSmpzbUxTQTBVM0RERnZzbG5DSUFUWmFQVXI4QXpRLUpHNEl3dlpMYnNrbw?oc=5"
-        },
-        {
-          "name": "Japan Today",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYjROMGFTbkRkbU0yVi1ETDZrcTFrN2ljb3FXNUY1ZS0yNHNrMDV3aGNoUTVsdDk0YWJCTEFfbi1uQ05kOTdFZnczM0U5ZzhnYUg5T3Y5VG1FazNzQ0FhcFdXQmJ1ZzRfQVFHMk8wYzVoQVVOSVAzUEszTHQ4WkFCTGVIODhfelBNRko1cExoazJiY21HX05IWmVzZw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-0e082665b342",
-      "original_title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
-      "published_at": "2026-08-29T23:49:17Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "A $1.1 million crypto card hack crashed a neobank's token 49%",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-ce77bcddec1c",
-      "original_title": "트럼프 대통령이 화요일에 유가 하락을 논의하기 위해 석유 정제 업계 임원들과 만날 예정 — Fox",
-      "published_at": "2026-08-29T22:44:00Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "트럼프 대통령이 화요일에 유가 하락을 논의하기 위해 석유 정제 업계 임원들과 만날 예정 — Fox",
-          "source": "Telegram @goddessTTF",
-          "snippet": "트럼프 대통령이 화요일에 유가 하락을 논의하기 위해 석유 정제 업계 임원들과 만날 예정 — Fox",
-          "url": "https://t.me/goddessTTF/83332"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/83332"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-5c60ff592b67",
-      "original_title": "Avici pledges full refunds as hackers hit Ajna next",
-      "published_at": "2026-08-29T20:35:49Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Avici pledges full refunds as hackers hit Ajna next",
-          "source": "Bitget",
-          "snippet": "Avici pledges full refunds as hackers hit Ajna next &nbsp;&nbsp; Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KalVzS3o2REFKVWRKa2doRTR6RzVfZkhIUGl3NUdWeWJEYWxVZzFFck1yTjRHNFFzelctNHM1MF9fR2xrdFprNFh0MWtzSjVSZ2lYcHpJeE9MUGlqdWFGQ25NY9IBY0FVX3lxTE5KalVzS3o2REFKVWRKa2doRTR6RzVfZkhIUGl3NUdWeWJEYWxVZzFFck1yTjRHNFFzelctNHM1MF9fR2xrdFprNFh0MWtzSjVSZ2lYcHpJeE9MUGlqdWFGQ25NYw?oc=5"
-        },
-        {
-          "headline": "Avici pledges full refunds as hackers hit Ajna next",
-          "source": "CryptoRank",
-          "snippet": "Avici pledges full refunds as hackers hit Ajna next &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NREV6Z3BxRkpHaUJVT1d2UHA4RG1WRDF1eUMtaGYybC13eVJIWHpNN084WWtka0FqbGJNSlI1Y1NoMHgtN21OZXNPcEpVckVIMXBkN1NZZEJoakFIYVVtN1pPYmRpUGE0bE56SXFyZFBQcmRMNndaSXhfbFQ4ck0?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KalVzS3o2REFKVWRKa2doRTR6RzVfZkhIUGl3NUdWeWJEYWxVZzFFck1yTjRHNFFzelctNHM1MF9fR2xrdFprNFh0MWtzSjVSZ2lYcHpJeE9MUGlqdWFGQ25NY9IBY0FVX3lxTE5KalVzS3o2REFKVWRKa2doRTR6RzVfZkhIUGl3NUdWeWJEYWxVZzFFck1yTjRHNFFzelctNHM1MF9fR2xrdFprNFh0MWtzSjVSZ2lYcHpJeE9MUGlqdWFGQ25NYw?oc=5"
-        },
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NREV6Z3BxRkpHaUJVT1d2UHA4RG1WRDF1eUMtaGYybC13eVJIWHpNN084WWtka0FqbGJNSlI1Y1NoMHgtN21OZXNPcEpVckVIMXBkN1NZZEJoakFIYVVtN1pPYmRpUGE0bE56SXFyZFBQcmRMNndaSXhfbFQ4ck0?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-b54f9cd69b33",
-      "original_title": "6 months in, Iran's leaders are defying the U.S. and signaling no tolerance for dissent",
-      "published_at": "2026-08-29T18:55:14Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "6 months in, Iran's leaders are defying the U.S. and signaling no tolerance for dissent",
-          "source": "PBS",
-          "snippet": "6 months in, Iran's leaders are defying the U.S. and signaling no tolerance for dissent &nbsp;&nbsp; PBS",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUndqLXZ6VllNc1VueFR0UlhyTEVKQUllVGp3WlpIaWgtNGw1MzRHXzRiU1hfcEwxNzVUWmtzYUlMWDBwWGp1YTRSWHB0WVE3UjBTb1VNZkpueVh2eU56a2h4dUVINlNObV81OFNOMEtWbklKcXo4YkFZVC0yMVNCa1BIdHJ5MHhuTktVMFJUMGFiQUhvcFkxaS0wOUY3YUF0NkZzODRaMnlfNEhYWE15TXh4WU9hYlNMSzJLVFZfd1_SAcABQVVfeXFMTlJ3ai12elZZTXNVbnhUdFJYckxFSkFJZVRqd1paSGloLTRsNTM0R180YlNYX3BMMTc1VFprc2FJTFgwcFhqdWE0UlhwdFlRN1IwU29VTWZKbnlYdnlOemtoeHVFSDZTTm1fNThTTjBLVm5JSnF6OGJBWVQtMjFTQmtQSHRyeTB4bk5LVTBSVDBhYkFIb3BZMWktMDlGN2FBdDZGczg0WjJ5XzRIWFhNeU14eFlPYWJTTEsyS1RWX3df?oc=5"
-        },
-        {
-          "headline": "6 months on, Iran’s leaders are defying the US and signaling no tolerance for dissent",
-          "source": "AP News",
-          "snippet": "6 months on, Iran’s leaders are defying the US and signaling no tolerance for dissent &nbsp;&nbsp; AP News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjRJeFc5Nk44Q2ZySjE2S3JFeUs1TDVmdS1jdEd2V3otb3lETXFyeTdGMG1jN3lOdE1IaUk4T0h3Skd3VEE5ZkFKdEpueHJFUmVWdkZ1R0JzdDBOb09ocmVGQkdyQzBsQUd1ejNqUm91R0RKRUJRQU03LUhnWG9RdHdkTUtWdlNjSy1LMklMdm9qaUdlb1R5YnJ2aHlObVhHV0E?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUndqLXZ6VllNc1VueFR0UlhyTEVKQUllVGp3WlpIaWgtNGw1MzRHXzRiU1hfcEwxNzVUWmtzYUlMWDBwWGp1YTRSWHB0WVE3UjBTb1VNZkpueVh2eU56a2h4dUVINlNObV81OFNOMEtWbklKcXo4YkFZVC0yMVNCa1BIdHJ5MHhuTktVMFJUMGFiQUhvcFkxaS0wOUY3YUF0NkZzODRaMnlfNEhYWE15TXh4WU9hYlNMSzJLVFZfd1_SAcABQVVfeXFMTlJ3ai12elZZTXNVbnhUdFJYckxFSkFJZVRqd1paSGloLTRsNTM0R180YlNYX3BMMTc1VFprc2FJTFgwcFhqdWE0UlhwdFlRN1IwU29VTWZKbnlYdnlOemtoeHVFSDZTTm1fNThTTjBLVm5JSnF6OGJBWVQtMjFTQmtQSHRyeTB4bk5LVTBSVDBhYkFIb3BZMWktMDlGN2FBdDZGczg0WjJ5XzRIWFhNeU14eFlPYWJTTEsyS1RWX3df?oc=5"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjRJeFc5Nk44Q2ZySjE2S3JFeUs1TDVmdS1jdEd2V3otb3lETXFyeTdGMG1jN3lOdE1IaUk4T0h3Skd3VEE5ZkFKdEpueHJFUmVWdkZ1R0JzdDBOb09ocmVGQkdyQzBsQUd1ejNqUm91R0RKRUJRQU03LUhnWG9RdHdkTUtWdlNjSy1LMklMdm9qaUdlb1R5YnJ2aHlObVhHV0E?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-f957fc0b0237",
-      "original_title": "FinancialJuice: Iraq's Kurdistan oil exports to Turkey's Ceyhan port at about 150,000 bpd: oil ministry spokesperson",
-      "published_at": "2026-08-29T18:31:49Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iraq's Kurdistan oil exports to Turkey's Ceyhan port at about 150,000 bpd: oil ministry spokesperson",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9741665/Iraqs-Kurdistan-oil-exports-to-Turkeys-Ceyhan-port-at-about-150000-bpd-oil-ministry-spokesperson.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9741665/Iraqs-Kurdistan-oil-exports-to-Turkeys-Ceyhan-port-at-about-150000-bpd-oil-ministry-spokesperson.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-074d6a498ccb",
-      "original_title": "Bitcoin ETFs Snap Nine-Day Inflow Streak With $202M Exodus as BTC Slips Below $78K",
-      "published_at": "2026-08-29T18:19:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin ETFs Snap Nine-Day Inflow Streak With $202M Exodus as BTC Slips Below $78K",
-          "source": "finance.biggo.com",
-          "snippet": "Bitcoin ETFs Snap Nine-Day Inflow Streak With $202M Exodus as BTC Slips Below $78K &nbsp;&nbsp; finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jekRmcUNZSDNkOVF6cUFsSm1DYTltaUczS3pyZVV2eFVpYmlTa2FGOHNzUkEzLWZqZEJSUlBCOTFBdjhjSXBoaEc3d3RxSUM0ZUVKRjYxR1diVVZSMTJJZzVRcHhab2RnM2lxUlg1eDh4WFJFR2c?oc=5"
-        },
-        {
-          "headline": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-          "source": "TradingView",
-          "snippet": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K &nbsp;&nbsp; TradingView",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONHlJSGZIVVFSRzVIbmlHcDJxQmpfR1dGWVM1MHdiUjBPVUhfS254a2t6SHVhbThhSFIzYUthSVlZbEZ0elBQY1BfSTNpNzdQa1BjN0k2UlVYcUxDVnA0Y2FtbVdKRWpweEktMkZBZ0szbHp6emxlU3NCSklNbHpLNXlMZndNRWpfbk52ckx2U3IyN1lrNGtCSHp1MG5CUWg4eWpJY0JFQWZ4VmRCeWNKeXNFRGlONExuRTljUTd2RQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jekRmcUNZSDNkOVF6cUFsSm1DYTltaUczS3pyZVV2eFVpYmlTa2FGOHNzUkEzLWZqZEJSUlBCOTFBdjhjSXBoaEc3d3RxSUM0ZUVKRjYxR1diVVZSMTJJZzVRcHhab2RnM2lxUlg1eDh4WFJFR2c?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONHlJSGZIVVFSRzVIbmlHcDJxQmpfR1dGWVM1MHdiUjBPVUhfS254a2t6SHVhbThhSFIzYUthSVlZbEZ0elBQY1BfSTNpNzdQa1BjN0k2UlVYcUxDVnA0Y2FtbVdKRWpweEktMkZBZ0szbHp6emxlU3NCSklNbHpLNXlMZndNRWpfbk52ckx2U3IyN1lrNGtCSHp1MG5CUWg4eWpJY0JFQWZ4VmRCeWNKeXNFRGlONExuRTljUTd2RQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-36a7e9c3b593",
-      "original_title": "Bitcoin faces a new macro test as Fed Chair Kevin Warsh highlights sticky inflation metrics",
-      "published_at": "2026-08-29T17:16:33Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin faces a new macro test as Fed Chair Kevin Warsh highlights sticky inflation metrics",
-          "source": "CryptoRank",
-          "snippet": "Bitcoin faces a new macro test as Fed Chair Kevin Warsh highlights sticky inflation metrics &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFhwbXJ5bWpycW5CMWdQQUQ4cTNoNXdVNk1RQUR6MkhlQWE0d3RhWTBaejhEWTlvSzRiZGw4ckJtVDBNbkFDRWw2bVhCZ0xJWU5lQXFGUDN3V2ZpTFgyajlsUzF4V2dsTlBUdkZkVFVXTVc0WTlhYTVsd1g1WWEwTl9hQkw1bUp6ckNSTjJCWXlkSDEteWRUdkthbWt5RHNBU1JWbThFelpEU2RKdEwzZlVWME54MGw0cXE4S3BaWHBTWW9IRVk1LQ?oc=5"
-        },
-        {
-          "headline": "Bitcoin faces a new macro test as Fed Chair Kevin Warsh highlights sticky inflation metrics",
-          "source": "CryptoSlate",
-          "snippet": "Bitcoin faces a new macro test as Fed Chair Kevin Warsh highlights sticky inflation metrics &nbsp;&nbsp; CryptoSlate",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2dUcGhKeTJieEVLVlNVdTg1Wkx3dzJIcXo1UWJkNWRnajZISjZLSk1INlJvaEFScWlITHZJdzVtQ3NmbzJvVGFXYmFYbHoteEhydmQ2Tk5PYTlZeWRVckNlU1V3QW1sZ05HTTE1S0dJUldyY1J5YUNiMnlIRE1laWNreXBteExqWDU0aTZCcGx1dXlGWXZNUVBUQWFjWTd6SlJDS2VOdUM2Nk5ZWTNWa01BWmRHeHM?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFhwbXJ5bWpycW5CMWdQQUQ4cTNoNXdVNk1RQUR6MkhlQWE0d3RhWTBaejhEWTlvSzRiZGw4ckJtVDBNbkFDRWw2bVhCZ0xJWU5lQXFGUDN3V2ZpTFgyajlsUzF4V2dsTlBUdkZkVFVXTVc0WTlhYTVsd1g1WWEwTl9hQkw1bUp6ckNSTjJCWXlkSDEteWRUdkthbWt5RHNBU1JWbThFelpEU2RKdEwzZlVWME54MGw0cXE4S3BaWHBTWW9IRVk1LQ?oc=5"
-        },
-        {
-          "name": "CryptoSlate",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2dUcGhKeTJieEVLVlNVdTg1Wkx3dzJIcXo1UWJkNWRnajZISjZLSk1INlJvaEFScWlITHZJdzVtQ3NmbzJvVGFXYmFYbHoteEhydmQ2Tk5PYTlZeWRVckNlU1V3QW1sZ05HTTE1S0dJUldyY1J5YUNiMnlIRE1laWNreXBteExqWDU0aTZCcGx1dXlGWXZNUVBUQWFjWTd6SlJDS2VOdUM2Nk5ZWTNWa01BWmRHeHM?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-a8e278348380",
-      "original_title": "September rate hike odds spike after Fed chair speech",
-      "published_at": "2026-08-29T16:57:55Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "September rate hike odds spike after Fed chair speech",
-          "source": "Kalshi News",
-          "snippet": "September rate hike odds spike after Fed chair speech &nbsp;&nbsp; Kalshi News",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXlfNkRfMU1fZExlT2RTaWZhRnlKdVhHX0V5T19LVWU1dF9zQjg1VlhxM2xlNUNUdGZBNkZORUV6dG04R0JZVXJfYy05VGdhTlNBXzBESlc5bjhrNFMwU1VFeGwyUzJVNlZQdXJyQXpocVFzSTRhU19VQjhLeEJjUmRIU2V3Zw?oc=5"
-        },
-        {
-          "headline": "Kevin Warsh Jackson Hole Speech Raises Odds of September Fed Rate Hike",
-          "source": "finchannel",
-          "snippet": "Kevin Warsh Jackson Hole Speech Raises Odds of September Fed Rate Hike &nbsp;&nbsp; finchannel",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUjkxYlFER3JRRlBRejBHT1Z2WkUzZWZWV3FHdHItZ3pjUFZGVjB1VkNMOFRwUDlZVjBJOHVWTzdDaF9TUlRVMU13YkpRSFdZY0d1THlnQzRveDJiNDFMbFlDV2xNUWZXU3lrbVZYSzhwWmFQdTNzdHQ5aTFnWXFJdDhFRDNPRTRTOEtzUVA2eUtkNEVfMnNHNE1vTURUck1FTTVqaTM0Mm1tNzc1dGJrdi1pZFlnMmk0S1E?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Kalshi News",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXlfNkRfMU1fZExlT2RTaWZhRnlKdVhHX0V5T19LVWU1dF9zQjg1VlhxM2xlNUNUdGZBNkZORUV6dG04R0JZVXJfYy05VGdhTlNBXzBESlc5bjhrNFMwU1VFeGwyUzJVNlZQdXJyQXpocVFzSTRhU19VQjhLeEJjUmRIU2V3Zw?oc=5"
-        },
-        {
-          "name": "finchannel",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUjkxYlFER3JRRlBRejBHT1Z2WkUzZWZWV3FHdHItZ3pjUFZGVjB1VkNMOFRwUDlZVjBJOHVWTzdDaF9TUlRVMU13YkpRSFdZY0d1THlnQzRveDJiNDFMbFlDV2xNUWZXU3lrbVZYSzhwWmFQdTNzdHQ5aTFnWXFJdDhFRDNPRTRTOEtzUVA2eUtkNEVfMnNHNE1vTURUck1FTTVqaTM0Mm1tNzc1dGJrdi1pZFlnMmk0S1E?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-70f70a04b14f",
-      "original_title": "Fed rate hike odds spike after Warsh's Jackson Hole speech",
-      "published_at": "2026-08-29T16:18:04Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Fed rate hike odds spike after Warsh's Jackson Hole speech",
-          "source": "Kalshi News",
-          "snippet": "Fed rate hike odds spike after Warsh's Jackson Hole speech &nbsp;&nbsp; Kalshi News",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXlfNkRfMU1fZExlT2RTaWZhRnlKdVhHX0V5T19LVWU1dF9zQjg1VlhxM2xlNUNUdGZBNkZORUV6dG04R0JZVXJfYy05VGdhTlNBXzBESlc5bjhrNFMwU1VFeGwyUzJVNlZQdXJyQXpocVFzSTRhU19VQjhLeEJjUmRIU2V3Zw?oc=5"
-        },
-        {
-          "headline": "Kevin Warsh Jackson Hole Speech Raises Odds of September Fed Rate Hike",
-          "source": "finchannel",
-          "snippet": "Kevin Warsh Jackson Hole Speech Raises Odds of September Fed Rate Hike &nbsp;&nbsp; finchannel",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUjkxYlFER3JRRlBRejBHT1Z2WkUzZWZWV3FHdHItZ3pjUFZGVjB1VkNMOFRwUDlZVjBJOHVWTzdDaF9TUlRVMU13YkpRSFdZY0d1THlnQzRveDJiNDFMbFlDV2xNUWZXU3lrbVZYSzhwWmFQdTNzdHQ5aTFnWXFJdDhFRDNPRTRTOEtzUVA2eUtkNEVfMnNHNE1vTURUck1FTTVqaTM0Mm1tNzc1dGJrdi1pZFlnMmk0S1E?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Kalshi News",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXlfNkRfMU1fZExlT2RTaWZhRnlKdVhHX0V5T19LVWU1dF9zQjg1VlhxM2xlNUNUdGZBNkZORUV6dG04R0JZVXJfYy05VGdhTlNBXzBESlc5bjhrNFMwU1VFeGwyUzJVNlZQdXJyQXpocVFzSTRhU19VQjhLeEJjUmRIU2V3Zw?oc=5"
-        },
-        {
-          "name": "finchannel",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUjkxYlFER3JRRlBRejBHT1Z2WkUzZWZWV3FHdHItZ3pjUFZGVjB1VkNMOFRwUDlZVjBJOHVWTzdDaF9TUlRVMU13YkpRSFdZY0d1THlnQzRveDJiNDFMbFlDV2xNUWZXU3lrbVZYSzhwWmFQdTNzdHQ5aTFnWXFJdDhFRDNPRTRTOEtzUVA2eUtkNEVfMnNHNE1vTURUck1FTTVqaTM0Mm1tNzc1dGJrdi1pZFlnMmk0S1E?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-b95676ac2f5c",
-      "original_title": "FBI, 성매매 이력 관련 채용 규정 완화 – AP 새로운 지침에 따라, 과거 성매매 경험이 있다고 해서 지원자가 자동으로 불이익을 받는 일은 더 이상 없을 것입니다. FBI는 상황에 따라 판단할 것이며, 최근의 반복적인 사례나 신뢰를 저버린 행위는 채용 거부의 사유가 될 수 있다고 밝혔습니다.",
-      "published_at": "2026-08-29T16:07:47Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "FBI, 성매매 이력 관련 채용 규정 완화 – AP 새로운 지침에 따라, 과거 성매매 경험이 있다고 해서 지원자가 자동으로 불이익을 받는 일은 더 이상 없을 것입니다. FBI는 상황에 따라 판단할 것이며, 최근의 반복적인 사례나 신뢰를 저버린 행위는 채용 거부의 사유가 될 수 있다고 밝혔습니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "FBI, 성매매 이력 관련 채용 규정 완화 – AP 새로운 지침에 따라, 과거 성매매 경험이 있다고 해서 지원자가 자동으로 불이익을 받는 일은 더 이상 없을 것입니다. FBI는 상황에 따라 판단할 것이며, 최근의 반복적인 사례나 신뢰를 저버린 행위는 채용 거부의 사유가 될 수 있다고 밝혔습니다.",
-          "url": "https://t.me/goddessTTF/83329"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/83329"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-96ab5101a1ea",
-      "original_title": "Fed Rate-Hike Odds Jump to 58% as Bitcoin Falls Below $78K and Gold Drops 3%",
-      "published_at": "2026-08-29T15:36:13Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Fed Rate-Hike Odds Jump to 58% as Bitcoin Falls Below $78K and Gold Drops 3%",
-          "source": "Binance",
-          "snippet": "Fed Rate-Hike Odds Jump to 58% as Bitcoin Falls Below $78K and Gold Drops 3% &nbsp;&nbsp; Binance",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zNlIzZjB5MFRjWl83aDJSbWhTdTV1M0hRVVZIcXdabmZ6Y2xTZFM2b3EzN3QxTGxNeS1nd3Bqcm1hS3Bqc25qNUxsN2VzVFFhTGQ5cEhoTm5uS1hnZk1tcnhIOGs?oc=5"
-        },
-        {
-          "headline": "Bitcoin Falls Below $78K as Fed Hike Odds Jump to 56%: What Experts Say",
-          "source": "The Crypto Times",
-          "snippet": "Bitcoin Falls Below $78K as Fed Hike Odds Jump to 56%: What Experts Say &nbsp;&nbsp; The Crypto Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDI4NG85M3dOaW5EZDRLNzhrcXgzVWZrXzFvZlA2OXZuTGxzczJhakJxV3pNUk10VFlXUGF1MVBEcU1vV3RhRHA1OVpLS3VGbjlIcTBpNzlWQWJCTmMxZGFEVE5zTHRDdFdfUzhzNkItNlhrbU9qd2NxZS1IbHFmSXBNSlZpQVBvY3c3QVl2NWZsMDJmdHdXQW50Ym45X2Q1OGR2UUhBSE9qM1k?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Binance",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zNlIzZjB5MFRjWl83aDJSbWhTdTV1M0hRVVZIcXdabmZ6Y2xTZFM2b3EzN3QxTGxNeS1nd3Bqcm1hS3Bqc25qNUxsN2VzVFFhTGQ5cEhoTm5uS1hnZk1tcnhIOGs?oc=5"
-        },
-        {
-          "name": "The Crypto Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDI4NG85M3dOaW5EZDRLNzhrcXgzVWZrXzFvZlA2OXZuTGxzczJhakJxV3pNUk10VFlXUGF1MVBEcU1vV3RhRHA1OVpLS3VGbjlIcTBpNzlWQWJCTmMxZGFEVE5zTHRDdFdfUzhzNkItNlhrbU9qd2NxZS1IbHFmSXBNSlZpQVBvY3c3QVl2NWZsMDJmdHdXQW50Ym45X2Q1OGR2UUhBSE9qM1k?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-c2016932473b",
-      "original_title": "US Secures 65 Billion Barrels of Venezuelan Oil: Could This Be Bullish for Bitcoin?",
-      "published_at": "2026-08-29T15:13:10Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "US Secures 65 Billion Barrels of Venezuelan Oil: Could This Be Bullish for Bitcoin?",
-          "source": "Cryptonews.net",
-          "snippet": "US Secures 65 Billion Barrels of Venezuelan Oil: Could This Be Bullish for Bitcoin? &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rdk8yLVgtWG1TQzZkckFPekJFSm5RcTdjYVFzVHZFT2ZQYVJvRUs2OTZXQ0dQZDlXY3BmdWRmSzFWd0p6SnJUYV9FemFrd2V3bzJoc1NfZG8?oc=5"
-        },
-        {
-          "headline": "US Secures 65 Billion Barrels of Venezuelan Oil: Could This Be Bullish for Bitcoin?",
-          "source": "CryptoRank",
-          "snippet": "US Secures 65 Billion Barrels of Venezuelan Oil: Could This Be Bullish for Bitcoin? &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSE5GY1dzY0Naa2sxb1hZRWJwdkxpMzVTbVlhdGY4S1JnY2hYc3FIUXNseEExdjVxLVNFVmJpOGJLVU02Sl9mZmRqakRZOTZnUXBqYTlIeUNVNlBXbDVYSVZRcjVRVnlwWDlOUExUbkRvQnJUcEZ0Y0N1ZWlLOEdHUHptd2NnYWoxOTFHWS05cHN6Y2xnbkNFa3VsRFNsQjdpN3pOYldKNkVVLWNUZGp6TmM4TVg1ZlRjTk5R?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rdk8yLVgtWG1TQzZkckFPekJFSm5RcTdjYVFzVHZFT2ZQYVJvRUs2OTZXQ0dQZDlXY3BmdWRmSzFWd0p6SnJUYV9FemFrd2V3bzJoc1NfZG8?oc=5"
-        },
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSE5GY1dzY0Naa2sxb1hZRWJwdkxpMzVTbVlhdGY4S1JnY2hYc3FIUXNseEExdjVxLVNFVmJpOGJLVU02Sl9mZmRqakRZOTZnUXBqYTlIeUNVNlBXbDVYSVZRcjVRVnlwWDlOUExUbkRvQnJUcEZ0Y0N1ZWlLOEdHUHptd2NnYWoxOTFHWS05cHN6Y2xnbkNFa3VsRFNsQjdpN3pOYldKNkVVLWNUZGp6TmM4TVg1ZlRjTk5R?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-cc1437d3393f",
-      "original_title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
-      "published_at": "2026-08-29T15:00:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-17afb7e66c41",
-      "original_title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
-      "published_at": "2026-08-29T15:00:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-1c9e74e939f6",
-      "original_title": "Crypto Fundamental Analysis: Jackson Hole's Hawkish Tone Puts Pressure on the Market",
-      "published_at": "2026-08-29T14:14:07Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Crypto Fundamental Analysis: Jackson Hole's Hawkish Tone Puts Pressure on the Market",
-          "source": "FOREX.com",
-          "snippet": "Crypto Fundamental Analysis: Jackson Hole's Hawkish Tone Puts Pressure on the Market &nbsp;&nbsp; FOREX.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlJCYmxlRDUtVUZuWnNwcHRyMGt3Ym53QjB5R09sNnlDX3p1M0hHT1hsTUkzWkRxNWtaclN0MnRPZnd0M1RvSGp5aEJsb3QtNDljTlV0RWoxVlpxUldfZXJNZlVGTUxMdmpwSlBSQXFRMnNqcVlOMDVyVnlnYXdCZ0plU05ka2lZcFVFU2ZCUFJYODdqRzRSMXIxV2ZjRXl1MDR1MURwclFJdUE1ZDFtREw4SWFtWUlTNjZ1U2FQaVlabVB6ZXBBYU83SDhaV1dSd0k4UdIB1AFBVV95cUxNSlJCYmxlRDUtVUZuWnNwcHRyMGt3Ym53QjB5R09sNnlDX3p1M0hHT1hsTUkzWkRxNWtaclN0MnRPZnd0M1RvSGp5aEJsb3QtNDljTlV0RWoxVlpxUldfZXJNZlVGTUxMdmpwSlBSQXFRMnNqcVlOMDVyVnlnYXdCZ0plU05ka2lZcFVFU2ZCUFJYODdqRzRSMXIxV2ZjRXl1MDR1MURwclFJdUE1ZDFtREw4SWFtWUlTNjZ1U2FQaVlabVB6ZXBBYU83SDhaV1dSd0k4UQ?oc=5"
-        },
-        {
-          "headline": "Crypto Fundamental Analysis Jackson Holes Hawkish Tone Puts Pressure on the Market",
-          "source": "stonex.com",
-          "snippet": "Crypto Fundamental Analysis Jackson Holes Hawkish Tone Puts Pressure on the Market &nbsp;&nbsp; stonex.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQndaWndTQ3ZwYzVqZjJhc2NVUEpyMHg4c3ZMX0MwWFU0QzBUOEhaMW1vRVNHTk9wTGZRVG1XbGNIcFZCcVlVRm5OTzJBYUxYOXZ5RndHNEVJTjBnM0ZFNElkbGdJYjZfMEhncWJUbTFBWHQzVS1UX1MtME00ZkEyZTdwd0k0c3BBSlNJdDlQWm5lbEtkVU0zOEJNS3d0YWVYMVlFeHpfTFlLX3FJd2VfWW1pZFdMT1R5VHB1dE5QVUh0bTBtZHJzUWNB?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FOREX.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlJCYmxlRDUtVUZuWnNwcHRyMGt3Ym53QjB5R09sNnlDX3p1M0hHT1hsTUkzWkRxNWtaclN0MnRPZnd0M1RvSGp5aEJsb3QtNDljTlV0RWoxVlpxUldfZXJNZlVGTUxMdmpwSlBSQXFRMnNqcVlOMDVyVnlnYXdCZ0plU05ka2lZcFVFU2ZCUFJYODdqRzRSMXIxV2ZjRXl1MDR1MURwclFJdUE1ZDFtREw4SWFtWUlTNjZ1U2FQaVlabVB6ZXBBYU83SDhaV1dSd0k4UdIB1AFBVV95cUxNSlJCYmxlRDUtVUZuWnNwcHRyMGt3Ym53QjB5R09sNnlDX3p1M0hHT1hsTUkzWkRxNWtaclN0MnRPZnd0M1RvSGp5aEJsb3QtNDljTlV0RWoxVlpxUldfZXJNZlVGTUxMdmpwSlBSQXFRMnNqcVlOMDVyVnlnYXdCZ0plU05ka2lZcFVFU2ZCUFJYODdqRzRSMXIxV2ZjRXl1MDR1MURwclFJdUE1ZDFtREw4SWFtWUlTNjZ1U2FQaVlabVB6ZXBBYU83SDhaV1dSd0k4UQ?oc=5"
-        },
-        {
-          "name": "stonex.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQndaWndTQ3ZwYzVqZjJhc2NVUEpyMHg4c3ZMX0MwWFU0QzBUOEhaMW1vRVNHTk9wTGZRVG1XbGNIcFZCcVlVRm5OTzJBYUxYOXZ5RndHNEVJTjBnM0ZFNElkbGdJYjZfMEhncWJUbTFBWHQzVS1UX1MtME00ZkEyZTdwd0k0c3BBSlNJdDlQWm5lbEtkVU0zOEJNS3d0YWVYMVlFeHpfTFlLX3FJd2VfWW1pZFdMT1R5VHB1dE5QVUh0bTBtZHJzUWNB?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-cd6009d5f3e1",
-      "original_title": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news",
-      "published_at": "2026-08-29T14:02:13Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news",
-          "source": "WHEC.com",
-          "snippet": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news &nbsp;&nbsp; WHEC.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVlRTWR6TFdxS3JRUk14bmllT2tGZFlpT1RNRGlzUWNKNjJnSVJ0bUcxODlBTlI5TzNaQi1IblA0aXJqTVQwVDVqMGQzcEN5ejBCOVcyeTJqb2x0X1RCaTZjQkhScUxIakV1SVN1Qkl4bVZZbkI2SUU3MUlSeU5LaEFtQ2R4bWN5TXo3azBHbzRTOThwQUN1ejFZdFJ0R1p1UmZ3RXlleFlRUDFHcExxVTFyNWZlTmZMOVl0MjFnSFNVSTMxUlFoaFdPZ2tHZw?oc=5"
-        },
-        {
-          "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news",
-          "source": "CoastTV",
-          "snippet": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news &nbsp;&nbsp; CoastTV",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbnRYbkEycFl6RS1Qc19CeElMTTVzbUhWdGEwazFtNDhiWThWSGpwNDhBZGhLckpCREE5dUdGT1A2M1NRM0tOeGhWNHFKN29Xa1V1eWVNUFkxNEtfbjdyZFpOS1R0WmllMjNicjdBREo1UEsxSHg0OTdXYjV6M1BGQ1IyUWtOR0xPZzNQQzd4SFp5TWdXaXl4RUwydjJ4RVVaTl9KUWh4Q3N6ZWh0QXJvVllORG1oQ2hpVTN4ZGZFS3hsaHRJbHM5Tkpfd0lfdTJkZXhsbWJnNmVrOTFqTDcyajBwYXVtMkhGLTVfa3dGQk5tTExkTE1zeURLSU45cG52VFdIYmZR?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "WHEC.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVlRTWR6TFdxS3JRUk14bmllT2tGZFlpT1RNRGlzUWNKNjJnSVJ0bUcxODlBTlI5TzNaQi1IblA0aXJqTVQwVDVqMGQzcEN5ejBCOVcyeTJqb2x0X1RCaTZjQkhScUxIakV1SVN1Qkl4bVZZbkI2SUU3MUlSeU5LaEFtQ2R4bWN5TXo3azBHbzRTOThwQUN1ejFZdFJ0R1p1UmZ3RXlleFlRUDFHcExxVTFyNWZlTmZMOVl0MjFnSFNVSTMxUlFoaFdPZ2tHZw?oc=5"
-        },
-        {
-          "name": "CoastTV",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbnRYbkEycFl6RS1Qc19CeElMTTVzbUhWdGEwazFtNDhiWThWSGpwNDhBZGhLckpCREE5dUdGT1A2M1NRM0tOeGhWNHFKN29Xa1V1eWVNUFkxNEtfbjdyZFpOS1R0WmllMjNicjdBREo1UEsxSHg0OTdXYjV6M1BGQ1IyUWtOR0xPZzNQQzd4SFp5TWdXaXl4RUwydjJ4RVVaTl9KUWh4Q3N6ZWh0QXJvVllORG1oQ2hpVTN4ZGZFS3hsaHRJbHM5Tkpfd0lfdTJkZXhsbWJnNmVrOTFqTDcyajBwYXVtMkhGLTVfa3dGQk5tTExkTE1zeURLSU45cG52VFdIYmZR?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-e6e685a80e71",
-      "original_title": "Tokenized assets are busier than the data shows",
-      "published_at": "2026-08-29T13:00:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Tokenized assets are busier than the data shows",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-a029c78faca8",
-      "original_title": "Warsh Sets Inflation Test Ahead of September Fed Meeting",
-      "published_at": "2026-08-29T12:37:06Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Warsh Sets Inflation Test Ahead of September Fed Meeting",
-          "source": "findarticles.com",
-          "snippet": "Warsh Sets Inflation Test Ahead of September Fed Meeting &nbsp;&nbsp; findarticles.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WNU5mQkJuckprVHMzWWltRWFISzJLRC1JUWVpS3FENkdMSzNwV2hMay1kSXBYLVRLNHFPMDlfSFFpZld1YjNObnd0YjVpdUZUZnlCam9iaWF4T1hrQjg2Z1FDbmZXbE9tLUlQMVN3eG16VnNKNWc4M21kdXXSAYQBQVVfeXFMT0FVeC1ueGVTX3l1YkhXZDRwMzNRNzVYV09vT2dUSDVVZUs4R0dpMmNkY0xWc0E4NGcyLWU3ZUU2TXJxRGlQOTJIczZrQ1o1RzQxNmoyZ0VETGpBdXNWenB3RUtfZ2UzN29BcHFfdlVxcV9OVGJ0LVBsR1kyaV9feS1RdFJm?oc=5"
-        },
-        {
-          "headline": "Warsh’s inflation warning sets up September showdown for the Fed",
-          "source": "The Business Times",
-          "snippet": "Warsh’s inflation warning sets up September showdown for the Fed &nbsp;&nbsp; The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVm1jRXh3NXlCOXl6ekt2bVBUVURkOVppTGxjNUEwcXdvSndmdmN3VjVSTWVDX1dOOW9FV0w0cUR5MWowdi12RmJoVE5VMHJRb2NmdHVIdHU0Sk9CbEtLcFEybUF2VDdHeE9UQzFyZUwwOGNBTlk5Nzc0S2JIX3JPWldOcWRLamlXdzE5am9BZTVicXhibXZkRmFsd1VWdDdJRzMtX25saVBqR201YU11NHNfaUZTTGpwSERN?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "findarticles.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WNU5mQkJuckprVHMzWWltRWFISzJLRC1JUWVpS3FENkdMSzNwV2hMay1kSXBYLVRLNHFPMDlfSFFpZld1YjNObnd0YjVpdUZUZnlCam9iaWF4T1hrQjg2Z1FDbmZXbE9tLUlQMVN3eG16VnNKNWc4M21kdXXSAYQBQVVfeXFMT0FVeC1ueGVTX3l1YkhXZDRwMzNRNzVYV09vT2dUSDVVZUs4R0dpMmNkY0xWc0E4NGcyLWU3ZUU2TXJxRGlQOTJIczZrQ1o1RzQxNmoyZ0VETGpBdXNWenB3RUtfZ2UzN29BcHFfdlVxcV9OVGJ0LVBsR1kyaV9feS1RdFJm?oc=5"
-        },
-        {
-          "name": "The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVm1jRXh3NXlCOXl6ekt2bVBUVURkOVppTGxjNUEwcXdvSndmdmN3VjVSTWVDX1dOOW9FV0w0cUR5MWowdi12RmJoVE5VMHJRb2NmdHVIdHU0Sk9CbEtLcFEybUF2VDdHeE9UQzFyZUwwOGNBTlk5Nzc0S2JIX3JPWldOcWRLamlXdzE5am9BZTVicXhibXZkRmFsd1VWdDdJRzMtX25saVBqR201YU11NHNfaUZTTGpwSERN?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-de2929e13143",
-      "original_title": "How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions",
-      "published_at": "2026-08-29T12:26:49Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions",
-          "source": "EnergyNow",
-          "snippet": "How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions &nbsp;&nbsp; EnergyNow",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGlQNmpCMlQtd3hVb2VnR2ZtTHg2NzR1bHdfMWtMQ2J5akhxaUZhekxKOUs3S0xBQUJVelZrVkJjVzRVWFdqbDVYV2J1SGxwM2xQa20wdW9DbzJ0WVBpemEyNWVrc2xnb3B5SFNvN1d3bFNUTlVCbERvVlFFWlRnYzUweHB1RUZqQWNwbWNpZFptZE4xdjZ5aThjMV9TLVdUWi02Tg?oc=5"
-        },
-        {
-          "headline": "How the Iran War Is Disrupting Global Oil and Gas Supply",
-          "source": "EnergyNow.com",
-          "snippet": "How the Iran War Is Disrupting Global Oil and Gas Supply &nbsp;&nbsp; EnergyNow.com",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR29RUm5jb3E5SjlCOE1kS0lVY3lmVlpMWkFxUUdfTHNUUkJUNDlwbFVLeXN1RDcwRE5oNVI0NW9XVzFjaWdobF9Dalo4SWUzbk91V3M5aEhxUm1KSzNUbDc5SzlhdE5TalZTWGxiTVhzVFJUY3BZRXNrbDZBTWtqdENiNGRRZUpfc0ZpdWZCV0I?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "EnergyNow",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGlQNmpCMlQtd3hVb2VnR2ZtTHg2NzR1bHdfMWtMQ2J5akhxaUZhekxKOUs3S0xBQUJVelZrVkJjVzRVWFdqbDVYV2J1SGxwM2xQa20wdW9DbzJ0WVBpemEyNWVrc2xnb3B5SFNvN1d3bFNUTlVCbERvVlFFWlRnYzUweHB1RUZqQWNwbWNpZFptZE4xdjZ5aThjMV9TLVdUWi02Tg?oc=5"
-        },
-        {
-          "name": "EnergyNow.com",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR29RUm5jb3E5SjlCOE1kS0lVY3lmVlpMWkFxUUdfTHNUUkJUNDlwbFVLeXN1RDcwRE5oNVI0NW9XVzFjaWdobF9Dalo4SWUzbk91V3M5aEhxUm1KSzNUbDc5SzlhdE5TalZTWGxiTVhzVFJUY3BZRXNrbDZBTWtqdENiNGRRZUpfc0ZpdWZCV0I?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-f7ae825bffe5",
-      "original_title": "Bitcoin Falls Below $78,000 Following Fed Chair’s Speech",
-      "published_at": "2026-08-29T12:03:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin Falls Below $78,000 Following Fed Chair’s Speech",
-          "source": "ForkLog",
-          "snippet": "Bitcoin Falls Below $78,000 Following Fed Chair’s Speech &nbsp;&nbsp; ForkLog",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3RvcGE1cFZMWDAxUmo4TnNiUWgxMG5FWkNmZ0JTZUVFUlk5RjhQYkxFNnJwd21UVWM2a01IQzBZUjNobWc2WGlYSnpIUURHQXhvdnZJdTU0NVZkbWlkd0UwWXVUTXA1MVNwV2FtOTdQTFc3UkhoQkFPeVFwTTN5Y1ZBNA?oc=5"
-        },
-        {
-          "headline": "Bitcoin falls back below $80,000 after Fed Chair Warsh vows to tame inflation",
-          "source": "헤럴드경제",
-          "snippet": "Bitcoin falls back below $80,000 after Fed Chair Warsh vows to tame inflation &nbsp;&nbsp; 헤럴드경제",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tVG9xRnhEMm9NcU9ONHFLbzJ0SUpQLWxNWndQcnc2RlRLWFZlOE13bUY1SGRfZmFiZGltSERGaERUc1hSWjhkZ2pHUmpSM3pYVmd5M3YyUQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "ForkLog",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3RvcGE1cFZMWDAxUmo4TnNiUWgxMG5FWkNmZ0JTZUVFUlk5RjhQYkxFNnJwd21UVWM2a01IQzBZUjNobWc2WGlYSnpIUURHQXhvdnZJdTU0NVZkbWlkd0UwWXVUTXA1MVNwV2FtOTdQTFc3UkhoQkFPeVFwTTN5Y1ZBNA?oc=5"
-        },
-        {
-          "name": "헤럴드경제",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tVG9xRnhEMm9NcU9ONHFLbzJ0SUpQLWxNWndQcnc2RlRLWFZlOE13bUY1SGRfZmFiZGltSERGaERUc1hSWjhkZ2pHUmpSM3pYVmd5M3YyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-e486a6644e2a",
-      "original_title": "이란 외무장관 아라치: 정보에 따르면 \"에너지 시장을 조작하려는 대규모 노력이 진행 중\" \"미국 정부의 일부 세력이 순진한 언론을 이용하여 개인적인 이익을 위해 가격에 영향을 미치고 있습니다.\"",
-      "published_at": "2026-08-29T11:56:40Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "이란 외무장관 아라치: 정보에 따르면 \"에너지 시장을 조작하려는 대규모 노력이 진행 중\" \"미국 정부의 일부 세력이 순진한 언론을 이용하여 개인적인 이익을 위해 가격에 영향을 미치고 있습니다.\"",
-          "source": "Telegram @goddessTTF",
-          "snippet": "이란 외무장관 아라치: 정보에 따르면 \"에너지 시장을 조작하려는 대규모 노력이 진행 중\" \"미국 정부의 일부 세력이 순진한 언론을 이용하여 개인적인 이익을 위해 가격에 영향을 미치고 있습니다.\"",
-          "url": "https://t.me/goddessTTF/83320"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/83320"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-9b3f3a511942",
-      "original_title": "Why Bitcoin Crashed After Warsh’s Jackson Hole Speech – and What Happens Next",
-      "published_at": "2026-08-29T11:40:57Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Why Bitcoin Crashed After Warsh’s Jackson Hole Speech – and What Happens Next",
-          "source": "Bitget",
-          "snippet": "Why Bitcoin Crashed After Warsh’s Jackson Hole Speech – and What Happens Next &nbsp;&nbsp; Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHVGM5b24wSk1BTTFnaF9rSUxiYzlDVEp3Z3JWa0xId2pSa3RmU0FQUS1nSS1Qd19aM1JIdW1aRHNkT2d4QkI3OW16ZXpZOXFOclpidHZDMXh0WGVleFc0UFFBSdIBY0FVX3lxTFBHVGM5b24wSk1BTTFnaF9rSUxiYzlDVEp3Z3JWa0xId2pSa3RmU0FQUS1nSS1Qd19aM1JIdW1aRHNkT2d4QkI3OW16ZXpZOXFOclpidHZDMXh0WGVleFc0UFFBSQ?oc=5"
-        },
-        {
-          "headline": "Why Bitcoin Crashed After Warsh’s Jackson Hole Speech – and What Happens Next",
-          "source": "CryptoRank",
-          "snippet": "Why Bitcoin Crashed After Warsh’s Jackson Hole Speech – and What Happens Next &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0lEOGtkcFo4QXpyREczVmtYTWw3aTJWUUdoLWlPOEw4WXZuNTlIZWdIM2k2UTZWTlBYdkZsY2x5QnJxZDRiMF9UM3dvdTZudlVZX2RITVpQcGxPejJiVzg2WWJjYmJCUVhJT2Y0bnBsZTVoWUl1N0tXZWRPa25lY291RzhJYktoSWxBSE9odWExRlJ2NnMyVkctRnpLaFBsLVU1aDlFaVZBMTA3Y0dtZVFR?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHVGM5b24wSk1BTTFnaF9rSUxiYzlDVEp3Z3JWa0xId2pSa3RmU0FQUS1nSS1Qd19aM1JIdW1aRHNkT2d4QkI3OW16ZXpZOXFOclpidHZDMXh0WGVleFc0UFFBSdIBY0FVX3lxTFBHVGM5b24wSk1BTTFnaF9rSUxiYzlDVEp3Z3JWa0xId2pSa3RmU0FQUS1nSS1Qd19aM1JIdW1aRHNkT2d4QkI3OW16ZXpZOXFOclpidHZDMXh0WGVleFc0UFFBSQ?oc=5"
-        },
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0lEOGtkcFo4QXpyREczVmtYTWw3aTJWUUdoLWlPOEw4WXZuNTlIZWdIM2k2UTZWTlBYdkZsY2x5QnJxZDRiMF9UM3dvdTZudlVZX2RITVpQcGxPejJiVzg2WWJjYmJCUVhJT2Y0bnBsZTVoWUl1N0tXZWRPa25lY291RzhJYktoSWxBSE9odWExRlJ2NnMyVkctRnpLaFBsLVU1aDlFaVZBMTA3Y0dtZVFR?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-ed51ddd1811b",
-      "original_title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
-      "published_at": "2026-08-29T11:09:04Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
-          "source": "Cryptonews.net",
-          "snippet": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56Q3dqaFRfSnZzanY2bGVwVV81OVBmSVl4c0hNRk1lLUN4M0x2LVFrc3BSdXBIWmJnck5qaFRUUmdUc1U5Q1FfVnVoNm95ZHd5Yk9McUJnTDQ?oc=5"
-        },
-        {
-          "headline": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56Q3dqaFRfSnZzanY2bGVwVV81OVBmSVl4c0hNRk1lLUN4M0x2LVFrc3BSdXBIWmJnck5qaFRUUmdUc1U5Q1FfVnVoNm95ZHd5Yk9McUJnTDQ?oc=5"
-        },
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-93d710b34bad",
-      "original_title": "워시 잭슨홀 매파 발언, QE 기대 꺾였다…그래도 비트코인에 달러가 몰리는 이유",
-      "published_at": "2026-08-29T09:52:52Z",
-      "discovery_source": "youtube",
-      "evidence": [
-        {
-          "headline": "워시 잭슨홀 매파 발언, QE 기대 꺾였다…그래도 비트코인에 달러가 몰리는 이유",
-          "source": "YouTube @새벽에온주호",
-          "snippet": "케빈 워시 연준 의장이 잭슨홀에서 매파적 통화정책 원칙을 꺼냈습니다. QE 기대에는 선을 그었고, 시장은 즉각 긴축 가능성을 반영했습니다. 그런데 지금 코인시장에는 2022년과 다른 돈의 입구가 생기고 있습니다. 현물 ETF와 스테이블코인이 만드는 새로운 달러 유입 경로를 살펴봅니다. 다음 비트코인·알트코인 사이클의 돈은 어디서 들어올까요? #비트코인 #미국연준 #잭슨홀 #미국금리 #양적완화 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
-          "url": "https://www.youtube.com/watch?v=n7F4-d1mngs"
-        }
-      ],
-      "sources": [
-        {
-          "name": "YouTube @새벽에온주호",
-          "url": "https://www.youtube.com/watch?v=n7F4-d1mngs"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-4da9e7e6ba0e",
-      "original_title": "Crypto News: Grayscale Warns U.S. Debt Crisis Could Push Investors Toward BTC, ETH, and ZEC",
-      "published_at": "2026-08-29T09:38:23Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Crypto News: Grayscale Warns U.S. Debt Crisis Could Push Investors Toward BTC, ETH, and ZEC",
-          "source": "CryptoRank",
-          "snippet": "Crypto News: Grayscale Warns U.S. Debt Crisis Could Push Investors Toward BTC, ETH, and ZEC &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFpPcC1Pa0RSekE3M1lIVTZVTkFYWU5mNGhTVW1VcWNLWXZwUW1iUEJnc1JUemd3aFpuTXluaGplQWcxM1lFM2JWWFFzT0padWIzTnloZG9DaGRScGhKNXRudUdLS0xObXljd3c3M21sUGpnSzJmUmJiczgzVWNrY2pUc3FCZXk5WVFHX05pRTRCWkhSZ0lzQkgzSlNiakFqZWlwNDlIcnZMc1NzOGVia1djSDJGem80S3o4eXU2Zy0xeVk?oc=5"
-        },
-        {
-          "headline": "Crypto News: Grayscale Warns U.S. Debt Crisis Could Push Investors Toward BTC, ETH, and ZEC",
-          "source": "The Coin Republic",
-          "snippet": "Crypto News: Grayscale Warns U.S. Debt Crisis Could Push Investors Toward BTC, ETH, and ZEC &nbsp;&nbsp; The Coin Republic",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVRoOEx1LUJXdlJETUtjaTVsR3ZHT0JTZGtiT3hfZm9RV0FFLTlDR3diaVF0UUd5SGF3X19PYU9ia2pFVkxYT3c5MTBmNl9OLUpxNG5WOXJiM2YtUkkxOWF0dTZzc0QxUzAtTVNYRm9sek1CNmRweVZQU1JGM2U3NlR4S2Q4QUh4S2FpeGliaG5mOUZMdW5jZHZsY2I1d3pCLWEtYWQ3YkE0WTZFTzFnRTNZZjlpTUhHYnJRalVUSG83QTFLd1RZM3o2ONIB0AFBVV95cUxPdVVHeTM4YW9OWG5KWTZobDdpZy1LblB5WUxMOVRoU3JyNEtMREVKdkQ4S1lydlhZeUMwTmF6NlBZUzlGOWNFdzRqc3E4c1g1Y255ZllidWZjVF9FZHV6VWE0dWUwekdacGJSTE5RUUpueWNPOHc0WmFZeGV6Q1pITHM0MVluRy04ZjZRTE9tTTMyRlI0ZzI5dDZFaF9fZVNaRU1wRThWWHlDUzBvdkdkSFpqNzJJdkpTRUVkaGdnaXBybldtYTJJdTFIdzhjZGZB?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFpPcC1Pa0RSekE3M1lIVTZVTkFYWU5mNGhTVW1VcWNLWXZwUW1iUEJnc1JUemd3aFpuTXluaGplQWcxM1lFM2JWWFFzT0padWIzTnloZG9DaGRScGhKNXRudUdLS0xObXljd3c3M21sUGpnSzJmUmJiczgzVWNrY2pUc3FCZXk5WVFHX05pRTRCWkhSZ0lzQkgzSlNiakFqZWlwNDlIcnZMc1NzOGVia1djSDJGem80S3o4eXU2Zy0xeVk?oc=5"
-        },
-        {
-          "name": "The Coin Republic",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVRoOEx1LUJXdlJETUtjaTVsR3ZHT0JTZGtiT3hfZm9RV0FFLTlDR3diaVF0UUd5SGF3X19PYU9ia2pFVkxYT3c5MTBmNl9OLUpxNG5WOXJiM2YtUkkxOWF0dTZzc0QxUzAtTVNYRm9sek1CNmRweVZQU1JGM2U3NlR4S2Q4QUh4S2FpeGliaG5mOUZMdW5jZHZsY2I1d3pCLWEtYWQ3YkE0WTZFTzFnRTNZZjlpTUhHYnJRalVUSG83QTFLd1RZM3o2ONIB0AFBVV95cUxPdVVHeTM4YW9OWG5KWTZobDdpZy1LblB5WUxMOVRoU3JyNEtMREVKdkQ4S1lydlhZeUMwTmF6NlBZUzlGOWNFdzRqc3E4c1g1Y255ZllidWZjVF9FZHV6VWE0dWUwekdacGJSTE5RUUpueWNPOHc0WmFZeGV6Q1pITHM0MVluRy04ZjZRTE9tTTMyRlI0ZzI5dDZFaF9fZVNaRU1wRThWWHlDUzBvdkdkSFpqNzJJdkpTRUVkaGdnaXBybldtYTJJdTFIdzhjZGZB?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-3bf750dd7b9a",
-      "original_title": "FinancialJuice: Banque Misr: reviewing US Treasury notice, will reach out to department for more details",
-      "published_at": "2026-08-29T09:18:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Banque Misr: reviewing US Treasury notice, will reach out to department for more details",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9741528/Banque-Misr-reviewing-US-Treasury-notice-will-reach-out-to-department-for-more-details---statement.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9741528/Banque-Misr-reviewing-US-Treasury-notice-will-reach-out-to-department-for-more-details---statement.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-f14432ccfa5f",
-      "original_title": "FinancialJuice: Ukraine's Zelenskiy vows punishment for those behind secondary blast triggered by Russian attack on Kyiv region warehouse",
-      "published_at": "2026-08-29T08:59:56Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Ukraine's Zelenskiy vows punishment for those behind secondary blast triggered by Russian attack on Kyiv region warehouse",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9741519/Ukraines-Zelenskiy-vows-punishment-for-those-behind-secondary-blast-triggered-by-Russian-attack-on-Kyiv-region-warehouse.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9741519/Ukraines-Zelenskiy-vows-punishment-for-those-behind-secondary-blast-triggered-by-Russian-attack-on-Kyiv-region-warehouse.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-30a5a0c2a0cf",
-      "original_title": "FinancialJuice: Niger government urges calm: security forces mobilising amid attack on capital",
-      "published_at": "2026-08-29T08:50:44Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Niger government urges calm: security forces mobilising amid attack on capital",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9741518/Niger-government-urges-calm-security-forces-mobilising-amid-attack-on-capital---statement.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9741518/Niger-government-urges-calm-security-forces-mobilising-amid-attack-on-capital---statement.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-d5d066f9acec",
-      "original_title": "호르무즈 해협에서 선박들이 정체된 가운데, 이란 혁명 수비대(IRGC) 해군이 해당 해역에 대한 \"절대적인 통제\"를 약속했습니다. - 파르스 뉴스.",
-      "published_at": "2026-08-29T08:40:18Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "호르무즈 해협에서 선박들이 정체된 가운데, 이란 혁명 수비대(IRGC) 해군이 해당 해역에 대한 \"절대적인 통제\"를 약속했습니다. - 파르스 뉴스.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "호르무즈 해협에서 선박들이 정체된 가운데, 이란 혁명 수비대(IRGC) 해군이 해당 해역에 대한 \"절대적인 통제\"를 약속했습니다. - 파르스 뉴스.",
-          "url": "https://t.me/goddessTTF/83319"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/83319"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-ea4b3e9a4e2f",
-      "original_title": "War weighs on Iran's economy as US intensifies sanctions",
-      "published_at": "2026-08-29T08:24:59Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "War weighs on Iran's economy as US intensifies sanctions",
-          "source": "Gulf Today",
-          "snippet": "War weighs on Iran's economy as US intensifies sanctions &nbsp;&nbsp; Gulf Today",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjk3bDFHRFJKVU5jbG1Ga3EwNTNYQ21uamMxa0dtbEl3QjF2ZldsNDU3YjMxbUxOLWFOMlh0ZDNHVWZuUk9wajBJQjBYYVBTQXl1NlI5ZUpVLXo4eS1XWGlIME9IdEdESDlZbGk0MUFET3BnUnl5enRFcHhxMXEyTW9ZNUxlNGQtc1ZoU2JUZVdYUzhyRmJWd1MtRkM?oc=5"
-        },
-        {
-          "headline": "War weighs on Iran's economy as US intensifies sanctions",
-          "source": "Reuters",
-          "snippet": "War weighs on Iran's economy as US intensifies sanctions &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Gulf Today",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjk3bDFHRFJKVU5jbG1Ga3EwNTNYQ21uamMxa0dtbEl3QjF2ZldsNDU3YjMxbUxOLWFOMlh0ZDNHVWZuUk9wajBJQjBYYVBTQXl1NlI5ZUpVLXo4eS1XWGlIME9IdEdESDlZbGk0MUFET3BnUnl5enRFcHhxMXEyTW9ZNUxlNGQtc1ZoU2JUZVdYUzhyRmJWd1MtRkM?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-65ce927165b4",
-      "original_title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
-      "published_at": "2026-08-29T07:58:34Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Warsh signals Fed may need to hike rates if above-target inflation persists",
-          "source": "102.7 WBOW",
-          "snippet": "Warsh signals Fed may need to hike rates if above-target inflation persists &nbsp;&nbsp; 102.7 WBOW",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaE5wYTRPTi1rNFA1dXdXT0l6RjBjaW5FX0JxLXlwb2JuNkY0NkhWUHV6TERhMGhDZHNoTGlnbDRrTG16ZlU0YWZIdy1WQXdmYkx1d2lkVGpXZzh2NDlZTG1vbnZxYU5VdVZ1WjNPNnBGd1RJWWpIbnlPcjNleExSVGlQV0xRS21KaU1RZlEwUmsyRTJRZ1dmNWhPWGxqdw?oc=5"
-        },
-        {
-          "headline": "Warsh Signals Rate Hike as Inflation Tops Fed Target",
-          "source": "Seoul Economic Daily",
-          "snippet": "Warsh Signals Rate Hike as Inflation Tops Fed Target &nbsp;&nbsp; Seoul Economic Daily",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ka1h1UkhZRUkyY1ZzRzF2dURwX0NRNGRJMmpwTWJhb0c5Vk9iSWR2b2xTYnlYSk9wVFV1VzBsUjdDemtJVWFhQW40R3VTbVc5UElWVVlKYjgyMTVIbkdzZVV1SWJTRHB3LV83c21jUTA1eTRYWlAw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "102.7 WBOW",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaE5wYTRPTi1rNFA1dXdXT0l6RjBjaW5FX0JxLXlwb2JuNkY0NkhWUHV6TERhMGhDZHNoTGlnbDRrTG16ZlU0YWZIdy1WQXdmYkx1d2lkVGpXZzh2NDlZTG1vbnZxYU5VdVZ1WjNPNnBGd1RJWWpIbnlPcjNleExSVGlQV0xRS21KaU1RZlEwUmsyRTJRZ1dmNWhPWGxqdw?oc=5"
-        },
-        {
-          "name": "Seoul Economic Daily",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ka1h1UkhZRUkyY1ZzRzF2dURwX0NRNGRJMmpwTWJhb0c5Vk9iSWR2b2xTYnlYSk9wVFV1VzBsUjdDemtJVWFhQW40R3VTbVc5UElWVVlKYjgyMTVIbkdzZVV1SWJTRHB3LV83c21jUTA1eTRYWlAw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-0576cc582c4d",
-      "original_title": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
-      "published_at": "2026-08-29T07:54:40Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
-          "source": "Oskaloosa Herald",
-          "snippet": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern &nbsp;&nbsp; Oskaloosa Herald",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPY284bDJaczU1Z0NwMlBibUp2TnE2UVlRWFMya3hiSHpvdzJ0UkdtYlhPSmZYV0JfcGZMX2dCQnNtY0ZhWEs1UnNqSkJzcUxnb2M0eFhjX2RKUXZiV1ZRMWJQclJYWUtJNE5JVXNUR044OFRHdlpFVUdZcEhCZTlUUGhBWlRxVTRPRFVWZ3dzV19NQWEycFluUDFwcGE4bU8wVjkxdDNkc0g2WTVaTUtqTU1RYU94WEVxT2o5bUR6TXFxZmhhZVlWSmxiT2NuNk9PdDR0dW9NQnB3ZFR3Ry1LNmhhZWx6MUdPUDRfWHRtcVhRdnoxWXRF?oc=5"
-        },
-        {
-          "headline": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
-          "source": "NewsNation",
-          "snippet": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern &nbsp;&nbsp; NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNazZjQ1VPRHhWeDNBS0hIN051RXp5Y2lzbDdrdHJZd0ZLajl6NWViZUdnajBhNmViTjRmZ0NNVXUtSGhDWDdmVm9rZHBlSHNtdjBRV3EzUUxpZlRSV182RGFtWDFTLVBudGY2U0w3R3VnTkxHVnlPVm9kYkh0RUlzUmpYeXpJdkFXXzdBa1Y2eFlPeTN6MVdGYVlBT3d6SkR0UVk1eTA5QzV1ejNqWXFwZ1I5dXV5YUhJU2tsQk9zX0NBT0tNSnBSa2ktMjlDT2s0UjM2clFaLXJZZGs0OXZNdEtWamUtbFlobWJaONIB8gFBVV95cUxOSUsyMWRsTmNDd3ZtT2NORl9tbUxXYmhRTnVERC13a3dFbHVxTUtHWVljT1FtWF95S3dUQnNFR3R6YXhaTDdXTlR3cXdHbjU5UzJmQ1Bkb19EQzRIekM1ZVRKSUJKNnJfNnRIQnJkQXVHcnRFb19QR3kyQkI1aExZSTZEM0tkdkhRRVpSelExM09mcUJvM0J1VUdBNEVYTlFEQ1o1RkhkXzk4cDN3bFdnOE9ORUJvMl9jOHNOcjJLOWVJbmRQTHlhZnV1Skt3bkxxVkY0b00taW9qZlUxMk1ENGpwQkdmTk5id2FRQjhzb3lLdw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Oskaloosa Herald",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPY284bDJaczU1Z0NwMlBibUp2TnE2UVlRWFMya3hiSHpvdzJ0UkdtYlhPSmZYV0JfcGZMX2dCQnNtY0ZhWEs1UnNqSkJzcUxnb2M0eFhjX2RKUXZiV1ZRMWJQclJYWUtJNE5JVXNUR044OFRHdlpFVUdZcEhCZTlUUGhBWlRxVTRPRFVWZ3dzV19NQWEycFluUDFwcGE4bU8wVjkxdDNkc0g2WTVaTUtqTU1RYU94WEVxT2o5bUR6TXFxZmhhZVlWSmxiT2NuNk9PdDR0dW9NQnB3ZFR3Ry1LNmhhZWx6MUdPUDRfWHRtcVhRdnoxWXRF?oc=5"
-        },
-        {
-          "name": "NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNazZjQ1VPRHhWeDNBS0hIN051RXp5Y2lzbDdrdHJZd0ZLajl6NWViZUdnajBhNmViTjRmZ0NNVXUtSGhDWDdmVm9rZHBlSHNtdjBRV3EzUUxpZlRSV182RGFtWDFTLVBudGY2U0w3R3VnTkxHVnlPVm9kYkh0RUlzUmpYeXpJdkFXXzdBa1Y2eFlPeTN6MVdGYVlBT3d6SkR0UVk1eTA5QzV1ejNqWXFwZ1I5dXV5YUhJU2tsQk9zX0NBT0tNSnBSa2ktMjlDT2s0UjM2clFaLXJZZGs0OXZNdEtWamUtbFlobWJaONIB8gFBVV95cUxOSUsyMWRsTmNDd3ZtT2NORl9tbUxXYmhRTnVERC13a3dFbHVxTUtHWVljT1FtWF95S3dUQnNFR3R6YXhaTDdXTlR3cXdHbjU5UzJmQ1Bkb19EQzRIekM1ZVRKSUJKNnJfNnRIQnJkQXVHcnRFb19QR3kyQkI1aExZSTZEM0tkdkhRRVpSelExM09mcUJvM0J1VUdBNEVYTlFEQ1o1RkhkXzk4cDN3bFdnOE9ORUJvMl9jOHNOcjJLOWVJbmRQTHlhZnV1Skt3bkxxVkY0b00taW9qZlUxMk1ENGpwQkdmTk5id2FRQjhzb3lLdw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-f8218457060d",
-      "original_title": "Israeli strikes kill 5 in Gaza and 3 in West Bank, and other news in the Middle East",
-      "published_at": "2026-08-29T07:49:24Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Israeli strikes kill 5 in Gaza and 3 in West Bank, and other news in the Middle East",
-          "source": "Dallas News",
-          "snippet": "Israeli strikes kill 5 in Gaza and 3 in West Bank, and other news in the Middle East &nbsp;&nbsp; Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN0FDeUhPYlFSTVRDbHFYeUg3NUxyeklVOGJZcTR0cGVxN1FVLXZYVldMRmdRdVBNOUtVZzFndHlsWFpYdVJLT2VLaGhiR2ZsNVdpZGhZVmhPdFRYQ3Z1WkVyWjctVnFIX2FjVzIwMXRxaGxZR09IRThTaWFLOHktYS1MYVdqdXVacXVLSFc4aUlxOU4yXzVMeUs3N1YybXhraXN1Tw?oc=5"
-        },
-        {
-          "headline": "Israeli strikes kill 5 in Gaza and 3 in West Bank, and other news in the Middle East - Traverse City Record-Eagle",
-          "source": "Traverse City Record-Eagle",
-          "snippet": "Israeli strikes kill 5 in Gaza and 3 in West Bank, and other news in the Middle East &nbsp;&nbsp; Traverse City Record-Eagle",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOamo4Y0luTEdEZkNKakVidkdWeFhZT2JlOXJhV2JBMkgtTmRQTHhPUTh0WFBiUUNMUWUxWFNrRnhsMkJWckJNT1RIczc5Nm1HQ1BfcEFLbjdFa3JNN09YN1Y4T1pYSFpNa2JJVVd2WnNmUncwWnNwTm92SUd3TjZRa0IxUEhFQUN0dHJiWHhKYm5UaW01NGRnNWlWR3FmeXIzSnRSdXN0aEYyT3hwaG5nWms0RFI1NWRTcHg3Z2tKX1pCUkN0cWgta3ExckI0R3BkNGVlMWI3clpWR21XclFtNWJVTUhvRm1lRlI4Nm5sRQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN0FDeUhPYlFSTVRDbHFYeUg3NUxyeklVOGJZcTR0cGVxN1FVLXZYVldMRmdRdVBNOUtVZzFndHlsWFpYdVJLT2VLaGhiR2ZsNVdpZGhZVmhPdFRYQ3Z1WkVyWjctVnFIX2FjVzIwMXRxaGxZR09IRThTaWFLOHktYS1MYVdqdXVacXVLSFc4aUlxOU4yXzVMeUs3N1YybXhraXN1Tw?oc=5"
-        },
-        {
-          "name": "Traverse City Record-Eagle",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOamo4Y0luTEdEZkNKakVidkdWeFhZT2JlOXJhV2JBMkgtTmRQTHhPUTh0WFBiUUNMUWUxWFNrRnhsMkJWckJNT1RIczc5Nm1HQ1BfcEFLbjdFa3JNN09YN1Y4T1pYSFpNa2JJVVd2WnNmUncwWnNwTm92SUd3TjZRa0IxUEhFQUN0dHJiWHhKYm5UaW01NGRnNWlWR3FmeXIzSnRSdXN0aEYyT3hwaG5nWms0RFI1NWRTcHg3Z2tKX1pCUkN0cWgta3ExckI0R3BkNGVlMWI3clpWR21XclFtNWJVTUhvRm1lRlI4Nm5sRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-00714203cbcd",
-      "original_title": "이란, 미국과의 협상에서 \"전부 아니면 0\"이라는 접근 방식을 거부 - 페제슈키안 \"우리가 원하는 모든 것이 실현될 것이라고 생각하지 마세요. 그리고 그들이 원하는 모든 것이 실현될 것이라고 생각하지 마세요.\"",
-      "published_at": "2026-08-29T07:49:08Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "이란, 미국과의 협상에서 \"전부 아니면 0\"이라는 접근 방식을 거부 - 페제슈키안 \"우리가 원하는 모든 것이 실현될 것이라고 생각하지 마세요. 그리고 그들이 원하는 모든 것이 실현될 것이라고 생각하지 마세요.\"",
-          "source": "Telegram @goddessTTF",
-          "snippet": "이란, 미국과의 협상에서 \"전부 아니면 0\"이라는 접근 방식을 거부 - 페제슈키안 \"우리가 원하는 모든 것이 실현될 것이라고 생각하지 마세요. 그리고 그들이 원하는 모든 것이 실현될 것이라고 생각하지 마세요.\"",
-          "url": "https://t.me/goddessTTF/83318"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/83318"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-ee73cb2652e8",
-      "original_title": "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
-      "published_at": "2026-08-29T07:39:19Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
-          "source": "Reuters",
-          "snippet": "Gold drops 3% as Fed's Warsh comments lift rate hike bets &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlR0QXlieWo3eENkM0t6U1djSVl3MzVYWXhqNm0zZzQwdlM3YWo1UW5lNk12RGFfYmVxY2xIVzRsa2NGRnJTVVZ5bGNGSFdoYjl1clctVDQ2Sy1mbUIydVFudDl3VjRGbE1ST3d3VlpFUm9oZkk2X3dYTkV0NVRvNEZOWWtQOGhRUEJsWVc5dFRtalZDRW05Sk9NbHIyTGttOTIw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlR0QXlieWo3eENkM0t6U1djSVl3MzVYWXhqNm0zZzQwdlM3YWo1UW5lNk12RGFfYmVxY2xIVzRsa2NGRnJTVVZ5bGNGSFdoYjl1clctVDQ2Sy1mbUIydVFudDl3VjRGbE1ST3d3VlpFUm9oZkk2X3dYTkV0NVRvNEZOWWtQOGhRUEJsWVc5dFRtalZDRW05Sk9NbHIyTGttOTIw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-29-c4cbba971541",
-      "original_title": "이란과 오만, 호르무즈 해협을 통한 항로 개방에 합의 - 페제슈키안 이란 대통령은 이 합의의 실행은 미국의 제재 해제와 테헤란의 자금 석방에 달려 있다고 밝혔습니다.",
-      "published_at": "2026-08-29T07:38:11Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "이란과 오만, 호르무즈 해협을 통한 항로 개방에 합의 - 페제슈키안 이란 대통령은 이 합의의 실행은 미국의 제재 해제와 테헤란의 자금 석방에 달려 있다고 밝혔습니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "이란과 오만, 호르무즈 해협을 통한 항로 개방에 합의 - 페제슈키안 이란 대통령은 이 합의의 실행은 미국의 제재 해제와 테헤란의 자금 석방에 달려 있다고 밝혔습니다.",
-          "url": "https://t.me/goddessTTF/83317"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/83317"
         }
       ]
     }
