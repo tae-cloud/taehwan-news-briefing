@@ -1,6 +1,626 @@
 {
-  "updated_at_kst": "2026-09-01T08:50:46+09:00",
+  "updated_at_kst": "2026-09-01T14:05:49+09:00",
   "items": [
+    {
+      "stable_id": "2026-09-01-e51385054a7f",
+      "original_title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "published_at": "2026-09-01T04:30:28Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-643faa330b8d",
+      "original_title": "FinancialJuice: ‘Conflict of attrition’ in Iran could keep inflation high, ECB official Rehn warns",
+      "published_at": "2026-09-01T04:10:44Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: ‘Conflict of attrition’ in Iran could keep inflation high, ECB official Rehn warns",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9744105/Conflict-of-attrition-in-Iran-could-keep-inflation-high-ECB-official-Rehn-warns---FT.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9744105/Conflict-of-attrition-in-Iran-could-keep-inflation-high-ECB-official-Rehn-warns---FT.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-c41e1892e0e8",
+      "original_title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
+      "published_at": "2026-09-01T03:49:39Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "CME’s share of XRP futures jumps as token rallies 40% in a week",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-b7a57b44af78",
+      "original_title": "FinancialJuice: Strait of Hormuz commodity ship passages steady on Monday, stay in single digits",
+      "published_at": "2026-09-01T02:44:40Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Strait of Hormuz commodity ship passages steady on Monday, stay in single digits",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9744022/Strait-of-Hormuz-commodity-ship-passages-steady-on-Monday-stay-in-single-digits---data.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9744022/Strait-of-Hormuz-commodity-ship-passages-steady-on-Monday-stay-in-single-digits---data.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-b7890b678560",
+      "original_title": "FinancialJuice: Senior Japan MoF official: Finmin Katayama detailed conditions for U.S.-Japan joint intervention, factors behind decision to G7 counterparts",
+      "published_at": "2026-09-01T02:42:37Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Senior Japan MoF official: Finmin Katayama detailed conditions for U.S.-Japan joint intervention, factors behind decision to G7 counterparts",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9744020/Senior-Japan-MoF-official-Finmin-Katayama-detailed-conditions-for-US-Japan-joint-intervention-factors-behind-decision-to-G7-counterparts.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9744020/Senior-Japan-MoF-official-Finmin-Katayama-detailed-conditions-for-US-Japan-joint-intervention-factors-behind-decision-to-G7-counterparts.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-098fecca3171",
+      "original_title": "FinancialJuice: Senior Japan MOF official: Japan's fiscal policy, latest joint FX intervention among key topics in Katayama, Bessent meeting",
+      "published_at": "2026-09-01T02:37:34Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Senior Japan MOF official: Japan's fiscal policy, latest joint FX intervention among key topics in Katayama, Bessent meeting",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9744018/Senior-Japan-MOF-official-Japans-fiscal-policy-latest-joint-FX-intervention-among-key-topics-in-Katayama-Bessent-meeting.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9744018/Senior-Japan-MOF-official-Japans-fiscal-policy-latest-joint-FX-intervention-among-key-topics-in-Katayama-Bessent-meeting.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-c692696c4d76",
+      "original_title": "FinancialJuice: Senior Japan MOF Official: expects BoJ to steer monetary policy aligned with economy, not influenced by U.S.",
+      "published_at": "2026-09-01T02:32:02Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Senior Japan MOF Official: expects BoJ to steer monetary policy aligned with economy, not influenced by U.S.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9744016/Senior-Japan-MOF-Official-expects-BoJ-to-steer-monetary-policy-aligned-with-economy-not-influenced-by-US.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9744016/Senior-Japan-MOF-Official-expects-BoJ-to-steer-monetary-policy-aligned-with-economy-not-influenced-by-US.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-c675f2881fc1",
+      "original_title": "FinancialJuice: Japan finmin Katayama: difficult to say how particular elements might impact fx fluctuations after yen moves questioned on orderliness",
+      "published_at": "2026-09-01T02:08:15Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finmin Katayama: difficult to say how particular elements might impact fx fluctuations after yen moves questioned on orderliness",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9744007/Japan-finmin-Katayama-difficult-to-say-how-particular-elements-might-impact-fx-fluctuations-after-yen-moves-questioned-on-orderliness.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9744007/Japan-finmin-Katayama-difficult-to-say-how-particular-elements-might-impact-fx-fluctuations-after-yen-moves-questioned-on-orderliness.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-f4e0ed172c91",
+      "original_title": "FinancialJuice: Japan finmin Katayama: can't comment on FX rates when asked if current yen levels are appropriate",
+      "published_at": "2026-09-01T02:07:15Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finmin Katayama: can't comment on FX rates when asked if current yen levels are appropriate",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9744005/Japan-finmin-Katayama-cant-comment-on-FX-rates-when-asked-if-current-yen-levels-are-appropriate.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9744005/Japan-finmin-Katayama-cant-comment-on-FX-rates-when-asked-if-current-yen-levels-are-appropriate.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-707d54bedadf",
+      "original_title": "FinancialJuice: Japan finmin Katayama: shared understanding with Bessent on importance of joint FX intervention",
+      "published_at": "2026-09-01T02:05:57Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finmin Katayama: shared understanding with Bessent on importance of joint FX intervention",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9744004/Japan-finmin-Katayama-shared-understanding-with-Bessent-on-importance-of-joint-FX-intervention.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9744004/Japan-finmin-Katayama-shared-understanding-with-Bessent-on-importance-of-joint-FX-intervention.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-e4dfb67c441c",
+      "original_title": "FinancialJuice: Japan finmin Katayama: assured Bessent Japan will secure robust economy, sustainable finances",
+      "published_at": "2026-09-01T02:02:01Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finmin Katayama: assured Bessent Japan will secure robust economy, sustainable finances",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9744002/Japan-finmin-Katayama-assured-Bessent-Japan-will-secure-robust-economy-sustainable-finances.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9744002/Japan-finmin-Katayama-assured-Bessent-Japan-will-secure-robust-economy-sustainable-finances.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-7f25377492b9",
+      "original_title": "FinancialJuice: Japan finmin katayama: told G20 Japan is investing in key sectors to spur economic growth",
+      "published_at": "2026-09-01T01:56:44Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finmin katayama: told G20 Japan is investing in key sectors to spur economic growth",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9743895/Japan-finmin-katayama-told-G20-Japan-is-investing-in-key-sectors-to-spur-economic-growth.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9743895/Japan-finmin-katayama-told-G20-Japan-is-investing-in-key-sectors-to-spur-economic-growth.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-2d2a5b574f4d",
+      "original_title": "FinancialJuice: Japan finmin Katayama: held bilateral meeting with U.S. Treasury secretary Bessent",
+      "published_at": "2026-09-01T01:55:33Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finmin Katayama: held bilateral meeting with U.S. Treasury secretary Bessent",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9743894/Japan-finmin-Katayama-held-bilateral-meeting-with-US-Treasury-secretary-Bessent.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9743894/Japan-finmin-Katayama-held-bilateral-meeting-with-US-Treasury-secretary-Bessent.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-73dd6370e22b",
+      "original_title": "🔥 트럼프, 베네수엘라 650억 배럴 석유 협정 체결…“세계 역사상 최대 규모” 미국 기존 확인 매장량 뛰어넘는 650억 배럴…100년 에너지 지배력 확보 [공부의여신 네트워크] 도널드 트럼프 대통령이 베네수엘라의 확인 원유 매장량 650억 배럴 이상에 미국이 과반 통제권을 확보하는 대규모 석유 협정을 발표했다. 백악관은 이를 “세계 역사상 최대 규모의 석유 협정”으로 규정하며, 미국 납세자",
+      "published_at": "2026-09-01T01:32:35Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "🔥 트럼프, 베네수엘라 650억 배럴 석유 협정 체결…“세계 역사상 최대 규모” 미국 기존 확인 매장량 뛰어넘는 650억 배럴…100년 에너지 지배력 확보 [공부의여신 네트워크] 도널드 트럼프 대통령이 베네수엘라의 확인 원유 매장량 650억 배럴 이상에 미국이 과반 통제권을 확보하는 대규모 석유 협정을 발표했다. 백악관은 이를 “세계 역사상 최대 규모의 석유 협정”으로 규정하며, 미국 납세자",
+          "source": "Telegram @goddessTTF",
+          "snippet": "🔥 트럼프, 베네수엘라 650억 배럴 석유 협정 체결…“세계 역사상 최대 규모” 미국 기존 확인 매장량 뛰어넘는 650억 배럴…100년 에너지 지배력 확보 [공부의여신 네트워크] 도널드 트럼프 대통령이 베네수엘라의 확인 원유 매장량 650억 배럴 이상에 미국이 과반 통제권을 확보하는 대규모 석유 협정을 발표했다. 백악관은 이를 “세계 역사상 최대 규모의 석유 협정”으로 규정하며, 미국 납세자의 부담 없이 향후 100년간 미국의 에너지 지배력을 강화하는 거래라고 밝혔다. 백악관이 8월 31일 공개한 팩트시트에 따르면 이번 협정은 마르코 루비오 국무장관과 피트 헤그세스 전쟁장관이 서명했다. 핵심은 베네수엘라 석유산업에 대한 민간 투자를 확대하는 동시에 미국 정부가 지분과 원유 구매권, 기업 지배구조에 대한 강력한 권리를 확보하는 구조다. 베네수엘라 임시 당국은 민간 석유기업 North American Blue Energy Partners(NABEP)에 17개 유전에 대한 100년 양허권을 부여했다. 이들 유전의 확인 원유 매장량은 약 650억 배럴로, 미국 영토 내 기존 확인 매장량 약 460억 배럴보다 훨씬 많다. 미 전쟁부 측 모회사 지분 35% 무상 취득 협정에 따라 NABEP는 미국 납세자의 비용 부담 없이 미 전쟁부 전략자본국(Office of Strategic Capital)에 모회사 지분 35%를 제공한다. 백악관은 해당 지분의 가치와 향후 배당금이 최대 수천억 달러에 이를 수 있다고 밝혔다. 미국은 단순한 투자자 역할에 그치지 않고 회사의 경영에도 상당한 영향력을 행사한다. 미국 정부는 NABEP 이사회 구성원 임명에 대해 거부권을 갖게 되며, 이사회 과반은 미국 시민으로 구성해야 한다. 또한 미국의 신뢰할 수 있는 회계법인과 변호사, 자문기관이 참여하고 미국 정부와 NABEP 간 협정에는 미국법과 미국 법원의 관할권이 적용된다. 생산량 20%는 원가 구매…나머지 80%에도 미국 우선매수권 미 국무부가 확보한 원유 구매권도 상당하다. 국무부는 NABEP가 현재와 미래에 운영하는 모든 유전에서 생산되는 원유 가운데 20%를 생산 원가에 구매할 수 있는 권리를 갖는다. 백악관은 이를 통해 저비용 원유를 안정적으로 확보하고 전략비축유(SPR)를 보충하는 한편 군사 및 기타 전략적 용도로 활용할 수 있다고 설명했다. 나머지 생산량 80%에 대해서도 미국 국무부가 우선매수권을 갖는다. 비상사태 발생 시 서반구에서 미국이 대규모 에너지 공급원을 우선적으로 확보할 수 있도록 한 것이다. 결국 미국은 35%의 기업 지분뿐 아니라 이사회에 대한 통제권, 생산량 20%의 원가 구매권, 나머지 80%의 우선매수권까지 확보하게 된다. 미국 정유소·시추장비 활용…미국 내 수천 개 일자리 창출 베네수엘라에서 새로 생산되는 수백만 배럴의 원유는 미국 정유시설을 통해 처리될 예정이다. 생산 확대에도 미국산 시추장비와 관련 인프라가 투입된다. 백악관은 이를 통해 미국에서 수십억 달러 규모의 신규 투자가 발생하고 수천 개의 일자리가 창출될 것으로 전망했다. 이번 협정은 베네수엘라의 원유를 확보하는 데 그치지 않고 원유 생산부터 장비와 인프라, 정제까지 미국 산업과 연결시키는 공급망 구축 전략인 셈이다. NABEP, 베네수엘라에 최대 1,000억 달러 투자 베네수엘라 경제에도 대규모 자금이 투입된다. NABEP는 베네수엘라의 원유 생산량을 신속하게 확대하기 위해 신규 석유 인프라에 최대 1,000억 달러를 투자한다는 계획을 마련했다. 백악관은 베네수엘라 유전 상당수가 오랜 기간 투자 부족과 부실경영으로 생산을 중단했거나 잠재 생산능력에 크게 못 미치는 상태라고 설명했다. 미국 민간자본을",
+          "url": "https://t.me/goddessTTF/83455"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83455"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-d9770368fb3f",
+      "original_title": "FinancialJuice: Australia July private sector home approvals fall 4.2% month on month seasonally adjusted",
+      "published_at": "2026-09-01T01:30:04Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Australia July private sector home approvals fall 4.2% month on month seasonally adjusted",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9743863/Australia-July-private-sector-home-approvals-fall-42-month-on-month-seasonally-adjusted.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9743863/Australia-July-private-sector-home-approvals-fall-42-month-on-month-seasonally-adjusted.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-94237594a4b0",
+      "original_title": "🇺🇸 [백악관 팩트시트] 트럼프 대통령, 미국 에너지 지배력 확보 및 베네수엘라 경제 회복 위한 역사적 석유 협정 발표 2026년 8월 31일 ■ 세계 역사상 최대 규모 석유 협정 • 650억 배럴 규모 확인 매장량 과반 통제권 확보 미국은 베네수엘라 17개 유전, 총 650억 배럴 규모 확인 매장량에 대한 과반 통제권을 확보했다. 이는 미국의 기존 확인 원유 매장량 약 460억 배럴을 크게",
+      "published_at": "2026-09-01T01:27:36Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "🇺🇸 [백악관 팩트시트] 트럼프 대통령, 미국 에너지 지배력 확보 및 베네수엘라 경제 회복 위한 역사적 석유 협정 발표 2026년 8월 31일 ■ 세계 역사상 최대 규모 석유 협정 • 650억 배럴 규모 확인 매장량 과반 통제권 확보 미국은 베네수엘라 17개 유전, 총 650억 배럴 규모 확인 매장량에 대한 과반 통제권을 확보했다. 이는 미국의 기존 확인 원유 매장량 약 460억 배럴을 크게",
+          "source": "Telegram @goddessTTF",
+          "snippet": "🇺🇸 [백악관 팩트시트] 트럼프 대통령, 미국 에너지 지배력 확보 및 베네수엘라 경제 회복 위한 역사적 석유 협정 발표 2026년 8월 31일 ■ 세계 역사상 최대 규모 석유 협정 • 650억 배럴 규모 확인 매장량 과반 통제권 확보 미국은 베네수엘라 17개 유전, 총 650억 배럴 규모 확인 매장량에 대한 과반 통제권을 확보했다. 이는 미국의 기존 확인 원유 매장량 약 460억 배럴을 크게 웃도는 규모다. • 미국 납세자 부담 0원 미국 정부의 직접적인 재정 투입 없이 향후 100년에 걸친 장기적 에너지 지배력 확보를 추진한다. • 100년 양허권 베네수엘라 임시 당국은 민간 석유기업 NABEP(North American Blue Energy Partners)에 17개 유전의 개발·운영에 대한 100년 사업권을 부여했다. ■ 미국 정부가 확보한 핵심 권리 • 미 전쟁부 전략자본국(OSC) NABEP 모회사 지분 35%를 무상 취득한다. 백악관은 이를 통해 미국이 수천억 달러 상당의 자산 가치와 향후 배당 수익을 확보할 수 있다고 밝혔다. • 미 국무부 전체 석유 생산량의 20%를 ‘생산 원가’에 의무 인수할 수 있는 권리(off-take)를 확보한다. 이를 전략비축유(SPR) 보충과 군사·전략적 용도로 활용할 수 있다. • 잔여 생산량 80% 미 국무부가 우선매수권(right of first refusal)을 갖는다. ■ 미국 일자리·에너지 산업과 직접 연계 베네수엘라에서 증산되는 원유는 미국 정유시설에서 처리되며, 미국산 시추 장비와 인프라를 적극 활용한다. 이를 통해 미국 내 수천 개의 일자리 창출과 수십억 달러 규모의 투자를 유도한다는 계획이다. 또한 NABEP의 운영과 협정은 미국 법원의 관할 아래 미국 법률 및 회계감사 기준을 적용받는다. ■ 베네수엘라 경제 재건 및 석유산업 민영화 이번 협정은 트럼프 행정부가 추진하는 베네수엘라 ‘안정화 → 재건 → 민주적 전환’ 3단계 로드맵의 핵심 축이다. 민간기업 주도의 석유 증산과 대규모 투자를 통해 경제를 재건하고, 이를 민주적 개혁의 기반으로 삼겠다는 구상이다. • 향후 25년간 약 2,000억 달러 세수 창출 미국의 지원으로 제정된 베네수엘라 신규 탄화수소법에 따라 NABEP는 초기 25년 동안 약 2,000억 달러의 로열티와 세금을 납부할 것으로 예상된다. 해당 자금은 베네수엘라 재건과 국민 복지에 활용될 예정이다. • 재정 투명성 강화 트럼프 행정부는 금융 감시와 은행 개혁을 통해 석유 수익이 부패 세력으로 유출되는 것을 차단하고 베네수엘라 국민에게 돌아가도록 관리한다는 방침이다. ■ 중국·러시아 영향력 축출 및 먼로주의 재확립 NABEP가 운영하게 될 주요 유전에는 과거 러시아·중국 기업 또는 마두로·차베스 정권과 연계된 세력이 장악했던 지역들이 포함돼 있다. 트럼프 행정부는 이번 협정을 통해 서반구에서 중국·러시아 등 외부 세력의 영향력을 축소하고, 해외에 의존해 온 에너지 공급망을 미주 대륙 중심으로 재편한다는 구상이다. ■ 핵심 요약 • 베네수엘라 17개 유전 • 확인 매장량 650억 배럴 • 과반 통제권 확보 • 100년 사업권 • 미국 납세자 부담 0원 • 미 국방부 측 모회사 지분 35% 무상 취득 • 생산량 20% 생산원가 인수권 • 나머지 80% 우선매수권 • 향후 25년간 베네수엘라 세수 약 2,000억 달러 예상 • 미국 정유시설·장비 활용 및 미국 내 일자리 창출 • 중국·러시아 영향력 축소 • 미국 중심의 서반구 에너지 공급망 구축 https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-",
+          "url": "https://t.me/goddessTTF/83454"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83454"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-a8d883dd158a",
+      "original_title": "FDA, 진행성 췌장암 생존기간 2배로 늘린 먹는 표적치료제 ‘라손큐’ 승인 [공부의여신 네트워크] 미국 식품의약국(FDA)은 2026년 8월 26일, 전이성 췌장선암 성인 환자를 위한 경구용 표적치료제 라손큐(Rasonque, 성분명 다락손라십·daraxonrasib) 를 승인했습니다. 개발사는 레볼루션 메디슨스(Revolution Medicines)입니다. 이 약은 췌장암의 가장 흔한 형",
+      "published_at": "2026-09-01T01:20:22Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "FDA, 진행성 췌장암 생존기간 2배로 늘린 먹는 표적치료제 ‘라손큐’ 승인 [공부의여신 네트워크] 미국 식품의약국(FDA)은 2026년 8월 26일, 전이성 췌장선암 성인 환자를 위한 경구용 표적치료제 라손큐(Rasonque, 성분명 다락손라십·daraxonrasib) 를 승인했습니다. 개발사는 레볼루션 메디슨스(Revolution Medicines)입니다. 이 약은 췌장암의 가장 흔한 형",
+          "source": "Telegram @goddessTTF",
+          "snippet": "FDA, 진행성 췌장암 생존기간 2배로 늘린 먹는 표적치료제 ‘라손큐’ 승인 [공부의여신 네트워크] 미국 식품의약국(FDA)은 2026년 8월 26일, 전이성 췌장선암 성인 환자를 위한 경구용 표적치료제 라손큐(Rasonque, 성분명 다락손라십·daraxonrasib) 를 승인했습니다. 개발사는 레볼루션 메디슨스(Revolution Medicines)입니다. 이 약은 췌장암의 가장 흔한 형태인 전이성 췌장선암(PDAC) 환자 가운데, 전신치료를 한 차례 이상 받았거나 다제 항암요법을 받을 수 없는 성인에게 쓰입니다. 권장 용량은 하루 한 번 300mg 경구 복용입니다. 왜 중요한가 췌장암은 조기 발견이 어렵고 진행이 빠르며, 주요 암 가운데 생존율이 가장 낮은 축에 속합니다. 미국에서는 해마다 약 6만7천 명이 새로 진단되고, 대다수가 선암입니다. 환자 종양의 90% 이상에서 RAS(특히 KRAS) 변이가 암 성장을 이끕니다. 수십 년간 ‘약이 잘 안 붙는’ 표적으로 여겨져 왔습니다. 라손큐는 RAS의 활성형(GTP 결합 상태)을 폭넓게 억제하는 최초의 RAS(ON) 다중선택 억제제입니다. 특정 변이 하나에만 작용하는 기존 KRAS 억제제와 달리, 췌장암에 흔한 여러 RAS 신호를 차단하도록 설계됐습니다. 임상 결과 승인 근거는 3상 RASolute 302 시험입니다. 이전에 치료받은 전이성 췌장선암 성인 500명을 대상으로 라손큐와 표준 항암화학요법을 비교했습니다. • 전체생존기간 중앙값: 13.2개월 vs 6.7개월 • 무진행생존기간 중앙값: 7.2개월 vs 3.6개월 • 사망 위험: 약 60% 감소 (위험비 0.40) • 객관적 반응률도 항암화학요법보다 높았습니다. 완치는 아닙니다. 다만 2차 치료 단계에서 생존을 이 정도로 늘린 표적치료제는 췌장암에서 사실상 처음이라는 평가가 나옵니다. FDA 종양학우수센터 책임자 안젤로 드 클라로 박사는 “미충족 수요가 큰 영역에서 전례 없는 결과”라고 밝혔습니다. 흔한 부작용으로는 발진, 설사, 구내염, 오심, 피로, 구토, 복통, 부종, 식욕 저하, 출혈 등이 보고됐습니다. 중증 피부·연조직 독성, 위장관 천공, 간질성 폐질환 등에는 주의가 필요합니다. 심사 속도와 행정 맥락 FDA는 혁신치료제·희귀의약품 지정과 우선심사, 그리고 공중보건 우선과제를 빠르게 보기 위한 ‘커미셔너 국가우선순위 바우처’ 경로를 적용했습니다. 사용자수수료 목표일보다 약 6.5개월 앞당겨 승인했습니다. 신청 접수 후 약 한 달 만에 결정이 났다는 보도도 있습니다. 승인 전 확대접근 프로그램으로 이미 수천 명이 약을 받았습니다. 사용자 메시지의 취지대로, 이번 결정은 트럼프 행정부와 로버트 F. 케네디 주니어 보건복지부 장관 체제 아래 FDA가 “과학적 심사는 유지하되 치명적인 질환에는 속도를 내겠다”는 기조를 시험한 사례로 읽힙니다. 공식 FDA 발표문에서 직접 인용된 인물은 대행 커미셔너 카일 디아만타스입니다. 그는 “극히 다루기 어려운 암을 겪는 환자에게 중요한 선택지를 준다”며, 철저한 심사와 신속 대응을 동시에 강조했습니다. 가격과 한계 미국 정가는 30일분 약 3만9,800달러(연간 환산 시 약 47만8,000달러)로 알려졌습니다. 상업보험 가입자는 본인부담 지원으로 비용을 크게 줄일 수 있다고 회사 측은 밝혔습니다. 한국 도입 여부는 별도 허가·급여 절차가 필요합니다. 정리하면, 약 이름은 라손큐(다락손라십) 이고, RAS를 직접 겨냥한 하루 한 알(또는 제형에 따라 두 알로 보도된 경우도 있음) 경구제입니다. 전이성 췌장암의 2차 치료 지형을 바꿀 가능성이 크지만, 모든 환자에게 듣는 약은 아니며 독성과 비용, 내성 문제는 앞으",
+          "url": "https://t.me/goddessTTF/83453"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83453"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-f16c16d62315",
+      "original_title": "Bitcoin up 24 percent in August, strongest since 2017 despite U.S.-Iran clash",
+      "published_at": "2026-09-01T01:15:21Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin up 24 percent in August, strongest since 2017 despite U.S.-Iran clash",
+          "source": "디지털투데이",
+          "snippet": "Bitcoin up 24 percent in August, strongest since 2017 despite U.S.-Iran clash &nbsp;&nbsp; 디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1BTQkpLOXprWmlBUzBSWUo0SC1RSFdfc3lqSERkMW1qS2s1UUZmM1JEb2ppY2psYWVueGFPVjlyVmhSbkcxT1lVMnVTYXlCWC1CT2ZmcUt2MjBZYkdvaUZqUkFaYU5GaHFwTzlkdDZlZDBfWGl4QVg2eHlyeVBkT0lFdUlJc2ZEM0RIMzBUNGp3YmppZ0s3a0J4QUYyYndmNUlQU3Y2Z29mMV9BWXVydDg0aEFZaFN3NG9F?oc=5"
+        },
+        {
+          "headline": "Bitcoin on course for best August since 2017 despite renewed US-Iran hostilities",
+          "source": "CryptoSlate",
+          "snippet": "Bitcoin on course for best August since 2017 despite renewed US-Iran hostilities &nbsp;&nbsp; CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlJXcHlPNEVvSS1HU1ZNT0o1UE13dko3bVJmX1JnZHRLMWdIbjFoREFIa2xXcmo4V3VpNGVMdXYzeGpkeV9lSHlJcDZseXpjUUtVUk1PR24tOWZSZ1pJd1V0UThPM3FzUXl6VXE1X1V4QmU1dGQyeW9vei02RnJuODZXdTU3VGFCa2RFNHVHZ2VQUmdlcFVkRGJIUHc3MUJ3bnJCbE5VREU?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1BTQkpLOXprWmlBUzBSWUo0SC1RSFdfc3lqSERkMW1qS2s1UUZmM1JEb2ppY2psYWVueGFPVjlyVmhSbkcxT1lVMnVTYXlCWC1CT2ZmcUt2MjBZYkdvaUZqUkFaYU5GaHFwTzlkdDZlZDBfWGl4QVg2eHlyeVBkT0lFdUlJc2ZEM0RIMzBUNGp3YmppZ0s3a0J4QUYyYndmNUlQU3Y2Z29mMV9BWXVydDg0aEFZaFN3NG9F?oc=5"
+        },
+        {
+          "name": "CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlJXcHlPNEVvSS1HU1ZNT0o1UE13dko3bVJmX1JnZHRLMWdIbjFoREFIa2xXcmo4V3VpNGVMdXYzeGpkeV9lSHlJcDZseXpjUUtVUk1PR24tOWZSZ1pJd1V0UThPM3FzUXl6VXE1X1V4QmU1dGQyeW9vei02RnJuODZXdTU3VGFCa2RFNHVHZ2VQUmdlcFVkRGJIUHc3MUJ3bnJCbE5VREU?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-8aa45581e1ad",
+      "original_title": "트럼프, 포클랜드 영유권 입장 재검토…영국 대신 ‘동맹’ 밀레이 지지하나 [공부의여신 네트워크] 트럼프 대통령은 영국이 통치하고 아르헨티나가 영유권을 주장하는 포클랜드제도에 관한 미국의 입장을 검토 중이라고 밝혔다. 미국은 1982년 전쟁 이후 영유권 문제에서 어느 한쪽도 공식 지지하지 않는 태도를 유지해 왔다. 아르헨티나의 하비에르 밀레이 대통령은 트럼프의 핵심 우방이다. 앞서 미 전쟁부에",
+      "published_at": "2026-09-01T01:11:27Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프, 포클랜드 영유권 입장 재검토…영국 대신 ‘동맹’ 밀레이 지지하나 [공부의여신 네트워크] 트럼프 대통령은 영국이 통치하고 아르헨티나가 영유권을 주장하는 포클랜드제도에 관한 미국의 입장을 검토 중이라고 밝혔다. 미국은 1982년 전쟁 이후 영유권 문제에서 어느 한쪽도 공식 지지하지 않는 태도를 유지해 왔다. 아르헨티나의 하비에르 밀레이 대통령은 트럼프의 핵심 우방이다. 앞서 미 전쟁부에",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프, 포클랜드 영유권 입장 재검토…영국 대신 ‘동맹’ 밀레이 지지하나 [공부의여신 네트워크] 트럼프 대통령은 영국이 통치하고 아르헨티나가 영유권을 주장하는 포클랜드제도에 관한 미국의 입장을 검토 중이라고 밝혔다. 미국은 1982년 전쟁 이후 영유권 문제에서 어느 한쪽도 공식 지지하지 않는 태도를 유지해 왔다. 아르헨티나의 하비에르 밀레이 대통령은 트럼프의 핵심 우방이다. 앞서 미 전쟁부에서는 이란전에 충분히 협조하지 않은 NATO 동맹국을 압박하기 위한 선택지 가운데 하나로 아르헨티나의 영유권 주장을 지지하는 방안 이 검토된 것으로 보도됐다. 다만 트럼프는 “모든 입장을 검토한다”고만 말했으며, 실제 정책 변경이나 아르헨티나 지지를 발표한 것은 아니다.",
+          "url": "https://t.me/goddessTTF/83450"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83450"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-d9bdb7628d5e",
+      "original_title": "FinancialJuice: South Korea President Lee: interest rate increase is inevitable",
+      "published_at": "2026-09-01T01:10:05Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: South Korea President Lee: interest rate increase is inevitable",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9743837/South-Korea-President-Lee-interest-rate-increase-is-inevitable.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9743837/South-Korea-President-Lee-interest-rate-increase-is-inevitable.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-31d9d391cc16",
+      "original_title": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
+      "published_at": "2026-09-01T01:10:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
+          "source": "AP News",
+          "snippet": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters &nbsp;&nbsp; AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5"
+        },
+        {
+          "headline": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters",
+          "source": "KSAT",
+          "snippet": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters &nbsp;&nbsp; KSAT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1k4V2Q0X25jLXhSY29CbllUWEJ4NlZKdmVvYmM1QnFNTzY2bFVNLWNsWGxOcWpoc2U5b0hKN3BsQUxyNFRJM2J6VWRTVDY1NndMZ0x4b2NyamJDTkZCZTM2ajdEaTkteUtmeDhDOS1INHB5bk8tb3N1XzlNcjlqLTUybWdFbkJEM016SnRZQXZTYXV0dVpNcGJmeXJ0bUloNzdIQnVmUFNxV1oydEpIZkFBeXFjYzdyeFRKak1uR0prbmJDV1NvRnpyRQ?oc=5"
+        },
+        {
+          "headline": "United Arab Emirates says it has intercepted an Iranian drone over its territorial waters, calls attack 'dangerous escalation'",
+          "source": "PBS",
+          "snippet": "United Arab Emirates says it has intercepted an Iranian drone over its territorial waters, calls attack 'dangerous escalation' &nbsp;&nbsp; PBS",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeExsZ1d6TTlRc0pSVEdwbHZyRUppWW4tbW9UMG50a0xwbUpqeVBrbjRMTDJ1UHhybUYyUUpKMEpVUzJjUUZkaXpHd1lpR3FXb2p2TEhhbWtqQnBfVS1jd2Qzc2RBbEVJNVh1SFFhT3JWalF5TTJwTVlaUEpMOUVRcjQ3bDRBRFJVai13UDVnVXk3ODAzRnRvLWtVLVRoTXd0d2k3SHpQX0YzTVNoSHQ2cUVzeE5jajdtckZ3NEZHdW04TTBFZTVMUVlWTjd4Z1ZkdWZFcFZIeWtTV013a180NDFFRVVKZ3hTMzZQQ2o2eWZ6MHB30gH0AUFVX3lxTE94TGxnV3pNOVFzSlJUR3BsdnJFSmlZbi1tb1QwbnRrTHBtSmp5UGtuNExMMnVQeHJtRjJRSkowSlVTMmNRRmRpekd3WWlHcVdvanZMSGFta2pCcF9VLWN3ZDNzZEFsRUk1WHVIUWFPclZqUXlNMnBNWVpQSkw5RVFyNDdsNEFEUlVqLXdQNWdVeTc4MDNGdG8ta1UtVGhNd3R3aTdIelBfRjNNU2hIdDZxRXN4TmNqN21yRnc0Rkd1bThNMEVlNUxRWVZON3hnVmR1ZkVwVkh5a1NXTXdrXzQ0MUVFVUpneFMzNlBDajZ5ZnowcHc?oc=5"
+        },
+        {
+          "headline": "United Arab Emirates says it has intercepted an Iranian drone over its territorial waters",
+          "source": "WREG.com",
+          "snippet": "United Arab Emirates says it has intercepted an Iranian drone over its territorial waters &nbsp;&nbsp; WREG.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONldfV0ZWQ25kVzJEbi16eGptZTJJZUItTGZqeXhxWjFxWGpuTVVPaFVTS3d6MzNHUWFfVi10bWZZbjBqR1dKMFY2clVWaXBGNE1ickZtYUg0Ykg1WXFWWWQxOF9WZVlNbl9HaUVLcUtfWFZzTU1mMzBkbFlBaEc0TVQ0Ymw2SkpieVJoUVZKRm05bE9kUHBpRmtHdko2QkhJY3BsdjRKSndpMzZfdEU3S2dteEsyb0pyLTdfZHl5RFVtT3VnMV9tbmxoSmx5ZW5HbUFGR1VlR0x0LWNWWHdJ0gHkAUFVX3lxTE5iUzVZRVMyeFlSYTN3YVptZnVIWmh1UV9kc0FPQ09lR2dkeE9DTHZfUVNrTUpqZUF6dU9BbkZ3ei1RT2hGM2piVlZDVmFoQWRtZjBja3k2RzhnNXBTTThMOFc0ekRjWFRqbmxBb3lVV3ZhM1I0RHAxQWlHNzdPTlpvSWhVY0RYTFRMTzVFU2ViNGhRaEZKb20xZ01iMkxIUGRwTzVsaG5zVzN5NURySUJtMDJLNWk0SHFFX0Zqd3ZpZkQ0aFRQSFBoTk03US1vWG5xYmM5cVUtalZCeDdNcUFZa0U3Uw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkx5VllnSlpKbjRJSUM0S2ZmSWhlb0YyX2xyUElqbmt1X1RxMDhLb3lNeGVqRFprU3ZBcHppYkhSZUFOb0JGNkVjZFp1U2doYnFaWk9WVUEzUG1RN1JQVkF2VUtkQUliY09fcm5rNllyeDVaRG0yNnVqcFFXME0tNjFOVjRiODI2RTJJSjZ1eHRaSXRx?oc=5"
+        },
+        {
+          "name": "KSAT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1k4V2Q0X25jLXhSY29CbllUWEJ4NlZKdmVvYmM1QnFNTzY2bFVNLWNsWGxOcWpoc2U5b0hKN3BsQUxyNFRJM2J6VWRTVDY1NndMZ0x4b2NyamJDTkZCZTM2ajdEaTkteUtmeDhDOS1INHB5bk8tb3N1XzlNcjlqLTUybWdFbkJEM016SnRZQXZTYXV0dVpNcGJmeXJ0bUloNzdIQnVmUFNxV1oydEpIZkFBeXFjYzdyeFRKak1uR0prbmJDV1NvRnpyRQ?oc=5"
+        },
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeExsZ1d6TTlRc0pSVEdwbHZyRUppWW4tbW9UMG50a0xwbUpqeVBrbjRMTDJ1UHhybUYyUUpKMEpVUzJjUUZkaXpHd1lpR3FXb2p2TEhhbWtqQnBfVS1jd2Qzc2RBbEVJNVh1SFFhT3JWalF5TTJwTVlaUEpMOUVRcjQ3bDRBRFJVai13UDVnVXk3ODAzRnRvLWtVLVRoTXd0d2k3SHpQX0YzTVNoSHQ2cUVzeE5jajdtckZ3NEZHdW04TTBFZTVMUVlWTjd4Z1ZkdWZFcFZIeWtTV013a180NDFFRVVKZ3hTMzZQQ2o2eWZ6MHB30gH0AUFVX3lxTE94TGxnV3pNOVFzSlJUR3BsdnJFSmlZbi1tb1QwbnRrTHBtSmp5UGtuNExMMnVQeHJtRjJRSkowSlVTMmNRRmRpekd3WWlHcVdvanZMSGFta2pCcF9VLWN3ZDNzZEFsRUk1WHVIUWFPclZqUXlNMnBNWVpQSkw5RVFyNDdsNEFEUlVqLXdQNWdVeTc4MDNGdG8ta1UtVGhNd3R3aTdIelBfRjNNU2hIdDZxRXN4TmNqN21yRnc0Rkd1bThNMEVlNUxRWVZON3hnVmR1ZkVwVkh5a1NXTXdrXzQ0MUVFVUpneFMzNlBDajZ5ZnowcHc?oc=5"
+        },
+        {
+          "name": "WREG.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONldfV0ZWQ25kVzJEbi16eGptZTJJZUItTGZqeXhxWjFxWGpuTVVPaFVTS3d6MzNHUWFfVi10bWZZbjBqR1dKMFY2clVWaXBGNE1ickZtYUg0Ykg1WXFWWWQxOF9WZVlNbl9HaUVLcUtfWFZzTU1mMzBkbFlBaEc0TVQ0Ymw2SkpieVJoUVZKRm05bE9kUHBpRmtHdko2QkhJY3BsdjRKSndpMzZfdEU3S2dteEsyb0pyLTdfZHl5RFVtT3VnMV9tbmxoSmx5ZW5HbUFGR1VlR0x0LWNWWHdJ0gHkAUFVX3lxTE5iUzVZRVMyeFlSYTN3YVptZnVIWmh1UV9kc0FPQ09lR2dkeE9DTHZfUVNrTUpqZUF6dU9BbkZ3ei1RT2hGM2piVlZDVmFoQWRtZjBja3k2RzhnNXBTTThMOFc0ekRjWFRqbmxBb3lVV3ZhM1I0RHAxQWlHNzdPTlpvSWhVY0RYTFRMTzVFU2ViNGhRaEZKb20xZ01iMkxIUGRwTzVsaG5zVzN5NURySUJtMDJLNWk0SHFFX0Zqd3ZpZkQ0aFRQSFBoTk03US1vWG5xYmM5cVUtalZCeDdNcUFZa0U3Uw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-c4a721cf065e",
+      "original_title": "미국, 중국·러시아가 운영하던 베네수엘라 유전 인수…원유 수출시장도 美로 전환 [공부의여신 네트워크] 미국 당국자 2명에 따르면 North American Blue Energy Partners(NABEP) 가 트럼프 대통령이 발표한 베네수엘라 석유협정에 따라 총 17개 사업을 맡는다. 이 가운데 신규 계약 14곳 중 5곳은 중국 기업, 1곳은 러시아 기업이 운영하던 유전이다. 기존 운영사에는",
+      "published_at": "2026-09-01T01:08:30Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "미국, 중국·러시아가 운영하던 베네수엘라 유전 인수…원유 수출시장도 美로 전환 [공부의여신 네트워크] 미국 당국자 2명에 따르면 North American Blue Energy Partners(NABEP) 가 트럼프 대통령이 발표한 베네수엘라 석유협정에 따라 총 17개 사업을 맡는다. 이 가운데 신규 계약 14곳 중 5곳은 중국 기업, 1곳은 러시아 기업이 운영하던 유전이다. 기존 운영사에는",
+          "source": "Telegram @goddessTTF",
+          "snippet": "미국, 중국·러시아가 운영하던 베네수엘라 유전 인수…원유 수출시장도 美로 전환 [공부의여신 네트워크] 미국 당국자 2명에 따르면 North American Blue Energy Partners(NABEP) 가 트럼프 대통령이 발표한 베네수엘라 석유협정에 따라 총 17개 사업을 맡는다. 이 가운데 신규 계약 14곳 중 5곳은 중국 기업, 1곳은 러시아 기업이 운영하던 유전이다. 기존 운영사에는 중국 시노펙·CNPC와 2019년 이란 관련 미국 제재를 받은 China Concord Resources가 포함된 것으로 전해졌다. 트럼프 행정부는 이 유전에서 생산된 원유의 수출시장을 중국에서 미국으로 돌리고, 베네수엘라 원유의 생산·판매 주체를 미국이 직접 결정하는 구조를 추진하고 있다. 이는 단순한 미국 기업의 유전 투자가 아니라, 중국·러시아의 베네수엘라 에너지 지분을 미국이 밀어내는 지정학적 재편 이다. 다만 세부 계약서는 공개되지 않았고 현재 보도는 익명의 미국 당국자 설명에 근거한다.",
+          "url": "https://t.me/goddessTTF/83449"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83449"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-fd480581c0ac",
+      "original_title": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks",
+      "published_at": "2026-09-01T00:56:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks",
+          "source": "Reuters",
+          "snippet": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-01-2be92a5b67a2",
+      "original_title": "FinancialJuice: China PBOC likely to set yuan midpoint at 6.7170 per dollar: estimate",
+      "published_at": "2026-09-01T00:15:40Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: China PBOC likely to set yuan midpoint at 6.7170 per dollar: estimate",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9743786/China-PBOC-likely-to-set-yuan-midpoint-at-67170-per-dollar-estimate.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9743786/China-PBOC-likely-to-set-yuan-midpoint-at-67170-per-dollar-estimate.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-eceba7a8e6c1",
+      "original_title": "Oil extends advance as US-Iran escalation revives Hormuz risks",
+      "published_at": "2026-08-31T23:18:35Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil extends advance as US-Iran escalation revives Hormuz risks",
+          "source": "The Edge Singapore",
+          "snippet": "Oil extends advance as US-Iran escalation revives Hormuz risks &nbsp;&nbsp; The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQXzY1VUxxbDdULUtlNVhydW5UQlN1WTc4WlUyUjlhOGFXNUR2cHlEeXU0N0lHLXA0R3pQeGo1am1MV203alcyUmRFcTU0UW5uZ1hJVUNRWTZKaHRPRkh2SUJGLWNkQjFRbTZtV0dfZ2RDeUlFaVkyQng4bEVtTmZXSVNfOWFsQ1dqMUs3X0xNWVdYQ2VNaEVONm5VNDdtcnQ1NDRVOWxScVZRc0XSAbABQVVfeXFMTlI5LUdLOURjbGdPYmZlQTgtX0lVRktJQUFyMmszZHRhZllBQl9KLWtHUEhzazc3N3l6bl9MWjk4UG4tM0NYaS1ITzBxZ3otZ0cwdDYwRjgtZTViYmJEN0pBTHl3N3pDdE0yd184SEZMUzM4NXdwaDBKRTlsTjZVNDNDWjJ0eTZmQTNnOFgtZDE3WFd6NW9rT2tKSnRQNjB5OXdEVUItdmxHQS12TE1Pd3E?oc=5"
+        },
+        {
+          "headline": "Oil extends advance as US-Iran escalation revives Hormuz risks",
+          "source": "The Edge Malaysia",
+          "snippet": "Oil extends advance as US-Iran escalation revives Hormuz risks &nbsp;&nbsp; The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ybVlBek10YVFPNnZDbGsxVjFncHJwcHMtZC11dDN0YjJCVlJzMTVvUmdDZTM5cVdOV25KNExNTUhUSVVMOC1iNDIybVNRREZpWDRv?oc=5"
+        },
+        {
+          "headline": "Oil Extends Advance as US-Iran Escalation Revives Hormuz Risks",
+          "source": "Bloomberg.com",
+          "snippet": "Oil Extends Advance as US-Iran Escalation Revives Hormuz Risks &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0pDaENnd2pDd29nQ0g4bk9LT0JaREozSUZ3UElScnZJc29qbTc1emFVbV9TVlREem1jLTZFUW11OExqbXFONk04dzJGeENmTGc1blZsOTBST1QyYnN4eXFSSGt5alhqU1RTc3QtRFBwZ25JVXNzWEtVWi1lcThWa0hDdkZiVlJ5d0N0Y19qYUMzTGhtekg5UDVzbTJWQQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQXzY1VUxxbDdULUtlNVhydW5UQlN1WTc4WlUyUjlhOGFXNUR2cHlEeXU0N0lHLXA0R3pQeGo1am1MV203alcyUmRFcTU0UW5uZ1hJVUNRWTZKaHRPRkh2SUJGLWNkQjFRbTZtV0dfZ2RDeUlFaVkyQng4bEVtTmZXSVNfOWFsQ1dqMUs3X0xNWVdYQ2VNaEVONm5VNDdtcnQ1NDRVOWxScVZRc0XSAbABQVVfeXFMTlI5LUdLOURjbGdPYmZlQTgtX0lVRktJQUFyMmszZHRhZllBQl9KLWtHUEhzazc3N3l6bl9MWjk4UG4tM0NYaS1ITzBxZ3otZ0cwdDYwRjgtZTViYmJEN0pBTHl3N3pDdE0yd184SEZMUzM4NXdwaDBKRTlsTjZVNDNDWjJ0eTZmQTNnOFgtZDE3WFd6NW9rT2tKSnRQNjB5OXdEVUItdmxHQS12TE1Pd3E?oc=5"
+        },
+        {
+          "name": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ybVlBek10YVFPNnZDbGsxVjFncHJwcHMtZC11dDN0YjJCVlJzMTVvUmdDZTM5cVdOV25KNExNTUhUSVVMOC1iNDIybVNRREZpWDRv?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0pDaENnd2pDd29nQ0g4bk9LT0JaREozSUZ3UElScnZJc29qbTc1emFVbV9TVlREem1jLTZFUW11OExqbXFONk04dzJGeENmTGc1blZsOTBST1QyYnN4eXFSSGt5alhqU1RTc3QtRFBwZ25JVXNzWEtVWi1lcThWa0hDdkZiVlJ5d0N0Y19qYUMzTGhtekg5UDVzbTJWQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-0a345cbbf9ac",
+      "original_title": "United Arab Emirates intercepts an Iranian drone, and other news from the Middle East",
+      "published_at": "2026-08-31T23:07:26Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "United Arab Emirates intercepts an Iranian drone, and other news from the Middle East",
+          "source": "Standard Democrat",
+          "snippet": "United Arab Emirates intercepts an Iranian drone, and other news from the Middle East &nbsp;&nbsp; Standard Democrat",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcThKMlNMeW9ob05wcUJmdDJuRnVLUUdJQ0FQYkxKWWJ1cEpfT0owa1o1NmQ1VjA4cUt4eVlfemF0UWVzQXVhemltTFZGYjFvUzEydHgtUG0wSEV4YzdSQm90c2pEN3FDOEVpdndFalBrV0VyaEFsOHBWcHFLSHZ5WU9kNU1oOHg2Z1cwVG5aYXdvM19KeXozTjUzSzAzWTRtTVFzcVpMeXl5SUloVG5GcG92UGNFYTJLMlhPbTQwaEJlclp2aUstLWRCX2p5dw?oc=5"
+        },
+        {
+          "headline": "United Arab Emirates intercepts incoming Iranian drone",
+          "source": "Spectrum News",
+          "snippet": "United Arab Emirates intercepts incoming Iranian drone &nbsp;&nbsp; Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckFCaE5xVG41MW9xZ0NOXzZKYUxuYzJucnZTbHktdmUwV3A4OGd3UllUMWhfMnBTUzRoZWVQaE5OUThEbV9rVDdyaWRHMjlqMFpVbDA4TVZfVHBtNHkzd3NuX3ByUVIxZnNvdXNVVjRJX2g0VVdmQ0FhdjdvbnJfTjVlRkJXZUNqN0N5WDIyN19UV0EwRjVhdWh6ZkJxdVpmTkNfb01LZXJXZnRLSk1fVlBJTUhRR1BWUTluWU9pSUVSQQ?oc=5"
+        },
+        {
+          "headline": "United Arab Emirates intercepts incoming Iranian drone, and other news from the Middle East",
+          "source": "InformNNY.com",
+          "snippet": "United Arab Emirates intercepts incoming Iranian drone, and other news from the Middle East &nbsp;&nbsp; InformNNY.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWRrSGZTeFRJSnR0U3FnSW5HWUx6ejVJQ3dzYVlhbXgwNnZyMmtMc3BuSXZ6cTZXVTJaNXBZLWV6a1lSWE1jSl9LQ0JCcnEyQ283cUdlSktWTFhadkNOY1d6RFZoSEtsYkxieUdKWjBNaHJnZ3ZqWXJmQTZJVnFpbXB3MjVkendObk8xbXl3S1N2ZlR5dVRGM29vU1Ryb1g5R09wLVB6cnZZNFptUC1INGNLQWZpek40WG0w0gHAAUFVX3lxTE1oRG5mVUwyMzlaLU1nUjhOdjFGbUc1ZzdaZGM3VnZBSVN5dm90NEV5emtNUTk4eFF6dDJtYmNGbHJoXzZrWll4bElnNFViYWZBNFFuWEFNenNDbFM0eDk4ZGhBSmExSlhwZVpnUzJURTR0UllTR3FKamNGcDJXWUNUa2ljOFEzOTM3Mjh0czRQMUhzWk51Tmo5d2VMcEp4LUJvaG1MZjNVS21CNUFMam9NcjZDWms4UTdZa3FTYUxHUA?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Standard Democrat",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcThKMlNMeW9ob05wcUJmdDJuRnVLUUdJQ0FQYkxKWWJ1cEpfT0owa1o1NmQ1VjA4cUt4eVlfemF0UWVzQXVhemltTFZGYjFvUzEydHgtUG0wSEV4YzdSQm90c2pEN3FDOEVpdndFalBrV0VyaEFsOHBWcHFLSHZ5WU9kNU1oOHg2Z1cwVG5aYXdvM19KeXozTjUzSzAzWTRtTVFzcVpMeXl5SUloVG5GcG92UGNFYTJLMlhPbTQwaEJlclp2aUstLWRCX2p5dw?oc=5"
+        },
+        {
+          "name": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckFCaE5xVG41MW9xZ0NOXzZKYUxuYzJucnZTbHktdmUwV3A4OGd3UllUMWhfMnBTUzRoZWVQaE5OUThEbV9rVDdyaWRHMjlqMFpVbDA4TVZfVHBtNHkzd3NuX3ByUVIxZnNvdXNVVjRJX2g0VVdmQ0FhdjdvbnJfTjVlRkJXZUNqN0N5WDIyN19UV0EwRjVhdWh6ZkJxdVpmTkNfb01LZXJXZnRLSk1fVlBJTUhRR1BWUTluWU9pSUVSQQ?oc=5"
+        },
+        {
+          "name": "InformNNY.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWRrSGZTeFRJSnR0U3FnSW5HWUx6ejVJQ3dzYVlhbXgwNnZyMmtMc3BuSXZ6cTZXVTJaNXBZLWV6a1lSWE1jSl9LQ0JCcnEyQ283cUdlSktWTFhadkNOY1d6RFZoSEtsYkxieUdKWjBNaHJnZ3ZqWXJmQTZJVnFpbXB3MjVkendObk8xbXl3S1N2ZlR5dVRGM29vU1Ryb1g5R09wLVB6cnZZNFptUC1INGNLQWZpek40WG0w0gHAAUFVX3lxTE1oRG5mVUwyMzlaLU1nUjhOdjFGbUc1ZzdaZGM3VnZBSVN5dm90NEV5emtNUTk4eFF6dDJtYmNGbHJoXzZrWll4bElnNFViYWZBNFFuWEFNenNDbFM0eDk4ZGhBSmExSlhwZVpnUzJURTR0UllTR3FKamNGcDJXWUNUa2ljOFEzOTM3Mjh0czRQMUhzWk51Tmo5d2VMcEp4LUJvaG1MZjNVS21CNUFMam9NcjZDWms4UTdZa3FTYUxHUA?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-f6f3f80ae6fc",
+      "original_title": "Yields rise, oil jumps; US and Iran resume military attacks",
+      "published_at": "2026-08-31T22:56:48Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Yields rise, oil jumps; US and Iran resume military attacks",
+          "source": "Reuters",
+          "snippet": "Yields rise, oil jumps; US and Iran resume military attacks &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-08-31-1e75916fbb89",
       "original_title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
@@ -192,6 +812,26 @@
       ]
     },
     {
+      "stable_id": "2026-08-31-ea3902120dd3",
+      "original_title": "Iranian media say Saudi oil tanker stopped in Strait of Hormuz, no Saudi confirmation",
+      "published_at": "2026-08-31T21:27:05Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iranian media say Saudi oil tanker stopped in Strait of Hormuz, no Saudi confirmation",
+          "source": "Reuters",
+          "snippet": "Iranian media say Saudi oil tanker stopped in Strait of Hormuz, no Saudi confirmation &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOckZxNjFsWVZXODU3X0Q3R2dfUkpfYXVvTU95bDFVZmJ3aWZkMWlnWHRIRUFiN2p0N1pLWmxKUjZIUDZMS0tZZXdvMU5ZQnZ0MWxzT0k2RDV4OWk3TFJ4VF9jOW1tRjVZbE1XSVVDZmdkd1pvUndQMEd2bkMxQnlwN1duV19FX2xYZDdRR1F6ajlNU3ZVQlpnTlhUTndVRzJHaHRERXhFNFZEdTUtWjhQUW9jeFNSQURuTTliYTUwTHA0ZUVBV25oRTFTZUw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOckZxNjFsWVZXODU3X0Q3R2dfUkpfYXVvTU95bDFVZmJ3aWZkMWlnWHRIRUFiN2p0N1pLWmxKUjZIUDZMS0tZZXdvMU5ZQnZ0MWxzT0k2RDV4OWk3TFJ4VF9jOW1tRjVZbE1XSVVDZmdkd1pvUndQMEd2bkMxQnlwN1duV19FX2xYZDdRR1F6ajlNU3ZVQlpnTlhUTndVRzJHaHRERXhFNFZEdTUtWjhQUW9jeFNSQURuTTliYTUwTHA0ZUVBV25oRTFTZUw?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-08-31-97383db21e30",
       "original_title": "US Strikes Iranian Rocket Launchers in First Attack in Weeks",
       "published_at": "2026-08-31T21:13:37Z",
@@ -338,6 +978,12 @@
           "source": "BNN Bloomberg",
           "snippet": "Oil prices rise and stocks fall after U.S. hits Iranian sites in the Strait of Hormuz &nbsp;&nbsp; BNN Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXRYSm5wS2FFcXVtNTAtS0duTG5TbFB5WnJWZ2tRTExNOE40QmJHUlk2aDZobGN5eHB4Q0tpTU82RHhONXpjZnlQSF9CQWFrWjNabUZtcDgtQUJBNEgzcFl6OWQyRHRYU0hWMmhrM3dKVDRDTjFQUFdSNFpaejhwS0xmWW52VGNlUHNMQ1U0ZFNUZHppV2JGc1hYOXJMN0RLZUs5MmFsLVVGYWNpVlVGQkhwZ3h1eW1ZTFRZcE5FckY1N1RINF9neHNnYWtEVWpjblRwNWI1aWZqMlpGNVVj?oc=5"
+        },
+        {
+          "headline": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz",
+          "source": "KOIN.com",
+          "snippet": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz &nbsp;&nbsp; KOIN.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0s1QVhOV1JZb1B4RlI3Y05RbDVMUXpXaWtSSkh5bFhtMEpUSmFId2NaYkpSOFlRdGdNRk93cW5EYkRGNTZJRURTYkxITXl1VGdZeURtcURaYkszUll6djljaWxCVFZxTi1sa0hoVXhuQk5UVTBFVGZneXdoWG1DYmltWTlwaWtlRmhKeXB0MEMxTndvaG94Y3V0ODZvbmw4ZHU3b093UmRFeHA1c20zVFRLWFZsNXViTzdLemd2WUlaSm1RdE9fOHdVcl9oMFhnVklGVtIB1AFBVV95cUxOb0s1QVhOV1JZb1B4RlI3Y05RbDVMUXpXaWtSSkh5bFhtMEpUSmFId2NaYkpSOFlRdGdNRk93cW5EYkRGNTZJRURTYkxITXl1VGdZeURtcURaYkszUll6djljaWxCVFZxTi1sa0hoVXhuQk5UVTBFVGZneXdoWG1DYmltWTlwaWtlRmhKeXB0MEMxTndvaG94Y3V0ODZvbmw4ZHU3b093UmRFeHA1c20zVFRLWFZsNXViTzdLemd2WUlaSm1RdE9fOHdVcl9oMFhnVklGVg?oc=5"
         }
       ],
       "sources": [
@@ -348,6 +994,10 @@
         {
           "name": "BNN Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXRYSm5wS2FFcXVtNTAtS0duTG5TbFB5WnJWZ2tRTExNOE40QmJHUlk2aDZobGN5eHB4Q0tpTU82RHhONXpjZnlQSF9CQWFrWjNabUZtcDgtQUJBNEgzcFl6OWQyRHRYU0hWMmhrM3dKVDRDTjFQUFdSNFpaejhwS0xmWW52VGNlUHNMQ1U0ZFNUZHppV2JGc1hYOXJMN0RLZUs5MmFsLVVGYWNpVlVGQkhwZ3h1eW1ZTFRZcE5FckY1N1RINF9neHNnYWtEVWpjblRwNWI1aWZqMlpGNVVj?oc=5"
+        },
+        {
+          "name": "KOIN.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0s1QVhOV1JZb1B4RlI3Y05RbDVMUXpXaWtSSkh5bFhtMEpUSmFId2NaYkpSOFlRdGdNRk93cW5EYkRGNTZJRURTYkxITXl1VGdZeURtcURaYkszUll6djljaWxCVFZxTi1sa0hoVXhuQk5UVTBFVGZneXdoWG1DYmltWTlwaWtlRmhKeXB0MEMxTndvaG94Y3V0ODZvbmw4ZHU3b093UmRFeHA1c20zVFRLWFZsNXViTzdLemd2WUlaSm1RdE9fOHdVcl9oMFhnVklGVtIB1AFBVV95cUxOb0s1QVhOV1JZb1B4RlI3Y05RbDVMUXpXaWtSSkh5bFhtMEpUSmFId2NaYkpSOFlRdGdNRk93cW5EYkRGNTZJRURTYkxITXl1VGdZeURtcURaYkszUll6djljaWxCVFZxTi1sa0hoVXhuQk5UVTBFVGZneXdoWG1DYmltWTlwaWtlRmhKeXB0MEMxTndvaG94Y3V0ODZvbmw4ZHU3b093UmRFeHA1c20zVFRLWFZsNXViTzdLemd2WUlaSm1RdE9fOHdVcl9oMFhnVklGVg?oc=5"
         }
       ]
     },
@@ -364,16 +1014,16 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3pRbWl2YXFjVl9VN3JMR1I3WHl1RXBkZ2xjMVJ4QWJiYi1pVTc3Wk5MMG1SOU5jc2E3QjhZcG4yRkg1TVNBTGFSWGVuMWFLSVNOM1RVa29tLWlHVDFOLS0wc1Q3UEJoZzJzejRBaGk5QTBjWHFVZ2pwMDdEeW15d3FGeExUdVVlNkNWU1RUZklpazV5QV9qeExUY0lUN2RWS3NkNmpMQno3d21ST2NLT2FuSQ?oc=5"
         },
         {
-          "headline": "Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million",
-          "source": "Yahoo Finance",
-          "snippet": "Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVFZb01FaDVjUHExWVVEekJ2bEx4el9tVVRJYXJaSWVKSzJWaGRzVFo5a2RoVGotRVJSNE9CODVWLWdLNFdZeFZTZy16dEE3OVQ1SjBnWlNQeWdPVnoxMFFpdGlVTFhQZXpkbG0wSzlzUXJGd3RJR1NzbC13Z0gxOC15cGlaT2J1YVdlY0V3TlJtT0tUZm5QRkZ3LW5yUmFQZXNOcmdtcw?oc=5"
-        },
-        {
           "headline": "Strategy Restarts Bitcoin Buying With $370 Million Purchase",
           "source": "The Defiant",
           "snippet": "Strategy Restarts Bitcoin Buying With $370 Million Purchase &nbsp;&nbsp; The Defiant",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnlWZVFDODN5RFhlM01qNW1UdTZwc25CQXoyc0hCUF9PQmdRUmpiallKSzUzU0Z2V0VraWp1M24yRzBsdXFRem5mLXVuaXZzbFZNck5iWEJ6NkZMQlhqSUxmR282SmV6S0h0c2lZY085MGdzcmd5cGUtVGpFNURXaDhGVndUZWRyZHZXUTNuc2FsdEFo?oc=5"
+        },
+        {
+          "headline": "Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million",
+          "source": "Yahoo Finance",
+          "snippet": "Saylor’s Strategy Restarts Bitcoin Buying, Spending $370 Million &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVFZb01FaDVjUHExWVVEekJ2bEx4el9tVVRJYXJaSWVKSzJWaGRzVFo5a2RoVGotRVJSNE9CODVWLWdLNFdZeFZTZy16dEE3OVQ1SjBnWlNQeWdPVnoxMFFpdGlVTFhQZXpkbG0wSzlzUXJGd3RJR1NzbC13Z0gxOC15cGlaT2J1YVdlY0V3TlJtT0tUZm5QRkZ3LW5yUmFQZXNOcmdtcw?oc=5"
         }
       ],
       "sources": [
@@ -382,12 +1032,12 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3pRbWl2YXFjVl9VN3JMR1I3WHl1RXBkZ2xjMVJ4QWJiYi1pVTc3Wk5MMG1SOU5jc2E3QjhZcG4yRkg1TVNBTGFSWGVuMWFLSVNOM1RVa29tLWlHVDFOLS0wc1Q3UEJoZzJzejRBaGk5QTBjWHFVZ2pwMDdEeW15d3FGeExUdVVlNkNWU1RUZklpazV5QV9qeExUY0lUN2RWS3NkNmpMQno3d21ST2NLT2FuSQ?oc=5"
         },
         {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVFZb01FaDVjUHExWVVEekJ2bEx4el9tVVRJYXJaSWVKSzJWaGRzVFo5a2RoVGotRVJSNE9CODVWLWdLNFdZeFZTZy16dEE3OVQ1SjBnWlNQeWdPVnoxMFFpdGlVTFhQZXpkbG0wSzlzUXJGd3RJR1NzbC13Z0gxOC15cGlaT2J1YVdlY0V3TlJtT0tUZm5QRkZ3LW5yUmFQZXNOcmdtcw?oc=5"
-        },
-        {
           "name": "The Defiant",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnlWZVFDODN5RFhlM01qNW1UdTZwc25CQXoyc0hCUF9PQmdRUmpiallKSzUzU0Z2V0VraWp1M24yRzBsdXFRem5mLXVuaXZzbFZNck5iWEJ6NkZMQlhqSUxmR282SmV6S0h0c2lZY085MGdzcmd5cGUtVGpFNURXaDhGVndUZWRyZHZXUTNuc2FsdEFo?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVFZb01FaDVjUHExWVVEekJ2bEx4el9tVVRJYXJaSWVKSzJWaGRzVFo5a2RoVGotRVJSNE9CODVWLWdLNFdZeFZTZy16dEE3OVQ1SjBnWlNQeWdPVnoxMFFpdGlVTFhQZXpkbG0wSzlzUXJGd3RJR1NzbC13Z0gxOC15cGlaT2J1YVdlY0V3TlJtT0tUZm5QRkZ3LW5yUmFQZXNOcmdtcw?oc=5"
         }
       ]
     },
@@ -428,6 +1078,26 @@
         {
           "name": "WREG.com",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONldfV0ZWQ25kVzJEbi16eGptZTJJZUItTGZqeXhxWjFxWGpuTVVPaFVTS3d6MzNHUWFfVi10bWZZbjBqR1dKMFY2clVWaXBGNE1ickZtYUg0Ykg1WXFWWWQxOF9WZVlNbl9HaUVLcUtfWFZzTU1mMzBkbFlBaEc0TVQ0Ymw2SkpieVJoUVZKRm05bE9kUHBpRmtHdko2QkhJY3BsdjRKSndpMzZfdEU3S2dteEsyb0pyLTdfZHl5RFVtT3VnMV9tbmxoSmx5ZW5HbUFGR1VlR0x0LWNWWHdJ0gHkAUFVX3lxTE5iUzVZRVMyeFlSYTN3YVptZnVIWmh1UV9kc0FPQ09lR2dkeE9DTHZfUVNrTUpqZUF6dU9BbkZ3ei1RT2hGM2piVlZDVmFoQWRtZjBja3k2RzhnNXBTTThMOFc0ekRjWFRqbmxBb3lVV3ZhM1I0RHAxQWlHNzdPTlpvSWhVY0RYTFRMTzVFU2ViNGhRaEZKb20xZ01iMkxIUGRwTzVsaG5zVzN5NURySUJtMDJLNWk0SHFFX0Zqd3ZpZkQ0aFRQSFBoTk03US1vWG5xYmM5cVUtalZCeDdNcUFZa0U3Uw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-08-31-91a18c127209",
+      "original_title": "Trump on Warsh: He'll do what he has to do",
+      "published_at": "2026-08-31T20:16:09Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Trump on Warsh: He'll do what he has to do",
+          "source": "Reuters",
+          "snippet": "Trump on Warsh: He'll do what he has to do &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZl9FMVhiSGVQaWZTOWF1X24zU19tdmpqZWRGV2pzcE5wOWxmZ1dsQzlzNHhvTnZpM09kTW5Rc0tGN2JMNTloZ2c4d1c5d1daVHZhRVo3ekt6MzhNQ2FBWnktbVZYdm9DU1hVRHNuck9XZ09kNnh3Z05Sc214RV9LSGlR?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZl9FMVhiSGVQaWZTOWF1X24zU19tdmpqZWRGV2pzcE5wOWxmZ1dsQzlzNHhvTnZpM09kTW5Rc0tGN2JMNTloZ2c4d1c5d1daVHZhRVo3ekt6MzhNQ2FBWnktbVZYdm9DU1hVRHNuck9XZ09kNnh3Z05Sc214RV9LSGlR?oc=5"
         }
       ]
     },
@@ -1608,596 +2278,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9743162/US-Treasury-Secretary-Bessent-We-are-not-in-a-trade-war-with-Canada-Unfortunately-Carney-turned-this-into-a-shouting-match---CNBC-Interview.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-8dcd28bbc94b",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: There is a meeting with my Canadian counterpart here at the G20",
-      "published_at": "2026-08-31T14:41:00Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: There is a meeting with my Canadian counterpart here at the G20",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743161/US-Treasury-Secretary-Bessent-There-is-a-meeting-with-my-Canadian-counterpart-here-at-the-G20---CNBC-Interview.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743161/US-Treasury-Secretary-Bessent-There-is-a-meeting-with-my-Canadian-counterpart-here-at-the-G20---CNBC-Interview.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-d9a7a04f0f3d",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: I think the yen market is pricing in expectations now.",
-      "published_at": "2026-08-31T14:39:40Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: I think the yen market is pricing in expectations now.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743160/US-Treasury-Secretary-Bessent-I-think-the-yen-market-is-pricing-in-expectations-now.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743160/US-Treasury-Secretary-Bessent-I-think-the-yen-market-is-pricing-in-expectations-now.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-0e3c3ab31c6d",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: My belief is that the Japanese government and the BoJ will do things that will lead to a stronger Yen",
-      "published_at": "2026-08-31T14:39:27Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: My belief is that the Japanese government and the BoJ will do things that will lead to a stronger Yen",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743159/US-Treasury-Secretary-Bessent-My-belief-is-that-the-Japanese-government-and-the-BoJ-will-do-things-that-will-lead-to-a-stronger-Yen---CNBC-Interview.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743159/US-Treasury-Secretary-Bessent-My-belief-is-that-the-Japanese-government-and-the-BoJ-will-do-things-that-will-lead-to-a-stronger-Yen---CNBC-Interview.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-8f472002f6cb",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: Perhaps the US is the top bond market due to the buybacks news.",
-      "published_at": "2026-08-31T14:37:21Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: Perhaps the US is the top bond market due to the buybacks news.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743158/US-Treasury-Secretary-Bessent-Perhaps-the-US-is-the-top-bond-market-due-to-the-buybacks-news.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743158/US-Treasury-Secretary-Bessent-Perhaps-the-US-is-the-top-bond-market-due-to-the-buybacks-news.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-880df076c911",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: We're working with Trump Budget Director Vought on a fiscal consolidation package",
-      "published_at": "2026-08-31T14:37:00Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: We're working with Trump Budget Director Vought on a fiscal consolidation package",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743157/US-Treasury-Secretary-Bessent-Were-working-with-Trump-Budget-Director-Vought-on-a-fiscal-consolidation-package---CNBC-Interview.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743157/US-Treasury-Secretary-Bessent-Were-working-with-Trump-Budget-Director-Vought-on-a-fiscal-consolidation-package---CNBC-Interview.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-beebc3481a68",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: Core inflation has remained very restrained.",
-      "published_at": "2026-08-31T14:36:03Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: Core inflation has remained very restrained.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743156/US-Treasury-Secretary-Bessent-Core-inflation-has-remained-very-restrained.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743156/US-Treasury-Secretary-Bessent-Core-inflation-has-remained-very-restrained.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-f981f68f9e73",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: Traditionally, you don't raise rates into a supply shock.",
-      "published_at": "2026-08-31T14:35:52Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: Traditionally, you don't raise rates into a supply shock.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743155/US-Treasury-Secretary-Bessent-Traditionally-you-dont-raise-rates-into-a-supply-shock-.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743155/US-Treasury-Secretary-Bessent-Traditionally-you-dont-raise-rates-into-a-supply-shock-.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-b24aec47a5b4",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: I am not going to speculate on what the Fed may do or not.",
-      "published_at": "2026-08-31T14:35:34Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: I am not going to speculate on what the Fed may do or not.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743154/US-Treasury-Secretary-Bessent-I-am-not-going-to-speculate-on-what-the-Fed-may-do-or-not.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743154/US-Treasury-Secretary-Bessent-I-am-not-going-to-speculate-on-what-the-Fed-may-do-or-not.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-ff7694294f30",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent on the US bond market: I don't believe I can change the equilibrium price",
-      "published_at": "2026-08-31T14:35:09Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent on the US bond market: I don't believe I can change the equilibrium price",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743153/US-Treasury-Secretary-Bessent-on-the-US-bond-market-I-dont-believe-I-can-change-the-equilibrium-price---CNBC-Interview.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743153/US-Treasury-Secretary-Bessent-on-the-US-bond-market-I-dont-believe-I-can-change-the-equilibrium-price---CNBC-Interview.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-f9537a6c1e6d",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: The 10-year yield is flat since  Trump came in.",
-      "published_at": "2026-08-31T14:34:43Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: The 10-year yield is flat since  Trump came in.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743152/US-Treasury-Secretary-Bessent-The-10-year-yield-is-flat-since--Trump-came-in.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743152/US-Treasury-Secretary-Bessent-The-10-year-yield-is-flat-since--Trump-came-in.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-1114c8f4621a",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: The US bond market is the best performing this month.",
-      "published_at": "2026-08-31T14:34:06Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: The US bond market is the best performing this month.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743151/US-Treasury-Secretary-Bessent-The-US-bond-market-is-the-best-performing-this-month.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743151/US-Treasury-Secretary-Bessent-The-US-bond-market-is-the-best-performing-this-month.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-ea7bee2ccfa5",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: Fed's Chair Warsh and I are on the same page on bonds.",
-      "published_at": "2026-08-31T14:33:47Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: Fed's Chair Warsh and I are on the same page on bonds.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743150/US-Treasury-Secretary-Bessent-Feds-Chair-Warsh-and-I-are-on-the-same-page-on-bonds.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743150/US-Treasury-Secretary-Bessent-Feds-Chair-Warsh-and-I-are-on-the-same-page-on-bonds.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-7f888d5794ca",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: I had a robust meeting with China Governor Pan on Sunday",
-      "published_at": "2026-08-31T14:33:29Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: I had a robust meeting with China Governor Pan on Sunday",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743149/US-Treasury-Secretary-Bessent-I-had-a-robust-meeting-with-China-Governor-Pan-on-Sunday---CNBC-Interview.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743149/US-Treasury-Secretary-Bessent-I-had-a-robust-meeting-with-China-Governor-Pan-on-Sunday---CNBC-Interview.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-7e9168305614",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: We can do this without China, Iranian oil on the water is limited.",
-      "published_at": "2026-08-31T14:32:57Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: We can do this without China, Iranian oil on the water is limited.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743148/US-Treasury-Secretary-Bessent-We-can-do-this-without-China-Iranian-oil-on-the-water-is-limited.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743148/US-Treasury-Secretary-Bessent-We-can-do-this-without-China-Iranian-oil-on-the-water-is-limited.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-99217fc50074",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: We have more in common with China on Iran than we disagree on",
-      "published_at": "2026-08-31T14:32:29Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: We have more in common with China on Iran than we disagree on",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743147/US-Treasury-Secretary-Bessent-We-have-more-in-common-with-China-on-Iran-than-we-disagree-on---CNBC-Interview.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743147/US-Treasury-Secretary-Bessent-We-have-more-in-common-with-China-on-Iran-than-we-disagree-on---CNBC-Interview.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-3a4bce7bdf97",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: Operation Outcast will make Iran want to make a deal. The goal is to create a condition that they'd want to come to the table.",
-      "published_at": "2026-08-31T14:31:13Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: Operation Outcast will make Iran want to make a deal. The goal is to create a condition that they'd want to come to the table.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743131/US-Treasury-Secretary-Bessent-Operation-Outcast-will-make-Iran-want-to-make-a-deal-The-goal-is-to-create-a-condition-that-theyd-want-to-come-to-the-table.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743131/US-Treasury-Secretary-Bessent-Operation-Outcast-will-make-Iran-want-to-make-a-deal-The-goal-is-to-create-a-condition-that-theyd-want-to-come-to-the-table.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-f710c01ef010",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: Trump doesn't think Iran is ready to make a deal.",
-      "published_at": "2026-08-31T14:30:03Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: Trump doesn't think Iran is ready to make a deal.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743125/US-Treasury-Secretary-Bessent-Trump-doesnt-think-Iran-is-ready-to-make-a-deal.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743125/US-Treasury-Secretary-Bessent-Trump-doesnt-think-Iran-is-ready-to-make-a-deal.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-99da8de33781",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: The oil prices are going to come down",
-      "published_at": "2026-08-31T14:29:43Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: The oil prices are going to come down",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743124/US-Treasury-Secretary-Bessent-The-oil-prices-are-going-to-come-down---CNBC.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743124/US-Treasury-Secretary-Bessent-The-oil-prices-are-going-to-come-down---CNBC.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-4e107d07e273",
-      "original_title": "FinancialJuice: Crypto Fear and Greed Index: 62/100 = Greed",
-      "published_at": "2026-08-31T14:20:06Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Crypto Fear and Greed Index: 62/100 = Greed",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743123/Crypto-Fear-and-Greed-Index-62100--Greed.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743123/Crypto-Fear-and-Greed-Index-62100--Greed.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-e2d8f71bace9",
-      "original_title": "Blockaid Traces $9.3 Million Exploit at Flow Lender More Markets",
-      "published_at": "2026-08-31T13:43:37Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Blockaid Traces $9.3 Million Exploit at Flow Lender More Markets",
-          "source": "CryptoRank",
-          "snippet": "Blockaid Traces $9.3 Million Exploit at Flow Lender More Markets &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BMWw1XzFqbGlSa1c5bmI4dmI3blZ5Um1pX19kRnVjM2toZXBRcGthb2tad0t4M3RnZkpxYVBZODFQWTFyZTdrR0lpT3g2M1N0Q3p2RmhTaTdQbG1EUU9XVnpVV3RuclVIVTg3dmdZRFUtM0psczdfUWN4M2VCdw?oc=5"
-        },
-        {
-          "headline": "Blockaid Traces $9.3 Million Exploit at Flow Lender More Markets",
-          "source": "BeInCrypto",
-          "snippet": "Blockaid Traces $9.3 Million Exploit at Flow Lender More Markets &nbsp;&nbsp; BeInCrypto",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCcDY5WkZaUjc5d3VVMG9ycDcwSTRqR1V1d05neTVyUV9VS3FoWmNXTHUxbzNNT0pJUlR2SUFUa3N5dnF1SmZRdFVFMWJIZkd2eGRCdERVQXk0clpvdUNaY0tHdW9PbU10U2Mw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BMWw1XzFqbGlSa1c5bmI4dmI3blZ5Um1pX19kRnVjM2toZXBRcGthb2tad0t4M3RnZkpxYVBZODFQWTFyZTdrR0lpT3g2M1N0Q3p2RmhTaTdQbG1EUU9XVnpVV3RuclVIVTg3dmdZRFUtM0psczdfUWN4M2VCdw?oc=5"
-        },
-        {
-          "name": "BeInCrypto",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCcDY5WkZaUjc5d3VVMG9ycDcwSTRqR1V1d05neTVyUV9VS3FoWmNXTHUxbzNNT0pJUlR2SUFUa3N5dnF1SmZRdFVFMWJIZkd2eGRCdERVQXk0clpvdUNaY0tHdW9PbU10U2Mw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-9e3a9e0f872c",
-      "original_title": "A look at Iran's Kharg Island and energy sector",
-      "published_at": "2026-08-31T13:39:18Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "A look at Iran's Kharg Island and energy sector",
-          "source": "Reuters",
-          "snippet": "A look at Iran's Kharg Island and energy sector &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmt4Q3IzMGlodHRiaUpZWVBLUHNxQW5ydExabHlPNzlIMF85QjNWODQ0MWl6Y3ZETVJEVUpYaHN6a0ZabWlWNHpfMHRleWJfdllvZDRCRG5qVDVDb0JsZTh0M2xobFNQYTNMWGhMVkItM3RPRWZLaTdqQ2xKdmdtV3VCbjBmNE1nalpQZUxJelBoQmM?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmt4Q3IzMGlodHRiaUpZWVBLUHNxQW5ydExabHlPNzlIMF85QjNWODQ0MWl6Y3ZETVJEVUpYaHN6a0ZabWlWNHpfMHRleWJfdllvZDRCRG5qVDVDb0JsZTh0M2xobFNQYTNMWGhMVkItM3RPRWZLaTdqQ2xKdmdtV3VCbjBmNE1nalpQZUxJelBoQmM?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-9075870a41c9",
-      "original_title": "Ireland bars crypto from new tax-advantaged investment accounts",
-      "published_at": "2026-08-31T13:29:56Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Ireland bars crypto from new tax-advantaged investment accounts",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/08/31/ireland-bars-crypto-from-new-tax-advantaged-investment-accounts"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/08/31/ireland-bars-crypto-from-new-tax-advantaged-investment-accounts"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-45669bca1087",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent and Fed Chair Warsh conclude opening remarks at the G20 gathering.",
-      "published_at": "2026-08-31T13:29:55Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent and Fed Chair Warsh conclude opening remarks at the G20 gathering.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743046/US-Treasury-Secretary-Bessent-and-Fed-Chair-Warsh-conclude-opening-remarks-at-the-G20-gathering.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743046/US-Treasury-Secretary-Bessent-and-Fed-Chair-Warsh-conclude-opening-remarks-at-the-G20-gathering.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-c2e34aa945e9",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: The global savings glut seems like a long time ago.",
-      "published_at": "2026-08-31T13:29:28Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: The global savings glut seems like a long time ago.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743045/Feds-Chair-Warsh-The-global-savings-glut-seems-like-a-long-time-ago.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743045/Feds-Chair-Warsh-The-global-savings-glut-seems-like-a-long-time-ago.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-fe15d1f0ac1b",
-      "original_title": "FinancialJuice: Senior Iranian Source: Recent hostilities remain a limited and contained confrontation between Iran and Washington.",
-      "published_at": "2026-08-31T13:29:15Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Senior Iranian Source: Recent hostilities remain a limited and contained confrontation between Iran and Washington.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743044/Senior-Iranian-Source-Recent-hostilities-remain-a-limited-and-contained-confrontation-between-Iran-and-Washington.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743044/Senior-Iranian-Source-Recent-hostilities-remain-a-limited-and-contained-confrontation-between-Iran-and-Washington.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-7b0c5ffcdd42",
-      "original_title": "FinancialJuice: Senior Iranian Source: Conditions in the Strait of Hormuz will worsen for vessels that violate Tehran’s rules.",
-      "published_at": "2026-08-31T13:28:48Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Senior Iranian Source: Conditions in the Strait of Hormuz will worsen for vessels that violate Tehran’s rules.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743043/Senior-Iranian-Source-Conditions-in-the-Strait-of-Hormuz-will-worsen-for-vessels-that-violate-Tehrans-rules.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743043/Senior-Iranian-Source-Conditions-in-the-Strait-of-Hormuz-will-worsen-for-vessels-that-violate-Tehrans-rules.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-9df38ec60915",
-      "original_title": "FinancialJuice: Senior Iranian Source: Iran’s retaliation against US strikes on Larak showed that no target in the region is beyond Tehran’s reach.",
-      "published_at": "2026-08-31T13:28:36Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Senior Iranian Source: Iran’s retaliation against US strikes on Larak showed that no target in the region is beyond Tehran’s reach.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743042/Senior-Iranian-Source-Irans-retaliation-against-US-strikes-on-Larak-showed-that-no-target-in-the-region-is-beyond-Tehrans-reach.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743042/Senior-Iranian-Source-Irans-retaliation-against-US-strikes-on-Larak-showed-that-no-target-in-the-region-is-beyond-Tehrans-reach.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-b899d28258a5",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: My prior relationship with Bessent has proven fruitful",
-      "published_at": "2026-08-31T13:26:52Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: My prior relationship with Bessent has proven fruitful",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743039/Feds-Chair-Warsh-My-prior-relationship-with-Bessent-has-proven-fruitful---G20-Meeting.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743039/Feds-Chair-Warsh-My-prior-relationship-with-Bessent-has-proven-fruitful---G20-Meeting.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-08-31-b848b2095372",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: We thank the EU for strong support of actions against Iran.",
-      "published_at": "2026-08-31T13:26:00Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: We thank the EU for strong support of actions against Iran.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9743038/US-Treasury-Secretary-Bessent-We-thank-the-EU-for-strong-support-of-actions-against-Iran.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9743038/US-Treasury-Secretary-Bessent-We-thank-the-EU-for-strong-support-of-actions-against-Iran.aspx?xy=rss"
         }
       ]
     }
