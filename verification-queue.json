@@ -1,6 +1,316 @@
 {
-  "updated_at_kst": "2026-09-03T03:41:21+09:00",
+  "updated_at_kst": "2026-09-03T06:49:01+09:00",
   "items": [
+    {
+      "stable_id": "2026-09-02-56c97bef11f5",
+      "original_title": "Yen jumps, oil pumps",
+      "published_at": "2026-09-02T21:34:49Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Yen jumps, oil pumps",
+          "source": "WTVB",
+          "snippet": "Yen jumps, oil pumps &nbsp;&nbsp; WTVB",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUdER5SUtIdmxJV1U2aExxN2dYSkNkbFBEWG5jS3laT004NHN2RlZMNXg2dWJJNTdwRFpnUkhFSnhpZ0JQajd4dUJyMjF1LVN2UDlCdVd5cFk5UEdLRlhB?oc=5"
+        },
+        {
+          "headline": "COMMENTARY: TRADING DAY Yen jumps, oil pumps",
+          "source": "Reuters",
+          "snippet": "COMMENTARY: TRADING DAY Yen jumps, oil pumps &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0FHMEFfd2xEWjlNWjNZazN5b01VM0MwbW96M3Z0bDZ6cktHVGdXN3UzbjZ1RnZsYTNaWk15REIyRDdPQ190bklNVTFOWkFEclZGMm1WWlZ5TDBqRWlsUUZpbjROSHFnX3NWb3gyWWRaOGRUbWZyakZMVTNVc2tVWC0wWXlNN1RjMmJDVmtIZVRjdXMtRWFDOFBrdG1jVF9Ec0pVWlZn?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "WTVB",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUdER5SUtIdmxJV1U2aExxN2dYSkNkbFBEWG5jS3laT004NHN2RlZMNXg2dWJJNTdwRFpnUkhFSnhpZ0JQajd4dUJyMjF1LVN2UDlCdVd5cFk5UEdLRlhB?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0FHMEFfd2xEWjlNWjNZazN5b01VM0MwbW96M3Z0bDZ6cktHVGdXN3UzbjZ1RnZsYTNaWk15REIyRDdPQ190bklNVTFOWkFEclZGMm1WWlZ5TDBqRWlsUUZpbjROSHFnX3NWb3gyWWRaOGRUbWZyakZMVTNVc2tVWC0wWXlNN1RjMmJDVmtIZVRjdXMtRWFDOFBrdG1jVF9Ec0pVWlZn?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-086e507a6c0e",
+      "original_title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+      "published_at": "2026-09-02T21:24:26Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-e2fe1b8f21b0",
+      "original_title": "FinancialJuice: US Commerce Secretary Lutnick: Relaxing tech export controls for China not necessary.",
+      "published_at": "2026-09-02T20:47:51Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Commerce Secretary Lutnick: Relaxing tech export controls for China not necessary.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9747451/US-Commerce-Secretary-Lutnick-Relaxing-tech-export-controls-for-China-not-necessary.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9747451/US-Commerce-Secretary-Lutnick-Relaxing-tech-export-controls-for-China-not-necessary.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-cb750c0422af",
+      "original_title": "FinancialJuice: RBNZ governor Breman: There is a real risk that unless we respond in monetary policy, inflation expectations will get out of hand.",
+      "published_at": "2026-09-02T20:39:01Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBNZ governor Breman: There is a real risk that unless we respond in monetary policy, inflation expectations will get out of hand.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9747435/RBNZ-governor-Breman-There-is-a-real-risk-that-unless-we-respond-in-monetary-policy-inflation-expectations-will-get-out-of-hand.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9747435/RBNZ-governor-Breman-There-is-a-real-risk-that-unless-we-respond-in-monetary-policy-inflation-expectations-will-get-out-of-hand.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-fae085c4b575",
+      "original_title": "FinancialJuice: US Commerce Secretary Lutnick: G20 members unanimously agreed on tech principles.",
+      "published_at": "2026-09-02T20:30:07Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Commerce Secretary Lutnick: G20 members unanimously agreed on tech principles.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9747418/US-Commerce-Secretary-Lutnick-G20-members-unanimously-agreed-on-tech-principles.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9747418/US-Commerce-Secretary-Lutnick-G20-members-unanimously-agreed-on-tech-principles.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-22853e8f6ca3",
+      "original_title": "FinancialJuice: RBNZ's Breman sees risk of more indirect inflation from fuel.",
+      "published_at": "2026-09-02T20:27:41Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBNZ's Breman sees risk of more indirect inflation from fuel.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9747416/RBNZs-Breman-sees-risk-of-more-indirect-inflation-from-fuel.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9747416/RBNZs-Breman-sees-risk-of-more-indirect-inflation-from-fuel.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-26209cf1a9eb",
+      "original_title": "FinancialJuice: RBNZ's Silk: Inflation excluding fuel 'uncomfortably high.",
+      "published_at": "2026-09-02T20:15:05Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBNZ's Silk: Inflation excluding fuel 'uncomfortably high.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9747399/RBNZs-Silk-Inflation-excluding-fuel-uncomfortably-high.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9747399/RBNZs-Silk-Inflation-excluding-fuel-uncomfortably-high.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-9aab109274cf",
+      "original_title": "FinancialJuice: RBNZ Governor Breman: Expect core inflation to continue increasing somewhat over the coming months.",
+      "published_at": "2026-09-02T20:14:43Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBNZ Governor Breman: Expect core inflation to continue increasing somewhat over the coming months.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9747398/RBNZ-Governor-Breman-Expect-core-inflation-to-continue-increasing-somewhat-over-the-coming-months.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9747398/RBNZ-Governor-Breman-Expect-core-inflation-to-continue-increasing-somewhat-over-the-coming-months.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-68f2b8366e96",
+      "original_title": "FinancialJuice: RBNZ'S Breman: Expect core inflation to increase further.",
+      "published_at": "2026-09-02T20:13:57Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBNZ'S Breman: Expect core inflation to increase further.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9747396/RBNZS-Breman-Expect-core-inflation-to-increase-further.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9747396/RBNZS-Breman-Expect-core-inflation-to-increase-further.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-3ab98ba603a5",
+      "original_title": "FinancialJuice: RBNZ Governor Breman: Expect to see indirect impact of higher oil prices coming through in the coming quarters.",
+      "published_at": "2026-09-02T20:13:37Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBNZ Governor Breman: Expect to see indirect impact of higher oil prices coming through in the coming quarters.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9747395/RBNZ-Governor-Breman-Expect-to-see-indirect-impact-of-higher-oil-prices-coming-through-in-the-coming-quarters.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9747395/RBNZ-Governor-Breman-Expect-to-see-indirect-impact-of-higher-oil-prices-coming-through-in-the-coming-quarters.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-a172fb5aef68",
+      "original_title": "FinancialJuice: RBNZ Governor Breman: Gradual removal of monetary stimulus is appropriate to return inflation to target while still supporting growth and employment.",
+      "published_at": "2026-09-02T20:12:01Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBNZ Governor Breman: Gradual removal of monetary stimulus is appropriate to return inflation to target while still supporting growth and employment.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9747393/RBNZ-Governor-Breman-Gradual-removal-of-monetary-stimulus-is-appropriate-to-return-inflation-to-target-while-still-supporting-growth-and-employment.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9747393/RBNZ-Governor-Breman-Gradual-removal-of-monetary-stimulus-is-appropriate-to-return-inflation-to-target-while-still-supporting-growth-and-employment.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-dffc7932cc42",
+      "original_title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
+      "published_at": "2026-09-02T20:08:34Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-3cd0e7f265a3",
+      "original_title": "FinancialJuice: US August Employment Situation Crib Sheet",
+      "published_at": "2026-09-02T19:24:02Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US August Employment Situation Crib Sheet",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9747346/US-August-Employment-Situation-Crib-Sheet---FJElite.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9747346/US-August-Employment-Situation-Crib-Sheet---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-539f963ce500",
+      "original_title": "2026 도널드 J. 트럼프 대통령 1달러 동전이 공식적으로 유통 중이며, 오늘 동부 표준시 오후 12시에 구매할 수 있습니다. 🇺🇸 여기서 구매하세요: bit.ly/4wMEEbC",
+      "published_at": "2026-09-02T18:57:08Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "2026 도널드 J. 트럼프 대통령 1달러 동전이 공식적으로 유통 중이며, 오늘 동부 표준시 오후 12시에 구매할 수 있습니다. 🇺🇸 여기서 구매하세요: bit.ly/4wMEEbC",
+          "source": "Telegram @goddessTTF",
+          "snippet": "2026 도널드 J. 트럼프 대통령 1달러 동전이 공식적으로 유통 중이며, 오늘 동부 표준시 오후 12시에 구매할 수 있습니다. 🇺🇸 여기서 구매하세요: bit.ly/4wMEEbC",
+          "url": "https://t.me/goddessTTF/83577"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83577"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-e8e477ccaf46",
+      "original_title": "도널드 J. 트럼프 대통령은 델시 로드리게스 베네수엘라 대통령이 선거를 치르기를 원하지만, 베네수엘라는 아직 준비가 되지 않았다고 밝혔습니다. \"저는 그들이 아직 준비되지 않았다고 봅니다. 아시다시피 이는 매우 새로운 변화입니다. 우리는 독재 정권으로부터 그들을 구출해 냈고, 현재 우리는 그 정부와 매우 훌륭하게 잘 지내고 있습니다.\" \"아시다시피 델시는 아주, 대단히 일을 훌륭하게 해내고 ",
+      "published_at": "2026-09-02T18:41:47Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "도널드 J. 트럼프 대통령은 델시 로드리게스 베네수엘라 대통령이 선거를 치르기를 원하지만, 베네수엘라는 아직 준비가 되지 않았다고 밝혔습니다. \"저는 그들이 아직 준비되지 않았다고 봅니다. 아시다시피 이는 매우 새로운 변화입니다. 우리는 독재 정권으로부터 그들을 구출해 냈고, 현재 우리는 그 정부와 매우 훌륭하게 잘 지내고 있습니다.\" \"아시다시피 델시는 아주, 대단히 일을 훌륭하게 해내고 ",
+          "source": "Telegram @goddessTTF",
+          "snippet": "도널드 J. 트럼프 대통령은 델시 로드리게스 베네수엘라 대통령이 선거를 치르기를 원하지만, 베네수엘라는 아직 준비가 되지 않았다고 밝혔습니다. \"저는 그들이 아직 준비되지 않았다고 봅니다. 아시다시피 이는 매우 새로운 변화입니다. 우리는 독재 정권으로부터 그들을 구출해 냈고, 현재 우리는 그 정부와 매우 훌륭하게 잘 지내고 있습니다.\" \"아시다시피 델시는 아주, 대단히 일을 훌륭하게 해내고 있으며 매우 높은 존경을 받고 있습니다. 우리도 그것(선거)을 원하고 그들도 그것을 원하고 있습니다. 델시도 그것을 원하지만, 그들은 아직 준비가 되지 않았습니다.\" \"우리는 조만간 그것이 이루어지기를 고대하고 있습니다.\"",
+          "url": "https://t.me/goddessTTF/83573"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/83573"
+        }
+      ]
+    },
     {
       "stable_id": "2026-09-02-e425a00693f3",
       "original_title": "\"저는 [이란과의 문제에 있어] 선거에 영향을 받지 않습니다. 저는 출마하지 않기 때문입니다. 저는 우리 당을 도울 것이지만, 우리 당은 우리가 이란의 핵무기 보유를 결코 용납하지 않는다는 점을 존중하고 있습니다!\"",
@@ -31,13 +341,13 @@
           "headline": "FinancialJuice: Trump: brought up price gouging to oil execs yesterday.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747280/Trump-brought-up-price-gouging-to-oil-execs-yesterday.aspx"
+          "url": "https://www.financialjuice.com/News/9747280/Trump-brought-up-price-gouging-to-oil-execs-yesterday.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747280/Trump-brought-up-price-gouging-to-oil-execs-yesterday.aspx"
+          "url": "https://www.financialjuice.com/News/9747280/Trump-brought-up-price-gouging-to-oil-execs-yesterday.aspx?xy=rss"
         }
       ]
     },
@@ -51,13 +361,13 @@
           "headline": "FinancialJuice: Trump on Iran war: Don't think it'll be much longer.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747279/Trump-on-Iran-war-Dont-think-itll-be-much-longer.aspx"
+          "url": "https://www.financialjuice.com/News/9747279/Trump-on-Iran-war-Dont-think-itll-be-much-longer.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747279/Trump-on-Iran-war-Dont-think-itll-be-much-longer.aspx"
+          "url": "https://www.financialjuice.com/News/9747279/Trump-on-Iran-war-Dont-think-itll-be-much-longer.aspx?xy=rss"
         }
       ]
     },
@@ -71,13 +381,13 @@
           "headline": "FinancialJuice: Trump: Prepared to do another attack on Iran.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747278/Trump-Prepared-to-do-another-attack-on-Iran.aspx"
+          "url": "https://www.financialjuice.com/News/9747278/Trump-Prepared-to-do-another-attack-on-Iran.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747278/Trump-Prepared-to-do-another-attack-on-Iran.aspx"
+          "url": "https://www.financialjuice.com/News/9747278/Trump-Prepared-to-do-another-attack-on-Iran.aspx?xy=rss"
         }
       ]
     },
@@ -91,13 +401,13 @@
           "headline": "FinancialJuice: Trump on Iran: Iran was trying to rebuild radar and missile systems; we took it out.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747277/Trump-on-Iran-Iran-was-trying-to-rebuild-radar-and-missile-systems-we-took-it-out.aspx"
+          "url": "https://www.financialjuice.com/News/9747277/Trump-on-Iran-Iran-was-trying-to-rebuild-radar-and-missile-systems-we-took-it-out.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747277/Trump-on-Iran-Iran-was-trying-to-rebuild-radar-and-missile-systems-we-took-it-out.aspx"
+          "url": "https://www.financialjuice.com/News/9747277/Trump-on-Iran-Iran-was-trying-to-rebuild-radar-and-missile-systems-we-took-it-out.aspx?xy=rss"
         }
       ]
     },
@@ -111,13 +421,13 @@
           "headline": "FinancialJuice: Trump: controlling the Hormuz Strait.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747276/Trump-controlling-the-Hormuz-Strait.aspx"
+          "url": "https://www.financialjuice.com/News/9747276/Trump-controlling-the-Hormuz-Strait.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747276/Trump-controlling-the-Hormuz-Strait.aspx"
+          "url": "https://www.financialjuice.com/News/9747276/Trump-controlling-the-Hormuz-Strait.aspx?xy=rss"
         }
       ]
     },
@@ -131,13 +441,13 @@
           "headline": "FinancialJuice: Trump on Iran: Renewed campaign against Iran won't continue for too long.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747275/Trump-on-Iran-Renewed-campaign-against-Iran-wont-continue-for-too-long.aspx"
+          "url": "https://www.financialjuice.com/News/9747275/Trump-on-Iran-Renewed-campaign-against-Iran-wont-continue-for-too-long.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747275/Trump-on-Iran-Renewed-campaign-against-Iran-wont-continue-for-too-long.aspx"
+          "url": "https://www.financialjuice.com/News/9747275/Trump-on-Iran-Renewed-campaign-against-Iran-wont-continue-for-too-long.aspx?xy=rss"
         }
       ]
     },
@@ -151,13 +461,13 @@
           "headline": "FinancialJuice: Trump: Oil prices will come down.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747274/Trump-Oil-prices-will-come-down.aspx"
+          "url": "https://www.financialjuice.com/News/9747274/Trump-Oil-prices-will-come-down.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747274/Trump-Oil-prices-will-come-down.aspx"
+          "url": "https://www.financialjuice.com/News/9747274/Trump-Oil-prices-will-come-down.aspx?xy=rss"
         }
       ]
     },
@@ -211,13 +521,13 @@
           "headline": "FinancialJuice: Trump on Iran: Regime getting weaker by the day.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747256/Trump-on-Iran-Regime-getting-weaker-by-the-day.aspx"
+          "url": "https://www.financialjuice.com/News/9747256/Trump-on-Iran-Regime-getting-weaker-by-the-day.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747256/Trump-on-Iran-Regime-getting-weaker-by-the-day.aspx"
+          "url": "https://www.financialjuice.com/News/9747256/Trump-on-Iran-Regime-getting-weaker-by-the-day.aspx?xy=rss"
         }
       ]
     },
@@ -231,13 +541,13 @@
           "headline": "FinancialJuice: Fed Beige Book: Employment rose very slightly overall, with three districts showing modest gains in employment, four reporting slight gains, and five districts experiencing no change.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747242/Fed-Beige-Book-Employment-rose-very-slightly-overall-with-three-districts-showing-modest-gains-in-employment-four-reporting-slight-gains-and-five-districts-experiencing-no-change.aspx"
+          "url": "https://www.financialjuice.com/News/9747242/Fed-Beige-Book-Employment-rose-very-slightly-overall-with-three-districts-showing-modest-gains-in-employment-four-reporting-slight-gains-and-five-districts-experiencing-no-change.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747242/Fed-Beige-Book-Employment-rose-very-slightly-overall-with-three-districts-showing-modest-gains-in-employment-four-reporting-slight-gains-and-five-districts-experiencing-no-change.aspx"
+          "url": "https://www.financialjuice.com/News/9747242/Fed-Beige-Book-Employment-rose-very-slightly-overall-with-three-districts-showing-modest-gains-in-employment-four-reporting-slight-gains-and-five-districts-experiencing-no-change.aspx?xy=rss"
         }
       ]
     },
@@ -251,13 +561,13 @@
           "headline": "FinancialJuice: Fed Beige Book: The general outlook for the coming months was positive, but sentiment was mixed across sectors, with contacts reporting heightened uncertainty surrounding the effects of higher energy pric",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747241/Fed-Beige-Book-The-general-outlook-for-the-coming-months-was-positive-but-sentiment-was-mixed-across-sectors-with-contacts-reporting-heightened-uncertainty-surrounding-the-effects-of-higher-energy-prices.aspx"
+          "url": "https://www.financialjuice.com/News/9747241/Fed-Beige-Book-The-general-outlook-for-the-coming-months-was-positive-but-sentiment-was-mixed-across-sectors-with-contacts-reporting-heightened-uncertainty-surrounding-the-effects-of-higher-energy-prices.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747241/Fed-Beige-Book-The-general-outlook-for-the-coming-months-was-positive-but-sentiment-was-mixed-across-sectors-with-contacts-reporting-heightened-uncertainty-surrounding-the-effects-of-higher-energy-prices.aspx"
+          "url": "https://www.financialjuice.com/News/9747241/Fed-Beige-Book-The-general-outlook-for-the-coming-months-was-positive-but-sentiment-was-mixed-across-sectors-with-contacts-reporting-heightened-uncertainty-surrounding-the-effects-of-higher-energy-prices.aspx?xy=rss"
         }
       ]
     },
@@ -291,13 +601,13 @@
           "headline": "FinancialJuice: US Treasury Secretary Bessent concludes Q&A at Charlotte Economics Club.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747235/US-Treasury-Secretary-Bessent-concludes-QA-at-Charlotte-Economics-Club.aspx"
+          "url": "https://www.financialjuice.com/News/9747235/US-Treasury-Secretary-Bessent-concludes-QA-at-Charlotte-Economics-Club.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747235/US-Treasury-Secretary-Bessent-concludes-QA-at-Charlotte-Economics-Club.aspx"
+          "url": "https://www.financialjuice.com/News/9747235/US-Treasury-Secretary-Bessent-concludes-QA-at-Charlotte-Economics-Club.aspx?xy=rss"
         }
       ]
     },
@@ -311,13 +621,13 @@
           "headline": "FinancialJuice: US Commerce Secretary Lutnick ends remarks on Bloomberg TV.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747234/US-Commerce-Secretary-Lutnick-ends-remarks-on-Bloomberg-TV.aspx"
+          "url": "https://www.financialjuice.com/News/9747234/US-Commerce-Secretary-Lutnick-ends-remarks-on-Bloomberg-TV.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747234/US-Commerce-Secretary-Lutnick-ends-remarks-on-Bloomberg-TV.aspx"
+          "url": "https://www.financialjuice.com/News/9747234/US-Commerce-Secretary-Lutnick-ends-remarks-on-Bloomberg-TV.aspx?xy=rss"
         }
       ]
     },
@@ -331,13 +641,13 @@
           "headline": "FinancialJuice: US Treasury Secretary Bessent: I know what the Japanese are planning on doing.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747227/US-Treasury-Secretary-Bessent-I-know-what-the-Japanese-are-planning-on-doing.aspx"
+          "url": "https://www.financialjuice.com/News/9747227/US-Treasury-Secretary-Bessent-I-know-what-the-Japanese-are-planning-on-doing.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747227/US-Treasury-Secretary-Bessent-I-know-what-the-Japanese-are-planning-on-doing.aspx"
+          "url": "https://www.financialjuice.com/News/9747227/US-Treasury-Secretary-Bessent-I-know-what-the-Japanese-are-planning-on-doing.aspx?xy=rss"
         }
       ]
     },
@@ -351,13 +661,13 @@
           "headline": "FinancialJuice: US Commerce Secretary Lutnick: Chip tariffs aimed at boosting US chip output.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747222/US-Commerce-Secretary-Lutnick-Chip-tariffs-aimed-at-boosting-US-chip-output.aspx"
+          "url": "https://www.financialjuice.com/News/9747222/US-Commerce-Secretary-Lutnick-Chip-tariffs-aimed-at-boosting-US-chip-output.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747222/US-Commerce-Secretary-Lutnick-Chip-tariffs-aimed-at-boosting-US-chip-output.aspx"
+          "url": "https://www.financialjuice.com/News/9747222/US-Commerce-Secretary-Lutnick-Chip-tariffs-aimed-at-boosting-US-chip-output.aspx?xy=rss"
         }
       ]
     },
@@ -371,13 +681,13 @@
           "headline": "FinancialJuice: US Commerce Secretary Lutnick: Chinese open-source studying from American AI.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747221/US-Commerce-Secretary-Lutnick-Chinese-open-source-studying-from-American-AI.aspx"
+          "url": "https://www.financialjuice.com/News/9747221/US-Commerce-Secretary-Lutnick-Chinese-open-source-studying-from-American-AI.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747221/US-Commerce-Secretary-Lutnick-Chinese-open-source-studying-from-American-AI.aspx"
+          "url": "https://www.financialjuice.com/News/9747221/US-Commerce-Secretary-Lutnick-Chinese-open-source-studying-from-American-AI.aspx?xy=rss"
         }
       ]
     },
@@ -391,13 +701,13 @@
           "headline": "FinancialJuice: US Commerce Secretary Lutnick: Met with Chinese counterpart on data centers.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747220/US-Commerce-Secretary-Lutnick-Met-with-Chinese-counterpart-on-data-centers.aspx"
+          "url": "https://www.financialjuice.com/News/9747220/US-Commerce-Secretary-Lutnick-Met-with-Chinese-counterpart-on-data-centers.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747220/US-Commerce-Secretary-Lutnick-Met-with-Chinese-counterpart-on-data-centers.aspx"
+          "url": "https://www.financialjuice.com/News/9747220/US-Commerce-Secretary-Lutnick-Met-with-Chinese-counterpart-on-data-centers.aspx?xy=rss"
         }
       ]
     },
@@ -431,13 +741,13 @@
           "headline": "FinancialJuice: US Treasury Secretary Bessent: The UK logical place for the AI boom but is unwilling to invest in energy.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747219/US-Treasury-Secretary-Bessent-The-UK-logical-place-for-the-AI-boom-but-is-unwilling-to-invest-in-energy.aspx"
+          "url": "https://www.financialjuice.com/News/9747219/US-Treasury-Secretary-Bessent-The-UK-logical-place-for-the-AI-boom-but-is-unwilling-to-invest-in-energy.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747219/US-Treasury-Secretary-Bessent-The-UK-logical-place-for-the-AI-boom-but-is-unwilling-to-invest-in-energy.aspx"
+          "url": "https://www.financialjuice.com/News/9747219/US-Treasury-Secretary-Bessent-The-UK-logical-place-for-the-AI-boom-but-is-unwilling-to-invest-in-energy.aspx?xy=rss"
         }
       ]
     },
@@ -462,6 +772,36 @@
       ]
     },
     {
+      "stable_id": "2026-09-02-6fd153b00e7f",
+      "original_title": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea",
+      "published_at": "2026-09-02T17:26:34Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea",
+          "source": "gCaptain",
+          "snippet": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea &nbsp;&nbsp; gCaptain",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZkd205NHJ5RVFnNlBUd0FuTGtnZGpkamoyU3ozWXZfLWZzd2ExUHFCY0toNm05czIwWWZjbUItdV9YMXk5dUpVUFdaeXFVbGJSTjIzY184ZXNyYllXeXVKT0xOZzNhN3o0TjIwZzVhbnFKZVdxM2huWFE2YTVJRld6R2k1M2JYZGp1UkgzUQ?oc=5"
+        },
+        {
+          "headline": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea",
+          "source": "Bloomberg.com",
+          "snippet": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3RvVnNXakE2dFpqUkQ5cWhFZEM2dzJkb2QtVkRaYnhyYjdRZGZGRnJMalhnSXI2U2dtd2hpWTduXzhWdDBRSzNiRkJESm9yeEMwZm9URlg4Y0VtdkRIX2dXTmE0QjUxck9tODBEOWg0ekpqMXlOZ0owVVllM2RnWS1rSVBIUEJCelJpTUh1NHBUbVJiMzkyVFRUb08xTkd4QUIya2dtWTh6dGVCc2tsUmZ1ZlMwQQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "gCaptain",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZkd205NHJ5RVFnNlBUd0FuTGtnZGpkamoyU3ozWXZfLWZzd2ExUHFCY0toNm05czIwWWZjbUItdV9YMXk5dUpVUFdaeXFVbGJSTjIzY184ZXNyYllXeXVKT0xOZzNhN3o0TjIwZzVhbnFKZVdxM2huWFE2YTVJRld6R2k1M2JYZGp1UkgzUQ?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3RvVnNXakE2dFpqUkQ5cWhFZEM2dzJkb2QtVkRaYnhyYjdRZGZGRnJMalhnSXI2U2dtd2hpWTduXzhWdDBRSzNiRkJESm9yeEMwZm9URlg4Y0VtdkRIX2dXTmE0QjUxck9tODBEOWg0ekpqMXlOZ0owVVllM2RnWS1rSVBIUEJCelJpTUh1NHBUbVJiMzkyVFRUb08xTkd4QUIya2dtWTh6dGVCc2tsUmZ1ZlMwQQ?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-09-02-e2f1c6bd49fb",
       "original_title": "FinancialJuice: US Treasury Secretary Bessent: The US AI industry has done a terrible job of explaining itself.",
       "published_at": "2026-09-02T17:26:04Z",
@@ -471,13 +811,13 @@
           "headline": "FinancialJuice: US Treasury Secretary Bessent: The US AI industry has done a terrible job of explaining itself.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747198/US-Treasury-Secretary-Bessent-The-US-AI-industry-has-done-a-terrible-job-of-explaining-itself.aspx"
+          "url": "https://www.financialjuice.com/News/9747198/US-Treasury-Secretary-Bessent-The-US-AI-industry-has-done-a-terrible-job-of-explaining-itself.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747198/US-Treasury-Secretary-Bessent-The-US-AI-industry-has-done-a-terrible-job-of-explaining-itself.aspx"
+          "url": "https://www.financialjuice.com/News/9747198/US-Treasury-Secretary-Bessent-The-US-AI-industry-has-done-a-terrible-job-of-explaining-itself.aspx?xy=rss"
         }
       ]
     },
@@ -491,13 +831,13 @@
           "headline": "FinancialJuice: US Treasury Secretary Bessent: The Chinese are right behind us on AI.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747197/US-Treasury-Secretary-Bessent-The-Chinese-are-right-behind-us-on-AI.aspx"
+          "url": "https://www.financialjuice.com/News/9747197/US-Treasury-Secretary-Bessent-The-Chinese-are-right-behind-us-on-AI.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747197/US-Treasury-Secretary-Bessent-The-Chinese-are-right-behind-us-on-AI.aspx"
+          "url": "https://www.financialjuice.com/News/9747197/US-Treasury-Secretary-Bessent-The-Chinese-are-right-behind-us-on-AI.aspx?xy=rss"
         }
       ]
     },
@@ -511,13 +851,13 @@
           "headline": "FinancialJuice: US Treasury Secretary Bessent: AI firms have been tone deaf to communities.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747196/US-Treasury-Secretary-Bessent-AI-firms-have-been-tone-deaf-to-communities.aspx"
+          "url": "https://www.financialjuice.com/News/9747196/US-Treasury-Secretary-Bessent-AI-firms-have-been-tone-deaf-to-communities.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747196/US-Treasury-Secretary-Bessent-AI-firms-have-been-tone-deaf-to-communities.aspx"
+          "url": "https://www.financialjuice.com/News/9747196/US-Treasury-Secretary-Bessent-AI-firms-have-been-tone-deaf-to-communities.aspx?xy=rss"
         }
       ]
     },
@@ -531,13 +871,13 @@
           "headline": "FinancialJuice: White House: The barrels from the Venezuela deal could hit reserves in the US in November.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747195/White-House-The-barrels-from-the-Venezuela-deal-could-hit-reserves-in-the-US-in-November.aspx"
+          "url": "https://www.financialjuice.com/News/9747195/White-House-The-barrels-from-the-Venezuela-deal-could-hit-reserves-in-the-US-in-November.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747195/White-House-The-barrels-from-the-Venezuela-deal-could-hit-reserves-in-the-US-in-November.aspx"
+          "url": "https://www.financialjuice.com/News/9747195/White-House-The-barrels-from-the-Venezuela-deal-could-hit-reserves-in-the-US-in-November.aspx?xy=rss"
         }
       ]
     },
@@ -551,13 +891,13 @@
           "headline": "FinancialJuice: We'll get the tariffs back in again.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747194/Well-get-the-tariffs-back-in-again.aspx"
+          "url": "https://www.financialjuice.com/News/9747194/Well-get-the-tariffs-back-in-again.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747194/Well-get-the-tariffs-back-in-again.aspx"
+          "url": "https://www.financialjuice.com/News/9747194/Well-get-the-tariffs-back-in-again.aspx?xy=rss"
         }
       ]
     },
@@ -571,13 +911,13 @@
           "headline": "FinancialJuice: US Treasury Secretary Bessent: Budget gap rose this year due to $70b tariff refunds.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747193/US-Treasury-Secretary-Bessent-Budget-gap-rose-this-year-due-to-70b-tariff-refunds.aspx"
+          "url": "https://www.financialjuice.com/News/9747193/US-Treasury-Secretary-Bessent-Budget-gap-rose-this-year-due-to-70b-tariff-refunds.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747193/US-Treasury-Secretary-Bessent-Budget-gap-rose-this-year-due-to-70b-tariff-refunds.aspx"
+          "url": "https://www.financialjuice.com/News/9747193/US-Treasury-Secretary-Bessent-Budget-gap-rose-this-year-due-to-70b-tariff-refunds.aspx?xy=rss"
         }
       ]
     },
@@ -591,13 +931,63 @@
           "headline": "FinancialJuice: US Treasury Secretary Bessent: We're working to get our budget deficit-to-GDP down.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747192/US-Treasury-Secretary-Bessent-Were-working-to-get-our-budget-deficit-to-GDP-down.aspx"
+          "url": "https://www.financialjuice.com/News/9747192/US-Treasury-Secretary-Bessent-Were-working-to-get-our-budget-deficit-to-GDP-down.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747192/US-Treasury-Secretary-Bessent-Were-working-to-get-our-budget-deficit-to-GDP-down.aspx"
+          "url": "https://www.financialjuice.com/News/9747192/US-Treasury-Secretary-Bessent-Were-working-to-get-our-budget-deficit-to-GDP-down.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-480bdef5056f",
+      "original_title": "CLARITY Act Crypto Regulation Impact: How the September Vote Could Reshape the U.S. Crypto Market",
+      "published_at": "2026-09-02T17:20:45Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "CLARITY Act Crypto Regulation Impact: How the September Vote Could Reshape the U.S. Crypto Market",
+          "source": "Bitcoin Foundation",
+          "snippet": "CLARITY Act Crypto Regulation Impact: How the September Vote Could Reshape the U.S. Crypto Market &nbsp;&nbsp; Bitcoin Foundation",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOXFELVpQZlhUdFBNQWx6bXQxLV9QS3hWT2ZUa2VzTjE3cnFjUm9kNm8tV2xsM3dCZmwxWnB1X2VoYlVEWXdfeE90XzlBbXR1M0p0Q1hMUnR2elhlcVNxWnFQcjFCaTVXdTdEYmlRb25YR1Y4dW9WNmlVTkpoRXljTXczVjJZWHZNb2JIbVo3cnU5Q2JqX2dsamUyRnNVOHRwb3lzc3ZhdldDWVJncFVaY1NteTREUEFzZkVUMENGTWlhZDJsdE5hNWRLU2xqbk1ZQmVHZjJabjEtQQ?oc=5"
+        },
+        {
+          "headline": "How the CLARITY Act Could Reshape the US Crypto Market in 2026",
+          "source": "Analytics Insight",
+          "snippet": "How the CLARITY Act Could Reshape the US Crypto Market in 2026 &nbsp;&nbsp; Analytics Insight",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOENMQWt2aXotTERnNmdJenVqeFowa1ZIbEpUeU9qVVdZU3RmSGFsWUFlOERLTkJqUi1GbzdteHBpSU5wUDlUNDlDQXFOeGRRd3o2Tkw1NURqd254allFLUhLRUFSN0NMeXJjUzdSazZiZE1nY0V0ZmZEVnQ1TkpUM2lkbXZydklmNmZLTXpKZVBsdnZKZDNjc21ZQy1zYkRSR0F6T1Zkdl85X1BXYS1MQzRYcDFkUmlXM0F5ZTVXV2YxNVpUQjBKTF93SzI0LTFIajk1Q9IB1AFBVV95cUxNOENMQWt2aXotTERnNmdJenVqeFowa1ZIbEpUeU9qVVdZU3RmSGFsWUFlOERLTkJqUi1GbzdteHBpSU5wUDlUNDlDQXFOeGRRd3o2Tkw1NURqd254allFLUhLRUFSN0NMeXJjUzdSazZiZE1nY0V0ZmZEVnQ1TkpUM2lkbXZydklmNmZLTXpKZVBsdnZKZDNjc21ZQy1zYkRSR0F6T1Zkdl85X1BXYS1MQzRYcDFkUmlXM0F5ZTVXV2YxNVpUQjBKTF93SzI0LTFIajk1Qw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bitcoin Foundation",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOXFELVpQZlhUdFBNQWx6bXQxLV9QS3hWT2ZUa2VzTjE3cnFjUm9kNm8tV2xsM3dCZmwxWnB1X2VoYlVEWXdfeE90XzlBbXR1M0p0Q1hMUnR2elhlcVNxWnFQcjFCaTVXdTdEYmlRb25YR1Y4dW9WNmlVTkpoRXljTXczVjJZWHZNb2JIbVo3cnU5Q2JqX2dsamUyRnNVOHRwb3lzc3ZhdldDWVJncFVaY1NteTREUEFzZkVUMENGTWlhZDJsdE5hNWRLU2xqbk1ZQmVHZjJabjEtQQ?oc=5"
+        },
+        {
+          "name": "Analytics Insight",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOENMQWt2aXotTERnNmdJenVqeFowa1ZIbEpUeU9qVVdZU3RmSGFsWUFlOERLTkJqUi1GbzdteHBpSU5wUDlUNDlDQXFOeGRRd3o2Tkw1NURqd254allFLUhLRUFSN0NMeXJjUzdSazZiZE1nY0V0ZmZEVnQ1TkpUM2lkbXZydklmNmZLTXpKZVBsdnZKZDNjc21ZQy1zYkRSR0F6T1Zkdl85X1BXYS1MQzRYcDFkUmlXM0F5ZTVXV2YxNVpUQjBKTF93SzI0LTFIajk1Q9IB1AFBVV95cUxNOENMQWt2aXotTERnNmdJenVqeFowa1ZIbEpUeU9qVVdZU3RmSGFsWUFlOERLTkJqUi1GbzdteHBpSU5wUDlUNDlDQXFOeGRRd3o2Tkw1NURqd254allFLUhLRUFSN0NMeXJjUzdSazZiZE1nY0V0ZmZEVnQ1TkpUM2lkbXZydklmNmZLTXpKZVBsdnZKZDNjc21ZQy1zYkRSR0F6T1Zkdl85X1BXYS1MQzRYcDFkUmlXM0F5ZTVXV2YxNVpUQjBKTF93SzI0LTFIajk1Qw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-02-8862fcfa630d",
+      "original_title": "Prediction market Kalshi to file for US crude oil 'perps', source says",
+      "published_at": "2026-09-02T17:20:06Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Prediction market Kalshi to file for US crude oil 'perps', source says",
+          "source": "Reuters",
+          "snippet": "Prediction market Kalshi to file for US crude oil 'perps', source says &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHVHWUZFV2NwRnJRa3R6djZ0SE9RX3dENmp4OFZYaXh3OTRuYXdlUUl6MWgtX2Q3VmlxdFJSOWZrUW5MNFRoS1ZwME9UanA4dUpobUtJRlROZFhGLUprRGtvSVNnWF9wem9iZDFnRWJ4VnMtSXhqSGZpWVlNTFhETnd6ZWRFTVE3QW50QW42S0RQM2d1WnBxaHUxZE9zSGkyLUNIQXBRNTNTdWdnb1I5dl9R?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHVHWUZFV2NwRnJRa3R6djZ0SE9RX3dENmp4OFZYaXh3OTRuYXdlUUl6MWgtX2Q3VmlxdFJSOWZrUW5MNFRoS1ZwME9UanA4dUpobUtJRlROZFhGLUprRGtvSVNnWF9wem9iZDFnRWJ4VnMtSXhqSGZpWVlNTFhETnd6ZWRFTVE3QW50QW42S0RQM2d1WnBxaHUxZE9zSGkyLUNIQXBRNTNTdWdnb1I5dl9R?oc=5"
         }
       ]
     },
@@ -611,13 +1001,13 @@
           "headline": "FinancialJuice: US Treasury Secretary Bessent: China engages in financial repression on its savers.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747191/US-Treasury-Secretary-Bessent-China-engages-in-financial-repression-on-its-savers.aspx"
+          "url": "https://www.financialjuice.com/News/9747191/US-Treasury-Secretary-Bessent-China-engages-in-financial-repression-on-its-savers.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747191/US-Treasury-Secretary-Bessent-China-engages-in-financial-repression-on-its-savers.aspx"
+          "url": "https://www.financialjuice.com/News/9747191/US-Treasury-Secretary-Bessent-China-engages-in-financial-repression-on-its-savers.aspx?xy=rss"
         }
       ]
     },
@@ -651,13 +1041,13 @@
           "headline": "FinancialJuice: Chevron and the Venezuelan government sign an oil deal, a bonus venture deal in the Orinoco Belt. $CVX",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747142/Chevron-and-the-Venezuelan-government-sign-an-oil-deal-a-bonus-venture-deal-in-the-Orinoco-Belt-CVX.aspx"
+          "url": "https://www.financialjuice.com/News/9747142/Chevron-and-the-Venezuelan-government-sign-an-oil-deal-a-bonus-venture-deal-in-the-Orinoco-Belt-CVX.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747142/Chevron-and-the-Venezuelan-government-sign-an-oil-deal-a-bonus-venture-deal-in-the-Orinoco-Belt-CVX.aspx"
+          "url": "https://www.financialjuice.com/News/9747142/Chevron-and-the-Venezuelan-government-sign-an-oil-deal-a-bonus-venture-deal-in-the-Orinoco-Belt-CVX.aspx?xy=rss"
         }
       ]
     },
@@ -671,13 +1061,13 @@
           "headline": "FinancialJuice: US Commerce Secretary Lutnick: Anthropic is back on the right side with the Trump administration",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747106/US-Commerce-Secretary-Lutnick-Anthropic-is-back-on-the-right-side-with-the-Trump-administration---Axios.aspx"
+          "url": "https://www.financialjuice.com/News/9747106/US-Commerce-Secretary-Lutnick-Anthropic-is-back-on-the-right-side-with-the-Trump-administration---Axios.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747106/US-Commerce-Secretary-Lutnick-Anthropic-is-back-on-the-right-side-with-the-Trump-administration---Axios.aspx"
+          "url": "https://www.financialjuice.com/News/9747106/US-Commerce-Secretary-Lutnick-Anthropic-is-back-on-the-right-side-with-the-Trump-administration---Axios.aspx?xy=rss"
         }
       ]
     },
@@ -702,6 +1092,26 @@
       ]
     },
     {
+      "stable_id": "2026-09-02-589dd4f66d3a",
+      "original_title": "Rising Treasury yields could rattle US stocks as earnings season ends",
+      "published_at": "2026-09-02T15:55:25Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Rising Treasury yields could rattle US stocks as earnings season ends",
+          "source": "Reuters",
+          "snippet": "Rising Treasury yields could rattle US stocks as earnings season ends &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JPMlNBNHNJUVR2WWhfd0xOR3ZnWHAzampvY0tJRGFrN1NteWRFR28tekVYR0F1VW5GQ3I4M0FsR0dFalZzYUdERVlOSHJqOWRNNUFCVnFsaURzb0ZwWFZEZ3VHRTQ5czJaYkk2Ym9sOGROUEMxUHJzMzdFMnctMGZDbGRpUHdiOE1DSFI2VHhDNHdwWHlXTW13cG9FSUhOb0lrbEx5bXRaVzAyeVNsaGRYTWJYRnNqWjh1ZjFCcw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JPMlNBNHNJUVR2WWhfd0xOR3ZnWHAzampvY0tJRGFrN1NteWRFR28tekVYR0F1VW5GQ3I4M0FsR0dFalZzYUdERVlOSHJqOWRNNUFCVnFsaURzb0ZwWFZEZ3VHRTQ5czJaYkk2Ym9sOGROUEMxUHJzMzdFMnctMGZDbGRpUHdiOE1DSFI2VHhDNHdwWHlXTW13cG9FSUhOb0lrbEx5bXRaVzAyeVNsaGRYTWJYRnNqWjh1ZjFCcw?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-09-02-7d0dcb5c9a22",
       "original_title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a wedding was hit",
       "published_at": "2026-09-02T15:46:58Z",
@@ -714,10 +1124,10 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmhXd2NreW0xNUZjVkpjT2Q4aG9kZFh1THJ1b1AwZ3NNRHlDWTdPRUthTERWVXY5bGE2cjNPcmQxbmRVQnROdHktcmJSSmFUaTlUR091ajJjMkVUaEQxLU5naktjWThZeVFJeEhheUpnZjQ5MVVpVkJDZWVCcW9jYm5jeTgtdkFFMVJKSVJNdTdZWk9DbTRsUk41Zlp5d1c1LUtmX09LOC15WDFwN3JwZWtjZS0yZERNSFNkQk1fUk7SAcABQVVfeXFMT0poV3dja3ltMTVGY1ZKY09kOGhvZGRYdUxydW9QMGdzTUR5Q1k3T0VLYUxEVlV2OWxhNnIzT3JkMW5kVUJ0TnR5LXJiUkphVGk5VEdPdWoyYzJFVGhEMS1OZ2pLY1k4WXlRSXhIYXlKZ2Y0OTFVaVZCQ2VlQnFvY2JuY3k4LXZBRTFSSklSTXU3WVpPQ200bFJONWZaeXdXNS1LZl9PSzgteVgxcDdycGVrY2UtMmRETUhTZEJNX1JO?oc=5"
         },
         {
-          "headline": "Iran fires on its Gulf neighbors, retaliating for US strikes after a monthlong lull",
-          "source": "MyHighPlains.com",
-          "snippet": "Iran fires on its Gulf neighbors, retaliating for US strikes after a monthlong lull &nbsp;&nbsp; MyHighPlains.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3hmOUFKd3ZGVUFadlN1YkRBcS1DZWYwR1dhN2JidlRaOTBSeDVuUDc2bFl1NWNwNk5BaFFCMWJ3WVQtdloyQnFNcUJ4MjVUNjBlSXlhc21FYW9NdWJ6OXN4T1pDRm5hM3FBMWRZOUJVY3YxLWQtMVVvY0U1RVYxelNhY2RSbGozOXdKUmR4cE9KUHEyUnZFREJZWnFCdDlRbVVnM0cxSnVHOFZuZDRUajB3a2pJWjF5RkHSAb8BQVVfeXFMUDRiYkJ6VjFWY0JwQnFoTEZsNnp6YjlNbmxRSlV2bzBRWUhRNG4yaHF0V2gyenpka3hKVlNiUlBsWGVrVHM1ZUNudEdEX0xKZzQ2TXB4dVZVYm5MN3dwaWV6Zlpxdk1LRm4tYnZpOFlDQUNaaDNzSnMzcHdGRUNQRUR6MkxKWGZ0M18wbzBEeTZYMkN5SWlrYVNLWDRPYl9iT3RqYWNGYVE2Qk1yV21LRDhCaVJqeXZWcGlVSnN2LVU?oc=5"
+          "headline": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+          "source": "Pottsville Republican Herald",
+          "snippet": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit &nbsp;&nbsp; Pottsville Republican Herald",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDl4SXdTbVN1NktTU21PWHNBQ0ZCVEJ6WFoxTDF1bUt6bUJRWVM4VFF6U09HakdVX25wczVOZ2dHV2FqaDhfXzlrRVJ1SzhsVE9HcGtqdkllVDVNWXFzeXJlQjlZOF84czQtX0Z5Y1ZUOFJubXQxdHR4SzVkNW0zTXFqRnZ1TVJMbUJz?oc=5"
         }
       ],
       "sources": [
@@ -726,8 +1136,8 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmhXd2NreW0xNUZjVkpjT2Q4aG9kZFh1THJ1b1AwZ3NNRHlDWTdPRUthTERWVXY5bGE2cjNPcmQxbmRVQnROdHktcmJSSmFUaTlUR091ajJjMkVUaEQxLU5naktjWThZeVFJeEhheUpnZjQ5MVVpVkJDZWVCcW9jYm5jeTgtdkFFMVJKSVJNdTdZWk9DbTRsUk41Zlp5d1c1LUtmX09LOC15WDFwN3JwZWtjZS0yZERNSFNkQk1fUk7SAcABQVVfeXFMT0poV3dja3ltMTVGY1ZKY09kOGhvZGRYdUxydW9QMGdzTUR5Q1k3T0VLYUxEVlV2OWxhNnIzT3JkMW5kVUJ0TnR5LXJiUkphVGk5VEdPdWoyYzJFVGhEMS1OZ2pLY1k4WXlRSXhIYXlKZ2Y0OTFVaVZCQ2VlQnFvY2JuY3k4LXZBRTFSSklSTXU3WVpPQ200bFJONWZaeXdXNS1LZl9PSzgteVgxcDdycGVrY2UtMmRETUhTZEJNX1JO?oc=5"
         },
         {
-          "name": "MyHighPlains.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3hmOUFKd3ZGVUFadlN1YkRBcS1DZWYwR1dhN2JidlRaOTBSeDVuUDc2bFl1NWNwNk5BaFFCMWJ3WVQtdloyQnFNcUJ4MjVUNjBlSXlhc21FYW9NdWJ6OXN4T1pDRm5hM3FBMWRZOUJVY3YxLWQtMVVvY0U1RVYxelNhY2RSbGozOXdKUmR4cE9KUHEyUnZFREJZWnFCdDlRbVVnM0cxSnVHOFZuZDRUajB3a2pJWjF5RkHSAb8BQVVfeXFMUDRiYkJ6VjFWY0JwQnFoTEZsNnp6YjlNbmxRSlV2bzBRWUhRNG4yaHF0V2gyenpka3hKVlNiUlBsWGVrVHM1ZUNudEdEX0xKZzQ2TXB4dVZVYm5MN3dwaWV6Zlpxdk1LRm4tYnZpOFlDQUNaaDNzSnMzcHdGRUNQRUR6MkxKWGZ0M18wbzBEeTZYMkN5SWlrYVNLWDRPYl9iT3RqYWNGYVE2Qk1yV21LRDhCaVJqeXZWcGlVSnN2LVU?oc=5"
+          "name": "Pottsville Republican Herald",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDl4SXdTbVN1NktTU21PWHNBQ0ZCVEJ6WFoxTDF1bUt6bUJRWVM4VFF6U09HakdVX25wczVOZ2dHV2FqaDhfXzlrRVJ1SzhsVE9HcGtqdkllVDVNWXFzeXJlQjlZOF84czQtX0Z5Y1ZUOFJubXQxdHR4SzVkNW0zTXFqRnZ1TVJMbUJz?oc=5"
         }
       ]
     },
@@ -801,13 +1211,13 @@
           "headline": "FinancialJuice: Trump: Now that we have the Strait under US control, should we change the name of the Hormuz Strait to the Trump Strait???",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747049/Trump-Now-that-we-have-the-Strait-under-US-control-should-we-change-the-name-of-the-Hormuz-Strait-to-the-Trump-Strait---Truth-Social.aspx"
+          "url": "https://www.financialjuice.com/News/9747049/Trump-Now-that-we-have-the-Strait-under-US-control-should-we-change-the-name-of-the-Hormuz-Strait-to-the-Trump-Strait---Truth-Social.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747049/Trump-Now-that-we-have-the-Strait-under-US-control-should-we-change-the-name-of-the-Hormuz-Strait-to-the-Trump-Strait---Truth-Social.aspx"
+          "url": "https://www.financialjuice.com/News/9747049/Trump-Now-that-we-have-the-Strait-under-US-control-should-we-change-the-name-of-the-Hormuz-Strait-to-the-Trump-Strait---Truth-Social.aspx?xy=rss"
         }
       ]
     },
@@ -841,13 +1251,13 @@
           "headline": "FinancialJuice: BoC's Gov. Macklem: If monetary policy doesn't do what it needs to do to achieve its objectives, markets will reprice.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747036/BoCs-Gov-Macklem-If-monetary-policy-doesnt-do-what-it-needs-to-do-to-achieve-its-objectives-markets-will-reprice.aspx"
+          "url": "https://www.financialjuice.com/News/9747036/BoCs-Gov-Macklem-If-monetary-policy-doesnt-do-what-it-needs-to-do-to-achieve-its-objectives-markets-will-reprice.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747036/BoCs-Gov-Macklem-If-monetary-policy-doesnt-do-what-it-needs-to-do-to-achieve-its-objectives-markets-will-reprice.aspx"
+          "url": "https://www.financialjuice.com/News/9747036/BoCs-Gov-Macklem-If-monetary-policy-doesnt-do-what-it-needs-to-do-to-achieve-its-objectives-markets-will-reprice.aspx?xy=rss"
         }
       ]
     },
@@ -861,13 +1271,13 @@
           "headline": "FinancialJuice: BoC's Gov. Macklem: Multiple rate increases could be needed if we felt inflation is a problem.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9747035/BoCs-Gov-Macklem-Multiple-rate-increases-could-be-needed-if-we-felt-inflation-is-a-problem.aspx"
+          "url": "https://www.financialjuice.com/News/9747035/BoCs-Gov-Macklem-Multiple-rate-increases-could-be-needed-if-we-felt-inflation-is-a-problem.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9747035/BoCs-Gov-Macklem-Multiple-rate-increases-could-be-needed-if-we-felt-inflation-is-a-problem.aspx"
+          "url": "https://www.financialjuice.com/News/9747035/BoCs-Gov-Macklem-Multiple-rate-increases-could-be-needed-if-we-felt-inflation-is-a-problem.aspx?xy=rss"
         }
       ]
     },
@@ -1112,6 +1522,26 @@
       ]
     },
     {
+      "stable_id": "2026-09-02-02393b9a46c7",
+      "original_title": "Crypto Weekly: Why stablecoins could matter, crypto midterms",
+      "published_at": "2026-09-02T14:13:53Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Crypto Weekly: Why stablecoins could matter, crypto midterms",
+          "source": "Reuters",
+          "snippet": "Crypto Weekly: Why stablecoins could matter, crypto midterms &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jQmpZWU84T0loTXBtc1RFcE1iU0s3VEF0aEhVaDVGWEp0RFVuN2NLVDhsRzNLX0VaUGxSU3AwRDZJLUY0WmNEN3RWRU9KRkdKZElaTFNHSWdmLXBCRFhMSXlMZUFwSkk?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jQmpZWU84T0loTXBtc1RFcE1iU0s3VEF0aEhVaDVGWEp0RFVuN2NLVDhsRzNLX0VaUGxSU3AwRDZJLUY0WmNEN3RWRU9KRkdKZElaTFNHSWdmLXBCRFhMSXlMZUFwSkk?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-09-02-5fa0c84616f5",
       "original_title": "FinancialJuice: Russia’s Deputy PM Novak: We are seeing a recovery in oil demand",
       "published_at": "2026-09-02T14:11:21Z",
@@ -1128,26 +1558,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9746930/Russias-Deputy-PM-Novak-We-are-seeing-a-recovery-in-oil-demand---IFX.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-02393b9a46c7",
-      "original_title": "Crypto Weekly: Why stablecoins could matter, crypto midterms",
-      "published_at": "2026-09-02T14:06:29Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Crypto Weekly: Why stablecoins could matter, crypto midterms",
-          "source": "Reuters",
-          "snippet": "Crypto Weekly: Why stablecoins could matter, crypto midterms &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jQmpZWU84T0loTXBtc1RFcE1iU0s3VEF0aEhVaDVGWEp0RFVuN2NLVDhsRzNLX0VaUGxSU3AwRDZJLUY0WmNEN3RWRU9KRkdKZElaTFNHSWdmLXBCRFhMSXlMZUFwSkk?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jQmpZWU84T0loTXBtc1RFcE1iU0s3VEF0aEhVaDVGWEp0RFVuN2NLVDhsRzNLX0VaUGxSU3AwRDZJLUY0WmNEN3RWRU9KRkdKZElaTFNHSWdmLXBCRFhMSXlMZUFwSkk?oc=5"
         }
       ]
     },
@@ -1335,9 +1745,9 @@
         },
         {
           "headline": "Fed rate hike odds hit 72% as Barr warns on inflation",
-          "source": "Crypto News",
-          "snippet": "Fed rate hike odds hit 72% as Barr warns on inflation &nbsp;&nbsp; Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3YWxOSGgxZ013dkQyU3NnZFllV3RMYTd1NHhzbGNYbXFZUldlR1ZZSlQxblF6OThvMWtrWUM5NVJBZFZzWTNmaUFlMXBvb1g0eDUzWUYtTFdhQ2NibEpXWW5xc1BtU2stcjktUkd0Z2FPRjRidXpmS1htbDRxQQ?oc=5"
+          "source": "Cryptonews.net",
+          "snippet": "Fed rate hike odds hit 72% as Barr warns on inflation &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zNmVJZ1pHdnVQU1RnREljc2ZreDh5UVNoSnlkZXBXLXVJR3IyUlBFSHhpQnRlTW1MbjV4dVZPUF8zcGZVQkJ6Qm50T2hqM01BWkxIbmxCU0Y?oc=5"
         }
       ],
       "sources": [
@@ -1346,8 +1756,8 @@
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQV9tdEhRNm5MaGk3T01aNzhKZThMa0NoYUwydmV4SzFhQlFtLWl2RV9kZW8zcUh6Ung5VDg0SG83X3JVdGIwcXo4MUdSbG94elpIYjE2aGpOMVI2S1pEY3hZbTU3ZkR3bnpjVmR4N1AxYlFBOUJmUm1DWE12dkRhMGJRbmJUOGsxU2ZuVlQxVjl3Q2FhMkExZUlCMkphd1M3SmlFYU8xMDJGVlN1TXpoenpiQS1ubW91Y1h5MWVR?oc=5"
         },
         {
-          "name": "Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3YWxOSGgxZ013dkQyU3NnZFllV3RMYTd1NHhzbGNYbXFZUldlR1ZZSlQxblF6OThvMWtrWUM5NVJBZFZzWTNmaUFlMXBvb1g0eDUzWUYtTFdhQ2NibEpXWW5xc1BtU2stcjktUkd0Z2FPRjRidXpmS1htbDRxQQ?oc=5"
+          "name": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zNmVJZ1pHdnVQU1RnREljc2ZreDh5UVNoSnlkZXBXLXVJR3IyUlBFSHhpQnRlTW1MbjV4dVZPUF8zcGZVQkJ6Qm50T2hqM01BWkxIbmxCU0Y?oc=5"
         }
       ]
     },
@@ -1408,26 +1818,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9746897/BoCs-Gov-Macklem-Ongoing-conflict-in-the-Middle-East-is-keeping-energy-prices-higher-for-longer-and-is-increasing-the-upside-risks-to-the-outlook-for-inflation.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-8862fcfa630d",
-      "original_title": "Prediction market Kalshi to file for US crude oil 'perps', source says",
-      "published_at": "2026-09-02T13:47:44Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Prediction market Kalshi to file for US crude oil 'perps', source says",
-          "source": "Reuters",
-          "snippet": "Prediction market Kalshi to file for US crude oil 'perps', source says &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHVHWUZFV2NwRnJRa3R6djZ0SE9RX3dENmp4OFZYaXh3OTRuYXdlUUl6MWgtX2Q3VmlxdFJSOWZrUW5MNFRoS1ZwME9UanA4dUpobUtJRlROZFhGLUprRGtvSVNnWF9wem9iZDFnRWJ4VnMtSXhqSGZpWVlNTFhETnd6ZWRFTVE3QW50QW42S0RQM2d1WnBxaHUxZE9zSGkyLUNIQXBRNTNTdWdnb1I5dl9R?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHVHWUZFV2NwRnJRa3R6djZ0SE9RX3dENmp4OFZYaXh3OTRuYXdlUUl6MWgtX2Q3VmlxdFJSOWZrUW5MNFRoS1ZwME9UanA4dUpobUtJRlROZFhGLUprRGtvSVNnWF9wem9iZDFnRWJ4VnMtSXhqSGZpWVlNTFhETnd6ZWRFTVE3QW50QW42S0RQM2d1WnBxaHUxZE9zSGkyLUNIQXBRNTNTdWdnb1I5dl9R?oc=5"
         }
       ]
     },
@@ -1728,406 +2118,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9746822/Ukraine-has-hit-12-large-Russian-oil-refineries-in-August---Ukrainian-Defence-Ministry.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-99b9006cabf7",
-      "original_title": "FinancialJuice: US Energy Secretary Wright: Venezuela output will allow for swapping barrels",
-      "published_at": "2026-09-02T13:13:43Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Energy Secretary Wright: Venezuela output will allow for swapping barrels",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746821/US-Energy-Secretary-Wright-Venezuela-output-will-allow-for-swapping-barrels.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746821/US-Energy-Secretary-Wright-Venezuela-output-will-allow-for-swapping-barrels.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-be60a40931e6",
-      "original_title": "FinancialJuice: US Energy Secretary Wright: It is unlikely Venezuela oil will go into SPR.",
-      "published_at": "2026-09-02T13:13:42Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Energy Secretary Wright: It is unlikely Venezuela oil will go into SPR.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746820/US-Energy-Secretary-Wright-It-is-unlikely-Venezuela-oil-will-go-into-SPR.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746820/US-Energy-Secretary-Wright-It-is-unlikely-Venezuela-oil-will-go-into-SPR.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-aaf7e03856ee",
-      "original_title": "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors",
-      "published_at": "2026-09-02T13:12:13Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors",
-          "source": "Reuters",
-          "snippet": "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdW5sTXJ3VXZwZE1vZ2RUZ19pNnFoX3ZHc2EyYUI0Y3V0Z09Wc21IMkNNVHlrTXR5eTdOZkNYeGJ3VHhBWlhxeVBjemxGQWZzS0EwN2MxWC1GOWMySnFEM2hkY0V4VVRIcjgxbEdQSHpLcVhIa3Y4QU1Jd3dSWWt3RlE4RnBWRlR6S0c1RWkwVHJ4UlcxWE5oX3hRSVJ3U1RtaHdDeUZaTHBfXzN5OGdfX3dlZGtTYXFySjZ4M1NqRQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdW5sTXJ3VXZwZE1vZ2RUZ19pNnFoX3ZHc2EyYUI0Y3V0Z09Wc21IMkNNVHlrTXR5eTdOZkNYeGJ3VHhBWlhxeVBjemxGQWZzS0EwN2MxWC1GOWMySnFEM2hkY0V4VVRIcjgxbEdQSHpLcVhIa3Y4QU1Jd3dSWWt3RlE4RnBWRlR6S0c1RWkwVHJ4UlcxWE5oX3hRSVJ3U1RtaHdDeUZaTHBfXzN5OGdfX3dlZGtTYXFySjZ4M1NqRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-abc10f7056d8",
-      "original_title": "FinancialJuice: US Energy Secretary Wright: I haven't had discussions with Venezuela on OPEC.",
-      "published_at": "2026-09-02T13:10:07Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Energy Secretary Wright: I haven't had discussions with Venezuela on OPEC.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746818/US-Energy-Secretary-Wright-I-havent-had-discussions-with-Venezuela-on-OPEC.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746818/US-Energy-Secretary-Wright-I-havent-had-discussions-with-Venezuela-on-OPEC.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-6aa2fb5afb07",
-      "original_title": "FinancialJuice: US Energy Secretary Wright: China won't have a claim to Venezuela's oil fields",
-      "published_at": "2026-09-02T13:09:19Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Energy Secretary Wright: China won't have a claim to Venezuela's oil fields",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746817/US-Energy-Secretary-Wright-China-wont-have-a-claim-to-Venezuelas-oil-fields.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746817/US-Energy-Secretary-Wright-China-wont-have-a-claim-to-Venezuelas-oil-fields.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-30d4d734e496",
-      "original_title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
-      "published_at": "2026-09-02T13:08:20Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bond selloff deepens as oil prices and public debt fears jolt markets",
-          "source": "Reuters",
-          "snippet": "Bond selloff deepens as oil prices and public debt fears jolt markets &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5"
-        },
-        {
-          "headline": "Bond selloff deepens as inflation, oil prices jolt markets By Reuters",
-          "source": "Investing.com Australia",
-          "snippet": "Bond selloff deepens as inflation, oil prices jolt markets By Reuters &nbsp;&nbsp; Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlRpR0o1X29WcHdDbkxOR01wS1htRTJEY0RZTWtqQ0NSa2VPYTl2OHdoWFBVRkhmTlAzRkx6dnE2X3hjUWNGdTFxRF9tQkI2UFQwcEExRGJFemtidUdvSWlMRFdla2s3SmtCdkg2OUFLWGxqdC1yLXVtcUxSLVpfWXRGZ3JWZ3VpZXNFTy1qd3BMVlRyellESkZ0TkJRR1BXM3BQOElrUWtzZVBOSk1LeTBNMWNTb29Sa0tJSQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5"
-        },
-        {
-          "name": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlRpR0o1X29WcHdDbkxOR01wS1htRTJEY0RZTWtqQ0NSa2VPYTl2OHdoWFBVRkhmTlAzRkx6dnE2X3hjUWNGdTFxRF9tQkI2UFQwcEExRGJFemtidUdvSWlMRFdla2s3SmtCdkg2OUFLWGxqdC1yLXVtcUxSLVpfWXRGZ3JWZ3VpZXNFTy1qd3BMVlRyellESkZ0TkJRR1BXM3BQOElrUWtzZVBOSk1LeTBNMWNTb29Sa0tJSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-ebbaf2ebcb88",
-      "original_title": "FinancialJuice: US Energy Secretary Wright: Venezuela production is up 25%, exports up 50%.",
-      "published_at": "2026-09-02T13:07:46Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Energy Secretary Wright: Venezuela production is up 25%, exports up 50%.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746816/US-Energy-Secretary-Wright-Venezuela-production-is-up-25-exports-up-50.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746816/US-Energy-Secretary-Wright-Venezuela-production-is-up-25-exports-up-50.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-1b90a7d42a05",
-      "original_title": "The token supercycle: everything of value is becoming programmable",
-      "published_at": "2026-09-02T13:00:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "The token supercycle: everything of value is becoming programmable",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-a816edf7d2d8",
-      "original_title": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
-      "published_at": "2026-09-02T12:56:29Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
-          "source": "coindesk.com",
-          "snippet": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red &nbsp;&nbsp; coindesk.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0FwbHlVTUQ1bHQ4d0R4bER1LUZBbWNpZ2VrR205M05XdC1aRktWRzJzRU9yeTNleDg3WGRSQllncDdXSHhvOHQwaUU1aFFtWnY1ZDk0Z0pUYXRZclFZNjhKc1V1YUhtM1hmcGRueEdZbHRjSUF6VVhwbVl3cmtyeFBlS19yTW1FOGlwbnhYSnhEbmpTOGlBbUxnTjVQRFBUbE9EOU1zc1RZMWt2RjhXMjVqVXRRX2dOdzZBLVBPWW83UQ?oc=5"
-        },
-        {
-          "headline": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/09/02/a-china-indicator-that-greases-risk-taking-in-stocks-and-bitcoin-is-flashing-red"
-        }
-      ],
-      "sources": [
-        {
-          "name": "coindesk.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0FwbHlVTUQ1bHQ4d0R4bER1LUZBbWNpZ2VrR205M05XdC1aRktWRzJzRU9yeTNleDg3WGRSQllncDdXSHhvOHQwaUU1aFFtWnY1ZDk0Z0pUYXRZclFZNjhKc1V1YUhtM1hmcGRueEdZbHRjSUF6VVhwbVl3cmtyeFBlS19yTW1FOGlwbnhYSnhEbmpTOGlBbUxnTjVQRFBUbE9EOU1zc1RZMWt2RjhXMjVqVXRRX2dOdzZBLVBPWW83UQ?oc=5"
-        },
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/09/02/a-china-indicator-that-greases-risk-taking-in-stocks-and-bitcoin-is-flashing-red"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-d148af88b7fe",
-      "original_title": "FinancialJuice: Iran: US attacks hit telecoms, communication infrastructure.",
-      "published_at": "2026-09-02T12:55:34Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran: US attacks hit telecoms, communication infrastructure.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746794/Iran-US-attacks-hit-telecoms-communication-infrastructure.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746794/Iran-US-attacks-hit-telecoms-communication-infrastructure.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-c3cab419698e",
-      "original_title": "Bitcoin News: Bitcoin Withstands $90 Oil and 4.81% Yields as Gold Slides, But the Dollar Is the Catch",
-      "published_at": "2026-09-02T12:55:06Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin News: Bitcoin Withstands $90 Oil and 4.81% Yields as Gold Slides, But the Dollar Is the Catch",
-          "source": "Binance",
-          "snippet": "Bitcoin News: Bitcoin Withstands $90 Oil and 4.81% Yields as Gold Slides, But the Dollar Is the Catch &nbsp;&nbsp; Binance",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lNEVWOHZHakNianRYWnhmbnRPSTBMNmRhY3JabXdJNnQzSVJvcDhRemFIWFFtbFNKLTBDdDcyTkJDLXZtdmw1ZGxxX05GdkdVdXFVMklKa1JJVkI2YmwzRHZ3ZVI?oc=5"
-        },
-        {
-          "headline": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
-          "source": "CoinDesk",
-          "snippet": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch &nbsp;&nbsp; CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVdEbzc1c0VxT0tnTmUtVGpjRHFqMllJU05Ia2pYTk55ZXVicDBlYkM3S1VBM3VTUnFxcG82UW1QZ3lZdzk2cXpIQUJvM2Z6Q2lXVXFoNUV0R1dwMlRPdFhEVTgxTTYwNjkycTdfdm1HdDNSQUZBa0s1SWNsR3dlVk1VcjdjbVhrdEl5YVJHZUFCUnNBQnNUcU82ZmtTZ0oyTWdhbFRJcHVFcHVDd2pBTWdpVll6QURmZ3ZiX0RNUGxyN0JjWHBIZHJxSWU?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Binance",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lNEVWOHZHakNianRYWnhmbnRPSTBMNmRhY3JabXdJNnQzSVJvcDhRemFIWFFtbFNKLTBDdDcyTkJDLXZtdmw1ZGxxX05GdkdVdXFVMklKa1JJVkI2YmwzRHZ3ZVI?oc=5"
-        },
-        {
-          "name": "CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVdEbzc1c0VxT0tnTmUtVGpjRHFqMllJU05Ia2pYTk55ZXVicDBlYkM3S1VBM3VTUnFxcG82UW1QZ3lZdzk2cXpIQUJvM2Z6Q2lXVXFoNUV0R1dwMlRPdFhEVTgxTTYwNjkycTdfdm1HdDNSQUZBa0s1SWNsR3dlVk1VcjdjbVhrdEl5YVJHZUFCUnNBQnNUcU82ZmtTZ0oyTWdhbFRJcHVFcHVDd2pBTWdpVll6QURmZ3ZiX0RNUGxyN0JjWHBIZHJxSWU?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-a29831b24392",
-      "original_title": "FOGO Mainnet Back Online After Hack, 237M Tokens Burned",
-      "published_at": "2026-09-02T12:40:58Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "FOGO Mainnet Back Online After Hack, 237M Tokens Burned",
-          "source": "Cryptonews.net",
-          "snippet": "FOGO Mainnet Back Online After Hack, 237M Tokens Burned &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jWTBxZmRtTGY4VnZ4cGtVbEhDb2VKS0MwcEJOQ0c3aG42RFdiS01XQ0l1VzRnY2NaQmpRUEY5ekJtNFFvXzBiMWtCOW9sWkhGTmZCUVl5djRSUQ?oc=5"
-        },
-        {
-          "headline": "FOGO Mainnet Back Online After Hack, 237M Tokens Burned",
-          "source": "CryptoRank",
-          "snippet": "FOGO Mainnet Back Online After Hack, 237M Tokens Burned &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tbU1FYnJVTWVBOVlKYzFLVzZrcVdLRWx4WTEzT3l3MVhOM1FTY0pzZWtDeThhQTlhbGxjVVBKTjNNbXFVazlkT3VrSjlUckVDVzhoOERibXpVNVQzYnBQMFlyR1hBX1VKc3htQmIwRFJSUjhKTnN4LQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jWTBxZmRtTGY4VnZ4cGtVbEhDb2VKS0MwcEJOQ0c3aG42RFdiS01XQ0l1VzRnY2NaQmpRUEY5ekJtNFFvXzBiMWtCOW9sWkhGTmZCUVl5djRSUQ?oc=5"
-        },
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tbU1FYnJVTWVBOVlKYzFLVzZrcVdLRWx4WTEzT3l3MVhOM1FTY0pzZWtDeThhQTlhbGxjVVBKTjNNbXFVazlkT3VrSjlUckVDVzhoOERibXpVNVQzYnBQMFlyR1hBX1VKc3htQmIwRFJSUjhKTnN4LQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-0fca0c789800",
-      "original_title": "FinancialJuice: Fed's Williams: Treasury debt management patterns don't complicate things for Fed.",
-      "published_at": "2026-09-02T12:28:34Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Williams: Treasury debt management patterns don't complicate things for Fed.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746739/Feds-Williams-Treasury-debt-management-patterns-dont-complicate-things-for-Fed.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746739/Feds-Williams-Treasury-debt-management-patterns-dont-complicate-things-for-Fed.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-cc7535c09ad0",
-      "original_title": "FinancialJuice: Fed's Williams: Sustained productivity boom would push neutral up but not yet seeing sustained productivity rise.",
-      "published_at": "2026-09-02T12:26:40Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Williams: Sustained productivity boom would push neutral up but not yet seeing sustained productivity rise.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746735/Feds-Williams-Sustained-productivity-boom-would-push-neutral-up-but-not-yet-seeing-sustained-productivity-rise.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746735/Feds-Williams-Sustained-productivity-boom-would-push-neutral-up-but-not-yet-seeing-sustained-productivity-rise.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-e2f117f15c8a",
-      "original_title": "FinancialJuice: Fed's Williams: Supported July FOMC meeting outcome",
-      "published_at": "2026-09-02T12:26:19Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Williams: Supported July FOMC meeting outcome",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746734/Feds-Williams-Supported-July-FOMC-meeting-outcome.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746734/Feds-Williams-Supported-July-FOMC-meeting-outcome.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-69d3cf323b07",
-      "original_title": "FinancialJuice: Fed's Williams: Optimistic about the long-term economic impact of artificial intelligence",
-      "published_at": "2026-09-02T12:25:07Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Williams: Optimistic about the long-term economic impact of artificial intelligence",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746733/Feds-Williams-Optimistic-about-the-long-term-economic-impact-of-artificial-intelligence.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746733/Feds-Williams-Optimistic-about-the-long-term-economic-impact-of-artificial-intelligence.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-588775955526",
-      "original_title": "FinancialJuice: Fed's Williams: I want to analyze more data before next decision.",
-      "published_at": "2026-09-02T12:24:53Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Williams: I want to analyze more data before next decision.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746732/Feds-Williams-I-want-to-analyze-more-data-before-next-decision.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746732/Feds-Williams-I-want-to-analyze-more-data-before-next-decision.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-02-1cd034402178",
-      "original_title": "FinancialJuice: Fed's Williams: Recent data have been encouraging on inflation.",
-      "published_at": "2026-09-02T12:23:43Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Williams: Recent data have been encouraging on inflation.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9746731/Feds-Williams-Recent-data-have-been-encouraging-on-inflation.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9746731/Feds-Williams-Recent-data-have-been-encouraging-on-inflation.aspx?xy=rss"
         }
       ]
     }
