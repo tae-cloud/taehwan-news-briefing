@@ -1,6 +1,106 @@
 {
-  "updated_at_kst": "2026-09-06T05:26:30+09:00",
+  "updated_at_kst": "2026-09-06T07:54:02+09:00",
   "items": [
+    {
+      "stable_id": "2026-09-05-8ce5a34df532",
+      "original_title": "US Central Command says it hit three Iranian oil tankers",
+      "published_at": "2026-09-05T22:06:46Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US Central Command says it hit three Iranian oil tankers",
+          "source": "Reuters",
+          "snippet": "US Central Command says it hit three Iranian oil tankers &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQjdtY3lfOXF2SDh4MDdyazRCTHpkSy1tTmJBOG9wczFXZ2pybS1ZX2xmQTFnemRLRnJRNG9nVUZILUdfTXVUUlNSb2tXam5GVnhkUGxzeE0xNEtZLWtGMEk2VG5LQ1E?oc=5"
+        },
+        {
+          "headline": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Al-Monitor",
+          "source": "Al-Monitor",
+          "snippet": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says &nbsp;&nbsp; Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZnEtOEYyTXNsc25rTllEUkJlQUVaMEdZTEZtTVFIUkM4MWJWVi1pSHRIenZZMTc2b3dYOHhQVFhLeWtxYzlDdGxYR055V0VfbWphSXpOaG9ieTRNLS03V1NvTXhrNVpIUXd5RUVPT2J4TUttZ1hmWDl4VFpyZUxzUnJfeURxY3BMRGpTSXota0ZRZ3BCS3dnc1prOFM0Q2Vja29kaVBBYllLUG5vWjdSa2FwQ0VLQTJ6TUFEVA?oc=5"
+        },
+        {
+          "headline": "US military strikes three Iranian crude oil carriers, Central Command says",
+          "source": "The Business Standard",
+          "snippet": "US military strikes three Iranian crude oil carriers, Central Command says &nbsp;&nbsp; The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUQ1QllWamV6RjFMak41UlVKREVRNnRiRURiV0xnTVkwUHFhVGVhRldJazlJRTg2VkJ3Y201MkxpOXYzNnYwWTNaYUlkVFFmMjM4LTI1Q0hCUVNqM0tMcnNMeThUYVJQZjlSaFpWOE1lSzlJRW4yc1dvdEtCVmppT3NfclNLczNXMXRHaUc5RTRMdURMRmpZSzhFTkFiU3pNOFE3U2NhYlNKeXJVMTFpV9IBtgFBVV95cUxOMndDTGJmYzFDR1prb3hCWExPRUVzUllGbERNcUNwN2t4dHZJLTVTNmNNQUN2VkVVYmc1aVNaSnpMY2Nxdi1jT3JiWHFBTk9YSkh6V25aLUs2ZnlqNzVnMDgxNDBTc2Y2T196X0JCTHJlRDd5S09LNDIxMmdWSEkzak5iVDNTQ3VmZjJUVlpTQlVMOXByWnluenh0WkFOOVZTck1BbnFSUzJRQkE2a0hfRThRYUVIZw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQjdtY3lfOXF2SDh4MDdyazRCTHpkSy1tTmJBOG9wczFXZ2pybS1ZX2xmQTFnemRLRnJRNG9nVUZILUdfTXVUUlNSb2tXam5GVnhkUGxzeE0xNEtZLWtGMEk2VG5LQ1E?oc=5"
+        },
+        {
+          "name": "Al-Monitor",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZnEtOEYyTXNsc25rTllEUkJlQUVaMEdZTEZtTVFIUkM4MWJWVi1pSHRIenZZMTc2b3dYOHhQVFhLeWtxYzlDdGxYR055V0VfbWphSXpOaG9ieTRNLS03V1NvTXhrNVpIUXd5RUVPT2J4TUttZ1hmWDl4VFpyZUxzUnJfeURxY3BMRGpTSXota0ZRZ3BCS3dnc1prOFM0Q2Vja29kaVBBYllLUG5vWjdSa2FwQ0VLQTJ6TUFEVA?oc=5"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUQ1QllWamV6RjFMak41UlVKREVRNnRiRURiV0xnTVkwUHFhVGVhRldJazlJRTg2VkJ3Y201MkxpOXYzNnYwWTNaYUlkVFFmMjM4LTI1Q0hCUVNqM0tMcnNMeThUYVJQZjlSaFpWOE1lSzlJRW4yc1dvdEtCVmppT3NfclNLczNXMXRHaUc5RTRMdURMRmpZSzhFTkFiU3pNOFE3U2NhYlNKeXJVMTFpV9IBtgFBVV95cUxOMndDTGJmYzFDR1prb3hCWExPRUVzUllGbERNcUNwN2t4dHZJLTVTNmNNQUN2VkVVYmc1aVNaSnpMY2Nxdi1jT3JiWHFBTk9YSkh6V25aLUs2ZnlqNzVnMDgxNDBTc2Y2T196X0JCTHJlRDd5S09LNDIxMmdWSEkzak5iVDNTQ3VmZjJUVlpTQlVMOXByWnluenh0WkFOOVZTck1BbnFSUzJRQkE2a0hfRThRYUVIZw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-05-05424cf8d182",
+      "original_title": "U.S. military hits 3 Iranian oil tankers after saying its navy warships were targeted",
+      "published_at": "2026-09-05T21:06:46Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "U.S. military hits 3 Iranian oil tankers after saying its navy warships were targeted",
+          "source": "CBC",
+          "snippet": "U.S. military hits 3 Iranian oil tankers after saying its navy warships were targeted &nbsp;&nbsp; CBC",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2xUSXVVOTMweXlqZkRGVjRVYXJtY21Ec3ZHemN0bWQ0OVI4bGt6X1AyQUw3MmlCbzc0S21FYUNjRGFhc3lEQldLSlNfSFFBQWlhQVZoOUt4UUdNeFdBcFdnX2hIekhyWkotVGVEbnhRc0RlQmN6eFBRYjZJOWIxRDhXVFo?oc=5"
+        },
+        {
+          "headline": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
+          "source": "AP News",
+          "snippet": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles &nbsp;&nbsp; AP News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5"
+        },
+        {
+          "headline": "U.S. military hits 3 Iranian oil tankers after saying Navy ships were targeted with missiles",
+          "source": "PBS",
+          "snippet": "U.S. military hits 3 Iranian oil tankers after saying Navy ships were targeted with missiles &nbsp;&nbsp; PBS",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMnQtaVpweUxKRzNpRHNvbFk0UktlZEdOT2pkVmhTNVpTWmFnMS1tX3BuRVV2Vkp1ckljakFmYy1uM1RHaDd4UkI4bVNEb29paWpwdHBNUUlFMFJNZWtvWi1TdXM2LTR1QlFoSVdfclNTTWIxRmIyRnRyeGVhLTExTVgyelhERmhuY1hVNmUzM2FOTzU3TjdfSVgzX1ZIRVY4TmNFMUJYbVlGU3F5ZWdpeUM3Q3pHNGNzYklZTENjeFlWeGNFaVl4aE9n0gHKAUFVX3lxTFAydC1pWnB5TEpHM2lEc29sWTRSS2VkR05PamRWaFM1WlNaYWcxLW1fcG5FVXZWSnVySWNqQWZjLW4zVEdoN3hSQjhtU0Rvb2lpanB0cE1RSUUwUk1la29aLVN1czYtNHVCUWhJV19yU1NNYjFGYjJGdHJ4ZWEtMTFNWDJ6WERGaG5jWFU2ZTMzYU5PNTdON19JWDNfVkhFVjhOY0UxQlhtWUZTcXllZ2l5QzdDekc0Y3NiSVlMQ2N4WVZ4Y0VpWXhoT2c?oc=5"
+        },
+        {
+          "headline": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+          "source": "Chicago Tribune",
+          "snippet": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles &nbsp;&nbsp; Chicago Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMmJiZlc3alBNcEtPZHJYV2NLa1FSaDhGY2VkdFlMVmxDdkNCbFRmVlFQOXNqbERHWVItdi02WjlSMnZUQ0NNSnRvSXJ1bUFVX2ZWaTl0MWVqaWVrSFYzaUpqX0NtaWNvc2RGQ1AwT0hnWFRzWmhmZkQ4dzBvdE83cVliQWlfQkZN?oc=5"
+        },
+        {
+          "headline": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+          "source": "CBS17.com",
+          "snippet": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles &nbsp;&nbsp; CBS17.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRTZXTFdJNGhMNmxybjVaLXRQWGphOVZxamlZeWc3QWU2Y0JaY0VWREFLSy1iaFU0TXFicGxuSHJOSktPQUNJZnUxbUpUQTJiRlRQLVZhQlJFMXZGcEZFOVpMRjE2Zm9LMElKS3h4blVKQ2c0UUtxWXlSc0lLM1NYemNEY01iaEpHMExVYkR6MHhVQkpWU2RhNm9FdEpzYnIxd0ktWnVSMy1SeHFOeUQ3ZkdXTG1Bbm9EQ0V3YnpNQ1ZHd9IBxwFBVV95cUxON0tYSzBIY3o3WjdPNVFKNW40U1hzU2R3c1NUNVg3N1ZfOC03YzQzUE1iaGxTZDVrVnoxRFgwX0dOUmJ3VU5MMjVJMm1NZ3A5TE1yN01MenlhVFBWUXU3ME9zSHdYcXA5aFE0MktaNDkyZ3FPZll1dW9ILXdIREJrN2M4MW9rRGlTbDdUMGpzRzBuYzdjRUV2NUVZaFlhdUd5UUJfeG04dTdjalNXNm1Sei1UVTFhaUxrUl9LNl9ndlk2VEVkMUZN?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2xUSXVVOTMweXlqZkRGVjRVYXJtY21Ec3ZHemN0bWQ0OVI4bGt6X1AyQUw3MmlCbzc0S21FYUNjRGFhc3lEQldLSlNfSFFBQWlhQVZoOUt4UUdNeFdBcFdnX2hIekhyWkotVGVEbnhRc0RlQmN6eFBRYjZJOWIxRDhXVFo?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5"
+        },
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMnQtaVpweUxKRzNpRHNvbFk0UktlZEdOT2pkVmhTNVpTWmFnMS1tX3BuRVV2Vkp1ckljakFmYy1uM1RHaDd4UkI4bVNEb29paWpwdHBNUUlFMFJNZWtvWi1TdXM2LTR1QlFoSVdfclNTTWIxRmIyRnRyeGVhLTExTVgyelhERmhuY1hVNmUzM2FOTzU3TjdfSVgzX1ZIRVY4TmNFMUJYbVlGU3F5ZWdpeUM3Q3pHNGNzYklZTENjeFlWeGNFaVl4aE9n0gHKAUFVX3lxTFAydC1pWnB5TEpHM2lEc29sWTRSS2VkR05PamRWaFM1WlNaYWcxLW1fcG5FVXZWSnVySWNqQWZjLW4zVEdoN3hSQjhtU0Rvb2lpanB0cE1RSUUwUk1la29aLVN1czYtNHVCUWhJV19yU1NNYjFGYjJGdHJ4ZWEtMTFNWDJ6WERGaG5jWFU2ZTMzYU5PNTdON19JWDNfVkhFVjhOY0UxQlhtWUZTcXllZ2l5QzdDekc0Y3NiSVlMQ2N4WVZ4Y0VpWXhoT2c?oc=5"
+        },
+        {
+          "name": "Chicago Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMmJiZlc3alBNcEtPZHJYV2NLa1FSaDhGY2VkdFlMVmxDdkNCbFRmVlFQOXNqbERHWVItdi02WjlSMnZUQ0NNSnRvSXJ1bUFVX2ZWaTl0MWVqaWVrSFYzaUpqX0NtaWNvc2RGQ1AwT0hnWFRzWmhmZkQ4dzBvdE83cVliQWlfQkZN?oc=5"
+        },
+        {
+          "name": "CBS17.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRTZXTFdJNGhMNmxybjVaLXRQWGphOVZxamlZeWc3QWU2Y0JaY0VWREFLSy1iaFU0TXFicGxuSHJOSktPQUNJZnUxbUpUQTJiRlRQLVZhQlJFMXZGcEZFOVpMRjE2Zm9LMElKS3h4blVKQ2c0UUtxWXlSc0lLM1NYemNEY01iaEpHMExVYkR6MHhVQkpWU2RhNm9FdEpzYnIxd0ktWnVSMy1SeHFOeUQ3ZkdXTG1Bbm9EQ0V3YnpNQ1ZHd9IBxwFBVV95cUxON0tYSzBIY3o3WjdPNVFKNW40U1hzU2R3c1NUNVg3N1ZfOC03YzQzUE1iaGxTZDVrVnoxRFgwX0dOUmJ3VU5MMjVJMm1NZ3A5TE1yN01MenlhVFBWUXU3ME9zSHdYcXA5aFE0MktaNDkyZ3FPZll1dW9ILXdIREJrN2M4MW9rRGlTbDdUMGpzRzBuYzdjRUV2NUVZaFlhdUd5UUJfeG04dTdjalNXNm1Sei1UVTFhaUxrUl9LNl9ndlk2VEVkMUZN?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-09-05-29f589aa00bf",
       "original_title": "FinancialJuice: IRGC navy cautions all vessels in Persian Gulf and near Strait of Hormuz against suspicious activity",
@@ -92,32 +192,32 @@
       ]
     },
     {
-      "stable_id": "2026-09-05-0a8e88a344a8",
-      "original_title": "Tom Lee’s GRNY Fund Makes MSTR Its Top Holding Before 46% Jump",
-      "published_at": "2026-09-05T18:26:52Z",
+      "stable_id": "2026-09-05-0429f837107f",
+      "original_title": "Bitcoin price slips below $80K as jobs data lifts hike bets",
+      "published_at": "2026-09-05T18:34:14Z",
       "discovery_source": "news",
       "evidence": [
         {
-          "headline": "Tom Lee’s GRNY Fund Makes MSTR Its Top Holding Before 46% Jump",
+          "headline": "Bitcoin price slips below $80K as jobs data lifts hike bets",
           "source": "Cryptonews.net",
-          "snippet": "Tom Lee’s GRNY Fund Makes MSTR Its Top Holding Before 46% Jump &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zODBUOU9PaEE1bC1zZ0lidlpGempibVBROVU3M3hpVWNjdHFJakg0aUEyb2FrUUhoVmpZRENlcE05aXNrTUtRUVRURmhPV0U3ekZ0OU80WFY?oc=5"
+          "snippet": "Bitcoin price slips below $80K as jobs data lifts hike bets &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16Qi16andXM3lTQl9BWTVzNnllN1hwZllBUm1TaTZyNnNIZkZINGhnM05yUVhMSGpMZUVhc3N6WWxKSEtiRmFnT2xZSkk1cVpkV2NiXzdObXA?oc=5"
         },
         {
-          "headline": "Tom Lee’s GRNY Fund Makes MSTR Its Top Holding Before 46% Jump",
-          "source": "CryptoRank",
-          "snippet": "Tom Lee’s GRNY Fund Makes MSTR Its Top Holding Before 46% Jump &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVJuQXAwbkVIMVlaWkY1dnI1TkRaUV8wZmRZM0lxNm5scW81Tk0xMFFUN19UWWFaLVRGb2hDMHBsLWVTemtLb3VYdzh1VmM2RktKVkJmVEljQUs3U1B3S3gyejh2bC03d292Q2hKTkNBMVdrNjMxdlhkUUl6MzFpaEw2LXhscjR6Y1p3QXdXRC1HckRwWVo0S2QtMkJ2azg?oc=5"
+          "headline": "Bitcoin price slips below $80K as jobs data lifts hike bets",
+          "source": "Binance",
+          "snippet": "Bitcoin price slips below $80K as jobs data lifts hike bets &nbsp;&nbsp; Binance",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92WkxnTzl4ckpFN0RqRHNWckdTQlFXSVByT3VSUTN4anVwSzdWR2U5bk1KeEtLRkNTRFdPR1pmRGJQOTZnMi05VnZneG91aGpLRG5qTFJDV1lzU3VpTGd2U0lidlZHaTQ4?oc=5"
         }
       ],
       "sources": [
         {
           "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zODBUOU9PaEE1bC1zZ0lidlpGempibVBROVU3M3hpVWNjdHFJakg0aUEyb2FrUUhoVmpZRENlcE05aXNrTUtRUVRURmhPV0U3ekZ0OU80WFY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16Qi16andXM3lTQl9BWTVzNnllN1hwZllBUm1TaTZyNnNIZkZINGhnM05yUVhMSGpMZUVhc3N6WWxKSEtiRmFnT2xZSkk1cVpkV2NiXzdObXA?oc=5"
         },
         {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVJuQXAwbkVIMVlaWkY1dnI1TkRaUV8wZmRZM0lxNm5scW81Tk0xMFFUN19UWWFaLVRGb2hDMHBsLWVTemtLb3VYdzh1VmM2RktKVkJmVEljQUs3U1B3S3gyejh2bC03d292Q2hKTkNBMVdrNjMxdlhkUUl6MzFpaEw2LXhscjR6Y1p3QXdXRC1HckRwWVo0S2QtMkJ2azg?oc=5"
+          "name": "Binance",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92WkxnTzl4ckpFN0RqRHNWckdTQlFXSVByT3VSUTN4anVwSzdWR2U5bk1KeEtLRkNTRFdPR1pmRGJQOTZnMi05VnZneG91aGpLRG5qTFJDV1lzU3VpTGd2U0lidlZHaTQ4?oc=5"
         }
       ]
     },
@@ -174,28 +274,16 @@
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxYl9vZ0ViQjZpSlFCZHg1ZzRRQTR5anNnUENZcWRRbFJjaG9PSWJKMEg1cUxtNHMwdU9PZ1I0b2RaQ0pDcFBBdWdiSEFLVHNOdDEzenE0ZDJmdWJNeWlwdW5nX0FXOWZoY3ByYUlpZ3poVHRwQ0E?oc=5"
         },
         {
-          "headline": "Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears By Investing.com",
-          "source": "Investing.com Australia",
-          "snippet": "Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears By Investing.com &nbsp;&nbsp; Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLTR6UElSWU0xQkN0MEluTzlUaV8tVEJtZE1ZRF9ibkxyOE5wajJUVk9zREdvTGgxUFZGLTVKTnVRN1BWMkJIaGU2eGprMlNhQVRIWS03dTMybldJVkxsYmJ2VTNGbU9IU056MHJTTXNOSkdlRWtsSTNtNEZCTHdyalliZThUVldxenpieWVyVDhVZmRTSjBhS0oybmQ4VzQzNmlTU0JnamlqTnBQX1FwVHlxaWt3SFM2QU53SmRaZjJNdmQ2QjZUUktJSnF4RmEybm84b2o1ZHRLSjFsdFZN?oc=5"
+          "headline": "Bitcoin holds below $80,000 as jobs data lifts Fed hike bets; ETF inflows continue",
+          "source": "Investing.com UK",
+          "snippet": "Bitcoin holds below $80,000 as jobs data lifts Fed hike bets; ETF inflows continue &nbsp;&nbsp; Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMnJnVGo1Z0lmSHBZRjBtNE5PMTBVak1Vdm9jX3FudkJhOXpDYXNXWEZCQVhiWU05RE0zNFJhSWdLM1JpU01yY1FrRlluNUV4V3kwZUpWNFZWODNDMzlfODNQR19UNUtkdnkzRWJtbjZZVGltU0Zrc182QU1ENXJ5V2tMa2dyYVJpMnhvYVo5YUdfN0QwRUdmXzByRnQ2dVhsWXBvX2ZPdkpSb3VwNU8zR2xHSDlxRl8yUk1RdW9lOUZnUldDVWt3OUpiYzZUUzQ?oc=5"
         },
         {
           "headline": "Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears",
           "source": "Investing.com",
           "snippet": "Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears &nbsp;&nbsp; Investing.com",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMml1bEF0cGhlYk4zN3EtUVdHQ0RzemJwU3FRUUczVG5XNVlyNlJrNUs0SWdJbWVrMkU2bXFBNnRXckY4SW5UT19tTkZhUjNYWEhuXzNLNjhvNjRqY1ZPRVdMMlYwY2c2ZkVFSlFlSTNLY3BzSFRRVFdfMDRIQm00VjhHUjIxQnJ2TFd0REFiTk9EU29yb0Fhc1RXOThuTGFlX3hUekZNLThYTy1XUzQ0WW9mcEV6S1JiTGNtaGFsQnZLNUdvZ1hCR29DXzAxd3JnU0RnTWFpTHN1N3c?oc=5"
-        },
-        {
-          "headline": "Bitcoin Drops Below $80,000 as Hot Jobs Data Spurs Fed-Hike Bets",
-          "source": "Bloomberg.com",
-          "snippet": "Bitcoin Drops Below $80,000 as Hot Jobs Data Spurs Fed-Hike Bets &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWW40amQ5Y21mTHU2NzY5Z3BKV1hKZVpaeGthd3hwZ2JNa0ltajNUN1VyX0VOOFY5Q193TzN6Qkx2Y1RJVEViTFdXWGJYanYtdmthel9RWWZkUVdPSlJneWsxRExUSnFXTmpKYWZQSWFueTNfb1A1T2tkc25URTVPS3V6UUI5UUJFbHJKLU9yM1J0a1JmSllrR2xKcm4xVDdadzdHTnY5d3pGV3VueEx6eXBLdWI?oc=5"
-        },
-        {
-          "headline": "Bitcoin slides as strong jobs report revives chances of Fed rate hike",
-          "source": "Bitget",
-          "snippet": "Bitcoin slides as strong jobs report revives chances of Fed rate hike &nbsp;&nbsp; Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TRWdpa0diLTFpZUxqMmJXdUZuS0VOZ2h5Q25RZm9PN3RtLXhvd2VPSlVwUTIxV3pxbzh4UWJyczNVM3h2M1lOTzl4TTRSUjEzZDZ4RTdobEpxaHRRbVBlSWJBNNIBY0FVX3lxTE5TRWdpa0diLTFpZUxqMmJXdUZuS0VOZ2h5Q25RZm9PN3RtLXhvd2VPSlVwUTIxV3pxbzh4UWJyczNVM3h2M1lOTzl4TTRSUjEzZDZ4RTdobEpxaHRRbVBlSWJBNA?oc=5"
         }
       ],
       "sources": [
@@ -204,20 +292,12 @@
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxYl9vZ0ViQjZpSlFCZHg1ZzRRQTR5anNnUENZcWRRbFJjaG9PSWJKMEg1cUxtNHMwdU9PZ1I0b2RaQ0pDcFBBdWdiSEFLVHNOdDEzenE0ZDJmdWJNeWlwdW5nX0FXOWZoY3ByYUlpZ3poVHRwQ0E?oc=5"
         },
         {
-          "name": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLTR6UElSWU0xQkN0MEluTzlUaV8tVEJtZE1ZRF9ibkxyOE5wajJUVk9zREdvTGgxUFZGLTVKTnVRN1BWMkJIaGU2eGprMlNhQVRIWS03dTMybldJVkxsYmJ2VTNGbU9IU056MHJTTXNOSkdlRWtsSTNtNEZCTHdyalliZThUVldxenpieWVyVDhVZmRTSjBhS0oybmQ4VzQzNmlTU0JnamlqTnBQX1FwVHlxaWt3SFM2QU53SmRaZjJNdmQ2QjZUUktJSnF4RmEybm84b2o1ZHRLSjFsdFZN?oc=5"
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMnJnVGo1Z0lmSHBZRjBtNE5PMTBVak1Vdm9jX3FudkJhOXpDYXNXWEZCQVhiWU05RE0zNFJhSWdLM1JpU01yY1FrRlluNUV4V3kwZUpWNFZWODNDMzlfODNQR19UNUtkdnkzRWJtbjZZVGltU0Zrc182QU1ENXJ5V2tMa2dyYVJpMnhvYVo5YUdfN0QwRUdmXzByRnQ2dVhsWXBvX2ZPdkpSb3VwNU8zR2xHSDlxRl8yUk1RdW9lOUZnUldDVWt3OUpiYzZUUzQ?oc=5"
         },
         {
           "name": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMml1bEF0cGhlYk4zN3EtUVdHQ0RzemJwU3FRUUczVG5XNVlyNlJrNUs0SWdJbWVrMkU2bXFBNnRXckY4SW5UT19tTkZhUjNYWEhuXzNLNjhvNjRqY1ZPRVdMMlYwY2c2ZkVFSlFlSTNLY3BzSFRRVFdfMDRIQm00VjhHUjIxQnJ2TFd0REFiTk9EU29yb0Fhc1RXOThuTGFlX3hUekZNLThYTy1XUzQ0WW9mcEV6S1JiTGNtaGFsQnZLNUdvZ1hCR29DXzAxd3JnU0RnTWFpTHN1N3c?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWW40amQ5Y21mTHU2NzY5Z3BKV1hKZVpaeGthd3hwZ2JNa0ltajNUN1VyX0VOOFY5Q193TzN6Qkx2Y1RJVEViTFdXWGJYanYtdmthel9RWWZkUVdPSlJneWsxRExUSnFXTmpKYWZQSWFueTNfb1A1T2tkc25URTVPS3V6UUI5UUJFbHJKLU9yM1J0a1JmSllrR2xKcm4xVDdadzdHTnY5d3pGV3VueEx6eXBLdWI?oc=5"
-        },
-        {
-          "name": "Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TRWdpa0diLTFpZUxqMmJXdUZuS0VOZ2h5Q25RZm9PN3RtLXhvd2VPSlVwUTIxV3pxbzh4UWJyczNVM3h2M1lOTzl4TTRSUjEzZDZ4RTdobEpxaHRRbVBlSWJBNNIBY0FVX3lxTE5TRWdpa0diLTFpZUxqMmJXdUZuS0VOZ2h5Q25RZm9PN3RtLXhvd2VPSlVwUTIxV3pxbzh4UWJyczNVM3h2M1lOTzl4TTRSUjEzZDZ4RTdobEpxaHRRbVBlSWJBNA?oc=5"
         }
       ]
     },
@@ -288,6 +368,36 @@
         {
           "name": "Traverse City Record-Eagle",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORXJPZTdORlhzX0xXTmpLYm5fd3VkYXowRXhLbllUaGh5bzI1UDl0QXBIaUZrZ2UtZHBOMzZVb01QTTlfWnhSZGRCTi1DbTc0SVRMb2hvZDBva055YmszTzd3Z1pCT1ZNOHhUbjdRZ25GdUJybWpqSGIyc0ZoeGJTNFN4TXJHU0hCZmlENDNpTktoYUZZdTJhLU11dUk3S2JZNUI5cVFpZWhWOTBKR0ZBSXJrOWsxQ1U3WWF5VWxlQk0yWnRpZjlxS0FHNXdXOFR1YWFDS3g5SGViRUk4S08zNXEzb2hfeXox?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-05-652dd78dc42b",
+      "original_title": "US hits Iranian oil tankers, and other key Mideast developments - Traverse City Record-Eagle",
+      "published_at": "2026-09-05T16:54:38Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US hits Iranian oil tankers, and other key Mideast developments - Traverse City Record-Eagle",
+          "source": "Traverse City Record-Eagle",
+          "snippet": "US hits Iranian oil tankers, and other key Mideast developments &nbsp;&nbsp; Traverse City Record-Eagle",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORXJPZTdORlhzX0xXTmpLYm5fd3VkYXowRXhLbllUaGh5bzI1UDl0QXBIaUZrZ2UtZHBOMzZVb01QTTlfWnhSZGRCTi1DbTc0SVRMb2hvZDBva055YmszTzd3Z1pCT1ZNOHhUbjdRZ25GdUJybWpqSGIyc0ZoeGJTNFN4TXJHU0hCZmlENDNpTktoYUZZdTJhLU11dUk3S2JZNUI5cVFpZWhWOTBKR0ZBSXJrOWsxQ1U3WWF5VWxlQk0yWnRpZjlxS0FHNXdXOFR1YWFDS3g5SGViRUk4S08zNXEzb2hfeXox?oc=5"
+        },
+        {
+          "headline": "US hits Iranian oil tankers, and other key Mideast developments",
+          "source": "AP News",
+          "snippet": "US hits Iranian oil tankers, and other key Mideast developments &nbsp;&nbsp; AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Traverse City Record-Eagle",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORXJPZTdORlhzX0xXTmpLYm5fd3VkYXowRXhLbllUaGh5bzI1UDl0QXBIaUZrZ2UtZHBOMzZVb01QTTlfWnhSZGRCTi1DbTc0SVRMb2hvZDBva055YmszTzd3Z1pCT1ZNOHhUbjdRZ25GdUJybWpqSGIyc0ZoeGJTNFN4TXJHU0hCZmlENDNpTktoYUZZdTJhLU11dUk3S2JZNUI5cVFpZWhWOTBKR0ZBSXJrOWsxQ1U3WWF5VWxlQk0yWnRpZjlxS0FHNXdXOFR1YWFDS3g5SGViRUk4S08zNXEzb2hfeXox?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw?oc=5"
         }
       ]
     },
@@ -539,25 +649,25 @@
       "evidence": [
         {
           "headline": "US Strikes 3 Iranian Tankers in Retaliation for IRGC Attacks",
-          "source": "Bloomberg.com",
-          "snippet": "US Strikes 3 Iranian Tankers in Retaliation for IRGC Attacks &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0pPdkI5N0lmV3JaSXlISDREMHdMWEY3SEE4T0tmbmcxTGx4YzlyOUhxUFZSbmZmLWxBejBLTndfZU5mVVRkdVlra1FOdHdmdEVGNENMZkRMWV95cGZROHNfNXBYR09GaXlMLUFfRzRCSFJkTnhNbV81TzliZ0g4Q1paWEdfa210amxVcm5OekVCSHMyXzdqd2NvS0Q0Y0ZiNHFiMFE3aFY0RU5nbENId2ZRcVh2QQ?oc=5"
-        },
-        {
-          "headline": "US Strikes 3 Iranian Tankers in Retaliation for IRGC Attacks",
           "source": "Yahoo Finance UK",
           "snippet": "US Strikes 3 Iranian Tankers in Retaliation for IRGC Attacks &nbsp;&nbsp; Yahoo Finance UK",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOanN5bWV3VXNFZGFHblBadHhXNnJWNndPRFpiQkxhYnFVamhIMVVWd2wyWm1JRnBhSzNkNjRpdWwtYWtjSlg3Vndpa291V1dMNDBMbS1fcnF6YXdVMnhPQ1NlVk4yeW1DYWFfNHkwWGV6WjBVV3NFc2lEc213LThHYXhXaw?oc=5"
+        },
+        {
+          "headline": "US Strikes 3 Iranian Tankers in Retaliation for IRGC Attacks",
+          "source": "Bloomberg.com",
+          "snippet": "US Strikes 3 Iranian Tankers in Retaliation for IRGC Attacks &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0pPdkI5N0lmV3JaSXlISDREMHdMWEY3SEE4T0tmbmcxTGx4YzlyOUhxUFZSbmZmLWxBejBLTndfZU5mVVRkdVlra1FOdHdmdEVGNENMZkRMWV95cGZROHNfNXBYR09GaXlMLUFfRzRCSFJkTnhNbV81TzliZ0g4Q1paWEdfa210amxVcm5OekVCSHMyXzdqd2NvS0Q0Y0ZiNHFiMFE3aFY0RU5nbENId2ZRcVh2QQ?oc=5"
         }
       ],
       "sources": [
         {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0pPdkI5N0lmV3JaSXlISDREMHdMWEY3SEE4T0tmbmcxTGx4YzlyOUhxUFZSbmZmLWxBejBLTndfZU5mVVRkdVlra1FOdHdmdEVGNENMZkRMWV95cGZROHNfNXBYR09GaXlMLUFfRzRCSFJkTnhNbV81TzliZ0g4Q1paWEdfa210amxVcm5OekVCSHMyXzdqd2NvS0Q0Y0ZiNHFiMFE3aFY0RU5nbENId2ZRcVh2QQ?oc=5"
-        },
-        {
           "name": "Yahoo Finance UK",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOanN5bWV3VXNFZGFHblBadHhXNnJWNndPRFpiQkxhYnFVamhIMVVWd2wyWm1JRnBhSzNkNjRpdWwtYWtjSlg3Vndpa291V1dMNDBMbS1fcnF6YXdVMnhPQ1NlVk4yeW1DYWFfNHkwWGV6WjBVV3NFc2lEc213LThHYXhXaw?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0pPdkI5N0lmV3JaSXlISDREMHdMWEY3SEE4T0tmbmcxTGx4YzlyOUhxUFZSbmZmLWxBejBLTndfZU5mVVRkdVlra1FOdHdmdEVGNENMZkRMWV95cGZROHNfNXBYR09GaXlMLUFfRzRCSFJkTnhNbV81TzliZ0g4Q1paWEdfa210amxVcm5OekVCSHMyXzdqd2NvS0Q0Y0ZiNHFiMFE3aFY0RU5nbENId2ZRcVh2QQ?oc=5"
         }
       ]
     },
@@ -609,8 +719,8 @@
       "evidence": [
         {
           "headline": "Photos show daily life in Iran on the beach along the Strait of Hormuz",
-          "source": "seMissourian",
-          "snippet": "Photos show daily life in Iran on the beach along the Strait of Hormuz &nbsp;&nbsp; seMissourian",
+          "source": "semissourian.com",
+          "snippet": "Photos show daily life in Iran on the beach along the Strait of Hormuz &nbsp;&nbsp; semissourian.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1Q1RGhvTUtnZlVYTWNacmlUSWhqUUpxZU40YWgwSFJkOHVVakhsaFI2c1lQUU1rSkdwYWZqQ3E2VDFiZlZMM0lqVjVXNlE0TlZyRGZUOWQwYWVSU0J3RjZjRFBPVm9FZ3FWa2NjMWNGekZqVTcyeHp6WnNpaEZlVkNIWVZvX2RSZDJiaExYN3oxNDM1VEdVbUI1bjNydXlFQ0N0WVFNdkNaZ2RhVkJtd3U3V1Q?oc=5"
         },
         {
@@ -628,7 +738,7 @@
       ],
       "sources": [
         {
-          "name": "seMissourian",
+          "name": "semissourian.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1Q1RGhvTUtnZlVYTWNacmlUSWhqUUpxZU40YWgwSFJkOHVVakhsaFI2c1lQUU1rSkdwYWZqQ3E2VDFiZlZMM0lqVjVXNlE0TlZyRGZUOWQwYWVSU0J3RjZjRFBPVm9FZ3FWa2NjMWNGekZqVTcyeHp6WnNpaEZlVkNIWVZvX2RSZDJiaExYN3oxNDM1VEdVbUI1bjNydXlFQ0N0WVFNdkNaZ2RhVkJtd3U3V1Q?oc=5"
         },
         {
@@ -852,6 +962,36 @@
       ]
     },
     {
+      "stable_id": "2026-09-05-0a8e88a344a8",
+      "original_title": "Tom Lee’s GRNY Fund Makes MSTR Its Top Holding Before 46% Jump",
+      "published_at": "2026-09-05T11:30:35Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Tom Lee’s GRNY Fund Makes MSTR Its Top Holding Before 46% Jump",
+          "source": "Bitget",
+          "snippet": "Tom Lee’s GRNY Fund Makes MSTR Its Top Holding Before 46% Jump &nbsp;&nbsp; Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wVThKVi16bnl2TlMtT3U2SXZ5MlFjTXd0LThpRVhSNVNpRXhfQ0ZUcGI5ZEd1ZXpGcmhPcXVlSWVSTVpkUEZ0NW9PdTF2R2pZc29xUUR3bjAxTW1YNHfSAWNBVV95cUxNNHR1ZUdnSmVGUWw2R29ndUJqWlpCLXFVYWhLaXlaOFlhdGJkUWpydmNqdW1xaUN6WDhKLVh5Q3lPVkJRUTlkRkdGLW5zSVZFdVpkeGJzdWp6LUJ4YUg2RzlfekU?oc=5"
+        },
+        {
+          "headline": "Tom Lee’s GRNY Fund Makes MSTR Its Top Holding Before 46% Jump",
+          "source": "CryptoRank",
+          "snippet": "Tom Lee’s GRNY Fund Makes MSTR Its Top Holding Before 46% Jump &nbsp;&nbsp; CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVJuQXAwbkVIMVlaWkY1dnI1TkRaUV8wZmRZM0lxNm5scW81Tk0xMFFUN19UWWFaLVRGb2hDMHBsLWVTemtLb3VYdzh1VmM2RktKVkJmVEljQUs3U1B3S3gyejh2bC03d292Q2hKTkNBMVdrNjMxdlhkUUl6MzFpaEw2LXhscjR6Y1p3QXdXRC1HckRwWVo0S2QtMkJ2azg?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wVThKVi16bnl2TlMtT3U2SXZ5MlFjTXd0LThpRVhSNVNpRXhfQ0ZUcGI5ZEd1ZXpGcmhPcXVlSWVSTVpkUEZ0NW9PdTF2R2pZc29xUUR3bjAxTW1YNHfSAWNBVV95cUxNNHR1ZUdnSmVGUWw2R29ndUJqWlpCLXFVYWhLaXlaOFlhdGJkUWpydmNqdW1xaUN6WDhKLVh5Q3lPVkJRUTlkRkdGLW5zSVZFdVpkeGJzdWp6LUJ4YUg2RzlfekU?oc=5"
+        },
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVJuQXAwbkVIMVlaWkY1dnI1TkRaUV8wZmRZM0lxNm5scW81Tk0xMFFUN19UWWFaLVRGb2hDMHBsLWVTemtLb3VYdzh1VmM2RktKVkJmVEljQUs3U1B3S3gyejh2bC03d292Q2hKTkNBMVdrNjMxdlhkUUl6MzFpaEw2LXhscjR6Y1p3QXdXRC1HckRwWVo0S2QtMkJ2azg?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-09-05-e1fbd25af324",
       "original_title": "Bitcoin’s $3K Drop Comes as Fed Rate Hike Bets Surge, but Analyst Remains Bullish",
       "published_at": "2026-09-05T11:26:20Z",
@@ -1018,6 +1158,36 @@
         {
           "name": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMml1bEF0cGhlYk4zN3EtUVdHQ0RzemJwU3FRUUczVG5XNVlyNlJrNUs0SWdJbWVrMkU2bXFBNnRXckY4SW5UT19tTkZhUjNYWEhuXzNLNjhvNjRqY1ZPRVdMMlYwY2c2ZkVFSlFlSTNLY3BzSFRRVFdfMDRIQm00VjhHUjIxQnJ2TFd0REFiTk9EU29yb0Fhc1RXOThuTGFlX3hUekZNLThYTy1XUzQ0WW9mcEV6S1JiTGNtaGFsQnZLNUdvZ1hCR29DXzAxd3JnU0RnTWFpTHN1N3c?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-05-70f1c46f8508",
+      "original_title": "Stock market falls as strong jobs report reignites rate hike fears",
+      "published_at": "2026-09-05T09:14:12Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Stock market falls as strong jobs report reignites rate hike fears",
+          "source": "eciks.org",
+          "snippet": "Stock market falls as strong jobs report reignites rate hike fears &nbsp;&nbsp; eciks.org",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWjkzWUc5ejdIcElGemtOYUt6dEN4R0EtLUxfOFFYN0ZxS0tGWnFpNTlQd3IxNGs2NVFIUm0xQUhDNWxZOVNrWDRHQkR5QmVNNEl3VUJGTlJlR2ZtenRPZktlZzRad1dtb3c?oc=5"
+        },
+        {
+          "headline": "Strong US Jobs Report Reignites Rate Hike Fears",
+          "source": "Pension Pulse blog",
+          "snippet": "Strong US Jobs Report Reignites Rate Hike Fears &nbsp;&nbsp; Pension Pulse blog",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORklSUl9ZMlhPVkRPcVdkcF85RGZYSm52bFN0TDl5bEFrU29IcHEyQzlxT2N3ckZVV211SFQxbG9EeXJhOGhoSEtIQld4YmY0eVR0TkRkSTVBMS1QSGRwRzh5UHhMdjBxb0g0bi1QZFpYQW5qQ1ZmZTZLeHVkR1Btc2g5czNiX081bHc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "eciks.org",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWjkzWUc5ejdIcElGemtOYUt6dEN4R0EtLUxfOFFYN0ZxS0tGWnFpNTlQd3IxNGs2NVFIUm0xQUhDNWxZOVNrWDRHQkR5QmVNNEl3VUJGTlJlR2ZtenRPZktlZzRad1dtb3c?oc=5"
+        },
+        {
+          "name": "Pension Pulse blog",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORklSUl9ZMlhPVkRPcVdkcF85RGZYSm52bFN0TDl5bEFrU29IcHEyQzlxT2N3ckZVV211SFQxbG9EeXJhOGhoSEtIQld4YmY0eVR0TkRkSTVBMS1QSGRwRzh5UHhMdjBxb0g0bi1QZFpYQW5qQ1ZmZTZLeHVkR1Btc2g5czNiX081bHc?oc=5"
         }
       ]
     },
@@ -2508,106 +2678,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9750655/Hammack-Data-and-anecdotes-indicate-rates-not-restrictive.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-04-6a61f5ce4dc6",
-      "original_title": "FinancialJuice: Fed's Hammack: Fed policy not restrictive and inflation is too high",
-      "published_at": "2026-09-04T16:31:44Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Hammack: Fed policy not restrictive and inflation is too high",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9750654/Feds-Hammack-Fed-policy-not-restrictive-and-inflation-is-too-high---LinkedIn.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9750654/Feds-Hammack-Fed-policy-not-restrictive-and-inflation-is-too-high---LinkedIn.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-04-c44ede0e5daf",
-      "original_title": "얼마나 말도 안 되는 일입니까? 우리는 방금 일자리 부문에서 '엄청난(GREAT)' 수치를 받아보았고, 우리의 신용과 경제가 더 좋아졌기 때문에 시장은 '상승해야(UP)' 마땅하지만, 지난 25년 동안 늘 그래왔듯이 주식 시장은 '하락(DOWN)'합니다. 상황이 좋아지면 인플레이션에 대한 '공포' 때문에 이를 '죽여버려야(KILL IT)' 한다는 왜곡된 현실 속에 우리가 살고 있기 때문입니다",
-      "published_at": "2026-09-04T16:31:00Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "얼마나 말도 안 되는 일입니까? 우리는 방금 일자리 부문에서 '엄청난(GREAT)' 수치를 받아보았고, 우리의 신용과 경제가 더 좋아졌기 때문에 시장은 '상승해야(UP)' 마땅하지만, 지난 25년 동안 늘 그래왔듯이 주식 시장은 '하락(DOWN)'합니다. 상황이 좋아지면 인플레이션에 대한 '공포' 때문에 이를 '죽여버려야(KILL IT)' 한다는 왜곡된 현실 속에 우리가 살고 있기 때문입니다",
-          "source": "Telegram @goddessTTF",
-          "snippet": "얼마나 말도 안 되는 일입니까? 우리는 방금 일자리 부문에서 '엄청난(GREAT)' 수치를 받아보았고, 우리의 신용과 경제가 더 좋아졌기 때문에 시장은 '상승해야(UP)' 마땅하지만, 지난 25년 동안 늘 그래왔듯이 주식 시장은 '하락(DOWN)'합니다. 상황이 좋아지면 인플레이션에 대한 '공포' 때문에 이를 '죽여버려야(KILL IT)' 한다는 왜곡된 현실 속에 우리가 살고 있기 때문입니다. 정반대여야 하고, 25년 전까지는 항상 그래왔습니다. 우리가 이 이론을 고수한다면 우리 국가가 마땅히 누려야 할 진정한 경제적 위대함을 결코 가질 수 없을 것입니다. 우리가 잘할 때마다 그 어리석은 자들이 이 위대한 상승 모멘텀을 즉시 멈추고 싶어 하기 때문입니다. 성장이 인플레이션을 유발하는 것이 아닙니다! 저는 오늘 아침 이 환상적인 일자리 수치를 보자마자, 시장이 로켓처럼 치솟아야 함에도 불구하고 하락할 것이라는 점을 알았습니다. 우리는 2, 3, 4%가 아니라 15%와 20%의 GDP를 기록해야 하며, 미국은 지금보다 재정적으로 훨씬 더 위대해져야 합니다. 우리의 부채는 상환될 것이고, 이 모든 다른 일들이 일어날 것입니다. 기억하십시오, 금리가 1포인트 오를 때마다 미국은 연간 6,500억 달러의 비용을 치러야 합니다. 우리는 세계에서 가장 낮은 금리를 지불해야 합니다. 우리가 모든 것을 돌아가게 만들고, 그렇지 않았다면 실패했을 국가들에게 위대한 경제적 번영을 안겨주기 때문입니다! 이 사안에 관심을 가져주셔서 감사합니다. 도널드 J. 트럼프 대통령",
-          "url": "https://t.me/goddessTTF/83650"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/83650"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-04-4354ae31ab40",
-      "original_title": "FinancialJuice: Fed's Hammack: local contacts indicate time to raise rates to curb inflation",
-      "published_at": "2026-09-04T16:30:35Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Hammack: local contacts indicate time to raise rates to curb inflation",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9750642/Feds-Hammack-local-contacts-indicate-time-to-raise-rates-to-curb-inflation.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9750642/Feds-Hammack-local-contacts-indicate-time-to-raise-rates-to-curb-inflation.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-04-e8f78c429ecb",
-      "original_title": "AAA에 따르면, 미국의 경유 가격은 금요일에 갤런당 약 5.85달러로 사상 최고치를 기록했으며, 이는 1년 전보다 58% 상승한 수치이고, 이전 달보다 거의 9% 상승한 것입니다. 휘발유 가격은 평균적으로 갤런당 4.15달러였으며, 브렌트 유가는 배럴당 약 96달러로 거래되었습니다. 이는 중동의 이란 전쟁과 러시아의 정유 시설 공격으로 인한 혼란 때문입니다.",
-      "published_at": "2026-09-04T16:24:04Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "AAA에 따르면, 미국의 경유 가격은 금요일에 갤런당 약 5.85달러로 사상 최고치를 기록했으며, 이는 1년 전보다 58% 상승한 수치이고, 이전 달보다 거의 9% 상승한 것입니다. 휘발유 가격은 평균적으로 갤런당 4.15달러였으며, 브렌트 유가는 배럴당 약 96달러로 거래되었습니다. 이는 중동의 이란 전쟁과 러시아의 정유 시설 공격으로 인한 혼란 때문입니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "AAA에 따르면, 미국의 경유 가격은 금요일에 갤런당 약 5.85달러로 사상 최고치를 기록했으며, 이는 1년 전보다 58% 상승한 수치이고, 이전 달보다 거의 9% 상승한 것입니다. 휘발유 가격은 평균적으로 갤런당 4.15달러였으며, 브렌트 유가는 배럴당 약 96달러로 거래되었습니다. 이는 중동의 이란 전쟁과 러시아의 정유 시설 공격으로 인한 혼란 때문입니다.",
-          "url": "https://t.me/goddessTTF/83648"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/83648"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-04-ad34f9cc8644",
-      "original_title": "극좌파 미치광이들과 멍청한 민주당원들, 그리고 공산주의자들은 도널드 J. 트럼프 대통령이 미국을 위해 전쟁에서 승리하느니 차라리 우리가 이란과의 전쟁에서 패배하기를 바라고 있습니다. 다시 말해, 그들은 우리가 승리하느니 차라리 패배하기를 바라는 것입니다! 이들은 심각한 TDS, 때로는 '트럼프 증오 증후군'이라고도 불리는 병을 앓고 있는 매우 비정상적인 자들입니다. 도널드 J. 트럼프 대통령",
-      "published_at": "2026-09-04T16:07:19Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "극좌파 미치광이들과 멍청한 민주당원들, 그리고 공산주의자들은 도널드 J. 트럼프 대통령이 미국을 위해 전쟁에서 승리하느니 차라리 우리가 이란과의 전쟁에서 패배하기를 바라고 있습니다. 다시 말해, 그들은 우리가 승리하느니 차라리 패배하기를 바라는 것입니다! 이들은 심각한 TDS, 때로는 '트럼프 증오 증후군'이라고도 불리는 병을 앓고 있는 매우 비정상적인 자들입니다. 도널드 J. 트럼프 대통령",
-          "source": "Telegram @goddessTTF",
-          "snippet": "극좌파 미치광이들과 멍청한 민주당원들, 그리고 공산주의자들은 도널드 J. 트럼프 대통령이 미국을 위해 전쟁에서 승리하느니 차라리 우리가 이란과의 전쟁에서 패배하기를 바라고 있습니다. 다시 말해, 그들은 우리가 승리하느니 차라리 패배하기를 바라는 것입니다! 이들은 심각한 TDS, 때로는 '트럼프 증오 증후군'이라고도 불리는 병을 앓고 있는 매우 비정상적인 자들입니다. 도널드 J. 트럼프 대통령",
-          "url": "https://t.me/goddessTTF/83647"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/83647"
         }
       ]
     }
