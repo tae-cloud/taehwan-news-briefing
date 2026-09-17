@@ -1,6 +1,636 @@
 {
-  "updated_at_kst": "2026-09-17T10:24:52+09:00",
+  "updated_at_kst": "2026-09-17T16:38:12+09:00",
   "items": [
+    {
+      "stable_id": "2026-09-17-52b4147e7250",
+      "original_title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+      "published_at": "2026-09-17T07:27:07Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-5b39fa370e04",
+      "original_title": "FinancialJuice: Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August",
+      "published_at": "2026-09-17T07:26:31Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Azerbaijan oil output falls 8.3% y/y to 2.2m tons in August",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9767040/Azerbaijan-oil-output-falls-83-yy-to-22m-tons-in-August---IFX.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9767040/Azerbaijan-oil-output-falls-83-yy-to-22m-tons-in-August---IFX.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-542cc3f2093a",
+      "original_title": "FinancialJuice: Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029",
+      "published_at": "2026-09-17T07:19:40Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Kazakhstan's oil output seen at 96 mln tons in 2028, 99 million tons in 2029",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9767039/Kazakhstans-oil-output-seen-at-96-mln-tons-in-2028-99-million-tons-in-2029---IFX.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9767039/Kazakhstans-oil-output-seen-at-96-mln-tons-in-2028-99-million-tons-in-2029---IFX.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-5a1647fc7143",
+      "original_title": "트럼프 대통령은 유엔 총회 기간 중 걸프 지역 지도자들과 이란 문제에 대한 회담을 가질 예정입니다.",
+      "published_at": "2026-09-17T07:07:03Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프 대통령은 유엔 총회 기간 중 걸프 지역 지도자들과 이란 문제에 대한 회담을 가질 예정입니다.",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프 대통령은 유엔 총회 기간 중 걸프 지역 지도자들과 이란 문제에 대한 회담을 가질 예정입니다.",
+          "url": "https://t.me/goddessTTF/84250"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/84250"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-cf14c0522df3",
+      "original_title": "FinancialJuice: Swiss government: Iran conflict, high energy prices, and continuing uncertainty over trade policy pose significant risks to economic outlook",
+      "published_at": "2026-09-17T07:00:26Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Swiss government: Iran conflict, high energy prices, and continuing uncertainty over trade policy pose significant risks to economic outlook",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9767004/Swiss-government-Iran-conflict-high-energy-prices-and-continuing-uncertainty-over-trade-policy-pose-significant-risks-to-economic-outlook.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9767004/Swiss-government-Iran-conflict-high-energy-prices-and-continuing-uncertainty-over-trade-policy-pose-significant-risks-to-economic-outlook.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-ccd009e4aea4",
+      "original_title": "FinancialJuice: SNB Interest Rate Probabilities",
+      "published_at": "2026-09-17T06:09:21Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: SNB Interest Rate Probabilities",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766954/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766954/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-4e3317a98581",
+      "original_title": "FinancialJuice: Scope of Japan chip factory construction investment in the US likely to amount to several trillion Yen",
+      "published_at": "2026-09-17T06:07:13Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Scope of Japan chip factory construction investment in the US likely to amount to several trillion Yen",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766949/Scope-of-Japan-chip-factory-construction-investment-in-the-US-likely-to-amount-to-several-trillion-Yen---Nikkei.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766949/Scope-of-Japan-chip-factory-construction-investment-in-the-US-likely-to-amount-to-several-trillion-Yen---Nikkei.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-b7ca52218fc1",
+      "original_title": "FinancialJuice: Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI",
+      "published_at": "2026-09-17T05:00:18Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iranian foreign minister, Pakistan army chief discuss recent regional developments in phone call during Aragchi's Beijing visit on Wednesday: Iranian MI",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766875/Iranian-foreign-minister-Pakistan-army-chief-discuss-recent-regional-developments-in-phone-call-during-Aragchis-Beijing-visit-on-Wednesday-Iranian-MI.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766875/Iranian-foreign-minister-Pakistan-army-chief-discuss-recent-regional-developments-in-phone-call-during-Aragchis-Beijing-visit-on-Wednesday-Iranian-MI.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-fea89f605d94",
+      "original_title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+      "published_at": "2026-09-17T04:47:27Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-08e2b5fbcf85",
+      "original_title": "Bitcoin Hit By Double Whammy' Of Bill Rejection, Rate Hike",
+      "published_at": "2026-09-17T04:44:58Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin Hit By Double Whammy' Of Bill Rejection, Rate Hike",
+          "source": "NDTV Profit",
+          "snippet": "Bitcoin Hit By Double Whammy' Of Bill Rejection, Rate Hike &nbsp;&nbsp; NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZlcxTUxMNVdHS2llQUg5V0J4UFo3aDlFMk5zX2tvRU8zWllyRFJ4NGNZVlVmQTRpaG1rR0J4UjMwTFZFU19JQ0tucUZhaFp0UC1ydTJ0MjRSRDFEVW8yQ2JwN0VhdndKeHBVS2hZREFWTUxFLVZNcTBDQlF1N3dqaFl6dFJVUVF6M295eUt5S2s5YlJJTlZ6MVpNaDRpLU5LTW9TT2V30gGuAUFVX3lxTFB1eVBwa0UtdktDekprTTZyb0lzVXZrYW9GZVBqN2hpNnRmQnZlVmdMcDZScTF3RnlOdUg1R3lDSkJOLUFYNS1jQklvSXVZejB1QzBQSGtqOElUaHFFNnQyWnh0R2tXU1UxbGIxV1RySWxqbVJIWWtnU0dITlhLdWJiVDZHdmxKV1c3aGxweXJJMzUxZkZkSDFqMHlpcTN6TVl3c1lCRjNwcXYwaHZqdw?oc=5"
+        },
+        {
+          "headline": "Bitcoin Faces ‘Double Whammy’ After Bill Rejection, Rate Hike",
+          "source": "Bloomberg.com",
+          "snippet": "Bitcoin Faces ‘Double Whammy’ After Bill Rejection, Rate Hike &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWpwdU9fd0tpWl9QbnBEMXlCeWVfd3VoTTFsNzBBYTRrdjJ5ZHhGdWdwWjR4YUtlWU5rNjM3MjRWNU9lY1ZIT18yanc0cHN2alVZSDloWEVYYy1ldXJYMS1qYXRSdTgzTnladU9ST2dPZHlKckptYW5VZl9LT2pSYUV4a01nZzFWU0NtNU04R09FQ2c0RjBLSzhwZnJmQjVNRVZYRG5nVFBzUV9FcHc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZlcxTUxMNVdHS2llQUg5V0J4UFo3aDlFMk5zX2tvRU8zWllyRFJ4NGNZVlVmQTRpaG1rR0J4UjMwTFZFU19JQ0tucUZhaFp0UC1ydTJ0MjRSRDFEVW8yQ2JwN0VhdndKeHBVS2hZREFWTUxFLVZNcTBDQlF1N3dqaFl6dFJVUVF6M295eUt5S2s5YlJJTlZ6MVpNaDRpLU5LTW9TT2V30gGuAUFVX3lxTFB1eVBwa0UtdktDekprTTZyb0lzVXZrYW9GZVBqN2hpNnRmQnZlVmdMcDZScTF3RnlOdUg1R3lDSkJOLUFYNS1jQklvSXVZejB1QzBQSGtqOElUaHFFNnQyWnh0R2tXU1UxbGIxV1RySWxqbVJIWWtnU0dITlhLdWJiVDZHdmxKV1c3aGxweXJJMzUxZkZkSDFqMHlpcTN6TVl3c1lCRjNwcXYwaHZqdw?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWpwdU9fd0tpWl9QbnBEMXlCeWVfd3VoTTFsNzBBYTRrdjJ5ZHhGdWdwWjR4YUtlWU5rNjM3MjRWNU9lY1ZIT18yanc0cHN2alVZSDloWEVYYy1ldXJYMS1qYXRSdTgzTnladU9ST2dPZHlKckptYW5VZl9LT2pSYUV4a01nZzFWU0NtNU04R09FQ2c0RjBLSzhwZnJmQjVNRVZYRG5nVFBzUV9FcHc?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-7cd33074fc52",
+      "original_title": "FinancialJuice: Japan economy minister Kiuchi: no comment on interest rates",
+      "published_at": "2026-09-17T04:34:21Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan economy minister Kiuchi: no comment on interest rates",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766864/Japan-economy-minister-Kiuchi-no-comment-on-interest-rates.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766864/Japan-economy-minister-Kiuchi-no-comment-on-interest-rates.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-0472a30a77c7",
+      "original_title": "FinancialJuice: Dutch Unemployment rate SA Actual 4% (Forecast -, Previous 4.0%)",
+      "published_at": "2026-09-17T04:30:01Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Dutch Unemployment rate SA Actual 4% (Forecast -, Previous 4.0%)",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766848/Dutch-Unemployment-rate-SA-Actual-4-Forecast---Previous-40.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766848/Dutch-Unemployment-rate-SA-Actual-4-Forecast---Previous-40.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-31438fa45f71",
+      "original_title": "FinancialJuice: India foreign ministry: India remains strongly committed to securing energy supplies for its people",
+      "published_at": "2026-09-17T04:22:07Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: India foreign ministry: India remains strongly committed to securing energy supplies for its people",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766844/India-foreign-ministry-India-remains-strongly-committed-to-securing-energy-supplies-for-its-people.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766844/India-foreign-ministry-India-remains-strongly-committed-to-securing-energy-supplies-for-its-people.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-3296b1f3b1ea",
+      "original_title": "FinancialJuice: India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress",
+      "published_at": "2026-09-17T04:21:37Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: India foreign ministry: India has noted passage of bill sanctioning Russia and Iran in U.S. Congress",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766843/India-foreign-ministry-India-has-noted-passage-of-bill-sanctioning-Russia-and-Iran-in-US-Congress.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766843/India-foreign-ministry-India-has-noted-passage-of-bill-sanctioning-Russia-and-Iran-in-US-Congress.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-553057c2f05e",
+      "original_title": "Goldman pivots, now forecasts Fed rate hike in October",
+      "published_at": "2026-09-17T04:17:55Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Goldman pivots, now forecasts Fed rate hike in October",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-447f3276488a",
+      "original_title": "FinancialJuice: Strait of Hormuz commodity vessel traffic declines to 3 on Wednesday, well below 10-day average of about 17, shipping data shows",
+      "published_at": "2026-09-17T04:16:33Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Strait of Hormuz commodity vessel traffic declines to 3 on Wednesday, well below 10-day average of about 17, shipping data shows",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766842/Strait-of-Hormuz-commodity-vessel-traffic-declines-to-3-on-Wednesday-well-below-10-day-average-of-about-17-shipping-data-shows.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766842/Strait-of-Hormuz-commodity-vessel-traffic-declines-to-3-on-Wednesday-well-below-10-day-average-of-about-17-shipping-data-shows.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-a857af8ba596",
+      "original_title": "FinancialJuice: China's President Xi: coordinate high-quality growth and advanced security",
+      "published_at": "2026-09-17T04:10:56Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: China's President Xi: coordinate high-quality growth and advanced security",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766812/Chinas-President-Xi-coordinate-high-quality-growth-and-advanced-security---Xinhua.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766812/Chinas-President-Xi-coordinate-high-quality-growth-and-advanced-security---Xinhua.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-fc802700a969",
+      "original_title": "Oil Holds Drop as Saudi Arabia Moves to Restore Vital Pipeline",
+      "published_at": "2026-09-17T04:08:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil Holds Drop as Saudi Arabia Moves to Restore Vital Pipeline",
+          "source": "Bloomberg.com",
+          "snippet": "Oil Holds Drop as Saudi Arabia Moves to Restore Vital Pipeline &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRm8zNjFXYm1SaGhRUEtBMW5YWXZTUVJUUno4UXotdTh0Y0puUHItWTBLWll6MmtoeFFabmVmN2lQWWc3a1hzYml5MHRpU1pMMXJPS1N1NFhaYWpzcXZobjQwWHpENHotX1ZOOVhyNXFsVVBnRHZhck1hYkxsVFBKNUY1ejBmTW84cndVd2ZIc0ZYU0RmZU81RHUzWEJDNERTUmNfa01NTjd5ZHBZY3JlTDgtSlg?oc=5"
+        },
+        {
+          "headline": "Oil extends slump as Saudi Arabia moves to restore key pipeline",
+          "source": "The Straits Times",
+          "snippet": "Oil extends slump as Saudi Arabia moves to restore key pipeline &nbsp;&nbsp; The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObVJtS0Z4bVNxZ3lxYjl2LXZiRVBWS2J3NWdmLURJMVdPMWg0MFkxc1JSUU5fLVJZT3Fwb3dDVmtHOFJaeExMc3pQMkhKV19md1hta181Rl9POXd3Tkw3Wlk2MzFWMUFFNUpJcEFYd0hNMWFyRTdWdlVJdHczRGxrTmlhWkh6UW00R0czTGZCNFRQTktlVXM1X2cwc09sRkVwOTU0?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRm8zNjFXYm1SaGhRUEtBMW5YWXZTUVJUUno4UXotdTh0Y0puUHItWTBLWll6MmtoeFFabmVmN2lQWWc3a1hzYml5MHRpU1pMMXJPS1N1NFhaYWpzcXZobjQwWHpENHotX1ZOOVhyNXFsVVBnRHZhck1hYkxsVFBKNUY1ejBmTW84cndVd2ZIc0ZYU0RmZU81RHUzWEJDNERTUmNfa01NTjd5ZHBZY3JlTDgtSlg?oc=5"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObVJtS0Z4bVNxZ3lxYjl2LXZiRVBWS2J3NWdmLURJMVdPMWg0MFkxc1JSUU5fLVJZT3Fwb3dDVmtHOFJaeExMc3pQMkhKV19md1hta181Rl9POXd3Tkw3Wlk2MzFWMUFFNUpJcEFYd0hNMWFyRTdWdlVJdHczRGxrTmlhWkh6UW00R0czTGZCNFRQTktlVXM1X2cwc09sRkVwOTU0?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-c3966f51a8b8",
+      "original_title": "FinancialJuice: Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says",
+      "published_at": "2026-09-17T03:47:20Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Ukraine drone strike damages oil refinery in Russia's Yaroslavl, governor says",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766799/Ukraine-drone-strike-damages-oil-refinery-in-Russias-Yaroslavl-governor-says.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766799/Ukraine-drone-strike-damages-oil-refinery-in-Russias-Yaroslavl-governor-says.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-e4cf0f49f917",
+      "original_title": "FinancialJuice: Japan finance minister Katayama: expect BOJ to closely align with government, apply suitable monetary policy to meet 2% inflation goal",
+      "published_at": "2026-09-17T03:41:58Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finance minister Katayama: expect BOJ to closely align with government, apply suitable monetary policy to meet 2% inflation goal",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766790/Japan-finance-minister-Katayama-expect-BOJ-to-closely-align-with-government-apply-suitable-monetary-policy-to-meet-2-inflation-goal.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766790/Japan-finance-minister-Katayama-expect-BOJ-to-closely-align-with-government-apply-suitable-monetary-policy-to-meet-2-inflation-goal.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-efb66d632341",
+      "original_title": "FinancialJuice: Japan finance minister Katayama: we are committed to tackling extreme volatility with launch of Japan-U.S. joint intervention",
+      "published_at": "2026-09-17T03:38:41Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finance minister Katayama: we are committed to tackling extreme volatility with launch of Japan-U.S. joint intervention",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766788/Japan-finance-minister-Katayama-we-are-committed-to-tackling-extreme-volatility-with-launch-of-Japan-US-joint-intervention.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766788/Japan-finance-minister-Katayama-we-are-committed-to-tackling-extreme-volatility-with-launch-of-Japan-US-joint-intervention.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-d766977ffe5e",
+      "original_title": "FinancialJuice: Japan chief cabinet secretary Kihara: continue close communication with US Treasury to maintain orderly forex market",
+      "published_at": "2026-09-17T03:10:02Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan chief cabinet secretary Kihara: continue close communication with US Treasury to maintain orderly forex market",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9766757/Japan-chief-cabinet-secretary-Kihara-continue-close-communication-with-US-Treasury-to-maintain-orderly-forex-market.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9766757/Japan-chief-cabinet-secretary-Kihara-continue-close-communication-with-US-Treasury-to-maintain-orderly-forex-market.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-6e20d2b1d283",
+      "original_title": "Fed Raises Rates 25 Basis Points to 3.75%-4%, First Hike Since 2023, as Bitcoin Holds Near $76,000",
+      "published_at": "2026-09-17T02:20:19Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Fed Raises Rates 25 Basis Points to 3.75%-4%, First Hike Since 2023, as Bitcoin Holds Near $76,000",
+          "source": "blockhead.co",
+          "snippet": "Fed Raises Rates 25 Basis Points to 3.75%-4%, First Hike Since 2023, as Bitcoin Holds Near $76,000 &nbsp;&nbsp; blockhead.co",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcElNRWRMakFQZjhBSlZMc0Q0eURwTW1WZTFNMzhuelZudERCclE0ZVZ5T1pESTVYUlN5TlIxQWpRR19WYW9pWWF0YjFXVnI2OGU1djFHTEFQZ1JZeVQzSW9GdWRNcUNXcWxqNW44akgxeEotU1RCZ1d5WUZjcWRMQ0pwSzFjQkFzZDE3VzVsQlRpX0dLMUZqaU84YlNWVTZZNWhoeE1lQS1tdi1TM01CRmpXZzNIV0tHN21mRUljenVXbl9yTU85U3VB?oc=5"
+        },
+        {
+          "headline": "Fed Raises Rates by 25 Basis Points to 3.75%-4%: Bitcoin Steady Near $76,000 - News and Statistics",
+          "source": "IndexBox",
+          "snippet": "Fed Raises Rates by 25 Basis Points to 3.75%-4%: Bitcoin Steady Near $76,000 - News and Statistics &nbsp;&nbsp; IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZEpQWlllVF9NbnFRWk5lZ1l6RmJJNnllUzI1UHpTMzFvcFE1eG00SzlOUGFQZUJZOVdkWExnYUU3TE14X0lSekRnR2R0VUQ5bEp1aFVsUV9wNWxaZVZ0NV92eWJTb2lnT2dvS09HMTNWRlp2S1Q1STB0SGRjQV95a2lCRTNaVWs?oc=5"
+        },
+        {
+          "headline": "Bitcoin Drops as Fed Raises Rates for First Time Since 2023",
+          "source": "Altcoin Buzz",
+          "snippet": "Bitcoin Drops as Fed Raises Rates for First Time Since 2023 &nbsp;&nbsp; Altcoin Buzz",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LTlB6R3I0dU9nU2t6VXdsSjZJR1F1WFNIZVp6S2R6VnNaMzc4WnhLS2k4ZXYydDlxSFRVeHYxOHN2SW96aWtURlR5OGgwZmVmUUhFY0ZSTi1EZjhSRGhrUTdzLVZqZXNPYTVUcENMVkk2d0RKclZsYw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "blockhead.co",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcElNRWRMakFQZjhBSlZMc0Q0eURwTW1WZTFNMzhuelZudERCclE0ZVZ5T1pESTVYUlN5TlIxQWpRR19WYW9pWWF0YjFXVnI2OGU1djFHTEFQZ1JZeVQzSW9GdWRNcUNXcWxqNW44akgxeEotU1RCZ1d5WUZjcWRMQ0pwSzFjQkFzZDE3VzVsQlRpX0dLMUZqaU84YlNWVTZZNWhoeE1lQS1tdi1TM01CRmpXZzNIV0tHN21mRUljenVXbl9yTU85U3VB?oc=5"
+        },
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZEpQWlllVF9NbnFRWk5lZ1l6RmJJNnllUzI1UHpTMzFvcFE1eG00SzlOUGFQZUJZOVdkWExnYUU3TE14X0lSekRnR2R0VUQ5bEp1aFVsUV9wNWxaZVZ0NV92eWJTb2lnT2dvS09HMTNWRlp2S1Q1STB0SGRjQV95a2lCRTNaVWs?oc=5"
+        },
+        {
+          "name": "Altcoin Buzz",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LTlB6R3I0dU9nU2t6VXdsSjZJR1F1WFNIZVp6S2R6VnNaMzc4WnhLS2k4ZXYydDlxSFRVeHYxOHN2SW96aWtURlR5OGgwZmVmUUhFY0ZSTi1EZjhSRGhrUTdzLVZqZXNPYTVUcENMVkk2d0RKclZsYw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-1b65b464f285",
+      "original_title": "Fed Hikes Rates for First Time Since 2023 as Bitcoin Surges",
+      "published_at": "2026-09-17T02:14:57Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Fed Hikes Rates for First Time Since 2023 as Bitcoin Surges",
+          "source": "Cryptonews.net",
+          "snippet": "Fed Hikes Rates for First Time Since 2023 as Bitcoin Surges &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LWVpyOXpBOUxjSUVoV3NacnNaVGJiNjE4OWRzaEh6cDkzQVhmYlNuWTA0R0ZWbE9qM0NRNUs1YmZlcEtaREFRQnZ0TTJVUndaWkx0M0s3c3o?oc=5"
+        },
+        {
+          "headline": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+          "source": "Decrypt",
+          "snippet": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes &nbsp;&nbsp; Decrypt",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkx6Z0xrR0FKNk5EOWxhTS1QTVlNWmZzcWhuTVh3TVlQcS1zTE1DWGM0SFNoeDUwclB2VkNLUEpQcTR6TVdCTnVaUTJLUE80V3YzRk5OTHlhc3JxUk1ETVFGd2xQek9wTGhVVTBmRmxXZkVHWXJ6U2x6UzZ2VVdPUTBfc9IBgwFBVV95cUxPYkx6Z0xrR0FKNk5EOWxhTS1QTVlNWmZzcWhuTVh3TVlQcS1zTE1DWGM0SFNoeDUwclB2VkNLUEpQcTR6TVdCTnVaUTJLUE80V3YzRk5OTHlhc3JxUk1ETVFGd2xQek9wTGhVVTBmRmxXZkVHWXJ6U2x6UzZ2VVdPUTBfcw?oc=5"
+        },
+        {
+          "headline": "Fed Raises Rates by 25 Bps for First Time Since 2023 — What It Means for Bitcoin",
+          "source": "Yahoo Finance",
+          "snippet": "Fed Raises Rates by 25 Bps for First Time Since 2023 — What It Means for Bitcoin &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQUJZSW0teHQ3N0xRYjBHVlFEWlVHeWo4ZEo1czdQUVlueEJFX0R3MEIza05ueTFtN2x0Z3pkTlRlUS1BQ1lFRTV6aXpwdHlySXNzRERXVjU1WlFaaV9JYjhwY29fT1NuelZHMHZpbHlsUnJaa01KNnBEVm9BUjNSMDl3VXdsdVc2akNSLUUzbDJBdw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LWVpyOXpBOUxjSUVoV3NacnNaVGJiNjE4OWRzaEh6cDkzQVhmYlNuWTA0R0ZWbE9qM0NRNUs1YmZlcEtaREFRQnZ0TTJVUndaWkx0M0s3c3o?oc=5"
+        },
+        {
+          "name": "Decrypt",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkx6Z0xrR0FKNk5EOWxhTS1QTVlNWmZzcWhuTVh3TVlQcS1zTE1DWGM0SFNoeDUwclB2VkNLUEpQcTR6TVdCTnVaUTJLUE80V3YzRk5OTHlhc3JxUk1ETVFGd2xQek9wTGhVVTBmRmxXZkVHWXJ6U2x6UzZ2VVdPUTBfc9IBgwFBVV95cUxPYkx6Z0xrR0FKNk5EOWxhTS1QTVlNWmZzcWhuTVh3TVlQcS1zTE1DWGM0SFNoeDUwclB2VkNLUEpQcTR6TVdCTnVaUTJLUE80V3YzRk5OTHlhc3JxUk1ETVFGd2xQek9wTGhVVTBmRmxXZkVHWXJ6U2x6UzZ2VVdPUTBfcw?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQUJZSW0teHQ3N0xRYjBHVlFEWlVHeWo4ZEo1czdQUVlueEJFX0R3MEIza05ueTFtN2x0Z3pkTlRlUS1BQ1lFRTV6aXpwdHlySXNzRERXVjU1WlFaaV9JYjhwY29fT1NuelZHMHZpbHlsUnJaa01KNnBEVm9BUjNSMDl3VXdsdVc2akNSLUUzbDJBdw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-c28d1d4016d7",
+      "original_title": "US Senate fails to advance crypto Clarity Act — The Japan Times",
+      "published_at": "2026-09-17T02:14:35Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US Senate fails to advance crypto Clarity Act — The Japan Times",
+          "source": "UA.NEWS",
+          "snippet": "US Senate fails to advance crypto Clarity Act — The Japan Times &nbsp;&nbsp; UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOURzZHhCOVJCWW05elJMNkdYR2thSXB3QzYzTGZaZDRiR0tQNEVxWkNLbUxYOW1Va01UVFpQU09uSmtHUzZGRzFSbmZLQWtBUWNJeGxfYTRQREdOWEVsQWFjMmxrS21oWHJVdG1BOWNKS3JSTFpjQ3JPNDljdTIzZDFOTlJiOVZjYkZFa0ZjUFZfWWxOTWc?oc=5"
+        },
+        {
+          "headline": "Crypto's Clarity Act fails to advance in Senate",
+          "source": "Axios",
+          "snippet": "Crypto's Clarity Act fails to advance in Senate &nbsp;&nbsp; Axios",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuUGl5VWlYeDZlRVEtc3dBdGpGUXNEZHZxalJfdWRZN3VCdW11dk9rNHVDLTVHb3ZVbkl4OVlhX2ZEUVZzTGJmX3lYeUJ5S2lteDdFaW4wWERXOG5tdW8wU3J0RkI?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOURzZHhCOVJCWW05elJMNkdYR2thSXB3QzYzTGZaZDRiR0tQNEVxWkNLbUxYOW1Va01UVFpQU09uSmtHUzZGRzFSbmZLQWtBUWNJeGxfYTRQREdOWEVsQWFjMmxrS21oWHJVdG1BOWNKS3JSTFpjQ3JPNDljdTIzZDFOTlJiOVZjYkZFa0ZjUFZfWWxOTWc?oc=5"
+        },
+        {
+          "name": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuUGl5VWlYeDZlRVEtc3dBdGpGUXNEZHZxalJfdWRZN3VCdW11dk9rNHVDLTVHb3ZVbkl4OVlhX2ZEUVZzTGJmX3lYeUJ5S2lteDdFaW4wWERXOG5tdW8wU3J0RkI?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-68bd497d7d12",
+      "original_title": "House votes for third time to curb Trump's Iran war powers as 7 Republicans join Democrats",
+      "published_at": "2026-09-17T02:04:35Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "House votes for third time to curb Trump's Iran war powers as 7 Republicans join Democrats",
+          "source": "KPTH",
+          "snippet": "House votes for third time to curb Trump's Iran war powers as 7 Republicans join Democrats &nbsp;&nbsp; KPTH",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPN20ycWZCV1dzU2xmUzdmLXlRbnZxTXF6eXFwYmE3cWFZZ2pOX3dNb0l4aHJWbHdHLUJ4ZU45d3g4c3VTVlhWNjJPbzRkcTlWQkpmbmhCRzNNSk1EUENQT2hCYmx6NERGOTh1VXRwenNhQXN3RHhlanFVUjd5S2dpNW1sSnNyQ0o5dnZIX2NqTkx1Zm9MRExnSGx0V3VrQnQ4SnhVNmNWemN3eU1jQXhfbkRLVmJjTUEzTk1JZkxhSTJYNWZCWmZaWXdCUFktVEJlbW45ZU5CT0tUZ0liNU95dXZQdTZBX2hnRy1XTl9mQ2V4UE94RVRwa2VhQUdVdERWcVJrX3hBLVBmdVY5RGhSN3Y1ZF9lUkNST2tULUpkb29jcTg3WjdwclhmeEJyT1BxbkhDTGFFR25PMEkyNEhmNXJ0MFR3R3hidWUxZkhONW4?oc=5"
+        },
+        {
+          "headline": "Watch: House votes for third time to limit Trump’s Iran war powers",
+          "source": "Straight Arrow",
+          "snippet": "Watch: House votes for third time to limit Trump’s Iran war powers &nbsp;&nbsp; Straight Arrow",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOUlXcFRoelNTSkMwMm0xWllCOXFSQXEteUw2VUM5M0NfbjdneWJwRWRZT2pndExaUkMxY05tMGt6Uy1fN09XYzRQTXEyaFYwbDZYazBGRFJyM1RZNWVYcXA5UURJWUFLMHJyYXR3RXZyam5uNmgzS0tkNjg2c2xvODROdnVfMGdzNmxsT0JjMF8ybDVQQkRR?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "KPTH",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPN20ycWZCV1dzU2xmUzdmLXlRbnZxTXF6eXFwYmE3cWFZZ2pOX3dNb0l4aHJWbHdHLUJ4ZU45d3g4c3VTVlhWNjJPbzRkcTlWQkpmbmhCRzNNSk1EUENQT2hCYmx6NERGOTh1VXRwenNhQXN3RHhlanFVUjd5S2dpNW1sSnNyQ0o5dnZIX2NqTkx1Zm9MRExnSGx0V3VrQnQ4SnhVNmNWemN3eU1jQXhfbkRLVmJjTUEzTk1JZkxhSTJYNWZCWmZaWXdCUFktVEJlbW45ZU5CT0tUZ0liNU95dXZQdTZBX2hnRy1XTl9mQ2V4UE94RVRwa2VhQUdVdERWcVJrX3hBLVBmdVY5RGhSN3Y1ZF9lUkNST2tULUpkb29jcTg3WjdwclhmeEJyT1BxbkhDTGFFR25PMEkyNEhmNXJ0MFR3R3hidWUxZkhONW4?oc=5"
+        },
+        {
+          "name": "Straight Arrow",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOUlXcFRoelNTSkMwMm0xWllCOXFSQXEteUw2VUM5M0NfbjdneWJwRWRZT2pndExaUkMxY05tMGt6Uy1fN09XYzRQTXEyaFYwbDZYazBGRFJyM1RZNWVYcXA5UURJWUFLMHJyYXR3RXZyam5uNmgzS0tkNjg2c2xvODROdnVfMGdzNmxsT0JjMF8ybDVQQkRR?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-17-554741ca3670",
+      "original_title": "Oil prices extend losses as fears of Middle East supply disruptions ease - KELO-AM",
+      "published_at": "2026-09-17T01:27:54Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil prices extend losses as fears of Middle East supply disruptions ease - KELO-AM",
+          "source": "KELO-AM",
+          "snippet": "Oil prices extend losses as fears of Middle East supply disruptions ease &nbsp;&nbsp; KELO-AM",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzhkUzZ4Z095d2FFY3lUaE11WGRxTXRCQ2k2VEhvZE85VDdPOU1IbEZpZ0NrSTRPR2psQmJiT2FDbWFtOWoyOHdHWG9veHdjNWwyS2x0djJiTEFNaVNwaURNclY4S1RYOG5hMm11RGMxQllYT1NiUVB2eC14eVJKZnh6X0IwTTdHb21kOUpORnQxSlAxbEJ6RktqRU9SdWttSU8w?oc=5"
+        },
+        {
+          "headline": "Oil prices extend losses on easing fears of Middle East supply disruption",
+          "source": "reuters.com",
+          "snippet": "Oil prices extend losses on easing fears of Middle East supply disruption &nbsp;&nbsp; reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "KELO-AM",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzhkUzZ4Z095d2FFY3lUaE11WGRxTXRCQ2k2VEhvZE85VDdPOU1IbEZpZ0NrSTRPR2psQmJiT2FDbWFtOWoyOHdHWG9veHdjNWwyS2x0djJiTEFNaVNwaURNclY4S1RYOG5hMm11RGMxQllYT1NiUVB2eC14eVJKZnh6X0IwTTdHb21kOUpORnQxSlAxbEJ6RktqRU9SdWttSU8w?oc=5"
+        },
+        {
+          "name": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-09-17-38fab03a941f",
       "original_title": "FinancialJuice: Hong Kong Monetary Authority chief executive: widening interest rate gap with US could trigger carry trade, pushing HK dollar exchange rate toward weaker side of band",
@@ -82,6 +712,26 @@
       ]
     },
     {
+      "stable_id": "2026-09-17-d8fbfebd081a",
+      "original_title": "클래리티 없이 간다… 美 규제기관, 부결 직후 바로 움직였다",
+      "published_at": "2026-09-17T00:16:38Z",
+      "discovery_source": "youtube",
+      "evidence": [
+        {
+          "headline": "클래리티 없이 간다… 美 규제기관, 부결 직후 바로 움직였다",
+          "source": "YouTube @새벽에온주호",
+          "snippet": "클래리티법이 상원에서 49대50으로 멈췄습니다. 그런데 바로 다음 날 SEC와 CFTC가 움직이기 시작했습니다. 법안 없이 미국의 코인 규제는 어디까지 갈 수 있을까요. 이번 부결 이후 실제로 열리고 있는 새로운 규제 경로를 정리했습니다. #클래리티법 #코인규제 #이더리움 #리플 #비트코인 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
+          "url": "https://www.youtube.com/watch?v=PgEYiKAR_lw"
+        }
+      ],
+      "sources": [
+        {
+          "name": "YouTube @새벽에온주호",
+          "url": "https://www.youtube.com/watch?v=PgEYiKAR_lw"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-09-17-e4a538e39069",
       "original_title": "FinancialJuice: Dollar/yen slides 0.21% to 155.95",
       "published_at": "2026-09-17T00:04:08Z",
@@ -123,20 +773,20 @@
     },
     {
       "stable_id": "2026-09-16-7d8f203b25f5",
-      "original_title": "Fed raises rates to curb Inflation, drawing rebuke from Trump",
+      "original_title": "Fed raises rates to curb inflation, drawing rebuke from Trump",
       "published_at": "2026-09-16T23:21:09Z",
       "discovery_source": "news",
       "evidence": [
         {
-          "headline": "Fed raises rates to curb Inflation, drawing rebuke from Trump",
+          "headline": "Fed raises rates to curb inflation, drawing rebuke from Trump",
           "source": "The Edge Malaysia",
-          "snippet": "Fed raises rates to curb Inflation, drawing rebuke from Trump &nbsp;&nbsp; The Edge Malaysia",
+          "snippet": "Fed raises rates to curb inflation, drawing rebuke from Trump &nbsp;&nbsp; The Edge Malaysia",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0taGZDdWhXYnBiaXVyYVBrRG5HeW1ZYWcyYmhqdndlSEEzNUtBeUtNcGZGVEF1aVRqWU5XamRqX3RNdGdRXzg0YVJlTTRGUlM0?oc=5"
         },
         {
           "headline": "Fed raises rates to curb inflation, drawing rebuke from Trump",
-          "source": "Canadian Mortgage Trends",
-          "snippet": "Fed raises rates to curb inflation, drawing rebuke from Trump &nbsp;&nbsp; Canadian Mortgage Trends",
+          "source": "canadianmortgagetrends.com",
+          "snippet": "Fed raises rates to curb inflation, drawing rebuke from Trump &nbsp;&nbsp; canadianmortgagetrends.com",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEg0Ymg5SDJ3ZVM3WUlLc0E1RWFTanlrLTVZSjBPUzM2NWxoYmtoWU9fMktxVk45QzhLOHNTOXBRYzBuV3p4aGFCYVRKNUxPRjg2QWZjY01lR281YXF2RmVONW03VUtmdkwzNU5HcmtGTm9BTWc2b0VBZEl2dk9keF95bVo0RjR4ejZRWHdKQjVLWG5mSE9fQkZ3R2paa0Q5TDdWN3hvR0p5dw?oc=5"
         }
       ],
@@ -146,7 +796,7 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0taGZDdWhXYnBiaXVyYVBrRG5HeW1ZYWcyYmhqdndlSEEzNUtBeUtNcGZGVEF1aVRqWU5XamRqX3RNdGdRXzg0YVJlTTRGUlM0?oc=5"
         },
         {
-          "name": "Canadian Mortgage Trends",
+          "name": "canadianmortgagetrends.com",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEg0Ymg5SDJ3ZVM3WUlLc0E1RWFTanlrLTVZSjBPUzM2NWxoYmtoWU9fMktxVk45QzhLOHNTOXBRYzBuV3p4aGFCYVRKNUxPRjg2QWZjY01lR281YXF2RmVONW03VUtmdkwzNU5HcmtGTm9BTWc2b0VBZEl2dk9keF95bVo0RjR4ejZRWHdKQjVLWG5mSE9fQkZ3R2paa0Q5TDdWN3hvR0p5dw?oc=5"
         }
       ]
@@ -269,8 +919,8 @@
       "evidence": [
         {
           "headline": "Major US banks raise prime rate after first Fed rate hike since 2023",
-          "source": "Reuters",
-          "snippet": "Major US banks raise prime rate after first Fed rate hike since 2023 &nbsp;&nbsp; Reuters",
+          "source": "reuters.com",
+          "snippet": "Major US banks raise prime rate after first Fed rate hike since 2023 &nbsp;&nbsp; reuters.com",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDAwbi1iV21aNURrLWtvcXhweWM3bzFTcjBrZUV5YnJwVjRMNl94RG9QNDRSZG9mblBzeVhtejJfd0t6THF0cFVrbGRFUnpsU0VuV1JBeUFWdC1zRDhGUlQ4dVljdmpSN3dLQUJnM2xXbGx4Q2FQQVlXV3BsWEJadVZialp2MFd1Ymhzc1ZZNU9HNGJzNWc?oc=5"
         },
         {
@@ -282,7 +932,7 @@
       ],
       "sources": [
         {
-          "name": "Reuters",
+          "name": "reuters.com",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDAwbi1iV21aNURrLWtvcXhweWM3bzFTcjBrZUV5YnJwVjRMNl94RG9QNDRSZG9mblBzeVhtejJfd0t6THF0cFVrbGRFUnpsU0VuV1JBeUFWdC1zRDhGUlQ4dVljdmpSN3dLQUJnM2xXbGx4Q2FQQVlXV3BsWEJadVZialp2MFd1Ymhzc1ZZNU9HNGJzNWc?oc=5"
         },
         {
@@ -359,25 +1009,25 @@
       "evidence": [
         {
           "headline": "Wall St ends lower after Fed hikes interest rates, sees more tightening ahead",
-          "source": "Reuters",
-          "snippet": "Wall St ends lower after Fed hikes interest rates, sees more tightening ahead &nbsp;&nbsp; Reuters",
+          "source": "reuters.com",
+          "snippet": "Wall St ends lower after Fed hikes interest rates, sees more tightening ahead &nbsp;&nbsp; reuters.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5"
         },
         {
-          "headline": "Fed hikes rates in search of ‘timelier’ drop in inflation, sees more tightening ahead",
-          "source": "Al Arabiya English",
-          "snippet": "Fed hikes rates in search of ‘timelier’ drop in inflation, sees more tightening ahead &nbsp;&nbsp; Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdnM2czM3S3pSbmxkQk9acWJxSi1xRzNZVE1JWTM5ODlHcHhkbkJGMkxORWZzUjFkUDdOM01CVG9rVVc5M3h2VHVPUTZaYk81ZDMyNC0xQm1US1JQaDZ5MXN5X212TnowVHdhZk82NXl4NUVBNFotWkxUbllJeWFlWWNOSE1nbHBPNzljNG1md1hMWldUdXBWR1RlT18telZuV0owaG5jbGNJWXp6M3F3TnJqcDNWS2o0YnZmYkVDOXVEcG5GOVVqQUM2ZGwxeGNlbkRYa2NqNnJ3WEV2eWdV0gHfAUFVX3lxTE52czZzMzdLelJubGRCT1pxYnFKLXFHM1lUTUlZMzk4OUdweGRuQkYyTE5FZnNSMWRQN04zTUJUb2tVVzkzeHZUdU9RNlpiTzVkMzI0LTFCbVRLUlBoNnkxc3lfbXZOejBUd2FmTzY1eXg1RUE0Wi1aTFRuWUl5YWVZY05ITWdscE83OWM0bWZ3WExaV1R1cFZHVGVPXy16Vm5XSjBobmNsY0lZenozcXdOcmpwM1ZLajRidmZiRUM5dURwbkY5VWpBQzZkbDF4Y2VuRFhrY2o2cndYRXZ5Z1U?oc=5"
+          "headline": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead",
+          "source": "lufkindailynews.com",
+          "snippet": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead &nbsp;&nbsp; lufkindailynews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUEZ2NHRGWXU1NGhVX1JLeGtZekdBYktzXzFGZHoyNklpOHNWYkhrc2FUTDIzQjBOQUNjRWdKRG1yLUJiX0o1TFNWa2U0bmdNbXN1VWdRaWx2WjJJSG5BSWh4QVJ2bW81UVM3UlVaSkN4aVlEQVM1VjV1NWs0VmtVMk0zZklMb2JPaE1SVlgwUlRmX2xBYnVGTnpEOS04VG5XZEdvMndkMHNLQllSVE1PcEl4bkx2TlhTdjJCTlY5NGVBekw3dXQ2SHBPVlRvRkdOWU5ZZU5tT0Jlc2JpOTY3QUFLejRNeXRwLWltblNrN2VOellCeFdEM2x4czdVcWo3STN2Z2lsTlFNRmVVX3g4?oc=5"
         }
       ],
       "sources": [
         {
-          "name": "Reuters",
+          "name": "reuters.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5"
         },
         {
-          "name": "Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdnM2czM3S3pSbmxkQk9acWJxSi1xRzNZVE1JWTM5ODlHcHhkbkJGMkxORWZzUjFkUDdOM01CVG9rVVc5M3h2VHVPUTZaYk81ZDMyNC0xQm1US1JQaDZ5MXN5X212TnowVHdhZk82NXl4NUVBNFotWkxUbllJeWFlWWNOSE1nbHBPNzljNG1md1hMWldUdXBWR1RlT18telZuV0owaG5jbGNJWXp6M3F3TnJqcDNWS2o0YnZmYkVDOXVEcG5GOVVqQUM2ZGwxeGNlbkRYa2NqNnJ3WEV2eWdV0gHfAUFVX3lxTE52czZzMzdLelJubGRCT1pxYnFKLXFHM1lUTUlZMzk4OUdweGRuQkYyTE5FZnNSMWRQN04zTUJUb2tVVzkzeHZUdU9RNlpiTzVkMzI0LTFCbVRLUlBoNnkxc3lfbXZOejBUd2FmTzY1eXg1RUE0Wi1aTFRuWUl5YWVZY05ITWdscE83OWM0bWZ3WExaV1R1cFZHVGVPXy16Vm5XSjBobmNsY0lZenozcXdOcmpwM1ZLajRidmZiRUM5dURwbkY5VWpBQzZkbDF4Y2VuRFhrY2o2cndYRXZ5Z1U?oc=5"
+          "name": "lufkindailynews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUEZ2NHRGWXU1NGhVX1JLeGtZekdBYktzXzFGZHoyNklpOHNWYkhrc2FUTDIzQjBOQUNjRWdKRG1yLUJiX0o1TFNWa2U0bmdNbXN1VWdRaWx2WjJJSG5BSWh4QVJ2bW81UVM3UlVaSkN4aVlEQVM1VjV1NWs0VmtVMk0zZklMb2JPaE1SVlgwUlRmX2xBYnVGTnpEOS04VG5XZEdvMndkMHNLQllSVE1PcEl4bkx2TlhTdjJCTlY5NGVBekw3dXQ2SHBPVlRvRkdOWU5ZZU5tT0Jlc2JpOTY3QUFLejRNeXRwLWltblNrN2VOellCeFdEM2x4czdVcWo3STN2Z2lsTlFNRmVVX3g4?oc=5"
         }
       ]
     },
@@ -558,6 +1208,36 @@
         {
           "name": "Telegram @goddessTTF",
           "url": "https://t.me/goddessTTF/84222"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-16-a961e205469b",
+      "original_title": "Forget the Rate Hike! The Fed’s Dot Plot Could Trigger a Massive Crypto Shock Today",
+      "published_at": "2026-09-16T22:01:35Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Forget the Rate Hike! The Fed’s Dot Plot Could Trigger a Massive Crypto Shock Today",
+          "source": "CCN.com",
+          "snippet": "Forget the Rate Hike! The Fed’s Dot Plot Could Trigger a Massive Crypto Shock Today &nbsp;&nbsp; CCN.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVpVlRJWWFfWTg4bUoyem9MUGZyRm5ZTzJWX2tRcndCcmhPM2hBbjFhS0FpWXEzQ1YyYzNwR0pKNFdGdmZ0U0NNZm5jZnVTclBvV3Ntd0l1Y0hCYi1aaGZEeW16eWxSVjNUNWlhN3NtNVRaVHB6ZXg4REJNNEVUYXhjNVkydjY4?oc=5"
+        },
+        {
+          "headline": "Forget the Rate Hike! The Fed’s Dot Plot Could Trigger a Massive Crypto Shock Today",
+          "source": "Yahoo Finance",
+          "snippet": "Forget the Rate Hike! The Fed’s Dot Plot Could Trigger a Massive Crypto Shock Today &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQk5hSHRRXy1rQVhUVjFobW42M3hpSzJuX2FERU1GVlE5VHRCSFV5RkcwSEc0eTlfUGs2SEJORFIzWmYwTFpvVHJfZE83dllocmlkOER6SzRMa25lTmRaeXJ6X1Y0aHZKR3lQcU1DaHRLSnJZM3Q1VjctbHJWX19aaUhhOUs0ZEJYZkJSUUxBTXZUQVE?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CCN.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVpVlRJWWFfWTg4bUoyem9MUGZyRm5ZTzJWX2tRcndCcmhPM2hBbjFhS0FpWXEzQ1YyYzNwR0pKNFdGdmZ0U0NNZm5jZnVTclBvV3Ntd0l1Y0hCYi1aaGZEeW16eWxSVjNUNWlhN3NtNVRaVHB6ZXg4REJNNEVUYXhjNVkydjY4?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQk5hSHRRXy1rQVhUVjFobW42M3hpSzJuX2FERU1GVlE5VHRCSFV5RkcwSEc0eTlfUGs2SEJORFIzWmYwTFpvVHJfZE83dllocmlkOER6SzRMa25lTmRaeXJ6X1Y0aHZKR3lQcU1DaHRLSnJZM3Q1VjctbHJWX19aaUhhOUs0ZEJYZkJSUUxBTXZUQVE?oc=5"
         }
       ]
     },
@@ -1578,596 +2258,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9766152/Feds-Chair-Warsh-The-decision-we-made-today-was-a-sober-decision.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-c962b8dacc97",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: I am not in the forward guidance business.",
-      "published_at": "2026-09-16T18:39:37Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: I am not in the forward guidance business.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766151/Feds-Chair-Warsh-I-am-not-in-the-forward-guidance-business.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766151/Feds-Chair-Warsh-I-am-not-in-the-forward-guidance-business.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-5e59a337f964",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: We will ensure any changes in prices won't broaden out.",
-      "published_at": "2026-09-16T18:38:58Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: We will ensure any changes in prices won't broaden out.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766150/Feds-Chair-Warsh-We-will-ensure-any-changes-in-prices-wont-broaden-out.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766150/Feds-Chair-Warsh-We-will-ensure-any-changes-in-prices-wont-broaden-out.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-59796152515a",
-      "original_title": "FinancialJuice: Traders add to bets on two more Fed rate hikes by the year-end.",
-      "published_at": "2026-09-16T18:38:39Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Traders add to bets on two more Fed rate hikes by the year-end.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766149/Traders-add-to-bets-on-two-more-Fed-rate-hikes-by-the-year-end.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766149/Traders-add-to-bets-on-two-more-Fed-rate-hikes-by-the-year-end.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-64a47b29c4d5",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: Inflation risks are to the upside, labor risks are balanced.",
-      "published_at": "2026-09-16T18:37:13Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: Inflation risks are to the upside, labor risks are balanced.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766148/Feds-Chair-Warsh-Inflation-risks-are-to-the-upside-labor-risks-are-balanced.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766148/Feds-Chair-Warsh-Inflation-risks-are-to-the-upside-labor-risks-are-balanced.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-545cc61cf33c",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: I did not submit a dot.",
-      "published_at": "2026-09-16T18:36:29Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: I did not submit a dot.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766147/Feds-Chair-Warsh-I-did-not-submit-a-dot.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766147/Feds-Chair-Warsh-I-did-not-submit-a-dot.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-903a933d28f5",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: We must be confident that underlying inflation must be moving to 2% on a timely basis, and the FOMC decided this has not been met.",
-      "published_at": "2026-09-16T18:35:57Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: We must be confident that underlying inflation must be moving to 2% on a timely basis, and the FOMC decided this has not been met.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766146/Feds-Chair-Warsh-We-must-be-confident-that-underlying-inflation-must-be-moving-to-2-on-a-timely-basis-and-the-FOMC-decided-this-has-not-been-met.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766146/Feds-Chair-Warsh-We-must-be-confident-that-underlying-inflation-must-be-moving-to-2-on-a-timely-basis-and-the-FOMC-decided-this-has-not-been-met.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-39931a422ac7",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: In July, we expressed a joint readiness to act.",
-      "published_at": "2026-09-16T18:35:21Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: In July, we expressed a joint readiness to act.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766145/Feds-Chair-Warsh-In-July-we-expressed-a-joint-readiness-to-act.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766145/Feds-Chair-Warsh-In-July-we-expressed-a-joint-readiness-to-act.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-6353173e8ce8",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: There are too many categories that are posting increases above 3% on both 6 and 12 month basis.",
-      "published_at": "2026-09-16T18:35:01Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: There are too many categories that are posting increases above 3% on both 6 and 12 month basis.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766144/Feds-Chair-Warsh-There-are-too-many-categories-that-are-posting-increases-above-3-on-both-6-and-12-month-basis.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766144/Feds-Chair-Warsh-There-are-too-many-categories-that-are-posting-increases-above-3-on-both-6-and-12-month-basis.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-57c09218d4d0",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: The summer data does not tell me that the inflation situation has improved.",
-      "published_at": "2026-09-16T18:34:46Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: The summer data does not tell me that the inflation situation has improved.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766143/Feds-Chair-Warsh-The-summer-data-does-not-tell-me-that-the-inflation-situation-has-improved.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766143/Feds-Chair-Warsh-The-summer-data-does-not-tell-me-that-the-inflation-situation-has-improved.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-f3bb7e26a2da",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: Inflation is too high, and has been for too long.",
-      "published_at": "2026-09-16T18:34:30Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: Inflation is too high, and has been for too long.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766142/Feds-Chair-Warsh-Inflation-is-too-high-and-has-been-for-too-long.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766142/Feds-Chair-Warsh-Inflation-is-too-high-and-has-been-for-too-long.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-2ded3f05399c",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: The labor side of the Fed's remit is in good shape.",
-      "published_at": "2026-09-16T18:34:01Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: The labor side of the Fed's remit is in good shape.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766140/Feds-Chair-Warsh-The-labor-side-of-the-Feds-remit-is-in-good-shape.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766140/Feds-Chair-Warsh-The-labor-side-of-the-Feds-remit-is-in-good-shape.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-81a42fc09b3b",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: The FOMC removed a dose of accomodation.",
-      "published_at": "2026-09-16T18:33:48Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: The FOMC removed a dose of accomodation.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766139/Feds-Chair-Warsh-The-FOMC-removed-a-dose-of-accomodation.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766139/Feds-Chair-Warsh-The-FOMC-removed-a-dose-of-accomodation.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-7fddeccba63c",
-      "original_title": "FinancialJuice: Fed's Warsh: The jobless rate remains low, openings and hours are increasing.",
-      "published_at": "2026-09-16T18:33:34Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Warsh: The jobless rate remains low, openings and hours are increasing.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766137/Feds-Warsh-The-jobless-rate-remains-low-openings-and-hours-are-increasing.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766137/Feds-Warsh-The-jobless-rate-remains-low-openings-and-hours-are-increasing.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-901692b82c8c",
-      "original_title": "FinancialJuice: Fed's Warsh: The economy is resilient.",
-      "published_at": "2026-09-16T18:33:24Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Warsh: The economy is resilient.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766136/Feds-Warsh-The-economy-is-resilient.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766136/Feds-Warsh-The-economy-is-resilient.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-12ce941f44eb",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: I am hard-pressed to call financial conditions restrictive. The view that conditions are not restrictive was widely shared by the FOMC.",
-      "published_at": "2026-09-16T18:33:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: I am hard-pressed to call financial conditions restrictive. The view that conditions are not restrictive was widely shared by the FOMC.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766135/Feds-Chair-Warsh-I-am-hard-pressed-to-call-financial-conditions-restrictive-The-view-that-conditions-are-not-restrictive-was-widely-shared-by-the-FOMC.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766135/Feds-Chair-Warsh-I-am-hard-pressed-to-call-financial-conditions-restrictive-The-view-that-conditions-are-not-restrictive-was-widely-shared-by-the-FOMC.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-a152088df323",
-      "original_title": "FinancialJuice: Fed's Chair Warsh: Credit flows have been robust.",
-      "published_at": "2026-09-16T18:32:43Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Chair Warsh: Credit flows have been robust.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766134/Feds-Chair-Warsh-Credit-flows-have-been-robust.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766134/Feds-Chair-Warsh-Credit-flows-have-been-robust.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-8562e493d384",
-      "original_title": "FinancialJuice: Fed's Warsh: Key markers have improved in the recent months.",
-      "published_at": "2026-09-16T18:32:27Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Warsh: Key markers have improved in the recent months.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766133/Feds-Warsh-Key-markers-have-improved-in-the-recent-months.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766133/Feds-Warsh-Key-markers-have-improved-in-the-recent-months.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-5a214dcf93ec",
-      "original_title": "FinancialJuice: Fed's Warsh: This decision comes when the economy appears to be strengthening.",
-      "published_at": "2026-09-16T18:32:10Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Warsh: This decision comes when the economy appears to be strengthening.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766132/Feds-Warsh-This-decision-comes-when-the-economy-appears-to-be-strengthening.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766132/Feds-Warsh-This-decision-comes-when-the-economy-appears-to-be-strengthening.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-746eb0db7cd1",
-      "original_title": "FinancialJuice: Fed's Warsh: Inflation remains elevated.",
-      "published_at": "2026-09-16T18:31:45Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Warsh: Inflation remains elevated.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766130/Feds-Warsh-Inflation-remains-elevated.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766130/Feds-Warsh-Inflation-remains-elevated.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-b5295ff99ad7",
-      "original_title": "FinancialJuice: Deutsche Bank Chief US Economist Luzzetti on the rate statement: I think the word 'timelier' is doing a lot of work.",
-      "published_at": "2026-09-16T18:25:53Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Deutsche Bank Chief US Economist Luzzetti on the rate statement: I think the word 'timelier' is doing a lot of work.",
-          "source": "FinancialJuice",
-          "snippet": "Rate Statement: &quot;Action will support a timelier return to 2% inflation goal&quot;",
-          "url": "https://www.financialjuice.com/News/9766099/Deutsche-Bank-Chief-US-Economist-Luzzetti-on-the-rate-statement-I-think-the-word-timelier-is-doing-a-lot-of-work.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766099/Deutsche-Bank-Chief-US-Economist-Luzzetti-on-the-rate-statement-I-think-the-word-timelier-is-doing-a-lot-of-work.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-cf71c9c179e3",
-      "original_title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
-      "published_at": "2026-09-16T18:23:33Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
-          "source": "Reuters",
-          "snippet": "Bond market woes likely a factor for Fed, but intervention seen as unlikely &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHQzSC11Z3EtOUFVMG9sQnYwOHhnZkJGM2VoVWtFNWp1Y0ZlM2lIMEhoSnkzaExSQlZ4SzVFRkk0aHR3S0NUWC1ZdWQ0MXdJNmxoYWdxdGJJcmtDWENDa0JvNE9fQjFCTFhqTVZZR0NuQmNDNE03dHVEcUVmZDdpaUhXUTFWdzdmeXJUVkxGdThDaG8wNGRWSXl3V09DZVNDN1BzbllrN0tSZw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHQzSC11Z3EtOUFVMG9sQnYwOHhnZkJGM2VoVWtFNWp1Y0ZlM2lIMEhoSnkzaExSQlZ4SzVFRkk0aHR3S0NUWC1ZdWQ0MXdJNmxoYWdxdGJJcmtDWENDa0JvNE9fQjFCTFhqTVZZR0NuQmNDNE03dHVEcUVmZDdpaUhXUTFWdzdmeXJUVkxGdThDaG8wNGRWSXl3V09DZVNDN1BzbllrN0tSZw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-0ab85e50a3d6",
-      "original_title": "FinancialJuice: Pimco's Clarida: I think we can get disinflation without a recession.",
-      "published_at": "2026-09-16T18:20:45Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Pimco's Clarida: I think we can get disinflation without a recession.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766092/Pimcos-Clarida-I-think-we-can-get-disinflation-without-a-recession.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766092/Pimcos-Clarida-I-think-we-can-get-disinflation-without-a-recession.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-de82b718adae",
-      "original_title": "연방준비제도는 금리 인상 발표를 했습니다. 이번 인상은 2023년 7월 이후 처음으로 이루어진 금리 인상이며, 0.25%p 인상되었습니다. 투표 결과는 만장일치였습니다. https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "published_at": "2026-09-16T18:14:03Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "연방준비제도는 금리 인상 발표를 했습니다. 이번 인상은 2023년 7월 이후 처음으로 이루어진 금리 인상이며, 0.25%p 인상되었습니다. 투표 결과는 만장일치였습니다. https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-          "source": "Telegram @goddessTTF",
-          "snippet": "연방준비제도는 금리 인상 발표를 했습니다. 이번 인상은 2023년 7월 이후 처음으로 이루어진 금리 인상이며, 0.25%p 인상되었습니다. 투표 결과는 만장일치였습니다. https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-          "url": "https://t.me/goddessTTF/84217"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/84217"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-266aeee2b5d7",
-      "original_title": "FinancialJuice: Traders maintain bets on another Fed rate hike this year",
-      "published_at": "2026-09-16T18:05:47Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Traders maintain bets on another Fed rate hike this year",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766061/Traders-maintain-bets-on-another-Fed-rate-hike-this-year.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766061/Traders-maintain-bets-on-another-Fed-rate-hike-this-year.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-4ddb7e8c36c6",
-      "original_title": "Federal Reserve issues FOMC statement",
-      "published_at": "2026-09-16T18:03:49Z",
-      "discovery_source": "federal_reserve",
-      "evidence": [
-        {
-          "headline": "Federal Reserve issues FOMC statement",
-          "source": "Federal Reserve (.gov)",
-          "snippet": "Federal Reserve issues FOMC statement &nbsp;&nbsp; Federal Reserve (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeGxFWGVoV2UxSjVySVJkVkRNWmltNGFXY3U0Vm4waXJKelRvbm1QMHFINndNX1EzQTJPQUk3MjVvQnBzd0JvLVZIMmhaX2lXRlA1cUpuWG84R3JVemZiOUl0UnBlNVRVQ21sMlg5UU11NnFNSWdFUzE1M3czUF9JaHV6MA?oc=5"
-        },
-        {
-          "headline": "Federal Reserve issues FOMC statement",
-          "source": "Federal Reserve",
-          "snippet": "Federal Reserve issues FOMC statement",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Federal Reserve (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeGxFWGVoV2UxSjVySVJkVkRNWmltNGFXY3U0Vm4waXJKelRvbm1QMHFINndNX1EzQTJPQUk3MjVvQnBzd0JvLVZIMmhaX2lXRlA1cUpuWG84R3JVemZiOUl0UnBlNVRVQ21sMlg5UU11NnFNSWdFUzE1M3czUF9JaHV6MA?oc=5"
-        },
-        {
-          "name": "Federal Reserve",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-dd60b20e8caa",
-      "original_title": "FinancialJuice: Fed: 16 officials project at least one more rate hike in 2026.",
-      "published_at": "2026-09-16T18:01:57Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed: 16 officials project at least one more rate hike in 2026.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766055/Fed-16-officials-project-at-least-one-more-rate-hike-in-2026.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766055/Fed-16-officials-project-at-least-one-more-rate-hike-in-2026.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-9c1d476fe570",
-      "original_title": "FinancialJuice: Fed: Inflation remains elevated, drops earlier description of that owing in part to supply shocks.",
-      "published_at": "2026-09-16T18:01:24Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed: Inflation remains elevated, drops earlier description of that owing in part to supply shocks.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766051/Fed-Inflation-remains-elevated-drops-earlier-description-of-that-owing-in-part-to-supply-shocks.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766051/Fed-Inflation-remains-elevated-drops-earlier-description-of-that-owing-in-part-to-supply-shocks.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-6f06e5b9fe62",
-      "original_title": "FinancialJuice: Fed Policymakers see end-2026 PCE inflation at 3.7% versus 3.6% in June; core seen at 3.4% versus 3.3%.",
-      "published_at": "2026-09-16T18:00:59Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed Policymakers see end-2026 PCE inflation at 3.7% versus 3.6% in June; core seen at 3.4% versus 3.3%.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9766037/Fed-Policymakers-see-end-2026-PCE-inflation-at-37-versus-36-in-June-core-seen-at-34-versus-33.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9766037/Fed-Policymakers-see-end-2026-PCE-inflation-at-37-versus-36-in-June-core-seen-at-34-versus-33.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-16-25d661765c8e",
-      "original_title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "published_at": "2026-09-16T18:00:00Z",
-      "discovery_source": "federal_reserve",
-      "evidence": [
-        {
-          "headline": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-          "source": "Federal Reserve",
-          "snippet": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Federal Reserve",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm"
         }
       ]
     }
