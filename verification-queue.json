@@ -1,6 +1,26 @@
 {
-  "updated_at_kst": "2026-09-20T10:07:00+09:00",
+  "updated_at_kst": "2026-09-20T15:14:45+09:00",
   "items": [
+    {
+      "stable_id": "2026-09-20-3840c662f99e",
+      "original_title": "FinancialJuice: Facility at Moscow oil refinery damaged in ongoing drone assault: TASS citing Mayor Sergey Sobyanin",
+      "published_at": "2026-09-20T03:58:42Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Facility at Moscow oil refinery damaged in ongoing drone assault: TASS citing Mayor Sergey Sobyanin",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9770683/Facility-at-Moscow-oil-refinery-damaged-in-ongoing-drone-assault-TASS-citing-Mayor-Sergey-Sobyanin.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9770683/Facility-at-Moscow-oil-refinery-damaged-in-ongoing-drone-assault-TASS-citing-Mayor-Sergey-Sobyanin.aspx?xy=rss"
+        }
+      ]
+    },
     {
       "stable_id": "2026-09-19-b1c7cd2e8938",
       "original_title": "Solana ETFs Experience 12 Consecutive Weeks of Inflows, While Bitcoin Has Its Quietest Week on Record",
@@ -39,8 +59,8 @@
       "evidence": [
         {
           "headline": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
-          "source": "Bloomberg",
-          "snippet": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says &nbsp;&nbsp; Bloomberg",
+          "source": "Bloomberg.com",
+          "snippet": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says &nbsp;&nbsp; Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1Q2aFBHd1FEVFduUFA0cWt2VTloSTc5bmJWeDBCU195UHNueTZ5Z3ZyRTBaWWp3TkY4NFVTUnphWFlqbVpLMzNkRUttd05tLWZtZFA2Um9oQl9fRXNOa1N2a1NrVTl3RzBEcUI4ZE0ydFh1OXJxa0JuSl9oUXZ3TVNmTjdLd2o2SXE5WDZpcG9Wd1lJcVYwcU9ldzdPSDd2R0pYTzRuMVRSLW4y?oc=5"
         },
         {
@@ -51,8 +71,8 @@
         },
         {
           "headline": "Hormuz oil shipments hit 6-month high, US commander says",
-          "source": "The Straits Times",
-          "snippet": "Hormuz oil shipments hit 6-month high, US commander says &nbsp;&nbsp; The Straits Times",
+          "source": "straitstimes.com",
+          "snippet": "Hormuz oil shipments hit 6-month high, US commander says &nbsp;&nbsp; straitstimes.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEhhQ0NXLXc3bUJrVWU4Q2ZoMXlVR1FjQTdwNllmRUU0ZERDMDZkOHRBdW9LRXNpVmhQaDN2V2dtVzhQMGlKS09rMXVBRzk4S3NVb1NUTVB1bFpQNWhZMkpPaVRwT2ljNHd1MmR6Mk5BWEhsVXRzTnE3YzFoUXFCZThpeUNCZm1lYzRUVXl5UWlUcjc3TUYwa2dFYUtIRk9YQjdZdEVHSXlselZ5eGlGMUxFSQ?oc=5"
         },
         {
@@ -64,7 +84,7 @@
       ],
       "sources": [
         {
-          "name": "Bloomberg",
+          "name": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1Q2aFBHd1FEVFduUFA0cWt2VTloSTc5bmJWeDBCU195UHNueTZ5Z3ZyRTBaWWp3TkY4NFVTUnphWFlqbVpLMzNkRUttd05tLWZtZFA2Um9oQl9fRXNOa1N2a1NrVTl3RzBEcUI4ZE0ydFh1OXJxa0JuSl9oUXZ3TVNmTjdLd2o2SXE5WDZpcG9Wd1lJcVYwcU9ldzdPSDd2R0pYTzRuMVRSLW4y?oc=5"
         },
         {
@@ -72,7 +92,7 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1ZVU0F2c01Ba2pvRVNWWTRqa0hpV0l3RGVQYlNPdUczWkVpOTJnNkhHQ3Zld0tZWlF5MVBWVmxrRi1KUmdKOGs0RFp5LVF2bW5CWHc4R1p5TzVfNHV1RlpIN1JPT20xMjB5dTZ2Q2xONzFGNnlxelJ2bDNFQ3lWMGY5MUtOWnMwVzhZSEU1V29vRTVoQUVOQm9ORXY?oc=5"
         },
         {
-          "name": "The Straits Times",
+          "name": "straitstimes.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEhhQ0NXLXc3bUJrVWU4Q2ZoMXlVR1FjQTdwNllmRUU0ZERDMDZkOHRBdW9LRXNpVmhQaDN2V2dtVzhQMGlKS09rMXVBRzk4S3NVb1NUTVB1bFpQNWhZMkpPaVRwT2ljNHd1MmR6Mk5BWEhsVXRzTnE3YzFoUXFCZThpeUNCZm1lYzRUVXl5UWlUcjc3TUYwa2dFYUtIRk9YQjdZdEVHSXlselZ5eGlGMUxFSQ?oc=5"
         },
         {
@@ -455,8 +475,8 @@
         },
         {
           "headline": "UPDATE: BlackRock’s spot Bitcoin ETF ranked fifth among al",
-          "source": "KuCoin",
-          "snippet": "UPDATE: BlackRock’s spot Bitcoin ETF ranked fifth among al &nbsp;&nbsp; KuCoin",
+          "source": "kucoin.com",
+          "snippet": "UPDATE: BlackRock’s spot Bitcoin ETF ranked fifth among al &nbsp;&nbsp; kucoin.com",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqOWNQR1R4SVlfVzQ2NWN1MFU3MlNya3h5aWFFQmd3U2JVM3hJUmpray1qYldyQmxGQ01neERXRXhEQks2VHlNVHU4d29jOE9VQ2RwY1p6R2Zrb2dxUTF0VXhqQ2tqejB0a21VOTFzQkwzQQ?oc=5"
         }
       ],
@@ -466,7 +486,7 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1Z5LWg3WHlJRXVIOEl2NmdUU2xkbDJRRmpIdjQ2NzJiaUlhUUc3SHMxWm1DNGtzcmN1QnF5NmZFdU5ibTgtVF8yVUpobjJuRWdkeFV5YjRKRW9TUHQ1UDBqeUtoY2ZCSVEweEN1NHg0OEJIS1JRdl9PSjJGMXhMTGkwMA?oc=5"
         },
         {
-          "name": "KuCoin",
+          "name": "kucoin.com",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqOWNQR1R4SVlfVzQ2NWN1MFU3MlNya3h5aWFFQmd3U2JVM3hJUmpray1qYldyQmxGQ01neERXRXhEQks2VHlNVHU4d29jOE9VQ2RwY1p6R2Zrb2dxUTF0VXhqQ2tqejB0a21VOTFzQkwzQQ?oc=5"
         }
       ]
@@ -502,22 +522,12 @@
           "source": "CoinDesk",
           "snippet": "",
           "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary"
-        },
-        {
-          "headline": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-          "source": "coindesk.com",
-          "snippet": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary &nbsp;&nbsp; coindesk.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3VLSm5MTk4yakhMd3ZYam4yMXM0NjRLYkZkWnJCUm9mTXBmS3RpdFh5UkpNdUcwWnBWNngxdU84ODJ5WmtONGpzWVBDa2VEaHlKTzY5WExQTWd5OWd4TGVhRlJfRk1XVW4zTEhPTzRreXJUcVhvOWtKUnVrbjZBelZpSFkwM1hnZ25FR3ZiaWVfUGZaSFJNczdlTmZ4aS1Bb2Z3M2RJQXEyS2t2dlNOcUtPa1A5cjZHZHdpLXlURkM2Rks1Y0d2UQ?oc=5"
         }
       ],
       "sources": [
         {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary"
-        },
-        {
-          "name": "coindesk.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3VLSm5MTk4yakhMd3ZYam4yMXM0NjRLYkZkWnJCUm9mTXBmS3RpdFh5UkpNdUcwWnBWNngxdU84ODJ5WmtONGpzWVBDa2VEaHlKTzY5WExQTWd5OWd4TGVhRlJfRk1XVW4zTEhPTzRreXJUcVhvOWtKUnVrbjZBelZpSFkwM1hnZ25FR3ZiaWVfUGZaSFJNczdlTmZ4aS1Bb2Z3M2RJQXEyS2t2dlNOcUtPa1A5cjZHZHdpLXlURkM2Rks1Y0d2UQ?oc=5"
         }
       ]
     },
@@ -538,6 +548,36 @@
         {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-09-19-c01954b81a77",
+      "original_title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
+      "published_at": "2026-09-19T11:59:55Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
+          "source": "Yahoo! Finance Canada",
+          "snippet": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day &nbsp;&nbsp; Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVV6b2Q4bzhSTi1DV3JXd3BfVUZkNDEwVkE1TDQtekF0eUdyeFdrUDlOX1F3V2R5X1ZjYVpkUG9Wa0FpNGVpZGdKMVhWZzRoc0FVcHhaallBZXBhdGEteFNMMWIxWHV3bUY3V2NJMUE4bllmaFhhNmZ6RFRIcHJXT3dXTmM3ZUVUZGdNcnBGS2lENl96MDBsbXh6dUhWR1pNVmFsRlgyNExWNW1IU01wVms2X0M3RnprVHhQdUlKQjVtUQ?oc=5"
+        },
+        {
+          "headline": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
+          "source": "AOL.ca",
+          "snippet": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day &nbsp;&nbsp; AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HSkRXUWFlLWtjam5BSFBrWnBKcU1zQVlJTUtubC0yQjNyaGtOSTNZeFk1N3lzNThDcVpIa2VrWHpMM1ViS1lYbHFyRFZMeGlhekVpaFJFVGtIU2xRYnlkOU82eTJEeTUxX0VUMXpHU0ZKckMtSUE?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVV6b2Q4bzhSTi1DV3JXd3BfVUZkNDEwVkE1TDQtekF0eUdyeFdrUDlOX1F3V2R5X1ZjYVpkUG9Wa0FpNGVpZGdKMVhWZzRoc0FVcHhaallBZXBhdGEteFNMMWIxWHV3bUY3V2NJMUE4bllmaFhhNmZ6RFRIcHJXT3dXTmM3ZUVUZGdNcnBGS2lENl96MDBsbXh6dUhWR1pNVmFsRlgyNExWNW1IU01wVms2X0M3RnprVHhQdUlKQjVtUQ?oc=5"
+        },
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HSkRXUWFlLWtjam5BSFBrWnBKcU1zQVlJTUtubC0yQjNyaGtOSTNZeFk1N3lzNThDcVpIa2VrWHpMM1ViS1lYbHFyRFZMeGlhekVpaFJFVGtIU2xRYnlkOU82eTJEeTUxX0VUMXpHU0ZKckMtSUE?oc=5"
         }
       ]
     },
@@ -2398,46 +2438,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9769543/Feds-Schmid-Rate-hike-was-a-step-towards-returning-to-the-2-target.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-18-2d7f7d3e0354",
-      "original_title": "FinancialJuice: Fed's Schmid: I supported rate hike, recent data suggest inflation trending above 3%.",
-      "published_at": "2026-09-18T15:32:33Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Schmid: I supported rate hike, recent data suggest inflation trending above 3%.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9769542/Feds-Schmid-I-supported-rate-hike-recent-data-suggest-inflation-trending-above-3.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9769542/Feds-Schmid-I-supported-rate-hike-recent-data-suggest-inflation-trending-above-3.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-09-18-071aaed2deee",
-      "original_title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-      "published_at": "2026-09-18T15:16:37Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act"
         }
       ]
     }
