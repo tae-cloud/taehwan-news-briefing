@@ -1,6 +1,476 @@
 {
-  "updated_at_kst": "2026-10-10T01:11:02+09:00",
+  "updated_at_kst": "2026-10-10T05:52:56+09:00",
   "items": [
+    {
+      "stable_id": "2026-10-09-f9027ce906e5",
+      "original_title": "FinancialJuice: Week Ahead: Will Trump Strike Iran Before Midterms? CPI Data Awaited",
+      "published_at": "2026-10-09T20:36:25Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Week Ahead: Will Trump Strike Iran Before Midterms? CPI Data Awaited",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799605/Week-Ahead-Will-Trump-Strike-Iran-Before-Midterms-CPI-Data-Awaited---FJElite.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799605/Week-Ahead-Will-Trump-Strike-Iran-Before-Midterms-CPI-Data-Awaited---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-7eb1f6fc3905",
+      "original_title": "FinancialJuice: USD CFTC Positions Week of October 6th",
+      "published_at": "2026-10-09T20:29:55Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: USD CFTC Positions Week of October 6th",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799590/USD-CFTC-Positions-Week-of-October-6th---FJElite.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799590/USD-CFTC-Positions-Week-of-October-6th---FJElite.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-79707059f8fa",
+      "original_title": "\"저는 미국과 세계 시장에 연료를 공급하는 것이 전체 세계 경제에 긍정적인 영향을 미칠 것이라고 확신합니다.\" - 푸틴 그는 트럼프와의 지속적인 접촉을 확인하며, \"우크라이나 위기 해결과 이란 문제 논의에 상당한 관심이 기울여졌다\"고 언급했습니다.",
+      "published_at": "2026-10-09T20:14:56Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "\"저는 미국과 세계 시장에 연료를 공급하는 것이 전체 세계 경제에 긍정적인 영향을 미칠 것이라고 확신합니다.\" - 푸틴 그는 트럼프와의 지속적인 접촉을 확인하며, \"우크라이나 위기 해결과 이란 문제 논의에 상당한 관심이 기울여졌다\"고 언급했습니다.",
+          "source": "Telegram @goddessTTF",
+          "snippet": "\"저는 미국과 세계 시장에 연료를 공급하는 것이 전체 세계 경제에 긍정적인 영향을 미칠 것이라고 확신합니다.\" - 푸틴 그는 트럼프와의 지속적인 접촉을 확인하며, \"우크라이나 위기 해결과 이란 문제 논의에 상당한 관심이 기울여졌다\"고 언급했습니다.",
+          "url": "https://t.me/goddessTTF/85449"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/85449"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-1ce8fd95346c",
+      "original_title": "FinancialJuice: S&P on the UK: Oil & gas prices & those for other inputs tied to conflict in the Middle East, like fertilizer, affecting inflation & interest rates.",
+      "published_at": "2026-10-09T20:07:27Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: S&P on the UK: Oil & gas prices & those for other inputs tied to conflict in the Middle East, like fertilizer, affecting inflation & interest rates.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799556/SP-on-the-UK-Oil--gas-prices--those-for-other-inputs-tied-to-conflict-in-the-Middle-East-like-fertilizer-affecting-inflation--interest-rates.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799556/SP-on-the-UK-Oil--gas-prices--those-for-other-inputs-tied-to-conflict-in-the-Middle-East-like-fertilizer-affecting-inflation--interest-rates.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-04a8e071764a",
+      "original_title": "FinancialJuice: S&P on the UK: High hydrocarbon prices have been affecting inflation, and the BoE is expected to tighten its policy rate by 0.25% in late 2026.",
+      "published_at": "2026-10-09T20:04:51Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: S&P on the UK: High hydrocarbon prices have been affecting inflation, and the BoE is expected to tighten its policy rate by 0.25% in late 2026.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799551/SP-on-the-UK-High-hydrocarbon-prices-have-been-affecting-inflation-and-the-BoE-is-expected-to-tighten-its-policy-rate-by-025-in-late-2026.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799551/SP-on-the-UK-High-hydrocarbon-prices-have-been-affecting-inflation-and-the-BoE-is-expected-to-tighten-its-policy-rate-by-025-in-late-2026.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-994871fffab9",
+      "original_title": "CFTC Seeks Public Comment on Notice of Proposed Rulemaking Concerning the Inclusion of Certain Event Contracts in the Definition of Swap",
+      "published_at": "2026-10-09T20:00:26Z",
+      "discovery_source": "cftc",
+      "evidence": [
+        {
+          "headline": "CFTC Seeks Public Comment on Notice of Proposed Rulemaking Concerning the Inclusion of Certain Event Contracts in the Definition of Swap",
+          "source": "CFTC",
+          "snippet": "",
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CFTC",
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-fb847a65101c",
+      "original_title": "FinancialJuice: Iran's President Pezeshkian: Regional diplomacy shouldn't just be about holding meetings. It must be a real tool: for crisis management, maintaining dialogue, preventing escalation, and driving practical ",
+      "published_at": "2026-10-09T20:00:03Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's President Pezeshkian: Regional diplomacy shouldn't just be about holding meetings. It must be a real tool: for crisis management, maintaining dialogue, preventing escalation, and driving practical ",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799524/Irans-President-Pezeshkian-Regional-diplomacy-shouldnt-just-be-about-holding-meetings-It-must-be-a-real-tool-for-crisis-management-maintaining-dialogue-preventing-escalation-and-driving-practical-cooperation---Post-on-X.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799524/Irans-President-Pezeshkian-Regional-diplomacy-shouldnt-just-be-about-holding-meetings-It-must-be-a-real-tool-for-crisis-management-maintaining-dialogue-preventing-escalation-and-driving-practical-cooperation---Post-on-X.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-0728d9d8c76b",
+      "original_title": "FinancialJuice: Kremlin: The Putin-Trump phone call focused on prospects for resolving the Ukraine crisis, and also touched on Iran.",
+      "published_at": "2026-10-09T19:58:33Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Kremlin: The Putin-Trump phone call focused on prospects for resolving the Ukraine crisis, and also touched on Iran.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799523/Kremlin-The-Putin-Trump-phone-call-focused-on-prospects-for-resolving-the-Ukraine-crisis-and-also-touched-on-Iran.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799523/Kremlin-The-Putin-Trump-phone-call-focused-on-prospects-for-resolving-the-Ukraine-crisis-and-also-touched-on-Iran.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-1257973ed028",
+      "original_title": "FinancialJuice: Putin: Russia confirms readiness to supply oil and petroleum products to the US and global markets",
+      "published_at": "2026-10-09T19:56:00Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Putin: Russia confirms readiness to supply oil and petroleum products to the US and global markets",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799522/Putin-Russia-confirms-readiness-to-supply-oil-and-petroleum-products-to-the-US-and-global-markets---Tass.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799522/Putin-Russia-confirms-readiness-to-supply-oil-and-petroleum-products-to-the-US-and-global-markets---Tass.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-8387c8d15edb",
+      "original_title": "Oil Falls as Trump Says US Will Not Attack Iran Before Midterms",
+      "published_at": "2026-10-09T19:44:03Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil Falls as Trump Says US Will Not Attack Iran Before Midterms",
+          "source": "Bloomberg.com",
+          "snippet": "Oil Falls as Trump Says US Will Not Attack Iran Before Midterms &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3hkaXc5S2xzRXJYRkszaGxuU3kxbHZEYmgycHNvYkZuMzJDS2E2c0JRRVBUY1JWMXJETHdwaTVfcHRVbWtROXh4NE1ZYWJrTXBINk5MdDVFUlp1ZFl3TDc1TUVucV9FdmZBNUVnVFloUVRQdE1KaGdhNHVFVDF0akVBamJGekFYRExEQk9HWnVHbV9VaE5rV3NWM3NFUzJTVElROEZZeFI0YTdnd09BeWlacVExWm5i?oc=5"
+        },
+        {
+          "headline": "Trump Says No Attack on Iran Before Nov. 3 Midterms",
+          "source": "bloomingbit",
+          "snippet": "Trump Says No Attack on Iran Before Nov. 3 Midterms &nbsp;&nbsp; bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1reGZVY0FLSnhfREFTTElrTlcwNVBQNWw4bmhoMnAya1FXaWVFY3F6MjhQWTBIeXBMN01XVmRkR2t4anVuTjM1RzVYb2tpOHljRUluWA?oc=5"
+        },
+        {
+          "headline": "Trump says US will not attack Iran before midterm elections in November",
+          "source": "Ariana News",
+          "snippet": "Trump says US will not attack Iran before midterm elections in November &nbsp;&nbsp; Ariana News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXg3WFlMVTZEaFFtTDV5bWpNUl9xeXVnTG12TVZ1eHBnMHh2UFZIcjhrVUthOENGT0l2elpaRG55ZG1WTnpDN2RJenVtY3FiejB6Tk9Ud1ZET3dtd1E2RVVucWJKNFNOZ2NiMVUtNUwxc005cVMwMXlyRHFVaWlSSkRCQTNIRVpzbUplNFVabnNPdWhHT0tnSU1QYjRfelNmSEdKatIBpAFBVV95cUxPTXg3WFlMVTZEaFFtTDV5bWpNUl9xeXVnTG12TVZ1eHBnMHh2UFZIcjhrVUthOENGT0l2elpaRG55ZG1WTnpDN2RJenVtY3FiejB6Tk9Ud1ZET3dtd1E2RVVucWJKNFNOZ2NiMVUtNUwxc005cVMwMXlyRHFVaWlSSkRCQTNIRVpzbUplNFVabnNPdWhHT0tnSU1QYjRfelNmSEdKag?oc=5"
+        },
+        {
+          "headline": "Trump says US will not strike Iran before midterm elections",
+          "source": "Al Jazeera",
+          "snippet": "Trump says US will not strike Iran before midterm elections &nbsp;&nbsp; Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdndZSjg5cWh4WHJhWXI0R19HVGdGRXFKQ2Y0YTZEVV9wM0d2THlSQ1BLd0Fub05mQ0dCNkwxbUxSN1N2N0g4RUt2SUNzdS14R2RGT09wdjRhaWI0bU9BbXhGdTViUG5NOERIUVk0YVBFY3FDWW9BT1J0NGRWOXU3VXptcUhMNm9hZDhpbHotYkxud05sTVJ2a0JQVlY4WTNNaFHSAacBQVVfeXFMUDBKY2VRMFhITEQyRTFPZGh2Y3Y0QWM1cnhPTG1MUzZyeVVubVdLdUhybTZsUUNMaE9tOWxwUkpWOGxCaTlSR1JSV21MenFqTGxKOGRSMS1xeTM2VV9Vcnp0S1VESVlGQUwwTW5QQ0lGMEkzWFc0YVFDalM2bHpuTWVUV3c5eVFUM1lmYU1FWlBBQUNfeDI2TUdUcktRVXk5MEJWeDJMMEE?oc=5"
+        },
+        {
+          "headline": "Trump Says U.S. Will Not Attack Iran Before November 3 Midterms: how 35 outlets framed it",
+          "source": "NewsCord",
+          "snippet": "Trump Says U.S. Will Not Attack Iran Before November 3 Midterms: how 35 outlets framed it &nbsp;&nbsp; NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeFJWOGZmYlRfM2t3NWIxNUhJaVl2QXVjOW1NMHBYLVJFS3g1d244Rlp4dDl5UGZMSUpBdzJLYjE3QnU3WndqcWpNVGVISXpubWtFTmVLeU44OWhEYXFHZExwZmpmWDZ5WUppVy1HdjFSeS0tMnVDeGVUdElUN3h6YUhaTklJbW1zdWxQaUNWSU9UYklraTl4UnRvaHFjd3Q2ejduNjlXOTJDdDVOeXZKblpPM1p5TW9McF8za1pkYlZrWjMzYzJCUmR4ZGFTanBON2I0azhtNVlseENOdC14Wi00MTBVZw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3hkaXc5S2xzRXJYRkszaGxuU3kxbHZEYmgycHNvYkZuMzJDS2E2c0JRRVBUY1JWMXJETHdwaTVfcHRVbWtROXh4NE1ZYWJrTXBINk5MdDVFUlp1ZFl3TDc1TUVucV9FdmZBNUVnVFloUVRQdE1KaGdhNHVFVDF0akVBamJGekFYRExEQk9HWnVHbV9VaE5rV3NWM3NFUzJTVElROEZZeFI0YTdnd09BeWlacVExWm5i?oc=5"
+        },
+        {
+          "name": "bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1reGZVY0FLSnhfREFTTElrTlcwNVBQNWw4bmhoMnAya1FXaWVFY3F6MjhQWTBIeXBMN01XVmRkR2t4anVuTjM1RzVYb2tpOHljRUluWA?oc=5"
+        },
+        {
+          "name": "Ariana News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXg3WFlMVTZEaFFtTDV5bWpNUl9xeXVnTG12TVZ1eHBnMHh2UFZIcjhrVUthOENGT0l2elpaRG55ZG1WTnpDN2RJenVtY3FiejB6Tk9Ud1ZET3dtd1E2RVVucWJKNFNOZ2NiMVUtNUwxc005cVMwMXlyRHFVaWlSSkRCQTNIRVpzbUplNFVabnNPdWhHT0tnSU1QYjRfelNmSEdKatIBpAFBVV95cUxPTXg3WFlMVTZEaFFtTDV5bWpNUl9xeXVnTG12TVZ1eHBnMHh2UFZIcjhrVUthOENGT0l2elpaRG55ZG1WTnpDN2RJenVtY3FiejB6Tk9Ud1ZET3dtd1E2RVVucWJKNFNOZ2NiMVUtNUwxc005cVMwMXlyRHFVaWlSSkRCQTNIRVpzbUplNFVabnNPdWhHT0tnSU1QYjRfelNmSEdKag?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdndZSjg5cWh4WHJhWXI0R19HVGdGRXFKQ2Y0YTZEVV9wM0d2THlSQ1BLd0Fub05mQ0dCNkwxbUxSN1N2N0g4RUt2SUNzdS14R2RGT09wdjRhaWI0bU9BbXhGdTViUG5NOERIUVk0YVBFY3FDWW9BT1J0NGRWOXU3VXptcUhMNm9hZDhpbHotYkxud05sTVJ2a0JQVlY4WTNNaFHSAacBQVVfeXFMUDBKY2VRMFhITEQyRTFPZGh2Y3Y0QWM1cnhPTG1MUzZyeVVubVdLdUhybTZsUUNMaE9tOWxwUkpWOGxCaTlSR1JSV21MenFqTGxKOGRSMS1xeTM2VV9Vcnp0S1VESVlGQUwwTW5QQ0lGMEkzWFc0YVFDalM2bHpuTWVUV3c5eVFUM1lmYU1FWlBBQUNfeDI2TUdUcktRVXk5MEJWeDJMMEE?oc=5"
+        },
+        {
+          "name": "NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeFJWOGZmYlRfM2t3NWIxNUhJaVl2QXVjOW1NMHBYLVJFS3g1d244Rlp4dDl5UGZMSUpBdzJLYjE3QnU3WndqcWpNVGVISXpubWtFTmVLeU44OWhEYXFHZExwZmpmWDZ5WUppVy1HdjFSeS0tMnVDeGVUdElUN3h6YUhaTklJbW1zdWxQaUNWSU9UYklraTl4UnRvaHFjd3Q2ejduNjlXOTJDdDVOeXZKblpPM1p5TW9McF8za1pkYlZrWjMzYzJCUmR4ZGFTanBON2I0azhtNVlseENOdC14Wi00MTBVZw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-59affd316c45",
+      "original_title": "CFTC Issues Interim Final Rule Excluding Certain Activity from the Definition of Swap",
+      "published_at": "2026-10-09T19:30:51Z",
+      "discovery_source": "cftc",
+      "evidence": [
+        {
+          "headline": "CFTC Issues Interim Final Rule Excluding Certain Activity from the Definition of Swap",
+          "source": "CFTC",
+          "snippet": "",
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9309-26"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CFTC",
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9309-26"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-e6cf09b58cd4",
+      "original_title": "저는 방금 블라디미르 푸틴 러시아 대통령과 대단히 성공적인 논의를 마쳤으며, 이 자리에서 러시아가 미국 및 글로벌 시장에 즉시 30만 톤 이상의 디젤 연료를 공급하고, 11월 중에 추가로 50만 톤, 그리고 그 직후에 100만 톤을 공급하기로 합의했습니다. 또한 러시아 디젤 정유 시설들의 여건에 따라, 러시아는 이후 단기간 내에 300만 톤의 디젤 연료를 추가로 공급할 것입니다. 우리가 호르",
+      "published_at": "2026-10-09T19:20:51Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "저는 방금 블라디미르 푸틴 러시아 대통령과 대단히 성공적인 논의를 마쳤으며, 이 자리에서 러시아가 미국 및 글로벌 시장에 즉시 30만 톤 이상의 디젤 연료를 공급하고, 11월 중에 추가로 50만 톤, 그리고 그 직후에 100만 톤을 공급하기로 합의했습니다. 또한 러시아 디젤 정유 시설들의 여건에 따라, 러시아는 이후 단기간 내에 300만 톤의 디젤 연료를 추가로 공급할 것입니다. 우리가 호르",
+          "source": "Telegram @goddessTTF",
+          "snippet": "저는 방금 블라디미르 푸틴 러시아 대통령과 대단히 성공적인 논의를 마쳤으며, 이 자리에서 러시아가 미국 및 글로벌 시장에 즉시 30만 톤 이상의 디젤 연료를 공급하고, 11월 중에 추가로 50만 톤, 그리고 그 직후에 100만 톤을 공급하기로 합의했습니다. 또한 러시아 디젤 정유 시설들의 여건에 따라, 러시아는 이후 단기간 내에 300만 톤의 디젤 연료를 추가로 공급할 것입니다. 우리가 호르무즈 해협을 ‘완전히 장악’하고 있는 상황과 러시아 에너지에…",
+          "url": "https://t.me/goddessTTF/85443"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/85443"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-179f468fa1eb",
+      "original_title": "FinancialJuice: Trump: Putin Agreed to Release Diesel Into Global Oil Market",
+      "published_at": "2026-10-09T18:53:02Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Trump: Putin Agreed to Release Diesel Into Global Oil Market",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799467/Trump-Putin-Agreed-to-Release-Diesel-Into-Global-Oil-Market---Truth-Social.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799467/Trump-Putin-Agreed-to-Release-Diesel-Into-Global-Oil-Market---Truth-Social.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-c5c2fe4ad3b1",
+      "original_title": "FinancialJuice: US Treasury: Office of Foreign Assets Control (OFAC) is immediately issuing a temporary general license to allow the supply of Russian diesel to the global market.",
+      "published_at": "2026-10-09T18:50:02Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Treasury: Office of Foreign Assets Control (OFAC) is immediately issuing a temporary general license to allow the supply of Russian diesel to the global market.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799465/US-Treasury-Office-of-Foreign-Assets-Control-OFAC-is-immediately-issuing-a-temporary-general-license-to-allow-the-supply-of-Russian-diesel-to-the-global-market.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799465/US-Treasury-Office-of-Foreign-Assets-Control-OFAC-is-immediately-issuing-a-temporary-general-license-to-allow-the-supply-of-Russian-diesel-to-the-global-market.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-e0b3fb9ffc1f",
+      "original_title": "FinancialJuice: IDF: We attacked a Syrian terrorist operative from the air who was operating under the direction of the Iranian regime",
+      "published_at": "2026-10-09T18:10:19Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: IDF: We attacked a Syrian terrorist operative from the air who was operating under the direction of the Iranian regime",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799418/IDF-We-attacked-a-Syrian-terrorist-operative-from-the-air-who-was-operating-under-the-direction-of-the-Iranian-regime---Israels-N12-News.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799418/IDF-We-attacked-a-Syrian-terrorist-operative-from-the-air-who-was-operating-under-the-direction-of-the-Iranian-regime---Israels-N12-News.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-0ff9552ad56f",
+      "original_title": "FinancialJuice: local sources report sounds heard in Yazd, eastern Iran were caused by military air defense exercise",
+      "published_at": "2026-10-09T18:04:15Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: local sources report sounds heard in Yazd, eastern Iran were caused by military air defense exercise",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799416/local-sources-report-sounds-heard-in-Yazd-eastern-Iran-were-caused-by-military-air-defense-exercise---Sepah-Media.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799416/local-sources-report-sounds-heard-in-Yazd-eastern-Iran-were-caused-by-military-air-defense-exercise---Sepah-Media.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-e3d470d653f1",
+      "original_title": "FinancialJuice: Trump directive will push US officials to use the Defense Production Act to find ways to increase production of oil and fuel",
+      "published_at": "2026-10-09T17:33:30Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Trump directive will push US officials to use the Defense Production Act to find ways to increase production of oil and fuel",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799381/Trump-directive-will-push-US-officials-to-use-the-Defense-Production-Act-to-find-ways-to-increase-production-of-oil-and-fuel---Sources.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799381/Trump-directive-will-push-US-officials-to-use-the-Defense-Production-Act-to-find-ways-to-increase-production-of-oil-and-fuel---Sources.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-7b3c7394ecc2",
+      "original_title": "FinancialJuice: US Baker Hughes Oil Rig Count Actual 462 (Forecast -, Previous 456)",
+      "published_at": "2026-10-09T17:01:05Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Baker Hughes Oil Rig Count Actual 462 (Forecast -, Previous 456)",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799338/US-Baker-Hughes-Oil-Rig-Count-Actual-462-Forecast---Previous-456.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799338/US-Baker-Hughes-Oil-Rig-Count-Actual-462-Forecast---Previous-456.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-a74248d13d36",
+      "original_title": "Blockchain.com Files CFTC Application for Prediction Markets and Derivatives",
+      "published_at": "2026-10-09T16:54:45Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Blockchain.com Files CFTC Application for Prediction Markets and Derivatives",
+          "source": "KuCoin",
+          "snippet": "Blockchain.com Files CFTC Application for Prediction Markets and Derivatives &nbsp;&nbsp; KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ0J2UkowOEJIc1NnVVBBRzZudjY4ZWJ2X2l6OEd2Z3FKakN5ZzJldTA0LUxCUi15anM1VUZjZllITFdNX0c3ZHZGZXpXYThIWlRqRnp1aWFZbGprR0VXWkk5VjRFUlp6MzFoLVRpTjlueUZFclNtU3FwTjJLWVRrU1RqUGt3T1EyWlBGQ2pQMDFuaC1pR3JIb19sZm1mU01CbGtzU1ZwUWk2cEM2UnZB?oc=5"
+        },
+        {
+          "headline": "Blockchain.com is seeking CFTC licenses to offer prediction markets and crypto derivatives in the U.S.",
+          "source": "Quartz",
+          "snippet": "Blockchain.com is seeking CFTC licenses to offer prediction markets and crypto derivatives in the U.S. &nbsp;&nbsp; Quartz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGFnY2FjM2M0a0ZaU1Zsb0hHTmduV3V6TmhrTzV3OEZCY1lQX3V4UUFadDN2SElRV2dRaDNtTXVHU2RWNEYtTkNiUGkzN2VjTGpCZGg1QjVlRloxT2xaTjRpN1lMN2xKMi1pa1NJWFRFSlFieWdmcGgtM3dYeUV2dGRzcW5qZw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "KuCoin",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ0J2UkowOEJIc1NnVVBBRzZudjY4ZWJ2X2l6OEd2Z3FKakN5ZzJldTA0LUxCUi15anM1VUZjZllITFdNX0c3ZHZGZXpXYThIWlRqRnp1aWFZbGprR0VXWkk5VjRFUlp6MzFoLVRpTjlueUZFclNtU3FwTjJLWVRrU1RqUGt3T1EyWlBGQ2pQMDFuaC1pR3JIb19sZm1mU01CbGtzU1ZwUWk2cEM2UnZB?oc=5"
+        },
+        {
+          "name": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGFnY2FjM2M0a0ZaU1Zsb0hHTmduV3V6TmhrTzV3OEZCY1lQX3V4UUFadDN2SElRV2dRaDNtTXVHU2RWNEYtTkNiUGkzN2VjTGpCZGg1QjVlRloxT2xaTjRpN1lMN2xKMi1pa1NJWFRFSlFieWdmcGgtM3dYeUV2dGRzcW5qZw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-f6320a1df6f5",
+      "original_title": "FinancialJuice: US Gulf shuts in 1.5 million b/d or 72% of oil production",
+      "published_at": "2026-10-09T16:33:45Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Gulf shuts in 1.5 million b/d or 72% of oil production",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799304/US-Gulf-shuts-in-15-million-bd-or-72-of-oil-production---MMA.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799304/US-Gulf-shuts-in-15-million-bd-or-72-of-oil-production---MMA.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-36dd7bd28867",
+      "original_title": "FinancialJuice: Trump on Iran: It's a very small price to pay.",
+      "published_at": "2026-10-09T16:15:31Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Trump on Iran: It's a very small price to pay.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9799282/Trump-on-Iran-Its-a-very-small-price-to-pay.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9799282/Trump-on-Iran-Its-a-very-small-price-to-pay.aspx?xy=rss"
+        }
+      ]
+    },
     {
       "stable_id": "2026-10-09-814ddd5b45fb",
       "original_title": "FinancialJuice: Trump: We took out 28 million bbls of oil from Hormuz yesterday.",
@@ -11,13 +481,13 @@
           "headline": "FinancialJuice: Trump: We took out 28 million bbls of oil from Hormuz yesterday.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9799246/Trump-We-took-out-28-million-bbls-of-oil-from-Hormuz-yesterday.aspx"
+          "url": "https://www.financialjuice.com/News/9799246/Trump-We-took-out-28-million-bbls-of-oil-from-Hormuz-yesterday.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9799246/Trump-We-took-out-28-million-bbls-of-oil-from-Hormuz-yesterday.aspx"
+          "url": "https://www.financialjuice.com/News/9799246/Trump-We-took-out-28-million-bbls-of-oil-from-Hormuz-yesterday.aspx?xy=rss"
         }
       ]
     },
@@ -31,13 +501,13 @@
           "headline": "FinancialJuice: Trump on Iran: It is going to be over soon, one way or the other.",
           "source": "FinancialJuice",
           "snippet": "",
-          "url": "https://www.financialjuice.com/News/9799244/Trump-on-Iran-It-is-going-to-be-over-soon-one-way-or-the-other.aspx"
+          "url": "https://www.financialjuice.com/News/9799244/Trump-on-Iran-It-is-going-to-be-over-soon-one-way-or-the-other.aspx?xy=rss"
         }
       ],
       "sources": [
         {
           "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9799244/Trump-on-Iran-It-is-going-to-be-over-soon-one-way-or-the-other.aspx"
+          "url": "https://www.financialjuice.com/News/9799244/Trump-on-Iran-It-is-going-to-be-over-soon-one-way-or-the-other.aspx?xy=rss"
         }
       ]
     },
@@ -58,66 +528,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9799222/Venezuela-Expects-Oil-Production-to-Reach-15-Million-BPD-by-End-of-2027.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-09-8387c8d15edb",
-      "original_title": "Oil Falls as Trump Says US Will Not Attack Iran Before Midterms",
-      "published_at": "2026-10-09T15:14:03Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil Falls as Trump Says US Will Not Attack Iran Before Midterms",
-          "source": "Bloomberg.com",
-          "snippet": "Oil Falls as Trump Says US Will Not Attack Iran Before Midterms &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3hkaXc5S2xzRXJYRkszaGxuU3kxbHZEYmgycHNvYkZuMzJDS2E2c0JRRVBUY1JWMXJETHdwaTVfcHRVbWtROXh4NE1ZYWJrTXBINk5MdDVFUlp1ZFl3TDc1TUVucV9FdmZBNUVnVFloUVRQdE1KaGdhNHVFVDF0akVBamJGekFYRExEQk9HWnVHbV9VaE5rV3NWM3NFUzJTVElROEZZeFI0YTdnd09BeWlacVExWm5i?oc=5"
-        },
-        {
-          "headline": "Trump says US will not attack Iran before midterm elections in November",
-          "source": "Ariana News",
-          "snippet": "Trump says US will not attack Iran before midterm elections in November &nbsp;&nbsp; Ariana News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXg3WFlMVTZEaFFtTDV5bWpNUl9xeXVnTG12TVZ1eHBnMHh2UFZIcjhrVUthOENGT0l2elpaRG55ZG1WTnpDN2RJenVtY3FiejB6Tk9Ud1ZET3dtd1E2RVVucWJKNFNOZ2NiMVUtNUwxc005cVMwMXlyRHFVaWlSSkRCQTNIRVpzbUplNFVabnNPdWhHT0tnSU1QYjRfelNmSEdKatIBpAFBVV95cUxPTXg3WFlMVTZEaFFtTDV5bWpNUl9xeXVnTG12TVZ1eHBnMHh2UFZIcjhrVUthOENGT0l2elpaRG55ZG1WTnpDN2RJenVtY3FiejB6Tk9Ud1ZET3dtd1E2RVVucWJKNFNOZ2NiMVUtNUwxc005cVMwMXlyRHFVaWlSSkRCQTNIRVpzbUplNFVabnNPdWhHT0tnSU1QYjRfelNmSEdKag?oc=5"
-        },
-        {
-          "headline": "Trump Says U.S. Will Not Attack Iran Before November 3 Midterms: how 35 outlets framed it",
-          "source": "NewsCord",
-          "snippet": "Trump Says U.S. Will Not Attack Iran Before November 3 Midterms: how 35 outlets framed it &nbsp;&nbsp; NewsCord",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeFJWOGZmYlRfM2t3NWIxNUhJaVl2QXVjOW1NMHBYLVJFS3g1d244Rlp4dDl5UGZMSUpBdzJLYjE3QnU3WndqcWpNVGVISXpubWtFTmVLeU44OWhEYXFHZExwZmpmWDZ5WUppVy1HdjFSeS0tMnVDeGVUdElUN3h6YUhaTklJbW1zdWxQaUNWSU9UYklraTl4UnRvaHFjd3Q2ejduNjlXOTJDdDVOeXZKblpPM1p5TW9McF8za1pkYlZrWjMzYzJCUmR4ZGFTanBON2I0azhtNVlseENOdC14Wi00MTBVZw?oc=5"
-        },
-        {
-          "headline": "Trump says US will not attack Iran before November midterms",
-          "source": "South China Morning Post",
-          "snippet": "Trump says US will not attack Iran before November midterms &nbsp;&nbsp; South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORTMtSHJ4VFcxVnkzd1dWZm8yZTZ2U0RKdC1sbVFuZWo3ZjdVd1ZkUFQ5ZXRYSmxOUkFDWEVlVWdOaHNFbmprYU5GUEFBMkZNWUloSkMzRjR5SkxCZnFDMDRsLVlrU2stTDJDV2MxZmVyV0VkQlBBR0xVR0M4a1FLVno4eFpsdzRwRXNHOXlWYVhwSm9PRThvWlhRbUFIRXdQRk51alRzQ3hlb3hPSGpvY19sUlAzT2s0Rmw4MUNKNmhWWTVLaUN6VWlITdIBywFBVV95cUxPT3Y3QlotVlZnTWdlaC1nT1czZi1JWklaRm9RUENxbHNMaEljckVsanRRY2hWQVVRQndVMksxdnRyel9TazF0dXdFeGNjSkRSSUlZdEdTZGVza0h3VW9Pa2xlUzduM1ZqVTl3OFJBX3VYMUJKRnliTGg2U2JXUVpnbFRkS2JlbEFBbTRZWGE2bzJ0Q19Qd2NoWGhwVEpDQTJZSUVlM2JWNkFMX2lpX2pVVkZBTlRvX0h5bVk4NWNXSXY0QkFDcGRJbXg5dw?oc=5"
-        },
-        {
-          "headline": "US will not attack Iran before November election: Trump",
-          "source": "Southern Cross",
-          "snippet": "US will not attack Iran before November election: Trump &nbsp;&nbsp; Southern Cross",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkQ0TnpSR1FQWTNpc3UwNmFORWhRbUFkamxpM0RVMW1CVVRMRmJQdDEwNU00Nm9WMzQxSDVjeWFoTXI0eHhFbHRfNnBGODRRd09xS2YyeUxseVhiLUI1SlM0Q0E5cHhpdnlHZ3JPRUhpeHNTUHFUM05uWHpQQTQ3VE1RdVhTLXJvRm8xZHJlU1NSQ2p3RFlDWjd1dHpQekJpNU1NZU51NFhCOGs?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3hkaXc5S2xzRXJYRkszaGxuU3kxbHZEYmgycHNvYkZuMzJDS2E2c0JRRVBUY1JWMXJETHdwaTVfcHRVbWtROXh4NE1ZYWJrTXBINk5MdDVFUlp1ZFl3TDc1TUVucV9FdmZBNUVnVFloUVRQdE1KaGdhNHVFVDF0akVBamJGekFYRExEQk9HWnVHbV9VaE5rV3NWM3NFUzJTVElROEZZeFI0YTdnd09BeWlacVExWm5i?oc=5"
-        },
-        {
-          "name": "Ariana News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXg3WFlMVTZEaFFtTDV5bWpNUl9xeXVnTG12TVZ1eHBnMHh2UFZIcjhrVUthOENGT0l2elpaRG55ZG1WTnpDN2RJenVtY3FiejB6Tk9Ud1ZET3dtd1E2RVVucWJKNFNOZ2NiMVUtNUwxc005cVMwMXlyRHFVaWlSSkRCQTNIRVpzbUplNFVabnNPdWhHT0tnSU1QYjRfelNmSEdKatIBpAFBVV95cUxPTXg3WFlMVTZEaFFtTDV5bWpNUl9xeXVnTG12TVZ1eHBnMHh2UFZIcjhrVUthOENGT0l2elpaRG55ZG1WTnpDN2RJenVtY3FiejB6Tk9Ud1ZET3dtd1E2RVVucWJKNFNOZ2NiMVUtNUwxc005cVMwMXlyRHFVaWlSSkRCQTNIRVpzbUplNFVabnNPdWhHT0tnSU1QYjRfelNmSEdKag?oc=5"
-        },
-        {
-          "name": "NewsCord",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeFJWOGZmYlRfM2t3NWIxNUhJaVl2QXVjOW1NMHBYLVJFS3g1d244Rlp4dDl5UGZMSUpBdzJLYjE3QnU3WndqcWpNVGVISXpubWtFTmVLeU44OWhEYXFHZExwZmpmWDZ5WUppVy1HdjFSeS0tMnVDeGVUdElUN3h6YUhaTklJbW1zdWxQaUNWSU9UYklraTl4UnRvaHFjd3Q2ejduNjlXOTJDdDVOeXZKblpPM1p5TW9McF8za1pkYlZrWjMzYzJCUmR4ZGFTanBON2I0azhtNVlseENOdC14Wi00MTBVZw?oc=5"
-        },
-        {
-          "name": "South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORTMtSHJ4VFcxVnkzd1dWZm8yZTZ2U0RKdC1sbVFuZWo3ZjdVd1ZkUFQ5ZXRYSmxOUkFDWEVlVWdOaHNFbmprYU5GUEFBMkZNWUloSkMzRjR5SkxCZnFDMDRsLVlrU2stTDJDV2MxZmVyV0VkQlBBR0xVR0M4a1FLVno4eFpsdzRwRXNHOXlWYVhwSm9PRThvWlhRbUFIRXdQRk51alRzQ3hlb3hPSGpvY19sUlAzT2s0Rmw4MUNKNmhWWTVLaUN6VWlITdIBywFBVV95cUxPT3Y3QlotVlZnTWdlaC1nT1czZi1JWklaRm9RUENxbHNMaEljckVsanRRY2hWQVVRQndVMksxdnRyel9TazF0dXdFeGNjSkRSSUlZdEdTZGVza0h3VW9Pa2xlUzduM1ZqVTl3OFJBX3VYMUJKRnliTGg2U2JXUVpnbFRkS2JlbEFBbTRZWGE2bzJ0Q19Qd2NoWGhwVEpDQTJZSUVlM2JWNkFMX2lpX2pVVkZBTlRvX0h5bVk4NWNXSXY0QkFDcGRJbXg5dw?oc=5"
-        },
-        {
-          "name": "Southern Cross",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkQ0TnpSR1FQWTNpc3UwNmFORWhRbUFkamxpM0RVMW1CVVRMRmJQdDEwNU00Nm9WMzQxSDVjeWFoTXI0eHhFbHRfNnBGODRRd09xS2YyeUxseVhiLUI1SlM0Q0E5cHhpdnlHZ3JPRUhpeHNTUHFUM05uWHpQQTQ3VE1RdVhTLXJvRm8xZHJlU1NSQ2p3RFlDWjd1dHpQekJpNU1NZU51NFhCOGs?oc=5"
         }
       ]
     },
@@ -258,6 +668,46 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9799134/Irans-Foreign-Ministry-spokesperson-France-seeks-to-remain-a-nuclear-power-while-restricting-countries-pursuing-peaceful-nuclear-energy-under-what-it-calls-a-false-nuclear-threat-narrative.aspx"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-2e4cdf2d1709",
+      "original_title": "Oil Prices Drop as Trump Comments Ease Iran Supply Fears",
+      "published_at": "2026-10-09T14:16:06Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil Prices Drop as Trump Comments Ease Iran Supply Fears",
+          "source": "Global Banking & Finance Review",
+          "snippet": "Oil Prices Drop as Trump Comments Ease Iran Supply Fears &nbsp;&nbsp; Global Banking & Finance Review",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXdReG95NWtLQVJiemhHbWx5OWRyVGJKNWN2bV9sckdSYlQtREV2WjhVRmJWUWh3UDczOTQyMDZVTHliTDhpRW5wcUc3U0puazlqS0tIMDBsNGpLYWtaRFdiZ2tXVDRVeUFyRjNSazQycXpRS0tlU3EtemNzS1ZHTnRCOE1WZzVMVXB6SVZocGdTY3ItTGZaUFRCWU01UQ?oc=5"
+        },
+        {
+          "headline": "Oil falls as Trump comments on Iran talks ease supply concerns",
+          "source": "Yahoo Finance",
+          "snippet": "Oil falls as Trump comments on Iran talks ease supply concerns &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZXNDM3ZUSzRiNlpvVmdVM1RuM3d3Z0tLNVF0eEV3cG9yOUVfV01MWExJbFQtbHJLNWZKclQ0WFZtYUowN095anR5WnZnbVZpR0tESFZORTdYVkRVYWZnS3NwcTFxVHB2T2dxYkhwbmlNZDNwdmpWY1gxd1pyT0wtYQ?oc=5"
+        },
+        {
+          "headline": "Oil falls as Trump comments on Iran talks ease supply concerns",
+          "source": "Emirates 24|7",
+          "snippet": "Oil falls as Trump comments on Iran talks ease supply concerns &nbsp;&nbsp; Emirates 24|7",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMnhCYmRHclpoYkU0U1NQVGFiVWVXRTc3Y01pQlR5ZGw2Zkx0V0MtQlJfLW5GMGI3ZmlyQnl5dDgzeFljT3V1QV9FQk9fWVVYSkRZXzdVVWVNbWVzTUF2SmVHSzFmYkd1R0ZZanpmd2stSG5BTUFISUx6clBqR3pkYmN2RlJvTW5zUnhLX1NtT0pobnVOT1lES3d5bm1IbUl0TktBNDJqZnA0akpWRGlLMjF4cjZSVE5lSGtjRGh6WGY0WkxBdWJibUNVdXdwcVFPd0JCZGk3dU9yRDJhOWxCMDNYbFV6b2dMYUxv0gHrAUFVX3lxTE8yeEJiZEdyWmhiRTRTU1BUYWJVZVdFNzdjTWlCVHlkbDZmTHRXQy1CUl8tbkYwYjdmaXJCeXl0ODN4WWNPdXVBX0VCT19ZVVhKRFlfN1VVZU1tZXNNQXZKZUdLMWZiR3VHRllqemZ3ay1IbkFNQUhJTHpyUGpHemRiY3ZGUm9NbnNSeEtfU21PSmhudU5PWURLd3lubUhtSXROS0E0MmpmcDRqSlZEaUsyMXhyNlJUTmVIa2NEaHpYZjRaTEF1YmJtQ1V1d3BxUU93QkJkaTd1T3JEMmE5bEIwM1hsVXpvZ0xhTG8?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Global Banking & Finance Review",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXdReG95NWtLQVJiemhHbWx5OWRyVGJKNWN2bV9sckdSYlQtREV2WjhVRmJWUWh3UDczOTQyMDZVTHliTDhpRW5wcUc3U0puazlqS0tIMDBsNGpLYWtaRFdiZ2tXVDRVeUFyRjNSazQycXpRS0tlU3EtemNzS1ZHTnRCOE1WZzVMVXB6SVZocGdTY3ItTGZaUFRCWU01UQ?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZXNDM3ZUSzRiNlpvVmdVM1RuM3d3Z0tLNVF0eEV3cG9yOUVfV01MWExJbFQtbHJLNWZKclQ0WFZtYUowN095anR5WnZnbVZpR0tESFZORTdYVkRVYWZnS3NwcTFxVHB2T2dxYkhwbmlNZDNwdmpWY1gxd1pyT0wtYQ?oc=5"
+        },
+        {
+          "name": "Emirates 24|7",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMnhCYmRHclpoYkU0U1NQVGFiVWVXRTc3Y01pQlR5ZGw2Zkx0V0MtQlJfLW5GMGI3ZmlyQnl5dDgzeFljT3V1QV9FQk9fWVVYSkRZXzdVVWVNbWVzTUF2SmVHSzFmYkd1R0ZZanpmd2stSG5BTUFISUx6clBqR3pkYmN2RlJvTW5zUnhLX1NtT0pobnVOT1lES3d5bm1IbUl0TktBNDJqZnA0akpWRGlLMjF4cjZSVE5lSGtjRGh6WGY0WkxBdWJibUNVdXdwcVFPd0JCZGk3dU9yRDJhOWxCMDNYbFV6b2dMYUxv0gHrAUFVX3lxTE8yeEJiZEdyWmhiRTRTU1BUYWJVZVdFNzdjTWlCVHlkbDZmTHRXQy1CUl8tbkYwYjdmaXJCeXl0ODN4WWNPdXVBX0VCT19ZVVhKRFlfN1VVZU1tZXNNQXZKZUdLMWZiR3VHRllqemZ3ay1IbkFNQUhJTHpyUGpHemRiY3ZGUm9NbnNSeEtfU21PSmhudU5PWURLd3lubUhtSXROS0E0MmpmcDRqSlZEaUsyMXhyNlJUTmVIa2NEaHpYZjRaTEF1YmJtQ1V1d3BxUU93QkJkaTd1T3JEMmE5bEIwM1hsVXpvZ0xhTG8?oc=5"
         }
       ]
     },
@@ -611,7 +1061,7 @@
           "headline": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
           "source": "Cryptonews.net",
           "snippet": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lZ0VPTWJjUGkzUlVZMF9jNjM5dDBVRzZ1RS1SS3lNOXVOS3hKdGRhbVVNV2xvVGdCdVJMZTg4a3pFNEp5TWpJOFBVRkZfZzJLSm9ZdUNB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0VzkzQk0yTDAzaHU4VTVkWHpaVFU2eFY3OXl0SnY4cXJNbDJPZDVQVVNVaXlhSEdjRGtPb2RmYnRzb0hBRHRia210VTBGcUZMVjVDb2VseXE?oc=5"
         },
         {
           "headline": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
@@ -623,7 +1073,7 @@
       "sources": [
         {
           "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lZ0VPTWJjUGkzUlVZMF9jNjM5dDBVRzZ1RS1SS3lNOXVOS3hKdGRhbVVNV2xvVGdCdVJMZTg4a3pFNEp5TWpJOFBVRkZfZzJLSm9ZdUNB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0VzkzQk0yTDAzaHU4VTVkWHpaVFU2eFY3OXl0SnY4cXJNbDJPZDVQVVNVaXlhSEdjRGtPb2RmYnRzb0hBRHRia210VTBGcUZMVjVDb2VseXE?oc=5"
         },
         {
           "name": "CoinDesk",
@@ -972,6 +1422,36 @@
       ]
     },
     {
+      "stable_id": "2026-10-09-76bae124222e",
+      "original_title": "Bitcoin edges lower to $82k, heads for weekly losses amid yield pressure",
+      "published_at": "2026-10-09T09:52:08Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin edges lower to $82k, heads for weekly losses amid yield pressure",
+          "source": "Yahoo Finance UK",
+          "snippet": "Bitcoin edges lower to $82k, heads for weekly losses amid yield pressure &nbsp;&nbsp; Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdQYjdaOGRuU1ZReFRDRU1USWN6VXdHU2hzMlJ2Q1RLRmViX2tuMEx0Ql9leDZIc1NDRkZmcDJsRGJ6WE1SdmNELUpDSTF0VVJxd1E4MHVvUHFJZEMwdV9TUzU4VkZzT3RXOE9yLUU4eGlfUTBDdXVBcHQzVVc3SjdaeXU?oc=5"
+        },
+        {
+          "headline": "Bitcoin steadies above $82k, heads for weekly losses amid yield pressure",
+          "source": "Investing.com UK",
+          "snippet": "Bitcoin steadies above $82k, heads for weekly losses amid yield pressure &nbsp;&nbsp; Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEZKUDllUFdCaDlPSFV2OFRpdy1fS2dYM2s4b0diSlpmSzdKOUhsNkVtMHY2MEphT1J4VEs2OVZUYzBReGVET1lwQ1llT1ZqOTIwR0VaVFJNR3pocmJSRDN3LXdTYml2bkpiSEdTMldLUEpiRGFMeG8yN1Mxa0hUMGVjSUpDb0lHZ2lBeXJhVzZjYlp0YVNJU2JDQWlTcm9sZzJocGhIZmRHTnpuWDNZWmZzc2x5aHJjMlRxRWp5R045bzV4NXhB?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdQYjdaOGRuU1ZReFRDRU1USWN6VXdHU2hzMlJ2Q1RLRmViX2tuMEx0Ql9leDZIc1NDRkZmcDJsRGJ6WE1SdmNELUpDSTF0VVJxd1E4MHVvUHFJZEMwdV9TUzU4VkZzT3RXOE9yLUU4eGlfUTBDdXVBcHQzVVc3SjdaeXU?oc=5"
+        },
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEZKUDllUFdCaDlPSFV2OFRpdy1fS2dYM2s4b0diSlpmSzdKOUhsNkVtMHY2MEphT1J4VEs2OVZUYzBReGVET1lwQ1llT1ZqOTIwR0VaVFJNR3pocmJSRDN3LXdTYml2bkpiSEdTMldLUEpiRGFMeG8yN1Mxa0hUMGVjSUpDb0lHZ2lBeXJhVzZjYlp0YVNJU2JDQWlTcm9sZzJocGhIZmRHTnpuWDNZWmZzc2x5aHJjMlRxRWp5R045bzV4NXhB?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-10-09-fd978d85e74d",
       "original_title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
       "published_at": "2026-10-09T09:20:16Z",
@@ -1112,6 +1592,36 @@
       ]
     },
     {
+      "stable_id": "2026-10-09-5cc9cbe3ce04",
+      "original_title": "Global Market: Singapore likely to tighten monetary policy as growth and inflation risks mount",
+      "published_at": "2026-10-09T07:12:17Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Global Market: Singapore likely to tighten monetary policy as growth and inflation risks mount",
+          "source": "The Economic Times",
+          "snippet": "Global Market: Singapore likely to tighten monetary policy as growth and inflation risks mount &nbsp;&nbsp; The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVTBLUTVOMW5OMUVhVmxJdEktTFloSzJ1MkxVdWRIdnl5S3l1WEhralVJcVRNcmdHRWZMSjRLVHRVU2lxWjFuOVduMEZyUl85eXhrS1phV2stNXMwNVNZb1Qwa3ZqbXkwZ0xZR2VLSVFpMUFfcjk5TnhzTEJrRDlyc241Vy1DeFJWVERIaWxXMUVwNlJQdkhUUnkxbnhrc2dPV1B1VGxGQ0FZOGNCaXRzeC1mUlFmTm9rdzR6VFlqa3BhcGxBTUJUSUlSXzNxWFcxLUM5M1NJWW55bU9JRDE4Wl9BUlZBdW13TDczYW9hN0k4ZExKaVZkdlp3anMzWHVxbDhVWlE1UmpzY0pGRW5PZNIBlgJBVV95cUxQMFBFWVBkRjJqVnNiT3VyV0dWQ2FJMm5nNU9LWDViMUJiU21Dc2d0NUhQUXVHdjZKLTZvWEhkekk1MDY5TlNnSEQ0blMtMjRDdmhrdE5pSFJGdnE0REZIbE1PRTRkVTVoU3pxVFlaUVdxTm5BRzZkTFBhNGRzMFVYa2owdXA1cUxWQ05EbnA1d1NLWl9lOHZEN3dNLXFhVTRyb2lBY2R2LUZYZm5ZbFJHd0wzd0xqSFF3VEExQnBHWlVzVXJvWFlJRVpUSGx4S0tQOUVrbWZmYjE1M1VQOHBMVFNkNmdKVXN4M0Y5Q2VuNkdkbExBVURGczRyaGpWQ2xQMmF4V214M3NZbklxbXVwbkhCLVJJdw?oc=5"
+        },
+        {
+          "headline": "Singapore poised to tighten monetary policy amid strong growth and rising inflation risks",
+          "source": "AOL.com",
+          "snippet": "Singapore poised to tighten monetary policy amid strong growth and rising inflation risks &nbsp;&nbsp; AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUWJmR3ZJXzZ3MkJJSWFYT25EenN4b0ZWeXBWdXM1LU5MQzlFQmlzSE8xQnZpbFh1WF9TOTliSXBFaDZyWmpJbjhhRWFDajBxbEdsb19fek5fNFB3SXd1UHhFM1FON0NoLWJqZk1EU0t0a0hHMXRla2tVSWVUcFljSGUxRkloN3VRaXBVQg?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVTBLUTVOMW5OMUVhVmxJdEktTFloSzJ1MkxVdWRIdnl5S3l1WEhralVJcVRNcmdHRWZMSjRLVHRVU2lxWjFuOVduMEZyUl85eXhrS1phV2stNXMwNVNZb1Qwa3ZqbXkwZ0xZR2VLSVFpMUFfcjk5TnhzTEJrRDlyc241Vy1DeFJWVERIaWxXMUVwNlJQdkhUUnkxbnhrc2dPV1B1VGxGQ0FZOGNCaXRzeC1mUlFmTm9rdzR6VFlqa3BhcGxBTUJUSUlSXzNxWFcxLUM5M1NJWW55bU9JRDE4Wl9BUlZBdW13TDczYW9hN0k4ZExKaVZkdlp3anMzWHVxbDhVWlE1UmpzY0pGRW5PZNIBlgJBVV95cUxQMFBFWVBkRjJqVnNiT3VyV0dWQ2FJMm5nNU9LWDViMUJiU21Dc2d0NUhQUXVHdjZKLTZvWEhkekk1MDY5TlNnSEQ0blMtMjRDdmhrdE5pSFJGdnE0REZIbE1PRTRkVTVoU3pxVFlaUVdxTm5BRzZkTFBhNGRzMFVYa2owdXA1cUxWQ05EbnA1d1NLWl9lOHZEN3dNLXFhVTRyb2lBY2R2LUZYZm5ZbFJHd0wzd0xqSFF3VEExQnBHWlVzVXJvWFlJRVpUSGx4S0tQOUVrbWZmYjE1M1VQOHBMVFNkNmdKVXN4M0Y5Q2VuNkdkbExBVURGczRyaGpWQ2xQMmF4V214M3NZbklxbXVwbkhCLVJJdw?oc=5"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUWJmR3ZJXzZ3MkJJSWFYT25EenN4b0ZWeXBWdXM1LU5MQzlFQmlzSE8xQnZpbFh1WF9TOTliSXBFaDZyWmpJbjhhRWFDajBxbEdsb19fek5fNFB3SXd1UHhFM1FON0NoLWJqZk1EU0t0a0hHMXRla2tVSWVUcFljSGUxRkloN3VRaXBVQg?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-10-09-e9134007ca31",
       "original_title": "FinancialJuice: US Treasury Secretary Bessent may skip APEC in Hong Kong",
       "published_at": "2026-10-09T07:02:39Z",
@@ -1179,6 +1689,26 @@
       "evidence": [
         {
           "headline": "Live updates: Bitcoin steadies near $83,000 as crypto recovers from Thursday selloff",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-f8c8c494fe12",
+      "original_title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
+      "published_at": "2026-10-09T06:51:32Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
           "source": "CoinDesk",
           "snippet": "",
           "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows"
@@ -1320,12 +1850,6 @@
           "source": "www.victoriannews.com.au",
           "snippet": "Trump says US will not resume military strikes on Iran before US midterm elections &nbsp;&nbsp; www.victoriannews.com.au",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcG1QNDU1RVA4Skd2RWdxM1Voa1lQLWJYNmlEX00wdVE0QjFlRVcydkRldHNQaS1BeXlXSG5KcDhYOE1wYnVKUGtndUdrazl1VTk4dFRsQVJkcFZITHBVQUFyOThhSXZlZG5EcVlWQURXcjh5ODE0S3lHOXVxS25uSTNHQlFyMkRMTzdKdGFFYXFuTDc3SGpBNHY5NkhQdzNfN2laRHZzbmh2RVdIT0NDVVVsQ2daV2Jvb1JickNKX1lGNS1KOUpiRmNob2RYeHBlSk9Vdy1wY2JZNEVJdkE?oc=5"
-        },
-        {
-          "headline": "Trump rules out US attack on Iran before midterm elections",
-          "source": "Daily Times",
-          "snippet": "Trump rules out US attack on Iran before midterm elections &nbsp;&nbsp; Daily Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmVmQ0lyenVKVDhCeFpvamt6akFpTUd5aTM4YTRpQ2NsRjExb3ZJR3VUS3I1UUFKUE5YTjZ5LUR0OHBJQUhLazQwZ3R2NkU0QjB6NEQ0T2RGMjFlMHpqc2tLUW1ZVmt6Si1ma0NtWUM5X3A0aFA3dl83NU8weFYzMlRFTGktLUVGMV9JeWg3U2NLa1FLNmtRMQ?oc=5"
         }
       ],
       "sources": [
@@ -1344,10 +1868,6 @@
         {
           "name": "www.victoriannews.com.au",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcG1QNDU1RVA4Skd2RWdxM1Voa1lQLWJYNmlEX00wdVE0QjFlRVcydkRldHNQaS1BeXlXSG5KcDhYOE1wYnVKUGtndUdrazl1VTk4dFRsQVJkcFZITHBVQUFyOThhSXZlZG5EcVlWQURXcjh5ODE0S3lHOXVxS25uSTNHQlFyMkRMTzdKdGFFYXFuTDc3SGpBNHY5NkhQdzNfN2laRHZzbmh2RVdIT0NDVVVsQ2daV2Jvb1JickNKX1lGNS1KOUpiRmNob2RYeHBlSk9Vdy1wY2JZNEVJdkE?oc=5"
-        },
-        {
-          "name": "Daily Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmVmQ0lyenVKVDhCeFpvamt6akFpTUd5aTM4YTRpQ2NsRjExb3ZJR3VUS3I1UUFKUE5YTjZ5LUR0OHBJQUhLazQwZ3R2NkU0QjB6NEQ0T2RGMjFlMHpqc2tLUW1ZVmt6Si1ma0NtWUM5X3A0aFA3dl83NU8weFYzMlRFTGktLUVGMV9JeWg3U2NLa1FLNmtRMQ?oc=5"
         }
       ]
     },
@@ -1448,6 +1968,36 @@
         {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-09-9ac7dc2ff85f",
+      "original_title": "Trump says US won't strike Iran before midterms as blockade continues - 13WHAM-TV",
+      "published_at": "2026-10-09T02:30:38Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Trump says US won't strike Iran before midterms as blockade continues - 13WHAM-TV",
+          "source": "13WHAM-TV",
+          "snippet": "Trump says US won't strike Iran before midterms as blockade continues &nbsp;&nbsp; 13WHAM-TV",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNaEFyRVl4MGR5aWRFNWhwUzZSMHVIbEJUYTVDV0pXVFdpN25tcV80UkRVcUVWMnZkNlFuY0oxNVJDTUVSS1g3ZEJ2TXJpTnNWTGR6UUgwU241Q29hVjNCbGlYQndUeDFYUGM4Y2JSdUExSEplRlBuR0wydFpsQVp4RGJ6eDVIRzNIaUwta3VXUUl6bHgwdlFXOHozTkRzQkFLc2Z0bkdnWElNSGpFS2x6MmxWdEtiTHNpLXRfUmE1ZmxCYXBINDBLT2F6S29JeU9iTUdtbVJWaW01emJLMHBCYXhxSGhHZjAzYjJ3TVpIRGlDdWNaRU0ySW9Ed0JXdC1qUHBGOU03UWM4T3hFUnY1V3dGU2dGNDF5MHJka1FNVUlVb0d2cWxVOV9KMzM3cElqb2hyMlhDdm0?oc=5"
+        },
+        {
+          "headline": "Trump says US won't strike Iran before midterms as blockade continues",
+          "source": "WTOV",
+          "snippet": "Trump says US won't strike Iran before midterms as blockade continues &nbsp;&nbsp; WTOV",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPdDAwb3NTRmd2ZldWN0dvVjAxNFVGcUE0MlJvNHBtUnF1dDN6R2t0T2kwRnVsWE1CcUVxV09kY0tiNmFHN2Eyb0ZSdFpBS1NMcEpTRlJYXzg0aGY0dGVLa0ZZRW1WRF9aNnRJQ3ZWMXNEOUJWaWV2VURhVlA4dFlSemVNOTR0MlA5ZE1JTTZQM0JvalZ6Rk95Tm13cTRaSmNUdGY3Y3NxcmlNLUI3bmljNXZtVUh4dHd1UUNRSkZERHNTbWR3VGlVRWFyYTBVTEZJWnFRYnNiMnAwQUtfSGRpOTdkcV9jdFkwSm8zeFR3VE9MYjdSamstQk5IMG5FZGpnd1ZWQkk5NnQzV2d0eWtlUXgydXZjZEYyNXlwSGNYUFlOSEVkTnl1YVdPOWYtVXl3aVZTckdDTQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "13WHAM-TV",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNaEFyRVl4MGR5aWRFNWhwUzZSMHVIbEJUYTVDV0pXVFdpN25tcV80UkRVcUVWMnZkNlFuY0oxNVJDTUVSS1g3ZEJ2TXJpTnNWTGR6UUgwU241Q29hVjNCbGlYQndUeDFYUGM4Y2JSdUExSEplRlBuR0wydFpsQVp4RGJ6eDVIRzNIaUwta3VXUUl6bHgwdlFXOHozTkRzQkFLc2Z0bkdnWElNSGpFS2x6MmxWdEtiTHNpLXRfUmE1ZmxCYXBINDBLT2F6S29JeU9iTUdtbVJWaW01emJLMHBCYXhxSGhHZjAzYjJ3TVpIRGlDdWNaRU0ySW9Ed0JXdC1qUHBGOU03UWM4T3hFUnY1V3dGU2dGNDF5MHJka1FNVUlVb0d2cWxVOV9KMzM3cElqb2hyMlhDdm0?oc=5"
+        },
+        {
+          "name": "WTOV",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPdDAwb3NTRmd2ZldWN0dvVjAxNFVGcUE0MlJvNHBtUnF1dDN6R2t0T2kwRnVsWE1CcUVxV09kY0tiNmFHN2Eyb0ZSdFpBS1NMcEpTRlJYXzg0aGY0dGVLa0ZZRW1WRF9aNnRJQ3ZWMXNEOUJWaWV2VURhVlA4dFlSemVNOTR0MlA5ZE1JTTZQM0JvalZ6Rk95Tm13cTRaSmNUdGY3Y3NxcmlNLUI3bmljNXZtVUh4dHd1UUNRSkZERHNTbWR3VGlVRWFyYTBVTEZJWnFRYnNiMnAwQUtfSGRpOTdkcV9jdFkwSm8zeFR3VE9MYjdSamstQk5IMG5FZGpnd1ZWQkk5NnQzV2d0eWtlUXgydXZjZEYyNXlwSGNYUFlOSEVkTnl1YVdPOWYtVXl3aVZTckdDTQ?oc=5"
         }
       ]
     },
@@ -1762,582 +2312,22 @@
       ]
     },
     {
-      "stable_id": "2026-10-08-08e0ef5ae43a",
-      "original_title": "한때 위대했던 미네소타주가 소말리아 이민자들에게 장악당하고 있습니다. 주 전역에서 폭력과 살인, 극심한 혼란이 벌어지고 있습니다. 미네소타 주민들은 맞서 싸워야 합니다. 여러분은 주정부로부터 모든 것을 빼앗기고 버림받았습니다. 여러분의 주지사는 문제에 개입하고 싶어 하지 않는 무능한 도둑에 불과합니다. 그는 그저 가능한 한 많은 것을 훔쳐 도시를 빠져나간 뒤 조용히 살아가기만을 원할 뿐입니다",
-      "published_at": "2026-10-08T20:58:15Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "한때 위대했던 미네소타주가 소말리아 이민자들에게 장악당하고 있습니다. 주 전역에서 폭력과 살인, 극심한 혼란이 벌어지고 있습니다. 미네소타 주민들은 맞서 싸워야 합니다. 여러분은 주정부로부터 모든 것을 빼앗기고 버림받았습니다. 여러분의 주지사는 문제에 개입하고 싶어 하지 않는 무능한 도둑에 불과합니다. 그는 그저 가능한 한 많은 것을 훔쳐 도시를 빠져나간 뒤 조용히 살아가기만을 원할 뿐입니다",
-          "source": "Telegram @goddessTTF",
-          "snippet": "한때 위대했던 미네소타주가 소말리아 이민자들에게 장악당하고 있습니다. 주 전역에서 폭력과 살인, 극심한 혼란이 벌어지고 있습니다. 미네소타 주민들은 맞서 싸워야 합니다. 여러분은 주정부로부터 모든 것을 빼앗기고 버림받았습니다. 여러분의 주지사는 문제에 개입하고 싶어 하지 않는 무능한 도둑에 불과합니다. 그는 그저 가능한 한 많은 것을 훔쳐 도시를 빠져나간 뒤 조용히 살아가기만을 원할 뿐입니다. 소말리아인들이 저지르고 있는 일들을 그대로 용인해서는 안 됩니다. 그들은 여러분을 나약하고 어리석은 사람들로 보고 있습니다. 맞서 싸우십시오, 미네소타여, 맞서 싸우십시오! 필요하다면 연방정부가 여러분을 구하러 갈 것입니다. 팀 월즈 주지사와 제이콥 프레이 미니애폴리스 시장은 즉각 연방정부에 지원을 요청해야 합니다. 나머지는 우리에게 맡기십시오! 도널드 J. 트럼프 대통령",
-          "url": "https://t.me/goddessTTF/85415"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/85415"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-c163af703a1b",
-      "original_title": "뉴욕 타임스(NYT)에 따르면, 전쟁부는 이란의 미사일 및 드론 비축 시설, 에너지 시설, 그리고 이란 혁명 수비대(IRGC) 시설을 목표로 하는 강도 높은 3일간의 군사 작전 계획을 수립했습니다. 트럼프 대통령은 아직 공격을 승인하지 않았으며, 미국 중간 선거 전에 공격을 감행하지 않을 것이라고 밝혔습니다.",
-      "published_at": "2026-10-08T20:56:35Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "뉴욕 타임스(NYT)에 따르면, 전쟁부는 이란의 미사일 및 드론 비축 시설, 에너지 시설, 그리고 이란 혁명 수비대(IRGC) 시설을 목표로 하는 강도 높은 3일간의 군사 작전 계획을 수립했습니다. 트럼프 대통령은 아직 공격을 승인하지 않았으며, 미국 중간 선거 전에 공격을 감행하지 않을 것이라고 밝혔습니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "뉴욕 타임스(NYT)에 따르면, 전쟁부는 이란의 미사일 및 드론 비축 시설, 에너지 시설, 그리고 이란 혁명 수비대(IRGC) 시설을 목표로 하는 강도 높은 3일간의 군사 작전 계획을 수립했습니다. 트럼프 대통령은 아직 공격을 승인하지 않았으며, 미국 중간 선거 전에 공격을 감행하지 않을 것이라고 밝혔습니다.",
-          "url": "https://t.me/goddessTTF/85414"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/85414"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-434f94f6231a",
-      "original_title": "Fed's Musalem says tighter monetary policy needed to lower inflation",
-      "published_at": "2026-10-08T20:48:43Z",
+      "stable_id": "2026-10-08-d60b2cf44d26",
+      "original_title": "TSX rebounds from 2-1/2-month low as oil climbs",
+      "published_at": "2026-10-08T21:13:35Z",
       "discovery_source": "news",
       "evidence": [
         {
-          "headline": "Fed's Musalem says tighter monetary policy needed to lower inflation",
+          "headline": "TSX rebounds from 2-1/2-month low as oil climbs",
           "source": "Reuters",
-          "snippet": "Fed's Musalem says tighter monetary policy needed to lower inflation &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGVSNzFYTFV0aklwQnlYM3lyV3NMY0FmNi1QUFQ4b1A5bmNkZ01LMkdVZ3NmdmI0SFVRZXM4V1BjN1JOcHE3bTJQQUczbF9ESGI1VUM5ZklBZXFqSUpFQlZLazhaUU5BNjUyTVFDMEtmdHhqOU12WjJMM2ZDNzdscVU5NUl6d1BuV2k4ZWVBblZGaFVoVWxReFlIUFdOU09KempHczB4bnl2SFBabnkwMGJR?oc=5"
+          "snippet": "TSX rebounds from 2-1/2-month low as oil climbs &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMURBa1EzTS1kYXJzazFMY01tLXVTT3NzWHdCdzJ1dHdNTl9USVJxNms5S3liSWpXZ3NkalVUQ1k5WkNKNnNNNFZYQUFQS3c4TVlUdGFsczV1dnVUemJiTnV6YVU1TU1ZYnlZQmZidlJsN2wydXpBMTE4QmNKMVZhQi1QNEw3YmZsdzlUVlk1YTUxYWJ4WWZVVXB3?oc=5"
         }
       ],
       "sources": [
         {
           "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGVSNzFYTFV0aklwQnlYM3lyV3NMY0FmNi1QUFQ4b1A5bmNkZ01LMkdVZ3NmdmI0SFVRZXM4V1BjN1JOcHE3bTJQQUczbF9ESGI1VUM5ZklBZXFqSUpFQlZLazhaUU5BNjUyTVFDMEtmdHhqOU12WjJMM2ZDNzdscVU5NUl6d1BuV2k4ZWVBblZGaFVoVWxReFlIUFdOU09KempHczB4bnl2SFBabnkwMGJR?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-fe90cd7f458f",
-      "original_title": "FinancialJuice: The Pentagon drew plans to strike Iran's drone and missile arsenal",
-      "published_at": "2026-10-08T20:45:23Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: The Pentagon drew plans to strike Iran's drone and missile arsenal",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797893/The-Pentagon-drew-plans-to-strike-Irans-drone-and-missile-arsenal---NYT.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797893/The-Pentagon-drew-plans-to-strike-Irans-drone-and-missile-arsenal---NYT.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-ab90796cab93",
-      "original_title": "FinancialJuice: Three aircraft carriers will soon be in the Middle East",
-      "published_at": "2026-10-08T20:43:11Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Three aircraft carriers will soon be in the Middle East",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797888/Three-aircraft-carriers-will-soon-be-in-the-Middle-East---NYT.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797888/Three-aircraft-carriers-will-soon-be-in-the-Middle-East---NYT.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-d2b6944fc680",
-      "original_title": "FinancialJuice: Pentagon draws up new plan for 3 days of Iran strikes",
-      "published_at": "2026-10-08T20:42:59Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Pentagon draws up new plan for 3 days of Iran strikes",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797887/Pentagon-draws-up-new-plan-for-3-days-of-Iran-strikes---NYT.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797887/Pentagon-draws-up-new-plan-for-3-days-of-Iran-strikes---NYT.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-b32d36b70ca9",
-      "original_title": "FinancialJuice: Pentagon draws up new Iran strike plans as Trump hesitates",
-      "published_at": "2026-10-08T20:42:41Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Pentagon draws up new Iran strike plans as Trump hesitates",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797886/Pentagon-draws-up-new-Iran-strike-plans-as-Trump-hesitates---NYT.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797886/Pentagon-draws-up-new-Iran-strike-plans-as-Trump-hesitates---NYT.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-d885594f0a57",
-      "original_title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money launde",
-      "published_at": "2026-10-08T20:30:00Z",
-      "discovery_source": "federal_reserve",
-      "evidence": [
-        {
-          "headline": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money launde",
-          "source": "Federal Reserve",
-          "snippet": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Federal Reserve",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-16429bfe6216",
-      "original_title": "FinancialJuice: Explosions in southern Strait of Hormuz apparently caused by tankers violating regulations striking mines",
-      "published_at": "2026-10-08T20:17:47Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Explosions in southern Strait of Hormuz apparently caused by tankers violating regulations striking mines",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797867/Explosions-in-southern-Strait-of-Hormuz-apparently-caused-by-tankers-violating-regulations-striking-mines---IRIB-News-citing-sources.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797867/Explosions-in-southern-Strait-of-Hormuz-apparently-caused-by-tankers-violating-regulations-striking-mines---IRIB-News-citing-sources.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-23a7da1d733a",
-      "original_title": "FinancialJuice: Iran's President Pezeshkian: Proposals exchanged through intermediaries will be finalized and presented to US side",
-      "published_at": "2026-10-08T20:16:39Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's President Pezeshkian: Proposals exchanged through intermediaries will be finalized and presented to US side",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797863/Irans-President-Pezeshkian-Proposals-exchanged-through-intermediaries-will-be-finalized-and-presented-to-US-side---ISNA.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797863/Irans-President-Pezeshkian-Proposals-exchanged-through-intermediaries-will-be-finalized-and-presented-to-US-side---ISNA.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-ec0757d4765f",
-      "original_title": "FinancialJuice: Iran's President Pezeshkian: We will not withdraw from the negotiation table",
-      "published_at": "2026-10-08T20:15:50Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's President Pezeshkian: We will not withdraw from the negotiation table",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797857/Irans-President-Pezeshkian-We-will-not-withdraw-from-the-negotiation-table---ISNA.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797857/Irans-President-Pezeshkian-We-will-not-withdraw-from-the-negotiation-table---ISNA.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-fc0e48d8efde",
-      "original_title": "WTO raises merchandise trade growth forecast to 3.9% as AI boom offsets hit from Middle East",
-      "published_at": "2026-10-08T20:04:53Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "WTO raises merchandise trade growth forecast to 3.9% as AI boom offsets hit from Middle East",
-          "source": "The Washington Post",
-          "snippet": "WTO raises merchandise trade growth forecast to 3.9% as AI boom offsets hit from Middle East &nbsp;&nbsp; The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHBmNjI3QlpPUHlFR3FULUhHNnZVVE1XXzhsMzVUTWpPQy14SURSMXZ5Z2VoQVBraWpIc05ZLWNTVGUwTGU0a2hiM0xQU1ppeXlaWHZSZGFvNFRTUTI5SzNtZ21KZ3FsOFlud2dKMFY4a1FubXZPeVN6ZzVZSFRWWkxkNEtldkU4X1FqTk1EUW9iTVdzNHBpRFFxM0tCQTNpQVRGb3dZR2RfdmhUWnJyOHVSQ3A0TXJHWThWRmFiTF9wMEtoX3FzazlUcnY?oc=5"
-        },
-        {
-          "headline": "WTO raises merchandise trade growth forecast to 3.9% as AI boom offsets hit from Middle East",
-          "source": "Stamford Advocate",
-          "snippet": "WTO raises merchandise trade growth forecast to 3.9% as AI boom offsets hit from Middle East &nbsp;&nbsp; Stamford Advocate",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGFIaVJIX1NldDR3VnpCb0Z5XzFkczNfRXptcTRxaEZxOExzRzdocE5GQkpNRHNqUW4taW1xRHJRUDFzcDRuajNPbXlLb0V3Y1U1UFloR0hCSWRiRTB5aWI0SnpWT1dlQlJnRWdNMHo5OHdSNWpYYlpuaGozQ0hFT2lCQUM2VTB3ZU5OQXBiWGZCcGdrcmRzRkV4dzhMT3hkem51cURZNzNQbmlSOFEySGx3?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHBmNjI3QlpPUHlFR3FULUhHNnZVVE1XXzhsMzVUTWpPQy14SURSMXZ5Z2VoQVBraWpIc05ZLWNTVGUwTGU0a2hiM0xQU1ppeXlaWHZSZGFvNFRTUTI5SzNtZ21KZ3FsOFlud2dKMFY4a1FubXZPeVN6ZzVZSFRWWkxkNEtldkU4X1FqTk1EUW9iTVdzNHBpRFFxM0tCQTNpQVRGb3dZR2RfdmhUWnJyOHVSQ3A0TXJHWThWRmFiTF9wMEtoX3FzazlUcnY?oc=5"
-        },
-        {
-          "name": "Stamford Advocate",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGFIaVJIX1NldDR3VnpCb0Z5XzFkczNfRXptcTRxaEZxOExzRzdocE5GQkpNRHNqUW4taW1xRHJRUDFzcDRuajNPbXlLb0V3Y1U1UFloR0hCSWRiRTB5aWI0SnpWT1dlQlJnRWdNMHo5OHdSNWpYYlpuaGozQ0hFT2lCQUM2VTB3ZU5OQXBiWGZCcGdrcmRzRkV4dzhMT3hkem51cURZNzNQbmlSOFEySGx3?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-ed23d432ce1c",
-      "original_title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-      "published_at": "2026-10-08T19:46:15Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-68313d02d3ac",
-      "original_title": "FinancialJuice: Kremlin Spokesman Peskov: Russia agrees with US Secretary of State Rubio that the Ukraine conflict is in a stalemate.",
-      "published_at": "2026-10-08T19:32:07Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Kremlin Spokesman Peskov: Russia agrees with US Secretary of State Rubio that the Ukraine conflict is in a stalemate.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797806/Kremlin-Spokesman-Peskov-Russia-agrees-with-US-Secretary-of-State-Rubio-that-the-Ukraine-conflict-is-in-a-stalemate.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797806/Kremlin-Spokesman-Peskov-Russia-agrees-with-US-Secretary-of-State-Rubio-that-the-Ukraine-conflict-is-in-a-stalemate.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-46737333f613",
-      "original_title": "가짜·조작 언론 놈들이 내가 적들에게 샌디에이고와 로스앤젤레스를 폭격하라고 부추기고 있다는 헛소리를 지껄이고 있습니다. 하지만 실제로 내가 말한 것은, 이란이 핵무기를 갖지 못하게 막는 대가로 기름값이 일시적으로 조금 오르는 것은 아주 사소한 대가에 불과하다는 뜻이었습니다. 진짜 엄청난 대가가 무엇인지 보고 싶다면, 그들이 샌디에이고나 로스앤젤레스를 폭격했을 때 어떤 일이 벌어질지 상상이나 ",
-      "published_at": "2026-10-08T19:18:42Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "가짜·조작 언론 놈들이 내가 적들에게 샌디에이고와 로스앤젤레스를 폭격하라고 부추기고 있다는 헛소리를 지껄이고 있습니다. 하지만 실제로 내가 말한 것은, 이란이 핵무기를 갖지 못하게 막는 대가로 기름값이 일시적으로 조금 오르는 것은 아주 사소한 대가에 불과하다는 뜻이었습니다. 진짜 엄청난 대가가 무엇인지 보고 싶다면, 그들이 샌디에이고나 로스앤젤레스를 폭격했을 때 어떤 일이 벌어질지 상상이나 ",
-          "source": "Telegram @goddessTTF",
-          "snippet": "가짜·조작 언론 놈들이 내가 적들에게 샌디에이고와 로스앤젤레스를 폭격하라고 부추기고 있다는 헛소리를 지껄이고 있습니다. 하지만 실제로 내가 말한 것은, 이란이 핵무기를 갖지 못하게 막는 대가로 기름값이 일시적으로 조금 오르는 것은 아주 사소한 대가에 불과하다는 뜻이었습니다. 진짜 엄청난 대가가 무엇인지 보고 싶다면, 그들이 샌디에이고나 로스앤젤레스를 폭격했을 때 어떤 일이 벌어질지 상상이나 해보셨습니까? 내가 한 말의 전부는 기름값을 얼마 동안 조금 더 내는 것과 우리 주요 대도시들이 폭격당하는 것을 서로 비교한 것뿐이었습니다. 모든 사람이 그 뜻을 알았고 가짜 뉴스들도 뻔히 알면서도, 여전히 저들은 내가 사랑하는 두 도시를 적더러 폭격해 달라고 부탁했다며 날조를 일삼고 있습니다. 내 말은 완벽하게 명확합니다. 하지만 이 타락한 자들은 가짜 뉴스를 퍼뜨리고도 언제까지나 무사히 넘어갈 수 있다고 착각하고 있습니다! 도널드 J. 트럼프 대통령",
-          "url": "https://t.me/goddessTTF/85411"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/85411"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-719962e28290",
-      "original_title": "FinancialJuice: Anthropic is launching a new cybersecurity initiative",
-      "published_at": "2026-10-08T19:03:55Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Anthropic is launching a new cybersecurity initiative",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797781/Anthropic-is-launching-a-new-cybersecurity-initiative---Axios.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797781/Anthropic-is-launching-a-new-cybersecurity-initiative---Axios.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-a39c98d8f938",
-      "original_title": "Fed’s Musalem says lowering inflation will require more rate hikes By Reuters",
-      "published_at": "2026-10-08T19:01:33Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Fed’s Musalem says lowering inflation will require more rate hikes By Reuters",
-          "source": "Investing.com",
-          "snippet": "Fed’s Musalem says lowering inflation will require more rate hikes By Reuters &nbsp;&nbsp; Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUFfNnlDMjFldUV0OEE1RW5FZUNQRzZRWUw4a2lfYnlCSGt3ZHdpQ0R6NUdiUWJfNTlkQ1RTXzAzUXFvRW9Ncm1QUWZRUVB0NDVjRzIxc1Qtd0ZFT3RYN2JBQTZCSXpoQXE5MzNia0JNS1dtZ2RVM2YyRkdxczBtaVRmdVNldG9rbWtZMDVFUHpOcW1zemtzZ19acFJ0SEpRUldmX1B4MWVTS1FjSWVJVERra1RESHhQ?oc=5"
-        },
-        {
-          "headline": "Fed's Musalem says lowering inflation will require more rate hikes",
-          "source": "MSN",
-          "snippet": "Fed's Musalem says lowering inflation will require more rate hikes &nbsp;&nbsp; MSN",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb2Y1a1d3cTN0N1NYNFBWaVV3ZnY2NnNJWV9DMFg5UGxiX2d1ek1KLUFvbUd5a3RyS0dvUmdQUDhhQ3NCa04yYXZRbVdaVGxDU1doaE5DRi02X0k1Y1FzT3lyWU4zSUd2R3Rnc2M1ZDhRaXhDRUd1VmpNcnRhRnZOeWZScnRkLWVVY1pIT19SRkRid3VNTWcyVEV0WEd4N3Y4NTJmWW1KdG5WanFERHV2Rno1c0FSTi1odC11UUxCZ1VyV3p3N2VZSy1KVVNBdXlVaGNINWRSSjF1MHli?oc=5"
-        },
-        {
-          "headline": "Fed's Musalem says lowering inflation will require more rate hikes",
-          "source": "Reuters",
-          "snippet": "Fed's Musalem says lowering inflation will require more rate hikes &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGVSNzFYTFV0aklwQnlYM3lyV3NMY0FmNi1QUFQ4b1A5bmNkZ01LMkdVZ3NmdmI0SFVRZXM4V1BjN1JOcHE3bTJQQUczbF9ESGI1VUM5ZklBZXFqSUpFQlZLazhaUU5BNjUyTVFDMEtmdHhqOU12WjJMM2ZDNzdscVU5NUl6d1BuV2k4ZWVBblZGaFVoVWxReFlIUFdOU09KempHczB4bnl2SFBabnkwMGJR?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUFfNnlDMjFldUV0OEE1RW5FZUNQRzZRWUw4a2lfYnlCSGt3ZHdpQ0R6NUdiUWJfNTlkQ1RTXzAzUXFvRW9Ncm1QUWZRUVB0NDVjRzIxc1Qtd0ZFT3RYN2JBQTZCSXpoQXE5MzNia0JNS1dtZ2RVM2YyRkdxczBtaVRmdVNldG9rbWtZMDVFUHpOcW1zemtzZ19acFJ0SEpRUldmX1B4MWVTS1FjSWVJVERra1RESHhQ?oc=5"
-        },
-        {
-          "name": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb2Y1a1d3cTN0N1NYNFBWaVV3ZnY2NnNJWV9DMFg5UGxiX2d1ek1KLUFvbUd5a3RyS0dvUmdQUDhhQ3NCa04yYXZRbVdaVGxDU1doaE5DRi02X0k1Y1FzT3lyWU4zSUd2R3Rnc2M1ZDhRaXhDRUd1VmpNcnRhRnZOeWZScnRkLWVVY1pIT19SRkRid3VNTWcyVEV0WEd4N3Y4NTJmWW1KdG5WanFERHV2Rno1c0FSTi1odC11UUxCZ1VyV3p3N2VZSy1KVVNBdXlVaGNINWRSSjF1MHli?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGVSNzFYTFV0aklwQnlYM3lyV3NMY0FmNi1QUFQ4b1A5bmNkZ01LMkdVZ3NmdmI0SFVRZXM4V1BjN1JOcHE3bTJQQUczbF9ESGI1VUM5ZklBZXFqSUpFQlZLazhaUU5BNjUyTVFDMEtmdHhqOU12WjJMM2ZDNzdscVU5NUl6d1BuV2k4ZWVBblZGaFVoVWxReFlIUFdOU09KempHczB4bnl2SFBabnkwMGJR?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-b24cc4c3a82a",
-      "original_title": "Trump rules out US attack on Iran before midterm elections",
-      "published_at": "2026-10-08T18:46:15Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Trump rules out US attack on Iran before midterm elections",
-          "source": "Daily Times",
-          "snippet": "Trump rules out US attack on Iran before midterm elections &nbsp;&nbsp; Daily Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmVmQ0lyenVKVDhCeFpvamt6akFpTUd5aTM4YTRpQ2NsRjExb3ZJR3VUS3I1UUFKUE5YTjZ5LUR0OHBJQUhLazQwZ3R2NkU0QjB6NEQ0T2RGMjFlMHpqc2tLUW1ZVmt6Si1ma0NtWUM5X3A0aFA3dl83NU8weFYzMlRFTGktLUVGMV9JeWg3U2NLa1FLNmtRMQ?oc=5"
-        },
-        {
-          "headline": "Trump says US will not attack Iran before November’s midterm elections",
-          "source": "South China Morning Post",
-          "snippet": "Trump says US will not attack Iran before November’s midterm elections &nbsp;&nbsp; South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORTMtSHJ4VFcxVnkzd1dWZm8yZTZ2U0RKdC1sbVFuZWo3ZjdVd1ZkUFQ5ZXRYSmxOUkFDWEVlVWdOaHNFbmprYU5GUEFBMkZNWUloSkMzRjR5SkxCZnFDMDRsLVlrU2stTDJDV2MxZmVyV0VkQlBBR0xVR0M4a1FLVno4eFpsdzRwRXNHOXlWYVhwSm9PRThvWlhRbUFIRXdQRk51alRzQ3hlb3hPSGpvY19sUlAzT2s0Rmw4MUNKNmhWWTVLaUN6VWlITdIBywFBVV95cUxPT3Y3QlotVlZnTWdlaC1nT1czZi1JWklaRm9RUENxbHNMaEljckVsanRRY2hWQVVRQndVMksxdnRyel9TazF0dXdFeGNjSkRSSUlZdEdTZGVza0h3VW9Pa2xlUzduM1ZqVTl3OFJBX3VYMUJKRnliTGg2U2JXUVpnbFRkS2JlbEFBbTRZWGE2bzJ0Q19Qd2NoWGhwVEpDQTJZSUVlM2JWNkFMX2lpX2pVVkZBTlRvX0h5bVk4NWNXSXY0QkFDcGRJbXg5dw?oc=5"
-        },
-        {
-          "headline": "Trump Says US Won’t Attack Iran Before Midterm Elections",
-          "source": "Bloomberg.com",
-          "snippet": "Trump Says US Won’t Attack Iran Before Midterm Elections &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDhxR0dqUFA0azE1VWJaVzJNckpWSDRZVUU1eVdac0V1VXlIYTNtTHhZZ2R2eDBjUlRZNkZ1elppSVptYXE4T3FKZkdSNDRBTDFFNDVaeUVWa2hva3huNlNxXzJFU20yZHR4ZUxzM1lUM0d2MzJTUGlvV2ZmWklzNk9uM3kyMDB3MjBOeTdIbEhLOFhjSEI3d0hSaXJEeGdfQk1uc0psR1MzaGFBNFhYUUxINExPQQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Daily Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmVmQ0lyenVKVDhCeFpvamt6akFpTUd5aTM4YTRpQ2NsRjExb3ZJR3VUS3I1UUFKUE5YTjZ5LUR0OHBJQUhLazQwZ3R2NkU0QjB6NEQ0T2RGMjFlMHpqc2tLUW1ZVmt6Si1ma0NtWUM5X3A0aFA3dl83NU8weFYzMlRFTGktLUVGMV9JeWg3U2NLa1FLNmtRMQ?oc=5"
-        },
-        {
-          "name": "South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORTMtSHJ4VFcxVnkzd1dWZm8yZTZ2U0RKdC1sbVFuZWo3ZjdVd1ZkUFQ5ZXRYSmxOUkFDWEVlVWdOaHNFbmprYU5GUEFBMkZNWUloSkMzRjR5SkxCZnFDMDRsLVlrU2stTDJDV2MxZmVyV0VkQlBBR0xVR0M4a1FLVno4eFpsdzRwRXNHOXlWYVhwSm9PRThvWlhRbUFIRXdQRk51alRzQ3hlb3hPSGpvY19sUlAzT2s0Rmw4MUNKNmhWWTVLaUN6VWlITdIBywFBVV95cUxPT3Y3QlotVlZnTWdlaC1nT1czZi1JWklaRm9RUENxbHNMaEljckVsanRRY2hWQVVRQndVMksxdnRyel9TazF0dXdFeGNjSkRSSUlZdEdTZGVza0h3VW9Pa2xlUzduM1ZqVTl3OFJBX3VYMUJKRnliTGg2U2JXUVpnbFRkS2JlbEFBbTRZWGE2bzJ0Q19Qd2NoWGhwVEpDQTJZSUVlM2JWNkFMX2lpX2pVVkZBTlRvX0h5bVk4NWNXSXY0QkFDcGRJbXg5dw?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDhxR0dqUFA0azE1VWJaVzJNckpWSDRZVUU1eVdac0V1VXlIYTNtTHhZZ2R2eDBjUlRZNkZ1elppSVptYXE4T3FKZkdSNDRBTDFFNDVaeUVWa2hva3huNlNxXzJFU20yZHR4ZUxzM1lUM0d2MzJTUGlvV2ZmWklzNk9uM3kyMDB3MjBOeTdIbEhLOFhjSEI3d0hSaXJEeGdfQk1uc0psR1MzaGFBNFhYUUxINExPQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-9680861102eb",
-      "original_title": "FinancialJuice: French Armed Forces Chief: Still studying several options with Saudi authorities to provide protection for Yanbu oil terminal",
-      "published_at": "2026-10-08T18:44:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: French Armed Forces Chief: Still studying several options with Saudi authorities to provide protection for Yanbu oil terminal",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797748/French-Armed-Forces-Chief-Still-studying-several-options-with-Saudi-authorities-to-provide-protection-for-Yanbu-oil-terminal.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797748/French-Armed-Forces-Chief-Still-studying-several-options-with-Saudi-authorities-to-provide-protection-for-Yanbu-oil-terminal.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-4ec301e0a3bb",
-      "original_title": "Greece Plans Crypto Capital Gains Tax: Report",
-      "published_at": "2026-10-08T18:42:24Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Greece Plans Crypto Capital Gains Tax: Report",
-          "source": "Bitcoin Magazine",
-          "snippet": "Greece Plans Crypto Capital Gains Tax: Report &nbsp;&nbsp; Bitcoin Magazine",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKcW1JYU5pelJjR1hnTUtXZjlNT284d0FaSEszR0xFM2hqWXpSMHRlUDd0UDZITXFkdzNCblkyT21UZnR6dHphZFFac00tOXlpemlmNVBVQUs2MDVGWHhjbURfT3NfbzUyWS02QmxGTk0weGVR?oc=5"
-        },
-        {
-          "headline": "Greece Moves to Introduce a 10% Capital Gains Tax on Crypto",
-          "source": "tovima.com",
-          "snippet": "Greece Moves to Introduce a 10% Capital Gains Tax on Crypto &nbsp;&nbsp; tovima.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTRaMlNSNkpYbGJhbldRSmlqZnRHSUdCLV96NDh0c0pkV2dkdHE1U2pQQ3AydEZSQk9MSWxDZmh6TGRLZUp1cTJpTm5jR3lyWXFqTWFLZDAyeF9lUjZtcmpBcG10ZFIyZUx4TWIydDlMaC1WSmdVSUNMQ1lwTm1vVzVITzM4X2RKbVpqa3hSUjhVMzlo0gGaAUFVX3lxTE4tY2lhNndWRnVBdFQyZUFkUlRNdGJxY0NheWxKakY4Tk1md3l6R0pjT213VHdhbGxwWU16Ny1PdlFhdUNKNVgzLUZjZjAtbmJnVnU3bXJaVTFmc1NVWm45OUhEUTNCdzlfbGlwWXI0OF9XOTNwdWpOWDBvd3hDaWxjdHhoOVFydnpCaEhYZ1Ayd3pfcEI3QzBDb3c?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bitcoin Magazine",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKcW1JYU5pelJjR1hnTUtXZjlNT284d0FaSEszR0xFM2hqWXpSMHRlUDd0UDZITXFkdzNCblkyT21UZnR6dHphZFFac00tOXlpemlmNVBVQUs2MDVGWHhjbURfT3NfbzUyWS02QmxGTk0weGVR?oc=5"
-        },
-        {
-          "name": "tovima.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTRaMlNSNkpYbGJhbldRSmlqZnRHSUdCLV96NDh0c0pkV2dkdHE1U2pQQ3AydEZSQk9MSWxDZmh6TGRLZUp1cTJpTm5jR3lyWXFqTWFLZDAyeF9lUjZtcmpBcG10ZFIyZUx4TWIydDlMaC1WSmdVSUNMQ1lwTm1vVzVITzM4X2RKbVpqa3hSUjhVMzlo0gGaAUFVX3lxTE4tY2lhNndWRnVBdFQyZUFkUlRNdGJxY0NheWxKakY4Tk1md3l6R0pjT213VHdhbGxwWU16Ny1PdlFhdUNKNVgzLUZjZjAtbmJnVnU3bXJaVTFmc1NVWm45OUhEUTNCdzlfbGlwWXI0OF9XOTNwdWpOWDBvd3hDaWxjdHhoOVFydnpCaEhYZ1Ayd3pfcEI3QzBDb3c?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-ddd65ac2a705",
-      "original_title": "Securitize launches blockchain-based stocks",
-      "published_at": "2026-10-08T18:37:43Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Securitize launches blockchain-based stocks",
-          "source": "Reuters",
-          "snippet": "Securitize launches blockchain-based stocks &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSEt2WnZrcG5aZ0p1c1lzY1V1VHFhM05oMWx6cDg2RFlYYUZjWThSWTB1alFCSE1kYzhEOHd2V21kQUVpLWZqTTZmMmVJc1MyZmYzVG85Qk1rRERYX09uZlU3VXpVanFnTjF3OGNzVmFBd2JsWUlVUF95YUhZUWt4Q21weThBRmRmVXhrclV5N3AtRFotMTEtTFZMYlM?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSEt2WnZrcG5aZ0p1c1lzY1V1VHFhM05oMWx6cDg2RFlYYUZjWThSWTB1alFCSE1kYzhEOHd2V21kQUVpLWZqTTZmMmVJc1MyZmYzVG85Qk1rRERYX09uZlU3VXpVanFnTjF3OGNzVmFBd2JsWUlVUF95YUhZUWt4Q21weThBRmRmVXhrclV5N3AtRFotMTEtTFZMYlM?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-e7e3fad20fe3",
-      "original_title": "FinancialJuice: Putin in meeting with Iran's President Pezeshkian: Russia stands with Iran in resolving the Middle East crisis",
-      "published_at": "2026-10-08T18:20:03Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Putin in meeting with Iran's President Pezeshkian: Russia stands with Iran in resolving the Middle East crisis",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797729/Putin-in-meeting-with-Irans-President-Pezeshkian-Russia-stands-with-Iran-in-resolving-the-Middle-East-crisis---Tasnim-News.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797729/Putin-in-meeting-with-Irans-President-Pezeshkian-Russia-stands-with-Iran-in-resolving-the-Middle-East-crisis---Tasnim-News.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-16bb0b4c08d3",
-      "original_title": "FinancialJuice: Venezuela's Rodriguez: Oil output up 8% YTD",
-      "published_at": "2026-10-08T18:16:51Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Venezuela's Rodriguez: Oil output up 8% YTD",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797725/Venezuelas-Rodriguez-Oil-output-up-8-YTD.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797725/Venezuelas-Rodriguez-Oil-output-up-8-YTD.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-558cccf2bf15",
-      "original_title": "Crypto crumbles as anniversary of flash crash nears",
-      "published_at": "2026-10-08T18:14:39Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Crypto crumbles as anniversary of flash crash nears",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-1bcedb788271",
-      "original_title": "FinancialJuice: US Treasury Debt Buyback",
-      "published_at": "2026-10-08T18:02:48Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Debt Buyback",
-          "source": "FinancialJuice",
-          "snippet": "Treasury accepts $6B of offers for buyback, matching max Treasury receives $14.886B of offers for buyback, accepts $6B Treasury accepts 10 of 34 eligible issues in debt buyback Treasury debt buyback targets coupons maturing in 2046–2056",
-          "url": "https://www.financialjuice.com/News/9797710/US-Treasury-Debt-Buyback.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797710/US-Treasury-Debt-Buyback.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-08-411edc9a831b",
-      "original_title": "FinancialJuice: Fed's Musalem: Important to keep government debt management and monetary policy seperate.",
-      "published_at": "2026-10-08T18:02:21Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Musalem: Important to keep government debt management and monetary policy seperate.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9797709/Feds-Musalem-Important-to-keep-government-debt-management-and-monetary-policy-seperate.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9797709/Feds-Musalem-Important-to-keep-government-debt-management-and-monetary-policy-seperate.aspx"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMURBa1EzTS1kYXJzazFMY01tLXVTT3NzWHdCdzJ1dHdNTl9USVJxNms5S3liSWpXZ3NkalVUQ1k5WkNKNnNNNFZYQUFQS3c4TVlUdGFsczV1dnVUemJiTnV6YVU1TU1ZYnlZQmZidlJsN2wydXpBMTE4QmNKMVZhQi1QNEw3YmZsdzlUVlk1YTUxYWJ4WWZVVXB3?oc=5"
         }
       ]
     }
