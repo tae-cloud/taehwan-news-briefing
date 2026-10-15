@@ -1,6 +1,466 @@
 {
-  "updated_at_kst": "2026-10-15T22:24:10+09:00",
+  "updated_at_kst": "2026-10-16T03:16:44+09:00",
   "items": [
+    {
+      "stable_id": "2026-10-15-1bcedb788271",
+      "original_title": "FinancialJuice: US Treasury Debt Buyback",
+      "published_at": "2026-10-15T18:03:31Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Treasury Debt Buyback",
+          "source": "FinancialJuice",
+          "snippet": "&nbsp;Treasury receives $40.836B of offers for buyback, accepts $6B &nbsp;Treasury accepts 3 of 42 eligible issues in debt buyback &nbsp;Treasury debt buyback targets coupons maturing in 2037–2046 &nbsp;Treasury accepts $6B of offers for buyback, matching max",
+          "url": "https://www.financialjuice.com/News/9807518/US-Treasury-Debt-Buyback.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807518/US-Treasury-Debt-Buyback.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-98ee484252e0",
+      "original_title": "FinancialJuice: Meta Releases Muse Spark Open $META",
+      "published_at": "2026-10-15T17:18:28Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Meta Releases Muse Spark Open $META",
+          "source": "FinancialJuice",
+          "snippet": "Meta is releasing the model weights under a license with limited commercial restrictions, allowing many developers to use the model for free. Muse Spark Open weights are available for download on Amazon SageMaker AI, Google Cloud Model Garden, Hugging Face and Microsoft Foundry Models. Muse Spark Open is available through API platforms including Baseten, Fireworks AI, Groq, Modal, Nebius, OpenRouter and Together AI. Muse Spark Open brings advanced agentic capabilities to desktop computers for the first time on Apple M5 Ultra Mac Studios. Muse Spark Open is an 816-billion-parameter sparse mixture-of-experts model that activates roughly 42 billion parameters per token, according to Meta's blog. Meta says Muse Spark Open is the open-weights version of Muse Spark.",
+          "url": "https://www.financialjuice.com/News/9807458/Meta-Releases-Muse-Spark-Open-META.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807458/Meta-Releases-Muse-Spark-Open-META.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-dc416663c78b",
+      "original_title": "Binance.US Seeks $100 Million to Expand Its Crypto Business",
+      "published_at": "2026-10-15T16:11:10Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Binance.US Seeks $100 Million to Expand Its Crypto Business",
+          "source": "Yahoo Finance UK",
+          "snippet": "Binance.US Seeks $100 Million to Expand Its Crypto Business &nbsp;&nbsp; Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaU4tcFI4VXRlMEhvQlotYWoybFY3SEFGcEM5VksycHlxSG1Ba01zMGN6MUR4MUlKdHQwdjUtaWgxdkJpZlpheGxaQ0h6WHNYQXlWLWtNSDA0MWpUSjdWWWFsSGl1bTV2cDRJM0FGZDZ4TDU3eDdULUpjeWRrTVlKUmM3cw?oc=5"
+        },
+        {
+          "headline": "Binance.US Seeks $100 Million to Expand Its Crypto Business",
+          "source": "Bloomberg.com",
+          "snippet": "Binance.US Seeks $100 Million to Expand Its Crypto Business &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUo5d3BmdGlWS205VzhPZDhQZWhLaFgta1FWTWh6X0Nlanh4ekptcjBuOUJReE1Bbk5tSEdNbGluaVFoblFkVldjbVUtQjk3MXJPZjFGdkRhQnl5MFpKVTgwRDR2YWlrYm9LRjVuTktleTBMejk1VUxzNXAxVGYwYTNjd243TVVza3NaaFBPcmxXdklGVUFHdFFib2lVdGlucnE1Q3Jvd0NWVTNlZXc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaU4tcFI4VXRlMEhvQlotYWoybFY3SEFGcEM5VksycHlxSG1Ba01zMGN6MUR4MUlKdHQwdjUtaWgxdkJpZlpheGxaQ0h6WHNYQXlWLWtNSDA0MWpUSjdWWWFsSGl1bTV2cDRJM0FGZDZ4TDU3eDdULUpjeWRrTVlKUmM3cw?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUo5d3BmdGlWS205VzhPZDhQZWhLaFgta1FWTWh6X0Nlanh4ekptcjBuOUJReE1Bbk5tSEdNbGluaVFoblFkVldjbVUtQjk3MXJPZjFGdkRhQnl5MFpKVTgwRDR2YWlrYm9LRjVuTktleTBMejk1VUxzNXAxVGYwYTNjd243TVVza3NaaFBPcmxXdklGVUFHdFFib2lVdGlucnE1Q3Jvd0NWVTNlZXc?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-d7f2e06e32be",
+      "original_title": "FinancialJuice: EIA Crude Oil Inventories Actual -8.557M (Forecast 0.15M, Previous -3.186M)",
+      "published_at": "2026-10-15T16:00:02Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: EIA Crude Oil Inventories Actual -8.557M (Forecast 0.15M, Previous -3.186M)",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9807346/EIA-Crude-Oil-Inventories-Actual--8557M-Forecast-015M-Previous--3186M.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807346/EIA-Crude-Oil-Inventories-Actual--8557M-Forecast-015M-Previous--3186M.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-07c5cfdbd974",
+      "original_title": "Bitcoin drops to one-month low of $80k as hot U.S. CPI spurs rate hike bets",
+      "published_at": "2026-10-15T15:52:57Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin drops to one-month low of $80k as hot U.S. CPI spurs rate hike bets",
+          "source": "Investing.com",
+          "snippet": "Bitcoin drops to one-month low of $80k as hot U.S. CPI spurs rate hike bets &nbsp;&nbsp; Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOG4tejRNdGU2WG12QjJMeVVwQzdMNXVxU3dQOEsweEtwOXYzX2l0VWRtWDFDaWZ1RHJzbTZ1eDM2SVNySDgxRjdoTER4SGlSX2QyZW9DSVZhTXlZX0p1RFpNSGpyWGFIUVJwQ2R4dG02Vk5ReFpsREtaazJGTDJkLTVUTERQV3ZXaTJnQUoxOXZRRVZVcDN2VHlaRVplMkxlbkNWRGtiSEZKX0xQN2d0WndjSnRkNEV6aWc?oc=5"
+        },
+        {
+          "headline": "Bitcoin falls to $81k as hot U.S. CPI spurs rate hike bets",
+          "source": "Investing.com India",
+          "snippet": "Bitcoin falls to $81k as hot U.S. CPI spurs rate hike bets &nbsp;&nbsp; Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHV5Y3I1b19CSDF4QTdTakY1ZTVvMHhwNEtOUHlRM29IQTV1V0x1RFl2SGdOMVZUWXVoOWNtYUJ6ZUVRbHlQTHhpME9wYllTV3h5RWZsLWNRcnFsYkt1UkpvUEFodWVGMlE2YkFsSVZTNzd6WHRlbWh1MXpIWW9mNmI2TDdUNFBnU3Q4MWt5dG0yejZ1Skc0N21HaVpsNnlYWGNTUnFUb1NuYl9vLS1aNHhjYzNVYkZf?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOG4tejRNdGU2WG12QjJMeVVwQzdMNXVxU3dQOEsweEtwOXYzX2l0VWRtWDFDaWZ1RHJzbTZ1eDM2SVNySDgxRjdoTER4SGlSX2QyZW9DSVZhTXlZX0p1RFpNSGpyWGFIUVJwQ2R4dG02Vk5ReFpsREtaazJGTDJkLTVUTERQV3ZXaTJnQUoxOXZRRVZVcDN2VHlaRVplMkxlbkNWRGtiSEZKX0xQN2d0WndjSnRkNEV6aWc?oc=5"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHV5Y3I1b19CSDF4QTdTakY1ZTVvMHhwNEtOUHlRM29IQTV1V0x1RFl2SGdOMVZUWXVoOWNtYUJ6ZUVRbHlQTHhpME9wYllTV3h5RWZsLWNRcnFsYkt1UkpvUEFodWVGMlE2YkFsSVZTNzd6WHRlbWh1MXpIWW9mNmI2TDdUNFBnU3Q4MWt5dG0yejZ1Skc0N21HaVpsNnlYWGNTUnFUb1NuYl9vLS1aNHhjYzNVYkZf?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-269e6c54858f",
+      "original_title": "Iran’s Army Says Oil Tanker on Fire in the Strait of Hormuz",
+      "published_at": "2026-10-15T15:49:17Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "Iran’s Army Says Oil Tanker on Fire in the Strait of Hormuz",
+          "source": "EnergyNow.com",
+          "snippet": "Iran’s Army Says Oil Tanker on Fire in the Strait of Hormuz &nbsp;&nbsp; EnergyNow.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGhGYXU5R3A3QURLVnFJel9QbEczUC1nS1ZVcGZjenRMaTROTWl1aHhJeG5ZdFFmYnhOZnFrMzBOV08tQWlFM0J2RGQtTDBqZEs2THhJQkFzUnJyT1B6VXJMeEZFVTVyanZxZm1KbGppSjJ1YWk3RHVrdVNPZFVKcjRpcTNGWmt0bGVtRkVCZ09jbzQ?oc=5"
+        },
+        {
+          "headline": "FinancialJuice: Iran's army navy: A 'violating' oil tanker is on fire in the eastern part of the Strait of Hormuz",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9807074/Irans-army-navy-A-violating-oil-tanker-is-on-fire-in-the-eastern-part-of-the-Strait-of-Hormuz---State-media.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "EnergyNow.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGhGYXU5R3A3QURLVnFJel9QbEczUC1nS1ZVcGZjenRMaTROTWl1aHhJeG5ZdFFmYnhOZnFrMzBOV08tQWlFM0J2RGQtTDBqZEs2THhJQkFzUnJyT1B6VXJMeEZFVTVyanZxZm1KbGppSjJ1YWk3RHVrdVNPZFVKcjRpcTNGWmt0bGVtRkVCZ09jbzQ?oc=5"
+        },
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807074/Irans-army-navy-A-violating-oil-tanker-is-on-fire-in-the-eastern-part-of-the-Strait-of-Hormuz---State-media.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-cba83b2e32ea",
+      "original_title": "트럼프 \"완전한 가짜뉴스\"…폴리티코 '와일스 비서실장 교체 검토' 보도 정면 일축 [공부의여신 네트워크] 트럼프 대통령이 수지 와일스 백악관 비서실장 교체를 검토하고 있다는 미 정치매체 폴리티코 보도를 \"완전한 가짜뉴스\"라며 정면으로 일축했다. 폴리티코는 15일(현지시간) 뉴스레터 플레이북에서 대화 내용을 직접 아는 4명을 인용해, 트럼프 대통령이 최근 측근들에게 와일스 실장에 대한 의견을 ",
+      "published_at": "2026-10-15T15:34:03Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프 \"완전한 가짜뉴스\"…폴리티코 '와일스 비서실장 교체 검토' 보도 정면 일축 [공부의여신 네트워크] 트럼프 대통령이 수지 와일스 백악관 비서실장 교체를 검토하고 있다는 미 정치매체 폴리티코 보도를 \"완전한 가짜뉴스\"라며 정면으로 일축했다. 폴리티코는 15일(현지시간) 뉴스레터 플레이북에서 대화 내용을 직접 아는 4명을 인용해, 트럼프 대통령이 최근 측근들에게 와일스 실장에 대한 의견을 ",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프 \"완전한 가짜뉴스\"…폴리티코 '와일스 비서실장 교체 검토' 보도 정면 일축 [공부의여신 네트워크] 트럼프 대통령이 수지 와일스 백악관 비서실장 교체를 검토하고 있다는 미 정치매체 폴리티코 보도를 \"완전한 가짜뉴스\"라며 정면으로 일축했다. 폴리티코는 15일(현지시간) 뉴스레터 플레이북에서 대화 내용을 직접 아는 4명을 인용해, 트럼프 대통령이 최근 측근들에게 와일스 실장에 대한 의견을 묻고 후임 후보를 거론했다고 주장했다. 보도에 따르면 거론된 이름은 스티븐 밀러 부비서실장, 랜디 레빈 뉴욕 양키스 사장, 스티브 위트코프 특사, 빌 펄티 연방주택금융청장, 케빈 매카시 전 하원의장이다. 매체는 와일스 실장과 가까운 제임스 블레어·크리스 라시비타의 해외 컨설팅 활동, 딸 케이티 와일스가 파트너로 있는 로비업체의 보스니아 스릅스카 공화국 계약(월 3만5천 달러)이 비판 대상에 올랐다고 전했다. 해당 업체는 케이티 와일스가 미 정부 인사를 상대로 로비하지 않았다고 밝혔다. 트럼프 대통령은 폴리티코에 보낸 입장에서 \"완전한 가짜뉴스입니다! 폴리티코는 사실도, 진실성도, 정직한 저널리즘도 신경 쓰지 않습니다. 그래서 제가 그들을 백악관에서 쫓아낸 것입니다!\"라며 \"수지 와일스는 저의 충직하고 가장 오래 재임한 비서실장이며, 거기에는 이유가 있습니다. 그녀는 처음부터 저와 함께했고, 저의 신뢰받는 조언자이며, 저의 전적인 신뢰를 받고 있습니다\"라고 밝혔다. 대니엘 앨버레즈 백악관 대변인도 익명 소식통들은 \"아무것도 모른다\"며 행정부는 \"익명의 외부인들의 자존심과 정치 게임이 아니라 미국 우선 의제에 집중하는 하나의 팀\"이라고 반박했다. 실제 교체 검토 여부는 익명 소식통 주장일 뿐 확인되지 않았다.",
+          "url": "https://t.me/goddessTTF/85755"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/85755"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-22dcb75c4962",
+      "original_title": "WP \"트럼프 볼룸 3억3천만 달러 기부자 비밀 문서 입수\" [공부의여신 네트워크] 워싱턴포스트는 15일(현지시간) 백악관 볼룸 건설에 3억3천만 달러를 낸 기부자들의 신원이 담긴 비밀 문서를 입수했다고 단독 보도했다. 구체적인 기부자 명단과 내용은 아직 확인되지 않았다. 앞서 NBC는 내셔널몰 트러스트가 2025년에 3억2천만 달러 넘게 모금했고, 이름을 밝히지 않은 2천만 달러 이상 기부",
+      "published_at": "2026-10-15T15:31:09Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "WP \"트럼프 볼룸 3억3천만 달러 기부자 비밀 문서 입수\" [공부의여신 네트워크] 워싱턴포스트는 15일(현지시간) 백악관 볼룸 건설에 3억3천만 달러를 낸 기부자들의 신원이 담긴 비밀 문서를 입수했다고 단독 보도했다. 구체적인 기부자 명단과 내용은 아직 확인되지 않았다. 앞서 NBC는 내셔널몰 트러스트가 2025년에 3억2천만 달러 넘게 모금했고, 이름을 밝히지 않은 2천만 달러 이상 기부",
+          "source": "Telegram @goddessTTF",
+          "snippet": "WP \"트럼프 볼룸 3억3천만 달러 기부자 비밀 문서 입수\" [공부의여신 네트워크] 워싱턴포스트는 15일(현지시간) 백악관 볼룸 건설에 3억3천만 달러를 낸 기부자들의 신원이 담긴 비밀 문서를 입수했다고 단독 보도했다. 구체적인 기부자 명단과 내용은 아직 확인되지 않았다. 앞서 NBC는 내셔널몰 트러스트가 2025년에 3억2천만 달러 넘게 모금했고, 이름을 밝히지 않은 2천만 달러 이상 기부가 여러 건이라고 보도했다.",
+          "url": "https://t.me/goddessTTF/85754"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/85754"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-914698709ebb",
+      "original_title": "블룸버그 \"트럼프 행정부 핵심광물 비축 프로그램, 최대 10억 달러 대출 준비\"",
+      "published_at": "2026-10-15T15:30:48Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "블룸버그 \"트럼프 행정부 핵심광물 비축 프로그램, 최대 10억 달러 대출 준비\"",
+          "source": "Telegram @goddessTTF",
+          "snippet": "블룸버그 \"트럼프 행정부 핵심광물 비축 프로그램, 최대 10억 달러 대출 준비\"",
+          "url": "https://t.me/goddessTTF/85753"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/85753"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-02ffcf817666",
+      "original_title": "크렘린 \"트럼프와 합의 후 러시아 디젤 세계 시장 공급 재개\" [공부의여신 네트워크] 드미트리 페스코프 크렘린궁 대변인은 15일(현지시간) 브리핑에서 트럼프 대통령과의 합의 이후 러시아산 디젤이 세계 시장에 풀리기 시작했다고 밝혔다. 러시아는 10월 9일 트럼프 대통령과 푸틴 대통령의 통화 합의 뒤 10일부터 디젤 수출 금지를 일부 해제했고, 13일 프리모르스크항에서 초저유황 디젤 약 4만 ",
+      "published_at": "2026-10-15T15:30:45Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "크렘린 \"트럼프와 합의 후 러시아 디젤 세계 시장 공급 재개\" [공부의여신 네트워크] 드미트리 페스코프 크렘린궁 대변인은 15일(현지시간) 브리핑에서 트럼프 대통령과의 합의 이후 러시아산 디젤이 세계 시장에 풀리기 시작했다고 밝혔다. 러시아는 10월 9일 트럼프 대통령과 푸틴 대통령의 통화 합의 뒤 10일부터 디젤 수출 금지를 일부 해제했고, 13일 프리모르스크항에서 초저유황 디젤 약 4만 ",
+          "source": "Telegram @goddessTTF",
+          "snippet": "크렘린 \"트럼프와 합의 후 러시아 디젤 세계 시장 공급 재개\" [공부의여신 네트워크] 드미트리 페스코프 크렘린궁 대변인은 15일(현지시간) 브리핑에서 트럼프 대통령과의 합의 이후 러시아산 디젤이 세계 시장에 풀리기 시작했다고 밝혔다. 러시아는 10월 9일 트럼프 대통령과 푸틴 대통령의 통화 합의 뒤 10일부터 디젤 수출 금지를 일부 해제했고, 13일 프리모르스크항에서 초저유황 디젤 약 4만 톤이 모로코로 출항했다. 페스코프 대변인은 \"유가 안정에 도움은 되지만 완전히 안정시키지는 못할 것\"이라고 말했다.",
+          "url": "https://t.me/goddessTTF/85752"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/85752"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-1ed61bed0f7d",
+      "original_title": "트럼프 대통령 \"연방 경유세 면제 지지할 수도…이란 곧 패배, 유가 돌덩이처럼 떨어질 것\" [공부의여신 네트워크] 트럼프 대통령이 연방 경유세(갤런당 24.4센트) 면제를 지지할 수 있다는 뜻을 밝혔다. 트럼프 대통령은 14일(현지시간) 몬태나주 캘리스펠 유세 직전 NBC 몬태나와의 단독 인터뷰에서 경유세 면제 지지 여부를 묻자 \"지지할 수도 있는 일\"이라며 \"우리는 이란을 아주 빨리 패배시",
+      "published_at": "2026-10-15T15:28:20Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프 대통령 \"연방 경유세 면제 지지할 수도…이란 곧 패배, 유가 돌덩이처럼 떨어질 것\" [공부의여신 네트워크] 트럼프 대통령이 연방 경유세(갤런당 24.4센트) 면제를 지지할 수 있다는 뜻을 밝혔다. 트럼프 대통령은 14일(현지시간) 몬태나주 캘리스펠 유세 직전 NBC 몬태나와의 단독 인터뷰에서 경유세 면제 지지 여부를 묻자 \"지지할 수도 있는 일\"이라며 \"우리는 이란을 아주 빨리 패배시",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프 대통령 \"연방 경유세 면제 지지할 수도…이란 곧 패배, 유가 돌덩이처럼 떨어질 것\" [공부의여신 네트워크] 트럼프 대통령이 연방 경유세(갤런당 24.4센트) 면제를 지지할 수 있다는 뜻을 밝혔다. 트럼프 대통령은 14일(현지시간) 몬태나주 캘리스펠 유세 직전 NBC 몬태나와의 단독 인터뷰에서 경유세 면제 지지 여부를 묻자 \"지지할 수도 있는 일\"이라며 \"우리는 이란을 아주 빨리 패배시킬 것이고, 그렇게 되면 석유와 경유 가격이 돌덩이처럼 떨어질 것\"이라고 말했다. 이어 \"그래도 어쨌든 할 수도 있다\"고 덧붙였다. 트럼프 대통령은 \"이란 전쟁은 끝내든지 아예 하지 말라\"는 몬태나주 공화당 후보 에런 플린트의 발언에 대해 \"동의한다\"며 \"그 전쟁을 아주 빨리 끝낼 것이고 이란은 절대 핵무기를 갖지 못할 것\"이라고 강조했다. 연방 유류세를 면제하려면 의회 입법이 필요하다.",
+          "url": "https://t.me/goddessTTF/85751"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/85751"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-376cba9118dc",
+      "original_title": "리플, 한국 금융권 협약 4건…선점하려는 건 따로 있다",
+      "published_at": "2026-10-15T15:04:21Z",
+      "discovery_source": "youtube",
+      "evidence": [
+        {
+          "headline": "리플, 한국 금융권 협약 4건…선점하려는 건 따로 있다",
+          "source": "YouTube @새벽에온주호",
+          "snippet": "교보생명·케이뱅크·전북은행·메리츠증권까지. 리플이 한국 금융권과 잇따라 손잡고 있습니다. 토큰증권 시장이 열리기 전, 리플이 먼저 차지하려는 자리는 무엇일까요? 자산 보관에서 스테이블코인 RLUSD, 기관 거래 창구까지. 최근 쏟아진 리플 뉴스를 연결해 한국에 공들이는 이유와 리플이 향하는 다음 시장을 따라갑니다. 홀더가 궁금한 건 결국 하나입니다. 이 움직임이 XRP 수요로도 이어질까요? 리플의 사업 확장이 XRP와 만나는 지점, 그리고 기대가 실제 수요로 이어지려면 무엇이 필요한지 짚어봅니다. #리플 #XRP #리플뉴스 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
+          "url": "https://www.youtube.com/watch?v=8RdEgbrLxKk"
+        }
+      ],
+      "sources": [
+        {
+          "name": "YouTube @새벽에온주호",
+          "url": "https://www.youtube.com/watch?v=8RdEgbrLxKk"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-4aa695d88d81",
+      "original_title": "FinancialJuice: US Treasury Auction Schedule",
+      "published_at": "2026-10-15T15:00:54Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: US Treasury Auction Schedule",
+          "source": "FinancialJuice",
+          "snippet": "US to sell $95 bln of 3-Month Bills on October 19, to settle on October 22 US to sell $82 bln of 6-Month Bills on October 19, to settle on October 22 US to sell $13 bln of reopened 20-Year Bonds on October 21, to settle on October 23 US to sell $26 bln of 5-Year TIPS on October 22, to settle on October 30",
+          "url": "https://www.financialjuice.com/News/9807280/US-Treasury-Auction-Schedule.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807280/US-Treasury-Auction-Schedule.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-c8de863c4c98",
+      "original_title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "published_at": "2026-10-15T15:00:00Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-75f0960a1ee1",
+      "original_title": "FinancialJuice: EU begins assessing additional sectors for China trade quotas.",
+      "published_at": "2026-10-15T14:30:30Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: EU begins assessing additional sectors for China trade quotas.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9807229/EU-begins-assessing-additional-sectors-for-China-trade-quotas.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807229/EU-begins-assessing-additional-sectors-for-China-trade-quotas.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-3183ec9925a3",
+      "original_title": "FinancialJuice: Crypto Fear and Greed Index: 53/100 = Neutral",
+      "published_at": "2026-10-15T14:18:13Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Crypto Fear and Greed Index: 53/100 = Neutral",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9807223/Crypto-Fear-and-Greed-Index-53100--Neutral.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807223/Crypto-Fear-and-Greed-Index-53100--Neutral.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-04aa11ead696",
+      "original_title": "FinancialJuice: IEA Governing Board encouraged those IEA members holding oil production and refining capacities to boost the supply of crude and refined products, particularly diesel.",
+      "published_at": "2026-10-15T13:44:10Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: IEA Governing Board encouraged those IEA members holding oil production and refining capacities to boost the supply of crude and refined products, particularly diesel.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9807171/IEA-Governing-Board-encouraged-those-IEA-members-holding-oil-production-and-refining-capacities-to-boost-the-supply-of-crude-and-refined-products-particularly-diesel.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807171/IEA-Governing-Board-encouraged-those-IEA-members-holding-oil-production-and-refining-capacities-to-boost-the-supply-of-crude-and-refined-products-particularly-diesel.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-cc7824d45a14",
+      "original_title": "FinancialJuice: IEA Governing Board reaffirmed commitment to continue delivering on the March 2026 collective action in response to the Strait of Hormuz crisis.",
+      "published_at": "2026-10-15T13:43:21Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: IEA Governing Board reaffirmed commitment to continue delivering on the March 2026 collective action in response to the Strait of Hormuz crisis.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9807169/IEA-Governing-Board-reaffirmed-commitment-to-continue-delivering-on-the-March-2026-collective-action-in-response-to-the-Strait-of-Hormuz-crisis.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807169/IEA-Governing-Board-reaffirmed-commitment-to-continue-delivering-on-the-March-2026-collective-action-in-response-to-the-Strait-of-Hormuz-crisis.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-c755024706b3",
+      "original_title": "FinancialJuice: IEA: The oil release announced in March is going to exceed 400 mln barrels.",
+      "published_at": "2026-10-15T13:42:02Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: IEA: The oil release announced in March is going to exceed 400 mln barrels.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9807166/IEA-The-oil-release-announced-in-March-is-going-to-exceed-400-mln-barrels.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807166/IEA-The-oil-release-announced-in-March-is-going-to-exceed-400-mln-barrels.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-1e8283603ae9",
+      "original_title": "FinancialJuice: IEA agrees to complete the release of the outstanding 100m bbl of oil.",
+      "published_at": "2026-10-15T13:40:05Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: IEA agrees to complete the release of the outstanding 100m bbl of oil.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9807164/IEA-agrees-to-complete-the-release-of-the-outstanding-100m-bbl-of-oil.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9807164/IEA-agrees-to-complete-the-release-of-the-outstanding-100m-bbl-of-oil.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-313fb1a13cbe",
+      "original_title": "Bitcoin breaks key support after hot CPI: is a crash toward $78K now in play?",
+      "published_at": "2026-10-15T13:39:34Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin breaks key support after hot CPI: is a crash toward $78K now in play?",
+          "source": "Cryptonews.net",
+          "snippet": "Bitcoin breaks key support after hot CPI: is a crash toward $78K now in play? &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkWFlqZjl4NXJ5R0N2MUhXdmd5LVpaRjNGdzBPN1duRDVfYWRvLUExblhEZ0w5OTl1X1BldThSM3VkeTVEa2xVX1RVdGs3Njc2RjhJb2pQdEc?oc=5"
+        },
+        {
+          "headline": "Bitcoin breaks key support after hot CPI: is a crash toward $78K now in play?",
+          "source": "TradingView",
+          "snippet": "Bitcoin breaks key support after hot CPI: is a crash toward $78K now in play? &nbsp;&nbsp; TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcV85elZHUUdFQ1YtQXZPY3NLN2xoNG93bE1DczJ3N1FtWERkQUFxV2syU2NYdno1U2dCVTdCX1hJVjhLSHhTY1R2cUk4Z3NvZlc2eXhQWmsyMEdCMGF1WFk1a0dJUmRnc0RONTlJUW9zbWd1UnlOVWE4ZU9KSTBSUElyajNhZy15WFh0RDhsTXNjR3JLN0RmQU1pX25lSkFadVNRWlhNRzhnc09jNWl6bDJxeXcxZnVjZFY4Y0JGZzZPYWo4Uzhya2ppVQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkWFlqZjl4NXJ5R0N2MUhXdmd5LVpaRjNGdzBPN1duRDVfYWRvLUExblhEZ0w5OTl1X1BldThSM3VkeTVEa2xVX1RVdGs3Njc2RjhJb2pQdEc?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcV85elZHUUdFQ1YtQXZPY3NLN2xoNG93bE1DczJ3N1FtWERkQUFxV2syU2NYdno1U2dCVTdCX1hJVjhLSHhTY1R2cUk4Z3NvZlc2eXhQWmsyMEdCMGF1WFk1a0dJUmRnc0RONTlJUW9zbWd1UnlOVWE4ZU9KSTBSUElyajNhZy15WFh0RDhsTXNjR3JLN0RmQU1pX25lSkFadVNRWlhNRzhnc09jNWl6bDJxeXcxZnVjZFY4Y0JGZzZPYWo4Uzhya2ppVQ?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-10-15-194e64d4ec18",
       "original_title": "FinancialJuice: US Sentiment: Hot Inflation + Drop in Yields, Haven Demand Strengthens",
@@ -202,6 +662,26 @@
       ]
     },
     {
+      "stable_id": "2026-10-15-8b02895ccc8c",
+      "original_title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+      "published_at": "2026-10-15T12:00:00Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-10-15-4f7b66ca3f49",
       "original_title": "FinancialJuice: Saudi Aramco is offering more spot crude oil cargoes into the European market for late October to mid-November delivery",
       "published_at": "2026-10-15T11:38:35Z",
@@ -352,6 +832,46 @@
       ]
     },
     {
+      "stable_id": "2026-10-15-d04d5f9beb79",
+      "original_title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
+      "published_at": "2026-10-15T10:52:11Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-d86ad3690b22",
+      "original_title": "Oil shipping costs spike, lifting prices from pump to grocery",
+      "published_at": "2026-10-15T10:29:59Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil shipping costs spike, lifting prices from pump to grocery",
+          "source": "Reuters",
+          "snippet": "Oil shipping costs spike, lifting prices from pump to grocery &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHR0bzBmX1E0Y3RlbjBYNTQwY2dUSENTVFJ5ajc5aXo1bjFqWGpyRmVROERicENVczd6RWJSMHRYR3dEVWJKNDdaS25NNXVEQ29xTThlMXVjQk1NRjdyZkkwR3NVaktQYXd0YzZFcEdYbHhDZE1kXzZnY3JQeGpnLWNXRzRxTnV1emlYdS1mOEdTd2JBVTJfSkpHWlZva3g0UUFMNm9ORQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHR0bzBmX1E0Y3RlbjBYNTQwY2dUSENTVFJ5ajc5aXo1bjFqWGpyRmVROERicENVczd6RWJSMHRYR3dEVWJKNDdaS25NNXVEQ29xTThlMXVjQk1NRjdyZkkwR3NVaktQYXd0YzZFcEdYbHhDZE1kXzZnY3JQeGpnLWNXRzRxTnV1emlYdS1mOEdTd2JBVTJfSkpHWlZva3g0UUFMNm9ORQ?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-10-15-ae0f62bf14b0",
       "original_title": "PODCAST: Ukraine’s Starlink problem, US inflation and Ohio voters",
       "published_at": "2026-10-15T10:29:48Z",
@@ -399,6 +919,26 @@
       "evidence": [
         {
           "headline": "Live updates: Bitcoin trades below $81,000 as South Korea's chip-heavy Kospi continues to plunge",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-092e7acf395b",
+      "original_title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
+      "published_at": "2026-10-15T10:16:15Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
           "source": "CoinDesk",
           "snippet": "",
           "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens"
@@ -461,6 +1001,26 @@
           "headline": "How Iran's precision strikes picked apart Gulf infrastructure",
           "source": "Reuters",
           "snippet": "How Iran's precision strikes picked apart Gulf infrastructure &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmZVZ0RfSms3U0s1SVE3N3ZMeWxLaVhtTjczazRmNU40UkpCUldVbWZJVUtJVkt3cHdLOEpoTl9qY0lFXzdKWUtydmYzVi1MeDExbXB6eHc3NjAyTi1CT2lveE5WVUNPeHV5SndkU3BmRUNiS1JCQUI2bDYyZjd6RjltYUhzeFVmUDFPSU93NWo?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmZVZ0RfSms3U0s1SVE3N3ZMeWxLaVhtTjczazRmNU40UkpCUldVbWZJVUtJVkt3cHdLOEpoTl9qY0lFXzdKWUtydmYzVi1MeDExbXB6eHc3NjAyTi1CT2lveE5WVUNPeHV5SndkU3BmRUNiS1JCQUI2bDYyZjd6RjltYUhzeFVmUDFPSU93NWo?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-ef2bbfbb0b7e",
+      "original_title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans",
+      "published_at": "2026-10-15T10:00:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans",
+          "source": "Reuters",
+          "snippet": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmZVZ0RfSms3U0s1SVE3N3ZMeWxLaVhtTjczazRmNU40UkpCUldVbWZJVUtJVkt3cHdLOEpoTl9qY0lFXzdKWUtydmYzVi1MeDExbXB6eHc3NjAyTi1CT2lveE5WVUNPeHV5SndkU3BmRUNiS1JCQUI2bDYyZjd6RjltYUhzeFVmUDFPSU93NWo?oc=5"
         }
       ],
@@ -544,12 +1104,6 @@
           "source": "The SOFX Report",
           "snippet": "Container Ship Sinks in Strait of Hormuz After Projectile Strike as Iran Steps Up Attacks &nbsp;&nbsp; The SOFX Report",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkotb0I2aEV5Z2tmS0FtMFNra3U0ZG5hdHBsS2JsRmVoWTNER01mNE51WVVFcl9taHRQc2pSSXNrSGFqNTJIU2dtOEh5d04wN1VZNDlIbXAtX2gyRkZ2WUlIRHVYbjhQdWdkT0JRdGFJUkJNdklLUnFGOWZoLVVvSXhPY1FrM1FkQjFuVm50RzRUMkpBcjJIOU0ydnNiajJXMkkwZFpEU0RocnZsV0dQLQ?oc=5"
-        },
-        {
-          "headline": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-          "source": "BBC",
-          "snippet": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says &nbsp;&nbsp; BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKSERzVHZRamd4QU52d25WWWtmeGZfNXd3aDF6a3JtaG5CWlp1aF94bEx5UkdQV1FfTE5MXzFZWl81b2VnTk5oR2V6a3BOZGhxRWFBa2FJTi1hT0U?oc=5"
         }
       ],
       "sources": [
@@ -564,10 +1118,6 @@
         {
           "name": "The SOFX Report",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkotb0I2aEV5Z2tmS0FtMFNra3U0ZG5hdHBsS2JsRmVoWTNER01mNE51WVVFcl9taHRQc2pSSXNrSGFqNTJIU2dtOEh5d04wN1VZNDlIbXAtX2gyRkZ2WUlIRHVYbjhQdWdkT0JRdGFJUkJNdklLUnFGOWZoLVVvSXhPY1FrM1FkQjFuVm50RzRUMkpBcjJIOU0ydnNiajJXMkkwZFpEU0RocnZsV0dQLQ?oc=5"
-        },
-        {
-          "name": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKSERzVHZRamd4QU52d25WWWtmeGZfNXd3aDF6a3JtaG5CWlp1aF94bEx5UkdQV1FfTE5MXzFZWl81b2VnTk5oR2V6a3BOZGhxRWFBa2FJTi1hT0U?oc=5"
         }
       ]
     },
@@ -898,12 +1448,6 @@
           "source": "BigGo Finance",
           "snippet": "Bitcoin Tumbles Below $82,000 as Hot Inflation Revives October Fed Hike Bets &nbsp;&nbsp; BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XV1dmam81NGNpOGFnSVZJTzB2UlJ3SzZjOU9lZlJJVGx6dzN1LURCc0FkTmlzUVl3VEpFRXhhNG9tR1NvZ004MWJHRk5JeXBaUEhPSFZfcmJCZlRHNUpXczdTSVZWZUdPVXZvSTlkT0ZkdVdJRHc?oc=5"
-        },
-        {
-          "headline": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-          "source": "The Block",
-          "snippet": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns &nbsp;&nbsp; The Block",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYndQbXBQRnBmR2RWQjV1Mlh3cGlwdW5jWXktaTJUbzJ6WlNYSkg2YVFjZmJrbnQxRWlOUWFpVlcwVGt3Tjdya3NsbnBOWndoVEFjWHdFdXJWQm1jMHNjWjZHaE5sMU0tXzRNdWJwR29zRy11WW8xTjRKUlN3UElsM3dsSjJpbkg2SDhjdEZWdUFqUkVqeHlnUzV1bmtUV1p4Y0NhMTRPY3c5YjF3cFE?oc=5"
         }
       ],
       "sources": [
@@ -914,10 +1458,6 @@
         {
           "name": "BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XV1dmam81NGNpOGFnSVZJTzB2UlJ3SzZjOU9lZlJJVGx6dzN1LURCc0FkTmlzUVl3VEpFRXhhNG9tR1NvZ004MWJHRk5JeXBaUEhPSFZfcmJCZlRHNUpXczdTSVZWZUdPVXZvSTlkT0ZkdVdJRHc?oc=5"
-        },
-        {
-          "name": "The Block",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYndQbXBQRnBmR2RWQjV1Mlh3cGlwdW5jWXktaTJUbzJ6WlNYSkg2YVFjZmJrbnQxRWlOUWFpVlcwVGt3Tjdya3NsbnBOWndoVEFjWHdFdXJWQm1jMHNjWjZHaE5sMU0tXzRNdWJwR29zRy11WW8xTjRKUlN3UElsM3dsSjJpbkg2SDhjdEZWdUFqUkVqeHlnUzV1bmtUV1p4Y0NhMTRPY3c5YjF3cFE?oc=5"
         }
       ]
     },
@@ -1138,6 +1678,12 @@
           "source": "CoinDesk",
           "snippet": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8% &nbsp;&nbsp; CoinDesk",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmJWaFJDaHVaNkd2US1NWGYzeEpPdWJ0NEdXSmhSQUliZEVfT2dVbWJhaE50S0w2d1ExZlZ2TjZjM2VWcVpIeXEwR1ZuR3R2cm53Njc4TWlOS0lOeF9pVFUyd0JjZFM0SFNvQklYTk4tNGpNckxjdmt5SVdMUTcwRXVGaEhCLTZjTURMbUJralRQRWZEMk1ocnpwRWNTRHFkYWdTYW1obXFFUQ?oc=5"
+        },
+        {
+          "headline": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8%",
+          "source": "LCX Exchange",
+          "snippet": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8% &nbsp;&nbsp; LCX Exchange",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbllLNHNOOUFaUXZOY09SamJXODJ6ZVFJWWJqcVNBTjRHWU54ak1YckZxTHVrM2QyUWJnWU1WRm5Sa1BuNDNIQlRnNk44Nk93V0tJYWpXNkpxVG5DMFNvRnZ4cV9fR2UyeFNkX2Y5S056ZGcwbm9FTFUwT2RkSDd2ZzdicWgzOWhWSlJFRDdKVTFjM1lFcWx1LTMxM3VMQ243SnpWaEJtSQ?oc=5"
         }
       ],
       "sources": [
@@ -1148,6 +1694,10 @@
         {
           "name": "CoinDesk",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmJWaFJDaHVaNkd2US1NWGYzeEpPdWJ0NEdXSmhSQUliZEVfT2dVbWJhaE50S0w2d1ExZlZ2TjZjM2VWcVpIeXEwR1ZuR3R2cm53Njc4TWlOS0lOeF9pVFUyd0JjZFM0SFNvQklYTk4tNGpNckxjdmt5SVdMUTcwRXVGaEhCLTZjTURMbUJralRQRWZEMk1ocnpwRWNTRHFkYWdTYW1obXFFUQ?oc=5"
+        },
+        {
+          "name": "LCX Exchange",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbllLNHNOOUFaUXZOY09SamJXODJ6ZVFJWWJqcVNBTjRHWU54ak1YckZxTHVrM2QyUWJnWU1WRm5Sa1BuNDNIQlRnNk44Nk93V0tJYWpXNkpxVG5DMFNvRnZ4cV9fR2UyeFNkX2Y5S056ZGcwbm9FTFUwT2RkSDd2ZzdicWgzOWhWSlJFRDdKVTFjM1lFcWx1LTMxM3VMQ243SnpWaEJtSQ?oc=5"
         }
       ]
     },
@@ -1301,6 +1851,26 @@
           "headline": "Gold climbs over 1% on softer dollar, yields ahead of US inflation data",
           "source": "Reuters",
           "snippet": "Gold climbs over 1% on softer dollar, yields ahead of US inflation data &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-15-5d9f12e0ddef",
+      "original_title": "Gold rebounds on weaker dollar, yields; October Fed hike bets subdued",
+      "published_at": "2026-10-15T03:18:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Gold rebounds on weaker dollar, yields; October Fed hike bets subdued",
+          "source": "Reuters",
+          "snippet": "Gold rebounds on weaker dollar, yields; October Fed hike bets subdued &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5"
         }
       ],
@@ -1492,6 +2062,26 @@
       ]
     },
     {
+      "stable_id": "2026-10-15-d518289718a0",
+      "original_title": "Dollar retreats from 18-month high despite strong inflation data",
+      "published_at": "2026-10-15T01:49:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Dollar retreats from 18-month high despite strong inflation data",
+          "source": "Reuters",
+          "snippet": "Dollar retreats from 18-month high despite strong inflation data &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-10-15-ca7a8c28abfd",
       "original_title": "Oil prices retreat as investors weigh supply outlook, Middle East tensions",
       "published_at": "2026-10-15T01:30:00Z",
@@ -1528,12 +2118,6 @@
           "source": "Traverse City Record-Eagle",
           "snippet": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments &nbsp;&nbsp; Traverse City Record-Eagle",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOG0yOGhzNW0yamFGQWVQckpneHV5RlVRaTlhRzBySTc0YTBuQnBhT1BhNmd1bUJsdU9LcjJyaXJ4MDVUelZDVWs0azFnVEN4R3E3MVNzWWlnTzNjdElzWnEwUE9sR284UG1iUndDQ2hKWXN3MURoTVFsUEJRcVhVcXNQR3hZWmF4dUZCRy10Mm9Kem9Md1FKWTlBai1iZnFYUF9tZG5FTnpWY0JGSEk0QkhfaE1nQ2VqVDlBR3NPdDdtVHdsdC1UNThxc1Q0T0VrWWg3bHVvYVJrM3pTaXZmcFpsV2F0aXNRV1ZVRXJpY1ItZzJIaHY4?oc=5"
-        },
-        {
-          "headline": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments - The Press-Enterprise",
-          "source": "The Press-Enterprise",
-          "snippet": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments &nbsp;&nbsp; The Press-Enterprise",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkJSRU9xWThBZkF6cVlzcWIyTmtCV2xmNnVveV9GazBxWWo2RVdvZnAwZzFfRUxRTG9qbmxPUC1YWlhFU1BrY3FyYS1lYms2VEptYWpDNG1JTHFIcUVJTTROeGpnUTdxSF9jMGVvUDRQS0JXY3FidURrZjFSRWVSME1yM0V5TWJCVGxnMklTTTQzUXZHZDNn?oc=5"
         }
       ],
       "sources": [
@@ -1544,10 +2128,6 @@
         {
           "name": "Traverse City Record-Eagle",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOG0yOGhzNW0yamFGQWVQckpneHV5RlVRaTlhRzBySTc0YTBuQnBhT1BhNmd1bUJsdU9LcjJyaXJ4MDVUelZDVWs0azFnVEN4R3E3MVNzWWlnTzNjdElzWnEwUE9sR284UG1iUndDQ2hKWXN3MURoTVFsUEJRcVhVcXNQR3hZWmF4dUZCRy10Mm9Kem9Md1FKWTlBai1iZnFYUF9tZG5FTnpWY0JGSEk0QkhfaE1nQ2VqVDlBR3NPdDdtVHdsdC1UNThxc1Q0T0VrWWg3bHVvYVJrM3pTaXZmcFpsV2F0aXNRV1ZVRXJpY1ItZzJIaHY4?oc=5"
-        },
-        {
-          "name": "The Press-Enterprise",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkJSRU9xWThBZkF6cVlzcWIyTmtCV2xmNnVveV9GazBxWWo2RVdvZnAwZzFfRUxRTG9qbmxPUC1YWlhFU1BrY3FyYS1lYms2VEptYWpDNG1JTHFIcUVJTTROeGpnUTdxSF9jMGVvUDRQS0JXY3FidURrZjFSRWVSME1yM0V5TWJCVGxnMklTTTQzUXZHZDNn?oc=5"
         }
       ]
     },
@@ -1588,706 +2168,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9806037/Australia-Sept-unemployment-rate-rises-to-47-seasonally-adjusted-poll-forecast-46.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-15-be723431adf5",
-      "original_title": "FinancialJuice: Australian Full Time Employment Chg. Actual 34.4k (Forecast -, Previous -6.3k)",
-      "published_at": "2026-10-15T00:30:01Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Australian Full Time Employment Chg. Actual 34.4k (Forecast -, Previous -6.3k)",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9806029/Australian-Full-Time-Employment-Chg-Actual-344k-Forecast---Previous--63k.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9806029/Australian-Full-Time-Employment-Chg-Actual-344k-Forecast---Previous--63k.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-15-fffa9afa30d2",
-      "original_title": "FinancialJuice: China PBOC likely to set yuan midpoint at 6.6977 per dollar: estimate",
-      "published_at": "2026-10-15T00:23:23Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: China PBOC likely to set yuan midpoint at 6.6977 per dollar: estimate",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9806028/China-PBOC-likely-to-set-yuan-midpoint-at-66977-per-dollar-estimate.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9806028/China-PBOC-likely-to-set-yuan-midpoint-at-66977-per-dollar-estimate.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-6b34c14e983c",
-      "original_title": "FinancialJuice: US discussing easing some sanctions on shadow fleet vessels to reduce global freight rates, boost oil flows in Middle East: official",
-      "published_at": "2026-10-14T23:54:52Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US discussing easing some sanctions on shadow fleet vessels to reduce global freight rates, boost oil flows in Middle East: official",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9806003/US-discussing-easing-some-sanctions-on-shadow-fleet-vessels-to-reduce-global-freight-rates-boost-oil-flows-in-Middle-East-official.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9806003/US-discussing-easing-some-sanctions-on-shadow-fleet-vessels-to-reduce-global-freight-rates-boost-oil-flows-in-Middle-East-official.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-be76775578ea",
-      "original_title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
-      "published_at": "2026-10-14T23:33:39Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
-          "source": "Reuters",
-          "snippet": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5"
-        },
-        {
-          "headline": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
-          "source": "Yahoo Finance",
-          "snippet": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDBmaW4tZmgyRnVGRWhpV0tQYlpic3Y2a1gyRm53Z1hFTXhRRWN5ZGNyb0laZjZHZ0hGd2piUkxiOUg1aWJoODB2X3N6d0Rwb3NkSjV6cGR0eDZ5dkJLOW9qanEtY0JINksxdnVBdDliZTlvU2R2WWwza0NQclNTWTFUSGtjQUE3a1NKTUFpYWs?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDBmaW4tZmgyRnVGRWhpV0tQYlpic3Y2a1gyRm53Z1hFTXhRRWN5ZGNyb0laZjZHZ0hGd2piUkxiOUg1aWJoODB2X3N6d0Rwb3NkSjV6cGR0eDZ5dkJLOW9qanEtY0JINksxdnVBdDliZTlvU2R2WWwza0NQclNTWTFUSGtjQUE3a1NKTUFpYWs?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-7d38b15e1da2",
-      "original_title": "Oil holds gain as Middle East and Russia strikes threaten supply",
-      "published_at": "2026-10-14T23:22:42Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil holds gain as Middle East and Russia strikes threaten supply",
-          "source": "The Edge Singapore",
-          "snippet": "Oil holds gain as Middle East and Russia strikes threaten supply &nbsp;&nbsp; The Edge Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQem9vZkNYMmZCUXJmaGRENXBBTHZHUENmb0pqb3FUYk5EWkRlaEhnVk1JYmxOU0hIS0lwZ0xGZjROd1NrUjY4NjV5NTktV2xzNXVOM01wNWtCUjQ0SW5jRXZHYWh0YlZaUXVHbDlJUVhWX3hENmVmUVJUVHVLdzBZQ3lzdzdXZFZPcUx6Ukl6TEQyLXhyVU9vMXN5a0NRbEhFN3c5TlJBOXk0YjQ?oc=5"
-        },
-        {
-          "headline": "Oil Holds Gain as Middle East and Russia Strikes Threaten Supply",
-          "source": "Yahoo Finance UK",
-          "snippet": "Oil Holds Gain as Middle East and Russia Strikes Threaten Supply &nbsp;&nbsp; Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaHVpQlpUaHRRal9zdVNVdzFLRjZkdC00TTRRTkhBTUE1VkxOd2Fhck5FcENYZ2VDTmM1aDIxY2FfQ1AwMDhscDV3cXdZbEw0cFU3ekhaVzV2X2lmWGphX1padlNUYWtmcWlfbGdQTW1JbWJyMkdiYVFjY3lGemhUbQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Edge Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQem9vZkNYMmZCUXJmaGRENXBBTHZHUENmb0pqb3FUYk5EWkRlaEhnVk1JYmxOU0hIS0lwZ0xGZjROd1NrUjY4NjV5NTktV2xzNXVOM01wNWtCUjQ0SW5jRXZHYWh0YlZaUXVHbDlJUVhWX3hENmVmUVJUVHVLdzBZQ3lzdzdXZFZPcUx6Ukl6TEQyLXhyVU9vMXN5a0NRbEhFN3c5TlJBOXk0YjQ?oc=5"
-        },
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaHVpQlpUaHRRal9zdVNVdzFLRjZkdC00TTRRTkhBTUE1VkxOd2Fhck5FcENYZ2VDTmM1aDIxY2FfQ1AwMDhscDV3cXdZbEw0cFU3ekhaVzV2X2lmWGphX1padlNUYWtmcWlfbGdQTW1JbWJyMkdiYVFjY3lGemhUbQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-6299d937ce5f",
-      "original_title": "Fed’s Daly sees rate hikes ahead but signals no urgency for October - Reuters",
-      "published_at": "2026-10-14T22:26:11Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Fed’s Daly sees rate hikes ahead but signals no urgency for October - Reuters",
-          "source": "Yahoo Finance Australia",
-          "snippet": "Fed’s Daly sees rate hikes ahead but signals no urgency for October - Reuters &nbsp;&nbsp; Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tRjVnQmZtVGpWRjRtUUFLQVd5WTAxYUFMM2VxazNSSVlpRUR1XzFtOE5FUWdyU3dCTW5neGJTR0FiUkVYZjVEbTc5ZGtDN05YQzJtSWY0LTc0d0ZaSW1INDZvLThldkQ0U3lqbkRLbmNPMWh1cVN3bWUtSFF4QQ?oc=5"
-        },
-        {
-          "headline": "Fed’s Daly: more rate hikes likely needed, but no urgency to move in October",
-          "source": "investingLive",
-          "snippet": "Fed’s Daly: more rate hikes likely needed, but no urgency to move in October &nbsp;&nbsp; investingLive",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcUljR0RxdTBtTmRtMUlCUFM5UUFRd09HZVBfNmQtOVNybFI2N2hKeWR4SDJkOUd5aEpfMERZazFNamduVDE5MzFRQlNRamhjeG5rcUQxbGF4RU9yUXhILU4zSXZJQzBPRk5LOFZ5X3FmNDhTdnZYN2hoaEZKS2xKWHpxZU0tSlB5YjVueWJSdG5Bc29NbEs3UmpTZXJvRHZTR3pkbnNIOTFoVER3cmwybHR3NEV3Zw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tRjVnQmZtVGpWRjRtUUFLQVd5WTAxYUFMM2VxazNSSVlpRUR1XzFtOE5FUWdyU3dCTW5neGJTR0FiUkVYZjVEbTc5ZGtDN05YQzJtSWY0LTc0d0ZaSW1INDZvLThldkQ0U3lqbkRLbmNPMWh1cVN3bWUtSFF4QQ?oc=5"
-        },
-        {
-          "name": "investingLive",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcUljR0RxdTBtTmRtMUlCUFM5UUFRd09HZVBfNmQtOVNybFI2N2hKeWR4SDJkOUd5aEpfMERZazFNamduVDE5MzFRQlNRamhjeG5rcUQxbGF4RU9yUXhILU4zSXZJQzBPRk5LOFZ5X3FmNDhTdnZYN2hoaEZKS2xKWHpxZU0tSlB5YjVueWJSdG5Bc29NbEs3UmpTZXJvRHZTR3pkbnNIOTFoVER3cmwybHR3NEV3Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-1d875ed08b05",
-      "original_title": "미국-한국 연합군 사령관은 이란 전쟁 당시 F-35 전투기가 한반도에서의 전투 준비 태세를 유지하기 위해 한국에 일찍 배치되었다고 밝혔습니다. 또한, 전쟁 기간 동안 미국 군사 자산이 한국에서 중동으로 이동되었다는 이전 보도를 확인했습니다.",
-      "published_at": "2026-10-14T22:16:59Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "미국-한국 연합군 사령관은 이란 전쟁 당시 F-35 전투기가 한반도에서의 전투 준비 태세를 유지하기 위해 한국에 일찍 배치되었다고 밝혔습니다. 또한, 전쟁 기간 동안 미국 군사 자산이 한국에서 중동으로 이동되었다는 이전 보도를 확인했습니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "미국-한국 연합군 사령관은 이란 전쟁 당시 F-35 전투기가 한반도에서의 전투 준비 태세를 유지하기 위해 한국에 일찍 배치되었다고 밝혔습니다. 또한, 전쟁 기간 동안 미국 군사 자산이 한국에서 중동으로 이동되었다는 이전 보도를 확인했습니다.",
-          "url": "https://t.me/goddessTTF/85707"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/85707"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-edacce76fb8d",
-      "original_title": "미 연방해사위원회, 스페인 선박에 항차당 20만 달러 수수료 제안…올리브유 등 수입 제한도 검토 [공부의여신 네트워크] 미 연방해사위원회(FMC)가 14일(현지) 스페인이 미국 국적 선박의 입항을 거부해 미국 해운에 불리한 여건을 만들었다고 결론 내리고, 미국 항구에 들어오는 모든 스페인 국적 선박에 항차당 20만 달러의 수수료를 물리는 방안을 제안했다. 화장품·향수, 유지류(올리브유 포함)",
-      "published_at": "2026-10-14T22:14:32Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "미 연방해사위원회, 스페인 선박에 항차당 20만 달러 수수료 제안…올리브유 등 수입 제한도 검토 [공부의여신 네트워크] 미 연방해사위원회(FMC)가 14일(현지) 스페인이 미국 국적 선박의 입항을 거부해 미국 해운에 불리한 여건을 만들었다고 결론 내리고, 미국 항구에 들어오는 모든 스페인 국적 선박에 항차당 20만 달러의 수수료를 물리는 방안을 제안했다. 화장품·향수, 유지류(올리브유 포함)",
-          "source": "Telegram @goddessTTF",
-          "snippet": "미 연방해사위원회, 스페인 선박에 항차당 20만 달러 수수료 제안…올리브유 등 수입 제한도 검토 [공부의여신 네트워크] 미 연방해사위원회(FMC)가 14일(현지) 스페인이 미국 국적 선박의 입항을 거부해 미국 해운에 불리한 여건을 만들었다고 결론 내리고, 미국 항구에 들어오는 모든 스페인 국적 선박에 항차당 20만 달러의 수수료를 물리는 방안을 제안했다. 화장품·향수, 유지류(올리브유 포함), 도자기, 석재 제품, 설탕·과자류 등 스페인산 5개 품목의 수입 제한도 함께 제안했으며, 이들 품목의 2025년 대미 수입액은 약 31억 달러(올리브유만 약 8억3700만 달러)다. 이번 조치는 2024년 11월 스페인이 이스라엘 관련 군수 화물을 실은 머스크 덴버호·머스크 셀레타호 등 미 해사청(MARAD) 해상안보프로그램(유사시 군 수송 지원) 소속 미국 선박의 기항을 거부한 데서 비롯됐다. 스페인은 자국법·EU법·국제법에 따른 비차별적 조치라고 주장해 왔으나 FMC는 이를 받아들이지 않았다. 아직 확정된 조치는 아니며, FMC는 연방관보 게재(15일 예정) 뒤 60일간 의견을 받고 스페인에 청문 기회를 줄 예정이다.",
-          "url": "https://t.me/goddessTTF/85705"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/85705"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-9b9150623fe1",
-      "original_title": "Exclusive-Fed’s Daly says rate hikes likely needed, but not urgently",
-      "published_at": "2026-10-14T22:13:49Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Exclusive-Fed’s Daly says rate hikes likely needed, but not urgently",
-          "source": "WKZO",
-          "snippet": "Exclusive-Fed’s Daly says rate hikes likely needed, but not urgently &nbsp;&nbsp; WKZO",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2JGM2VMdTVrSlFkN0hVRFRTLUN6Z0ZBbDdQZ0FoRGhWUEV0QUlPRnhER29CX1BCS1RnYUozUUYwNkVVZ0xOZWFNWExGVEY2bWY0R0xOM004THgteENlMFVVOGcwUHpFX2xVVExmM0JOb3o3OEdDUllDZ0dpOV9sTFNBSXlRV253RVR0YUpSM1IySlN2YjhqZlN2OA?oc=5"
-        },
-        {
-          "headline": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently",
-          "source": "Reuters",
-          "snippet": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "WKZO",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2JGM2VMdTVrSlFkN0hVRFRTLUN6Z0ZBbDdQZ0FoRGhWUEV0QUlPRnhER29CX1BCS1RnYUozUUYwNkVVZ0xOZWFNWExGVEY2bWY0R0xOM004THgteENlMFVVOGcwUHpFX2xVVExmM0JOb3o3OEdDUllDZ0dpOV9sTFNBSXlRV253RVR0YUpSM1IySlN2YjhqZlN2OA?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-c38b6d673e2c",
-      "original_title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
-      "published_at": "2026-10-14T21:53:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
-          "source": "AP News",
-          "snippet": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments &nbsp;&nbsp; AP News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpCTWlhR21RaWFXLXJlVTA2Ym5CcVlfZlJqcHZycC11QkN5UEtieS0xTEZBVlZEeHJ1TzM5NmhlNGUtTk5vYWEyVU50ZVIxbDdjVkxfeHFCZnh5UV9ZaTJsbWdrWFJNYlRSNFpjRmtkRWtZdHNOTE1EVkIxX0J3djZ6N0VBNDJ6NGpvRlZ4ZFVDRWIzdVozV0pudllQOFIybE1qdlhWZkJoeWJy?oc=5"
-        },
-        {
-          "headline": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments - The Press-Enterprise",
-          "source": "The Press-Enterprise",
-          "snippet": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments &nbsp;&nbsp; The Press-Enterprise",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkJSRU9xWThBZkF6cVlzcWIyTmtCV2xmNnVveV9GazBxWWo2RVdvZnAwZzFfRUxRTG9qbmxPUC1YWlhFU1BrY3FyYS1lYms2VEptYWpDNG1JTHFIcUVJTTROeGpnUTdxSF9jMGVvUDRQS0JXY3FidURrZjFSRWVSME1yM0V5TWJCVGxnMklTTTQzUXZHZDNn?oc=5"
-        },
-        {
-          "headline": "Iran says cargo ship sank after hitting mine in Strait of Hormuz",
-          "source": "Spectrum News",
-          "snippet": "Iran says cargo ship sank after hitting mine in Strait of Hormuz &nbsp;&nbsp; Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQlNHaFZ1bG9WNlpBSjFEc3F5MUpiem9tOU05NEpidDBwRUluN2VtVk1SZkp3dVhjOXFFSUpvTExKVzdJa0o5RUh6UWdVY1lCLWp5bVpIV0xQSTlqSTNFenFlR2FyX3VCWjZVa2w1WTVFMkZTNkVCd2tHcW9SeTJWWnBFVy1DOWhNMDdoYWgxUEN4N0ZoTEVhRHVPanRYQQ?oc=5"
-        },
-        {
-          "headline": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
-          "source": "KSAT",
-          "snippet": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments &nbsp;&nbsp; KSAT",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0pNUksxY3hvempyVDFYRl84SXozUDZMM3dJMml2S0t1d0JNY3ZGYzdGTmVSYWtvQkdONGdWMlNEN3U0d1JXWEhBQk1VQlRiT05xOUJCczZMVnptQm8xU2loUFE1dDVhRDg1Y1NRbXdqcTR1UTNVZktIT3pOc0picVJzVmZCcTVMaDdQNUpXdDc2aVlVX1ZrNTJFNlBldU9vTURjNEM0TFBKOEF2QzI1U09UeDQzTFozUFhhUjV1N2VHN2NQRC1ldThwS3dGeEc5U2xDenB1ZmltVnct?oc=5"
-        },
-        {
-          "headline": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
-          "source": "News4JAX",
-          "snippet": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments &nbsp;&nbsp; News4JAX",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUUtTRm5LUzRDeUZ5LUIya2puUGpPTmQ5TVpyUW5IcU9wRU1nSDNPT2tRaVVDSTFpY1BGSm01ZjNMOGRRaWd4NlVDcGZoUnZyakhnQzVvaHNTTHhpS01zRXF2Q1BQS2RfTmxCZzhMWkFza2ZMaTNrbXJpM1d6YjZOUERRLXBUcmVzY0N3ZW40T0FMY3Q5ci1hWUtwRnJlc0pCN05yY0ZjUzN5emNnRnZEVW1sRTdQSUVUNGl2aGViWDM1QTZGQUQ4RlpfbldjS3lnSExRNDYzLVd2bURWSXFxV3h3?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpCTWlhR21RaWFXLXJlVTA2Ym5CcVlfZlJqcHZycC11QkN5UEtieS0xTEZBVlZEeHJ1TzM5NmhlNGUtTk5vYWEyVU50ZVIxbDdjVkxfeHFCZnh5UV9ZaTJsbWdrWFJNYlRSNFpjRmtkRWtZdHNOTE1EVkIxX0J3djZ6N0VBNDJ6NGpvRlZ4ZFVDRWIzdVozV0pudllQOFIybE1qdlhWZkJoeWJy?oc=5"
-        },
-        {
-          "name": "The Press-Enterprise",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkJSRU9xWThBZkF6cVlzcWIyTmtCV2xmNnVveV9GazBxWWo2RVdvZnAwZzFfRUxRTG9qbmxPUC1YWlhFU1BrY3FyYS1lYms2VEptYWpDNG1JTHFIcUVJTTROeGpnUTdxSF9jMGVvUDRQS0JXY3FidURrZjFSRWVSME1yM0V5TWJCVGxnMklTTTQzUXZHZDNn?oc=5"
-        },
-        {
-          "name": "Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQlNHaFZ1bG9WNlpBSjFEc3F5MUpiem9tOU05NEpidDBwRUluN2VtVk1SZkp3dVhjOXFFSUpvTExKVzdJa0o5RUh6UWdVY1lCLWp5bVpIV0xQSTlqSTNFenFlR2FyX3VCWjZVa2w1WTVFMkZTNkVCd2tHcW9SeTJWWnBFVy1DOWhNMDdoYWgxUEN4N0ZoTEVhRHVPanRYQQ?oc=5"
-        },
-        {
-          "name": "KSAT",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0pNUksxY3hvempyVDFYRl84SXozUDZMM3dJMml2S0t1d0JNY3ZGYzdGTmVSYWtvQkdONGdWMlNEN3U0d1JXWEhBQk1VQlRiT05xOUJCczZMVnptQm8xU2loUFE1dDVhRDg1Y1NRbXdqcTR1UTNVZktIT3pOc0picVJzVmZCcTVMaDdQNUpXdDc2aVlVX1ZrNTJFNlBldU9vTURjNEM0TFBKOEF2QzI1U09UeDQzTFozUFhhUjV1N2VHN2NQRC1ldThwS3dGeEc5U2xDenB1ZmltVnct?oc=5"
-        },
-        {
-          "name": "News4JAX",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUUtTRm5LUzRDeUZ5LUIya2puUGpPTmQ5TVpyUW5IcU9wRU1nSDNPT2tRaVVDSTFpY1BGSm01ZjNMOGRRaWd4NlVDcGZoUnZyakhnQzVvaHNTTHhpS01zRXF2Q1BQS2RfTmxCZzhMWkFza2ZMaTNrbXJpM1d6YjZOUERRLXBUcmVzY0N3ZW40T0FMY3Q5ci1hWUtwRnJlc0pCN05yY0ZjUzN5emNnRnZEVW1sRTdQSUVUNGl2aGViWDM1QTZGQUQ4RlpfbldjS3lnSExRNDYzLVd2bURWSXFxV3h3?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-eae314cf9f3e",
-      "original_title": "Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - Merced Sun-Star",
-      "published_at": "2026-10-14T21:47:07Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - Merced Sun-Star",
-          "source": "Merced Sun-Star",
-          "snippet": "Exclusive-Fed's Daly says rate hikes likely needed, but not urgently &nbsp;&nbsp; Merced Sun-Star",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIalViZDRwOGpkUmw2Y09HRDU0d0k0bklfZlBuUHZibF9ibS1wRXRNcU44RVphd1hfR0toNFI3enVrNUNhNFM3blZaeS1IbE1Pc2ZRQWJKY1lsTWZSVTRQQlpFcmF2SVFhZGVaSU5sQkJ2Z0k?oc=5"
-        },
-        {
-          "headline": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently",
-          "source": "Reuters",
-          "snippet": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5"
-        },
-        {
-          "headline": "Exclusive-Fed's Daly says rate hikes likely needed, but not urgently",
-          "source": "Tacoma News Tribune",
-          "snippet": "Exclusive-Fed's Daly says rate hikes likely needed, but not urgently &nbsp;&nbsp; Tacoma News Tribune",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUQzWjRIOGkwQzJPSUVpRlZkaWg0VVV6bjVYQ0RmdXN6bnU3eHR2WW9KcmZjaUZPWXNOLXdBOVRDb3pkYWxYajlFQ3lSLVBPWUZBcmZpNHBRYmgxOWdFY19tWUtQVzRXcldkbWJWN1cxU3NTNkFyMlp0ak5CRmtrYU0wbWh1Zw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Merced Sun-Star",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIalViZDRwOGpkUmw2Y09HRDU0d0k0bklfZlBuUHZibF9ibS1wRXRNcU44RVphd1hfR0toNFI3enVrNUNhNFM3blZaeS1IbE1Pc2ZRQWJKY1lsTWZSVTRQQlpFcmF2SVFhZGVaSU5sQkJ2Z0k?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5"
-        },
-        {
-          "name": "Tacoma News Tribune",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUQzWjRIOGkwQzJPSUVpRlZkaWg0VVV6bjVYQ0RmdXN6bnU3eHR2WW9KcmZjaUZPWXNOLXdBOVRDb3pkYWxYajlFQ3lSLVBPWUZBcmZpNHBRYmgxOWdFY19tWUtQVzRXcldkbWJWN1cxU3NTNkFyMlp0ak5CRmtrYU0wbWh1Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-1911c7b21075",
-      "original_title": "US inflation heats up in September; Fed rate hike this month back on table",
-      "published_at": "2026-10-14T21:45:35Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "US inflation heats up in September; Fed rate hike this month back on table",
-          "source": "Reuters",
-          "snippet": "US inflation heats up in September; Fed rate hike this month back on table &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5"
-        },
-        {
-          "headline": "US Inflation Heats up in September; Fed Rate Hike This Month Back on Table",
-          "source": "GV Wire",
-          "snippet": "US Inflation Heats up in September; Fed Rate Hike This Month Back on Table &nbsp;&nbsp; GV Wire",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2wwUFVhdTJ6bGlScDZnTnBRS05HZF9FbENUNF82dnRnTHpBQjQxZEpiZGtrLVlFcnVoTEdJdlpNWFlLZ2tMSDlCRk9jeGUwLUk3TkdKRXFhaUtiTE1tY3J1V0dmVkZWRlBZQXRvcnp6d1lobEh3QVVWTlRkem1IMHZfZVl1QWJSOHVJbUdzQ0dHTS1wSTlMQmFadjU5Tmw2Q0VkUDZYQQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5"
-        },
-        {
-          "name": "GV Wire",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2wwUFVhdTJ6bGlScDZnTnBRS05HZF9FbENUNF82dnRnTHpBQjQxZEpiZGtrLVlFcnVoTEdJdlpNWFlLZ2tMSDlCRk9jeGUwLUk3TkdKRXFhaUtiTE1tY3J1V0dmVkZWRlBZQXRvcnp6d1lobEh3QVVWTlRkem1IMHZfZVl1QWJSOHVJbUdzQ0dHTS1wSTlMQmFadjU5Tmw2Q0VkUDZYQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-6ddfea348bc8",
-      "original_title": "FinancialJuice: Fed's Daly: risks to above-target inflation remain high, steady labor market allows focus on price stability",
-      "published_at": "2026-10-14T21:38:09Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Daly: risks to above-target inflation remain high, steady labor market allows focus on price stability",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805887/Feds-Daly-risks-to-above-target-inflation-remain-high-steady-labor-market-allows-focus-on-price-stability.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805887/Feds-Daly-risks-to-above-target-inflation-remain-high-steady-labor-market-allows-focus-on-price-stability.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-336a342cd2ac",
-      "original_title": "FinancialJuice: Fed's Daly: uncertain if inflation will ease as shocks fade or worsen if shocks continue",
-      "published_at": "2026-10-14T21:38:09Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Daly: uncertain if inflation will ease as shocks fade or worsen if shocks continue",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805885/Feds-Daly-uncertain-if-inflation-will-ease-as-shocks-fade-or-worsen-if-shocks-continue.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805885/Feds-Daly-uncertain-if-inflation-will-ease-as-shocks-fade-or-worsen-if-shocks-continue.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-def27a989181",
-      "original_title": "FinancialJuice: Fed's Daly: more rate hikes likely, timing still under consideration",
-      "published_at": "2026-10-14T21:38:09Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Daly: more rate hikes likely, timing still under consideration",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805883/Feds-Daly-more-rate-hikes-likely-timing-still-under-consideration.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805883/Feds-Daly-more-rate-hikes-likely-timing-still-under-consideration.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-f74b1b5fa64a",
-      "original_title": "FinancialJuice: Fed's Daly: CPI indicates gas prices boosting headline inflation, core inflation remains stubborn as anticipated",
-      "published_at": "2026-10-14T21:38:09Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Daly: CPI indicates gas prices boosting headline inflation, core inflation remains stubborn as anticipated",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805882/Feds-Daly-CPI-indicates-gas-prices-boosting-headline-inflation-core-inflation-remains-stubborn-as-anticipated.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805882/Feds-Daly-CPI-indicates-gas-prices-boosting-headline-inflation-core-inflation-remains-stubborn-as-anticipated.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-cdd6214832be",
-      "original_title": "Latest inflation data may prompt October Fed rate hike, says expert",
-      "published_at": "2026-10-14T21:09:58Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Latest inflation data may prompt October Fed rate hike, says expert",
-          "source": "Reuters",
-          "snippet": "Latest inflation data may prompt October Fed rate hike, says expert &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GZ2duV29QVWJoS2drRjRVY0NnRUJ2VUlaYkE1R1hpcHlWU2k0ZzJRTkloN0ljeWp1U1diNTBnXzdHUmpfREpJODFXb2tQUVhGdmtrUm1lR2gyRkx5aEROckJpaFQ1eVk?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GZ2duV29QVWJoS2drRjRVY0NnRUJ2VUlaYkE1R1hpcHlWU2k0ZzJRTkloN0ljeWp1U1diNTBnXzdHUmpfREpJODFXb2tQUVhGdmtrUm1lR2gyRkx5aEROckJpaFQ1eVk?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-14f5fdbc87b6",
-      "original_title": "Cargo Ship Sinks in Strait of Hormuz After Strike Triggers Fire",
-      "published_at": "2026-10-14T20:59:58Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Cargo Ship Sinks in Strait of Hormuz After Strike Triggers Fire",
-          "source": "Bloomberg.com",
-          "snippet": "Cargo Ship Sinks in Strait of Hormuz After Strike Triggers Fire &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa290UTIyZ0dfRWdWQUZwcFdUY09zTS1aR0lJZUxuRlFRR2VTOURyM0paS085bG9FMDdzdTE1dnJwMjBRc2R4MVVqZ3hPX3ZLdHNTR3hhYUtlbXdZVGxwUkRYQjZFbnVHMllrR2VzUzRuUVVWODNla0twX1huYl9ETU11VjZESEI5RTRqOEItSFVTdXBtZWZIMG8tVVVBYnBoTGZsMjZrWFNWeURwRWVpc1czLUE?oc=5"
-        },
-        {
-          "headline": "Cargo ship sinks after Strait of Hormuz strike causes fire",
-          "source": "Transport Topics",
-          "snippet": "Cargo ship sinks after Strait of Hormuz strike causes fire &nbsp;&nbsp; Transport Topics",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zdGZtZkpPMk15YkxWZl9adWJIdDZGbW5aV19BZ01ob3FnQTdkNUVoSzItbnFYeDJvTnhKd004OUVIY01iNzFrUDNWVEZkaDY4TXZydVUxMUtUcEFOUFdNT1d5ci03bHMyZTFn?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa290UTIyZ0dfRWdWQUZwcFdUY09zTS1aR0lJZUxuRlFRR2VTOURyM0paS085bG9FMDdzdTE1dnJwMjBRc2R4MVVqZ3hPX3ZLdHNTR3hhYUtlbXdZVGxwUkRYQjZFbnVHMllrR2VzUzRuUVVWODNla0twX1huYl9ETU11VjZESEI5RTRqOEItSFVTdXBtZWZIMG8tVVVBYnBoTGZsMjZrWFNWeURwRWVpc1czLUE?oc=5"
-        },
-        {
-          "name": "Transport Topics",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zdGZtZkpPMk15YkxWZl9adWJIdDZGbW5aV19BZ01ob3FnQTdkNUVoSzItbnFYeDJvTnhKd004OUVIY01iNzFrUDNWVEZkaDY4TXZydVUxMUtUcEFOUFdNT1d5ci03bHMyZTFn?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-22622ff28d02",
-      "original_title": "TSX falls as miners take a hit, hot US inflation weighs",
-      "published_at": "2026-10-14T20:42:13Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "TSX falls as miners take a hit, hot US inflation weighs",
-          "source": "Reuters",
-          "snippet": "TSX falls as miners take a hit, hot US inflation weighs &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnMtVzdwRndObjllX2FWOWk5LU9yVTlrdVR6c09xVTRJZlY4OXlCc3JhSlBiSktrcmhPdlhZMzFxYTlYWV9fSEUtVThrN253eUZCOXdzcVNFZ1NfOXM0SE9MU0hFcDVKUURfZFVGdk14RWc3OTN2WW1DajhHU3YwcDhYSUNGZjFJSU1TLWFQOFBJSXhXNk9EbXNaSlpNbkZJUktydldtT0Y?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnMtVzdwRndObjllX2FWOWk5LU9yVTlrdVR6c09xVTRJZlY4OXlCc3JhSlBiSktrcmhPdlhZMzFxYTlYWV9fSEUtVThrN253eUZCOXdzcVNFZ1NfOXM0SE9MU0hFcDVKUURfZFVGdk14RWc3OTN2WW1DajhHU3YwcDhYSUNGZjFJSU1TLWFQOFBJSXhXNk9EbXNaSlpNbkZJUktydldtT0Y?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-68e9f90218ae",
-      "original_title": "FinancialJuice: US API Crude Oil Stock Change Actual -11.12M (Forecast 1.9M, Previous -2.09M)",
-      "published_at": "2026-10-14T20:38:14Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US API Crude Oil Stock Change Actual -11.12M (Forecast 1.9M, Previous -2.09M)",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805827/US-API-Crude-Oil-Stock-Change-Actual--1112M-Forecast-19M-Previous--209M.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805827/US-API-Crude-Oil-Stock-Change-Actual--1112M-Forecast-19M-Previous--209M.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-e7b49d9b18c6",
-      "original_title": "Iran Guards say cargo ship sank in Hormuz after hitting mine",
-      "published_at": "2026-10-14T20:37:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran Guards say cargo ship sank in Hormuz after hitting mine",
-          "source": "The Times of Israel",
-          "snippet": "Iran Guards say cargo ship sank in Hormuz after hitting mine &nbsp;&nbsp; The Times of Israel",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVFE4OHJNQng2SjZhSUJwUk10aGt2MklIQjJOQ1VDLTdvTDlHZmd5aFc3c2w0RUJ4X0JrNmpfX0d6dk1KWGU3Sk1NYzYxRzZGbjFXT3dIQTN2M01QN2pJQWxuVHdackZuWlB4a19ST3h2TEl2QlJFeXRBdGVpNDhOazI4cC1XUk1IMWVsdTVNVWlVMFZqY3fSAZsBQVVfeXFMTkpsMUl0YjNBNnl3NUdoUkFfU1N3anFyb1Y5akhkQmFSUnhjM2NNemxsUk9EV2l0TnBDeExrcE5IeXdUaUhBZW1rYlBXdFBqOGVlUVNDdVlVd3FpSG9fYnVFTDhvVU5hbkY4SzBBZlNYc05jbDAtN1VxRTR1dWgybGdvTjBpM0s3WEprOEdmcVVQNnhlNHBaUWdtY0k?oc=5"
-        },
-        {
-          "headline": "Iran Says Cargo Ship Sank After Hitting A Naval Mine",
-          "source": "ETV Bharat",
-          "snippet": "Iran Says Cargo Ship Sank After Hitting A Naval Mine &nbsp;&nbsp; ETV Bharat",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUDFRamhlRHF4SzVXckllLXBCWjhHYkVncE5EUENrcHdHOEp6ZU9KemtCeWQ4OWpOUFI4Ujk1NnNlVElDQ04zX1diTll5WnQ4M0stXzJkWGxPVnpUclp1R21oYWJCeUZSRnRyZlhnVzVvNHNORmR3RWJtN3o2dklMdTlwb3dIYjJCdTNDT3hKNEx2QjRvcnkzUzhGelh5eVJDNjhxMDB3VUYwWXJ1UENV0gG0AUFVX3lxTE1PM2VUMlVFZHpKVW9WTktkcEotejEyUzJDYXpmdEY2ZUpMZEd1Z0FsOEVkSHQ2TVRTWlVGRTktZHBXTExfX3IwN3ZBY2hnakdDZEVHOGZyYkRSN3BCNERVaWthM05DM29hYWtabXVMa2hITk9ROTV0Qk5WNHVHS0g2X0hoWXBSWWVrZVlEUVhLNXNqYmFON3pJd1VsM3ZicjQyZ3lGNnV5ZTBEUWljQWptaDZnNw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Times of Israel",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVFE4OHJNQng2SjZhSUJwUk10aGt2MklIQjJOQ1VDLTdvTDlHZmd5aFc3c2w0RUJ4X0JrNmpfX0d6dk1KWGU3Sk1NYzYxRzZGbjFXT3dIQTN2M01QN2pJQWxuVHdackZuWlB4a19ST3h2TEl2QlJFeXRBdGVpNDhOazI4cC1XUk1IMWVsdTVNVWlVMFZqY3fSAZsBQVVfeXFMTkpsMUl0YjNBNnl3NUdoUkFfU1N3anFyb1Y5akhkQmFSUnhjM2NNemxsUk9EV2l0TnBDeExrcE5IeXdUaUhBZW1rYlBXdFBqOGVlUVNDdVlVd3FpSG9fYnVFTDhvVU5hbkY4SzBBZlNYc05jbDAtN1VxRTR1dWgybGdvTjBpM0s3WEprOEdmcVVQNnhlNHBaUWdtY0k?oc=5"
-        },
-        {
-          "name": "ETV Bharat",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUDFRamhlRHF4SzVXckllLXBCWjhHYkVncE5EUENrcHdHOEp6ZU9KemtCeWQ4OWpOUFI4Ujk1NnNlVElDQ04zX1diTll5WnQ4M0stXzJkWGxPVnpUclp1R21oYWJCeUZSRnRyZlhnVzVvNHNORmR3RWJtN3o2dklMdTlwb3dIYjJCdTNDT3hKNEx2QjRvcnkzUzhGelh5eVJDNjhxMDB3VUYwWXJ1UENV0gG0AUFVX3lxTE1PM2VUMlVFZHpKVW9WTktkcEotejEyUzJDYXpmdEY2ZUpMZEd1Z0FsOEVkSHQ2TVRTWlVGRTktZHBXTExfX3IwN3ZBY2hnakdDZEVHOGZyYkRSN3BCNERVaWthM05DM29hYWtabXVMa2hITk9ROTV0Qk5WNHVHS0g2X0hoWXBSWWVrZVlEUVhLNXNqYmFON3pJd1VsM3ZicjQyZ3lGNnV5ZTBEUWljQWptaDZnNw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-8faae692d70d",
-      "original_title": "Hyperliquid Has Bought Back $1.26 Billion of Its Own Token. Ethereum Burns Its Fees Instead. Which One Holds Its Price Better?",
-      "published_at": "2026-10-14T20:00:03Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Hyperliquid Has Bought Back $1.26 Billion of Its Own Token. Ethereum Burns Its Fees Instead. Which One Holds Its Price Better?",
-          "source": "Yahoo Finance",
-          "snippet": "Hyperliquid Has Bought Back $1.26 Billion of Its Own Token. Ethereum Burns Its Fees Instead. Which One Holds Its Price Better? &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzBROGN1WkxWbmtMYnpFdldmRWFYcmxOTUF3Tk85a3NnQU9jZFU0NUdkdjdxYllYZW9FSFF3SUNBcUZHZmh5bG9XekJ0ZDFTdHByYmF1UDFJekx1T0cwTDk4VDdpTjFvcjk5aWE1eFF0akpwTkg5cEJjVUYxSEVoZHFBd25rdG9BZmg3RXppUjJKRzRJRTZjMA?oc=5"
-        },
-        {
-          "headline": "Hyperliquid Has Bought Back $1.26 Billion of Its Own Token. Ethereum Burns Its Fees Instead. Which One Holds Its Price Better?",
-          "source": "24/7 Wall St.",
-          "snippet": "Hyperliquid Has Bought Back $1.26 Billion of Its Own Token. Ethereum Burns Its Fees Instead. Which One Holds Its Price Better? &nbsp;&nbsp; 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRS1VaTM1WjB0NC1FZDFuaFNPa0pYQTNJVTItX2oxdXFwZ1VhZERNNzVBZ0ZvM0dJZ0xPZjY0TXpLMVREU0hBNUpGdU1uWnhCNnJNUjNNNFN2eUx1SFNFY1A2YWFSV0NKX0tUVjRnWnNnUC0wNk1uUHFiVFQ1SGNBcHpuSkZ6dVFIdDkyUWtCeHZuM0Nya1BtUE5lMldqT3laNWRjV1pQaU9OSXpRR2EtaThTdXd4VXE4aGxtOW83Nl9rbldtVDctSlRKaHJpMW1PMDA5cWVhUzFpZWNYVndvUHc1bUFnNElIRVJOalNhVXVPNloxb3lDVllIVHczZk1ZR004N1dUVkJtQzg5dXc?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzBROGN1WkxWbmtMYnpFdldmRWFYcmxOTUF3Tk85a3NnQU9jZFU0NUdkdjdxYllYZW9FSFF3SUNBcUZHZmh5bG9XekJ0ZDFTdHByYmF1UDFJekx1T0cwTDk4VDdpTjFvcjk5aWE1eFF0akpwTkg5cEJjVUYxSEVoZHFBd25rdG9BZmg3RXppUjJKRzRJRTZjMA?oc=5"
-        },
-        {
-          "name": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRS1VaTM1WjB0NC1FZDFuaFNPa0pYQTNJVTItX2oxdXFwZ1VhZERNNzVBZ0ZvM0dJZ0xPZjY0TXpLMVREU0hBNUpGdU1uWnhCNnJNUjNNNFN2eUx1SFNFY1A2YWFSV0NKX0tUVjRnWnNnUC0wNk1uUHFiVFQ1SGNBcHpuSkZ6dVFIdDkyUWtCeHZuM0Nya1BtUE5lMldqT3laNWRjV1pQaU9OSXpRR2EtaThTdXd4VXE4aGxtOW83Nl9rbldtVDctSlRKaHJpMW1PMDA5cWVhUzFpZWNYVndvUHc1bUFnNElIRVJOalNhVXVPNloxb3lDVllIVHczZk1ZR004N1dUVkJtQzg5dXc?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-68cff828a852",
-      "original_title": "FinancialJuice: US Military: On October 6th, US forces destroyed an Iranian-affiliated dhow conducting surveillance and targeting US Navy ships in the Gulf of Oman.",
-      "published_at": "2026-10-14T19:42:28Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Military: On October 6th, US forces destroyed an Iranian-affiliated dhow conducting surveillance and targeting US Navy ships in the Gulf of Oman.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805764/US-Military-On-October-6th-US-forces-destroyed-an-Iranian-affiliated-dhow-conducting-surveillance-and-targeting-US-Navy-ships-in-the-Gulf-of-Oman.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805764/US-Military-On-October-6th-US-forces-destroyed-an-Iranian-affiliated-dhow-conducting-surveillance-and-targeting-US-Navy-ships-in-the-Gulf-of-Oman.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-d4cddb8acc4c",
-      "original_title": "FinancialJuice: Fed's Goolsbee: AI hype could cause even more tech sector investment, which would risk overheating.",
-      "published_at": "2026-10-14T19:18:30Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Goolsbee: AI hype could cause even more tech sector investment, which would risk overheating.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805739/Feds-Goolsbee-AI-hype-could-cause-even-more-tech-sector-investment-which-would-risk-overheating.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805739/Feds-Goolsbee-AI-hype-could-cause-even-more-tech-sector-investment-which-would-risk-overheating.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-bc3c6185cfd3",
-      "original_title": "FinancialJuice: Fed's Goolsbee: If the current inflation levels hold, policy would need to address that.",
-      "published_at": "2026-10-14T19:16:57Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Goolsbee: If the current inflation levels hold, policy would need to address that.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805737/Feds-Goolsbee-If-the-current-inflation-levels-hold-policy-would-need-to-address-that.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805737/Feds-Goolsbee-If-the-current-inflation-levels-hold-policy-would-need-to-address-that.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-8a17cb1d39d2",
-      "original_title": "FinancialJuice: Fed's Goolsbee: Doesn't want to tie hands on monetary policy outlook",
-      "published_at": "2026-10-14T19:16:42Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Goolsbee: Doesn't want to tie hands on monetary policy outlook",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805733/Feds-Goolsbee-Doesnt-want-to-tie-hands-on-monetary-policy-outlook.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805733/Feds-Goolsbee-Doesnt-want-to-tie-hands-on-monetary-policy-outlook.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-05fe903342e8",
-      "original_title": "FinancialJuice: Fed's Goolsbee: Fed will get inflation back to 2%",
-      "published_at": "2026-10-14T19:15:50Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Goolsbee: Fed will get inflation back to 2%",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805721/Feds-Goolsbee-Fed-will-get-inflation-back-to-2.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805721/Feds-Goolsbee-Fed-will-get-inflation-back-to-2.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-14-da5718b8a442",
-      "original_title": "FinancialJuice: Fed's Goolsbee: More bad months of inflation would be unacceptable.",
-      "published_at": "2026-10-14T19:15:45Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Goolsbee: More bad months of inflation would be unacceptable.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9805720/Feds-Goolsbee-More-bad-months-of-inflation-would-be-unacceptable.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9805720/Feds-Goolsbee-More-bad-months-of-inflation-would-be-unacceptable.aspx?xy=rss"
         }
       ]
     }
