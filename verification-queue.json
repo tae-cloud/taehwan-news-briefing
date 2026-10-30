@@ -1,6 +1,836 @@
 {
-  "updated_at_kst": "2026-10-30T10:57:13+09:00",
+  "updated_at_kst": "2026-10-30T17:37:39+09:00",
   "items": [
+    {
+      "stable_id": "2026-10-30-17f7a6938802",
+      "original_title": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
+      "published_at": "2026-10-30T08:36:52Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-1b361092b061",
+      "original_title": "FinancialJuice: German Chancellor Merz: Working to bring Iran war to an end as soon as possible, it's having a massive impact on Europe.",
+      "published_at": "2026-10-30T08:09:36Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: German Chancellor Merz: Working to bring Iran war to an end as soon as possible, it's having a massive impact on Europe.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9829007/German-Chancellor-Merz-Working-to-bring-Iran-war-to-an-end-as-soon-as-possible-its-having-a-massive-impact-on-Europe.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9829007/German-Chancellor-Merz-Working-to-bring-Iran-war-to-an-end-as-soon-as-possible-its-having-a-massive-impact-on-Europe.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-e479306a25bb",
+      "original_title": "Binance freezes assets following historic $6.3 billion crypto exchange heist",
+      "published_at": "2026-10-30T08:07:09Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Binance freezes assets following historic $6.3 billion crypto exchange heist",
+          "source": "Daily Times",
+          "snippet": "Binance freezes assets following historic $6.3 billion crypto exchange heist &nbsp;&nbsp; Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazI2TGZfNFljY1dJWjRFUlFNbXc3WWR1LWEzUENNOEZxMC1RZlp4V2FIN1FUOTF3d0lXZndBY1hXR0VqTGdjVDl4MWswTWZIeXR6YmhQM2t5Um0xYjJKWDlueldlS2FDVURtQ3A4aEp6U0ctby1vMHU1dU5Icm5SV0pnNmFwMVVWSXZVWHlkQmRNWHlTalk4NmZLTmM0dEJpczdkUXdOSW0wc09YUlR3?oc=5"
+        },
+        {
+          "headline": "Binance freezes assets after $6.3 billion heist, crypto industry’s biggest",
+          "source": "ThePrint",
+          "snippet": "Binance freezes assets after $6.3 billion heist, crypto industry’s biggest &nbsp;&nbsp; ThePrint",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWndGaUh2ZTJ5NEJUb25VQl9QZmxWN0R6TzhXb0F0bnZNcDNTV3hUemxSTlpwVl9ybE5nY3B5aUdiZWN4OVlDOU9OR1ZvTjVkLTlGdG1tQnNJYkg0T3ZEZk1ScGl4X3FOd0RWeERuaEgxU2xHSjF1ZlRCbmloYll0dmMtdVFhc0p1Q0xETTJkWGRtbU45MWxscnh5S2xxN1NYOW1NMUhzb3FOUdIBrwFBVV95cUxONGRFdFEwVHlScWF1TWJMTlYyNmJ2Q0NDcVBDeUNQN01KbEFpMDhoVnJmdVdZZ0pFbDBjcE0tdTAtTWtESm00WVhPalB0VVhCQmtLVnl4TEwyNlRLN2xWeHBCRkQtMmw0b05DNWc0UmQwVWhqV25WRml0YzVVSVhQcGI1emNCOHpHOXR1NW9BVkI2bWhZSDBVVU56VDZJWXFud0hwRHJsVlJlVVA5M1lV?oc=5"
+        },
+        {
+          "headline": "Crypto exchange Binance freezes assets after $6.3 billion security breach",
+          "source": "Yahoo Finance",
+          "snippet": "Crypto exchange Binance freezes assets after $6.3 billion security breach &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk91M0NvMWF6S2xLUktmbkcxQ1VBVDBDSnRZSVZZcjJxNVJ3a3VLZ3RxaWFTYWNlRE16bTRnV0VFRnM5b09LUnIzTVV5Slk2VDRaZ0Q5alFvclowelhHWUFXcXNwRUs3RmlxTkNDS0dBeHRCM2FyOXJtRmZicmJWSWZhNnR3QUJwWHU5UWU0OVZIY25S?oc=5"
+        },
+        {
+          "headline": "Crypto exchange Binance freezes assets after $6.3 billion security breach",
+          "source": "Internazionale",
+          "snippet": "Crypto exchange Binance freezes assets after $6.3 billion security breach &nbsp;&nbsp; Internazionale",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVFEtWEx3TmFMUlJvemY2alNwaW1CRVdhWUNYVUlOMGdHWS1JdllKam1OcjdMWjBpV0dQMUplcWpnTmk3VGdxM2FPNGJEY0RyYTFCUm9rXy1FaHl6NDBOTHk2WklHU2dzazB2bHNLYkhRWE1HbnF6QWRjdWpSV09Tb2dpSEdETXpiSlJYT3FDZnMtQW9XNHV2MXJyN0ZIYlg4eHVXX3lHdFBFNnFOYTQ0R25RNG90S3JiOTFkcnVMNmtrRnJYaHd3TkJrc2lNWGtSamc?oc=5"
+        },
+        {
+          "headline": "Binance freezes assets after $6.3 billion heist, crypto industry's biggest",
+          "source": "Reuters",
+          "snippet": "Binance freezes assets after $6.3 billion heist, crypto industry's biggest &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3g4aktSMUNOUXJpZ0NMa2hicVFaR28zZjd6NWF5Qkp5U1RfbURlMWRoc2oxa2wzb24yNUowQWNSSmhsanVLWUFfdUJYalF6b2l5eHFTSzctV0VPQlE0UEpBZm9BdkpJSFo5OTdXWDJINE1JWXVILUhvYk1JVlpKVzFvTGJTYzJGSlQ4VXB2ZnRnNHFORmRDTmdtOG1kam9wNTh3TWYyX1VFVmp4bzMxQ096eUdCTzNIRkVHNDZZelNjWkhpVWlV?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazI2TGZfNFljY1dJWjRFUlFNbXc3WWR1LWEzUENNOEZxMC1RZlp4V2FIN1FUOTF3d0lXZndBY1hXR0VqTGdjVDl4MWswTWZIeXR6YmhQM2t5Um0xYjJKWDlueldlS2FDVURtQ3A4aEp6U0ctby1vMHU1dU5Icm5SV0pnNmFwMVVWSXZVWHlkQmRNWHlTalk4NmZLTmM0dEJpczdkUXdOSW0wc09YUlR3?oc=5"
+        },
+        {
+          "name": "ThePrint",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWndGaUh2ZTJ5NEJUb25VQl9QZmxWN0R6TzhXb0F0bnZNcDNTV3hUemxSTlpwVl9ybE5nY3B5aUdiZWN4OVlDOU9OR1ZvTjVkLTlGdG1tQnNJYkg0T3ZEZk1ScGl4X3FOd0RWeERuaEgxU2xHSjF1ZlRCbmloYll0dmMtdVFhc0p1Q0xETTJkWGRtbU45MWxscnh5S2xxN1NYOW1NMUhzb3FOUdIBrwFBVV95cUxONGRFdFEwVHlScWF1TWJMTlYyNmJ2Q0NDcVBDeUNQN01KbEFpMDhoVnJmdVdZZ0pFbDBjcE0tdTAtTWtESm00WVhPalB0VVhCQmtLVnl4TEwyNlRLN2xWeHBCRkQtMmw0b05DNWc0UmQwVWhqV25WRml0YzVVSVhQcGI1emNCOHpHOXR1NW9BVkI2bWhZSDBVVU56VDZJWXFud0hwRHJsVlJlVVA5M1lV?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk91M0NvMWF6S2xLUktmbkcxQ1VBVDBDSnRZSVZZcjJxNVJ3a3VLZ3RxaWFTYWNlRE16bTRnV0VFRnM5b09LUnIzTVV5Slk2VDRaZ0Q5alFvclowelhHWUFXcXNwRUs3RmlxTkNDS0dBeHRCM2FyOXJtRmZicmJWSWZhNnR3QUJwWHU5UWU0OVZIY25S?oc=5"
+        },
+        {
+          "name": "Internazionale",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVFEtWEx3TmFMUlJvemY2alNwaW1CRVdhWUNYVUlOMGdHWS1JdllKam1OcjdMWjBpV0dQMUplcWpnTmk3VGdxM2FPNGJEY0RyYTFCUm9rXy1FaHl6NDBOTHk2WklHU2dzazB2bHNLYkhRWE1HbnF6QWRjdWpSV09Tb2dpSEdETXpiSlJYT3FDZnMtQW9XNHV2MXJyN0ZIYlg4eHVXX3lHdFBFNnFOYTQ0R25RNG90S3JiOTFkcnVMNmtrRnJYaHd3TkJrc2lNWGtSamc?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3g4aktSMUNOUXJpZ0NMa2hicVFaR28zZjd6NWF5Qkp5U1RfbURlMWRoc2oxa2wzb24yNUowQWNSSmhsanVLWUFfdUJYalF6b2l5eHFTSzctV0VPQlE0UEpBZm9BdkpJSFo5OTdXWDJINE1JWXVILUhvYk1JVlpKVzFvTGJTYzJGSlQ4VXB2ZnRnNHFORmRDTmdtOG1kam9wNTh3TWYyX1VFVmp4bzMxQ096eUdCTzNIRkVHNDZZelNjWkhpVWlV?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-914927633a31",
+      "original_title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+      "published_at": "2026-10-30T07:54:07Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-a39878005b2a",
+      "original_title": "FinancialJuice: ECB's Dolenc: Inflation could remain above 2% in coming years.",
+      "published_at": "2026-10-30T07:53:19Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: ECB's Dolenc: Inflation could remain above 2% in coming years.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828974/ECBs-Dolenc-Inflation-could-remain-above-2-in-coming-years.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828974/ECBs-Dolenc-Inflation-could-remain-above-2-in-coming-years.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-a8225f0b7777",
+      "original_title": "FinancialJuice: ECB's Dolenc: Higher energy prices risk more persistent inflation.",
+      "published_at": "2026-10-30T07:53:04Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: ECB's Dolenc: Higher energy prices risk more persistent inflation.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828973/ECBs-Dolenc-Higher-energy-prices-risk-more-persistent-inflation.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828973/ECBs-Dolenc-Higher-energy-prices-risk-more-persistent-inflation.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-ccd009e4aea4",
+      "original_title": "FinancialJuice: SNB Interest Rate Probabilities",
+      "published_at": "2026-10-30T07:16:09Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: SNB Interest Rate Probabilities",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828916/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828916/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-c67c17061f79",
+      "original_title": "Crypto’s Biggest-Ever Heist Hits Binance in $6.3 Billion Hack",
+      "published_at": "2026-10-30T07:14:54Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Crypto’s Biggest-Ever Heist Hits Binance in $6.3 Billion Hack",
+          "source": "Bloomberg.com",
+          "snippet": "Crypto’s Biggest-Ever Heist Hits Binance in $6.3 Billion Hack &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUFoM2dJbHJtalViQXVkaEx5TURNbFNITHVWenJHSDVoU012RjRoMXk5U2JzYzRMMlN2b0l0VGplQ0xnc1A5ZG9vX0dyRlIyMDdaRTBvMnFXdDNyNlFERkw0OGRSdHdveEx6ZEI0OWFvYzRFV0ZwZE5RdFpNcWc3LUFOUTFjcTFOcm1JOFFEeS1YWTlaZ1Fod0V3cFU3QkVWRVVGUUFRTUhiZUF5ZFdiTVFEN08?oc=5"
+        },
+        {
+          "headline": "Binance halts trading after biggest-ever crypto hack",
+          "source": "Axios",
+          "snippet": "Binance halts trading after biggest-ever crypto hack &nbsp;&nbsp; Axios",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83OUdSVGpVR2RxZkhXbHdVcDVzcElOMHl6dmhCN1hQWThicVA0dnpmZTQ0TF91WHU5ejQtNVQtaUFRWU1tU0wxUzZJMnlTaXBYbkpVNkdnNXQwWFM3ajJMdkNLaXFFVDhyemhrQ3RQZnY4eDA?oc=5"
+        },
+        {
+          "headline": "Binance targeted in $6.3 billion crypto heist, the largest ever",
+          "source": "NBC News",
+          "snippet": "Binance targeted in $6.3 billion crypto heist, the largest ever &nbsp;&nbsp; NBC News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGNmTk9fanU5TWV5OG9TVFYtVlNEMGpncEJSamlObHQycmc5QnlvZExjb2xJWHI2VC1EMkszT2hCc2Jrb2l4cmdZanFpQ2FhaTIwNlZRYTg2WHFpWUpvdGpKSDhCOTJzMjNDSDd4R2R5djNwT3pGSkRmMFVMdzRYb0ZlaFNNNWc1VVlsWDg0eU4xYUIx?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUFoM2dJbHJtalViQXVkaEx5TURNbFNITHVWenJHSDVoU012RjRoMXk5U2JzYzRMMlN2b0l0VGplQ0xnc1A5ZG9vX0dyRlIyMDdaRTBvMnFXdDNyNlFERkw0OGRSdHdveEx6ZEI0OWFvYzRFV0ZwZE5RdFpNcWc3LUFOUTFjcTFOcm1JOFFEeS1YWTlaZ1Fod0V3cFU3QkVWRVVGUUFRTUhiZUF5ZFdiTVFEN08?oc=5"
+        },
+        {
+          "name": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83OUdSVGpVR2RxZkhXbHdVcDVzcElOMHl6dmhCN1hQWThicVA0dnpmZTQ0TF91WHU5ejQtNVQtaUFRWU1tU0wxUzZJMnlTaXBYbkpVNkdnNXQwWFM3ajJMdkNLaXFFVDhyemhrQ3RQZnY4eDA?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGNmTk9fanU5TWV5OG9TVFYtVlNEMGpncEJSamlObHQycmc5QnlvZExjb2xJWHI2VC1EMkszT2hCc2Jrb2l4cmdZanFpQ2FhaTIwNlZRYTg2WHFpWUpvdGpKSDhCOTJzMjNDSDd4R2R5djNwT3pGSkRmMFVMdzRYb0ZlaFNNNWc1VVlsWDg0eU4xYUIx?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-46c73d88f7b5",
+      "original_title": "FinancialJuice: BoJ's Governor Ueda: Not yet to declare inflation target has been achieved as we think it is important for inflation to be stably, sustainably around 2%.",
+      "published_at": "2026-10-30T06:51:35Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Governor Ueda: Not yet to declare inflation target has been achieved as we think it is important for inflation to be stably, sustainably around 2%.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828858/BoJs-Governor-Ueda-Not-yet-to-declare-inflation-target-has-been-achieved-as-we-think-it-is-important-for-inflation-to-be-stably-sustainably-around-2.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828858/BoJs-Governor-Ueda-Not-yet-to-declare-inflation-target-has-been-achieved-as-we-think-it-is-important-for-inflation-to-be-stably-sustainably-around-2.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-e2304430d0c0",
+      "original_title": "FinancialJuice: BoJ's Governor Ueda: We need to watch impact of FX, AI and Middle East.",
+      "published_at": "2026-10-30T06:36:08Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Governor Ueda: We need to watch impact of FX, AI and Middle East.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828839/BoJs-Governor-Ueda-We-need-to-watch-impact-of-FX-AI-and-Middle-East.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828839/BoJs-Governor-Ueda-We-need-to-watch-impact-of-FX-AI-and-Middle-East.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-c0f5f551f520",
+      "original_title": "FinancialJuice: BoJ's Governor Ueda: Underlying CPI inflation at level generally consistent with 2% price stability target, expected to remain at around that level.",
+      "published_at": "2026-10-30T06:35:25Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Governor Ueda: Underlying CPI inflation at level generally consistent with 2% price stability target, expected to remain at around that level.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828838/BoJs-Governor-Ueda-Underlying-CPI-inflation-at-level-generally-consistent-with-2-price-stability-target-expected-to-remain-at-around-that-level.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828838/BoJs-Governor-Ueda-Underlying-CPI-inflation-at-level-generally-consistent-with-2-price-stability-target-expected-to-remain-at-around-that-level.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-716c7eb1da14",
+      "original_title": "FinancialJuice: BoJ's Governor Ueda: Mid- to long-term inflation expectations are at around 2%.",
+      "published_at": "2026-10-30T06:35:03Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Governor Ueda: Mid- to long-term inflation expectations are at around 2%.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828837/BoJs-Governor-Ueda-Mid--to-long-term-inflation-expectations-are-at-around-2.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828837/BoJs-Governor-Ueda-Mid--to-long-term-inflation-expectations-are-at-around-2.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-40da151a0947",
+      "original_title": "FinancialJuice: Qatari mediators returned to Tehran on Friday as part of effort to reach a US-Iran deal, mediation talks have been coordinated with US",
+      "published_at": "2026-10-30T06:29:00Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Qatari mediators returned to Tehran on Friday as part of effort to reach a US-Iran deal, mediation talks have been coordinated with US",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828824/Qatari-mediators-returned-to-Tehran-on-Friday-as-part-of-effort-to-reach-a-US-Iran-deal-mediation-talks-have-been-coordinated-with-US---Official-Briefed-on-Talks.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828824/Qatari-mediators-returned-to-Tehran-on-Friday-as-part-of-effort-to-reach-a-US-Iran-deal-mediation-talks-have-been-coordinated-with-US---Official-Briefed-on-Talks.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-e7d4fa16211b",
+      "original_title": "Oil prices soar on after U.S. kills Iranian commander",
+      "published_at": "2026-10-30T06:26:17Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil prices soar on after U.S. kills Iranian commander",
+          "source": "Reuters",
+          "snippet": "Oil prices soar on after U.S. kills Iranian commander &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1meUx4aEZxbDFCcDRhQzBEb1U0alRtekFrbXA0eHotNWlyb204aklrNnp1ZjUtSHdXeDZSTENxV200OXJ2d1c3YU1FT3dFQjk0UVk2VnkxRVFuV0Fq?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1meUx4aEZxbDFCcDRhQzBEb1U0alRtekFrbXA0eHotNWlyb204aklrNnp1ZjUtSHdXeDZSTENxV200OXJ2d1c3YU1FT3dFQjk0UVk2VnkxRVFuV0Fq?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-da5dcadeeee1",
+      "original_title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "published_at": "2026-10-30T06:22:00Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-257df726e2aa",
+      "original_title": "FinancialJuice: ECB's Simkus: We don't see second-round effects yet.",
+      "published_at": "2026-10-30T06:17:05Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: ECB's Simkus: We don't see second-round effects yet.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828822/ECBs-Simkus-We-dont-see-second-round-effects-yet.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828822/ECBs-Simkus-We-dont-see-second-round-effects-yet.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-af8612d115c2",
+      "original_title": "Elon Musk warns AI agents could exploit crypto after Binance hack",
+      "published_at": "2026-10-30T05:52:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Elon Musk warns AI agents could exploit crypto after Binance hack",
+          "source": "Crypto News",
+          "snippet": "Elon Musk warns AI agents could exploit crypto after Binance hack &nbsp;&nbsp; Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHM3eHVUUnhyb2phVXcweVZ2VkhNMlp0NlZwQ3hZSW8tSC1CaXBJbDNyWks0b0FUWTdMeGdnOVhSR29IZ3pmdGZ4Y0JtX0FfNE9GZFV6NUxqZmxBOVgzZDQ5ZklmcEVxTTR1ZzRrZ2xkdFZ2MzgyTFBURWJfRlMtMi1Ha1BIYWszTG5mYXNmUQ?oc=5"
+        },
+        {
+          "headline": "Elon Musk Warns Superintelligent AI Agents Could Hack Crypto to Fund Themselves",
+          "source": "Altcoin Buzz",
+          "snippet": "Elon Musk Warns Superintelligent AI Agents Could Hack Crypto to Fund Themselves &nbsp;&nbsp; Altcoin Buzz",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0dkSl91MUdoeXEwcFpQU0J2bnZLOWZmMjdlZTkwRThOZ3FNSnhsZE8wOFZIaTlkYWtWNXlDRDllcTZfSGFESDZMeXpuVVdaQXdCRXlOUVlYRTk0aENGX3dqZFJPLUIxUWtyN1lDdWQ2MldnU0ZQelgtVGtpMUp0eA?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHM3eHVUUnhyb2phVXcweVZ2VkhNMlp0NlZwQ3hZSW8tSC1CaXBJbDNyWks0b0FUWTdMeGdnOVhSR29IZ3pmdGZ4Y0JtX0FfNE9GZFV6NUxqZmxBOVgzZDQ5ZklmcEVxTTR1ZzRrZ2xkdFZ2MzgyTFBURWJfRlMtMi1Ha1BIYWszTG5mYXNmUQ?oc=5"
+        },
+        {
+          "name": "Altcoin Buzz",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0dkSl91MUdoeXEwcFpQU0J2bnZLOWZmMjdlZTkwRThOZ3FNSnhsZE8wOFZIaTlkYWtWNXlDRDllcTZfSGFESDZMeXpuVVdaQXdCRXlOUVlYRTk0aENGX3dqZFJPLUIxUWtyN1lDdWQ2MldnU0ZQelgtVGtpMUp0eA?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-c2386297300b",
+      "original_title": "Where Binance's $6.3 Billion Breach Ranks in Crypto's Biggest Hacks and Heists",
+      "published_at": "2026-10-30T05:51:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Where Binance's $6.3 Billion Breach Ranks in Crypto's Biggest Hacks and Heists",
+          "source": "Deccan Chronicle",
+          "snippet": "Where Binance's $6.3 Billion Breach Ranks in Crypto's Biggest Hacks and Heists &nbsp;&nbsp; Deccan Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONE9IMVgxcHJRbVlRNGduWVh5enRPU09RemVqSmMySm16UWs2UXl4cVZmYmlWUnM2STBEbjNzQXE3RXp5WlpHTC1FTGRwd1R2amg1TUdINnlQMEVobVh5ZnFOaEdreUM5cGdCOEV1cEQ3RE9SZ2lLa0YzaVh0Z3Z3QmFOcng3OUhSWWc3M1NEd0prS2dTeXlYVGZoS1J4QVFPSmVHbkEwM3BzeGlwZjlJYk4zQ2x4eEtERnpZY0FQam_SAcYBQVVfeXFMUDNsbkkzWWxQWUJsSHEwVldULWpQWFRCcnZsTXBPZXdtSThOWk5YQWVMTjl0d2Q4eTZ2cm5CanBWdjJKTHcxMEl3UTVvczRPak9ORWlTeElPcTNtdzZOMFZGVmhXT3ZPVFBZRlVnWnVYS3BXdks1VkxZSkVKUDZ4X2hySWktaEJncXY5SHRwald1bXd4VkpvWW1MZWFxSGxGTHBVZ3hvZFQwWXRZMm1oMmR0b3lLUkpuTWVNX0F6U1NoVDdZRF9n?oc=5"
+        },
+        {
+          "headline": "Where Binance's $6.3 billion breach ranks in crypto's biggest hacks and heists",
+          "source": "Reuters",
+          "snippet": "Where Binance's $6.3 billion breach ranks in crypto's biggest hacks and heists &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUklCT0Zncjc4TE93UXRGOFczR29GTTg1WllYUXVhWko5YWpRZ05DcXZKb0ZSMnhWS3VnNnBBUzJtRThXSHdYUlRPdC1scGtPb1BCb3hJM0JRWFVpVE1rUGFiUFBtV2hleHVVdl8wRW03eDdLdGc3TkpvdzY4UFNiTXJ3ZkEzZmNIY0ZUVkt4WHdYQVBtQkZhcm9GU2xiRXVUaUVndXlpYmxKQnpXamZiUV83OHZpU3U3Z2tFLQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Deccan Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONE9IMVgxcHJRbVlRNGduWVh5enRPU09RemVqSmMySm16UWs2UXl4cVZmYmlWUnM2STBEbjNzQXE3RXp5WlpHTC1FTGRwd1R2amg1TUdINnlQMEVobVh5ZnFOaEdreUM5cGdCOEV1cEQ3RE9SZ2lLa0YzaVh0Z3Z3QmFOcng3OUhSWWc3M1NEd0prS2dTeXlYVGZoS1J4QVFPSmVHbkEwM3BzeGlwZjlJYk4zQ2x4eEtERnpZY0FQam_SAcYBQVVfeXFMUDNsbkkzWWxQWUJsSHEwVldULWpQWFRCcnZsTXBPZXdtSThOWk5YQWVMTjl0d2Q4eTZ2cm5CanBWdjJKTHcxMEl3UTVvczRPak9ORWlTeElPcTNtdzZOMFZGVmhXT3ZPVFBZRlVnWnVYS3BXdks1VkxZSkVKUDZ4X2hySWktaEJncXY5SHRwald1bXd4VkpvWW1MZWFxSGxGTHBVZ3hvZFQwWXRZMm1oMmR0b3lLUkpuTWVNX0F6U1NoVDdZRF9n?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUklCT0Zncjc4TE93UXRGOFczR29GTTg1WllYUXVhWko5YWpRZ05DcXZKb0ZSMnhWS3VnNnBBUzJtRThXSHdYUlRPdC1scGtPb1BCb3hJM0JRWFVpVE1rUGFiUFBtV2hleHVVdl8wRW03eDdLdGc3TkpvdzY4UFNiTXJ3ZkEzZmNIY0ZUVkt4WHdYQVBtQkZhcm9GU2xiRXVUaUVndXlpYmxKQnpXamZiUV83OHZpU3U3Z2tFLQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-5fffc11c93ce",
+      "original_title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "published_at": "2026-10-30T05:45:27Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-902b5debd9f5",
+      "original_title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "published_at": "2026-10-30T05:43:07Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-bbbfddd050d4",
+      "original_title": "Oil Climbs on Signs US May Resume Military Strikes Against Iran",
+      "published_at": "2026-10-30T05:18:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil Climbs on Signs US May Resume Military Strikes Against Iran",
+          "source": "Bloomberg.com",
+          "snippet": "Oil Climbs on Signs US May Resume Military Strikes Against Iran &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9tbXFMMlg1cjY2NzhHaWxOS1Y0ZFNYcGhWRFg4RTE1YzhrcW96UDVLdXY2QjNTVG5aajd0ODRhQWVZSFM1X3ZCUVZTbzZpVXhna3F4eF9jcm5aT0ptZkZ1bXRnYzA2TkV3RWNGYm5ta01xODdWRzU2Y1lpY2pHQ1ZCX3hkbDAxcktreEtWSWVWRWV2S2ZMS3BhWGs1QQ?oc=5"
+        },
+        {
+          "headline": "Oil climbs on signs US may resume military strikes against Iran",
+          "source": "The Straits Times",
+          "snippet": "Oil climbs on signs US may resume military strikes against Iran &nbsp;&nbsp; The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYi1aV2FDUVcybzZacUdvOHBrSHltWnYydjhZLTNPVWs1UzJqbF9Dd0RGSWRaRENzOXBucWtIMkJVeEtMVjlxYnllZlhfblF2SjZFS3N2UVY3QUxoU3NNR1VZbE1nMjZSXzNWV1JMZmRuY1RTOVRaYkFGNUJlaUZQcHFCTVFkdG9jZEluUHRvZDhiOUxDV2VvSE53d0phVEdUSmxlVVYtbHpFSDlZbTlpZXJ3?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9tbXFMMlg1cjY2NzhHaWxOS1Y0ZFNYcGhWRFg4RTE1YzhrcW96UDVLdXY2QjNTVG5aajd0ODRhQWVZSFM1X3ZCUVZTbzZpVXhna3F4eF9jcm5aT0ptZkZ1bXRnYzA2TkV3RWNGYm5ta01xODdWRzU2Y1lpY2pHQ1ZCX3hkbDAxcktreEtWSWVWRWV2S2ZMS3BhWGs1QQ?oc=5"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYi1aV2FDUVcybzZacUdvOHBrSHltWnYydjhZLTNPVWs1UzJqbF9Dd0RGSWRaRENzOXBucWtIMkJVeEtMVjlxYnllZlhfblF2SjZFS3N2UVY3QUxoU3NNR1VZbE1nMjZSXzNWV1JMZmRuY1RTOVRaYkFGNUJlaUZQcHFCTVFkdG9jZEluUHRvZDhiOUxDV2VvSE53d0phVEdUSmxlVVYtbHpFSDlZbTlpZXJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-50fad243f499",
+      "original_title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "published_at": "2026-10-30T04:50:42Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-c806fcf5f18c",
+      "original_title": "바이낸스, 대규모 해킹의혹…안전하다더니 출금은 왜 막나?",
+      "published_at": "2026-10-30T04:42:24Z",
+      "discovery_source": "youtube",
+      "evidence": [
+        {
+          "headline": "바이낸스, 대규모 해킹의혹…안전하다더니 출금은 왜 막나?",
+          "source": "YouTube @새벽에온주호",
+          "snippet": "바이낸스가 해킹 의혹 이후 입출금을 막고 전액 보상을 약속했습니다. 고객 돈은 안전하다는데, 왜 꺼낼 수는 없을까요? 테더·서클이 자금을 묶었지만 해커 손에는 여전히 코인이 남아 있습니다. 바이낸스의 보상 약속과 업비트 코인에 번진 매도 충격, 함께 봐야 합니다. #비트코인 #바이낸스 #이더리움 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
+          "url": "https://www.youtube.com/watch?v=LzOextuMv4g"
+        }
+      ],
+      "sources": [
+        {
+          "name": "YouTube @새벽에온주호",
+          "url": "https://www.youtube.com/watch?v=LzOextuMv4g"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-bd10b06bb133",
+      "original_title": "FinancialJuice: Japan September crude oil imports decline 17.7% year-on-year: Meti",
+      "published_at": "2026-10-30T04:30:40Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan September crude oil imports decline 17.7% year-on-year: Meti",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828710/Japan-September-crude-oil-imports-decline-177-year-on-year-Meti.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828710/Japan-September-crude-oil-imports-decline-177-year-on-year-Meti.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-98a02827e619",
+      "original_title": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft",
+      "published_at": "2026-10-30T04:26:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft",
+          "source": "Reuters",
+          "snippet": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc01IcXZiYm9zemhhbHhBenBOeFE4NDlHMC1TNGxUOHNlVFJIQmY3QTF1cnpqZmRBcGlic184TnhyRVEtSEVkSTNGdzBxejNaUVlqSEkyMllicG50YkY1TURzUWtnVE5nVlhSYk1ROWwwdDdwQWg2NlZVVEgxc2NuQVZwUWxrOVBmRzNHb2dYUUJiQ2tmTFhfT3NGblYtTjhPdDNmUE5VVFJ1RnRTbnJnRXdSNm55VzRBSVBySTc2Wnc3aDJ2?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc01IcXZiYm9zemhhbHhBenBOeFE4NDlHMC1TNGxUOHNlVFJIQmY3QTF1cnpqZmRBcGlic184TnhyRVEtSEVkSTNGdzBxejNaUVlqSEkyMllicG50YkY1TURzUWtnVE5nVlhSYk1ROWwwdDdwQWg2NlZVVEgxc2NuQVZwUWxrOVBmRzNHb2dYUUJiQ2tmTFhfT3NGblYtTjhPdDNmUE5VVFJ1RnRTbnJnRXdSNm55VzRBSVBySTc2Wnc3aDJ2?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-947670a8a9d4",
+      "original_title": "트럼프 대통령은 지난주 전 개인 변호사 앨리나 하바가 베네수엘라 억만장자 에레라 벨루티니 가문과 5,000만 달러가 넘는 계약을 맺은 사실을 알고 격분했으며, 측근들에게 그 돈의 일부를 자신의 대통령 도서관에 기부해야 한다고 말한 것으로 전해졌습니다. 하바는 이 계약이 사면과 관련 있다는 주장은 거짓이라고 반박했습니다 - 뉴욕타임스",
+      "published_at": "2026-10-30T04:04:26Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프 대통령은 지난주 전 개인 변호사 앨리나 하바가 베네수엘라 억만장자 에레라 벨루티니 가문과 5,000만 달러가 넘는 계약을 맺은 사실을 알고 격분했으며, 측근들에게 그 돈의 일부를 자신의 대통령 도서관에 기부해야 한다고 말한 것으로 전해졌습니다. 하바는 이 계약이 사면과 관련 있다는 주장은 거짓이라고 반박했습니다 - 뉴욕타임스",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프 대통령은 지난주 전 개인 변호사 앨리나 하바가 베네수엘라 억만장자 에레라 벨루티니 가문과 5,000만 달러가 넘는 계약을 맺은 사실을 알고 격분했으며, 측근들에게 그 돈의 일부를 자신의 대통령 도서관에 기부해야 한다고 말한 것으로 전해졌습니다. 하바는 이 계약이 사면과 관련 있다는 주장은 거짓이라고 반박했습니다 - 뉴욕타임스",
+          "url": "https://t.me/goddessTTF/86422"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/86422"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-5930843ff573",
+      "original_title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+      "published_at": "2026-10-30T04:00:43Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-68eeec4fd5e3",
+      "original_title": "FinancialJuice: Japan finance minister Katayama: expect BoJ to coordinate closely with government to reach 2% inflation target",
+      "published_at": "2026-10-30T03:59:33Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finance minister Katayama: expect BoJ to coordinate closely with government to reach 2% inflation target",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828678/Japan-finance-minister-Katayama-expect-BoJ-to-coordinate-closely-with-government-to-reach-2-inflation-target.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828678/Japan-finance-minister-Katayama-expect-BoJ-to-coordinate-closely-with-government-to-reach-2-inflation-target.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-f1a5d96e47a6",
+      "original_title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "published_at": "2026-10-30T03:56:40Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-b562e02a5bd2",
+      "original_title": "Analysts react as Binance freezes assets after $6.3 billion security breach",
+      "published_at": "2026-10-30T03:39:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Analysts react as Binance freezes assets after $6.3 billion security breach",
+          "source": "Reuters",
+          "snippet": "Analysts react as Binance freezes assets after $6.3 billion security breach &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTg2OTFfWjhaMHRyQVFuRHhFalRRM2d3VnBkOGFnOHRtVGpRWHdIa0x3ZnhqbDEwZmh5X0s2NGZzbTJodXU5YWhTVjZEYW11TnI5cHU1SUZJMUVIbDJSRGNhMkd3dTZublJuU3BtUzNHME16aFd1UG9BYnNfQThSdzFSVUlsSVpoTXExcS1vMUUyRkNkcjRieGpZUnNrNjVfWTBQbVNmWDlZS2VHWWhlaG5lb2wyWHFuS3BtNGxveU1HUGxXc1dV?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTg2OTFfWjhaMHRyQVFuRHhFalRRM2d3VnBkOGFnOHRtVGpRWHdIa0x3ZnhqbDEwZmh5X0s2NGZzbTJodXU5YWhTVjZEYW11TnI5cHU1SUZJMUVIbDJSRGNhMkd3dTZublJuU3BtUzNHME16aFd1UG9BYnNfQThSdzFSVUlsSVpoTXExcS1vMUUyRkNkcjRieGpZUnNrNjVfWTBQbVNmWDlZS2VHWWhlaG5lb2wyWHFuS3BtNGxveU1HUGxXc1dV?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-66bc01479ee5",
+      "original_title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
+      "published_at": "2026-10-30T03:24:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
+          "source": "Reuters",
+          "snippet": "Gold slips as higher oil, US inflation data bolster Fed hike bets &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-1cbd5d9e6baa",
+      "original_title": "FinancialJuice: Dollar/yen extends losses, last down 0.37% at 157.115",
+      "published_at": "2026-10-30T03:16:31Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Dollar/yen extends losses, last down 0.37% at 157.115",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9828638/Dollaryen-extends-losses-last-down-037-at-157115.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9828638/Dollaryen-extends-losses-last-down-037-at-157115.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-07997978306d",
+      "original_title": "Australian Dollar edges higher as hot CPI inflation and hawkish RBA lift rate hike bets | FXStreet",
+      "published_at": "2026-10-30T03:02:09Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Australian Dollar edges higher as hot CPI inflation and hawkish RBA lift rate hike bets | FXStreet",
+          "source": "شبكة تواصل الإخبارية",
+          "snippet": "Australian Dollar edges higher as hot CPI inflation and hawkish RBA lift rate hike bets | FXStreet &nbsp;&nbsp; شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrdkFTR0p3X0hTWE1EbUtJU1UwVWFSVVZpUWRmd0hlRGdQVTlyTmt6VTkyN2d1bXdmRzNqLV9GVldLYk40RE9XNlRGeW13bTRSUmNz?oc=5"
+        },
+        {
+          "headline": "Australian Dollar edges higher as hot CPI inflation and hawkish RBA lift rate hike bets",
+          "source": "FXStreet",
+          "snippet": "Australian Dollar edges higher as hot CPI inflation and hawkish RBA lift rate hike bets &nbsp;&nbsp; FXStreet",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGFQd1NuZnc2MUpLVVpyTFlrNUVfTlNwZUFuYkN6QXd4OE1tR0M3bDB2UTdXQjlKcHFUVmszTmhqRnFoSFFKbHVhenNWTDZwZjJ1VEEwTnp0LWxhZk5DR216WTFTNHFhdkQzTGFmT3ZyMGU4Z1A1Z2NBR01GWmprOGVkSmRYc21lSV9sLUhlZWRxQms4T0RHZjBRbEZfYUVQV2l6WEY3TDMtSUp0ZHAwNC04OUx5Mk5CWVMyQldCc0FIbEVBSlRkNVZn?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrdkFTR0p3X0hTWE1EbUtJU1UwVWFSVVZpUWRmd0hlRGdQVTlyTmt6VTkyN2d1bXdmRzNqLV9GVldLYk40RE9XNlRGeW13bTRSUmNz?oc=5"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGFQd1NuZnc2MUpLVVpyTFlrNUVfTlNwZUFuYkN6QXd4OE1tR0M3bDB2UTdXQjlKcHFUVmszTmhqRnFoSFFKbHVhenNWTDZwZjJ1VEEwTnp0LWxhZk5DR216WTFTNHFhdkQzTGFmT3ZyMGU4Z1A1Z2NBR01GWmprOGVkSmRYc21lSV9sLUhlZWRxQms4T0RHZjBRbEZfYUVQV2l6WEY3TDMtSUp0ZHAwNC04OUx5Mk5CWVMyQldCc0FIbEVBSlRkNVZn?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-8571a73fe429",
+      "original_title": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
+      "published_at": "2026-10-30T02:27:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
+          "source": "Reuters",
+          "snippet": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-30-de712a710238",
+      "original_title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+      "published_at": "2026-10-30T02:05:04Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+          "source": "The Economic Times",
+          "snippet": "Bitcoin, cryptocurrency prices fall after Binance reports security issue &nbsp;&nbsp; The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOWnhWM0JjS21UZERORGhDbC16ZlhjdDJLS3lrRHFmV3I2WTAwU1UzLWdicWowbEF4QmJvQWZvSDdtbEJ6eG1kUDFlTkdiT1FLSmIwdl9fLXU4c3RPYXpQM21rTmFtQko3b1p3TlNXVGZqdHU2MWtDVWFwTHp0aFRGbjJpMDhabzNrSjFsQUFMbWR5bHFTZVdnNnpBUW43cnB3MlFyRWRQXzVnQmp3eGwwaFhnaTFBMUo1TjZJNEpyVWNWMUh6eHh3X0t5SlI0VTlvR0FJVEctaVZZRXhhSEZyVG5td2lfUFNDWXU4QWFQZnN3Ri1uRGNLSWFVc0JuX0hRR29yNGlfUTFSTmVNWkotMG1ZX2dUX2lvRUdWeU93eXNYN1FVbVJMcjN4T0E3NUc1MEx3bW1n0gHeAUFVX3lxTE85VFNGWURTQ1MweDNOV2VhWEhrMFJwZHAyLV9yQ0RBcUNqTDluenVzQTNoZ0xMcUJLQ21uajR4NGh5dC1NU1pYd1A4MWlzdUhOcnMxMjBoNVc5T3IwcW5OU1Y0MUNSNzd3bG1oZ2FkbEZtc1NzQThXOGZBamhnaTlqbGpMYk9yT29yMzh0SlVFeHdLUzk0YlhWSG5yRUxUQXFNUzBCeHlTeVh1d2Zud3ZqYUFMVjBoUmpYM2l0bE5naDc0MHI5MjE3bXZZRFJPREJFY3ZGVm5vRG5Zc2ZKdw?oc=5"
+        },
+        {
+          "headline": "Bitcoin, cryptocurrency prices fall after Binance reports security issue By Reuters",
+          "source": "Investing.com South Africa",
+          "snippet": "Bitcoin, cryptocurrency prices fall after Binance reports security issue By Reuters &nbsp;&nbsp; Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXZGQW40M0d6a0VjcXJTOHVIWndObHlCekFPQjgxbXZrWkR2SEE3emZIYTVKdVFrcm4zMk0tRWx3bU9uQks2OVRXd3J6TVpUcXNfQVhkYzVnMUxyNmprdWhULVJOQXIzc3UtSjJtSEtndEFuQVdXVi1WMU56RThMOEhWS0hQd0I1Q0R3Q0J3alJGUlM1UlgwZ2g1Nldrek5TRmVvdkVjbGNfTVZOT01rMTY5eWREUU9wTmJyaQ?oc=5"
+        },
+        {
+          "headline": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+          "source": "AOL.co.uk",
+          "snippet": "Bitcoin, cryptocurrency prices fall after Binance reports security issue &nbsp;&nbsp; AOL.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSFQ4UnJydUk1QTdtakRMYlZBT0hCcTlVbWItVEp5dFN6b3BFRkFIcEZNMkZHbjVaUVZkd0dmcHJvRDNiQzNCaWhpWXZJZmtKaXpqbUVpcHNnaHNDV09lenZuYzBTaXRFSWlEcEhUYlc0aFZVN0gwZ19UT0hwWU02QU1FX2lfcENaampnXzFhOFRkQQ?oc=5"
+        },
+        {
+          "headline": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+          "source": "Reuters",
+          "snippet": "Bitcoin, cryptocurrency prices fall after Binance reports security issue &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOWnhWM0JjS21UZERORGhDbC16ZlhjdDJLS3lrRHFmV3I2WTAwU1UzLWdicWowbEF4QmJvQWZvSDdtbEJ6eG1kUDFlTkdiT1FLSmIwdl9fLXU4c3RPYXpQM21rTmFtQko3b1p3TlNXVGZqdHU2MWtDVWFwTHp0aFRGbjJpMDhabzNrSjFsQUFMbWR5bHFTZVdnNnpBUW43cnB3MlFyRWRQXzVnQmp3eGwwaFhnaTFBMUo1TjZJNEpyVWNWMUh6eHh3X0t5SlI0VTlvR0FJVEctaVZZRXhhSEZyVG5td2lfUFNDWXU4QWFQZnN3Ri1uRGNLSWFVc0JuX0hRR29yNGlfUTFSTmVNWkotMG1ZX2dUX2lvRUdWeU93eXNYN1FVbVJMcjN4T0E3NUc1MEx3bW1n0gHeAUFVX3lxTE85VFNGWURTQ1MweDNOV2VhWEhrMFJwZHAyLV9yQ0RBcUNqTDluenVzQTNoZ0xMcUJLQ21uajR4NGh5dC1NU1pYd1A4MWlzdUhOcnMxMjBoNVc5T3IwcW5OU1Y0MUNSNzd3bG1oZ2FkbEZtc1NzQThXOGZBamhnaTlqbGpMYk9yT29yMzh0SlVFeHdLUzk0YlhWSG5yRUxUQXFNUzBCeHlTeVh1d2Zud3ZqYUFMVjBoUmpYM2l0bE5naDc0MHI5MjE3bXZZRFJPREJFY3ZGVm5vRG5Zc2ZKdw?oc=5"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXZGQW40M0d6a0VjcXJTOHVIWndObHlCekFPQjgxbXZrWkR2SEE3emZIYTVKdVFrcm4zMk0tRWx3bU9uQks2OVRXd3J6TVpUcXNfQVhkYzVnMUxyNmprdWhULVJOQXIzc3UtSjJtSEtndEFuQVdXVi1WMU56RThMOEhWS0hQd0I1Q0R3Q0J3alJGUlM1UlgwZ2g1Nldrek5TRmVvdkVjbGNfTVZOT01rMTY5eWREUU9wTmJyaQ?oc=5"
+        },
+        {
+          "name": "AOL.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSFQ4UnJydUk1QTdtakRMYlZBT0hCcTlVbWItVEp5dFN6b3BFRkFIcEZNMkZHbjVaUVZkd0dmcHJvRDNiQzNCaWhpWXZJZmtKaXpqbUVpcHNnaHNDV09lenZuYzBTaXRFSWlEcEhUYlc0aFZVN0gwZ19UT0hwWU02QU1FX2lfcENaampnXzFhOFRkQQ?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5"
+        }
+      ]
+    },
     {
       "stable_id": "2026-10-30-d8e3a91eaf8c",
       "original_title": "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar",
@@ -42,32 +872,32 @@
       ]
     },
     {
-      "stable_id": "2026-10-30-de712a710238",
-      "original_title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
-      "published_at": "2026-10-30T00:38:23Z",
+      "stable_id": "2026-10-30-e008e936b570",
+      "original_title": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026",
+      "published_at": "2026-10-30T01:33:10Z",
       "discovery_source": "news",
       "evidence": [
         {
-          "headline": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
-          "source": "Central Oregon Daily",
-          "snippet": "Bitcoin, cryptocurrency prices fall after Binance reports security issue &nbsp;&nbsp; Central Oregon Daily",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRHBTaWpYVUdtVkpFR0ZvTlR0OFhTOTlNZmFBcGMzNHZWRTBWeVRrQlJLQ1dzME83UEdKOWxpYkstYy1PS0pCX3JhNk5CV0k1NmxxdlYtb254bTlFSGlwSGtWeTR1MkJlX2hiR0xpOW9mVXVudVNXQkljQndTX1ZHMlF1QS1VNzRwZ2RvWUxidjlrSERibklhczR5eGx1YUdfb1ZzTzdjVWNaNmlTNXZFOUU2bi1BTEYtZEg4ZUhlLUhESmRueGJQR1pLdmR4ZHBMWk1NajVBZy1HY0tHLXB5Q3ptV1BCWTRKQzZHLWpBd19KaXdJR25UMS1OZTExR00?oc=5"
+          "headline": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026",
+          "source": "CryptoRank",
+          "snippet": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026 &nbsp;&nbsp; CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdTF2eWtUMFdSRkdGZDFEN2YwaXV1bXFJU2xTalkyODNBa1FIeVEyYUMxSXQ2M2FJcEYtQU1DTEhoRUtWLUpJTE56Y2pTZmhUUG9nQjZmSUM3NU5aVFhhaDRBRUpRb0pteF9ianZzYjVnQ3BOWkh1dHhOYTVhYkR3aExB?oc=5"
         },
         {
-          "headline": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
-          "source": "Reuters",
-          "snippet": "Bitcoin, cryptocurrency prices fall after Binance reports security issue &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5"
+          "headline": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026",
+          "source": "Bitcoin Magazine",
+          "snippet": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026 &nbsp;&nbsp; Bitcoin Magazine",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzdzQwS0dqb1dybWtWM2lYY2lRNk9MTGFpUzEweU0xZTZldlVtQjc5TTc0SldxVUJza2QwSnRlRlhnSXBubUR4eklKbWJvMkZOT21RX1pPakMtelZiemlFZ2hPQUJFel8tMEhpYzMzcHdHZEF1RzEyekR1MA?oc=5"
         }
       ],
       "sources": [
         {
-          "name": "Central Oregon Daily",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRHBTaWpYVUdtVkpFR0ZvTlR0OFhTOTlNZmFBcGMzNHZWRTBWeVRrQlJLQ1dzME83UEdKOWxpYkstYy1PS0pCX3JhNk5CV0k1NmxxdlYtb254bTlFSGlwSGtWeTR1MkJlX2hiR0xpOW9mVXVudVNXQkljQndTX1ZHMlF1QS1VNzRwZ2RvWUxidjlrSERibklhczR5eGx1YUdfb1ZzTzdjVWNaNmlTNXZFOUU2bi1BTEYtZEg4ZUhlLUhESmRueGJQR1pLdmR4ZHBMWk1NajVBZy1HY0tHLXB5Q3ptV1BCWTRKQzZHLWpBd19KaXdJR25UMS1OZTExR00?oc=5"
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdTF2eWtUMFdSRkdGZDFEN2YwaXV1bXFJU2xTalkyODNBa1FIeVEyYUMxSXQ2M2FJcEYtQU1DTEhoRUtWLUpJTE56Y2pTZmhUUG9nQjZmSUM3NU5aVFhhaDRBRUpRb0pteF9ianZzYjVnQ3BOWkh1dHhOYTVhYkR3aExB?oc=5"
         },
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5"
+          "name": "Bitcoin Magazine",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzdzQwS0dqb1dybWtWM2lYY2lRNk9MTGFpUzEweU0xZTZldlVtQjc5TTc0SldxVUJza2QwSnRlRlhnSXBubUR4eklKbWJvMkZOT21RX1pPakMtelZiemlFZ2hPQUJFel8tMEhpYzMzcHdHZEF1RzEyekR1MA?oc=5"
         }
       ]
     },
@@ -194,17 +1024,17 @@
     {
       "stable_id": "2026-10-29-cabeed92fa67",
       "original_title": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
-      "published_at": "2026-10-29T23:56:32Z",
+      "published_at": "2026-10-29T23:47:55Z",
       "discovery_source": "coindesk",
       "evidence": [
         {
           "headline": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
-          "source": "Axios",
-          "snippet": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history &nbsp;&nbsp; Axios",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83OUdSVGpVR2RxZkhXbHdVcDVzcElOMHl6dmhCN1hQWThicVA0dnpmZTQ0TF91WHU5ejQtNVQtaUFRWU1tU0wxUzZJMnlTaXBYbkpVNkdnNXQwWFM3ajJMdkNLaXFFVDhyemhrQ3RQZnY4eDA?oc=5"
+          "source": "Yahoo Finance",
+          "snippet": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history &nbsp;&nbsp; Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0dhb1Y0cU9ZT05FaWk4NWlBYkk0Vl9yOUhCOFJPcmthcmIyTDg1MnA5ZjJIQWRBakdjWERGbkp3N2tIbVlxV3diUlg4WkNsQ0U5TUpqODlMd3JKZXJ2TFBWOE5Cb19KVVVDa0xSLU5xSlY1dVBZZVFtZGFUVUIxenEybzUxQWl3alUyY2lmVEZwYjdqM0pJ?oc=5"
         },
         {
-          "headline": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+          "headline": "Binance loses over $6 billion in 'biggest crypto hack in history'",
           "source": "CoinDesk",
           "snippet": "",
           "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
@@ -212,8 +1042,8 @@
       ],
       "sources": [
         {
-          "name": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83OUdSVGpVR2RxZkhXbHdVcDVzcElOMHl6dmhCN1hQWThicVA0dnpmZTQ0TF91WHU5ejQtNVQtaUFRWU1tU0wxUzZJMnlTaXBYbkpVNkdnNXQwWFM3ajJMdkNLaXFFVDhyemhrQ3RQZnY4eDA?oc=5"
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0dhb1Y0cU9ZT05FaWk4NWlBYkk0Vl9yOUhCOFJPcmthcmIyTDg1MnA5ZjJIQWRBakdjWERGbkp3N2tIbVlxV3diUlg4WkNsQ0U5TUpqODlMd3JKZXJ2TFBWOE5Cb19KVVVDa0xSLU5xSlY1dVBZZVFtZGFUVUIxenEybzUxQWl3alUyY2lmVEZwYjdqM0pJ?oc=5"
         },
         {
           "name": "CoinDesk",
@@ -514,30 +1344,40 @@
     {
       "stable_id": "2026-10-29-8d6504805130",
       "original_title": "Vance outreach to Iran related to medical supplies, says Trump",
-      "published_at": "2026-10-29T20:49:00Z",
+      "published_at": "2026-10-29T20:49:22Z",
       "discovery_source": "news",
       "evidence": [
         {
           "headline": "Vance outreach to Iran related to medical supplies, says Trump",
-          "source": "AOL.com",
-          "snippet": "Vance outreach to Iran related to medical supplies, says Trump &nbsp;&nbsp; AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWRuV3U4bVRnSHp4bHZJQlhtbTUteEt5SzIxS2tuRTJEeXZzVzJ5XzM0akp5eTVJUDRwdkpLVVV4TGM2VDZPaGdmcmtULWloOFBia3RtdjVTRU9yNWFscnpzeWNnYUVCWk1hZ01OQ0JaZ2djMXdqTVlOSjNUVWtGeWJyaUZhUQ?oc=5"
+          "source": "Reuters",
+          "snippet": "Vance outreach to Iran related to medical supplies, says Trump &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQm9INjQwOFV2OFBtTHNrV0F6RnF1Z0NmMHJyT1lJMVJBNm4xNm10VzYtdGF3Zl93aUVxNklqNnpld3VXbHFfRTRZWW9MekFMeXJqcHdWc2pJV2xtYXBiRWE3YmFEbGZIa1dGUVRMbVktYXp5Z3dsenJjZFNORjlJaUdGYjVZQ0E0UEt2VFJVUFBxb1NTMjJTRENRSjN5OTFRaXNpLVFKc1ZGR2xzekE?oc=5"
         },
         {
           "headline": "Vance outreach to Iran related to medical supplies, says Trump",
           "source": "Yahoo",
           "snippet": "Vance outreach to Iran related to medical supplies, says Trump &nbsp;&nbsp; Yahoo",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUktzbTgxbmMxQXJOX2I2a2FzalZfWWJCUGdtQlhaQ0tfdXJMbmZHcDRVWV96dG8tUE1CRHluZ2lVWmt0RkVlSU5wRmNXMnB5VVprZ3REUjlnMzZ6aGs3WFBDRndCbld6QWZEZ09ybllmYXBvNVJWbzhTTXVfSnk5LVVGdHdLMnhzd2NUUWlsdw?oc=5"
+        },
+        {
+          "headline": "Vance outreach to Iran related to medical supplies, says Trump",
+          "source": "AOL.co.uk",
+          "snippet": "Vance outreach to Iran related to medical supplies, says Trump &nbsp;&nbsp; AOL.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTV1dDgyQUF2WkpWRDlQVjNVMHJFUG9PTjNWb2dmVkxnMGk4bTg3cml6U00ydy1aajdUMFpKVDB1WU04b0lUZUxtazUwLUROanU0SkhIR1dQWG1YZmlqbEtNelJVR1QxQ2RDcjBxMUQtajVRMzEydUNnQzRzWnRiLVpsVUFlLXZV?oc=5"
         }
       ],
       "sources": [
         {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWRuV3U4bVRnSHp4bHZJQlhtbTUteEt5SzIxS2tuRTJEeXZzVzJ5XzM0akp5eTVJUDRwdkpLVVV4TGM2VDZPaGdmcmtULWloOFBia3RtdjVTRU9yNWFscnpzeWNnYUVCWk1hZ01OQ0JaZ2djMXdqTVlOSjNUVWtGeWJyaUZhUQ?oc=5"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQm9INjQwOFV2OFBtTHNrV0F6RnF1Z0NmMHJyT1lJMVJBNm4xNm10VzYtdGF3Zl93aUVxNklqNnpld3VXbHFfRTRZWW9MekFMeXJqcHdWc2pJV2xtYXBiRWE3YmFEbGZIa1dGUVRMbVktYXp5Z3dsenJjZFNORjlJaUdGYjVZQ0E0UEt2VFJVUFBxb1NTMjJTRENRSjN5OTFRaXNpLVFKc1ZGR2xzekE?oc=5"
         },
         {
           "name": "Yahoo",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUktzbTgxbmMxQXJOX2I2a2FzalZfWWJCUGdtQlhaQ0tfdXJMbmZHcDRVWV96dG8tUE1CRHluZ2lVWmt0RkVlSU5wRmNXMnB5VVprZ3REUjlnMzZ6aGs3WFBDRndCbld6QWZEZ09ybllmYXBvNVJWbzhTTXVfSnk5LVVGdHdLMnhzd2NUUWlsdw?oc=5"
+        },
+        {
+          "name": "AOL.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTV1dDgyQUF2WkpWRDlQVjNVMHJFUG9PTjNWb2dmVkxnMGk4bTg3cml6U00ydy1aajdUMFpKVDB1WU04b0lUZUxtazUwLUROanU0SkhIR1dQWG1YZmlqbEtNelJVR1QxQ2RDcjBxMUQtajVRMzEydUNnQzRzWnRiLVpsVUFlLXZV?oc=5"
         }
       ]
     },
@@ -1202,6 +2042,26 @@
       ]
     },
     {
+      "stable_id": "2026-10-29-5bf20a09770d",
+      "original_title": "Europe Inc heads for second-best earnings season since 2022",
+      "published_at": "2026-10-29T16:24:25Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Europe Inc heads for second-best earnings season since 2022",
+          "source": "Reuters",
+          "snippet": "Europe Inc heads for second-best earnings season since 2022 &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHN5RlpkMThjUU5Rd0FRLXJRNEtteHQ3ODBGeE5tOEFFTWhwVmY5Y0Q5N0VtbDBYWU1wLWhYSUs0NHZJazBfUmlkNURTcDlmVHI5UU1uVkRxclEzQk1uWWxXNkswRGhwTHhjczVESE5kQnhkSjkwV0RTenpnaDJsVWNoWlFadnZyeUZpUHE5eFo0TjFILVNROERib18tQXpYdWc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHN5RlpkMThjUU5Rd0FRLXJRNEtteHQ3ODBGeE5tOEFFTWhwVmY5Y0Q5N0VtbDBYWU1wLWhYSUs0NHZJazBfUmlkNURTcDlmVHI5UU1uVkRxclEzQk1uWWxXNkswRGhwTHhjczVESE5kQnhkSjkwV0RTenpnaDJsVWNoWlFadnZyeUZpUHE5eFo0TjFILVNROERib18tQXpYdWc?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-10-29-62c68965760e",
       "original_title": "FinancialJuice: UK October year-ahead public inflation expectations 4.2% vs 4.5% in September",
       "published_at": "2026-10-29T16:20:16Z",
@@ -1258,6 +2118,36 @@
         {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-10-29-18538fa8756e",
+      "original_title": "Bitcoin Price Forecast: BTC falls below $80,000 after Fed leaves rates unchanged and strikes a hawkish tone",
+      "published_at": "2026-10-29T16:02:16Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin Price Forecast: BTC falls below $80,000 after Fed leaves rates unchanged and strikes a hawkish tone",
+          "source": "www.tmgm.com",
+          "snippet": "Bitcoin Price Forecast: BTC falls below $80,000 after Fed leaves rates unchanged and strikes a hawkish tone &nbsp;&nbsp; www.tmgm.com",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcEkxTHdWOVhsbkFBMU9YWUxOZ0h4a0RjcElMb2pXWDM1c3BhVE9ZbWJWeERYYkNsSmxkanV2clMyWHBKUG9HWXZfR043c1ZJdS1YQk5SNFk0YmtTZGpGT2ZiRTRFTFc1cUh2dU5YRDdHc256T0d1dko3R0F5bXNyd1AtNFlPVnZmVmZoUzhiSDh1RHZSM3Fuak0wTDlmeDNoakFsNlFHUFJkNFRucHFfdmN3UUcycWdWY3U0V0tlSTlud1pycXdwcjFyNk9IYU9uQVA3eGdQTXNJaXptWW1ndTY0TkI0Tk02QVkzNG1COHAxdXc?oc=5"
+        },
+        {
+          "headline": "Bitcoin Price Forecast: BTC slides below $80,000 as Fed holds rates steady with a hawkish tone",
+          "source": "FXStreet",
+          "snippet": "Bitcoin Price Forecast: BTC slides below $80,000 as Fed holds rates steady with a hawkish tone &nbsp;&nbsp; FXStreet",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUzVCYUJPMmk2ekRjTjJOanZ5UWYwdUJHaHFHQzdIM2JzeEFGOGRTYVBsWVV2MDhjQXdibWhLNmxrVEVjMy04XzdvdEV0Z0hYby1mRkNhQjlmd0wtUWJUbG5OU1drUXluWF9BOVBFRll4YlRBR21BWHVIci1YWGJkS21TRV9vQzJzaW04YUdPbHJnNlBMdWJZUFN0eE9vRmlwNG80Y2d3S0xPelYwRkE0bGw0X1d3UE8zdnBMZ1RZekRDVU95LWtFUkhDSjQwMlcySVdyQ3VzdnFXa050R0VDNGNHM2hiZlU?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "www.tmgm.com",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcEkxTHdWOVhsbkFBMU9YWUxOZ0h4a0RjcElMb2pXWDM1c3BhVE9ZbWJWeERYYkNsSmxkanV2clMyWHBKUG9HWXZfR043c1ZJdS1YQk5SNFk0YmtTZGpGT2ZiRTRFTFc1cUh2dU5YRDdHc256T0d1dko3R0F5bXNyd1AtNFlPVnZmVmZoUzhiSDh1RHZSM3Fuak0wTDlmeDNoakFsNlFHUFJkNFRucHFfdmN3UUcycWdWY3U0V0tlSTlud1pycXdwcjFyNk9IYU9uQVA3eGdQTXNJaXptWW1ndTY0TkI0Tk02QVkzNG1COHAxdXc?oc=5"
+        },
+        {
+          "name": "FXStreet",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUzVCYUJPMmk2ekRjTjJOanZ5UWYwdUJHaHFHQzdIM2JzeEFGOGRTYVBsWVV2MDhjQXdibWhLNmxrVEVjMy04XzdvdEV0Z0hYby1mRkNhQjlmd0wtUWJUbG5OU1drUXluWF9BOVBFRll4YlRBR21BWHVIci1YWGJkS21TRV9vQzJzaW04YUdPbHJnNlBMdWJZUFN0eE9vRmlwNG80Y2d3S0xPelYwRkE0bGw0X1d3UE8zdnBMZ1RZekRDVU95LWtFUkhDSjQwMlcySVdyQ3VzdnFXa050R0VDNGNHM2hiZlU?oc=5"
         }
       ]
     },
@@ -1398,816 +2288,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9827611/IMF-US-growth-resilient-so-far-propelled-by-private-consumption-despite-higher-oil-prices-and-inflation-plus-investment.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-5f15142ab400",
-      "original_title": "FinancialJuice: US treasury to sell $95 billion in three-month bills",
-      "published_at": "2026-10-29T15:00:46Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US treasury to sell $95 billion in three-month bills",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827608/US-treasury-to-sell-95-billion-in-three-month-bills.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827608/US-treasury-to-sell-95-billion-in-three-month-bills.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-50513785ed4c",
-      "original_title": "Bitcoin flat at $80k as hawkish Fed, hotter inflation data weigh By Investing.com",
-      "published_at": "2026-10-29T15:00:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin flat at $80k as hawkish Fed, hotter inflation data weigh By Investing.com",
-          "source": "Investing.com India",
-          "snippet": "Bitcoin flat at $80k as hawkish Fed, hotter inflation data weigh By Investing.com &nbsp;&nbsp; Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjF1cG9SREVnRUdBYzZlQ1QtYTRRTVZ5cW5wMmxrV3hpVVdEbGZ1bVhtdE9lMW1XRDVueC03Vmg1VGctMS1yQjVHVGxlVVhha0tNVHl0NWhQTjl6REpZYjdkRVJvRmtzdkllVnlhUV9LVjJwYTVlbVRUaXJCUy1hanRZbFcwd1hEVFc0Z1BWTmVZQU1Hd2N4Z0ZBU3N1aWNFNE5xeVNzR2Rzd0dzbFpISjNEcUpPYVk5SFZreEtR?oc=5"
-        },
-        {
-          "headline": "Bitcoin flat at $80k as hawkish Fed, hotter inflation data weigh",
-          "source": "Investing.com",
-          "snippet": "Bitcoin flat at $80k as hawkish Fed, hotter inflation data weigh &nbsp;&nbsp; Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTcxeWU2bm43cHl0Z3ljSWxMRWVRSldtSTdkSDcyOEsyYzloN0lMdFJoV25VWjBPNHBLWFU5V21NN2w4Ujk5WUNtTDN3eHM4dG9uS0ZzeC1DZGZNa291RHBmcEkyd1JKNk9LaS1mRkREUHVlYVJrUjBZUHpYaklRNEJ4enFpOEYtRjJOQXlnTVlncS1VSjVKQng2ZVNZSmlzbzFYNXpfZzBjRXJHUEotaVhOckRlS09aRXRRckNtYw?oc=5"
-        },
-        {
-          "headline": "Bitcoin dips to $80k as hawkish Fed, mixed tech earnings weigh By Investing.com",
-          "source": "Investing.com South Africa",
-          "snippet": "Bitcoin dips to $80k as hawkish Fed, mixed tech earnings weigh By Investing.com &nbsp;&nbsp; Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0daZk0za3hUV25PU2hvanZfZk1kNWNNaEE5RjExZG5BQUFDUlRsYWphUDJqbTBXRzB0STdSX0NoUmtmTTdsSE9jTF9tZDRPRkI2R2ppbTQzeWFrZmhQZGNGNWVpeEtwb3JDQlRIcnA4YzJKVzEyVVJKYUpSNDFGenJTcFgxTkRIUlI2WFJ4WG1Db2pSUjlIOEZYbFc2TmdWVnlmYkViY2Q5RnJMSEpZcDhSYkhDZEdEMmZXU3dB?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjF1cG9SREVnRUdBYzZlQ1QtYTRRTVZ5cW5wMmxrV3hpVVdEbGZ1bVhtdE9lMW1XRDVueC03Vmg1VGctMS1yQjVHVGxlVVhha0tNVHl0NWhQTjl6REpZYjdkRVJvRmtzdkllVnlhUV9LVjJwYTVlbVRUaXJCUy1hanRZbFcwd1hEVFc0Z1BWTmVZQU1Hd2N4Z0ZBU3N1aWNFNE5xeVNzR2Rzd0dzbFpISjNEcUpPYVk5SFZreEtR?oc=5"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTcxeWU2bm43cHl0Z3ljSWxMRWVRSldtSTdkSDcyOEsyYzloN0lMdFJoV25VWjBPNHBLWFU5V21NN2w4Ujk5WUNtTDN3eHM4dG9uS0ZzeC1DZGZNa291RHBmcEkyd1JKNk9LaS1mRkREUHVlYVJrUjBZUHpYaklRNEJ4enFpOEYtRjJOQXlnTVlncS1VSjVKQng2ZVNZSmlzbzFYNXpfZzBjRXJHUEotaVhOckRlS09aRXRRckNtYw?oc=5"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0daZk0za3hUV25PU2hvanZfZk1kNWNNaEE5RjExZG5BQUFDUlRsYWphUDJqbTBXRzB0STdSX0NoUmtmTTdsSE9jTF9tZDRPRkI2R2ppbTQzeWFrZmhQZGNGNWVpeEtwb3JDQlRIcnA4YzJKVzEyVVJKYUpSNDFGenJTcFgxTkRIUlI2WFJ4WG1Db2pSUjlIOEZYbFc2TmdWVnlmYkViY2Q5RnJMSEpZcDhSYkhDZEdEMmZXU3dB?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-d9cc2eb0cec7",
-      "original_title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-      "published_at": "2026-10-29T14:55:47Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-5cdf0dbce0ff",
-      "original_title": "FinancialJuice: Iran insists on its seven conditions being met by US, any position that contradicts this framework is unacceptable",
-      "published_at": "2026-10-29T14:42:17Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran insists on its seven conditions being met by US, any position that contradicts this framework is unacceptable",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827579/Iran-insists-on-its-seven-conditions-being-met-by-US-any-position-that-contradicts-this-framework-is-unacceptable---Tasnim-News.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827579/Iran-insists-on-its-seven-conditions-being-met-by-US-any-position-that-contradicts-this-framework-is-unacceptable---Tasnim-News.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-45992fa98c1f",
-      "original_title": "FinancialJuice: Iran's Tansim news agency: Iran received letter from Vance, has not replied.",
-      "published_at": "2026-10-29T14:41:24Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's Tansim news agency: Iran received letter from Vance, has not replied.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827578/Irans-Tansim-news-agency-Iran-received-letter-from-Vance-has-not-replied.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827578/Irans-Tansim-news-agency-Iran-received-letter-from-Vance-has-not-replied.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-fc871b8873f1",
-      "original_title": "FinancialJuice: Iran hasn't yet replied to Vance's letter",
-      "published_at": "2026-10-29T14:40:58Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran hasn't yet replied to Vance's letter",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827577/Iran-hasnt-yet-replied-to-Vances-letter---Tasnim.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827577/Iran-hasnt-yet-replied-to-Vances-letter---Tasnim.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-c82426dd8891",
-      "original_title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
-      "published_at": "2026-10-29T14:39:01Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-920887619526",
-      "original_title": "FinancialJuice: WH Sr. Adviser Hassett: If Oct. inflation  is really high, Fed probably to act.",
-      "published_at": "2026-10-29T14:38:59Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: WH Sr. Adviser Hassett: If Oct. inflation  is really high, Fed probably to act.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827575/WH-Sr-Adviser-Hassett-If-Oct-inflation--is-really-high-Fed-probably-to-act.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827575/WH-Sr-Adviser-Hassett-If-Oct-inflation--is-really-high-Fed-probably-to-act.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-4f33fa8f152d",
-      "original_title": "FinancialJuice: Before noon today, a delinquent oil tanker traveling in the forbidden and unsafe area in the east of the Strait of Hormuz was damaged and caught fire due to collision with sea mines and stopped moving",
-      "published_at": "2026-10-29T14:22:37Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Before noon today, a delinquent oil tanker traveling in the forbidden and unsafe area in the east of the Strait of Hormuz was damaged and caught fire due to collision with sea mines and stopped moving",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827539/Before-noon-today-a-delinquent-oil-tanker-traveling-in-the-forbidden-and-unsafe-area-in-the-east-of-the-Strait-of-Hormuz-was-damaged-and-caught-fire-due-to-collision-with-sea-mines-and-stopped-moving---IRIB-News.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827539/Before-noon-today-a-delinquent-oil-tanker-traveling-in-the-forbidden-and-unsafe-area-in-the-east-of-the-Strait-of-Hormuz-was-damaged-and-caught-fire-due-to-collision-with-sea-mines-and-stopped-moving---IRIB-News.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-7b2732406203",
-      "original_title": "FinancialJuice: Offending oil tanker collides with sea mines, damaged, catches fire and is stopped",
-      "published_at": "2026-10-29T14:22:19Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Offending oil tanker collides with sea mines, damaged, catches fire and is stopped",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827538/Offending-oil-tanker-collides-with-sea-mines-damaged-catches-fire-and-is-stopped---IRIB-News.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827538/Offending-oil-tanker-collides-with-sea-mines-damaged-catches-fire-and-is-stopped---IRIB-News.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-b4637f388435",
-      "original_title": "FinancialJuice: EU's von der Leyen: this implies combined or supplementary investment, including private funding on both sides",
-      "published_at": "2026-10-29T14:19:08Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: EU's von der Leyen: this implies combined or supplementary investment, including private funding on both sides",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827537/EUs-von-der-Leyen-this-implies-combined-or-supplementary-investment-including-private-funding-on-both-sides.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827537/EUs-von-der-Leyen-this-implies-combined-or-supplementary-investment-including-private-funding-on-both-sides.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-f69c8a5d3837",
-      "original_title": "FinancialJuice: EU's von der Leyen: EU and Canada to create unified space for strategic supply chains",
-      "published_at": "2026-10-29T14:19:06Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: EU's von der Leyen: EU and Canada to create unified space for strategic supply chains",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827536/EUs-von-der-Leyen-EU-and-Canada-to-create-unified-space-for-strategic-supply-chains.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827536/EUs-von-der-Leyen-EU-and-Canada-to-create-unified-space-for-strategic-supply-chains.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-d714db7e8cda",
-      "original_title": "FinancialJuice: Crypto Fear & Greed Index: 51/100",
-      "published_at": "2026-10-29T14:18:01Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Crypto Fear & Greed Index: 51/100",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827534/Crypto-Fear--Greed-Index-51100---Neutral.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827534/Crypto-Fear--Greed-Index-51100---Neutral.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-69f78cbd114f",
-      "original_title": "FinancialJuice: QatarEnergy CEO: Has met Iranian Acting Petroleum Minister twice in past two weeks, exploring postwar cooperation in oil and gas",
-      "published_at": "2026-10-29T14:16:34Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: QatarEnergy CEO: Has met Iranian Acting Petroleum Minister twice in past two weeks, exploring postwar cooperation in oil and gas",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827532/QatarEnergy-CEO-Has-met-Iranian-Acting-Petroleum-Minister-twice-in-past-two-weeks-exploring-postwar-cooperation-in-oil-and-gas.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827532/QatarEnergy-CEO-Has-met-Iranian-Acting-Petroleum-Minister-twice-in-past-two-weeks-exploring-postwar-cooperation-in-oil-and-gas.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-365fe4271f4f",
-      "original_title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-      "published_at": "2026-10-29T14:15:46Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-74de96ca714a",
-      "original_title": "FinancialJuice: QatarEnergy CEO: Qatar Buying US LNG as Hedge Against Hormuz Disruptions, Expects More Long-Term Deals by End-2026, Target \"Much Higher\" Than 7 MTPA",
-      "published_at": "2026-10-29T14:15:13Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: QatarEnergy CEO: Qatar Buying US LNG as Hedge Against Hormuz Disruptions, Expects More Long-Term Deals by End-2026, Target \"Much Higher\" Than 7 MTPA",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827508/QatarEnergy-CEO-Qatar-Buying-US-LNG-as-Hedge-Against-Hormuz-Disruptions-Expects-More-Long-Term-Deals-by-End-2026-Target-Much-Higher-Than-7-MTPA.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827508/QatarEnergy-CEO-Qatar-Buying-US-LNG-as-Hedge-Against-Hormuz-Disruptions-Expects-More-Long-Term-Deals-by-End-2026-Target-Much-Higher-Than-7-MTPA.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-8e43cad8e4ee",
-      "original_title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
-      "published_at": "2026-10-29T14:15:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-a837e16d7229",
-      "original_title": "FinancialJuice: EU’s Von der Leyen: It will be ‘partnership without membership’",
-      "published_at": "2026-10-29T14:09:11Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: EU’s Von der Leyen: It will be ‘partnership without membership’",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827502/EUs-Von-der-Leyen-It-will-be-partnership-without-membership.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827502/EUs-Von-der-Leyen-It-will-be-partnership-without-membership.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-435a4140273a",
-      "original_title": "FinancialJuice: EU's Von der Leyen: talks under way on Canada as first associate member of EU",
-      "published_at": "2026-10-29T14:08:35Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: EU's Von der Leyen: talks under way on Canada as first associate member of EU",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827501/EUs-Von-der-Leyen-talks-under-way-on-Canada-as-first-associate-member-of-EU.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827501/EUs-Von-der-Leyen-talks-under-way-on-Canada-as-first-associate-member-of-EU.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-6cb03cbedcc6",
-      "original_title": "FinancialJuice: EU's von der Leyen: Canada cannot join EU due to location, but aims to elevate ties to highest level",
-      "published_at": "2026-10-29T14:08:34Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: EU's von der Leyen: Canada cannot join EU due to location, but aims to elevate ties to highest level",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827500/EUs-von-der-Leyen-Canada-cannot-join-EU-due-to-location-but-aims-to-elevate-ties-to-highest-level.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827500/EUs-von-der-Leyen-Canada-cannot-join-EU-due-to-location-but-aims-to-elevate-ties-to-highest-level.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-0a6570983e5e",
-      "original_title": "FinancialJuice: ECB President Lagarde: no sign of second-round effects beyond projections",
-      "published_at": "2026-10-29T14:03:03Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB President Lagarde: no sign of second-round effects beyond projections",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827494/ECB-President-Lagarde-no-sign-of-second-round-effects-beyond-projections.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827494/ECB-President-Lagarde-no-sign-of-second-round-effects-beyond-projections.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-a6282dd497c9",
-      "original_title": "Why Bitcoin, ETH and XRP are Still Falling Despite the Steady Fed Holding Rates",
-      "published_at": "2026-10-29T14:01:09Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Why Bitcoin, ETH and XRP are Still Falling Despite the Steady Fed Holding Rates",
-          "source": "Altcoin Buzz",
-          "snippet": "Why Bitcoin, ETH and XRP are Still Falling Despite the Steady Fed Holding Rates &nbsp;&nbsp; Altcoin Buzz",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0FnbkQwVTh1dU9CN2hwckRZWGJHUVUtYS1QOGZEZ29GVWpjMTgzV2h1elBNZGx6UDBXWTlBYVVubXREaG93d2E0alBIdjI0Ri1lVVBFTDV5X3FfdHNmX2djLWJDdElPZFBCTkJqSFQxdzVsYWVaZnlENHBuTHR0eGJBX0ROU1E?oc=5"
-        },
-        {
-          "headline": "Why Bitcoin, ETH, XRP Falling Despite Fed Keeps Interest Rates Steady?",
-          "source": "Coin Gabbar",
-          "snippet": "Why Bitcoin, ETH, XRP Falling Despite Fed Keeps Interest Rates Steady? &nbsp;&nbsp; Coin Gabbar",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWJyTUV0NDdnN2UxZFA5SDhvdnRLWlYweVZJNUZHZ04wWG41alE5SDhJLUFLdTJIUmxHODl1aFNYU2FWaGxSenJ2QnptZUY4SV9PcWZORDRTMHIyeW5oaUwtY2ZvQVpvZVMxVmVfa2lqSjAxWXE5MEI5TlFqVjhDUXhJRWFVdTQ3Q2Q0UlB4Y25QTkE2UGtXRw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Altcoin Buzz",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0FnbkQwVTh1dU9CN2hwckRZWGJHUVUtYS1QOGZEZ29GVWpjMTgzV2h1elBNZGx6UDBXWTlBYVVubXREaG93d2E0alBIdjI0Ri1lVVBFTDV5X3FfdHNmX2djLWJDdElPZFBCTkJqSFQxdzVsYWVaZnlENHBuTHR0eGJBX0ROU1E?oc=5"
-        },
-        {
-          "name": "Coin Gabbar",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWJyTUV0NDdnN2UxZFA5SDhvdnRLWlYweVZJNUZHZ04wWG41alE5SDhJLUFLdTJIUmxHODl1aFNYU2FWaGxSenJ2QnptZUY4SV9PcWZORDRTMHIyeW5oaUwtY2ZvQVpvZVMxVmVfa2lqSjAxWXE5MEI5TlFqVjhDUXhJRWFVdTQ3Q2Q0UlB4Y25QTkE2UGtXRw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-2138af52f519",
-      "original_title": "Alice & Bob's model cuts hardware needed to break Bitcoin keys by about 17 times",
-      "published_at": "2026-10-29T14:00:05Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Alice & Bob's model cuts hardware needed to break Bitcoin keys by about 17 times",
-          "source": "TradingView",
-          "snippet": "Alice & Bob's model cuts hardware needed to break Bitcoin keys by about 17 times &nbsp;&nbsp; TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbGVUVVdON3B0aEJXbTFfZWJhcm0zQm1CTGwxajdRMlZQQnlTcnVTdEdyLXAwZDk2TjV5QktGR2pkUTNZbUVmSnZTUlFYWFNBZHdvRG0ycFdPbUVSTk1YTzZycm0wanRaa2hsYjNBZGNKQmY0Rm1mWF94RlFSMTlFZXlQa1RKeUQ4cTlqRVBhRmJtczNmblFaXzZONFhISEIwbnNramNNam1ybVR2X2FUaXhMSVp0T3RyYmFXb0gwVjlqZkJKZ09TV2FzaXpfWTBRb3VTTzZpMk94NEE?oc=5"
-        },
-        {
-          "headline": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times"
-        }
-      ],
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbGVUVVdON3B0aEJXbTFfZWJhcm0zQm1CTGwxajdRMlZQQnlTcnVTdEdyLXAwZDk2TjV5QktGR2pkUTNZbUVmSnZTUlFYWFNBZHdvRG0ycFdPbUVSTk1YTzZycm0wanRaa2hsYjNBZGNKQmY0Rm1mWF94RlFSMTlFZXlQa1RKeUQ4cTlqRVBhRmJtczNmblFaXzZONFhISEIwbnNramNNam1ybVR2X2FUaXhMSVp0T3RyYmFXb0gwVjlqZkJKZ09TV2FzaXpfWTBRb3VTTzZpMk94NEE?oc=5"
-        },
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-43f9e89e80ff",
-      "original_title": "Bitcoin Faces a Hawkish Fed Pause as Two Officials Seek Higher Rates",
-      "published_at": "2026-10-29T14:00:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin Faces a Hawkish Fed Pause as Two Officials Seek Higher Rates",
-          "source": "TradingView",
-          "snippet": "Bitcoin Faces a Hawkish Fed Pause as Two Officials Seek Higher Rates &nbsp;&nbsp; TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX21WZjNhT0x3QVgwTU8xbHNXR1NHQjNCUzVzeDFpYkVyb1dlTXNYWVNQNWUwV2N5NWtVUVZCN0lpOWpvcjZteFVqbkpsdWhRMzlPNkdfYU1zSUpmTjZlWE8wTG1iMEtGdnZQaFJ0eFM4Uk5xZnk0Nm9DalJLRkg0NldNdHlxTHZqUThIREFOTXZKbkxuRHNjclZ5OXZwN0NoQmRoZVpuRGlDbkhHWEp0U3NEa0swYWpyY0dFT3ZYa0pLWENZ?oc=5"
-        },
-        {
-          "headline": "Bitcoin near $80.8K as Fed holds rates, two officials seek hike",
-          "source": "Crypto News",
-          "snippet": "Bitcoin near $80.8K as Fed holds rates, two officials seek hike &nbsp;&nbsp; Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tYTFHS3VQcXN2NXdhUnZ2VkFmakFvRGhtQlZQeGUzTFUzWDFUY25XSU5TRmxFY3lsUGE2VEFVeTc3Tlg1a3NNSTQ3RF8yNVZxTHliVUZNOHdnRFZJM1lYaklQMG9vSGJT?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX21WZjNhT0x3QVgwTU8xbHNXR1NHQjNCUzVzeDFpYkVyb1dlTXNYWVNQNWUwV2N5NWtVUVZCN0lpOWpvcjZteFVqbkpsdWhRMzlPNkdfYU1zSUpmTjZlWE8wTG1iMEtGdnZQaFJ0eFM4Uk5xZnk0Nm9DalJLRkg0NldNdHlxTHZqUThIREFOTXZKbkxuRHNjclZ5OXZwN0NoQmRoZVpuRGlDbkhHWEp0U3NEa0swYWpyY0dFT3ZYa0pLWENZ?oc=5"
-        },
-        {
-          "name": "Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tYTFHS3VQcXN2NXdhUnZ2VkFmakFvRGhtQlZQeGUzTFUzWDFUY25XSU5TRmxFY3lsUGE2VEFVeTc3Tlg1a3NNSTQ3RF8yNVZxTHliVUZNOHdnRFZJM1lYaklQMG9vSGJT?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-948689edc52f",
-      "original_title": "FinancialJuice: ECB's Lagarde: Risks to inflation are to the upside.",
-      "published_at": "2026-10-29T13:56:08Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB's Lagarde: Risks to inflation are to the upside.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827454/ECBs-Lagarde-Risks-to-inflation-are-to-the-upside.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827454/ECBs-Lagarde-Risks-to-inflation-are-to-the-upside.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-0e7d90140428",
-      "original_title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
-      "published_at": "2026-10-29T13:55:42Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-fdee47a440f5",
-      "original_title": "FinancialJuice: US Treasury Secretary Bessent: Great GDP number",
-      "published_at": "2026-10-29T13:55:41Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Treasury Secretary Bessent: Great GDP number",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827453/US-Treasury-Secretary-Bessent-Great-GDP-number.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827453/US-Treasury-Secretary-Bessent-Great-GDP-number.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-e4ca996aa766",
-      "original_title": "FinancialJuice: ECB president Lagarde: subsequent drop in energy inflation expected to reduce headline inflation",
-      "published_at": "2026-10-29T13:54:28Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB president Lagarde: subsequent drop in energy inflation expected to reduce headline inflation",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827450/ECB-president-Lagarde-subsequent-drop-in-energy-inflation-expected-to-reduce-headline-inflation.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827450/ECB-president-Lagarde-subsequent-drop-in-energy-inflation-expected-to-reduce-headline-inflation.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-f2a6131ff1d7",
-      "original_title": "FinancialJuice: ECB President Lagarde: most gauges of long-term inflation expectations near 2%",
-      "published_at": "2026-10-29T13:53:45Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB President Lagarde: most gauges of long-term inflation expectations near 2%",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827447/ECB-President-Lagarde-most-gauges-of-long-term-inflation-expectations-near-2.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827447/ECB-President-Lagarde-most-gauges-of-long-term-inflation-expectations-near-2.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-16f2d17ae0e1",
-      "original_title": "FinancialJuice: ECB President Lagarde: underlying inflation stayed largely steady",
-      "published_at": "2026-10-29T13:52:47Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB President Lagarde: underlying inflation stayed largely steady",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9827443/ECB-President-Lagarde-underlying-inflation-stayed-largely-steady.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9827443/ECB-President-Lagarde-underlying-inflation-stayed-largely-steady.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-62bda9ac3a65",
-      "original_title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
-      "published_at": "2026-10-29T13:39:18Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-c927bd999010",
-      "original_title": "Bitcoin BTC (BTC-USD) Live Price, News, Chart & Price History",
-      "published_at": "2026-10-29T13:20:56Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin BTC (BTC-USD) Live Price, News, Chart & Price History",
-          "source": "Yahoo! Finance Canada",
-          "snippet": "Bitcoin BTC (BTC-USD) Live Price, News, Chart & Price History &nbsp;&nbsp; Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HSGlGRjBhSUlQdXZtSXRJWmhTcWlLMmt2WEM2WFk0LV9Bd3BzOGNZQzJmQXJycTBZcmpSNWZiWHMzMDdzY3cyQzlKYXNYSk0tUF9MVzdB?oc=5"
-        },
-        {
-          "headline": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-          "source": "Yahoo Finance UK",
-          "snippet": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History &nbsp;&nbsp; Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HSGlGRjBhSUlQdXZtSXRJWmhTcWlLMmt2WEM2WFk0LV9Bd3BzOGNZQzJmQXJycTBZcmpSNWZiWHMzMDdzY3cyQzlKYXNYSk0tUF9MVzdB?oc=5"
-        },
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-0d2e7d6853c6",
-      "original_title": "US inflation heats up in September; consumer spending rises",
-      "published_at": "2026-10-29T13:15:50Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "US inflation heats up in September; consumer spending rises",
-          "source": "Reuters",
-          "snippet": "US inflation heats up in September; consumer spending rises &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNamNwQk5mVXlad05tREVFeXVRU29iOGZLMHJLQ3dhQURxb2s2OXNfYzhjQ2tmakJEUFpJcU9FUlZrZmY1czdGVXpsYzVaY21EaVR3R2NDM3pfeEpXYVpRQmZOSXphSXdSMDlyM0plUnlvVnJCdkVhd2Q2dlhOTjUwQm42TE1uYVpsUEJEX1V0WHJ1cVZXajFSNm9zcHlGTUprQWc?oc=5"
-        },
-        {
-          "headline": "US inflation heats up in September; consumer spending rises",
-          "source": "Yahoo Finance",
-          "snippet": "US inflation heats up in September; consumer spending rises &nbsp;&nbsp; Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUlFTXdiZndwYm1UX3BGTzdxQnBRMERXOUJKVS1FQ2ZLb2U4TDg4Q19yZGtmMXNscGVTRHhQVUtqQlY1aXF6cTVVZTRUZzVVVlBuVmh3XzRzeWd6ejMzV1pwWm0zUkh2TG1iaElMZmw4bnEtZTh6SHdBMnA5OGZPbmhKNmJFUzNIUzZYcjBXRTMwNHpSN3M1UWc5aW5ZU3dYOWFtZA?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNamNwQk5mVXlad05tREVFeXVRU29iOGZLMHJLQ3dhQURxb2s2OXNfYzhjQ2tmakJEUFpJcU9FUlZrZmY1czdGVXpsYzVaY21EaVR3R2NDM3pfeEpXYVpRQmZOSXphSXdSMDlyM0plUnlvVnJCdkVhd2Q2dlhOTjUwQm42TE1uYVpsUEJEX1V0WHJ1cVZXajFSNm9zcHlGTUprQWc?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUlFTXdiZndwYm1UX3BGTzdxQnBRMERXOUJKVS1FQ2ZLb2U4TDg4Q19yZGtmMXNscGVTRHhQVUtqQlY1aXF6cTVVZTRUZzVVVlBuVmh3XzRzeWd6ejMzV1pwWm0zUkh2TG1iaElMZmw4bnEtZTh6SHdBMnA5OGZPbmhKNmJFUzNIUzZYcjBXRTMwNHpSN3M1UWc5aW5ZU3dYOWFtZA?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-a5fd5dd14757",
-      "original_title": "A new framework for tokenized asset tracking",
-      "published_at": "2026-10-29T12:57:51Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "A new framework for tokenized asset tracking",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-019a2b24bdc3",
-      "original_title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
-      "published_at": "2026-10-29T12:51:48Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-1f67ba5a3111",
-      "original_title": "COMMENTARY: Morning Bid: Firefighting cash burn",
-      "published_at": "2026-10-29T12:35:08Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "COMMENTARY: Morning Bid: Firefighting cash burn",
-          "source": "Reuters",
-          "snippet": "COMMENTARY: Morning Bid: Firefighting cash burn &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTm9EX3pBcklqTS1idFI2Z3lHVVJDV25PNWcwZE1vZWxtUDJFd2dpY1BOYkxuX1RETm13SW5Jc0RaZklMR2R1TFJCWmNrM05XY0JlX1gyeGVNVVV1cnlWTk8zc0llYTFSaGFjY3gzeFpjUEFTaWJLV21xc2xpZ1lnSE5ydS1Ec2U3ZVJtdmFFUWNFOFhlQklj?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTm9EX3pBcklqTS1idFI2Z3lHVVJDV25PNWcwZE1vZWxtUDJFd2dpY1BOYkxuX1RETm13SW5Jc0RaZklMR2R1TFJCWmNrM05XY0JlX1gyeGVNVVV1cnlWTk8zc0llYTFSaGFjY3gzeFpjUEFTaWJLV21xc2xpZ1lnSE5ydS1Ec2U3ZVJtdmFFUWNFOFhlQklj?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-10-29-a437ece4617f",
-      "original_title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
-      "published_at": "2026-10-29T12:18:20Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud"
         }
       ]
     }
