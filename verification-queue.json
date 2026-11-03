@@ -1,6 +1,906 @@
 {
-  "updated_at_kst": "2026-11-03T10:34:21+09:00",
+  "updated_at_kst": "2026-11-03T18:30:22+09:00",
   "items": [
+    {
+      "stable_id": "2026-11-03-cbd867138e4c",
+      "original_title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+      "published_at": "2026-11-03T08:56:48Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-e360264811d5",
+      "original_title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
+      "published_at": "2026-11-03T08:50:56Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-37d6fd01a455",
+      "original_title": "Tehran says Iran-US deal still out of reach despite diplomatic efforts",
+      "published_at": "2026-11-03T08:40:52Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Tehran says Iran-US deal still out of reach despite diplomatic efforts",
+          "source": "Latest news from Azerbaijan",
+          "snippet": "Tehran says Iran-US deal still out of reach despite diplomatic efforts &nbsp;&nbsp; Latest news from Azerbaijan",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVJzb1o3cE1WbHcwUjRwQXpLZVpIdEduamhGX2xkSm9IM0xvTkVNVDMzQkVpSndnM0NDTHdWTXBCb2Z6V21nWlRMVUJBRkx3NzF2bGl1LWJVcWVrbWw5MXBteFUya2N0REJiUHo1eEpDUFBzSUUtWFh1SW9JUUJINDEyVnNrSnBEY3Y2bndZMzA3aWd6MHc?oc=5"
+        },
+        {
+          "headline": "Iran-US deal still out of reach despite heightened diplomatic efforts",
+          "source": "Yahoo News Canada",
+          "snippet": "Iran-US deal still out of reach despite heightened diplomatic efforts &nbsp;&nbsp; Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DSldmUFMtZ3NOaWxZZ3NjdW1GN05EclVPZVlnek5ucTlhb0ctbjduMUdkSXJZV1NCNFgydzBPTERkR2pOTFEtcWxSU0JUN1MtUXBxYVBsWUFZeGViTG5ram8yZzFBRE1lQ250bnFBSUdHc1hHZnAtcVBzOXRtSnM?oc=5"
+        },
+        {
+          "headline": "Iran-US deal still out of reach despite heightened diplomatic efforts",
+          "source": "The Straits Times",
+          "snippet": "Iran-US deal still out of reach despite heightened diplomatic efforts &nbsp;&nbsp; The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUHBFRTNrMklqS25IeW1Ba080aFVvcmEyRlhXZlFUVnAtOTZaWEhwRGJDZHpZQmQ5TjRpLXJZblNfUVk5U2pFMHpzeWc5dlpLT096UWh5bTN6ODY3aWVvQWxscm52XzJhZndRdF9wNzhHQ3VoVU5xNlBLUkMzdE5uYkNpZTlsNlBhMmgxbGhhSkxKWi1GN2RDNTBjNjNGU0lWUDA1ZHBCYUlGY1p3bURYZ0NMUEVHV1B3YU91UTB0V0VUQ3ZfVjVza2NKYlh1cmNLZ3hZ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Latest news from Azerbaijan",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVJzb1o3cE1WbHcwUjRwQXpLZVpIdEduamhGX2xkSm9IM0xvTkVNVDMzQkVpSndnM0NDTHdWTXBCb2Z6V21nWlRMVUJBRkx3NzF2bGl1LWJVcWVrbWw5MXBteFUya2N0REJiUHo1eEpDUFBzSUUtWFh1SW9JUUJINDEyVnNrSnBEY3Y2bndZMzA3aWd6MHc?oc=5"
+        },
+        {
+          "name": "Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DSldmUFMtZ3NOaWxZZ3NjdW1GN05EclVPZVlnek5ucTlhb0ctbjduMUdkSXJZV1NCNFgydzBPTERkR2pOTFEtcWxSU0JUN1MtUXBxYVBsWUFZeGViTG5ram8yZzFBRE1lQ250bnFBSUdHc1hHZnAtcVBzOXRtSnM?oc=5"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUHBFRTNrMklqS25IeW1Ba080aFVvcmEyRlhXZlFUVnAtOTZaWEhwRGJDZHpZQmQ5TjRpLXJZblNfUVk5U2pFMHpzeWc5dlpLT096UWh5bTN6ODY3aWVvQWxscm52XzJhZndRdF9wNzhHQ3VoVU5xNlBLUkMzdE5uYkNpZTlsNlBhMmgxbGhhSkxKWi1GN2RDNTBjNjNGU0lWUDA1ZHBCYUlGY1p3bURYZ0NMUEVHV1B3YU91UTB0V0VUQ3ZfVjVza2NKYlh1cmNLZ3hZ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-5e3a525df8fe",
+      "original_title": "FinancialJuice: Iran's Armed Forces Chief: Principles include full sanctions relief and release of frozen assets",
+      "published_at": "2026-11-03T08:34:34Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's Armed Forces Chief: Principles include full sanctions relief and release of frozen assets",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834354/Irans-Armed-Forces-Chief-Principles-include-full-sanctions-relief-and-release-of-frozen-assets---Tasnim.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834354/Irans-Armed-Forces-Chief-Principles-include-full-sanctions-relief-and-release-of-frozen-assets---Tasnim.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-67f5738fc711",
+      "original_title": "FinancialJuice: Iran's Armed Forces Chief Abdollahi: Tehran's five principles for lasting regional peace include end to war on all fronts, including Lebanon and Gaza",
+      "published_at": "2026-11-03T08:33:44Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's Armed Forces Chief Abdollahi: Tehran's five principles for lasting regional peace include end to war on all fronts, including Lebanon and Gaza",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834353/Irans-Armed-Forces-Chief-Abdollahi-Tehrans-five-principles-for-lasting-regional-peace-include-end-to-war-on-all-fronts-including-Lebanon-and-Gaza---Tasnim.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834353/Irans-Armed-Forces-Chief-Abdollahi-Tehrans-five-principles-for-lasting-regional-peace-include-end-to-war-on-all-fronts-including-Lebanon-and-Gaza---Tasnim.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-64b249acfe61",
+      "original_title": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about securing deal",
+      "published_at": "2026-11-03T08:19:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about securing deal",
+          "source": "Irish Examiner",
+          "snippet": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about securing deal &nbsp;&nbsp; Irish Examiner",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qSTFzTkN0YW96ZWRxd1pwWjZYX202a2dOdkZIYnR5NWk3RHNnNThIMUp4RDV0VUJoMlZZYkpFWXNTcWgtS0tFU3NBSEUwTzdkbG5jallSYkVvRE83ck5jU1BWYnA?oc=5"
+        },
+        {
+          "headline": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+          "source": "The Guardian",
+          "snippet": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal &nbsp;&nbsp; The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3daWnVFR1JkRnZ1NTVRbEE5Vk15QTVMR2p1WXJSRXh5TEFpc0FFV1JBdWJhNWVvWnEtNmQ0UGF6c3g0YW1zMmpnYVdLSXVBVEJDc25odUEtS25LeDB5VUE0aGlQenlweXhoUmVPMkRENFpTWm5hZFlISzUtMHBJLQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Irish Examiner",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qSTFzTkN0YW96ZWRxd1pwWjZYX202a2dOdkZIYnR5NWk3RHNnNThIMUp4RDV0VUJoMlZZYkpFWXNTcWgtS0tFU3NBSEUwTzdkbG5jallSYkVvRE83ck5jU1BWYnA?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3daWnVFR1JkRnZ1NTVRbEE5Vk15QTVMR2p1WXJSRXh5TEFpc0FFV1JBdWJhNWVvWnEtNmQ0UGF6c3g0YW1zMmpnYVdLSXVBVEJDc25odUEtS25LeDB5VUE0aGlQenlweXhoUmVPMkRENFpTWm5hZFlISzUtMHBJLQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-6e99d013edc2",
+      "original_title": "https://www.youtube.com/live/GWxoXegtCXM?si=fetT5H7cfTcPWei_",
+      "published_at": "2026-11-03T07:38:06Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "https://www.youtube.com/live/GWxoXegtCXM?si=fetT5H7cfTcPWei_",
+          "source": "Telegram @goddessTTF",
+          "snippet": "https://www.youtube.com/live/GWxoXegtCXM?si=fetT5H7cfTcPWei_",
+          "url": "https://t.me/goddessTTF/86614"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/86614"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-d75b25d2584c",
+      "original_title": "FinancialJuice: ECB's Radev: ECB shouldn't await second-round effects before acting.",
+      "published_at": "2026-11-03T07:26:00Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: ECB's Radev: ECB shouldn't await second-round effects before acting.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834257/ECBs-Radev-ECB-shouldnt-await-second-round-effects-before-acting.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834257/ECBs-Radev-ECB-shouldnt-await-second-round-effects-before-acting.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-d9be0fd13722",
+      "original_title": "FinancialJuice: ECB's Radev: Core inflation stable, energy shock not reaching wages.",
+      "published_at": "2026-11-03T07:25:45Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: ECB's Radev: Core inflation stable, energy shock not reaching wages.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834256/ECBs-Radev-Core-inflation-stable-energy-shock-not-reaching-wages.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834256/ECBs-Radev-Core-inflation-stable-energy-shock-not-reaching-wages.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-82510eca22b7",
+      "original_title": "Talks with Saudi Arabia are ongoing: Iran",
+      "published_at": "2026-11-03T07:23:19Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Talks with Saudi Arabia are ongoing: Iran",
+          "source": "Aaj English TV",
+          "snippet": "Talks with Saudi Arabia are ongoing: Iran &nbsp;&nbsp; Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSV80cnlreF9XTXhGcEprR0VoblJGUW9oZ3NOVkJyTW12MGE0OVZqMC0xTGJUeUdjSndrZU9NeWdPSFl2a2NsdkhKS1hQR0FJa09iT3NJci1hY1puWll4QXI1VE1pM3FJVlFUaXBqVnh5d1YxMzRCaE1nMUR2b1NOY2s0a2k?oc=5"
+        },
+        {
+          "headline": "Iran's foreign minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies",
+          "source": "AOL.com",
+          "snippet": "Iran's foreign minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies &nbsp;&nbsp; AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMlI1VmJZNUFQUGFEWm1wWE5TXzJYM3lYWUFtVk1rVGFWSEVIbGVaZVFNRkRKaTZYUEx2MzhubEU2OEFmYUwwdnYwczBHczB1aTZZb0xUdkhNMXpiZmtBenZLWEY5N1lYWUoyYlBVRHZoWEg4dVo2NjlSTHJ6MUNqVjhEcw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Aaj English TV",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSV80cnlreF9XTXhGcEprR0VoblJGUW9oZ3NOVkJyTW12MGE0OVZqMC0xTGJUeUdjSndrZU9NeWdPSFl2a2NsdkhKS1hQR0FJa09iT3NJci1hY1puWll4QXI1VE1pM3FJVlFUaXBqVnh5d1YxMzRCaE1nMUR2b1NOY2s0a2k?oc=5"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMlI1VmJZNUFQUGFEWm1wWE5TXzJYM3lYWUFtVk1rVGFWSEVIbGVaZVFNRkRKaTZYUEx2MzhubEU2OEFmYUwwdnYwczBHczB1aTZZb0xUdkhNMXpiZmtBenZLWEY5N1lYWUoyYlBVRHZoWEg4dVo2NjlSTHJ6MUNqVjhEcw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-b888c0629bc6",
+      "original_title": "FinancialJuice: Diplomat: Iran, US reviewing latest suggestions from mediators.",
+      "published_at": "2026-11-03T07:14:58Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Diplomat: Iran, US reviewing latest suggestions from mediators.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834251/Diplomat-Iran-US-reviewing-latest-suggestions-from-mediators.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834251/Diplomat-Iran-US-reviewing-latest-suggestions-from-mediators.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-442f5cf32b29",
+      "original_title": "FinancialJuice: Qatari mediators were in Tehran Monday for more talks with Iran.",
+      "published_at": "2026-11-03T07:14:50Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Qatari mediators were in Tehran Monday for more talks with Iran.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834250/Qatari-mediators-were-in-Tehran-Monday-for-more-talks-with-Iran.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834250/Qatari-mediators-were-in-Tehran-Monday-for-more-talks-with-Iran.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-2589374cdfac",
+      "original_title": "FinancialJuice: Iran's Parliament Speaker Ghalibaf: Tehran gave Washington a 'strong and rational response, the ball is in the US' court'",
+      "published_at": "2026-11-03T07:05:06Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's Parliament Speaker Ghalibaf: Tehran gave Washington a 'strong and rational response, the ball is in the US' court'",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834249/Irans-Parliament-Speaker-Ghalibaf-Tehran-gave-Washington-a-strong-and-rational-response-the-ball-is-in-the-US-court---State-Media.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834249/Irans-Parliament-Speaker-Ghalibaf-Tehran-gave-Washington-a-strong-and-rational-response-the-ball-is-in-the-US-court---State-Media.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-2a19e4ca47d7",
+      "original_title": "FinancialJuice: Iran is prepared to respond forcefully to US strikes, in the region and beyond",
+      "published_at": "2026-11-03T06:42:39Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran is prepared to respond forcefully to US strikes, in the region and beyond",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834205/Iran-is-prepared-to-respond-forcefully-to-US-strikes-in-the-region-and-beyond---Senior-Iranian-Official.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834205/Iran-is-prepared-to-respond-forcefully-to-US-strikes-in-the-region-and-beyond---Senior-Iranian-Official.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-ee2ad6534b01",
+      "original_title": "FinancialJuice: Tehran's conditions must be met if the US wants Hormuz reopened, nuclear talks can begin afterwards",
+      "published_at": "2026-11-03T06:42:22Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Tehran's conditions must be met if the US wants Hormuz reopened, nuclear talks can begin afterwards",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834204/Tehrans-conditions-must-be-met-if-the-US-wants-Hormuz-reopened-nuclear-talks-can-begin-afterwards---Senior-Iranian-Official.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834204/Tehrans-conditions-must-be-met-if-the-US-wants-Hormuz-reopened-nuclear-talks-can-begin-afterwards---Senior-Iranian-Official.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-ccd009e4aea4",
+      "original_title": "FinancialJuice: SNB Interest Rate Probabilities",
+      "published_at": "2026-11-03T06:41:46Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: SNB Interest Rate Probabilities",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834202/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834202/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-51c3f00a3c85",
+      "original_title": "FinancialJuice: Senior Iranian Official: Iran and the US are far from reaching a deal to end the war.",
+      "published_at": "2026-11-03T06:40:03Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Senior Iranian Official: Iran and the US are far from reaching a deal to end the war.",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834135/Senior-Iranian-Official-Iran-and-the-US-are-far-from-reaching-a-deal-to-end-the-war.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834135/Senior-Iranian-Official-Iran-and-the-US-are-far-from-reaching-a-deal-to-end-the-war.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-430790d0a365",
+      "original_title": "US launches ‘defensive’ strikes on Iran amid peace talks",
+      "published_at": "2026-11-03T05:54:53Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US launches ‘defensive’ strikes on Iran amid peace talks",
+          "source": "National Herald",
+          "snippet": "US launches ‘defensive’ strikes on Iran amid peace talks &nbsp;&nbsp; National Herald",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdndXalRyRl95bHB0WnE3RTRrZkk3cG9zM085dTBwcm1uZkQ2RkpENnJuUUpCYUNpakF2S0k0TjZqbzdiRk15YzROSzhZTG8xVURPOUhTeXlvRWZxRjkwQ01nUkhsZ1cxT2ZLZExMdktETEVVNGs3TTBxWkZOSFJnRmczcmd6LWxCSEltbGlFNDNzbFI1Rk1NeUQ0TGJlb1ItbFhkUERfY2YxNnMzZVQ1VDY3SDHSAbQBQVVfeXFMUHZ3V2pUckZfeWxwdFpxN0U0a2ZJN3BvczNPOXUwcHJtbmZENkZKRDZyblFKQmFDaWpBdktJNE42am83YkZNeWM0Tks4WUxvMVVETzlIU3l5b0VmcUY5MENNZ1JIbGdXMU9mS2RMTHZLRExFVTRrN00wcVpGTkhSZ0ZnM3Jnei1sQkhJbWxpRTQzc2xSNUZNTXlENExiZW9SLWxYZFBEX2NmMTZzM2VUNVQ2N0gx?oc=5"
+        },
+        {
+          "headline": "WSJ: US Strikes Iran's Qeshm Island Amid Peace Talks",
+          "source": "Newsmax",
+          "snippet": "WSJ: US Strikes Iran's Qeshm Island Amid Peace Talks &nbsp;&nbsp; Newsmax",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IbmduMUZqSnVzdF9jSDh5WjZ4aHhHTXVEeFJ5UHFZTFNBR2o3S1JzQ1BPQldOZkh2TnQ5QWtacVc1Ry0xOG1wOEdadXFDUG9MWG5tcDdxeWc5UTFtSVZYUFJFRnpXUUhVZzl1c2FNeGwya2FxN1pGRjEtenZBUQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "National Herald",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdndXalRyRl95bHB0WnE3RTRrZkk3cG9zM085dTBwcm1uZkQ2RkpENnJuUUpCYUNpakF2S0k0TjZqbzdiRk15YzROSzhZTG8xVURPOUhTeXlvRWZxRjkwQ01nUkhsZ1cxT2ZLZExMdktETEVVNGs3TTBxWkZOSFJnRmczcmd6LWxCSEltbGlFNDNzbFI1Rk1NeUQ0TGJlb1ItbFhkUERfY2YxNnMzZVQ1VDY3SDHSAbQBQVVfeXFMUHZ3V2pUckZfeWxwdFpxN0U0a2ZJN3BvczNPOXUwcHJtbmZENkZKRDZyblFKQmFDaWpBdktJNE42am83YkZNeWM0Tks4WUxvMVVETzlIU3l5b0VmcUY5MENNZ1JIbGdXMU9mS2RMTHZLRExFVTRrN00wcVpGTkhSZ0ZnM3Jnei1sQkhJbWxpRTQzc2xSNUZNTXlENExiZW9SLWxYZFBEX2NmMTZzM2VUNVQ2N0gx?oc=5"
+        },
+        {
+          "name": "Newsmax",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IbmduMUZqSnVzdF9jSDh5WjZ4aHhHTXVEeFJ5UHFZTFNBR2o3S1JzQ1BPQldOZkh2TnQ5QWtacVc1Ry0xOG1wOEdadXFDUG9MWG5tcDdxeWc5UTFtSVZYUFJFRnpXUUhVZzl1c2FNeGwya2FxN1pGRjEtenZBUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-53dcd8528e5f",
+      "original_title": "트럼프, 민주당 승리 땐 거부권… 선거 이후 남은 변수는?",
+      "published_at": "2026-11-03T05:38:22Z",
+      "discovery_source": "youtube",
+      "evidence": [
+        {
+          "headline": "트럼프, 민주당 승리 땐 거부권… 선거 이후 남은 변수는?",
+          "source": "YouTube @새벽에온주호",
+          "snippet": "트럼프가 민주당 승리 시 거부권을 예고했습니다. 클래리티 법안이 막히면 코인 시장은 어떻게 될까요? 비트코인엔 선거 악재가 이미 다 반영됐을까요? 선거 뒤 이란 협상과 유가, 금리도 변수입니다. #비트코인 #트럼프 #미국중간선거 #클래리티법안 #암호화폐 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
+          "url": "https://www.youtube.com/watch?v=GJMRcCn9DK8"
+        }
+      ],
+      "sources": [
+        {
+          "name": "YouTube @새벽에온주호",
+          "url": "https://www.youtube.com/watch?v=GJMRcCn9DK8"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-40db99670541",
+      "original_title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+      "published_at": "2026-11-03T05:36:56Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-53e1e948ef58",
+      "original_title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+      "published_at": "2026-11-03T05:29:48Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-68d8ec0c2c19",
+      "original_title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+      "published_at": "2026-11-03T05:25:12Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-5d9b7c7b8a86",
+      "original_title": "FinancialJuice: Unemployment remains relatively low, job growth continues",
+      "published_at": "2026-11-03T05:18:12Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Unemployment remains relatively low, job growth continues",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834108/Unemployment-remains-relatively-low-job-growth-continues.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834108/Unemployment-remains-relatively-low-job-growth-continues.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-6bcdccf7c485",
+      "original_title": "US strikes Iranian targets in Strait of Hormuz",
+      "published_at": "2026-11-03T05:07:56Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US strikes Iranian targets in Strait of Hormuz",
+          "source": "Gulf Today",
+          "snippet": "US strikes Iranian targets in Strait of Hormuz &nbsp;&nbsp; Gulf Today",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXB3NFVhTk8wQkZ2SzBoWFFBSlpCbWtiT05SdkptbHE4UUFNcGhuVktWUm81NTdxeDVQQUR5anZEb2JSOTh3SkYxaVBYNzUyUllSRVhEMkQwVVpQMXhFT2ZwLXlKQXVLWDkwUU8yd3FLX1BlM1dQNW1yYUZiR05BV1BoT3FtS0RHQzFLMml5c3k?oc=5"
+        },
+        {
+          "headline": "U.S. Conducts Defensive Strikes on Iranian Targets in the Strait of Hormuz",
+          "source": "NOTUS",
+          "snippet": "U.S. Conducts Defensive Strikes on Iranian Targets in the Strait of Hormuz &nbsp;&nbsp; NOTUS",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSi12WXpxOUJ1MzQwZ3FVWkhZcFhtUHh4VHk1cXNiUWhNUmVjdkxra2xlNF9DVnZsM0pSZ2JlTkRPQnlmODlHRnI5emYyV0JUSEgxWmJ1OG1Od3h0TTNyZU5qX0ZLUE9SUEtxOS1Rc2F5QTJnajQ0dUM3LTJCSlhfQVJJX3hfdGh3?oc=5"
+        },
+        {
+          "headline": "US strikes Iranian targets in Strait of Hormuz, and other Mideast news",
+          "source": "AP News",
+          "snippet": "US strikes Iranian targets in Strait of Hormuz, and other Mideast news &nbsp;&nbsp; AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXJ0RGVaUDJtb3ktRXNHZG40Slp3eTVjblNKRWwyOXdHR1MwaUthTzR2ZEZ0UFM5MmVzOHFwa3JoSlBDNjJmdW9NU2NLYVpOV3VKRk5iUXpCYnhNUU9XS2FVY2NrSHRBdnY0cDhWNzJucDQ5YlRQNGJZTnJkNC1kVmRJZ2MtdkIxV01Cb0U3dFVtZw?oc=5"
+        },
+        {
+          "headline": "U.S. strikes Iranian targets in Strait of Hormuz, U.S. official tells AP",
+          "source": "PBS",
+          "snippet": "U.S. strikes Iranian targets in Strait of Hormuz, U.S. official tells AP &nbsp;&nbsp; PBS",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDZhTVQ5c3ZVTHhNZmlYajZuVXNxU25aV3V1elZ6WXFqU1VEM0ZhM0p1UU1icTFzaExrelZJQUh2UHNSV1ZFRi03amJEQnh1ZmtyN3Y3QVNWWHpsaEVHa0dpM1VXcVNnN1hfQnItcFZDU0FaNkRKY3JoOHRtT0F2NTVJZThvRVEwU1B3eEloaVhVcnJCTXpJVk54QnN5X2xLMkxHRHdxejNkX3dm0gGsAUFVX3lxTE9oNmFNVDlzdlVMeE1maVhqNm5Vc3FTblpXdXV6VnpZcWpTVUQzRmEzSnVRTWJxMXNoTGt6VklBSHZQc1JXVkVGLTdqYkRCeHVma3I3djdBU1ZYemxoRUdrR2kzVVdxU2c3WF9Cci1wVkNTQVo2REpjcmg4dG1PQXY1NUllOG9FUTBTUHd4SWhpWFVyckJNeklWTnhCc3lfbEsyTEdEd3F6M2Rfd2Y?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gulf Today",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXB3NFVhTk8wQkZ2SzBoWFFBSlpCbWtiT05SdkptbHE4UUFNcGhuVktWUm81NTdxeDVQQUR5anZEb2JSOTh3SkYxaVBYNzUyUllSRVhEMkQwVVpQMXhFT2ZwLXlKQXVLWDkwUU8yd3FLX1BlM1dQNW1yYUZiR05BV1BoT3FtS0RHQzFLMml5c3k?oc=5"
+        },
+        {
+          "name": "NOTUS",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSi12WXpxOUJ1MzQwZ3FVWkhZcFhtUHh4VHk1cXNiUWhNUmVjdkxra2xlNF9DVnZsM0pSZ2JlTkRPQnlmODlHRnI5emYyV0JUSEgxWmJ1OG1Od3h0TTNyZU5qX0ZLUE9SUEtxOS1Rc2F5QTJnajQ0dUM3LTJCSlhfQVJJX3hfdGh3?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXJ0RGVaUDJtb3ktRXNHZG40Slp3eTVjblNKRWwyOXdHR1MwaUthTzR2ZEZ0UFM5MmVzOHFwa3JoSlBDNjJmdW9NU2NLYVpOV3VKRk5iUXpCYnhNUU9XS2FVY2NrSHRBdnY0cDhWNzJucDQ5YlRQNGJZTnJkNC1kVmRJZ2MtdkIxV01Cb0U3dFVtZw?oc=5"
+        },
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDZhTVQ5c3ZVTHhNZmlYajZuVXNxU25aV3V1elZ6WXFqU1VEM0ZhM0p1UU1icTFzaExrelZJQUh2UHNSV1ZFRi03amJEQnh1ZmtyN3Y3QVNWWHpsaEVHa0dpM1VXcVNnN1hfQnItcFZDU0FaNkRKY3JoOHRtT0F2NTVJZThvRVEwU1B3eEloaVhVcnJCTXpJVk54QnN5X2xLMkxHRHdxejNkX3dm0gGsAUFVX3lxTE9oNmFNVDlzdlVMeE1maVhqNm5Vc3FTblpXdXV6VnpZcWpTVUQzRmEzSnVRTWJxMXNoTGt6VklBSHZQc1JXVkVGLTdqYkRCeHVma3I3djdBU1ZYemxoRUdrR2kzVVdxU2c3WF9Cci1wVkNTQVo2REpjcmg4dG1PQXY1NUllOG9FUTBTUHd4SWhpWFVyckJNeklWTnhCc3lfbEsyTEdEd3F6M2Rfd2Y?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-078b43002176",
+      "original_title": "트럼프, 선거 전야 '해니티' 인터뷰… \"내가 투표용지에 있다고 생각하고 투표해 달라\" [공부의여신 네트워크] 트럼프 대통령이 중간선거를 몇 시간 앞둔 2일 밤(현지시간) 폭스뉴스 '해니티'에 출연해 지지층에 마지막 투표 호소를 했다. 진행자 숀 해니티와의 이번 인터뷰는 선거 전 사실상 마지막 전국 방송 메시지로, 트럼프 대통령은 투표 독려와 함께 경제 성과, 관세와 제조업 유치, 이란 문제",
+      "published_at": "2026-11-03T04:49:02Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프, 선거 전야 '해니티' 인터뷰… \"내가 투표용지에 있다고 생각하고 투표해 달라\" [공부의여신 네트워크] 트럼프 대통령이 중간선거를 몇 시간 앞둔 2일 밤(현지시간) 폭스뉴스 '해니티'에 출연해 지지층에 마지막 투표 호소를 했다. 진행자 숀 해니티와의 이번 인터뷰는 선거 전 사실상 마지막 전국 방송 메시지로, 트럼프 대통령은 투표 독려와 함께 경제 성과, 관세와 제조업 유치, 이란 문제",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프, 선거 전야 '해니티' 인터뷰… \"내가 투표용지에 있다고 생각하고 투표해 달라\" [공부의여신 네트워크] 트럼프 대통령이 중간선거를 몇 시간 앞둔 2일 밤(현지시간) 폭스뉴스 '해니티'에 출연해 지지층에 마지막 투표 호소를 했다. 진행자 숀 해니티와의 이번 인터뷰는 선거 전 사실상 마지막 전국 방송 메시지로, 트럼프 대통령은 투표 독려와 함께 경제 성과, 관세와 제조업 유치, 이란 문제, 베네수엘라와 그린란드까지 폭넓게 언급했다. 【\"내가 투표용지에 있다고 생각해 달라\"… 마지막 투표 호소】 트럼프 대통령은 \"내가 투표용지에 있을 때는 알다시피 매번 이겼고, 내가 없을 때보다 50% 더 많은 표를 얻는다\"며 \"그래서 모두에게 내가 투표용지에 있다고 생각해 달라고 부탁하는 것\"이라고 말했다. 이어 \"어떤 면에서는 실제로 내가 투표용지에 있는 것이다. 팁 비과세, 우리 훌륭한 어르신들을 위한 사회보장연금 비과세, 초과근무수당 비과세, 우리가 해낸 모든 것이 다 지워진다\"고 말했다. 또 \"농민과 소상공인을 위한 상속세도 없앴다. 우리가 해낸 그 많은 것들이 전부 없어질 것\"이라고 경고했다. 트럼프 대통령은 \"우리는 지금 세계에서 가장 뜨거운 나라\"라며 \"다들 밖으로 나가야 한다. 내가 투표용지에 있다고 생각하든 뭘 하든 좋으니 투표는 꼭 해야 한다\"고 말했다. 그러면서 \"우리 사람들이 투표하면 우리는 압승한다\"고 강조했다. 핼퍼린에 따르면 트럼프 대통령은 이 인터뷰에서 선거 당일인 3일(현지시간) 폭스뉴스 '폭스 앤 프렌즈'에도 출연하겠다고 밝혔다. 【\"22조 5천억 달러 투자 유입\"… 의약품 관세 최고 200%】 경제 메시지를 묻는 해니티의 질문에 트럼프 대통령은 \"22조 5천억 달러가 들어와 새 자동차 공장과 제약 공장을 짓고 있다\"며 \"일라이 릴리, 머크, 화이자 할 것 없이 모두 수천억 달러 규모의 대형 공장을 짓고 있다\"고 말했다. 트럼프 대통령은 \"우리는 우리 약을 직접 만들 것이다. 지금은 중국에서 들여오고 있다\"며 의약품 관세 구조를 설명했다. 그는 \"일정 기간을 주고 그 뒤에는 막대한 관세가 붙는다. 첫해에는 관세가 없고, 다음 해에는 소폭, 그다음에는 200%까지 올라간다. 그래서 다들 미친 듯이 공장을 짓고 있다\"고 말했다. 또 \"지금 미국에서는 역사상 그 어느 때보다 많은 공장이 지어지고 있다\"며 \"우리는 초지능(SI) 분야에서도 앞서 있고, 중국을 크게 앞서고 있다\"고 말했다. 【이란 \"이건 전쟁이 아니다\"… \"곡괭이산 공격할 수도, 1시간이면 된다\"】 해니티는 \"'끝없는 전쟁은 없다'는 공약이 '군사 행동은 없다'로 바뀐 것은 아니다\"라며 스티브 위트코프 특사 등이 '미드나이트 해머'와 '에픽 퓨리' 작전 모두 이란의 핵무기 보유를 막기 위한 불가피한 선택이었다고 말했다고 전한 뒤, 이 작전이 끝날 것이라고 국민에게 어떻게 약속할 수 있느냐고 물었다. 트럼프 대통령은 \"오바마의 이른바 핵 합의(JCPOA)는 재앙이었고 이란이 핵무기로 가는 길이었다\"며 \"이란은 전 세계 최대의 테러 지원국\"이라고 말했다. 그는 미 해군 구축함 콜호 공격을 거론하며 \"그건 그들 짓이었다. 그들은 수년간 이런 짓을 해왔고, 이제 멈추게 할 때였다\"고 말했다. 또 \"우리는 이란이 핵무기를 갖게 둘 수 없고, 갖게 두지 않을 것\"이라고 말했다. 트럼프 대통령은 \"우리는 '미드나이트 해머'로 그들의 잠재적 핵 능력을 전부 폭격해 없앴다\"며 \"이제 곡괭이산을 공격해야 할 수도 있지만, 그건 별일 아니다. 말 그대로 1시간이면 할 수 있다. 우리가 원하면 언제든 바로\"라고 말했다. 이어 \"보라, 그들의 군대는 사라졌다. 해군도, 공군도, 방공망도 사라졌다\"며 \"미사일이",
+          "url": "https://t.me/goddessTTF/86609"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/86609"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-3d0c48726d2c",
+      "original_title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+      "published_at": "2026-11-03T04:48:17Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-e45cb0a88cb6",
+      "original_title": "FinancialJuice: RBA Governor Bullock: monetary policy will be effective, requires time to take effect",
+      "published_at": "2026-11-03T04:43:01Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBA Governor Bullock: monetary policy will be effective, requires time to take effect",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834018/RBA-Governor-Bullock-monetary-policy-will-be-effective-requires-time-to-take-effect.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834018/RBA-Governor-Bullock-monetary-policy-will-be-effective-requires-time-to-take-effect.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-65670b6314e7",
+      "original_title": "FinancialJuice: RBA Governor Bullock: inflation is largely set for the next year",
+      "published_at": "2026-11-03T04:37:54Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBA Governor Bullock: inflation is largely set for the next year",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834012/RBA-Governor-Bullock-inflation-is-largely-set-for-the-next-year.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834012/RBA-Governor-Bullock-inflation-is-largely-set-for-the-next-year.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-e0c3940d3692",
+      "original_title": "FinancialJuice: China's central bank: 31 securities and fund firms took part in bidding, rate set at 10 basis points",
+      "published_at": "2026-11-03T04:35:21Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: China's central bank: 31 securities and fund firms took part in bidding, rate set at 10 basis points",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9834009/Chinas-central-bank-31-securities-and-fund-firms-took-part-in-bidding-rate-set-at-10-basis-points.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9834009/Chinas-central-bank-31-securities-and-fund-firms-took-part-in-bidding-rate-set-at-10-basis-points.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-fccb021eeba2",
+      "original_title": "FinancialJuice: RBA Governor Bullock: growth must stay muted, unemployment to climb more",
+      "published_at": "2026-11-03T04:33:21Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBA Governor Bullock: growth must stay muted, unemployment to climb more",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9833994/RBA-Governor-Bullock-growth-must-stay-muted-unemployment-to-climb-more.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9833994/RBA-Governor-Bullock-growth-must-stay-muted-unemployment-to-climb-more.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-92a12b118393",
+      "original_title": "FinancialJuice: RBA Governor Bullock: rate increase was necessary to reduce inflation",
+      "published_at": "2026-11-03T04:30:43Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBA Governor Bullock: rate increase was necessary to reduce inflation",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9833993/RBA-Governor-Bullock-rate-increase-was-necessary-to-reduce-inflation.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9833993/RBA-Governor-Bullock-rate-increase-was-necessary-to-reduce-inflation.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-948bebb757eb",
+      "original_title": "Gold slips as Mideast attacks fan inflation concerns; US midterms in focus",
+      "published_at": "2026-11-03T04:16:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Gold slips as Mideast attacks fan inflation concerns; US midterms in focus",
+          "source": "Reuters",
+          "snippet": "Gold slips as Mideast attacks fan inflation concerns; US midterms in focus &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-da2758e18924",
+      "original_title": "Trump says deal with Iran ‘could happen’",
+      "published_at": "2026-11-03T04:07:59Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Trump says deal with Iran ‘could happen’",
+          "source": "アラブニュース",
+          "snippet": "Trump says deal with Iran ‘could happen’ &nbsp;&nbsp; アラブニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmV5d3dyQk54VWZnbklGVk01QUZzb1lnS1Q3NENfbWsyLVktQW1pczkyNF9GMDRoeXJnMUxILWdPTVdWSGoxSHJ4S2U0LVBTQXdxWWt3cS1rbXNMc0U3SWlQYkNNeUVrMExzMWVGajhwUzBnckpNOW5pLTU0U1ZHaGZMSWtxY3NXRDFGT3lR?oc=5"
+        },
+        {
+          "headline": "Khamenei Empowers Talks as Trump Says Iran Deal Could Happen",
+          "source": "Bloomberg.com",
+          "snippet": "Khamenei Empowers Talks as Trump Says Iran Deal Could Happen &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ19KMnR3VkhXQVpwVGNCTkJWNnVlay0zMTFzMDkwMkRkRDQxc01Rb3dnVXdWWFh4Ri1iTHR6Ul9DWWdyZ21RMnhRRGJKRTN5MHN5N1RsMG41UDA4TDZuQnFhV3J0VHF5Q2JXa1BTYlh2T203RHFiMHFaX3E2cVJsaXVjbS13NjlyekNlNnkwMTNySHpXWTJ3UW9OcGl5VXl4eGZQWFlQQmYtMDNvRnFWRw?oc=5"
+        },
+        {
+          "headline": "Vance says US ‘feeling pretty good about prospects’ of a deal with Iran; Trump: ‘It could happen!’",
+          "source": "The Times of Israel",
+          "snippet": "Vance says US ‘feeling pretty good about prospects’ of a deal with Iran; Trump: ‘It could happen!’ &nbsp;&nbsp; The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3FQRldxRTB1SHl4c24zdUI3RHdZeVZSS01lZVFJQXpvRzZ6eHZFT29OaXFvVzVzM25kMjVCcXRKRm93OEgxcllhel9zclZsV1NwV2xXSGtYWWV2NGdsa1RlVHI2czQxOHFrSHQ3ZEs5S3RzdVhDTUlYdTFiVDhqWUpLMmE3ZHptLWdIWnRLblRXU2ZCTjJzSGxVTjAzdjdzOFRoQThINTFYcFF5LXRHa1BLTmdZR09XLTJyR2dXa9IBxAFBVV95cUxQUFViLTl1RUE3V2ZIZmtsMTk2Rk15Qmx4NU0ya01PeEhqanZQME45ZndEUlQzQWdNYlpMaUJMcC1pUnZEOGQyUFpGVGRlWEk5M2w0a0p2NTExb1haOU9HR1Q1V1c3YkxsbEZRX0VPUzg2VS1sdjVkQ1FCY3V4OHJhbHkzT3RqUjNqOXlrcDNKM0drN1JIZG5Ka2F6aVJOTVdFVjhsX2dvTHBad2V1S0pSdlNDZHlKUTRMODFBWXBVM3VuQ1pG?oc=5"
+        },
+        {
+          "headline": "Trump says deal with Iran ‘could happen’",
+          "source": "Arab News",
+          "snippet": "Trump says deal with Iran ‘could happen’ &nbsp;&nbsp; Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSV82bi14SEhxUHhRd0lFLWVwNkZ6Wk1LQzRGY1h6THZuUWJ5LVBkMUdlUUUzNktjU3RfQVczTlR2THEyRnBfLWJ2eXczb3VCcUFLMmpjUHpaLVV3dHhQSlRsdXBzR3kzTV9Yd05GZ3dqRml0WEtNaGF1dE5zWDVJMHRmTnFPUmV3alZv?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "アラブニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmV5d3dyQk54VWZnbklGVk01QUZzb1lnS1Q3NENfbWsyLVktQW1pczkyNF9GMDRoeXJnMUxILWdPTVdWSGoxSHJ4S2U0LVBTQXdxWWt3cS1rbXNMc0U3SWlQYkNNeUVrMExzMWVGajhwUzBnckpNOW5pLTU0U1ZHaGZMSWtxY3NXRDFGT3lR?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ19KMnR3VkhXQVpwVGNCTkJWNnVlay0zMTFzMDkwMkRkRDQxc01Rb3dnVXdWWFh4Ri1iTHR6Ul9DWWdyZ21RMnhRRGJKRTN5MHN5N1RsMG41UDA4TDZuQnFhV3J0VHF5Q2JXa1BTYlh2T203RHFiMHFaX3E2cVJsaXVjbS13NjlyekNlNnkwMTNySHpXWTJ3UW9OcGl5VXl4eGZQWFlQQmYtMDNvRnFWRw?oc=5"
+        },
+        {
+          "name": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3FQRldxRTB1SHl4c24zdUI3RHdZeVZSS01lZVFJQXpvRzZ6eHZFT29OaXFvVzVzM25kMjVCcXRKRm93OEgxcllhel9zclZsV1NwV2xXSGtYWWV2NGdsa1RlVHI2czQxOHFrSHQ3ZEs5S3RzdVhDTUlYdTFiVDhqWUpLMmE3ZHptLWdIWnRLblRXU2ZCTjJzSGxVTjAzdjdzOFRoQThINTFYcFF5LXRHa1BLTmdZR09XLTJyR2dXa9IBxAFBVV95cUxQUFViLTl1RUE3V2ZIZmtsMTk2Rk15Qmx4NU0ya01PeEhqanZQME45ZndEUlQzQWdNYlpMaUJMcC1pUnZEOGQyUFpGVGRlWEk5M2w0a0p2NTExb1haOU9HR1Q1V1c3YkxsbEZRX0VPUzg2VS1sdjVkQ1FCY3V4OHJhbHkzT3RqUjNqOXlrcDNKM0drN1JIZG5Ka2F6aVJOTVdFVjhsX2dvTHBad2V1S0pSdlNDZHlKUTRMODFBWXBVM3VuQ1pG?oc=5"
+        },
+        {
+          "name": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSV82bi14SEhxUHhRd0lFLWVwNkZ6Wk1LQzRGY1h6THZuUWJ5LVBkMUdlUUUzNktjU3RfQVczTlR2THEyRnBfLWJ2eXczb3VCcUFLMmpjUHpaLVV3dHhQSlRsdXBzR3kzTV9Yd05GZ3dqRml0WEtNaGF1dE5zWDVJMHRmTnFPUmV3alZv?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-65d6f18a5711",
+      "original_title": "FinancialJuice: RBA: growth in Australia's key trading partners has exceeded expectations as AI investment boost offsets Middle East conflict impact",
+      "published_at": "2026-11-03T03:31:54Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: RBA: growth in Australia's key trading partners has exceeded expectations as AI investment boost offsets Middle East conflict impact",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9833944/RBA-growth-in-Australias-key-trading-partners-has-exceeded-expectations-as-AI-investment-boost-offsets-Middle-East-conflict-impact.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9833944/RBA-growth-in-Australias-key-trading-partners-has-exceeded-expectations-as-AI-investment-boost-offsets-Middle-East-conflict-impact.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-7631062f3c00",
+      "original_title": "North Korea rejects US allegations linking DPRK hackers to $6.3 billion Binance hack",
+      "published_at": "2026-11-03T03:16:19Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "North Korea rejects US allegations linking DPRK hackers to $6.3 billion Binance hack",
+          "source": "FXStreet",
+          "snippet": "North Korea rejects US allegations linking DPRK hackers to $6.3 billion Binance hack &nbsp;&nbsp; FXStreet",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDY3Mm9SbDBaam9Tb1BYWEExNEx4bDFKRjFfdk9qWGp1aWRnLVZSUHRWb3hFSGg0M0NKTGpzQkZNU0lPQWNKRk1IME41UC13WjBOOHRDdFltanBIRXZkX3BISEpMbjZvNHdEdGlTUDVsTlhhblhBZEFQaWI3S01EX3hCSzY0UEdmOGRFS0F6X2pFLTY2M045Nk1ySGNxVFBYYWFtQ2tIUUs2OTBKdTRxSENpRjZNYTQ5MEFxRUNuZTAzOWdUNmhpOGlvTThSNnRpMmtlOFFNR2ZnQQ?oc=5"
+        },
+        {
+          "headline": "North Korea rejects US allegations over $6 billion Binance crypto heist",
+          "source": "France 24",
+          "snippet": "North Korea rejects US allegations over $6 billion Binance crypto heist &nbsp;&nbsp; France 24",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVo5ZzdrNFB0bFRqUmtybVM0Tnp0NUY4Y21mZVQwLTVIZHZLT3ZRVTBycWo1Q01iRE9XaXRmWlNZMC16TTdEVXFUNzJBZVEwY2xEV2FpQjF2LThQVmpmeHFkeVBiRF84Y1VDenpIRjlzR2NUeW9OZWZHSDVKa0ItbU9xTzVpcGhQTzIzZ2NabFpFRWFjeWotMVNmczZIb0dseXZ6TlRFT1pubHFUcEJHVm5xY3R3LUtpS0ZuOQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FXStreet",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDY3Mm9SbDBaam9Tb1BYWEExNEx4bDFKRjFfdk9qWGp1aWRnLVZSUHRWb3hFSGg0M0NKTGpzQkZNU0lPQWNKRk1IME41UC13WjBOOHRDdFltanBIRXZkX3BISEpMbjZvNHdEdGlTUDVsTlhhblhBZEFQaWI3S01EX3hCSzY0UEdmOGRFS0F6X2pFLTY2M045Nk1ySGNxVFBYYWFtQ2tIUUs2OTBKdTRxSENpRjZNYTQ5MEFxRUNuZTAzOWdUNmhpOGlvTThSNnRpMmtlOFFNR2ZnQQ?oc=5"
+        },
+        {
+          "name": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVo5ZzdrNFB0bFRqUmtybVM0Tnp0NUY4Y21mZVQwLTVIZHZLT3ZRVTBycWo1Q01iRE9XaXRmWlNZMC16TTdEVXFUNzJBZVEwY2xEV2FpQjF2LThQVmpmeHFkeVBiRF84Y1VDenpIRjlzR2NUeW9OZWZHSDVKa0ItbU9xTzVpcGhQTzIzZ2NabFpFRWFjeWotMVNmczZIb0dseXZ6TlRFT1pubHFUcEJHVm5xY3R3LUtpS0ZuOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-60da5a75de73",
+      "original_title": "Bitwise’s André Dragosch: Bitcoin’s “Fair Value” of $197,000",
+      "published_at": "2026-11-03T02:09:21Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitwise’s André Dragosch: Bitcoin’s “Fair Value” of $197,000",
+          "source": "CryptoRank",
+          "snippet": "Bitwise’s André Dragosch: Bitcoin’s “Fair Value” of $197,000 &nbsp;&nbsp; CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakwwMEpfVzVEQzJCT0RsRW1VOGU4LXlpRlY2Q0hzNFM4RjQ1cDl1UnBCbmt2Z2ROWlBLLTYtMkEtVzZfdGV6aklub0VSNjMybkVWemYyRDZJNEJlMlIyM2c2QWs4NFVjTms2aTg0cjl1dDdTV0lOUkh5MlF4X05aS3lOYjI0U0RQQ3VzQjIwbzg1MkNQQ3c?oc=5"
+        },
+        {
+          "headline": "Bitcoin's fair value estimated at $197,000, lin...",
+          "source": "Pluang",
+          "snippet": "Bitcoin's fair value estimated at $197,000, lin... &nbsp;&nbsp; Pluang",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjdRMFlYbkhoYi1rRnB1dHN0TzB2VDdYR0h4emd6Mmh3YU85Q2hxZE14NVN5RFVtZDhyYkJVdFJrTE9Cd2U4bUJYVVVBUldma0hHaHExZ2dTZFpYQTB2WDlZMmF4ZmZyX081Z1lvSVlUbFlaRjJpNjB2cnZWRHVFSFdYT1NNY0xUVF81SHVn?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakwwMEpfVzVEQzJCT0RsRW1VOGU4LXlpRlY2Q0hzNFM4RjQ1cDl1UnBCbmt2Z2ROWlBLLTYtMkEtVzZfdGV6aklub0VSNjMybkVWemYyRDZJNEJlMlIyM2c2QWs4NFVjTms2aTg0cjl1dDdTV0lOUkh5MlF4X05aS3lOYjI0U0RQQ3VzQjIwbzg1MkNQQ3c?oc=5"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjdRMFlYbkhoYi1rRnB1dHN0TzB2VDdYR0h4emd6Mmh3YU85Q2hxZE14NVN5RFVtZDhyYkJVdFJrTE9Cd2U4bUJYVVVBUldma0hHaHExZ2dTZFpYQTB2WDlZMmF4ZmZyX081Z1lvSVlUbFlaRjJpNjB2cnZWRHVFSFdYT1NNY0xUVF81SHVn?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-0015096d57b0",
+      "original_title": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
+      "published_at": "2026-11-03T02:08:32Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
+          "source": "Scripps News",
+          "snippet": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says &nbsp;&nbsp; Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeUhiN1hZWE5IV1RnLUU2REViakoxWGVJb0pWNWRkQUtSWGtDMFdXYV82QTNMYWdiekNBdE5oeE9vRUdkTVI5eGVoaG1jeWJHd1cxNjUzejc1VkdFVTFYT2R1Yk93VzI1Z1Zpa3BDZENjbm11dmgyNFJTNEl4SjhVVUZXYko3UGxZR09zODd3eXRYTzZ4dGU4eERzWUtBZ0JhYkRVZzRqaFU2NlR2Mnd5Q2xNUDFkSldzZVE4OFRseGd2RUt6eEtLb2dEZy1LYmZjT0FQZVppVE93SFZF?oc=5"
+        },
+        {
+          "headline": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
+          "source": "KSAT",
+          "snippet": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says &nbsp;&nbsp; KSAT",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcWpWbnBzcmswbExmd2lwZ2d0d3hwV0hkU1JMaXh4cWlMeF9BQ08wRnlBcUhDUXVEOF85bU9CdFVsdkxQZUtFeHhqX1lLYzNVZnBKeS1xRHZvQnl4b0RNUnBNeUVBVUhfN09IOWxTbnpKNFFXNW54bXVuNmJnQVp5dElnemc5YXBUbUV6UG9WTWJWNVVxemdRQVhDdzJIdC1VWTloNHBjSDV4ZkZWQ2RjM0NEVXJtWTYzbmRYZC02SEc4c0NURGR3ckgxcm9TeFZzck5fY2puNGo1eWY0VEE?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeUhiN1hZWE5IV1RnLUU2REViakoxWGVJb0pWNWRkQUtSWGtDMFdXYV82QTNMYWdiekNBdE5oeE9vRUdkTVI5eGVoaG1jeWJHd1cxNjUzejc1VkdFVTFYT2R1Yk93VzI1Z1Zpa3BDZENjbm11dmgyNFJTNEl4SjhVVUZXYko3UGxZR09zODd3eXRYTzZ4dGU4eERzWUtBZ0JhYkRVZzRqaFU2NlR2Mnd5Q2xNUDFkSldzZVE4OFRseGd2RUt6eEtLb2dEZy1LYmZjT0FQZVppVE93SFZF?oc=5"
+        },
+        {
+          "name": "KSAT",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcWpWbnBzcmswbExmd2lwZ2d0d3hwV0hkU1JMaXh4cWlMeF9BQ08wRnlBcUhDUXVEOF85bU9CdFVsdkxQZUtFeHhqX1lLYzNVZnBKeS1xRHZvQnl4b0RNUnBNeUVBVUhfN09IOWxTbnpKNFFXNW54bXVuNmJnQVp5dElnemc5YXBUbUV6UG9WTWJWNVVxemdRQVhDdzJIdC1VWTloNHBjSDV4ZkZWQ2RjM0NEVXJtWTYzbmRYZC02SEc4c0NURGR3ckgxcm9TeFZzck5fY2puNGo1eWY0VEE?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-85022fcd8684",
+      "original_title": "\"이란이 먼저 미 항공기에 미사일\" 미 관리 \"케슘섬 발사대 자위권 차원 제거\" [공부의여신 네트워크] 이란 혁명수비대(IRGC)가 2일(현지시간) 밤 호르무즈 해협 케슘섬에서 미군 항공기를 향해 미사일을 발사했고, 이에 미군 전투기가 자위권 차원에서 해당 지대공 미사일 발사대를 제거했다고 미국 관리가 밝혔다. 악시오스의 바라크 라비드 기자가 미국 관리를 인용해 전했다. 이는 앞서 월스트리트",
+      "published_at": "2026-11-03T01:59:46Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "\"이란이 먼저 미 항공기에 미사일\" 미 관리 \"케슘섬 발사대 자위권 차원 제거\" [공부의여신 네트워크] 이란 혁명수비대(IRGC)가 2일(현지시간) 밤 호르무즈 해협 케슘섬에서 미군 항공기를 향해 미사일을 발사했고, 이에 미군 전투기가 자위권 차원에서 해당 지대공 미사일 발사대를 제거했다고 미국 관리가 밝혔다. 악시오스의 바라크 라비드 기자가 미국 관리를 인용해 전했다. 이는 앞서 월스트리트",
+          "source": "Telegram @goddessTTF",
+          "snippet": "\"이란이 먼저 미 항공기에 미사일\" 미 관리 \"케슘섬 발사대 자위권 차원 제거\" [공부의여신 네트워크] 이란 혁명수비대(IRGC)가 2일(현지시간) 밤 호르무즈 해협 케슘섬에서 미군 항공기를 향해 미사일을 발사했고, 이에 미군 전투기가 자위권 차원에서 해당 지대공 미사일 발사대를 제거했다고 미국 관리가 밝혔다. 악시오스의 바라크 라비드 기자가 미국 관리를 인용해 전했다. 이는 앞서 월스트리트저널(WSJ)이 미국 관리들을 인용해 \"미국이 2일 이란 케슘섬을 공격했으며, 최근 몇 주간 비공개로 이어온 제한적 타격의 하나\"라고 보도한 데 이어, 미국 측이 이번 공격의 경위를 처음 설명한 것이다. WSJ도 일부 관리들이 이번 공격을 이란이 호르무즈 해협에서 상선을 마음대로 공격하지 못하게 막기 위한 방어적 성격이라고 설명했다고 전했다. 【공식 확인은 아직】 다만 백악관과 전쟁부, 미 중부사령부(CENTCOM)는 아직 공식 발표를 내놓지 않았고, 이란 정부도 미사일 발사 여부에 대해 공식 입장을 밝히지 않았다. 이번 일은 트럼프 대통령이 이란과의 합의가 \"이뤄질 수 있다\"며 카타르 중재 협상을 이어가는 가운데 벌어졌다.",
+          "url": "https://t.me/goddessTTF/86606"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/86606"
+        }
+      ]
+    },
     {
       "stable_id": "2026-11-03-25eb61355278",
       "original_title": "이란 국제방송(Iran International)에 따르면, 이스파한에서 1월에 발생한 반정부 시위와 관련하여 사형 선고를 받은 3명의 남성이 내일 처형될 예정입니다.",
@@ -42,6 +942,26 @@
       ]
     },
     {
+      "stable_id": "2026-11-03-d35b0d857bef",
+      "original_title": "Fed will not raise rates on inflation fears alone - Powell",
+      "published_at": "2026-11-03T01:27:33Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Fed will not raise rates on inflation fears alone - Powell",
+          "source": "Reuters",
+          "snippet": "Fed will not raise rates on inflation fears alone - Powell &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05NHZFS3RDMThNekhkZTNvaHg2b0Fud09rUDRZWkxjcVU0ekt1SDloOUppNF85bVlUZVZURlBsNENmdm9aYVFpc1N4OElxbVE4OU5yUXdqNElnNkFz?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05NHZFS3RDMThNekhkZTNvaHg2b0Fud09rUDRZWkxjcVU0ekt1SDloOUppNF85bVlUZVZURlBsNENmdm9aYVFpc1N4OElxbVE4OU5yUXdqNElnNkFz?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-11-03-b40a3b8ff984",
       "original_title": "Oil rises after report of US strike on Iran's Qeshm Island",
       "published_at": "2026-11-03T01:27:00Z",
@@ -51,6 +971,26 @@
           "headline": "Oil rises after report of US strike on Iran's Qeshm Island",
           "source": "Reuters",
           "snippet": "Oil rises after report of US strike on Iran's Qeshm Island &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-03-4bebd34bc5e7",
+      "original_title": "Oil rises as peace prospects dim after US hits Iran's Qeshm Island",
+      "published_at": "2026-11-03T01:27:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil rises as peace prospects dim after US hits Iran's Qeshm Island",
+          "source": "Reuters",
+          "snippet": "Oil rises as peace prospects dim after US hits Iran's Qeshm Island &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5"
         }
       ],
@@ -212,36 +1152,6 @@
       ]
     },
     {
-      "stable_id": "2026-11-02-2c581ed86bd7",
-      "original_title": "Iran says contacts over ending war continue after talks finish with no breakthrough",
-      "published_at": "2026-11-02T23:57:41Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran says contacts over ending war continue after talks finish with no breakthrough",
-          "source": "Reuters",
-          "snippet": "Iran says contacts over ending war continue after talks finish with no breakthrough &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5"
-        },
-        {
-          "headline": "Iran says contacts over ending war continue after talks finish with no breakthrough",
-          "source": "Yahoo",
-          "snippet": "Iran says contacts over ending war continue after talks finish with no breakthrough &nbsp;&nbsp; Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTB3WXh3SEU2YW11RVpBdzJZVVZnMTk1WHlPNXpLUzNSMk1IWm9DUmpXYjVLTWFSYmdMQ2NKNS1fenpsQmd6ZDdVb3NzU2psSDhtQTRfNnNMS240UlBrUXBlZFJ0Z0kxa0k4dXpkQm9jUl8xdTJQM1hXc2hUZWFmWGctZ0o2V2Jh?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5"
-        },
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTB3WXh3SEU2YW11RVpBdzJZVVZnMTk1WHlPNXpLUzNSMk1IWm9DUmpXYjVLTWFSYmdMQ2NKNS1fenpsQmd6ZDdVb3NzU2psSDhtQTRfNnNMS240UlBrUXBlZFJ0Z0kxa0k4dXpkQm9jUl8xdTJQM1hXc2hUZWFmWGctZ0o2V2Jh?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-11-02-1f73abcbe6aa",
       "original_title": "FinancialJuice: OpenAI: Dan Driscoll to advise on advanced AI use for national and cyber security, focus on U.S. allies",
       "published_at": "2026-11-02T23:33:37Z",
@@ -338,6 +1248,26 @@
         {
           "name": "Telegram @goddessTTF",
           "url": "https://t.me/goddessTTF/86591"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-02-4de65942dadb",
+      "original_title": "Global oil supply down nearly 1 bln barrels since Hormuz disruption, warns ADNOC CEO",
+      "published_at": "2026-11-02T23:01:08Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Global oil supply down nearly 1 bln barrels since Hormuz disruption, warns ADNOC CEO",
+          "source": "Reuters",
+          "snippet": "Global oil supply down nearly 1 bln barrels since Hormuz disruption, warns ADNOC CEO &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56cWJxMjVzUmJ4U1FMSVZkTy02NkxkZUZHRURIN1BPMWlPcmkwUHVxVnhobXVMVVpXWkZyWTRjT0gxal9kTWR4Ujh1RTZyUkJWRUZ3OWU3X2ZfRXNNdklfWkVtYl9RUjQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56cWJxMjVzUmJ4U1FMSVZkTy02NkxkZUZHRURIN1BPMWlPcmkwUHVxVnhobXVMVVpXWkZyWTRjT0gxal9kTWR4Ujh1RTZyUkJWRUZ3OWU3X2ZfRXNNdklfWkVtYl9RUjQ?oc=5"
         }
       ]
     },
@@ -612,6 +1542,46 @@
       ]
     },
     {
+      "stable_id": "2026-11-02-39cdc135ef36",
+      "original_title": "Binance clients pull US$4.7 billion after hack as crypto world studies fallout",
+      "published_at": "2026-11-02T21:11:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Binance clients pull US$4.7 billion after hack as crypto world studies fallout",
+          "source": "The Straits Times",
+          "snippet": "Binance clients pull US$4.7 billion after hack as crypto world studies fallout &nbsp;&nbsp; The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0FNbzhuMTZCS05jejRPTEFIM1JXVjhwaS1HR3BEOFBkZnJLN2Eyd05YbWFtYXotbE1xQjFfRXdwNllzVkdxb0hleHJGLTJzeHUtUW5iV3ZCX3JQd0dmN25VV0Myb011RjJRVk5ucVNzaWl1M0FUZVE1RWNoWTF4SWdxS2VTUGh1Mjh1bFNZb3FTdk5QNXFhYnZtMzZ4MU1zcy0xTDB4OGlGcVp2UXlWdHhxSTY5dw?oc=5"
+        },
+        {
+          "headline": "Binance clients pull US$4.7B after hack as crypto world studies fallout",
+          "source": "BNN Bloomberg",
+          "snippet": "Binance clients pull US$4.7B after hack as crypto world studies fallout &nbsp;&nbsp; BNN Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONlU3VmdEaGZtRERvNHRnYzhWcHZ6MUY2QlZsUW5nTFdNNU1fc3pLSlNmS2VUMVpaSkFUS0RfZUdIRE1IaUF6LUlsNzNLVEFwQXlKR2xXZXhBckxBaHBSVE9ieHUxQlNwcDVGRnRmWTZOQWRJVk5Qc0U2Wk5ON1l4Z0NGOWphbHZjSEhvTTlzdlViRnFIc215RnQ0YVVvakNkZWd5NEpCRXp6MXdYY2UzRUtYdE1ldXQzdU91NjdWNTdTQ3FtTkNZWkh6NE51ZXY3QXY0VE5VZw?oc=5"
+        },
+        {
+          "headline": "Binance clients pull $4.7 billion after hack as crypto world studies fallout",
+          "source": "The Korea Times",
+          "snippet": "Binance clients pull $4.7 billion after hack as crypto world studies fallout &nbsp;&nbsp; The Korea Times",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlRrejEyc0I3TG8yVkxLcVV5ZGk2WS0taE85QjV3eWlBQV95akxaZ2FxZTI0SWE2bW83RTVLdWNDYkllTU9KTTJhYjZPX29yVW9kSDg5cFRjVDdLSHBCOGo4MU92NWFmbmJQcG5oQUxxa1Bma2l2eUtCVW1ZVTdyRUNxbWJIX29KMDBKaG5XVHVYWklEMmVaM2dHeUJzT3FNSmEzRmpqTmFkVy1tVjgzeFdUZjI2alJmVmfSAb8BQVVfeXFMUF95VHdFSzdnQy0tVkxPSXdUTWJQQkRselhQYzN6WFNVQXJMUGtyMXA0QVpHVW5sOGx0U2JKTkVET1lyd0cwWk83TWpncEtfcUpOak04ZXN6cW9KUmZVOFR0ZXNwWmNzT3hIR3N3aWtZVTdabnRpbXZ4cHJ3M0JKRU1TeDJ6SlRieFBNWVBEV3VqREp6YzJXZXBIWm12SEJCNE03SWlKbzhjR0dqazhSRjdkNl9WYXBlX1dXODhxeGs?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0FNbzhuMTZCS05jejRPTEFIM1JXVjhwaS1HR3BEOFBkZnJLN2Eyd05YbWFtYXotbE1xQjFfRXdwNllzVkdxb0hleHJGLTJzeHUtUW5iV3ZCX3JQd0dmN25VV0Myb011RjJRVk5ucVNzaWl1M0FUZVE1RWNoWTF4SWdxS2VTUGh1Mjh1bFNZb3FTdk5QNXFhYnZtMzZ4MU1zcy0xTDB4OGlGcVp2UXlWdHhxSTY5dw?oc=5"
+        },
+        {
+          "name": "BNN Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONlU3VmdEaGZtRERvNHRnYzhWcHZ6MUY2QlZsUW5nTFdNNU1fc3pLSlNmS2VUMVpaSkFUS0RfZUdIRE1IaUF6LUlsNzNLVEFwQXlKR2xXZXhBckxBaHBSVE9ieHUxQlNwcDVGRnRmWTZOQWRJVk5Qc0U2Wk5ON1l4Z0NGOWphbHZjSEhvTTlzdlViRnFIc215RnQ0YVVvakNkZWd5NEpCRXp6MXdYY2UzRUtYdE1ldXQzdU91NjdWNTdTQ3FtTkNZWkh6NE51ZXY3QXY0VE5VZw?oc=5"
+        },
+        {
+          "name": "The Korea Times",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlRrejEyc0I3TG8yVkxLcVV5ZGk2WS0taE85QjV3eWlBQV95akxaZ2FxZTI0SWE2bW83RTVLdWNDYkllTU9KTTJhYjZPX29yVW9kSDg5cFRjVDdLSHBCOGo4MU92NWFmbmJQcG5oQUxxa1Bma2l2eUtCVW1ZVTdyRUNxbWJIX29KMDBKaG5XVHVYWklEMmVaM2dHeUJzT3FNSmEzRmpqTmFkVy1tVjgzeFdUZjI2alJmVmfSAb8BQVVfeXFMUF95VHdFSzdnQy0tVkxPSXdUTWJQQkRselhQYzN6WFNVQXJMUGtyMXA0QVpHVW5sOGx0U2JKTkVET1lyd0cwWk83TWpncEtfcUpOak04ZXN6cW9KUmZVOFR0ZXNwWmNzT3hIR3N3aWtZVTdabnRpbXZ4cHJ3M0JKRU1TeDJ6SlRieFBNWVBEV3VqREp6YzJXZXBIWm12SEJCNE03SWlKbzhjR0dqazhSRjdkNl9WYXBlX1dXODhxeGs?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-11-02-ef1317363b82",
       "original_title": "FinancialJuice: Iran's IRNA: Explosions heard in Qeshm Island; no official confirmation.",
       "published_at": "2026-11-02T21:04:00Z",
@@ -878,26 +1848,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9833209/Trump-Iran-asked-to-stop-killing-its-leaders-we-will.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-4de65942dadb",
-      "original_title": "Global oil supply down nearly 1 bln barrels since Hormuz disruption, warns ADNOC CEO",
-      "published_at": "2026-11-02T19:49:56Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Global oil supply down nearly 1 bln barrels since Hormuz disruption, warns ADNOC CEO",
-          "source": "Reuters",
-          "snippet": "Global oil supply down nearly 1 bln barrels since Hormuz disruption, warns ADNOC CEO &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56cWJxMjVzUmJ4U1FMSVZkTy02NkxkZUZHRURIN1BPMWlPcmkwUHVxVnhobXVMVVpXWkZyWTRjT0gxal9kTWR4Ujh1RTZyUkJWRUZ3OWU3X2ZfRXNNdklfWkVtYl9RUjQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56cWJxMjVzUmJ4U1FMSVZkTy02NkxkZUZHRURIN1BPMWlPcmkwUHVxVnhobXVMVVpXWkZyWTRjT0gxal9kTWR4Ujh1RTZyUkJWRUZ3OWU3X2ZfRXNNdklfWkVtYl9RUjQ?oc=5"
         }
       ]
     },
@@ -1308,866 +2258,6 @@
         {
           "name": "CoinDesk",
           "url": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-03253601e425",
-      "original_title": "Breakingviews - COMMENTARY: Binance hack plays up crypto’s trust issues",
-      "published_at": "2026-11-02T17:04:13Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Breakingviews - COMMENTARY: Binance hack plays up crypto’s trust issues",
-          "source": "Reuters",
-          "snippet": "Breakingviews - COMMENTARY: Binance hack plays up crypto’s trust issues &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNak0xSkdPTzNzYXpOeEhobGpPZHlwOUh1R2JWUHBjUzNuVFhjMkFOX1g3N3NUdUl2RUs3QTlSbEI1dkJqck1aT2labVdWQ2dMU0QtZm15OG5UV2t6dTRUZDYwNDdpNmk4YWNSNzh0TWdiUE1mZS1rWGFiRTEta01RVDhnS2Z5YkZGTGRkNjZZUjk4cTlxbHM0V3BMOWlvRTQ5Vm8wNkZn?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNak0xSkdPTzNzYXpOeEhobGpPZHlwOUh1R2JWUHBjUzNuVFhjMkFOX1g3N3NUdUl2RUs3QTlSbEI1dkJqck1aT2labVdWQ2dMU0QtZm15OG5UV2t6dTRUZDYwNDdpNmk4YWNSNzh0TWdiUE1mZS1rWGFiRTEta01RVDhnS2Z5YkZGTGRkNjZZUjk4cTlxbHM0V3BMOWlvRTQ5Vm8wNkZn?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-f7a35f2c0bb6",
-      "original_title": "Expert says U.S. midterm affects XRP, not Bitcoin",
-      "published_at": "2026-11-02T16:58:33Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Expert says U.S. midterm affects XRP, not Bitcoin",
-          "source": "roundtable.io",
-          "snippet": "Expert says U.S. midterm affects XRP, not Bitcoin &nbsp;&nbsp; roundtable.io",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbUJ6N0JJWnh3MC11VXV5cVE0OXR2dWpQSndwSEFzeGlEcnBtUWJiLS1BVDZHbE9OVjJrSXZ3ZHB5S1lQNlktZGkzMEkzMFNldUtQNGwyNzA2X01NRGtDZTVCaE9rWlVTSWtsMERmX3hoVXRfTWRmOEdXTkc3aHM?oc=5"
-        },
-        {
-          "headline": "Expert says U.S. midterm affects XRP, not Bitcoin",
-          "source": "TheStreet",
-          "snippet": "Expert says U.S. midterm affects XRP, not Bitcoin &nbsp;&nbsp; TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS3lTcVQ4NDh0OUNXT2Z5bFlldDJvNFMxWktGcnQ2cEoybDYwUmtjeE1Ham8xd0l0N2x1Q2xGVmRSNTV1Sy1BVWpQU2VyQ2ViTjljeUNmRV96OThKV0ZRY2JMbmtkSllfMTNFUVBnX2xpMnNrWk00bExsUnpxMFFJTTRuOTJSVFhCcmh4Z3VRYjQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "roundtable.io",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbUJ6N0JJWnh3MC11VXV5cVE0OXR2dWpQSndwSEFzeGlEcnBtUWJiLS1BVDZHbE9OVjJrSXZ3ZHB5S1lQNlktZGkzMEkzMFNldUtQNGwyNzA2X01NRGtDZTVCaE9rWlVTSWtsMERmX3hoVXRfTWRmOEdXTkc3aHM?oc=5"
-        },
-        {
-          "name": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS3lTcVQ4NDh0OUNXT2Z5bFlldDJvNFMxWktGcnQ2cEoybDYwUmtjeE1Ham8xd0l0N2x1Q2xGVmRSNTV1Sy1BVWpQU2VyQ2ViTjljeUNmRV96OThKV0ZRY2JMbmtkSllfMTNFUVBnX2xpMnNrWk00bExsUnpxMFFJTTRuOTJSVFhCcmh4Z3VRYjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-ac62528fc3cb",
-      "original_title": "NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks",
-      "published_at": "2026-11-02T16:41:46Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-e75cd1576d7f",
-      "original_title": "NYSE tokenized stock plans take shape as four more transfer agents join",
-      "published_at": "2026-11-02T16:41:46Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "NYSE tokenized stock plans take shape as four more transfer agents join",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-b97f26cd6798",
-      "original_title": "Dollar declines ahead of US midterms as oil falls; bitcoin steadies after crypto theft",
-      "published_at": "2026-11-02T16:14:54Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Dollar declines ahead of US midterms as oil falls; bitcoin steadies after crypto theft",
-          "source": "The Lufkin Daily News",
-          "snippet": "Dollar declines ahead of US midterms as oil falls; bitcoin steadies after crypto theft &nbsp;&nbsp; The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSnBxMDh0TG8yVHRpYVZVd2Joa1MtSXVWRlEzM2dMTkswZ0pVOVlEMDVkajlwUlp4UTh6VnAyVnAycFNpbkRtQndfbTlTcGNqa0tWNWU2TnFLY3dseDNPTmFRcEtrbXZoUVNFcURpNlF4bWlCMWdyRm8zT0gwRlN4c1ZlZExkNTZ2NlFENF9oZDlXWjRRSHZJZ19JbnNBcGtYNzFnWV9FaFVmTEYwMUlsZkU3OFR5cGR5V19PR1ZMcHo3Q25pZnpieWxoaHRuYWlueHVwOENNaE81SnlhZVoxUDZUZzJ1NDE0SHJScXY3TDlsdWtMLV9pOXBzQ01ETlVzVmhNSE0tbC1fbTlFLTZpUnNDaw?oc=5"
-        },
-        {
-          "headline": "Dollar declines ahead of US midterms as oil falls; bitcoin steadies after crypto theft",
-          "source": "TradingView",
-          "snippet": "Dollar declines ahead of US midterms as oil falls; bitcoin steadies after crypto theft &nbsp;&nbsp; TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQlRUcG90NVczU0FBWWNud3Qxbl8xUzg0cnNVWU9HbFJlaXFnQ2g2VE1sTDVNWlBVYlNzSDROU01pb1ZjQzlkcThuWVR4ZDZETGlqbUNWeVlUenpWSE9XSTRfZElfZjExT1h0ckNmRDl5TW40ZVEwWFBBZFRrdktNYXh6M3Nqek1HVkNpS3F5bzZ6UGE5RHZXd2xHLVRQNjVMLWE1ZU1DakZiZ0lDWTZhcTd3OUg4UjJ6MmhXczdEYjdKU0dlcDhVc2FMU2YtSzlpdDhjY0plTHE4eXVacW9xYnc2dWxkU3BxalI4?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSnBxMDh0TG8yVHRpYVZVd2Joa1MtSXVWRlEzM2dMTkswZ0pVOVlEMDVkajlwUlp4UTh6VnAyVnAycFNpbkRtQndfbTlTcGNqa0tWNWU2TnFLY3dseDNPTmFRcEtrbXZoUVNFcURpNlF4bWlCMWdyRm8zT0gwRlN4c1ZlZExkNTZ2NlFENF9oZDlXWjRRSHZJZ19JbnNBcGtYNzFnWV9FaFVmTEYwMUlsZkU3OFR5cGR5V19PR1ZMcHo3Q25pZnpieWxoaHRuYWlueHVwOENNaE81SnlhZVoxUDZUZzJ1NDE0SHJScXY3TDlsdWtMLV9pOXBzQ01ETlVzVmhNSE0tbC1fbTlFLTZpUnNDaw?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQlRUcG90NVczU0FBWWNud3Qxbl8xUzg0cnNVWU9HbFJlaXFnQ2g2VE1sTDVNWlBVYlNzSDROU01pb1ZjQzlkcThuWVR4ZDZETGlqbUNWeVlUenpWSE9XSTRfZElfZjExT1h0ckNmRDl5TW40ZVEwWFBBZFRrdktNYXh6M3Nqek1HVkNpS3F5bzZ6UGE5RHZXd2xHLVRQNjVMLWE1ZU1DakZiZ0lDWTZhcTd3OUg4UjJ6MmhXczdEYjdKU0dlcDhVc2FMU2YtSzlpdDhjY0plTHE4eXVacW9xYnc2dWxkU3BxalI4?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-25e79f3de05d",
-      "original_title": "FinancialJuice: Meta Platforms plans Dollar and Euro bond sale fixed income investor calls $META",
-      "published_at": "2026-11-02T15:53:33Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Meta Platforms plans Dollar and Euro bond sale fixed income investor calls $META",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832913/Meta-Platforms-plans-Dollar-and-Euro-bond-sale-fixed-income-investor-calls-META.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832913/Meta-Platforms-plans-Dollar-and-Euro-bond-sale-fixed-income-investor-calls-META.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-0ca51460157d",
-      "original_title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-      "published_at": "2026-11-02T15:53:29Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-728c061dee34",
-      "original_title": "Iran Says Hormuz Reopening Possible Within Two Days if US Meets its Demands",
-      "published_at": "2026-11-02T15:39:21Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran Says Hormuz Reopening Possible Within Two Days if US Meets its Demands",
-          "source": "Caspian Post",
-          "snippet": "Iran Says Hormuz Reopening Possible Within Two Days if US Meets its Demands &nbsp;&nbsp; Caspian Post",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUdRc2Y2OWFlVm5GUUZhRzJ2U040aERDaFFTRHBiRUFrdHZIZjRFV3FmZzJ4MHZZNTRZWXVQQVJhd1NqNUZiekVpVEg2cVpiZHFaVUJiLWVaVE1KZUlRQm92NnNWV1UzNUpuY2tKM0JDTDg0ZEJCSGo5SEtPU2JxdXZmWmltMWNCdVhzRWRZLWpidDdMVHNxbVI4YXlfY1JXa1NPRW9TOA?oc=5"
-        },
-        {
-          "headline": "Iran says Strait of Hormuz could reopen within two days if US meets its demands",
-          "source": "アラブニュース",
-          "snippet": "Iran says Strait of Hormuz could reopen within two days if US meets its demands &nbsp;&nbsp; アラブニュース",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmEwNUFLUzk0S3VBVEkweUxRYkVaRG9tQnkwZkFUcjJDOHZBWUZhN1I5WFppZW14VV94YkpMS1EwM0RqTmVXckN0UFA1UGl6aUZIVk4zU3F1SnpNZmI2TWlXYldveVRZREFGZTlaTGJIZy15bHBvdUU2RGRpbHpybVhVbldtQzViTXF6NGpSUk9vN1MtelBaY3k0YUJDbEhOY3I0RGRIQWJnbUQwQWtKUXotRC1UZUpUbTZIejBSTk0tNC0w?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Caspian Post",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUdRc2Y2OWFlVm5GUUZhRzJ2U040aERDaFFTRHBiRUFrdHZIZjRFV3FmZzJ4MHZZNTRZWXVQQVJhd1NqNUZiekVpVEg2cVpiZHFaVUJiLWVaVE1KZUlRQm92NnNWV1UzNUpuY2tKM0JDTDg0ZEJCSGo5SEtPU2JxdXZmWmltMWNCdVhzRWRZLWpidDdMVHNxbVI4YXlfY1JXa1NPRW9TOA?oc=5"
-        },
-        {
-          "name": "アラブニュース",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmEwNUFLUzk0S3VBVEkweUxRYkVaRG9tQnkwZkFUcjJDOHZBWUZhN1I5WFppZW14VV94YkpMS1EwM0RqTmVXckN0UFA1UGl6aUZIVk4zU3F1SnpNZmI2TWlXYldveVRZREFGZTlaTGJIZy15bHBvdUU2RGRpbHpybVhVbldtQzViTXF6NGpSUk9vN1MtelBaY3k0YUJDbEhOY3I0RGRIQWJnbUQwQWtKUXotRC1UZUpUbTZIejBSTk0tNC0w?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-12e9ca642bd7",
-      "original_title": "Binance clients pull $4.7 billion after hack as crypto world studies fallout",
-      "published_at": "2026-11-02T15:34:29Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Binance clients pull $4.7 billion after hack as crypto world studies fallout",
-          "source": "The Lufkin Daily News",
-          "snippet": "Binance clients pull $4.7 billion after hack as crypto world studies fallout &nbsp;&nbsp; The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRFZOMHh0VXQtRVZ0c0kyaWNWRnJWY2dacWwxelVBV2hvYy1BcTJYWTZvTlZ3Mmw1UUFqUzVoT3VCZnVVNXIxb2JwS1ctUmw2S09PanhFRVd4SDB0dkg5SXVlMlZaVWpkaXFidGMyY3BNeTBXUFhrNGF0WGphQjZXZXluSUVvYzV1N01hYUZaZUM0eWVtamxnaXdORDNjZnE3Y3lsT3NfNThHUWtUQXhOM3VfZVdFM1lYek1RS2FUdFVxa1JfTUpVVEFYVm51YUpJSGRHX1hLbEZ1Vl9mZ3V5NkZBY3Nkbzh6eEdBdU1LT0I4SzJNckJNNUdJZkl0VEtabktlV2F3?oc=5"
-        },
-        {
-          "headline": "Binance clients pull $4.7 billion after hack as crypto world studies fallout",
-          "source": "Reuters",
-          "snippet": "Binance clients pull $4.7 billion after hack as crypto world studies fallout &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRFZOMHh0VXQtRVZ0c0kyaWNWRnJWY2dacWwxelVBV2hvYy1BcTJYWTZvTlZ3Mmw1UUFqUzVoT3VCZnVVNXIxb2JwS1ctUmw2S09PanhFRVd4SDB0dkg5SXVlMlZaVWpkaXFidGMyY3BNeTBXUFhrNGF0WGphQjZXZXluSUVvYzV1N01hYUZaZUM0eWVtamxnaXdORDNjZnE3Y3lsT3NfNThHUWtUQXhOM3VfZVdFM1lYek1RS2FUdFVxa1JfTUpVVEFYVm51YUpJSGRHX1hLbEZ1Vl9mZ3V5NkZBY3Nkbzh6eEdBdU1LT0I4SzJNckJNNUdJZkl0VEtabktlV2F3?oc=5"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-b9d98688b1d6",
-      "original_title": "FinancialJuice: ECB's Escriva: Rates at 2% to keep inflation at around 2% reasonable.",
-      "published_at": "2026-11-02T15:29:09Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB's Escriva: Rates at 2% to keep inflation at around 2% reasonable.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832866/ECBs-Escriva-Rates-at-2-to-keep-inflation-at-around-2-reasonable.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832866/ECBs-Escriva-Rates-at-2-to-keep-inflation-at-around-2-reasonable.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-639dfce81caa",
-      "original_title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
-      "published_at": "2026-11-02T15:26:43Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-d11f538409fa",
-      "original_title": "FinancialJuice: ECB's Moulin: Can't compare current situation to 2022 inflation",
-      "published_at": "2026-11-02T15:24:53Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB's Moulin: Can't compare current situation to 2022 inflation",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832864/ECBs-Moulin-Cant-compare-current-situation-to-2022-inflation.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832864/ECBs-Moulin-Cant-compare-current-situation-to-2022-inflation.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-211bc33f75f4",
-      "original_title": "FinancialJuice: Kazakhstan: Atyrau-Samara oil flows halted after a drone attack.",
-      "published_at": "2026-11-02T15:24:18Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Kazakhstan: Atyrau-Samara oil flows halted after a drone attack.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832863/Kazakhstan-Atyrau-Samara-oil-flows-halted-after-a-drone-attack.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832863/Kazakhstan-Atyrau-Samara-oil-flows-halted-after-a-drone-attack.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-1c6895e73bf5",
-      "original_title": "FinancialJuice: ECB's Moulin: Inflation we have today is well above our 2% objective",
-      "published_at": "2026-11-02T15:24:03Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB's Moulin: Inflation we have today is well above our 2% objective",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832862/ECBs-Moulin-Inflation-we-have-today-is-well-above-our-2-objective.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832862/ECBs-Moulin-Inflation-we-have-today-is-well-above-our-2-objective.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-d5be50593859",
-      "original_title": "마수드 페제시키안 이란 대통령은 2일(현지시간) 국영 매체를 통해 모즈타바 하메네이 최고지도자가 미국과의 협상과 관련해 정부에 '일정한 권한'을 부여했다며, 이란은 대화로 문제를 풀겠다고 밝혔습니다. 권한의 구체적인 범위는 공개되지 않았습니다. 이 소식에 브렌트유는 6% 넘게 떨어져 배럴당 106달러 선까지 밀렸습니다. - 이란 국영 IRNA 통신",
-      "published_at": "2026-11-02T15:23:06Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "마수드 페제시키안 이란 대통령은 2일(현지시간) 국영 매체를 통해 모즈타바 하메네이 최고지도자가 미국과의 협상과 관련해 정부에 '일정한 권한'을 부여했다며, 이란은 대화로 문제를 풀겠다고 밝혔습니다. 권한의 구체적인 범위는 공개되지 않았습니다. 이 소식에 브렌트유는 6% 넘게 떨어져 배럴당 106달러 선까지 밀렸습니다. - 이란 국영 IRNA 통신",
-          "source": "Telegram @goddessTTF",
-          "snippet": "마수드 페제시키안 이란 대통령은 2일(현지시간) 국영 매체를 통해 모즈타바 하메네이 최고지도자가 미국과의 협상과 관련해 정부에 '일정한 권한'을 부여했다며, 이란은 대화로 문제를 풀겠다고 밝혔습니다. 권한의 구체적인 범위는 공개되지 않았습니다. 이 소식에 브렌트유는 6% 넘게 떨어져 배럴당 106달러 선까지 밀렸습니다. - 이란 국영 IRNA 통신",
-          "url": "https://t.me/goddessTTF/86573"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/86573"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-434faf1a9326",
-      "original_title": "FinancialJuice: ECB's Escriva: There are no signs of second-round effects yet.",
-      "published_at": "2026-11-02T15:22:34Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB's Escriva: There are no signs of second-round effects yet.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832860/ECBs-Escriva-There-are-no-signs-of-second-round-effects-yet.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832860/ECBs-Escriva-There-are-no-signs-of-second-round-effects-yet.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-7f93af7e4662",
-      "original_title": "FinancialJuice: ECB's Escriva: Oil and gas price shock greater than expected",
-      "published_at": "2026-11-02T15:22:16Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB's Escriva: Oil and gas price shock greater than expected",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832858/ECBs-Escriva-Oil-and-gas-price-shock-greater-than-expected.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832858/ECBs-Escriva-Oil-and-gas-price-shock-greater-than-expected.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-fce821f71527",
-      "original_title": "FinancialJuice: Crypto Fear and Greed Index: 37/100 = Fear",
-      "published_at": "2026-11-02T15:18:10Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Crypto Fear and Greed Index: 37/100 = Fear",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832856/Crypto-Fear-and-Greed-Index-37100--Fear.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832856/Crypto-Fear-and-Greed-Index-37100--Fear.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-accf9e22611a",
-      "original_title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
-      "published_at": "2026-11-02T15:05:24Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-d8b8f1893268",
-      "original_title": "Crypto's Washington playbook is working. Don't abandon it now.",
-      "published_at": "2026-11-02T15:00:09Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Crypto's Washington playbook is working. Don't abandon it now.",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-23b186df2801",
-      "original_title": "FinancialJuice: US ISM Mfg. Employment Index Actual 52.4 (Forecast 52, Previous 52.7)",
-      "published_at": "2026-11-02T15:00:00Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US ISM Mfg. Employment Index Actual 52.4 (Forecast 52, Previous 52.7)",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832780/US-ISM-Mfg-Employment-Index-Actual-524-Forecast-52-Previous-527.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832780/US-ISM-Mfg-Employment-Index-Actual-524-Forecast-52-Previous-527.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-efe182bc97ba",
-      "original_title": "FinancialJuice: America's Gulf allies prepare for new round of strikes on Iran-and the blowback",
-      "published_at": "2026-11-02T14:54:36Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: America's Gulf allies prepare for new round of strikes on Iran-and the blowback",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832778/Americas-Gulf-allies-prepare-for-new-round-of-strikes-on-Iran-and-the-blowback---WSJ.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832778/Americas-Gulf-allies-prepare-for-new-round-of-strikes-on-Iran-and-the-blowback---WSJ.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-fb75474b6271",
-      "original_title": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag",
-      "published_at": "2026-11-02T14:50:28Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag",
-          "source": "Reuters",
-          "snippet": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-115567a0ef4c",
-      "original_title": "Strategy Adds 811 Bitcoin as Holdings Reach 849,327, Buys Back STRC",
-      "published_at": "2026-11-02T14:43:16Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Strategy Adds 811 Bitcoin as Holdings Reach 849,327, Buys Back STRC",
-          "source": "The Crypto Times",
-          "snippet": "Strategy Adds 811 Bitcoin as Holdings Reach 849,327, Buys Back STRC &nbsp;&nbsp; The Crypto Times",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTURkaFBkeFpZb1dwVVlDeTNmNVdQOG1JMWw5VzBxOGlZUWhyc2h5TmZpLXR0WXRMWkFDMWJVVC00NHlWbDd1MERHa2JUb0hKUUhuSldzRzZJbE9yYXRqdWdieUs2SkV6N2Y3aUVZQ2FMd2JyRmoyaDExX21IQzhVX1JPRTRTQlQ5QlZBZzFTbktGaEE1SkJtZmthajM1TTY3RGdLU2NSNA?oc=5"
-        },
-        {
-          "headline": "Strategy Buys 811 BTC for $65.5M, Holdings Reach 849,327 Bitcoin",
-          "source": "Altcoin Buzz",
-          "snippet": "Strategy Buys 811 BTC for $65.5M, Holdings Reach 849,327 Bitcoin &nbsp;&nbsp; Altcoin Buzz",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GTEZRS0RyTU9weldjNVA0ZE1lRWkwMWd3U2VwZWdWdUhqNU1zU1dERkRWUUlDNEZUWUFTeEpDRnBQRV9KVXd5VjZ0YXNMUUV2Y1RCMVY0MTVsSFBENWxNVzhVdk04TklObDEzRVU1N1ZENFotZzlLWERn?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Crypto Times",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTURkaFBkeFpZb1dwVVlDeTNmNVdQOG1JMWw5VzBxOGlZUWhyc2h5TmZpLXR0WXRMWkFDMWJVVC00NHlWbDd1MERHa2JUb0hKUUhuSldzRzZJbE9yYXRqdWdieUs2SkV6N2Y3aUVZQ2FMd2JyRmoyaDExX21IQzhVX1JPRTRTQlQ5QlZBZzFTbktGaEE1SkJtZmthajM1TTY3RGdLU2NSNA?oc=5"
-        },
-        {
-          "name": "Altcoin Buzz",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GTEZRS0RyTU9weldjNVA0ZE1lRWkwMWd3U2VwZWdWdUhqNU1zU1dERkRWUUlDNEZUWUFTeEpDRnBQRV9KVXd5VjZ0YXNMUUV2Y1RCMVY0MTVsSFBENWxNVzhVdk04TklObDEzRVU1N1ZENFotZzlLWERn?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-4888d9d9dbdb",
-      "original_title": "FinancialJuice: Crédit Agricole: October Jobs Report Seen Rebounding as Labour Market Remains Balanced",
-      "published_at": "2026-11-02T14:38:39Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Crédit Agricole: October Jobs Report Seen Rebounding as Labour Market Remains Balanced",
-          "source": "FinancialJuice",
-          "snippet": "The October jobs report is expected to show some improvement after September’s weaker print, with nonfarm payrolls forecast to rise by 65K versus 29K previously. The unemployment rate is seen holding at 4.2%, while average hourly earnings are expected to increase 0.3% month-on-month, with annual wage growth easing slightly to 2.9%. Overall, that would still point to a labour market in relatively good shape and close to balance. Elsewhere, JOLTS data are expected to show the vacancy-to-unemployment ratio remaining near 1x, while layoffs stay historically low. Both ISM surveys are also expected to remain firmly in expansionary territory. With little sign of material labour-market deterioration, the Fed is likely to remain more focused on inflation than employment.",
-          "url": "https://www.financialjuice.com/News/9832754/Cr%c3%a9dit-Agricole-October-Jobs-Report-Seen-Rebounding-as-Labour-Market-Remains-Balanced---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832754/Cr%c3%a9dit-Agricole-October-Jobs-Report-Seen-Rebounding-as-Labour-Market-Remains-Balanced---FJElite.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-3fe6420650cb",
-      "original_title": "FinancialJuice: BofA: Midterms Seen Having Limited Macro Impact",
-      "published_at": "2026-11-02T14:37:05Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: BofA: Midterms Seen Having Limited Macro Impact",
-          "source": "FinancialJuice",
-          "snippet": "The midterm elections are not expected to materially change the economic outlook through 2028, given limited scope for major legislation. Fiscal deficits are seen remaining around 6% of GDP, with higher defence spending under a Republican sweep the clearest upside risk. The larger downside risk is tighter regulation of data centres, particularly at the state and local level. Attention next week turns to the October jobs report alongside ISM surveys, JOLTS, ADP employment and other labour-market data. Following the Fed’s October hold, the expected tightening path has been pushed out to 25bp hikes in December 2026 and March 2027, leaving the terminal rate forecast unchanged at 4.25%-4.50%. Rates are then expected to remain at that level through end-2027, although there is still a risk the slower pace leaves the Fed behind the curve and requires an additional 25-50bp of tightening.",
-          "url": "https://www.financialjuice.com/News/9832753/BofA-Midterms-Seen-Having-Limited-Macro-Impact---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832753/BofA-Midterms-Seen-Having-Limited-Macro-Impact---FJElite.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-9ad6fd614c8a",
-      "original_title": "FinancialJuice: Stocks of crude oil in the US SPR fell to 282.2 million barrels last week, the lowest level since 1982",
-      "published_at": "2026-11-02T14:25:52Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Stocks of crude oil in the US SPR fell to 282.2 million barrels last week, the lowest level since 1982",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832735/Stocks-of-crude-oil-in-the-US-SPR-fell-to-2822-million-barrels-last-week-the-lowest-level-since-1982.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832735/Stocks-of-crude-oil-in-the-US-SPR-fell-to-2822-million-barrels-last-week-the-lowest-level-since-1982.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-0157eeb23697",
-      "original_title": "FinancialJuice: Iran’s Foreign Minister Araghchi: Tehran's conditions for reopening the Strait of Hormuz are clear; if accepted, the Strait will be opened and negotiations will resume; otherwise, Iran will not bow down.",
-      "published_at": "2026-11-02T14:20:46Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran’s Foreign Minister Araghchi: Tehran's conditions for reopening the Strait of Hormuz are clear; if accepted, the Strait will be opened and negotiations will resume; otherwise, Iran will not bow down.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832734/Irans-Foreign-Minister-Araghchi-Tehrans-conditions-for-reopening-the-Strait-of-Hormuz-are-clear-if-accepted-the-Strait-will-be-opened-and-negotiations-will-resume-otherwise-Iran-will-not-bow-down.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832734/Irans-Foreign-Minister-Araghchi-Tehrans-conditions-for-reopening-the-Strait-of-Hormuz-are-clear-if-accepted-the-Strait-will-be-opened-and-negotiations-will-resume-otherwise-Iran-will-not-bow-down.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-f76bf395f7df",
-      "original_title": "FinancialJuice: Iran FM Araghchi: Ready to Work With US if It Chooses Honest Diplomacy; Deception, Military Operations Will Face Harsher Response Than Before",
-      "published_at": "2026-11-02T14:18:56Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran FM Araghchi: Ready to Work With US if It Chooses Honest Diplomacy; Deception, Military Operations Will Face Harsher Response Than Before",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832732/Iran-FM-Araghchi-Ready-to-Work-With-US-if-It-Chooses-Honest-Diplomacy-Deception-Military-Operations-Will-Face-Harsher-Response-Than-Before.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832732/Iran-FM-Araghchi-Ready-to-Work-With-US-if-It-Chooses-Honest-Diplomacy-Deception-Military-Operations-Will-Face-Harsher-Response-Than-Before.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-e3249dc1d526",
-      "original_title": "FinancialJuice: Iran’s Foreign Minister Araghchi: Consultations through mediators (Qatar and Pakistan) are very intensive. We have presented our terms and plan, and all depends on US's political rationality",
-      "published_at": "2026-11-02T14:18:44Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran’s Foreign Minister Araghchi: Consultations through mediators (Qatar and Pakistan) are very intensive. We have presented our terms and plan, and all depends on US's political rationality",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832731/Irans-Foreign-Minister-Araghchi-Consultations-through-mediators-Qatar-and-Pakistan-are-very-intensive-We-have-presented-our-terms-and-plan-and-all-depends-on-USs-political-rationality.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832731/Irans-Foreign-Minister-Araghchi-Consultations-through-mediators-Qatar-and-Pakistan-are-very-intensive-We-have-presented-our-terms-and-plan-and-all-depends-on-USs-political-rationality.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-65578111394e",
-      "original_title": "FinancialJuice: Iran’s Foreign Minister Araghchi: Reopening of the Strait of Hormuz is subject to accepting Iran's conditions",
-      "published_at": "2026-11-02T14:17:15Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran’s Foreign Minister Araghchi: Reopening of the Strait of Hormuz is subject to accepting Iran's conditions",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832730/Irans-Foreign-Minister-Araghchi-Reopening-of-the-Strait-of-Hormuz-is-subject-to-accepting-Irans-conditions.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832730/Irans-Foreign-Minister-Araghchi-Reopening-of-the-Strait-of-Hormuz-is-subject-to-accepting-Irans-conditions.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-08a902ca8950",
-      "original_title": "FinancialJuice: Iran’s Foreign Minister Araghchi: We are more ready for a military response and diplomatic path than before",
-      "published_at": "2026-11-02T14:17:07Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran’s Foreign Minister Araghchi: We are more ready for a military response and diplomatic path than before",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832729/Irans-Foreign-Minister-Araghchi-We-are-more-ready-for-a-military-response-and-diplomatic-path-than-before---IRNA.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832729/Irans-Foreign-Minister-Araghchi-We-are-more-ready-for-a-military-response-and-diplomatic-path-than-before---IRNA.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-49a2a685c239",
-      "original_title": "FinancialJuice: Iran's top security official Mohsen Rezai and Russia's Putin discuss Middle East developments in a phone call",
-      "published_at": "2026-11-02T14:09:00Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's top security official Mohsen Rezai and Russia's Putin discuss Middle East developments in a phone call",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832714/Irans-top-security-official-Mohsen-Rezai-and-Russias-Putin-discuss-Middle-East-developments-in-a-phone-call---Fars-news-agency.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832714/Irans-top-security-official-Mohsen-Rezai-and-Russias-Putin-discuss-Middle-East-developments-in-a-phone-call---Fars-news-agency.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-6d7ec317aaee",
-      "original_title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
-      "published_at": "2026-11-02T14:00:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-85b618e73984",
-      "original_title": "How Will U.S. Midterm Election Results Impact Bitcoin",
-      "published_at": "2026-11-02T13:55:05Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "How Will U.S. Midterm Election Results Impact Bitcoin",
-          "source": "Coinpedia",
-          "snippet": "How Will U.S. Midterm Election Results Impact Bitcoin &nbsp;&nbsp; Coinpedia",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUdzQW4xN1NvOVFhUlJKV3RLYlpSQ3A3bTZxNU13ZUxmVmtwQXg0UFJjb3BNcEdpR3FUQWtBTFZMV2NqNi1wcFBHVC1jak1JQW14ajN4Z2pUUm8wd1VocWlNSnhXdEtSdUEyUEJMc2p6R1dGMk5VaF9QSGFsS1BGYUpwV0pPMEXSAYwBQVVfeXFMT0pFUzNKcHkzbHFPbS1DTDNpOXdYS3E0OWhtM0tRdVRxWi1yd2FqMUVNakg0LUNwTmFLcjloQnRnSkx0RjBaSmo3N0R6NmlfTVcwaFcxN0RVUnpvTEZXMW1OcFFITG16SzVrbTRyYlB6d1FKVlNsWjdsUFdodzhfRTM1WkxndF9CRGNCUnQ?oc=5"
-        },
-        {
-          "headline": "How Will U.S. Midterm Election Results Impact Bitcoin",
-          "source": "TradingView",
-          "snippet": "How Will U.S. Midterm Election Results Impact Bitcoin &nbsp;&nbsp; TradingView",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0k4NXRQY01XZXhUbUF2M1BzTWs3VkxJWHBJX3o1aVBTa3dIbWEydXZFaVJtekhVSXc0ZjViQjF3SFA5VE9Feks3aUFxU3FDdEtYZW1MVHBadmE0dGs2bDg2TEFXV2lTTVNKR0pnOWh3YjAySXVneXhVUzZmQ3RrdEFaeDdoLTRNSERaU2RKSVRqaVlScWJISHRYSXVHYjB2ejh3bEdmaVdXRWtNaHllVmZB?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Coinpedia",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUdzQW4xN1NvOVFhUlJKV3RLYlpSQ3A3bTZxNU13ZUxmVmtwQXg0UFJjb3BNcEdpR3FUQWtBTFZMV2NqNi1wcFBHVC1jak1JQW14ajN4Z2pUUm8wd1VocWlNSnhXdEtSdUEyUEJMc2p6R1dGMk5VaF9QSGFsS1BGYUpwV0pPMEXSAYwBQVVfeXFMT0pFUzNKcHkzbHFPbS1DTDNpOXdYS3E0OWhtM0tRdVRxWi1yd2FqMUVNakg0LUNwTmFLcjloQnRnSkx0RjBaSmo3N0R6NmlfTVcwaFcxN0RVUnpvTEZXMW1OcFFITG16SzVrbTRyYlB6d1FKVlNsWjdsUFdodzhfRTM1WkxndF9CRGNCUnQ?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0k4NXRQY01XZXhUbUF2M1BzTWs3VkxJWHBJX3o1aVBTa3dIbWEydXZFaVJtekhVSXc0ZjViQjF3SFA5VE9Feks3aUFxU3FDdEtYZW1MVHBadmE0dGs2bDg2TEFXV2lTTVNKR0pnOWh3YjAySXVneXhVUzZmQ3RrdEFaeDdoLTRNSERaU2RKSVRqaVlScWJISHRYSXVHYjB2ejh3bEdmaVdXRWtNaHllVmZB?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-a2b958fbf3c0",
-      "original_title": "FinancialJuice: Iran's President Pezeshkian on war with the US: We will try to resolve the problem with dialogue",
-      "published_at": "2026-11-02T13:46:50Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's President Pezeshkian on war with the US: We will try to resolve the problem with dialogue",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832686/Irans-President-Pezeshkian-on-war-with-the-US-We-will-try-to-resolve-the-problem-with-dialogue---State-Media.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832686/Irans-President-Pezeshkian-on-war-with-the-US-We-will-try-to-resolve-the-problem-with-dialogue---State-Media.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-e53f77074ecd",
-      "original_title": "FinancialJuice: China's Foreign Minister urges safeguarding regional energy and shipping lane security",
-      "published_at": "2026-11-02T13:45:47Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: China's Foreign Minister urges safeguarding regional energy and shipping lane security",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832671/Chinas-Foreign-Minister-urges-safeguarding-regional-energy-and-shipping-lane-security.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832671/Chinas-Foreign-Minister-urges-safeguarding-regional-energy-and-shipping-lane-security.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-f5cd82556464",
-      "original_title": "FinancialJuice: China's Foreign Minister to Saudi National Security Advisor: Hopes all parties resolve disputes and end hostilities through dialogue and negotiation",
-      "published_at": "2026-11-02T13:45:08Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: China's Foreign Minister to Saudi National Security Advisor: Hopes all parties resolve disputes and end hostilities through dialogue and negotiation",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832661/Chinas-Foreign-Minister-to-Saudi-National-Security-Advisor-Hopes-all-parties-resolve-disputes-and-end-hostilities-through-dialogue-and-negotiation---Xinhua.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832661/Chinas-Foreign-Minister-to-Saudi-National-Security-Advisor-Hopes-all-parties-resolve-disputes-and-end-hostilities-through-dialogue-and-negotiation---Xinhua.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-d27d19e0b5e3",
-      "original_title": "FinancialJuice: Iran's President Pezeshkian: We firmly reject the enemy’s false claims and excessive demands",
-      "published_at": "2026-11-02T13:36:48Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's President Pezeshkian: We firmly reject the enemy’s false claims and excessive demands",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832658/Irans-President-Pezeshkian-We-firmly-reject-the-enemys-false-claims-and-excessive-demands---Press-TV.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832658/Irans-President-Pezeshkian-We-firmly-reject-the-enemys-false-claims-and-excessive-demands---Press-TV.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-02-ce7f47101809",
-      "original_title": "FinancialJuice: Iran's President Pezeshkian: The Supreme Leader has granted the government certain authorities regarding negotiations",
-      "published_at": "2026-11-02T13:30:49Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's President Pezeshkian: The Supreme Leader has granted the government certain authorities regarding negotiations",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9832648/Irans-President-Pezeshkian-The-Supreme-Leader-has-granted-the-government-certain-authorities-regarding-negotiations---ISNA.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9832648/Irans-President-Pezeshkian-The-Supreme-Leader-has-granted-the-government-certain-authorities-regarding-negotiations---ISNA.aspx?xy=rss"
         }
       ]
     }
