@@ -1,6 +1,566 @@
 {
-  "updated_at_kst": "2026-11-13T09:19:27+09:00",
+  "updated_at_kst": "2026-11-13T16:55:35+09:00",
   "items": [
+    {
+      "stable_id": "2026-11-13-ccd009e4aea4",
+      "original_title": "FinancialJuice: SNB Interest Rate Probabilities",
+      "published_at": "2026-11-13T07:16:11Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: SNB Interest Rate Probabilities",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9850439/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9850439/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-dc8ab8b2a67e",
+      "original_title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "published_at": "2026-11-13T07:05:29Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-2c21b5eba643",
+      "original_title": "President Trump names 4 SEC, CFTC nominees amid US crypto regulation debate",
+      "published_at": "2026-11-13T07:03:00Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "President Trump names 4 SEC, CFTC nominees amid US crypto regulation debate",
+          "source": "Crypto News",
+          "snippet": "President Trump names 4 SEC, CFTC nominees amid US crypto regulation debate &nbsp;&nbsp; Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00RVFOSXgyV2FzYVk5b3ZOdnF2X1R3V0Z0RWNEc3p4MmJtQzVZWFFCd0hnZnV0VXBheUpjWVZFUEZmM29GUUlvNTYzSnNOYXhpRWNFalVVQzJPQWlzUjJnT3lObjM4aXMzYmlCWnVWTQ?oc=5"
+        },
+        {
+          "headline": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00RVFOSXgyV2FzYVk5b3ZOdnF2X1R3V0Z0RWNEc3p4MmJtQzVZWFFCd0hnZnV0VXBheUpjWVZFUEZmM29GUUlvNTYzSnNOYXhpRWNFalVVQzJPQWlzUjJnT3lObjM4aXMzYmlCWnVWTQ?oc=5"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-26f6ac28d145",
+      "original_title": "Bitcoin slides below $70 000 as inflation concerns hurt crypto",
+      "published_at": "2026-11-13T06:30:09Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin slides below $70 000 as inflation concerns hurt crypto",
+          "source": "Moneyweb",
+          "snippet": "Bitcoin slides below $70 000 as inflation concerns hurt crypto &nbsp;&nbsp; Moneyweb",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcm5CUy0zMG5jMXVIR1lmM0Rxa0h6SUpseG1SanVPd1QwTi05MGF6Q2o5ZGt5ZUVlMnF1bGJVTFZaNGg2VjlBYWtjd21UREpCNy0xNDBhS3Z5LWhBWnVYcmoxNUlYQ2FEek5MeVNTRnZuNGxmM3VjV2hIbzhkaHZWWTMwYTVCZVlxbE1qYzgzTmFGd0NQLXZrM0lJYS1XRURpM0E4dnhFcnZQWlE1Mml4dWxqTQ?oc=5"
+        },
+        {
+          "headline": "Bitcoin Price Slide Below $70,000 As Inflation Concerns Hurt Crypto",
+          "source": "NDTV Profit",
+          "snippet": "Bitcoin Price Slide Below $70,000 As Inflation Concerns Hurt Crypto &nbsp;&nbsp; NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEVmRWZWVWd2d1p0SDFOcURLX0hLTmhqLUtaV04xdmlTRi04bWg4Zm12ZEh3WDQ2MlFXX1JzQzQ4Wmp1bUdZM0oxYm8wNHpfOHJoVGdCZGZWcnFHRnIzM1BVTHNUaGRJVkw3alNhZ1lrQTkzSlRLVU92RWdpZ0lfQ1lDak55TU9FVXNPbFo2TGZvV0l6cl9oV0wyWmNWY1lWQUFOYlFUZGJLcUVVNWlR0gG3AUFVX3lxTE5hSGFPTFd0bTFMLTJ3SVVwbHZlTzNNckl3a0tQMWlxOF9VZ0FwNU5ORUVmckczeTZHVk5kRUZORFVJSFhYRU4xYlllZlIzRm5QaVBLbDI5bUpJQmY2WHRvYVlSNGd1ckpNVU4waUR6Mi0zRmZKS0ljdFZyNUNsRWtMX0N4d3pwblo0eExoYk5VX2I1VnN0SnBVUnM1LXpPeEY3YldobXgwRUFKV2RwWmJTRjVRQU9CYw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Moneyweb",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcm5CUy0zMG5jMXVIR1lmM0Rxa0h6SUpseG1SanVPd1QwTi05MGF6Q2o5ZGt5ZUVlMnF1bGJVTFZaNGg2VjlBYWtjd21UREpCNy0xNDBhS3Z5LWhBWnVYcmoxNUlYQ2FEek5MeVNTRnZuNGxmM3VjV2hIbzhkaHZWWTMwYTVCZVlxbE1qYzgzTmFGd0NQLXZrM0lJYS1XRURpM0E4dnhFcnZQWlE1Mml4dWxqTQ?oc=5"
+        },
+        {
+          "name": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEVmRWZWVWd2d1p0SDFOcURLX0hLTmhqLUtaV04xdmlTRi04bWg4Zm12ZEh3WDQ2MlFXX1JzQzQ4Wmp1bUdZM0oxYm8wNHpfOHJoVGdCZGZWcnFHRnIzM1BVTHNUaGRJVkw3alNhZ1lrQTkzSlRLVU92RWdpZ0lfQ1lDak55TU9FVXNPbFo2TGZvV0l6cl9oV0wyWmNWY1lWQUFOYlFUZGJLcUVVNWlR0gG3AUFVX3lxTE5hSGFPTFd0bTFMLTJ3SVVwbHZlTzNNckl3a0tQMWlxOF9VZ0FwNU5ORUVmckczeTZHVk5kRUZORFVJSFhYRU4xYlllZlIzRm5QaVBLbDI5bUpJQmY2WHRvYVlSNGd1ckpNVU4waUR6Mi0zRmZKS0ljdFZyNUNsRWtMX0N4d3pwblo0eExoYk5VX2I1VnN0SnBVUnM1LXpPeEY3YldobXgwRUFKV2RwWmJTRjVRQU9CYw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-348dc9713125",
+      "original_title": "FinancialJuice: Iran's Revolutionary Guards navy: Tanker carrying liquefied gas struck a naval mine, causing an explosion in Strait of Hormuz",
+      "published_at": "2026-11-13T06:28:15Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's Revolutionary Guards navy: Tanker carrying liquefied gas struck a naval mine, causing an explosion in Strait of Hormuz",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9850381/Irans-Revolutionary-Guards-navy-Tanker-carrying-liquefied-gas-struck-a-naval-mine-causing-an-explosion-in-Strait-of-Hormuz.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9850381/Irans-Revolutionary-Guards-navy-Tanker-carrying-liquefied-gas-struck-a-naval-mine-causing-an-explosion-in-Strait-of-Hormuz.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-37cf00f85eaf",
+      "original_title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "published_at": "2026-11-13T06:03:41Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-3326fa097249",
+      "original_title": "SpaceX and Tesla merger talks put Bitcoin holdings in focus",
+      "published_at": "2026-11-13T06:00:00Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "SpaceX and Tesla merger talks put Bitcoin holdings in focus",
+          "source": "grafa.com",
+          "snippet": "SpaceX and Tesla merger talks put Bitcoin holdings in focus &nbsp;&nbsp; grafa.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFNVaG82V2VEVHR3NlBpZE9yZVZ3aWsxa0VMTFZzT0FySEFDV3JzTm41bEdTUFhDV3FBbVR1WHdGb3psMDl1cGhOVUdWNHV2dmpBTm9uTTN6NWw4cHp6c1Vmd2RVMnZTSTM3VHUxMWhkd1FYSDRLek9pMDFSalU0UGRha3BoS3RCSERNdEl5MlV0MUU?oc=5"
+        },
+        {
+          "headline": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+          "source": "Cryptonews.net",
+          "snippet": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmdkp3a2M3SnAzeEdkZnVxUERSQjRER2VOM0FLVk9ueUpwRWQ0cFBpZGJYWnJIMEVHYWstamJzR1F1NXZrRHFqZHBwS2JQNWhremE5MldmRDg?oc=5"
+        },
+        {
+          "headline": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus"
+        }
+      ],
+      "sources": [
+        {
+          "name": "grafa.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFNVaG82V2VEVHR3NlBpZE9yZVZ3aWsxa0VMTFZzT0FySEFDV3JzTm41bEdTUFhDV3FBbVR1WHdGb3psMDl1cGhOVUdWNHV2dmpBTm9uTTN6NWw4cHp6c1Vmd2RVMnZTSTM3VHUxMWhkd1FYSDRLek9pMDFSalU0UGRha3BoS3RCSERNdEl5MlV0MUU?oc=5"
+        },
+        {
+          "name": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmdkp3a2M3SnAzeEdkZnVxUERSQjRER2VOM0FLVk9ueUpwRWQ0cFBpZGJYWnJIMEVHYWstamJzR1F1NXZrRHFqZHBwS2JQNWhremE5MldmRDg?oc=5"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-ef86215bc80c",
+      "original_title": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
+      "published_at": "2026-11-13T05:46:13Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
+          "source": "The Express Tribune",
+          "snippet": "Oil prices set for second weekly decline as Trump to stay with Iran blockade &nbsp;&nbsp; The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUpFVzFqeU5lQlVrd0tzUzZSRkwxTHN5VHl3UzRnSzg4TzdWY2RDNDJoV2RodXVCY3RTVVNOREI2N3dnaTFJbURKUHlldkxjRmVBcmpZeTItcVNOcTI1eDJ6cjRtQ1hQb0RWSjVUS29VM0ljNlRyWG1HckhZTGlqWW55QXIzUDYzZXJyQ3RtT3BnaU5qM0duVEhSVWlLeVUzNVhidGh2NUJiLWtSalVHZ2J6MNIBuwFBVV95cUxQaWJlcHNGaDVnZ3NGd1Nrd2VqZXhqY2JjM09iQXdYWmF6RlBablVuVVltWE5SX1dQVHRlNjZZc0hQVGdrb2dHV2JOdjFVT2IxNHdKWXo5TGtpQlExYURydHlQeGVoQmpMX1Q2cklrZXVTam1PNUxjUld0ZnB3c3ltZEZXbVpoRU9mRUowdVE1b0ZuZGRPZF9zT1EweDkwQ3djMFltWEtFOHVXUWdYVHNrU2dhTWg5ZV9MQWww?oc=5"
+        },
+        {
+          "headline": "Oil prices set for second weekly decline as Trump sticks with Iran blockade",
+          "source": "Reuters",
+          "snippet": "Oil prices set for second weekly decline as Trump sticks with Iran blockade &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5"
+        },
+        {
+          "headline": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
+          "source": "The Business Times",
+          "snippet": "Oil prices set for second weekly decline as Trump to stay with Iran blockade &nbsp;&nbsp; The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZU03U0NsZDNRZ0pNNmFwZG51aWVnNVhDZGFxYmxjT1d4bGxoYXhQZkcyWE81ZUc4ZkFKTF91M0JHMWlqTlphcWp3TjBYeGFrVjZmM21YVHZ6d09SOEVBUU81VldmRDNZUFVJT1REX0ZWZlVDbk51eENSMnM3Wm9zd0FzYm5NaURlZnBQTnlnSXZKRTdwbUZEQVZubDJHTzY3M2toTkpTa1Rad0hQb2dRUThWSldINFN6akl0b19pcUcyb2JJOUI2Nk1Bbw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUpFVzFqeU5lQlVrd0tzUzZSRkwxTHN5VHl3UzRnSzg4TzdWY2RDNDJoV2RodXVCY3RTVVNOREI2N3dnaTFJbURKUHlldkxjRmVBcmpZeTItcVNOcTI1eDJ6cjRtQ1hQb0RWSjVUS29VM0ljNlRyWG1HckhZTGlqWW55QXIzUDYzZXJyQ3RtT3BnaU5qM0duVEhSVWlLeVUzNVhidGh2NUJiLWtSalVHZ2J6MNIBuwFBVV95cUxQaWJlcHNGaDVnZ3NGd1Nrd2VqZXhqY2JjM09iQXdYWmF6RlBablVuVVltWE5SX1dQVHRlNjZZc0hQVGdrb2dHV2JOdjFVT2IxNHdKWXo5TGtpQlExYURydHlQeGVoQmpMX1Q2cklrZXVTam1PNUxjUld0ZnB3c3ltZEZXbVpoRU9mRUowdVE1b0ZuZGRPZF9zT1EweDkwQ3djMFltWEtFOHVXUWdYVHNrU2dhTWg5ZV9MQWww?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZU03U0NsZDNRZ0pNNmFwZG51aWVnNVhDZGFxYmxjT1d4bGxoYXhQZkcyWE81ZUc4ZkFKTF91M0JHMWlqTlphcWp3TjBYeGFrVjZmM21YVHZ6d09SOEVBUU81VldmRDNZUFVJT1REX0ZWZlVDbk51eENSMnM3Wm9zd0FzYm5NaURlZnBQTnlnSXZKRTdwbUZEQVZubDJHTzY3M2toTkpTa1Rad0hQb2dRUThWSldINFN6akl0b19pcUcyb2JJOUI2Nk1Bbw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-561fd1b935ad",
+      "original_title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "published_at": "2026-11-13T05:45:26Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-63216b0af9dd",
+      "original_title": "Iran says four tankers on fire in Hormuz",
+      "published_at": "2026-11-13T04:18:50Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran says four tankers on fire in Hormuz",
+          "source": "アラブニュース",
+          "snippet": "Iran says four tankers on fire in Hormuz &nbsp;&nbsp; アラブニュース",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFNlUW1JR2xrVVdSdzR5em9uMTlRMy1TX2ExRmh6cTB1N1NhZmpWNWhzVnliellVY08tNF9fZy1OS2ZOV0UxbS01TFVwQ0ZZSEw5eTFjNEhVRkdEcVVPaTZNN0VNTnFua0NOYzZaamFBZ2lCeHNDRnZtajU0amVXVjRfYW5HLWJxa3c3aW9CVWY?oc=5"
+        },
+        {
+          "headline": "Four tankers struck by explosions in Strait of Hormuz, Iran says",
+          "source": "Reuters",
+          "snippet": "Four tankers struck by explosions in Strait of Hormuz, Iran says &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDQ2cWxyeTFpazFaX1ZNM2RoS0t2ZVpEa0JpMElTZVFMUElROEF5c20tMlU0dEszWFlEdkhfR2VOb3hEQmo3MjRtdVlSaEhkZnpKXzExbE5QcXItQ3Z6REoyY1Fpak9IUUplYWp6NTQ2UjBiNVk1WDN0MmJjaFRkOHNLdDYxMU9xOWhuMnVaTlNiVXJNTlhLYV9EZEpnd1oxYmF0cG82b2VkMURkYnkzZkZBX0hhWHM?oc=5"
+        },
+        {
+          "headline": "Four tankers struck by explosions in Strait of Hormuz, Iran says",
+          "source": "Internazionale",
+          "snippet": "Four tankers struck by explosions in Strait of Hormuz, Iran says &nbsp;&nbsp; Internazionale",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXV3dF94S3F3b2FqZHhnN0I4T1EtanFhU3IyTjdoWTZVcjlqZ0k4aFd4WW01X2pqU1hrZDltUmM1RFRya19XSFdSYmFQeFdQRV9KR2c2QlRwc1VZWVVEU3VKZGtXNGRRNUVhYmpaVHhjVWJ5OVNnWmx5dXRiLUhtbmJDdDIwcnRYRWs0TTgxUUd5cUk2NUJDVnVYWmtCeFVnNHhGaDFURWRkRVRuTk55X1NKQnMwYVUyRG9CSzV0SHZfSG05NlE?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "アラブニュース",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFNlUW1JR2xrVVdSdzR5em9uMTlRMy1TX2ExRmh6cTB1N1NhZmpWNWhzVnliellVY08tNF9fZy1OS2ZOV0UxbS01TFVwQ0ZZSEw5eTFjNEhVRkdEcVVPaTZNN0VNTnFua0NOYzZaamFBZ2lCeHNDRnZtajU0amVXVjRfYW5HLWJxa3c3aW9CVWY?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDQ2cWxyeTFpazFaX1ZNM2RoS0t2ZVpEa0JpMElTZVFMUElROEF5c20tMlU0dEszWFlEdkhfR2VOb3hEQmo3MjRtdVlSaEhkZnpKXzExbE5QcXItQ3Z6REoyY1Fpak9IUUplYWp6NTQ2UjBiNVk1WDN0MmJjaFRkOHNLdDYxMU9xOWhuMnVaTlNiVXJNTlhLYV9EZEpnd1oxYmF0cG82b2VkMURkYnkzZkZBX0hhWHM?oc=5"
+        },
+        {
+          "name": "Internazionale",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXV3dF94S3F3b2FqZHhnN0I4T1EtanFhU3IyTjdoWTZVcjlqZ0k4aFd4WW01X2pqU1hrZDltUmM1RFRya19XSFdSYmFQeFdQRV9KR2c2QlRwc1VZWVVEU3VKZGtXNGRRNUVhYmpaVHhjVWJ5OVNnWmx5dXRiLUhtbmJDdDIwcnRYRWs0TTgxUUd5cUk2NUJDVnVYWmtCeFVnNHhGaDFURWRkRVRuTk55X1NKQnMwYVUyRG9CSzV0SHZfSG05NlE?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-c118810d37e5",
+      "original_title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "published_at": "2026-11-13T03:37:00Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-4d37133f038a",
+      "original_title": "FinancialJuice: South Korea government: Google to remove street view in and around all military and security sites",
+      "published_at": "2026-11-13T03:10:03Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: South Korea government: Google to remove street view in and around all military and security sites",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9850183/South-Korea-government-Google-to-remove-street-view-in-and-around-all-military-and-security-sites.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9850183/South-Korea-government-Google-to-remove-street-view-in-and-around-all-military-and-security-sites.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-636fd020ce81",
+      "original_title": "이란 국영 통신사 IRNA는 호르무즈 해협에 위치한 호르모즈간 주 시릭 지역이 ”적“의 ”군사적 성격“을 가진 공격을 받아 피해를 입었다고 보도했습니다. 시릭에는 이란 혁명 수비대(IRGC)의 샤히드 라바리 해군 기지가 있습니다. 아직까지 공격에 대한 책임 주장은 없습니다.",
+      "published_at": "2026-11-13T02:37:32Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "이란 국영 통신사 IRNA는 호르무즈 해협에 위치한 호르모즈간 주 시릭 지역이 ”적“의 ”군사적 성격“을 가진 공격을 받아 피해를 입었다고 보도했습니다. 시릭에는 이란 혁명 수비대(IRGC)의 샤히드 라바리 해군 기지가 있습니다. 아직까지 공격에 대한 책임 주장은 없습니다.",
+          "source": "Telegram @goddessTTF",
+          "snippet": "이란 국영 통신사 IRNA는 호르무즈 해협에 위치한 호르모즈간 주 시릭 지역이 ”적“의 ”군사적 성격“을 가진 공격을 받아 피해를 입었다고 보도했습니다. 시릭에는 이란 혁명 수비대(IRGC)의 샤히드 라바리 해군 기지가 있습니다. 아직까지 공격에 대한 책임 주장은 없습니다.",
+          "url": "https://t.me/goddessTTF/87016"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/87016"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-1ef35f4cc6fa",
+      "original_title": "FinancialJuice: Iran's IRGC: targeted US early-warning radar in Bahrain after telecom tower attack in Iran's Sii",
+      "published_at": "2026-11-13T02:12:29Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's IRGC: targeted US early-warning radar in Bahrain after telecom tower attack in Iran's Sii",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9850129/Irans-IRGC-targeted-US-early-warning-radar-in-Bahrain-after-telecom-tower-attack-in-Irans-Sii.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9850129/Irans-IRGC-targeted-US-early-warning-radar-in-Bahrain-after-telecom-tower-attack-in-Irans-Sii.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-351f10d65e30",
+      "original_title": "Dollar set for best week in two months on rate hike wagers, yen tests 160",
+      "published_at": "2026-11-13T01:58:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Dollar set for best week in two months on rate hike wagers, yen tests 160",
+          "source": "Reuters",
+          "snippet": "Dollar set for best week in two months on rate hike wagers, yen tests 160 &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-33492374826c",
+      "original_title": "Fed's Williams says central bank has 'work to do' to get inflation back on target",
+      "published_at": "2026-11-13T01:35:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Fed's Williams says central bank has 'work to do' to get inflation back on target",
+          "source": "Reuters",
+          "snippet": "Fed's Williams says central bank has 'work to do' to get inflation back on target &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRuWWM4eDJNZlg0NWlDTF9Xc1E2c3lBb0NzY3YwSGg4bnlqMnd6X2RnbmhkTk9lUnY0UC1iQVdBdzR2TUUyZVZ6UXRtcExlejMyQzZlTDV3c0V0a0ExRWlsaENJVzZ5LVVvb1FyZENmTG9VVWl5V1BQR2diUF9JdzhLU3g4RDc0OG9ld05FMFhWTnFKUWZaeW9zUUZOektDSC1GejczRzFOWkRUcDJJMDJabjA?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRuWWM4eDJNZlg0NWlDTF9Xc1E2c3lBb0NzY3YwSGg4bnlqMnd6X2RnbmhkTk9lUnY0UC1iQVdBdzR2TUUyZVZ6UXRtcExlejMyQzZlTDV3c0V0a0ExRWlsaENJVzZ5LVVvb1FyZENmTG9VVWl5V1BQR2diUF9JdzhLU3g4RDc0OG9ld05FMFhWTnFKUWZaeW9zUUZOektDSC1GejczRzFOWkRUcDJJMDJabjA?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-f2e16b35d9cd",
+      "original_title": "트럼프, 스티븐 A. 스미스 단독 인터뷰… \"중동 동맹 요청에 이란전 천천히 끝내는 중, 마음먹으면 3일\" \"관세 없으면 미국은 죽은 나라\" \"팀 쿡이 엔비디아 이끌 적임자\" [공부의여신 네트워크] 트럼프 대통령이 12일(현지시간) 백악관 루스벨트룸에서 스포츠 방송인 스티븐 A. 스미스와 약 48분간 단독 인터뷰를 했습니다. 중간선거 패배 뒤 진행된 이번 인터뷰에서 트럼프 대통령은 이란 전쟁",
+      "published_at": "2026-11-13T01:23:05Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프, 스티븐 A. 스미스 단독 인터뷰… \"중동 동맹 요청에 이란전 천천히 끝내는 중, 마음먹으면 3일\" \"관세 없으면 미국은 죽은 나라\" \"팀 쿡이 엔비디아 이끌 적임자\" [공부의여신 네트워크] 트럼프 대통령이 12일(현지시간) 백악관 루스벨트룸에서 스포츠 방송인 스티븐 A. 스미스와 약 48분간 단독 인터뷰를 했습니다. 중간선거 패배 뒤 진행된 이번 인터뷰에서 트럼프 대통령은 이란 전쟁",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프, 스티븐 A. 스미스 단독 인터뷰… \"중동 동맹 요청에 이란전 천천히 끝내는 중, 마음먹으면 3일\" \"관세 없으면 미국은 죽은 나라\" \"팀 쿡이 엔비디아 이끌 적임자\" [공부의여신 네트워크] 트럼프 대통령이 12일(현지시간) 백악관 루스벨트룸에서 스포츠 방송인 스티븐 A. 스미스와 약 48분간 단독 인터뷰를 했습니다. 중간선거 패배 뒤 진행된 이번 인터뷰에서 트럼프 대통령은 이란 전쟁, 관세와 경제, 엔비디아 경영진 교체, 흑인 유권자, 스티븐 밀러 비서실장과 이민 정책, 남은 2년의 국정 운영 방향까지 폭넓게 답했습니다. 스미스는 이날 \"몇 주 전 백악관 만찬에서 인터뷰를 요청했고, 대통령이 약속을 지켰다\"고 소개했습니다. ■ 증시·경제: \"선거 다음 날 증시 3조 달러 증발\", \"22조 달러 투자 유입\" 트럼프 대통령은 \"우리는 사상 최고의 주식시장을 갖고 있다\"면서도 \"선거 다음 날 주식시장 가치가 3조 달러 줄었다. 사람들이 민주당에 반해 있다는 걸 보여준다\"고 말했습니다. 이어 \"미국에 22조 2천억 달러가 투자되고 있다. 역사상 가장 큰 숫자이고, 조금이 아니라 몇 배나 크다\"며 \"선거 다음 날 입은 타격을 빼면, 2년도 안 되는 짧은 기간에 주식시장과 자산 가치를 합쳐 25조 달러가 넘는 가치를 만들었다\"고 주장했습니다. 지난주 고용 지표에 대해서는 \"2만 개를 예상했는데 그 달에 16만 5천 개가 나왔다. 아무도 이런 숫자를 본 적이 없다. 관세 덕분\"이라고 했고, \"수출도 사상 최고의 달이었다. 그게 제조업\"이라고 강조했습니다. ■ 관세: \"관세를 멈추면 공장 건설도 모두 멈춘다\", 의약품 300% 관세 재확인 트럼프 대통령은 공화당 참패 원인으로 관세가 꼽힌다는 질문에 \"관세가 없었다면 거의 죽은 나라가 됐을 것\"이라며 \"지금 미국 전역에 수천 개의 공장이 지어지고 있고, 그건 오직 관세를 피하기 위해서다. 내가 지금 관세를 멈추겠다고 하면 그 공장들은 모두 건설을 멈출 것\"이라고 반박했습니다. 그는 \"관세라는 단어는 홍보가 필요하다. 우리에게 일어난 최고의 일\"이라고도 했습니다. 제약업계에 대해서는 화이자, 머크, 일라이 릴리를 거론하며 \"공장을 지을 시간을 2년 주겠다. 첫해는 관세 없음, 둘째 해는 10%, 셋째 해는 300%\"라고 했다고 소개했고, \"우리는 의약품, 철강, 알루미늄을 모두 직접 만들 것\"이라고 말했습니다. 자동차 산업에 대해서는 \"대형 자동차 회사들이 들어온다고 발표했다. 멕시코와 캐나다를 떠나고 있다\"며 멕시코, 캐나다, 한국, 독일, 일본을 거론하고 디트로이트를 포함한 미국 전역에서 공장 증설이 이뤄지고 있다고 말했습니다. US스틸에 대해서는 \"합병을 성사시켜 US스틸을 살렸다. 지금은 번창하고 있다\"고 했습니다. ■ 약값: \"세계 최고에서 세계 최저로\" 트럼프 대통령은 \"프랑스, 독일 등 각국에 '약값을 두세 배 올려라. 우리 약값은 원래보다 10배 비싸다'고 했고, 바꿀 때까지 막대한 관세를 물리겠다고 하자 모두 바꿨다\"며 \"세계에서 가장 비싼 약값에서 이제 세계에서 가장 싼 약값을 내게 됐다\"고 주장했습니다. 이어 \"민주당이 결국 '거래하자'고 할 것이고, 건강보험과 약값에서 거래할 수 있을 것\"이라고 했습니다. ■ AI·엔비디아: \"젠슨 황은 지옥을 겪는 중\", \"팀 쿡이 엔비디아 이끌 훌륭한 후보\" 젠슨 황 엔비디아 CEO 사임에 대해 트럼프 대통령은 \"그는 엄청난 인재다. 중국은 많이 베끼지만 이 칩은 너무 복잡하고 뛰어나서 베낄 수 없다\"고 평가했습니다. 사임이 맞았느냐는 질문에는 \"핵심은 그 여성이 스파이였느냐다. 아직 결론이 났는지 모르겠지만, 스파이였다면 그렇다. 아니라면 다를 수도 있다\"고 답",
+          "url": "https://t.me/goddessTTF/87003"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/87003"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-60e808644757",
+      "original_title": "FinancialJuice: Fed's Williams: evidence indicates a k-shaped economy",
+      "published_at": "2026-11-13T00:43:19Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Fed's Williams: evidence indicates a k-shaped economy",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9849972/Feds-Williams-evidence-indicates-a-k-shaped-economy.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9849972/Feds-Williams-evidence-indicates-a-k-shaped-economy.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-1717aa36422b",
+      "original_title": "FinancialJuice: Fed's Williams: All investment levels can react to shifts in interest rates",
+      "published_at": "2026-11-13T00:41:11Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Fed's Williams: All investment levels can react to shifts in interest rates",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9849971/Feds-Williams-All-investment-levels-can-react-to-shifts-in-interest-rates.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9849971/Feds-Williams-All-investment-levels-can-react-to-shifts-in-interest-rates.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-6650b17e1f0e",
+      "original_title": "FinancialJuice: Japan finance minister katayama: declines to comment on intervention record",
+      "published_at": "2026-11-13T00:40:27Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finance minister katayama: declines to comment on intervention record",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9849970/Japan-finance-minister-katayama-declines-to-comment-on-intervention-record.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9849970/Japan-finance-minister-katayama-declines-to-comment-on-intervention-record.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-b6599306a32e",
+      "original_title": "FinancialJuice: Japan finmin katayama: will engage with US treasury, respond suitably",
+      "published_at": "2026-11-13T00:37:08Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan finmin katayama: will engage with US treasury, respond suitably",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9849968/Japan-finmin-katayama-will-engage-with-US-treasury-respond-suitably.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9849968/Japan-finmin-katayama-will-engage-with-US-treasury-respond-suitably.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-7fa0a8c43ba9",
+      "original_title": "FinancialJuice: Fed's Williams: US has economic tools to manage debt levels, political will needed for solution",
+      "published_at": "2026-11-13T00:35:50Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Fed's Williams: US has economic tools to manage debt levels, political will needed for solution",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9849966/Feds-Williams-US-has-economic-tools-to-manage-debt-levels-political-will-needed-for-solution.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9849966/Feds-Williams-US-has-economic-tools-to-manage-debt-levels-political-will-needed-for-solution.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-3c7c32b5f53b",
+      "original_title": "FinancialJuice: China PBOC seen setting yuan midpoint at 6.6756 per dollar: estimate",
+      "published_at": "2026-11-13T00:24:09Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: China PBOC seen setting yuan midpoint at 6.6756 per dollar: estimate",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9849954/China-PBOC-seen-setting-yuan-midpoint-at-66756-per-dollar-estimate.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9849954/China-PBOC-seen-setting-yuan-midpoint-at-66756-per-dollar-estimate.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-13-f606f820eb73",
+      "original_title": "FinancialJuice: Japan industry minister Akazawa: Nvidia crucial for Japan's AI chip sector, will keep monitoring situation",
+      "published_at": "2026-11-13T00:22:40Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Japan industry minister Akazawa: Nvidia crucial for Japan's AI chip sector, will keep monitoring situation",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9849953/Japan-industry-minister-Akazawa-Nvidia-crucial-for-Japans-AI-chip-sector-will-keep-monitoring-situation.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9849953/Japan-industry-minister-Akazawa-Nvidia-crucial-for-Japans-AI-chip-sector-will-keep-monitoring-situation.aspx?xy=rss"
+        }
+      ]
+    },
     {
       "stable_id": "2026-11-13-8d97e5e09ce0",
       "original_title": "FinancialJuice: Fed's Williams: attempting to reduce overall price levels may cause poor economic conditions",
@@ -158,6 +718,46 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9849908/Feds-Williams-economy-resilient-and-growth-robust.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-12-f102aaa420bd",
+      "original_title": "Binance finishes covering US$6.3 billion of stolen customer tokens",
+      "published_at": "2026-11-12T23:35:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Binance finishes covering US$6.3 billion of stolen customer tokens",
+          "source": "The Straits Times",
+          "snippet": "Binance finishes covering US$6.3 billion of stolen customer tokens &nbsp;&nbsp; The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2FqWVVTa25MUF9XeTRGQmdtMS1SWWl6Tk9RQ3dOd3NJTC11M3lyTDFDRmxqMTVmZkxiUUMyNmtIcU9DNEtYblA1emloc1hVT3FjUHZiOFhJZllPYVBJVUNYSk0yczFGTmxGN0x1WXphWHZfTEd5R3FrN2M3US0yZnFYRFg2THV2aE1uRVNxRXBMV2JPcHVqV2ZpdXo1Z0RiWGdwSjFObnBNWVdZLWZiMEhUbVA?oc=5"
+        },
+        {
+          "headline": "Binance Finishes Covering $6.3 Billion of Stolen Customer Tokens",
+          "source": "Bloomberg.com",
+          "snippet": "Binance Finishes Covering $6.3 Billion of Stolen Customer Tokens &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFBCNGpaYzhWRUQwOTlZVU9qYUhlZHM3amVGY2dCZkVfUW96Zk1takQxUExUUHpMU1FmRDFzdmlMS2xZUFdidHh2UTRzenRxUkRROGpxT3IxLUJJeGdvZDBHOEJ1U0NUNjQ5MDRzN0xFeTlZZmRBSVRsWU4tN2UzZjJ2bjNDWW1QWFVOVEVKTU0tSGY1ZDZkMVhtSVpuc21haHNWemJDVW1Pb3VOZldheDA3bWE?oc=5"
+        },
+        {
+          "headline": "Binance Finishes Covering $6.3 Billion of Stolen Customer Tokens",
+          "source": "Bloomberg Law News",
+          "snippet": "Binance Finishes Covering $6.3 Billion of Stolen Customer Tokens &nbsp;&nbsp; Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLVp0WXVNLXV2ZWRjaFRNQUNJeDJhS3ZGQy00SnRjUG5RWHpJWm4yNDBlekZvcllFYThQRk5nQnB1bU5IeEFKTFV5dlVHNUxRUUFJOG9YdXY2eUlmaHpPVi11R0tCVGE3UzlqQ25CbFNzbmNpaWpMZkdYNDF2VjFIMV92Mnp5SGdWM21IbEhvME8zUE5RQW1KQlF3UzluR21PdGc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2FqWVVTa25MUF9XeTRGQmdtMS1SWWl6Tk9RQ3dOd3NJTC11M3lyTDFDRmxqMTVmZkxiUUMyNmtIcU9DNEtYblA1emloc1hVT3FjUHZiOFhJZllPYVBJVUNYSk0yczFGTmxGN0x1WXphWHZfTEd5R3FrN2M3US0yZnFYRFg2THV2aE1uRVNxRXBMV2JPcHVqV2ZpdXo1Z0RiWGdwSjFObnBNWVdZLWZiMEhUbVA?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFBCNGpaYzhWRUQwOTlZVU9qYUhlZHM3amVGY2dCZkVfUW96Zk1takQxUExUUHpMU1FmRDFzdmlMS2xZUFdidHh2UTRzenRxUkRROGpxT3IxLUJJeGdvZDBHOEJ1U0NUNjQ5MDRzN0xFeTlZZmRBSVRsWU4tN2UzZjJ2bjNDWW1QWFVOVEVKTU0tSGY1ZDZkMVhtSVpuc21haHNWemJDVW1Pb3VOZldheDA3bWE?oc=5"
+        },
+        {
+          "name": "Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLVp0WXVNLXV2ZWRjaFRNQUNJeDJhS3ZGQy00SnRjUG5RWHpJWm4yNDBlekZvcllFYThQRk5nQnB1bU5IeEFKTFV5dlVHNUxRUUFJOG9YdXY2eUlmaHpPVi11R0tCVGE3UzlqQ25CbFNzbmNpaWpMZkdYNDF2VjFIMV92Mnp5SGdWM21IbEhvME8zUE5RQW1KQlF3UzluR21PdGc?oc=5"
         }
       ]
     },
@@ -709,9 +1309,9 @@
       "evidence": [
         {
           "headline": "Trump: 'We don’t need a deal with Iran’",
-          "source": "spectrumlocalnews.com",
-          "snippet": "Trump: 'We don’t need a deal with Iran’ &nbsp;&nbsp; spectrumlocalnews.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR2FTbEplSHVqOFhNOFo3NDJvVW9JWXZVR1E3bThwdzVQQXVRdWl2ZXJ3WVQzNF9ELU1wdnliVlhhQllzeEJmbjBtUHpodHZQYmZZcGwybkFjZmNBVG41OEY3aFd0LUlqb1E1NHFBT2pRWFh0NzJ2akhpU0p3cjJzZ0dXNmt1OFZmbXdfSjFlY3ZZQQ?oc=5"
+          "source": "Spectrum News",
+          "snippet": "Trump: 'We don’t need a deal with Iran’ &nbsp;&nbsp; Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEpDZmFDUG9CWG50SjlNTzFPWkRxc0NFZ1c0ZUlPazhIMHFHZnd1Sm5YcG45eWJHZVAwbnJQbFhncnlfTkNxTldEU2pJNVRHdzlEVW9IUkpwWXlrNnhOS25Fa0NmS3JCbGFmNVdTeFVYQUg0YlBCWGR1WWJoMHBOY2tTY2VFWnlNbmQwQ0tYNA?oc=5"
         },
         {
           "headline": "Trump: We don't need a deal with Iran",
@@ -722,8 +1322,8 @@
       ],
       "sources": [
         {
-          "name": "spectrumlocalnews.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR2FTbEplSHVqOFhNOFo3NDJvVW9JWXZVR1E3bThwdzVQQXVRdWl2ZXJ3WVQzNF9ELU1wdnliVlhhQllzeEJmbjBtUHpodHZQYmZZcGwybkFjZmNBVG41OEY3aFd0LUlqb1E1NHFBT2pRWFh0NzJ2akhpU0p3cjJzZ0dXNmt1OFZmbXdfSjFlY3ZZQQ?oc=5"
+          "name": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEpDZmFDUG9CWG50SjlNTzFPWkRxc0NFZ1c0ZUlPazhIMHFHZnd1Sm5YcG45eWJHZVAwbnJQbFhncnlfTkNxTldEU2pJNVRHdzlEVW9IUkpwWXlrNnhOS25Fa0NmS3JCbGFmNVdTeFVYQUg0YlBCWGR1WWJoMHBOY2tTY2VFWnlNbmQwQ0tYNA?oc=5"
         },
         {
           "name": "www.israelhayom.com",
@@ -1118,12 +1718,6 @@
           "source": "Бабель",
           "snippet": "Bloomberg: India imports more oil from the Persian Gulf than from Russia for the first time since the Iran war &nbsp;&nbsp; Бабель",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTXFuNWk0NktrWWI5UVgwZFRYQnZkMFdJYm5rakVkeFRHVGdlamVqNWUycm5YNFFJeGRjQnczYXBmQk9EMnUwYTR6OHdCbVdyUEk5VjBzTktrVU9FM0dydlFaZ0xIZ0RhQVJVakV4TnJwd3Q5QzRyMU52V283QmFNU0RJUGllaV9zZkFnVWRIaXZBNExzY2tiOWctYkVLRW14VFF0cG0wYkI0LWNSb2hOcVl4MzJtRlVRNm12MVFkS2RlYkEtUDB4bFdfQ1A0ZHZXTEFXRzNWN0hZN2RNVFHSAd4BQVVfeXFMTk1xbjVpNDZLa1liOVFYMGRUWEJ2ZDBXSWJua2pFZHhUR1RnZWplajVlMnJuWDRRSXhkY0J3M2FwZkJPRDJ1MGE0ejh3Qm1XclBJOVYwc05La1VPRTNHcnZRWmdMSGdEYUFSVWpFeE5ycHd0OUM0cjFOdldvN0JhTVNESVBpZWlfc2ZBZ1VkSGl2QTRMc2NrYjlnLWJFS0VteFRRdHBtMGJCNC1jUm9oTnFZeDMybUZVUTZtdjFRZEtkZWJBLVAweGxXX0NQNGR2V0xBV0czVjdIWTdkTVRR?oc=5"
-        },
-        {
-          "headline": "India's Gulf oil imports surpass Russia for first time since Iran war",
-          "source": "Business Standard",
-          "snippet": "India's Gulf oil imports surpass Russia for first time since Iran war &nbsp;&nbsp; Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVEtxNkpDek9vV0x2WFVDX0tZNlFnVFFFbks4RTllaU5CdmYxSDBoYUZTdkdNX084dHBvM2t3MERPd0lqWWo5TFM1RjNyNkxrbU02d3RIbjFUdk9vZDV0MTh1ZFZidWdaQzFOeDB4dW0yZ2d4TVRkdGtSWnF0Q0p6MW95UFBrZjNyV1VneFB3U0hvb2JhaTljWGpZYnpPUmI4TjVUbDdaaG1JMzZxZDJOeVZ1WVd2aUVFUDRpY2xDRGQzRXAxTEtjTUpXc3dTR0hyUHQ4bVp5b9IB1wFBVV95cUxQVEtxNkpDek9vV0x2WFVDX0tZNlFnVFFFbks4RTllaU5CdmYxSDBoYUZTdkdNX084dHBvM2t3MERPd0lqWWo5TFM1RjNyNkxrbU02d3RIbjFUdk9vZDV0MTh1ZFZidWdaQzFOeDB4dW0yZ2d4TVRkdGtSWnF0Q0p6MW95UFBrZjNyV1VneFB3U0hvb2JhaTljWGpZYnpPUmI4TjVUbDdaaG1JMzZxZDJOeVZ1WVd2aUVFUDRpY2xDRGQzRXAxTEtjTUpXc3dTR0hyUHQ4bVp5bw?oc=5"
         }
       ],
       "sources": [
@@ -1134,10 +1728,6 @@
         {
           "name": "Бабель",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTXFuNWk0NktrWWI5UVgwZFRYQnZkMFdJYm5rakVkeFRHVGdlamVqNWUycm5YNFFJeGRjQnczYXBmQk9EMnUwYTR6OHdCbVdyUEk5VjBzTktrVU9FM0dydlFaZ0xIZ0RhQVJVakV4TnJwd3Q5QzRyMU52V283QmFNU0RJUGllaV9zZkFnVWRIaXZBNExzY2tiOWctYkVLRW14VFF0cG0wYkI0LWNSb2hOcVl4MzJtRlVRNm12MVFkS2RlYkEtUDB4bFdfQ1A0ZHZXTEFXRzNWN0hZN2RNVFHSAd4BQVVfeXFMTk1xbjVpNDZLa1liOVFYMGRUWEJ2ZDBXSWJua2pFZHhUR1RnZWplajVlMnJuWDRRSXhkY0J3M2FwZkJPRDJ1MGE0ejh3Qm1XclBJOVYwc05La1VPRTNHcnZRWmdMSGdEYUFSVWpFeE5ycHd0OUM0cjFOdldvN0JhTVNESVBpZWlfc2ZBZ1VkSGl2QTRMc2NrYjlnLWJFS0VteFRRdHBtMGJCNC1jUm9oTnFZeDMybUZVUTZtdjFRZEtkZWJBLVAweGxXX0NQNGR2V0xBV0czVjdIWTdkTVRR?oc=5"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVEtxNkpDek9vV0x2WFVDX0tZNlFnVFFFbks4RTllaU5CdmYxSDBoYUZTdkdNX084dHBvM2t3MERPd0lqWWo5TFM1RjNyNkxrbU02d3RIbjFUdk9vZDV0MTh1ZFZidWdaQzFOeDB4dW0yZ2d4TVRkdGtSWnF0Q0p6MW95UFBrZjNyV1VneFB3U0hvb2JhaTljWGpZYnpPUmI4TjVUbDdaaG1JMzZxZDJOeVZ1WVd2aUVFUDRpY2xDRGQzRXAxTEtjTUpXc3dTR0hyUHQ4bVp5b9IB1wFBVV95cUxQVEtxNkpDek9vV0x2WFVDX0tZNlFnVFFFbks4RTllaU5CdmYxSDBoYUZTdkdNX084dHBvM2t3MERPd0lqWWo5TFM1RjNyNkxrbU02d3RIbjFUdk9vZDV0MTh1ZFZidWdaQzFOeDB4dW0yZ2d4TVRkdGtSWnF0Q0p6MW95UFBrZjNyV1VneFB3U0hvb2JhaTljWGpZYnpPUmI4TjVUbDdaaG1JMzZxZDJOeVZ1WVd2aUVFUDRpY2xDRGQzRXAxTEtjTUpXc3dTR0hyUHQ4bVp5bw?oc=5"
         }
       ]
     },
@@ -1638,556 +2228,6 @@
         {
           "name": "Telegram @goddessTTF",
           "url": "https://t.me/goddessTTF/86967"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-ed8884d08228",
-      "original_title": "뉴욕증권거래소, 토큰 주식 장부에 아발란체 선택… 로빈후드 효과 재현될까",
-      "published_at": "2026-11-12T13:32:13Z",
-      "discovery_source": "youtube",
-      "evidence": [
-        {
-          "headline": "뉴욕증권거래소, 토큰 주식 장부에 아발란체 선택… 로빈후드 효과 재현될까",
-          "source": "YouTube @새벽에온주호",
-          "snippet": "뉴욕증권거래소(NYSE)가 24시간 토큰 주식 거래 플랫폼을 추진하며, 거래 결과를 기록할 장부 기술로 아발란체를 선택했습니다. 로빈후드 체인에서 아비트럼 가격을 움직인 수수료 수익과 밈코인 열풍을 살펴봅니다. NYSE 플랫폼은 규제 승인을 받아야 열립니다. 장부 수수료에 아발란체 코인(AVAX)이 쓰일지도 지켜볼 대목입니다. #비트코인 #아발란체 #주식토큰화 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
-          "url": "https://www.youtube.com/watch?v=XQB1Xjd99yc"
-        }
-      ],
-      "sources": [
-        {
-          "name": "YouTube @새벽에온주호",
-          "url": "https://www.youtube.com/watch?v=XQB1Xjd99yc"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-8945eb1ac27e",
-      "original_title": "Iran says 2 oil tankers carrying 4 million barrels caught fire in Strait of Hormuz",
-      "published_at": "2026-11-12T13:08:54Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran says 2 oil tankers carrying 4 million barrels caught fire in Strait of Hormuz",
-          "source": "The Times of Israel",
-          "snippet": "Iran says 2 oil tankers carrying 4 million barrels caught fire in Strait of Hormuz &nbsp;&nbsp; The Times of Israel",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUtKeDBQNmtLTVBqWjNiUE9VWWhScGFkR2xZSi1ZdHh6OXNnZUxZdElpYnoyZjFxa1k0aTZkTVNuZ0lrdGxhT2dSWXUwQUhoNDJPV2pnbXlna3pVMEhXN1RqcmliR0dCMDV3eS1FVGZYUHB4NjEyNW1DXzlKVUdfVHpCcm9nMTJ5TzVHQWNGeVBPSVJYblZrYWRDXzU2cVpnU2xYa0VaYnpMd3hPcXBPc1dwUdIBuAFBVV95cUxQU1hMVG9xV0pEczdGaHlwRzI3T0JSRzFwcUJQMktCclc4aFRKOXNYUzR1QWtfYm5fbkF6Z2RTZ28xV1BualkwTGhOZGtWYjFmaEFkVXB3YWVOdjJBUUwyc3hIMFhxQnoxWEdYTHVxTlBpbEdKWFV1Y2NhbFZ1TWl3M0FoNk83OXNkWExsYXQ2a2NPNS1ScHFNeDBSd3d5NWJ5dkFrQTlQVERZcTJxRDlBeVo5d1luekZ4?oc=5"
-        },
-        {
-          "headline": "Iran says two oil tankers carrying over four million barrels ablaze in Hormuz Strait",
-          "source": "Al Arabiya English",
-          "snippet": "Iran says two oil tankers carrying over four million barrels ablaze in Hormuz Strait &nbsp;&nbsp; Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN2ZZc2pYYUhrWmI1UXIyeGNEbFZBZjI2MGg1V3FiN3J1Wmh4WnZsUW5IUmozRTZXUEluOENfcnBsbVV6dnhMZkFyWjR4WkdkbnVIcW1weVdkRlFoYzJnUmprSW53RmhwMTcyUFlwY0luMkhRNW9yVHZfMnJMSXpfdl9wSUswY0pzeGY1eGNvUnVIZ3ZHVHM1bXlYN2dWRUc1YU5KZVhqY2RWaHkwbS16bVZmTzVGM0JETzFzeGQtdzJ0eEM4dkFVblR4Y0llby1PMnFfWmstbkdtU01aZW530gHfAUFVX3lxTE83ZllzalhhSGtaYjVRcjJ4Y0RsVkFmMjYwaDVXcWI3cnVaaHhadmxRbkhSajNFNldQSW44Q19ycGxtVXp2eExmQXJaNHhaR2RudUhxbXB5V2RGUWhjMmdSamtJbndGaHAxNzJQWXBjSW4ySFE1b3JUdl8yckxJel92X3BJSzBjSnN4ZjV4Y29SdUhndkdUczVteVg3Z1ZFRzVhTkplWGpjZFZoeTBtLXptVmZPNUYzQkRPMXN4ZC13MnR4Qzh2QVVuVHhjSWVvLU8ycV9aay1uR21TTVplbnc?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "The Times of Israel",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUtKeDBQNmtLTVBqWjNiUE9VWWhScGFkR2xZSi1ZdHh6OXNnZUxZdElpYnoyZjFxa1k0aTZkTVNuZ0lrdGxhT2dSWXUwQUhoNDJPV2pnbXlna3pVMEhXN1RqcmliR0dCMDV3eS1FVGZYUHB4NjEyNW1DXzlKVUdfVHpCcm9nMTJ5TzVHQWNGeVBPSVJYblZrYWRDXzU2cVpnU2xYa0VaYnpMd3hPcXBPc1dwUdIBuAFBVV95cUxQU1hMVG9xV0pEczdGaHlwRzI3T0JSRzFwcUJQMktCclc4aFRKOXNYUzR1QWtfYm5fbkF6Z2RTZ28xV1BualkwTGhOZGtWYjFmaEFkVXB3YWVOdjJBUUwyc3hIMFhxQnoxWEdYTHVxTlBpbEdKWFV1Y2NhbFZ1TWl3M0FoNk83OXNkWExsYXQ2a2NPNS1ScHFNeDBSd3d5NWJ5dkFrQTlQVERZcTJxRDlBeVo5d1luekZ4?oc=5"
-        },
-        {
-          "name": "Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN2ZZc2pYYUhrWmI1UXIyeGNEbFZBZjI2MGg1V3FiN3J1Wmh4WnZsUW5IUmozRTZXUEluOENfcnBsbVV6dnhMZkFyWjR4WkdkbnVIcW1weVdkRlFoYzJnUmprSW53RmhwMTcyUFlwY0luMkhRNW9yVHZfMnJMSXpfdl9wSUswY0pzeGY1eGNvUnVIZ3ZHVHM1bXlYN2dWRUc1YU5KZVhqY2RWaHkwbS16bVZmTzVGM0JETzFzeGQtdzJ0eEM4dkFVblR4Y0llby1PMnFfWmstbkdtU01aZW530gHfAUFVX3lxTE83ZllzalhhSGtaYjVRcjJ4Y0RsVkFmMjYwaDVXcWI3cnVaaHhadmxRbkhSajNFNldQSW44Q19ycGxtVXp2eExmQXJaNHhaR2RudUhxbXB5V2RGUWhjMmdSamtJbndGaHAxNzJQWXBjSW4ySFE1b3JUdl8yckxJel92X3BJSzBjSnN4ZjV4Y29SdUhndkdUczVteVg3Z1ZFRzVhTkplWGpjZFZoeTBtLXptVmZPNUYzQkRPMXN4ZC13MnR4Qzh2QVVuVHhjSWVvLU8ycV9aay1uR21TTVplbnc?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-3da423e992ef",
-      "original_title": "Bitcoin Price Prediction as Bloomberg Analyst Likens BTC ETF Slump to Gold’s Decade-Long Winter",
-      "published_at": "2026-11-12T12:25:55Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Bitcoin Price Prediction as Bloomberg Analyst Likens BTC ETF Slump to Gold’s Decade-Long Winter",
-          "source": "Cryptonews.net",
-          "snippet": "Bitcoin Price Prediction as Bloomberg Analyst Likens BTC ETF Slump to Gold’s Decade-Long Winter &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3V1liZUs0anBPSEx6enJVTWtxdjRrV1Y2aVJxTlJqRVNrYzlsSEVzelk4Y1I2b2txcUVJTEFYMjlxMWI5SnBIQUF2OU1VRXk3OUxEZ2ZNYWM?oc=5"
-        },
-        {
-          "headline": "Bitcoin Price Prediction as Bloomberg Analyst Likens BTC ETF Slump to Gold's Decade-Long Winter",
-          "source": "CoinGape",
-          "snippet": "Bitcoin Price Prediction as Bloomberg Analyst Likens BTC ETF Slump to Gold's Decade-Long Winter &nbsp;&nbsp; CoinGape",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQW1sS3JMZm1UN2pBRHpEbmF2U1h2NDZuX1ppMjBnX3VVcTFVUGJyOWRZNFFtNGUzVzNfRFJQY1A1b3FvSjhBZzRTVWd1Rmpja3BPQjRLS1ZxLU94RUNobWJZQVRscGJ5MDdkRURFdm9FbS1ZcVhZUDNGZ0NPUXhGMTlOOUNJakVlZzFQTjF2NU9Tc01paHdESER1TTZ2T0c4TmYxb0pHSHJqZU1LQk13clFR?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3V1liZUs0anBPSEx6enJVTWtxdjRrV1Y2aVJxTlJqRVNrYzlsSEVzelk4Y1I2b2txcUVJTEFYMjlxMWI5SnBIQUF2OU1VRXk3OUxEZ2ZNYWM?oc=5"
-        },
-        {
-          "name": "CoinGape",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQW1sS3JMZm1UN2pBRHpEbmF2U1h2NDZuX1ppMjBnX3VVcTFVUGJyOWRZNFFtNGUzVzNfRFJQY1A1b3FvSjhBZzRTVWd1Rmpja3BPQjRLS1ZxLU94RUNobWJZQVRscGJ5MDdkRURFdm9FbS1ZcVhZUDNGZ0NPUXhGMTlOOUNJakVlZzFQTjF2NU9Tc01paHdESER1TTZ2T0c4TmYxb0pHSHJqZU1LQk13clFR?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-14d07b3eb3d9",
-      "original_title": "Bitcoin weakness erases September's bullish signal",
-      "published_at": "2026-11-12T12:15:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Bitcoin weakness erases September's bullish signal",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-d2340ccc8c24",
-      "original_title": "Oil Steadies After Slump as Iran War Talks Make Little Progress",
-      "published_at": "2026-11-12T11:36:39Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil Steadies After Slump as Iran War Talks Make Little Progress",
-          "source": "Bloomberg.com",
-          "snippet": "Oil Steadies After Slump as Iran War Talks Make Little Progress &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWElpeDdPeHVLZml3Zmdzd2RzeDBEXzFCLWpwUFpNbUVXWFNiWWtIdzhua1dfbk9yZTNSQmJucHd0Q1c3WU5qb3lRS1hZV0w0b3dCcmpLbkhqdzEwbWNmS1ZiWjFFUmpudlZ1cHluR3JkOWtZUXM2eGE0a2l5QXV5TE5kdktGald4cHM4bUJJRDItZjk1Zm9xSUhCeldPQQ?oc=5"
-        },
-        {
-          "headline": "Oil Steadies After Slump as Iran War Talks Make Little Progress",
-          "source": "Yahoo Finance UK",
-          "snippet": "Oil Steadies After Slump as Iran War Talks Make Little Progress &nbsp;&nbsp; Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdVFGVktCNEFHY25xQVVMb1dSQkJVVGZGZmFoUXB5bk5BUnNvUF9mVy1RNFNDQ25GM1lSc0xVZzVFTjN6WW5HT1ZZS2dGR1FzWmtUWFlaNm50X2VVLVBZaFZwU090SEJOdmc5SFl1OGZCM1lFRzdaQUxkNzY1TkEyeWtR?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWElpeDdPeHVLZml3Zmdzd2RzeDBEXzFCLWpwUFpNbUVXWFNiWWtIdzhua1dfbk9yZTNSQmJucHd0Q1c3WU5qb3lRS1hZV0w0b3dCcmpLbkhqdzEwbWNmS1ZiWjFFUmpudlZ1cHluR3JkOWtZUXM2eGE0a2l5QXV5TE5kdktGald4cHM4bUJJRDItZjk1Zm9xSUhCeldPQQ?oc=5"
-        },
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdVFGVktCNEFHY25xQVVMb1dSQkJVVGZGZmFoUXB5bk5BUnNvUF9mVy1RNFNDQ25GM1lSc0xVZzVFTjN6WW5HT1ZZS2dGR1FzWmtUWFlaNm50X2VVLVBZaFZwU090SEJOdmc5SFl1OGZCM1lFRzdaQUxkNzY1TkEyeWtR?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-a74d87bc6167",
-      "original_title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-      "published_at": "2026-11-12T11:30:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-cfa74057e2a8",
-      "original_title": "민주당은 우리나라, 아니 세계 역사상 가장 부패하고 반미적인 정치 지도자 및 정치꾼 집단 중 하나가 이끌고 있으며, 트럼프 행정부가 부패했다고 거듭거듭 말함으로써 '거대한 블루 스테이트(민주당 우세 주) 부패'에서 빠져나가기 위해 할 수 있는 모든 것을 하고 있습니다. 이는 미네소타, 캘리포니아를 비롯해 미국 전역의 블루 스테이트에서 벌어진 엄청나고 전례 없는 도둑질을 무력화하기 위해 그들이",
-      "published_at": "2026-11-12T10:55:47Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "민주당은 우리나라, 아니 세계 역사상 가장 부패하고 반미적인 정치 지도자 및 정치꾼 집단 중 하나가 이끌고 있으며, 트럼프 행정부가 부패했다고 거듭거듭 말함으로써 '거대한 블루 스테이트(민주당 우세 주) 부패'에서 빠져나가기 위해 할 수 있는 모든 것을 하고 있습니다. 이는 미네소타, 캘리포니아를 비롯해 미국 전역의 블루 스테이트에서 벌어진 엄청나고 전례 없는 도둑질을 무력화하기 위해 그들이",
-          "source": "Telegram @goddessTTF",
-          "snippet": "민주당은 우리나라, 아니 세계 역사상 가장 부패하고 반미적인 정치 지도자 및 정치꾼 집단 중 하나가 이끌고 있으며, 트럼프 행정부가 부패했다고 거듭거듭 말함으로써 '거대한 블루 스테이트(민주당 우세 주) 부패'에서 빠져나가기 위해 할 수 있는 모든 것을 하고 있습니다. 이는 미네소타, 캘리포니아를 비롯해 미국 전역의 블루 스테이트에서 벌어진 엄청나고 전례 없는 도둑질을 무력화하기 위해 그들이 거듭거듭 악랄하게 써먹는 말장난입니다. 저는, 가짜 뉴스가 이에 대해 보도하기를 거부하기 때문에 어쩌면 어리석게도, 첫 임기를 포함해 수백만 달러에 달하는 급여조차 받지 않고 있습니다. 그렇게 한 대통령은 제가 유일합니다! 어쨌든, 민주당은 부패하고 사악하며, 저는 정반대입니다! 공화당원 여러분, 치열하게 싸우십시오. 그렇지 않으면 나라가 남아나지 않을 것입니다! 도널드 J. 트럼프 대통령",
-          "url": "https://t.me/goddessTTF/86962"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/86962"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-53caa7b798d2",
-      "original_title": "FinancialJuice: Senator Cotton: US Commerce Secretary Lutnick should ban China's CXMT from the US",
-      "published_at": "2026-11-12T10:19:56Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Senator Cotton: US Commerce Secretary Lutnick should ban China's CXMT from the US",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9848735/Senator-Cotton-US-Commerce-Secretary-Lutnick-should-ban-Chinas-CXMT-from-the-US---CNBC.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9848735/Senator-Cotton-US-Commerce-Secretary-Lutnick-should-ban-Chinas-CXMT-from-the-US---CNBC.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-9200d77b9e34",
-      "original_title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-      "published_at": "2026-11-12T10:10:48Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-0ab9292adf0f",
-      "original_title": "FinancialJuice: MUFG: The JPY",
-      "published_at": "2026-11-12T09:52:16Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: MUFG: The JPY",
-          "source": "FinancialJuice",
-          "snippet": "The hawkish repricing of Fed rate hike expectations and stronger US dollar have resulted in USD/JPY rising back to within touching distance of the 160.00-level for the first time since the start of September. USD/JPY has now almost fully reversed the adjustment lower in September that was triggered by market expectations for BoJ to speed up the pace of rate hikes and media reports suggesting that the GPIF discussed over the summer increasing funds allocated towards domestic assets. The GPIF released their latest investment results for Q2 of FY2026 last week which revealed that there has been no significant shift in allocations yet. At the end of September 2026. pension reserves totalled JPY319.78 trillion of which 24.80% were held in domestic equities and 26.49% were held in domestic bonds. It compares to at the end of June 2026 when 24.48% of reserves were held in domestic equities and 25.59% held in domestic bonds. With USD/JPY moving back towards pre-joint intervention levels from late July/early August, it has prompted Japanese officials to step up verbal intervention overnight to support the yen. Japan's top currency official Atsushi Mimura stated overnight that 'I have a strong impression that the currency moves over the past few days have been too fast’’. He added that &quot;it’s too early to forget what happened this summer&quot;. It sends a strong signal that Japan is prepared to intervene again to support the yen which should help to limit further upside for USD/JPY beyond 160.00. However, it will be even more difficult to reverse the upward trend for USD/JPY right now with the USD strengthening broadly on the back of expectations for faster Fed rate hikes. If the rising risk of further intervention helps to stabilize USD/JPY while the US dollar continues to s",
-          "url": "https://www.financialjuice.com/News/9848709/MUFG-The-JPY---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9848709/MUFG-The-JPY---FJElite.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-6b46102a2001",
-      "original_title": "FinancialJuice: Europe Sentiment: Sleeping With Chinese Spies Is Bad For Your Employment",
-      "published_at": "2026-11-12T09:25:03Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Europe Sentiment: Sleeping With Chinese Spies Is Bad For Your Employment",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9848660/Europe-Sentiment-Sleeping-With-Chinese-Spies-Is-Bad-For-Your-Employment---FJElite.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9848660/Europe-Sentiment-Sleeping-With-Chinese-Spies-Is-Bad-For-Your-Employment---FJElite.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-1cd4a505068d",
-      "original_title": "Two Oil Supertankers Explode in Strait of Hormuz, IRGC Says",
-      "published_at": "2026-11-12T09:24:13Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Two Oil Supertankers Explode in Strait of Hormuz, IRGC Says",
-          "source": "MarineLink",
-          "snippet": "Two Oil Supertankers Explode in Strait of Hormuz, IRGC Says &nbsp;&nbsp; MarineLink",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90UUhSUERqT01MXzFzcXpRVnd3MU9FQUtSaGhxeHVCUFRETjlxQUh6dmRFM2FicnVHQ2NYWkh3UWtfOTJPQUcwb0NTT2JUY1FZTTZYZFpmdTdQMnNBbkIwYVd1SEc2N2lJNkpNejFzRlRDOWVucHZmUnJ1Wmw5V0E?oc=5"
-        },
-        {
-          "headline": "IRGC reports explosion of two supertankers in Strait of Hormuz",
-          "source": "The New Region",
-          "snippet": "IRGC reports explosion of two supertankers in Strait of Hormuz &nbsp;&nbsp; The New Region",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wVDBVb3N3ZnV6a2djZnpOa2NoRDlOZjJUMXJIRmVWeHpXaExoakpRUzQ0WUJ5UzhsdUNTaDB1U3Rka3c5WlFKQXZUNA?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "MarineLink",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90UUhSUERqT01MXzFzcXpRVnd3MU9FQUtSaGhxeHVCUFRETjlxQUh6dmRFM2FicnVHQ2NYWkh3UWtfOTJPQUcwb0NTT2JUY1FZTTZYZFpmdTdQMnNBbkIwYVd1SEc2N2lJNkpNejFzRlRDOWVucHZmUnJ1Wmw5V0E?oc=5"
-        },
-        {
-          "name": "The New Region",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wVDBVb3N3ZnV6a2djZnpOa2NoRDlOZjJUMXJIRmVWeHpXaExoakpRUzQ0WUJ5UzhsdUNTaDB1U3Rka3c5WlFKQXZUNA?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-086c3408e5a4",
-      "original_title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
-      "published_at": "2026-11-12T09:15:04Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-a06762cd4f1e",
-      "original_title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-      "published_at": "2026-11-12T09:15:04Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-d82a9e2acede",
-      "original_title": "스테이블코인 시총 66억 달러 감소…비트코인 반등 신호는?",
-      "published_at": "2026-11-12T07:45:36Z",
-      "discovery_source": "youtube",
-      "evidence": [
-        {
-          "headline": "스테이블코인 시총 66억 달러 감소…비트코인 반등 신호는?",
-          "source": "YouTube @새벽에온주호",
-          "snippet": "스테이블코인 시가총액이 한 주 만에 66억 달러 줄었습니다. 비트코인은 바닥에 가까워졌을까요? 테더(USDT)·USDC 공급 흐름과 미국 국채 금리를 살펴보고, 연준의 금리 인상 종료가 왜 중요한지 짚습니다. 코인베이스 프리미엄, 테더 신규 발행, 바이낸스 스테이블코인 잔고에서 매수 대기자금이 돌아오는 신호를 찾아봅니다. #비트코인 #스테이블코인 #테더 #USDC 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
-          "url": "https://www.youtube.com/watch?v=mX9Nh2OcH-I"
-        }
-      ],
-      "sources": [
-        {
-          "name": "YouTube @새벽에온주호",
-          "url": "https://www.youtube.com/watch?v=mX9Nh2OcH-I"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-aee147291371",
-      "original_title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-      "published_at": "2026-11-12T07:41:18Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-8d4c2c79257c",
-      "original_title": "FinancialJuice: Japan government to spend 650 bln Yen to help ease winter outlays for households",
-      "published_at": "2026-11-12T07:31:49Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Japan government to spend 650 bln Yen to help ease winter outlays for households",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9848521/Japan-government-to-spend-650-bln-Yen-to-help-ease-winter-outlays-for-households---Kyodo.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9848521/Japan-government-to-spend-650-bln-Yen-to-help-ease-winter-outlays-for-households---Kyodo.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-589c4f2bb157",
-      "original_title": "India's Gulf oil imports surpass Russia for first time since Iran war",
-      "published_at": "2026-11-12T07:23:40Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "India's Gulf oil imports surpass Russia for first time since Iran war",
-          "source": "Business Standard",
-          "snippet": "India's Gulf oil imports surpass Russia for first time since Iran war &nbsp;&nbsp; Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVEtxNkpDek9vV0x2WFVDX0tZNlFnVFFFbks4RTllaU5CdmYxSDBoYUZTdkdNX084dHBvM2t3MERPd0lqWWo5TFM1RjNyNkxrbU02d3RIbjFUdk9vZDV0MTh1ZFZidWdaQzFOeDB4dW0yZ2d4TVRkdGtSWnF0Q0p6MW95UFBrZjNyV1VneFB3U0hvb2JhaTljWGpZYnpPUmI4TjVUbDdaaG1JMzZxZDJOeVZ1WVd2aUVFUDRpY2xDRGQzRXAxTEtjTUpXc3dTR0hyUHQ4bVp5b9IB1wFBVV95cUxQVEtxNkpDek9vV0x2WFVDX0tZNlFnVFFFbks4RTllaU5CdmYxSDBoYUZTdkdNX084dHBvM2t3MERPd0lqWWo5TFM1RjNyNkxrbU02d3RIbjFUdk9vZDV0MTh1ZFZidWdaQzFOeDB4dW0yZ2d4TVRkdGtSWnF0Q0p6MW95UFBrZjNyV1VneFB3U0hvb2JhaTljWGpZYnpPUmI4TjVUbDdaaG1JMzZxZDJOeVZ1WVd2aUVFUDRpY2xDRGQzRXAxTEtjTUpXc3dTR0hyUHQ4bVp5bw?oc=5"
-        },
-        {
-          "headline": "India Gulf Oil Imports Surpass Russia for First Time in Iran War",
-          "source": "Bloomberg.com",
-          "snippet": "India Gulf Oil Imports Surpass Russia for First Time in Iran War &nbsp;&nbsp; Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmxFWjRZMzNORENWTzhDeUl5UW5WaFRWbTk1ZllEcHdfVEN5ckwzTW4zZnVWOE5DaVN3VWMzS0xUXzRyaTZDV3VCY3NHTUU3ZG8zakdXR0t3QW5DMDNuRkxsSWVkLXo3blhSUGFndkJlX25vNVlaaUJxa0lXR2xFZHlMTW5XUzE2M0xnU1Y0Vnl4Y2QyaFUxX2kzaFoxc1BTRk1jRDdHSkp1aEZ2d0ZUWVJDcnZFZw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVEtxNkpDek9vV0x2WFVDX0tZNlFnVFFFbks4RTllaU5CdmYxSDBoYUZTdkdNX084dHBvM2t3MERPd0lqWWo5TFM1RjNyNkxrbU02d3RIbjFUdk9vZDV0MTh1ZFZidWdaQzFOeDB4dW0yZ2d4TVRkdGtSWnF0Q0p6MW95UFBrZjNyV1VneFB3U0hvb2JhaTljWGpZYnpPUmI4TjVUbDdaaG1JMzZxZDJOeVZ1WVd2aUVFUDRpY2xDRGQzRXAxTEtjTUpXc3dTR0hyUHQ4bVp5b9IB1wFBVV95cUxQVEtxNkpDek9vV0x2WFVDX0tZNlFnVFFFbks4RTllaU5CdmYxSDBoYUZTdkdNX084dHBvM2t3MERPd0lqWWo5TFM1RjNyNkxrbU02d3RIbjFUdk9vZDV0MTh1ZFZidWdaQzFOeDB4dW0yZ2d4TVRkdGtSWnF0Q0p6MW95UFBrZjNyV1VneFB3U0hvb2JhaTljWGpZYnpPUmI4TjVUbDdaaG1JMzZxZDJOeVZ1WVd2aUVFUDRpY2xDRGQzRXAxTEtjTUpXc3dTR0hyUHQ4bVp5bw?oc=5"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmxFWjRZMzNORENWTzhDeUl5UW5WaFRWbTk1ZllEcHdfVEN5ckwzTW4zZnVWOE5DaVN3VWMzS0xUXzRyaTZDV3VCY3NHTUU3ZG8zakdXR0t3QW5DMDNuRkxsSWVkLXo3blhSUGFndkJlX25vNVlaaUJxa0lXR2xFZHlMTW5XUzE2M0xnU1Y0Vnl4Y2QyaFUxX2kzaFoxc1BTRk1jRDdHSkp1aEZ2d0ZUWVJDcnZFZw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-d3a69eb659d5",
-      "original_title": "FinancialJuice: China and the US are in close communication over tariff reduction",
-      "published_at": "2026-11-12T07:10:51Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: China and the US are in close communication over tariff reduction",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9848492/China-and-the-US-are-in-close-communication-over-tariff-reduction---Mofcom.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9848492/China-and-the-US-are-in-close-communication-over-tariff-reduction---Mofcom.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-770f4a218dab",
-      "original_title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-      "published_at": "2026-11-12T07:00:37Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-a42003e12e21",
-      "original_title": "FinancialJuice: Iran's state media, citing the IRGC Navy: Two oil tankers face explosions while moving in the 'unauthorized route' In the Strait of Hormuz on Wednesday night",
-      "published_at": "2026-11-12T06:59:13Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's state media, citing the IRGC Navy: Two oil tankers face explosions while moving in the 'unauthorized route' In the Strait of Hormuz on Wednesday night",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9848465/Irans-state-media-citing-the-IRGC-Navy-Two-oil-tankers-face-explosions-while-moving-in-the-unauthorized-route-In-the-Strait-of-Hormuz-on-Wednesday-night.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9848465/Irans-state-media-citing-the-IRGC-Navy-Two-oil-tankers-face-explosions-while-moving-in-the-unauthorized-route-In-the-Strait-of-Hormuz-on-Wednesday-night.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-ccd009e4aea4",
-      "original_title": "FinancialJuice: SNB Interest Rate Probabilities",
-      "published_at": "2026-11-12T06:36:20Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: SNB Interest Rate Probabilities",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9848450/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9848450/SNB-Interest-Rate-Probabilities.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-de7ac9fed352",
-      "original_title": "FinancialJuice: BOJ board member Asada: Japan now in inflation, not deflation, entering new phase",
-      "published_at": "2026-11-12T06:07:44Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: BOJ board member Asada: Japan now in inflation, not deflation, entering new phase",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9848406/BOJ-board-member-Asada-Japan-now-in-inflation-not-deflation-entering-new-phase.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9848406/BOJ-board-member-Asada-Japan-now-in-inflation-not-deflation-entering-new-phase.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-4853870fb780",
-      "original_title": "FinancialJuice: BOJ board member Asada: Japan has already reached about 2% inflation, so pushing prices higher is not very meaningful",
-      "published_at": "2026-11-12T06:06:27Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: BOJ board member Asada: Japan has already reached about 2% inflation, so pushing prices higher is not very meaningful",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9848404/BOJ-board-member-Asada-Japan-has-already-reached-about-2-inflation-so-pushing-prices-higher-is-not-very-meaningful.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9848404/BOJ-board-member-Asada-Japan-has-already-reached-about-2-inflation-so-pushing-prices-higher-is-not-very-meaningful.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-12-79c5b70826cc",
-      "original_title": "FinancialJuice: Boj's Asada: Boj does not directly govern fx so will not comment on ideal dollar/yen level",
-      "published_at": "2026-11-12T05:55:17Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Boj's Asada: Boj does not directly govern fx so will not comment on ideal dollar/yen level",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9848379/Bojs-Asada-Boj-does-not-directly-govern-fx-so-will-not-comment-on-ideal-dollaryen-level.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9848379/Bojs-Asada-Boj-does-not-directly-govern-fx-so-will-not-comment-on-ideal-dollaryen-level.aspx?xy=rss"
         }
       ]
     }
