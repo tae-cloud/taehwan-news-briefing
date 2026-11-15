@@ -1,110 +1,190 @@
 {
-  "updated_at_kst": "2026-11-15T06:27:47+09:00",
+  "updated_at_kst": "2026-11-15T10:53:12+09:00",
   "items": [
     {
-      "stable_id": "2026-11-14-368f3d94391f",
-      "original_title": "FinancialJuice: Bitcoin falls 5.3% to $64,733.68",
-      "published_at": "2026-11-14T20:56:42Z",
-      "discovery_source": "financialjuice",
+      "stable_id": "2026-11-15-4b21f5c2d15f",
+      "original_title": "Bitcoin tumbles to three-month low as liquidations accelerate",
+      "published_at": "2026-11-15T01:31:00Z",
+      "discovery_source": "news",
       "evidence": [
         {
-          "headline": "FinancialJuice: Bitcoin falls 5.3% to $64,733.68",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852389/Bitcoin-falls-53-to-6473368.aspx?xy=rss"
+          "headline": "Bitcoin tumbles to three-month low as liquidations accelerate",
+          "source": "The Straits Times",
+          "snippet": "Bitcoin tumbles to three-month low as liquidations accelerate &nbsp;&nbsp; The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQREpQZzVzOE00cWljQW12d3FhT3VKdUlNMDRqbDNyLWRhTjRLSWNxYzZsaWhTaldWQkoxNjd2bFhaY0hpWHVFVVVuQVA3RlFiUld0bk53M2hYLWN6c2k1NTJCNUV6SU53Z3F5UkhTaUJKYXJBaTVBZURwcTloTUltN0F0STlDRjJGRTZBZ3V6T3p6NVh4Z3htekJ6NFFvdmtk?oc=5"
+        },
+        {
+          "headline": "Bitcoin tumbles to three-month low as liquidations accelerate",
+          "source": "The Edge Malaysia",
+          "snippet": "Bitcoin tumbles to three-month low as liquidations accelerate &nbsp;&nbsp; The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13TnItRVZIeUZGZW96MTVLYjQ0NXRmZVZZUHN2NjYyTVgzdUM5bU40bTU2Z3pzdVQwUHN4clBrS3BJNlQwUUdqdVhudjJ6bHJr?oc=5"
+        },
+        {
+          "headline": "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
+          "source": "Bloomberg.com",
+          "snippet": "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFN4Yk1qMGk3ejFQc2RuVXlMMWoxUmd6T3NHOGM1WEFCd2E2ZFplM0NXMGRhb3VFS0VtWEtVajlzUS1UV0N6aVpZSlB5Wm5rbWNTUG9nNTNoNUI1LXB1OF9vUWxRNHVSaXBkbmJlbXFYZ1BWWllpY2FoUm5KWXdycXM4VTZXNldjVDJTUHYzRG1IWUt5Ujc3NjFvYWVab1IyUWxQaVVkb2E0NWlLY1hyRHZ3?oc=5"
         }
       ],
       "sources": [
         {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852389/Bitcoin-falls-53-to-6473368.aspx?xy=rss"
+          "name": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQREpQZzVzOE00cWljQW12d3FhT3VKdUlNMDRqbDNyLWRhTjRLSWNxYzZsaWhTaldWQkoxNjd2bFhaY0hpWHVFVVVuQVA3RlFiUld0bk53M2hYLWN6c2k1NTJCNUV6SU53Z3F5UkhTaUJKYXJBaTVBZURwcTloTUltN0F0STlDRjJGRTZBZ3V6T3p6NVh4Z3htekJ6NFFvdmtk?oc=5"
+        },
+        {
+          "name": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13TnItRVZIeUZGZW96MTVLYjQ0NXRmZVZZUHN2NjYyTVgzdUM5bU40bTU2Z3pzdVQwUHN4clBrS3BJNlQwUUdqdVhudjJ6bHJr?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFN4Yk1qMGk3ejFQc2RuVXlMMWoxUmd6T3NHOGM1WEFCd2E2ZFplM0NXMGRhb3VFS0VtWEtVajlzUS1UV0N6aVpZSlB5Wm5rbWNTUG9nNTNoNUI1LXB1OF9vUWxRNHVSaXBkbmJlbXFYZ1BWWllpY2FoUm5KWXdycXM4VTZXNldjVDJTUHYzRG1IWUt5Ujc3NjFvYWVab1IyUWxQaVVkb2E0NWlLY1hyRHZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-15-8457d4f09dff",
+      "original_title": "선거가 끝나자마자 주식시장이 3조 달러의 가치를 잃었다는 것을 아무도 눈치채지 못했습니까? 다시 말해, 전 세계 투자자들은 선거일에 벌어진 일을 보고 싫어했습니다. 그러나 두려워하지 마십시오. 시장은 그 이후 올랐고, 미국은 곧 그 어느 때보다 더 위대해질 것입니다! 도널드 J. 트럼프 대통령",
+      "published_at": "2026-11-15T01:00:52Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "선거가 끝나자마자 주식시장이 3조 달러의 가치를 잃었다는 것을 아무도 눈치채지 못했습니까? 다시 말해, 전 세계 투자자들은 선거일에 벌어진 일을 보고 싫어했습니다. 그러나 두려워하지 마십시오. 시장은 그 이후 올랐고, 미국은 곧 그 어느 때보다 더 위대해질 것입니다! 도널드 J. 트럼프 대통령",
+          "source": "Telegram @goddessTTF",
+          "snippet": "선거가 끝나자마자 주식시장이 3조 달러의 가치를 잃었다는 것을 아무도 눈치채지 못했습니까? 다시 말해, 전 세계 투자자들은 선거일에 벌어진 일을 보고 싫어했습니다. 그러나 두려워하지 마십시오. 시장은 그 이후 올랐고, 미국은 곧 그 어느 때보다 더 위대해질 것입니다! 도널드 J. 트럼프 대통령",
+          "url": "https://t.me/goddessTTF/87107"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/87107"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-15-f6b3f0df6c72",
+      "original_title": "Three oil tankers catch fire after hitting naval mines in Hormuz, claims Iran's Navy",
+      "published_at": "2026-11-15T00:44:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Three oil tankers catch fire after hitting naval mines in Hormuz, claims Iran's Navy",
+          "source": "ANI News",
+          "snippet": "Three oil tankers catch fire after hitting naval mines in Hormuz, claims Iran's Navy &nbsp;&nbsp; ANI News",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWtmNUtxX0lfRWpNZ3VyMHBjVVVUVGZ0V1k4aWFRLVRzRWpmZDU0NnRXUFFDT2QzUWd1WjNrMl9XNml3RG5aR0JYaE0zQ1UxcUo3TGFlX2hQTUhwbDNZdTRUOUpPY3JXTUZSNWw1b3JFOHV2dHRpak9ic2JfV0VsdFdITDdPdmFqOUFQaUNOU09oZ203aFg4SEFrbi1GU2dWZV9VekM3ZE5USnh5UXdaVW1lRVAyUi1LVk1KWkFIWkVVRWt5Y1JWLXdRYjZfQnp0Qks4TEd6bnhnZw?oc=5"
+        },
+        {
+          "headline": "Three tankers caught fire in Strait of Hormuz after hitting naval mines: Iran's navy | World News",
+          "source": "Hindustan Times",
+          "snippet": "Three tankers caught fire in Strait of Hormuz after hitting naval mines: Iran's navy | World News &nbsp;&nbsp; Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVkdYSnBMNi1Tckp0bGlfYlRXaGh5Q2J0bC1CWmtyd2JtSEQ3anl6LUVFR2FWOHhEOEcwRU5POXVtN01jOC1yVVNLc1lrSWJnVFQzc0pqX01taHRCM2hHbzhONWRzZmh2ZVNrNG41VGZKdjRkaVoxZmxBRlpGTDc4cEpCRElnejluMWcyUS1yZmxLaDBHZzNueXMxcEFHUmZlTkNLVUF2RGIteS11eTE2Z1ZVUVVXOUs0SmEzSkJlUWZ2WjJyaFBUZUYxaF9tT0ExWjU0RXlsYnRKRDczOWfSAeMBQVVfeXFMTnRTN3M1R3VvZlg0WjFSYkwwTXo3SC1Qalo3eHhiOEozek5sVWVPdjlTMDJVMVFWbW1TaUNWV2pHemRNU0JpeWtIVHN0RDdENTJ2ZFlYOExoNnFTOGszVnBIbHAxaldId1BnVGQ2Y1VoS1dBTmhPR3JEcUFBZUZCMm9OWnQyaHNxb1B3Y0hGWHBqaTAwanhyM3drTUhveDRrcDlWbXdPTDVBTEJ2cTFuY1RhRFBLZ21FTDhYRWhoSkpGXzNKdk50N0IzUzBKbUdSMWFQSE5QaEgxdW5CNDlNVGd1Z00?oc=5"
+        },
+        {
+          "headline": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+          "source": "Reuters",
+          "snippet": "Iran's navy says three tankers on fire after hitting mines in Hormuz &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5"
+        },
+        {
+          "headline": "Three oil tankers on fire after hitting mines in Hormuz",
+          "source": "https://aapnews.aap.com.au/",
+          "snippet": "Three oil tankers on fire after hitting mines in Hormuz &nbsp;&nbsp; https://aapnews.aap.com.au/",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVdSSkx6N2RpNGVBd19QdEJNeHEzdzlkTWpxYnVmc0sxVkFmSkFyZ0dXZDhyd0J1UTZMY3RYcWFFekFOUEU1MzVBUXlNSXBFLTBsLW9pOXQxek00ekNPLV82em0zdDA5VkhpZGNKdUoxRWdUX3N3Um5sa1VNR0VCemJPOVhsRVBsMEp0TnlkVFI?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "ANI News",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWtmNUtxX0lfRWpNZ3VyMHBjVVVUVGZ0V1k4aWFRLVRzRWpmZDU0NnRXUFFDT2QzUWd1WjNrMl9XNml3RG5aR0JYaE0zQ1UxcUo3TGFlX2hQTUhwbDNZdTRUOUpPY3JXTUZSNWw1b3JFOHV2dHRpak9ic2JfV0VsdFdITDdPdmFqOUFQaUNOU09oZ203aFg4SEFrbi1GU2dWZV9VekM3ZE5USnh5UXdaVW1lRVAyUi1LVk1KWkFIWkVVRWt5Y1JWLXdRYjZfQnp0Qks4TEd6bnhnZw?oc=5"
+        },
+        {
+          "name": "Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVkdYSnBMNi1Tckp0bGlfYlRXaGh5Q2J0bC1CWmtyd2JtSEQ3anl6LUVFR2FWOHhEOEcwRU5POXVtN01jOC1yVVNLc1lrSWJnVFQzc0pqX01taHRCM2hHbzhONWRzZmh2ZVNrNG41VGZKdjRkaVoxZmxBRlpGTDc4cEpCRElnejluMWcyUS1yZmxLaDBHZzNueXMxcEFHUmZlTkNLVUF2RGIteS11eTE2Z1ZVUVVXOUs0SmEzSkJlUWZ2WjJyaFBUZUYxaF9tT0ExWjU0RXlsYnRKRDczOWfSAeMBQVVfeXFMTnRTN3M1R3VvZlg0WjFSYkwwTXo3SC1Qalo3eHhiOEozek5sVWVPdjlTMDJVMVFWbW1TaUNWV2pHemRNU0JpeWtIVHN0RDdENTJ2ZFlYOExoNnFTOGszVnBIbHAxaldId1BnVGQ2Y1VoS1dBTmhPR3JEcUFBZUZCMm9OWnQyaHNxb1B3Y0hGWHBqaTAwanhyM3drTUhveDRrcDlWbXdPTDVBTEJ2cTFuY1RhRFBLZ21FTDhYRWhoSkpGXzNKdk50N0IzUzBKbUdSMWFQSE5QaEgxdW5CNDlNVGd1Z00?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5"
+        },
+        {
+          "name": "https://aapnews.aap.com.au/",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVdSSkx6N2RpNGVBd19QdEJNeHEzdzlkTWpxYnVmc0sxVkFmSkFyZ0dXZDhyd0J1UTZMY3RYcWFFekFOUEU1MzVBUXlNSXBFLTBsLW9pOXQxek00ekNPLV82em0zdDA5VkhpZGNKdUoxRWdUX3N3Um5sa1VNR0VCemJPOVhsRVBsMEp0TnlkVFI?oc=5"
         }
       ]
     },
     {
       "stable_id": "2026-11-14-a4fc14519966",
       "original_title": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K",
-      "published_at": "2026-11-14T20:37:58Z",
+      "published_at": "2026-11-14T23:16:07Z",
       "discovery_source": "news",
       "evidence": [
-        {
-          "headline": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K",
-          "source": "Cryptonews.net",
-          "snippet": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZTdKdlpXVEdnekJuZEE1WDUzLXdtVTBBRHB1bkZfaGlVYl9GNWxmX1RpemZpd213TjlveTNBaHJsbG55NHVVVWM4bDVZMFpFeVZkWnhqeVY?oc=5"
-        },
         {
           "headline": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K",
           "source": "Bitcoin News",
           "snippet": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K &nbsp;&nbsp; Bitcoin News",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWNQZV9QRlpKcGVUYUo2STRJZG9MOGFOc0xPWEttYWo5TE83dlA4eW9ENGZZUFowQUtlT3cyWUYtUi1JUFc4QnFweXVVaGxhWk9Ka2dzWlBfMDNnVjZwakt1MDNkZXA0ODRJaG11TFhad1B4YUtEQW9yMzEzV2ZtcjQ5R1hCVGFuTG1YdmxmZEVJaGZyUXY0aS1yZ1BObnV4Y29DZ2IzSFNteGVJRXFZ?oc=5"
+        },
+        {
+          "headline": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K",
+          "source": "Cryptonews.net",
+          "snippet": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZTdKdlpXVEdnekJuZEE1WDUzLXdtVTBBRHB1bkZfaGlVYl9GNWxmX1RpemZpd213TjlveTNBaHJsbG55NHVVVWM4bDVZMFpFeVZkWnhqeVY?oc=5"
         }
       ],
       "sources": [
-        {
-          "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZTdKdlpXVEdnekJuZEE1WDUzLXdtVTBBRHB1bkZfaGlVYl9GNWxmX1RpemZpd213TjlveTNBaHJsbG55NHVVVWM4bDVZMFpFeVZkWnhqeVY?oc=5"
-        },
         {
           "name": "Bitcoin News",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWNQZV9QRlpKcGVUYUo2STRJZG9MOGFOc0xPWEttYWo5TE83dlA4eW9ENGZZUFowQUtlT3cyWUYtUi1JUFc4QnFweXVVaGxhWk9Ka2dzWlBfMDNnVjZwakt1MDNkZXA0ODRJaG11TFhad1B4YUtEQW9yMzEzV2ZtcjQ5R1hCVGFuTG1YdmxmZEVJaGZyUXY0aS1yZ1BObnV4Y29DZ2IzSFNteGVJRXFZ?oc=5"
+        },
+        {
+          "name": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZTdKdlpXVEdnekJuZEE1WDUzLXdtVTBBRHB1bkZfaGlVYl9GNWxmX1RpemZpd213TjlveTNBaHJsbG55NHVVVWM4bDVZMFpFeVZkWnhqeVY?oc=5"
         }
       ]
     },
     {
-      "stable_id": "2026-11-14-1b365b6e5f91",
-      "original_title": "Iran says three oil tankers hit mines and caught fire in the Strait of Hormuz",
-      "published_at": "2026-11-14T20:04:37Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran says three oil tankers hit mines and caught fire in the Strait of Hormuz",
-          "source": "MLQ.ai",
-          "snippet": "Iran says three oil tankers hit mines and caught fire in the Strait of Hormuz &nbsp;&nbsp; MLQ.ai",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkE3dnM3QjdXNXhscU8wbThWOGVfYk5yYkNhU2c1U0tULUVlOTFZbUU5djZ5VUZhSmozZGRTR3JnODRNWWE4YlVmLXE4OVpCYTUwcTZhMnhuNV9hTF9MU0EwWmdKbjU4YmFkZC1nS1Z1VUlKbWNiMHBhdmlsN1pWWGZPU0FPZ0RoODFjaDMzSFRpdnV0LXJESUtmaklSUU0?oc=5"
-        },
-        {
-          "headline": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13",
-          "source": "https://houseofsaud.com/",
-          "snippet": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13 &nbsp;&nbsp; https://houseofsaud.com/",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySzYzbjEyZVhzSkpIZDJpWDR3b2J3bEFOU2dUQmVKRnVDNmRqSWZDOGFKclV4WjZPam1Sa0xYVmxPWTN0ZXRTdlNpa3NqNFpaZkpqQUdyWWFTZHJXOUJhVHAwTE0xd3EzQWFTVzRsOTlxTnR4?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "MLQ.ai",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkE3dnM3QjdXNXhscU8wbThWOGVfYk5yYkNhU2c1U0tULUVlOTFZbUU5djZ5VUZhSmozZGRTR3JnODRNWWE4YlVmLXE4OVpCYTUwcTZhMnhuNV9hTF9MU0EwWmdKbjU4YmFkZC1nS1Z1VUlKbWNiMHBhdmlsN1pWWGZPU0FPZ0RoODFjaDMzSFRpdnV0LXJESUtmaklSUU0?oc=5"
-        },
-        {
-          "name": "https://houseofsaud.com/",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySzYzbjEyZVhzSkpIZDJpWDR3b2J3bEFOU2dUQmVKRnVDNmRqSWZDOGFKclV4WjZPam1Sa0xYVmxPWTN0ZXRTdlNpa3NqNFpaZkpqQUdyWWFTZHJXOUJhVHAwTE0xd3EzQWFTVzRsOTlxTnR4?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-6a8d043331bc",
-      "original_title": "이스라엘 \"이란, 트럼프 대통령·백악관 수뇌부 겨냥 드론 공격 계획\" 정보 CIA에 전달 [공부의여신 네트워크] 이스라엘 정보기관 모사드가 이란이 트럼프 대통령과 행정부 고위 인사들을 노린 드론 공격을 계획하고 있다는 정보를 미국 중앙정보국(CIA)에 넘겼다고 이스라엘 일간 이스라엘 하욤이 14일 보도했습니다. 신문은 이스라엘과 미국의 고위 소식통을 인용했으며, 미국 정부의 공식 확인은 아직",
-      "published_at": "2026-11-14T19:03:31Z",
+      "stable_id": "2026-11-14-9005f3084110",
+      "original_title": "비트코인이 24시간 동안 5.72% 떨어져 64,633달러를 기록했습니다. 주간 하락률은 14.62%, 월간 하락률은 20.77%이며, 하루 동안 10억 달러가 넘는 암호화폐 파생상품이 강제 청산됐습니다.",
+      "published_at": "2026-11-14T22:21:52Z",
       "discovery_source": "telegram",
       "evidence": [
         {
-          "headline": "이스라엘 \"이란, 트럼프 대통령·백악관 수뇌부 겨냥 드론 공격 계획\" 정보 CIA에 전달 [공부의여신 네트워크] 이스라엘 정보기관 모사드가 이란이 트럼프 대통령과 행정부 고위 인사들을 노린 드론 공격을 계획하고 있다는 정보를 미국 중앙정보국(CIA)에 넘겼다고 이스라엘 일간 이스라엘 하욤이 14일 보도했습니다. 신문은 이스라엘과 미국의 고위 소식통을 인용했으며, 미국 정부의 공식 확인은 아직",
+          "headline": "비트코인이 24시간 동안 5.72% 떨어져 64,633달러를 기록했습니다. 주간 하락률은 14.62%, 월간 하락률은 20.77%이며, 하루 동안 10억 달러가 넘는 암호화폐 파생상품이 강제 청산됐습니다.",
           "source": "Telegram @goddessTTF",
-          "snippet": "이스라엘 \"이란, 트럼프 대통령·백악관 수뇌부 겨냥 드론 공격 계획\" 정보 CIA에 전달 [공부의여신 네트워크] 이스라엘 정보기관 모사드가 이란이 트럼프 대통령과 행정부 고위 인사들을 노린 드론 공격을 계획하고 있다는 정보를 미국 중앙정보국(CIA)에 넘겼다고 이스라엘 일간 이스라엘 하욤이 14일 보도했습니다. 신문은 이스라엘과 미국의 고위 소식통을 인용했으며, 미국 정부의 공식 확인은 아직 나오지 않았습니다. 보도에 따르면 미국 정보당국이 모사드에 해당 정보의 검증을 요청했고, 이스라엘이 이를 확인해 줬습니다. 이 정보는 또 다른 서방 정보기관도 검증했다고 신문은 전했습니다. 거론된 공격 방식 가운데 하나는 자폭 드론으로, 일반적인 요인 경호로는 막기 어려운 수단입니다. 로만 고프만 모사드 국장은 현재 미국을 방문 중이며 존 랫클리프 CIA 국장과 만났습니다. 【트럼프 대통령 야외 일정 축소, 협상 기류도 바뀌어】 이스라엘 하욤은 이 위협 때문에 트럼프 대통령의 야외 공개 행사가 크게 줄었고, 행사가 열릴 때는 강화된 경호와 함께 드론 위협을 무력화하는 특수 장비가 투입된다고 전했습니다. 소식통들은 이 정보가 최근 트럼프 대통령이 이란과의 합의 협상에서 태도를 바꾼 핵심 이유 가운데 하나라고 주장했지만, 이 부분은 확인되지 않았습니다. 앞서 폭스뉴스는 이란의 위협에 따라 스콧 베센트 재무부 장관이 조지타운 자택을 떠나 군 기지로 옮겼고, 마코 루비오 국무장관도 군 기지 관사로 거처를 옮겼으며, 피트 헤그세스 전쟁부 장관 역시 보안 군사시설에 머물고 있다고 보도했습니다. 베센트 장관은 13일 CNBC 인터뷰에서 이란으로부터 살해 위협을 받고 있다고 직접 밝혔습니다.",
-          "url": "https://t.me/goddessTTF/87091"
+          "snippet": "비트코인이 24시간 동안 5.72% 떨어져 64,633달러를 기록했습니다. 주간 하락률은 14.62%, 월간 하락률은 20.77%이며, 하루 동안 10억 달러가 넘는 암호화폐 파생상품이 강제 청산됐습니다.",
+          "url": "https://t.me/goddessTTF/87102"
         }
       ],
       "sources": [
         {
           "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/87091"
+          "url": "https://t.me/goddessTTF/87102"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-14-823f7b24643d",
+      "original_title": "FinancialJuice: Iran's IRGC navy: two tankers ignite after hitting naval mines in Strait of Hormuz",
+      "published_at": "2026-11-14T21:46:40Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Iran's IRGC navy: two tankers ignite after hitting naval mines in Strait of Hormuz",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9852411/Irans-IRGC-navy-two-tankers-ignite-after-hitting-naval-mines-in-Strait-of-Hormuz---state-media.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9852411/Irans-IRGC-navy-two-tankers-ignite-after-hitting-naval-mines-in-Strait-of-Hormuz---state-media.aspx?xy=rss"
         }
       ]
     },
     {
       "stable_id": "2026-11-14-8a289df107e7",
       "original_title": "Oil tanker hits naval mine, catches fire in Strait of Hormuz",
-      "published_at": "2026-11-14T17:33:52Z",
+      "published_at": "2026-11-14T21:43:49Z",
       "discovery_source": "financialjuice",
       "evidence": [
         {
@@ -148,6 +228,146 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9852173/Iran-navy-oil-tanker-catches-fire-after-striking-naval-mine-in-eastern-Strait-of-Hormuz.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-14-3660c87ec0ca",
+      "original_title": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
+      "published_at": "2026-11-14T21:17:42Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
+          "source": "PBS",
+          "snippet": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead &nbsp;&nbsp; PBS",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWF95RFoyV2VsTFFrY2ttQ1BPSkZWek9BYklZNlRFUkJmYWJnUHZkbnFxb0dpQ1dyb3luSVBJMHloQUc5c2pvWnlCMlp4XzlBUTZzZ3Y1b0tOX3VhRHhCYkpLUzBsLTM3QWxXWEcxVDd0V09wc1JHd0Jlck8wTk0tcENkQldrcURzYUt4YnJ2YWVidnRmekN3UkVTdlRWY1ZzU2R2UGliOGJoNzJYc1pYM3FlMjRCdW1CdVlqUHVEZXBzLVluMkFIZlZUV0RnY25ET0pB0gHYAUFVX3lxTE4tMWlDdm45Z09EdmREdGlSelA0ZVhGOTVFTHZMV0hKekhXM2MxTm5tbmUxR01kaVBGNDgxNFhjazFEb1VEWkZiNWczM1ZORGdITm1XRDBTT2hxUXRtWEkyaG9jYmJOYkhHQVhSVGhVN2s1dGRYSklOTXFFb2I5M1ltX1k5a0IyalFUclNvNU5jZVFXOEhFMW0wemNFLUMyTEo1THBPX2dwY2NNZkloOV9NaWg4bkthZ0ZleHJvX0p0RjhIS0dVcGlTQ3M1LVFFbEFkMmFEUjAxaw?oc=5"
+        },
+        {
+          "headline": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
+          "source": "AP News",
+          "snippet": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead &nbsp;&nbsp; AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOElJSFBrTXp0cHBzTy1LMFh6T1lRM0NPNU9UMUNUaUNnc1pMNVdFQmdlQ2pjNFdGRjJFSGdwbzNnWDJSV1NMdEJ0MUVYS3d0N182Vjd3UzhyQlNzWGhvOW5PZzNIOVBmOGc2QlhFRmZGQmtncVFPa0lqOGNSVWxJRUstTnJGaGZod1BYTURWYkgwUXdT?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWF95RFoyV2VsTFFrY2ttQ1BPSkZWek9BYklZNlRFUkJmYWJnUHZkbnFxb0dpQ1dyb3luSVBJMHloQUc5c2pvWnlCMlp4XzlBUTZzZ3Y1b0tOX3VhRHhCYkpLUzBsLTM3QWxXWEcxVDd0V09wc1JHd0Jlck8wTk0tcENkQldrcURzYUt4YnJ2YWVidnRmekN3UkVTdlRWY1ZzU2R2UGliOGJoNzJYc1pYM3FlMjRCdW1CdVlqUHVEZXBzLVluMkFIZlZUV0RnY25ET0pB0gHYAUFVX3lxTE4tMWlDdm45Z09EdmREdGlSelA0ZVhGOTVFTHZMV0hKekhXM2MxTm5tbmUxR01kaVBGNDgxNFhjazFEb1VEWkZiNWczM1ZORGdITm1XRDBTT2hxUXRtWEkyaG9jYmJOYkhHQVhSVGhVN2s1dGRYSklOTXFFb2I5M1ltX1k5a0IyalFUclNvNU5jZVFXOEhFMW0wemNFLUMyTEo1THBPX2dwY2NNZkloOV9NaWg4bkthZ0ZleHJvX0p0RjhIS0dVcGlTQ3M1LVFFbEFkMmFEUjAxaw?oc=5"
+        },
+        {
+          "name": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOElJSFBrTXp0cHBzTy1LMFh6T1lRM0NPNU9UMUNUaUNnc1pMNVdFQmdlQ2pjNFdGRjJFSGdwbzNnWDJSV1NMdEJ0MUVYS3d0N182Vjd3UzhyQlNzWGhvOW5PZzNIOVBmOGc2QlhFRmZGQmtncVFPa0lqOGNSVWxJRUstTnJGaGZod1BYTURWYkgwUXdT?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-14-368f3d94391f",
+      "original_title": "FinancialJuice: Bitcoin falls 5.3% to $64,733.68",
+      "published_at": "2026-11-14T20:56:42Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Bitcoin falls 5.3% to $64,733.68",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9852389/Bitcoin-falls-53-to-6473368.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9852389/Bitcoin-falls-53-to-6473368.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-14-1b365b6e5f91",
+      "original_title": "Iran says three oil tankers hit mines and caught fire in the Strait of Hormuz",
+      "published_at": "2026-11-14T20:04:37Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran says three oil tankers hit mines and caught fire in the Strait of Hormuz",
+          "source": "MLQ.ai",
+          "snippet": "Iran says three oil tankers hit mines and caught fire in the Strait of Hormuz &nbsp;&nbsp; MLQ.ai",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkE3dnM3QjdXNXhscU8wbThWOGVfYk5yYkNhU2c1U0tULUVlOTFZbUU5djZ5VUZhSmozZGRTR3JnODRNWWE4YlVmLXE4OVpCYTUwcTZhMnhuNV9hTF9MU0EwWmdKbjU4YmFkZC1nS1Z1VUlKbWNiMHBhdmlsN1pWWGZPU0FPZ0RoODFjaDMzSFRpdnV0LXJESUtmaklSUU0?oc=5"
+        },
+        {
+          "headline": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13",
+          "source": "https://houseofsaud.com/",
+          "snippet": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13 &nbsp;&nbsp; https://houseofsaud.com/",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySzYzbjEyZVhzSkpIZDJpWDR3b2J3bEFOU2dUQmVKRnVDNmRqSWZDOGFKclV4WjZPam1Sa0xYVmxPWTN0ZXRTdlNpa3NqNFpaZkpqQUdyWWFTZHJXOUJhVHAwTE0xd3EzQWFTVzRsOTlxTnR4?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "MLQ.ai",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkE3dnM3QjdXNXhscU8wbThWOGVfYk5yYkNhU2c1U0tULUVlOTFZbUU5djZ5VUZhSmozZGRTR3JnODRNWWE4YlVmLXE4OVpCYTUwcTZhMnhuNV9hTF9MU0EwWmdKbjU4YmFkZC1nS1Z1VUlKbWNiMHBhdmlsN1pWWGZPU0FPZ0RoODFjaDMzSFRpdnV0LXJESUtmaklSUU0?oc=5"
+        },
+        {
+          "name": "https://houseofsaud.com/",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySzYzbjEyZVhzSkpIZDJpWDR3b2J3bEFOU2dUQmVKRnVDNmRqSWZDOGFKclV4WjZPam1Sa0xYVmxPWTN0ZXRTdlNpa3NqNFpaZkpqQUdyWWFTZHJXOUJhVHAwTE0xd3EzQWFTVzRsOTlxTnR4?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-14-6bc027406592",
+      "original_title": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
+      "published_at": "2026-11-14T19:47:05Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
+          "source": "ASHARQ AL-AWSAT English",
+          "snippet": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz &nbsp;&nbsp; ASHARQ AL-AWSAT English",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0g0Wi1Qa24tZUxSeUcxOW1wWTdua09NUHRHakFIUFQ2cTZfWnJlVUpXZ25sYTg5MjFZeUhrSEFXVGkzTElXUGdDbG9XLXZheGI1MjRJQ1NuLTNmMEo0cmpWNTllYUxaX2xENE8wVXRVTGdoMENMZVdKX0FDeks5NFRqWEcxWGo5QW5oWkRLU2E1Ujc4cWpEZXNhSVpQWFB5MmxMMldPc1k4dlk?oc=5"
+        },
+        {
+          "headline": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz",
+          "source": "Al Arabiya English",
+          "snippet": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz &nbsp;&nbsp; Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VpVFdzS196OTBVNVVQUDJGbXo4cmJidWtyM2ZOMkQyOElsVEVtVEk3SV8xV1NqbDRqOG5hV1pBaXh2TzBUcDdqNlhmMHFnY1ljMUhFM04zQTF6M09oWU13VlViV1Y3Y0xWUVJmQnFuWUFBRHFIY3R6ZGJ1QS1ZYzNiWHNhU0VBd2VVV2FNcEJSc1NkTS02M1ZhVVZTZlhMeXZRTlN5VGZLUUhKa2RyZ1BDdUNlOVBxanpwNjNYUdIBxAFBVV95cUxPbFNtOHBUa1dQOS1DQ1B5Vkdjd1hub3ZwRk93emk0b2ROQmNNV1R2VTNELVNjamFSOEZ1RzNOVW9PU2w2RkJSY1Bld3ZaWFdpdDkxblJNT3l2OHpWNlNxTXJwb1hVZjNERXJ6dllNdlhKNGxWcTJSR2N5NVlNUm5hZDZwTEJRMDY2RXVBT0N3VUI5SG9ha005VnlPc0FIUEFVRWY1SkhyUmwyWUlsaHNfNXI0UjloQlNBQ1RRbi1Yb25tZnha?oc=5"
+        },
+        {
+          "headline": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz",
+          "source": "شبكة تواصل الإخبارية",
+          "snippet": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz &nbsp;&nbsp; شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPM0JIbjl0Y3lZMkpPa0hSSGFRc2JfcXZQWlh6eUE5enJGaGVKTi1EbmpNZzc5UmVkalRic25tS0ZNMTZZdHgtVVZ1NGpGNW56OUFV?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "ASHARQ AL-AWSAT English",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0g0Wi1Qa24tZUxSeUcxOW1wWTdua09NUHRHakFIUFQ2cTZfWnJlVUpXZ25sYTg5MjFZeUhrSEFXVGkzTElXUGdDbG9XLXZheGI1MjRJQ1NuLTNmMEo0cmpWNTllYUxaX2xENE8wVXRVTGdoMENMZVdKX0FDeks5NFRqWEcxWGo5QW5oWkRLU2E1Ujc4cWpEZXNhSVpQWFB5MmxMMldPc1k4dlk?oc=5"
+        },
+        {
+          "name": "Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VpVFdzS196OTBVNVVQUDJGbXo4cmJidWtyM2ZOMkQyOElsVEVtVEk3SV8xV1NqbDRqOG5hV1pBaXh2TzBUcDdqNlhmMHFnY1ljMUhFM04zQTF6M09oWU13VlViV1Y3Y0xWUVJmQnFuWUFBRHFIY3R6ZGJ1QS1ZYzNiWHNhU0VBd2VVV2FNcEJSc1NkTS02M1ZhVVZTZlhMeXZRTlN5VGZLUUhKa2RyZ1BDdUNlOVBxanpwNjNYUdIBxAFBVV95cUxPbFNtOHBUa1dQOS1DQ1B5Vkdjd1hub3ZwRk93emk0b2ROQmNNV1R2VTNELVNjamFSOEZ1RzNOVW9PU2w2RkJSY1Bld3ZaWFdpdDkxblJNT3l2OHpWNlNxTXJwb1hVZjNERXJ6dllNdlhKNGxWcTJSR2N5NVlNUm5hZDZwTEJRMDY2RXVBT0N3VUI5SG9ha005VnlPc0FIUEFVRWY1SkhyUmwyWUlsaHNfNXI0UjloQlNBQ1RRbi1Yb25tZnha?oc=5"
+        },
+        {
+          "name": "شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPM0JIbjl0Y3lZMkpPa0hSSGFRc2JfcXZQWlh6eUE5enJGaGVKTi1EbmpNZzc5UmVkalRic25tS0ZNMTZZdHgtVVZ1NGpGNW56OUFV?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-14-6a8d043331bc",
+      "original_title": "이스라엘 \"이란, 트럼프 대통령·백악관 수뇌부 겨냥 드론 공격 계획\" 정보 CIA에 전달 [공부의여신 네트워크] 이스라엘 정보기관 모사드가 이란이 트럼프 대통령과 행정부 고위 인사들을 노린 드론 공격을 계획하고 있다는 정보를 미국 중앙정보국(CIA)에 넘겼다고 이스라엘 일간 이스라엘 하욤이 14일 보도했습니다. 신문은 이스라엘과 미국의 고위 소식통을 인용했으며, 미국 정부의 공식 확인은 아직",
+      "published_at": "2026-11-14T19:03:31Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "이스라엘 \"이란, 트럼프 대통령·백악관 수뇌부 겨냥 드론 공격 계획\" 정보 CIA에 전달 [공부의여신 네트워크] 이스라엘 정보기관 모사드가 이란이 트럼프 대통령과 행정부 고위 인사들을 노린 드론 공격을 계획하고 있다는 정보를 미국 중앙정보국(CIA)에 넘겼다고 이스라엘 일간 이스라엘 하욤이 14일 보도했습니다. 신문은 이스라엘과 미국의 고위 소식통을 인용했으며, 미국 정부의 공식 확인은 아직",
+          "source": "Telegram @goddessTTF",
+          "snippet": "이스라엘 \"이란, 트럼프 대통령·백악관 수뇌부 겨냥 드론 공격 계획\" 정보 CIA에 전달 [공부의여신 네트워크] 이스라엘 정보기관 모사드가 이란이 트럼프 대통령과 행정부 고위 인사들을 노린 드론 공격을 계획하고 있다는 정보를 미국 중앙정보국(CIA)에 넘겼다고 이스라엘 일간 이스라엘 하욤이 14일 보도했습니다. 신문은 이스라엘과 미국의 고위 소식통을 인용했으며, 미국 정부의 공식 확인은 아직 나오지 않았습니다. 보도에 따르면 미국 정보당국이 모사드에 해당 정보의 검증을 요청했고, 이스라엘이 이를 확인해 줬습니다. 이 정보는 또 다른 서방 정보기관도 검증했다고 신문은 전했습니다. 거론된 공격 방식 가운데 하나는 자폭 드론으로, 일반적인 요인 경호로는 막기 어려운 수단입니다. 로만 고프만 모사드 국장은 현재 미국을 방문 중이며 존 랫클리프 CIA 국장과 만났습니다. 【트럼프 대통령 야외 일정 축소, 협상 기류도 바뀌어】 이스라엘 하욤은 이 위협 때문에 트럼프 대통령의 야외 공개 행사가 크게 줄었고, 행사가 열릴 때는 강화된 경호와 함께 드론 위협을 무력화하는 특수 장비가 투입된다고 전했습니다. 소식통들은 이 정보가 최근 트럼프 대통령이 이란과의 합의 협상에서 태도를 바꾼 핵심 이유 가운데 하나라고 주장했지만, 이 부분은 확인되지 않았습니다. 앞서 폭스뉴스는 이란의 위협에 따라 스콧 베센트 재무부 장관이 조지타운 자택을 떠나 군 기지로 옮겼고, 마코 루비오 국무장관도 군 기지 관사로 거처를 옮겼으며, 피트 헤그세스 전쟁부 장관 역시 보안 군사시설에 머물고 있다고 보도했습니다. 베센트 장관은 13일 CNBC 인터뷰에서 이란으로부터 살해 위협을 받고 있다고 직접 밝혔습니다.",
+          "url": "https://t.me/goddessTTF/87091"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/87091"
         }
       ]
     },
@@ -222,6 +442,26 @@
       ]
     },
     {
+      "stable_id": "2026-11-14-7dd0fc1d1caa",
+      "original_title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "published_at": "2026-11-14T16:33:29Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-11-14-04efc492de8b",
       "original_title": "더피 장관 \"전국 이륙 중단 원인은 L3해리스 장비 교체\"…FAA 청장 \"해킹·AI 흔적 없다\" [공부의여신 네트워크] 숀 더피 교통부 장관은 14일(현지시간) 기자회견에서 전날 미 전역의 항공기 이륙을 멈춰 세운 사태의 원인을 공개했습니다. 더피 장관은 방산업체 L3해리스가 \"최소 한 곳의 원격 FAA 시설\"에서 단종된 기존 선로를 광섬유로 교체하는 작업을 하던 중, 라우터가 다른 시스템에",
       "published_at": "2026-11-14T16:32:02Z",
@@ -238,36 +478,6 @@
         {
           "name": "Telegram @goddessTTF",
           "url": "https://t.me/goddessTTF/87087"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-6bc027406592",
-      "original_title": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
-      "published_at": "2026-11-14T16:30:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
-          "source": "ASHARQ AL-AWSAT English",
-          "snippet": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz &nbsp;&nbsp; ASHARQ AL-AWSAT English",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0g0Wi1Qa24tZUxSeUcxOW1wWTdua09NUHRHakFIUFQ2cTZfWnJlVUpXZ25sYTg5MjFZeUhrSEFXVGkzTElXUGdDbG9XLXZheGI1MjRJQ1NuLTNmMEo0cmpWNTllYUxaX2xENE8wVXRVTGdoMENMZVdKX0FDeks5NFRqWEcxWGo5QW5oWkRLU2E1Ujc4cWpEZXNhSVpQWFB5MmxMMldPc1k4dlk?oc=5"
-        },
-        {
-          "headline": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz",
-          "source": "Al Arabiya English",
-          "snippet": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz &nbsp;&nbsp; Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VpVFdzS196OTBVNVVQUDJGbXo4cmJidWtyM2ZOMkQyOElsVEVtVEk3SV8xV1NqbDRqOG5hV1pBaXh2TzBUcDdqNlhmMHFnY1ljMUhFM04zQTF6M09oWU13VlViV1Y3Y0xWUVJmQnFuWUFBRHFIY3R6ZGJ1QS1ZYzNiWHNhU0VBd2VVV2FNcEJSc1NkTS02M1ZhVVZTZlhMeXZRTlN5VGZLUUhKa2RyZ1BDdUNlOVBxanpwNjNYUdIBxAFBVV95cUxPbFNtOHBUa1dQOS1DQ1B5Vkdjd1hub3ZwRk93emk0b2ROQmNNV1R2VTNELVNjamFSOEZ1RzNOVW9PU2w2RkJSY1Bld3ZaWFdpdDkxblJNT3l2OHpWNlNxTXJwb1hVZjNERXJ6dllNdlhKNGxWcTJSR2N5NVlNUm5hZDZwTEJRMDY2RXVBT0N3VUI5SG9ha005VnlPc0FIUEFVRWY1SkhyUmwyWUlsaHNfNXI0UjloQlNBQ1RRbi1Yb25tZnha?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "ASHARQ AL-AWSAT English",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0g0Wi1Qa24tZUxSeUcxOW1wWTdua09NUHRHakFIUFQ2cTZfWnJlVUpXZ25sYTg5MjFZeUhrSEFXVGkzTElXUGdDbG9XLXZheGI1MjRJQ1NuLTNmMEo0cmpWNTllYUxaX2xENE8wVXRVTGdoMENMZVdKX0FDeks5NFRqWEcxWGo5QW5oWkRLU2E1Ujc4cWpEZXNhSVpQWFB5MmxMMldPc1k4dlk?oc=5"
-        },
-        {
-          "name": "Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VpVFdzS196OTBVNVVQUDJGbXo4cmJidWtyM2ZOMkQyOElsVEVtVEk3SV8xV1NqbDRqOG5hV1pBaXh2TzBUcDdqNlhmMHFnY1ljMUhFM04zQTF6M09oWU13VlViV1Y3Y0xWUVJmQnFuWUFBRHFIY3R6ZGJ1QS1ZYzNiWHNhU0VBd2VVV2FNcEJSc1NkTS02M1ZhVVZTZlhMeXZRTlN5VGZLUUhKa2RyZ1BDdUNlOVBxanpwNjNYUdIBxAFBVV95cUxPbFNtOHBUa1dQOS1DQ1B5Vkdjd1hub3ZwRk93emk0b2ROQmNNV1R2VTNELVNjamFSOEZ1RzNOVW9PU2w2RkJSY1Bld3ZaWFdpdDkxblJNT3l2OHpWNlNxTXJwb1hVZjNERXJ6dllNdlhKNGxWcTJSR2N5NVlNUm5hZDZwTEJRMDY2RXVBT0N3VUI5SG9ha005VnlPc0FIUEFVRWY1SkhyUmwyWUlsaHNfNXI0UjloQlNBQ1RRbi1Yb25tZnha?oc=5"
         }
       ]
     },
@@ -328,6 +538,36 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9852295/US-transportation-secretary-Duffy-aviation-resumes-full-operation-after-Friday-shutdown.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-14-4e16cd5a55b3",
+      "original_title": "Fed’s Collins says gradual rate hikes best to manage economic risks By Reuters",
+      "published_at": "2026-11-14T15:51:27Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Fed’s Collins says gradual rate hikes best to manage economic risks By Reuters",
+          "source": "Investing.com",
+          "snippet": "Fed’s Collins says gradual rate hikes best to manage economic risks By Reuters &nbsp;&nbsp; Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2xyQjlEVEk2dFJOb3FtdjdyS0dpSlJaSzVzVFViOGN2ekszOUdLNjduSUR5MWx2aDNnTk9RU2VscTEtaW5QR2NMbHk5MXpEYlRzLUc5NV9HQWR5Wm9aQUtzbHJMVlE1TVVXWVlUV0RSclJ0YlNOM2h5djVtaUJIM1NTeEM2ZVVDR01rR2ZXa1Nlb1g4aTZDSFp1cDhOaDJSU2NoVDk4eWVXOXhhdWdqaDMzdy1OcjRJWGc?oc=5"
+        },
+        {
+          "headline": "Fed's Collins says gradual rate hikes best to manage economic risks",
+          "source": "Tacoma News Tribune",
+          "snippet": "Fed's Collins says gradual rate hikes best to manage economic risks &nbsp;&nbsp; Tacoma News Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFBpcnM1X3dFZXl0MnEwOVM3QmFlNEkwRWw2a3RZUUlxMmp6VE41V0Z4X0V3UGtjU2RTbUdjc2FQQkctVTlST0xYLXpTZFhiaW9KdlVRd3dVVVJ3YnFLN3RFVkhodkdVVmRheF8xVl9xV05WTjVZRV9FVjZ5YUk2Y012LW5IQQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2xyQjlEVEk2dFJOb3FtdjdyS0dpSlJaSzVzVFViOGN2ekszOUdLNjduSUR5MWx2aDNnTk9RU2VscTEtaW5QR2NMbHk5MXpEYlRzLUc5NV9HQWR5Wm9aQUtzbHJMVlE1TVVXWVlUV0RSclJ0YlNOM2h5djVtaUJIM1NTeEM2ZVVDR01rR2ZXa1Nlb1g4aTZDSFp1cDhOaDJSU2NoVDk4eWVXOXhhdWdqaDMzdy1OcjRJWGc?oc=5"
+        },
+        {
+          "name": "Tacoma News Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFBpcnM1X3dFZXl0MnEwOVM3QmFlNEkwRWw2a3RZUUlxMmp6VE41V0Z4X0V3UGtjU2RTbUdjc2FQQkctVTlST0xYLXpTZFhiaW9KdlVRd3dVVVJ3YnFLN3RFVkhodkdVVmRheF8xVl9xV05WTjVZRV9FVjZ5YUk2Y012LW5IQQ?oc=5"
         }
       ]
     },
@@ -565,9 +805,9 @@
         },
         {
           "headline": "Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin",
-          "source": "TradingView",
-          "snippet": "Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin &nbsp;&nbsp; TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa2tSYmtpOUoxX09tX2xHeWtoNUkzanRYTDdOTEFFVVpJQUY3amd2UTg5RUExYUg4dDRnRzMyN0NudUlOSThhQkU5LWhFMHdCaGd3Q1RpVnF2ajFrbkZsQlU1WVRpRzhTWF9adjhuMzdTdHRXVUtNVGIwRE0wYjNvWTBPRWF2M0dsY1ZJSUhzLXJfSEZxVnlHUkE5Q2N5WDNvRURDc24yRlZBLW1ocjhHcEo2cjBmcWpPSjhVTWFhRGo0ekNjWHpXRVN0aVVOT2pxM2QyXzlIamdiSDdnUC1EZTNB?oc=5"
+          "source": "Cryptonews.net",
+          "snippet": "Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pb1Y2QlNVbEc5dXgzejZ6UWxkLVlXeUlwT2RnQ3N4YXVmNHd4bWo3SzljVHl4WE1RMXlsaXE1bDE5bFpyeTZPeDVuWWZiblEzc0gwSk1KdnQ?oc=5"
         }
       ],
       "sources": [
@@ -576,8 +816,8 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydk80MU10aHZaRU9qQ1M2dHN3Z05hS3dLa1BVQ3pGTlY5Nm05Q1pWRXZSZ1dhSU1LWDZuWDN2U1V1cDU3REVnaGMxd3Nwd0dQMGpvcG9Vb2Z1NGVDVUkzclZYZWdxTngwOE0wVHBuNi1mNnlmcVFxajdoYTVYY1E?oc=5"
         },
         {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa2tSYmtpOUoxX09tX2xHeWtoNUkzanRYTDdOTEFFVVpJQUY3amd2UTg5RUExYUg4dDRnRzMyN0NudUlOSThhQkU5LWhFMHdCaGd3Q1RpVnF2ajFrbkZsQlU1WVRpRzhTWF9adjhuMzdTdHRXVUtNVGIwRE0wYjNvWTBPRWF2M0dsY1ZJSUhzLXJfSEZxVnlHUkE5Q2N5WDNvRURDc24yRlZBLW1ocjhHcEo2cjBmcWpPSjhVTWFhRGo0ekNjWHpXRVN0aVVOT2pxM2QyXzlIamdiSDdnUC1EZTNB?oc=5"
+          "name": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pb1Y2QlNVbEc5dXgzejZ6UWxkLVlXeUlwT2RnQ3N4YXVmNHd4bWo3SzljVHl4WE1RMXlsaXE1bDE5bFpyeTZPeDVuWWZiblEzc0gwSk1KdnQ?oc=5"
         }
       ]
     },
@@ -662,6 +902,36 @@
       ]
     },
     {
+      "stable_id": "2026-11-14-f6b30a607326",
+      "original_title": "Why Bitcoin Price Is Falling Continuously: Coinbase Reveals the True Reason",
+      "published_at": "2026-11-14T10:59:12Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Why Bitcoin Price Is Falling Continuously: Coinbase Reveals the True Reason",
+          "source": "TradingView",
+          "snippet": "Why Bitcoin Price Is Falling Continuously: Coinbase Reveals the True Reason &nbsp;&nbsp; TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTlQamVmV2ZQdlFvbDdYcWpKSkpsdTRlUWhsWVFPbmgzZ3pqVHhaTWRhc3BLZGlkT1hVWk9wZ19KMUdVbF9TbDIzVGdBTFhDWWduUWhQWXRNVi1QenFOZTJoSmp2SGkwTENBRTRVUVN4Y0hzLVBtUFgwNWNNOTFoSXVZZWdtSjBLUTlOUmhwRzEtaUllNGREWFhzVHl4bVJfN2p5bDN1Z0g1cWlXdVQ0NFZ5QXU3Z1ZMT1lIMlJud2lqU3Raa3lxX251aEVLNUE?oc=5"
+        },
+        {
+          "headline": "Why Bitcoin Price Is Falling Continuously: Coinbase Reveals the True Reason",
+          "source": "Coinpedia",
+          "snippet": "Why Bitcoin Price Is Falling Continuously: Coinbase Reveals the True Reason &nbsp;&nbsp; Coinpedia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUdGR0xQeXpYLWdTZnlab3JEYmVSYk1jWXZyS3lLNDRORi0zaEFXWFFaRGxLbnhuajNIX1BQblFyeFg1TURQdGRyVmxUd1dDU0FZQ21rYzZTelc3cTFuZWRJdXA0SGxMM21uNXVzZ3AyajFMeUNtajVUNTQxNGVjRHlGcUgtVmxJallYYTdJOHpwN3NSazNRS1ZlRy1fb21kOUVtetIBqgFBVV95cUxPZUp0eUREa08tbzBDQlA0M3ZsQUctb3V2cGNocWVyVmRsT0FBdHBWMDlTZ2llaHpPMzYxVms1aVJvX0pHWDRJZFVhdkNvb2JianI0bFBBS2Q2SmY1V1RhOWlxRDlaR3ZqU1U5WkkzdlRUSTBfdFRGN1RES1JyWVlRRU5KMnVxWGpmS1hMZjEwMFVWWE42S3VoZ0YtVmVQTVUxMzIyOU56blpUdw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTlQamVmV2ZQdlFvbDdYcWpKSkpsdTRlUWhsWVFPbmgzZ3pqVHhaTWRhc3BLZGlkT1hVWk9wZ19KMUdVbF9TbDIzVGdBTFhDWWduUWhQWXRNVi1QenFOZTJoSmp2SGkwTENBRTRVUVN4Y0hzLVBtUFgwNWNNOTFoSXVZZWdtSjBLUTlOUmhwRzEtaUllNGREWFhzVHl4bVJfN2p5bDN1Z0g1cWlXdVQ0NFZ5QXU3Z1ZMT1lIMlJud2lqU3Raa3lxX251aEVLNUE?oc=5"
+        },
+        {
+          "name": "Coinpedia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUdGR0xQeXpYLWdTZnlab3JEYmVSYk1jWXZyS3lLNDRORi0zaEFXWFFaRGxLbnhuajNIX1BQblFyeFg1TURQdGRyVmxUd1dDU0FZQ21rYzZTelc3cTFuZWRJdXA0SGxMM21uNXVzZ3AyajFMeUNtajVUNTQxNGVjRHlGcUgtVmxJallYYTdJOHpwN3NSazNRS1ZlRy1fb21kOUVtetIBqgFBVV95cUxPZUp0eUREa08tbzBDQlA0M3ZsQUctb3V2cGNocWVyVmRsT0FBdHBWMDlTZ2llaHpPMzYxVms1aVJvX0pHWDRJZFVhdkNvb2JianI0bFBBS2Q2SmY1V1RhOWlxRDlaR3ZqU1U5WkkzdlRUSTBfdFRGN1RES1JyWVlRRU5KMnVxWGpmS1hMZjEwMFVWWE42S3VoZ0YtVmVQTVUxMzIyOU56blpUdw?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-11-14-ff7e632d2670",
       "original_title": "FinancialJuice: Iran navy: oil tanker catches fire after striking naval mine in eastern Strait of Hormuz",
       "published_at": "2026-11-14T10:14:45Z",
@@ -714,7 +984,7 @@
     {
       "stable_id": "2026-11-14-0d555666b17b",
       "original_title": "3 incidents of oil tankers hit by mines in Hormuz",
-      "published_at": "2026-11-14T08:15:29Z",
+      "published_at": "2026-11-14T08:15:58Z",
       "discovery_source": "news",
       "evidence": [
         {
@@ -722,12 +992,6 @@
           "source": "Gulf Today",
           "snippet": "3 incidents of oil tankers hit by mines in Hormuz &nbsp;&nbsp; Gulf Today",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmxzWFozTVlqaDVLS1lldHlQMERYU2lLajdoNVVoX2NXYXl4QkU1WldGQXhHOHdDY2V2b0FsMXJtU2F1MHRoZ0xUaTB2R1FDYk1ianhuRWNBcGNHMDY3Yk9YSDdpME1GUngzT1RMT1RyQ0x1SWcyS2lCZUVvaFVHQlI5UzBMWUdpX2JBc3dfMWlxcDE0?oc=5"
-        },
-        {
-          "headline": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13",
-          "source": "https://houseofsaud.com/",
-          "snippet": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13 &nbsp;&nbsp; https://houseofsaud.com/",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySzYzbjEyZVhzSkpIZDJpWDR3b2J3bEFOU2dUQmVKRnVDNmRqSWZDOGFKclV4WjZPam1Sa0xYVmxPWTN0ZXRTdlNpa3NqNFpaZkpqQUdyWWFTZHJXOUJhVHAwTE0xd3EzQWFTVzRsOTlxTnR4?oc=5"
         },
         {
           "headline": "Iran Guards say two oil tankers hit by mines in Hormuz",
@@ -740,10 +1004,6 @@
         {
           "name": "Gulf Today",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmxzWFozTVlqaDVLS1lldHlQMERYU2lLajdoNVVoX2NXYXl4QkU1WldGQXhHOHdDY2V2b0FsMXJtU2F1MHRoZ0xUaTB2R1FDYk1ianhuRWNBcGNHMDY3Yk9YSDdpME1GUngzT1RMT1RyQ0x1SWcyS2lCZUVvaFVHQlI5UzBMWUdpX2JBc3dfMWlxcDE0?oc=5"
-        },
-        {
-          "name": "https://houseofsaud.com/",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySzYzbjEyZVhzSkpIZDJpWDR3b2J3bEFOU2dUQmVKRnVDNmRqSWZDOGFKclV4WjZPam1Sa0xYVmxPWTN0ZXRTdlNpa3NqNFpaZkpqQUdyWWFTZHJXOUJhVHAwTE0xd3EzQWFTVzRsOTlxTnR4?oc=5"
         },
         {
           "name": "Daily Sun",
@@ -2108,196 +2368,6 @@
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM0dOLW5BNXphenFqYU5pWHVMbHpJT0dZdTA5T05LMGxoYjcyOTRkLTVCSy1NVFVSOE9GRFJTZWREQlN4VjNOQTZsSmNqQU5PeF9oLWc2X1NxcDJ1TXRJNHoxb1hpdmYydmVWcm5VZV9OWXBpSmxjNlpFalFoLVBLdVo3a196VTFNOGZTd05nX0NORGdNZ1RWWmQ4M05LMmFpQl9Qd3hJaWpuWUZJdW9WaGw5b09Qak1TLXdMY2dOS05oenY0TU54Tl9VekljUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-13-32a1190022b3",
-      "original_title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-      "published_at": "2026-11-13T18:39:58Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-13-1b79aa7edcbb",
-      "original_title": "FinancialJuice: BofA economists add third rate hike to Fed view by March 2027.",
-      "published_at": "2026-11-13T18:08:03Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: BofA economists add third rate hike to Fed view by March 2027.",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9851385/BofA-economists-add-third-rate-hike-to-Fed-view-by-March-2027.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9851385/BofA-economists-add-third-rate-hike-to-Fed-view-by-March-2027.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-13-87bf2e4f1ad0",
-      "original_title": "FinancialJuice: Suspected Yen Intervention",
-      "published_at": "2026-11-13T18:07:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Suspected Yen Intervention",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9851386/Suspected-Yen-Intervention.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9851386/Suspected-Yen-Intervention.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-13-a23fb2a4fb5c",
-      "original_title": "FinancialJuice: US Baker Hughes Oil Rig Count Actual 463 (Forecast -, Previous 463)",
-      "published_at": "2026-11-13T18:01:40Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US Baker Hughes Oil Rig Count Actual 463 (Forecast -, Previous 463)",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9851368/US-Baker-Hughes-Oil-Rig-Count-Actual-463-Forecast---Previous-463.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9851368/US-Baker-Hughes-Oil-Rig-Count-Actual-463-Forecast---Previous-463.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-13-8f3f2c7259ae",
-      "original_title": "Canadian dollar heads for weekly decline on \"punishing\" yield spreads",
-      "published_at": "2026-11-13T17:51:44Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Canadian dollar heads for weekly decline on \"punishing\" yield spreads",
-          "source": "Reuters",
-          "snippet": "Canadian dollar heads for weekly decline on \"punishing\" yield spreads &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmc2LVk4LS1yQ1RLX00xamlZY3dZQ25GT0pxdTdfQVFHVFRBNFZpSFpMSUp4VXNhWTVjVmNzNDQ4bnNsUjVoZDJWaW03TnJwUDZMRGlTUlRQTTkxT0huRGwwT2FUb2ROV3d2Wm1xT0xLVk5MeXNEbzNMWjl0SnZNaF9ka0xwRXJQNkhRbmxJY2Z1d0luMzNfY2o4cVpDTndSeC1CNHpZSDBwYmc?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmc2LVk4LS1yQ1RLX00xamlZY3dZQ25GT0pxdTdfQVFHVFRBNFZpSFpMSUp4VXNhWTVjVmNzNDQ4bnNsUjVoZDJWaW03TnJwUDZMRGlTUlRQTTkxT0huRGwwT2FUb2ROV3d2Wm1xT0xLVk5MeXNEbzNMWjl0SnZNaF9ka0xwRXJQNkhRbmxJY2Z1d0luMzNfY2o4cVpDTndSeC1CNHpZSDBwYmc?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-13-c59cd7fec765",
-      "original_title": "Can Bipartisan SEC and CFTC Nominees Unlock US Crypto Regulation?",
-      "published_at": "2026-11-13T17:51:43Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Can Bipartisan SEC and CFTC Nominees Unlock US Crypto Regulation?",
-          "source": "Cryptonews.net",
-          "snippet": "Can Bipartisan SEC and CFTC Nominees Unlock US Crypto Regulation? &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydFNFUVk0c2VoRDJIZ1F3QnRrQ1VoeDVKcHpLRlpmRVBqRmVEREpKWThqRGtEYmlZbU15OE9XN0xNb2dMQWJVWEEyMWh4M0ZLLWkwdjVR?oc=5"
-        },
-        {
-          "headline": "US Crypto Regulation Nominees Named for SEC and CFTC",
-          "source": "The Cryptonomist",
-          "snippet": "US Crypto Regulation Nominees Named for SEC and CFTC &nbsp;&nbsp; The Cryptonomist",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pMzY2WEhLQ1FPVHk1UzZXTDNPTG0xaGE0ZFh2RjdhZ1FxeWV4UUxJeUh1TEcyOWlIOEo0UUUwRmlsdnZBWmxKWU1IUldTQTRKN1ZMeVJTZnplaVl4aEVlMy13Ym9leDJ1cDZvLUgyU3U0QVNSZHhV?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydFNFUVk0c2VoRDJIZ1F3QnRrQ1VoeDVKcHpLRlpmRVBqRmVEREpKWThqRGtEYmlZbU15OE9XN0xNb2dMQWJVWEEyMWh4M0ZLLWkwdjVR?oc=5"
-        },
-        {
-          "name": "The Cryptonomist",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pMzY2WEhLQ1FPVHk1UzZXTDNPTG0xaGE0ZFh2RjdhZ1FxeWV4UUxJeUh1TEcyOWlIOEo0UUUwRmlsdnZBWmxKWU1IUldTQTRKN1ZMeVJTZnplaVl4aEVlMy13Ym9leDJ1cDZvLUgyU3U0QVNSZHhV?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-13-d4cbf8a9e84d",
-      "original_title": "US producer prices rise moderately in October, but inflation broadens out",
-      "published_at": "2026-11-13T17:46:45Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "US producer prices rise moderately in October, but inflation broadens out",
-          "source": "Reuters",
-          "snippet": "US producer prices rise moderately in October, but inflation broadens out &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-13-305aeeab7e89",
-      "original_title": "Logan says Treasury market functioning 'very well,' Fed needs to strengthen support tools",
-      "published_at": "2026-11-13T17:16:35Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Logan says Treasury market functioning 'very well,' Fed needs to strengthen support tools",
-          "source": "Reuters",
-          "snippet": "Logan says Treasury market functioning 'very well,' Fed needs to strengthen support tools &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZmZBTTBhYXpVY29JS2dYc0s4MVZzQVN4NUJXX2dRUjUyMVM2OFA4cWNKT0h4bkliZ2tjTkhaRkhSeElYenlOVUVkeGNiWXlYaVQ3QXZ2TTY0WXBXTGppZ2Q0V0VlSVRPZGd4eFJNdVE0WjV4OHk3U0JBcV9BLUdIS1VPZ0xtVUhUd3A4WHB6Nlp0cjE4WjhzNGRlQjhqVElCSVlYcC1WR0N2Ri1keTFSM19PRnFSdlBVV1JteHB1UDJ4Z0FWSi1LeG5n?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZmZBTTBhYXpVY29JS2dYc0s4MVZzQVN4NUJXX2dRUjUyMVM2OFA4cWNKT0h4bkliZ2tjTkhaRkhSeElYenlOVUVkeGNiWXlYaVQ3QXZ2TTY0WXBXTGppZ2Q0V0VlSVRPZGd4eFJNdVE0WjV4OHk3U0JBcV9BLUdIS1VPZ0xtVUhUd3A4WHB6Nlp0cjE4WjhzNGRlQjhqVElCSVlYcC1WR0N2Ri1keTFSM19PRnFSdlBVV1JteHB1UDJ4Z0FWSi1LeG5n?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-13-6d251e71503b",
-      "original_title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "published_at": "2026-11-13T17:05:43Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations"
         }
       ]
     }
