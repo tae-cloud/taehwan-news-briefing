@@ -1,6 +1,896 @@
 {
-  "updated_at_kst": "2026-11-16T11:02:12+09:00",
+  "updated_at_kst": "2026-11-16T18:38:52+09:00",
   "items": [
+    {
+      "stable_id": "2026-11-16-eca0a7ea76d3",
+      "original_title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
+      "published_at": "2026-11-16T09:34:18Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-0b8e39d92149",
+      "original_title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+      "published_at": "2026-11-16T09:23:07Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-e8a2feff6776",
+      "original_title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+      "published_at": "2026-11-16T08:50:11Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+          "source": "Profit by Pakistan Today",
+          "snippet": "Iran's navy says three tankers on fire after hitting mines in Hormuz &nbsp;&nbsp; Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmQyd2pqZC1KcHRYLTBGbV9QVEs1OXRUVjR2TW51U0Q1LUVWUjU2UnlqeUFCWkJBQ195UHR6VFBCRVcxTTFhajBEQVRDREEtWTZPdDN3dGpXQjV2ck9Ed1dGOTZQY3paeGhDYUEwWFZ3WXphakVoX0VDM2dOZ2h2bm5uYUNzcU55TzhlakFIMnJ1dUJjeDRWaUpaT2E5bDI1MENndnF3aUE5QkxDYzFCdVRiR3k?oc=5"
+        },
+        {
+          "headline": "Iran’s navy says oil tanker on fire after hitting mine east of Hormuz",
+          "source": "Arab News",
+          "snippet": "Iran’s navy says oil tanker on fire after hitting mine east of Hormuz &nbsp;&nbsp; Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1ZIV1JpUk1VTDFwek9vXzBNM0NaMXlXLWR2WkUyZ25rMmg2anNmeXZqU0NEcm9LQ0ctRlgtNTRfV3RhMG9SNlRpeGU3UFNubl9tcGVrSXFvYUlvbGlwLXlrSVZ6UjAtc3YtQTFzQTExanF2UkxrTXJnOVA3TFllMGRiLWo2a2lOQnNMdWUzdHBuNW9FRTcyRXF3c3YwWkI3WTZuTUg3UmZQV0FlTE1uS3hWVQ?oc=5"
+        },
+        {
+          "headline": "Two tankers on fire after hitting naval mines in the Strait of Hormuz, Iran’s IRGC says",
+          "source": "Arab News PK",
+          "snippet": "Two tankers on fire after hitting naval mines in the Strait of Hormuz, Iran’s IRGC says &nbsp;&nbsp; Arab News PK",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ2RtOTVkdjRKV1hKWFU2eGRwUTNWdUNzTjhYVUw4aDNDREx5aGZWWFNKbkNyOUlqRWZpQndLdjBLS3ZrVnBTUllZWHZHdjhBNEhZbVFiRE1idjBjQ3ByMlZqblhTZEFRSGgxRDIycGFvY05HZGRNbHVXRTg0MGNrZU5VWXJkZXptX2hUSGhxUkxETWE0VTlpbzB4dnRzcGEyenBxWmx0b2xacHJyOFFVU1Y4Y2U5RzMwNDQ3dG5hQXFoN0htdUxoWg?oc=5"
+        },
+        {
+          "headline": "Two tankers on fire after hitting naval mines in the Strait of Hormuz, Iran’s IRGC says",
+          "source": "Al Arabiya English",
+          "snippet": "Two tankers on fire after hitting naval mines in the Strait of Hormuz, Iran’s IRGC says &nbsp;&nbsp; Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX1JhOVRMdFVEN3ZLRUkwZ09aTnNNYjRhbEZjU29yUko1SHk3bnkyVXFObFk0TjYxaDRUUWZlWjJCNUpQNEZLRU1PNG5yR1FNaGFZeFM0dlJDclBzbDhsMzVPTnQ0ZXhoazJUbnNodmhfeFJmOHhsY0tDcUh3OFRBRUNUOVlfRjNLQ29XU0tiampLMFhsQkMzVjVuSzRDc2gwSkNGSWhabFBkMEFuMFhlc1l3ZHNhWUYyejVPa1h4MDRyN0s5Z2FlZjV2NDBrcXQxRWJxQWxoalp1M0VE0gHiAUFVX3lxTE1LUlp6MHAxaGp6Q1d0dDhLY1c5Wk4xaEhuUTlsaXprYWJ5VXB4b3k2UmRQejNlTmV6eFBJZnYyNExkWlA1akJZaXNWTldTcVdGTzZGc0lUbF9LLU11SjNELU1TRWxBTHYyZS1rUTRYZURNYWtxVEtoTzV4MkpLVG9VSXVUS3RYdWotSS1ITU9nWGU4YmREWkx4SEdYYnlXa09lZHQyQlFUS2N3aS1UMmpsbjVQd0RPNmw4TGpKYVFxRmlHdDVPbElLWkZVNVpWVTJyWFZkWEw1NlNwU0kta0U1M2c?oc=5"
+        },
+        {
+          "headline": "Three oil tankers on fire after hitting mines in Hormuz",
+          "source": "Illawarra Mercury",
+          "snippet": "Three oil tankers on fire after hitting mines in Hormuz &nbsp;&nbsp; Illawarra Mercury",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZl9ZYk5nME80VkFMUXNmbDJweWN0dEZCUGtCSy1xWTFPalpzUlUtNmRmM2RUd19JYmoyX3RweGRiSnVsZGR4eU4wRkFqY3lyOTFGUGdsMUk5S1RGMm1iMTM1ZmlJWjQ3MmNRVDdZMzU0NE1DLW9PY1VIbldoWG9fVkpmdUNxanhLZ3ZlaHZsendza3JmeHFpS3k4a0Nfcm9QUjhpYzMyQTRPZw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmQyd2pqZC1KcHRYLTBGbV9QVEs1OXRUVjR2TW51U0Q1LUVWUjU2UnlqeUFCWkJBQ195UHR6VFBCRVcxTTFhajBEQVRDREEtWTZPdDN3dGpXQjV2ck9Ed1dGOTZQY3paeGhDYUEwWFZ3WXphakVoX0VDM2dOZ2h2bm5uYUNzcU55TzhlakFIMnJ1dUJjeDRWaUpaT2E5bDI1MENndnF3aUE5QkxDYzFCdVRiR3k?oc=5"
+        },
+        {
+          "name": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1ZIV1JpUk1VTDFwek9vXzBNM0NaMXlXLWR2WkUyZ25rMmg2anNmeXZqU0NEcm9LQ0ctRlgtNTRfV3RhMG9SNlRpeGU3UFNubl9tcGVrSXFvYUlvbGlwLXlrSVZ6UjAtc3YtQTFzQTExanF2UkxrTXJnOVA3TFllMGRiLWo2a2lOQnNMdWUzdHBuNW9FRTcyRXF3c3YwWkI3WTZuTUg3UmZQV0FlTE1uS3hWVQ?oc=5"
+        },
+        {
+          "name": "Arab News PK",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ2RtOTVkdjRKV1hKWFU2eGRwUTNWdUNzTjhYVUw4aDNDREx5aGZWWFNKbkNyOUlqRWZpQndLdjBLS3ZrVnBTUllZWHZHdjhBNEhZbVFiRE1idjBjQ3ByMlZqblhTZEFRSGgxRDIycGFvY05HZGRNbHVXRTg0MGNrZU5VWXJkZXptX2hUSGhxUkxETWE0VTlpbzB4dnRzcGEyenBxWmx0b2xacHJyOFFVU1Y4Y2U5RzMwNDQ3dG5hQXFoN0htdUxoWg?oc=5"
+        },
+        {
+          "name": "Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX1JhOVRMdFVEN3ZLRUkwZ09aTnNNYjRhbEZjU29yUko1SHk3bnkyVXFObFk0TjYxaDRUUWZlWjJCNUpQNEZLRU1PNG5yR1FNaGFZeFM0dlJDclBzbDhsMzVPTnQ0ZXhoazJUbnNodmhfeFJmOHhsY0tDcUh3OFRBRUNUOVlfRjNLQ29XU0tiampLMFhsQkMzVjVuSzRDc2gwSkNGSWhabFBkMEFuMFhlc1l3ZHNhWUYyejVPa1h4MDRyN0s5Z2FlZjV2NDBrcXQxRWJxQWxoalp1M0VE0gHiAUFVX3lxTE1LUlp6MHAxaGp6Q1d0dDhLY1c5Wk4xaEhuUTlsaXprYWJ5VXB4b3k2UmRQejNlTmV6eFBJZnYyNExkWlA1akJZaXNWTldTcVdGTzZGc0lUbF9LLU11SjNELU1TRWxBTHYyZS1rUTRYZURNYWtxVEtoTzV4MkpLVG9VSXVUS3RYdWotSS1ITU9nWGU4YmREWkx4SEdYYnlXa09lZHQyQlFUS2N3aS1UMmpsbjVQd0RPNmw4TGpKYVFxRmlHdDVPbElLWkZVNVpWVTJyWFZkWEw1NlNwU0kta0U1M2c?oc=5"
+        },
+        {
+          "name": "Illawarra Mercury",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZl9ZYk5nME80VkFMUXNmbDJweWN0dEZCUGtCSy1xWTFPalpzUlUtNmRmM2RUd19JYmoyX3RweGRiSnVsZGR4eU4wRkFqY3lyOTFGUGdsMUk5S1RGMm1iMTM1ZmlJWjQ3MmNRVDdZMzU0NE1DLW9PY1VIbldoWG9fVkpmdUNxanhLZ3ZlaHZsendza3JmeHFpS3k4a0Nfcm9QUjhpYzMyQTRPZw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-477b9532921e",
+      "original_title": "Gulf stocks dip as Bahrain attacks, Hormuz security concerns weigh",
+      "published_at": "2026-11-16T08:49:43Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Gulf stocks dip as Bahrain attacks, Hormuz security concerns weigh",
+          "source": "Reuters",
+          "snippet": "Gulf stocks dip as Bahrain attacks, Hormuz security concerns weigh &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXF3RVZscExSM0xvU2F3MjF0YUNaRHRLZ0xGTXRWSWt6VFZZVENMZGwyOENsTFNkNHEzeE1scDhCaGtTOFJBNXRjT0FVUGhHcWo5SDFYU0Zoc0prTFY5TnllakZmLTlUS0I5RXF6VkM3Q0c2SDB0Q3dJb1UxMldxZ1h6bU96eHR6dm5WalhYaHNJa3NqR3JXMHY2UlR0VER0bUxvT09sczJuaURZQjZXbWtILXJwckU?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXF3RVZscExSM0xvU2F3MjF0YUNaRHRLZ0xGTXRWSWt6VFZZVENMZGwyOENsTFNkNHEzeE1scDhCaGtTOFJBNXRjT0FVUGhHcWo5SDFYU0Zoc0prTFY5TnllakZmLTlUS0I5RXF6VkM3Q0c2SDB0Q3dJb1UxMldxZ1h6bU96eHR6dm5WalhYaHNJa3NqR3JXMHY2UlR0VER0bUxvT09sczJuaURZQjZXbWtILXJwckU?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-c3be30a4781b",
+      "original_title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+      "published_at": "2026-11-16T08:46:00Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "JPMorgan and DBS let clients move dollars across borders on weekends",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-1595a3271761",
+      "original_title": "FinancialJuice: ECB's Vujcic: Weaker confidence and rising borrowing costs should partially contain excess inflation by weighing on growth",
+      "published_at": "2026-11-16T08:32:22Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: ECB's Vujcic: Weaker confidence and rising borrowing costs should partially contain excess inflation by weighing on growth",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853508/ECBs-Vujcic-Weaker-confidence-and-rising-borrowing-costs-should-partially-contain-excess-inflation-by-weighing-on-growth.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853508/ECBs-Vujcic-Weaker-confidence-and-rising-borrowing-costs-should-partially-contain-excess-inflation-by-weighing-on-growth.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-761e04d7117e",
+      "original_title": "FinancialJuice: ECB's Vujcic: Recent energy price developments may push inflation higher",
+      "published_at": "2026-11-16T08:32:00Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: ECB's Vujcic: Recent energy price developments may push inflation higher",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853506/ECBs-Vujcic-Recent-energy-price-developments-may-push-inflation-higher.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853506/ECBs-Vujcic-Recent-energy-price-developments-may-push-inflation-higher.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-4399071176b8",
+      "original_title": "FinancialJuice: ECB's Vujcic: Wages not showing material response to inflation",
+      "published_at": "2026-11-16T08:31:48Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: ECB's Vujcic: Wages not showing material response to inflation",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853505/ECBs-Vujcic-Wages-not-showing-material-response-to-inflation.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853505/ECBs-Vujcic-Wages-not-showing-material-response-to-inflation.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-b8d92c7f9037",
+      "original_title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+      "published_at": "2026-11-16T07:51:15Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-e5630508a6da",
+      "original_title": "Bitcoin and the Dollar Meet Their 200-Week Averages From Opposite Sides",
+      "published_at": "2026-11-16T07:36:04Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin and the Dollar Meet Their 200-Week Averages From Opposite Sides",
+          "source": "CryptoRank",
+          "snippet": "Bitcoin and the Dollar Meet Their 200-Week Averages From Opposite Sides &nbsp;&nbsp; CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPek9Hdy1mbktRRER5NmZNOFh3aXlkd1VVU0l1RWEwTE5obkVObUtSRWdlam1YVWFJVk16MGpFSGpCM0R2WWYxNEZORzVoMFlXRDF2UUxYNEhkcnRHb1lWc2xtUWZMN3NGY3NRQ3U5RkVVLWJSMU5mbGtDazg0UTNyOThR?oc=5"
+        },
+        {
+          "headline": "Bitcoin and the Dollar Meet Their 200-Week Averages From Opposite Sides",
+          "source": "BeInCrypto",
+          "snippet": "Bitcoin and the Dollar Meet Their 200-Week Averages From Opposite Sides &nbsp;&nbsp; BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pc2VvTFVhNlZGenJkODhQYWREZk5DNld6ejVrZDYxMVRoMkY1ZlNlcG41ZU5zS1RiSy1XUEo1LTdiNHBDNlZuZHpaVlhjR0RlckR2MHJhcXBGS3Y3SG9aSXdMdkViUXVBNVZCOGQtaw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPek9Hdy1mbktRRER5NmZNOFh3aXlkd1VVU0l1RWEwTE5obkVObUtSRWdlam1YVWFJVk16MGpFSGpCM0R2WWYxNEZORzVoMFlXRDF2UUxYNEhkcnRHb1lWc2xtUWZMN3NGY3NRQ3U5RkVVLWJSMU5mbGtDazg0UTNyOThR?oc=5"
+        },
+        {
+          "name": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pc2VvTFVhNlZGenJkODhQYWREZk5DNld6ejVrZDYxMVRoMkY1ZlNlcG41ZU5zS1RiSy1XUEo1LTdiNHBDNlZuZHpaVlhjR0RlckR2MHJhcXBGS3Y3SG9aSXdMdkViUXVBNVZCOGQtaw?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-ff5dca3be059",
+      "original_title": "China Turns to Iraqi Oil as U.S. Blockade Chokes Iranian Supply",
+      "published_at": "2026-11-16T07:30:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "China Turns to Iraqi Oil as U.S. Blockade Chokes Iranian Supply",
+          "source": "Crude Oil Prices Today | OilPrice.com",
+          "snippet": "China Turns to Iraqi Oil as U.S. Blockade Chokes Iranian Supply &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQjluRVhXV3hBVlMyVl9pSG5fdFBoMTlmcTd1ckpsMG52YUw3MTdlaFpVWU1aaVFpZjVlYTVaelNTWUJRYThfamVuSUI1UHgyY184M0N3WGZ4aVFUQWg4TG1jTXF5QkgzR1VyZEdtMnZGSEd3VnZQcmFseG5jLUZoZ21pWklGd0NFd3hkYnFsellITFlJZG9mZTBUaHp0NFhLaVRUWFlCWGJjNVc4NVNSUzhyOUpQeVpUVTlNYTNn0gG-AUFVX3lxTE9COW5FWFdXeEFWUzJWX2lIbl90UGgxOWZxN3VySmwwbnZhTDcxN2VoWlVZTVppUWlmNWVhNVp6U1NZQlFhOF9qZW5JQjVQeDJjXzgzQ3dYZnhpUVRBaDhMbWNNcXlCSDNHVXJkR20ydkZIR3dWdlByYWx4bmMtRmhnbWlaSUZ3Q0V3eGRicWx6WUhMWUlkb2ZlMFRoenQ0WEtpVFRYWUJYYmM1Vzg1U1JTOHI5SlB5WlRVOU1hM2c?oc=5"
+        },
+        {
+          "headline": "China Turns to Iraqi Oil as US Blockade Disrupts Iranian Supplies",
+          "source": "Arab Times Kuwait News",
+          "snippet": "China Turns to Iraqi Oil as US Blockade Disrupts Iranian Supplies &nbsp;&nbsp; Arab Times Kuwait News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0NEa3BkSnpjcVRtNDdJY1dvc2RMVElNcXkzMFI4VkNBd2dONHhaTFZCRUl0eXR2RTB3OXdoWHZsQ29vVjZGUFVDYWhaZ0xYak1XM24zNTdCZl8tNXhvZmt0c2tMOU5rRVJTZE9USnBiM1FzWUo2WlJaRTk4Qm00UHZXOU5lM0VueUkzYTBfd1Z3RndFUURHLTV6T0FZSklPR2RVRjFB?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Crude Oil Prices Today | OilPrice.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQjluRVhXV3hBVlMyVl9pSG5fdFBoMTlmcTd1ckpsMG52YUw3MTdlaFpVWU1aaVFpZjVlYTVaelNTWUJRYThfamVuSUI1UHgyY184M0N3WGZ4aVFUQWg4TG1jTXF5QkgzR1VyZEdtMnZGSEd3VnZQcmFseG5jLUZoZ21pWklGd0NFd3hkYnFsellITFlJZG9mZTBUaHp0NFhLaVRUWFlCWGJjNVc4NVNSUzhyOUpQeVpUVTlNYTNn0gG-AUFVX3lxTE9COW5FWFdXeEFWUzJWX2lIbl90UGgxOWZxN3VySmwwbnZhTDcxN2VoWlVZTVppUWlmNWVhNVp6U1NZQlFhOF9qZW5JQjVQeDJjXzgzQ3dYZnhpUVRBaDhMbWNNcXlCSDNHVXJkR20ydkZIR3dWdlByYWx4bmMtRmhnbWlaSUZ3Q0V3eGRicWx6WUhMWUlkb2ZlMFRoenQ0WEtpVFRYWUJYYmM1Vzg1U1JTOHI5SlB5WlRVOU1hM2c?oc=5"
+        },
+        {
+          "name": "Arab Times Kuwait News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0NEa3BkSnpjcVRtNDdJY1dvc2RMVElNcXkzMFI4VkNBd2dONHhaTFZCRUl0eXR2RTB3OXdoWHZsQ29vVjZGUFVDYWhaZ0xYak1XM24zNTdCZl8tNXhvZmt0c2tMOU5rRVJTZE9USnBiM1FzWUo2WlJaRTk4Qm00UHZXOU5lM0VueUkzYTBfd1Z3RndFUURHLTV6T0FZSklPR2RVRjFB?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-91644a87f956",
+      "original_title": "FinancialJuice: UKMTO gets report of vessel struck by projectile in Hormuz",
+      "published_at": "2026-11-16T07:14:03Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: UKMTO gets report of vessel struck by projectile in Hormuz",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853405/UKMTO-gets-report-of-vessel-struck-by-projectile-in-Hormuz.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853405/UKMTO-gets-report-of-vessel-struck-by-projectile-in-Hormuz.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-baa5f22af8dd",
+      "original_title": "Above 103.50: United States Dollar Index retains gains on hawkish Fed remarks",
+      "published_at": "2026-11-16T06:59:14Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Above 103.50: United States Dollar Index retains gains on hawkish Fed remarks",
+          "source": "www.tmgm.com",
+          "snippet": "Above 103.50: United States Dollar Index retains gains on hawkish Fed remarks &nbsp;&nbsp; www.tmgm.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDhfWjg2WmJLUE10b0xmZUJUZjN1SFVIUTNEemRlN1lVWm9pWWNZMU5YRTJiWVNpTWZDWEdRM0NKdFVFelZXOEJBMEdLZ3JuclNCZkxWUm9WS1JxbHNqc3ZUT3RDUF9FRGwwaGpPRjZJRlF3dFliYkctU3ZZQ0YwLTVsaHVpQXFzSjdCVkxaYi1EVHBQa2dYclZXRXc4aTFGc3d3SW9Ub2NSUXhWcEdIc0RtUXNMMExLRF80alRhbVFsS0NTSVBfVm9kaWdLTUlPYkFfclZaU2k?oc=5"
+        },
+        {
+          "headline": "United States Dollar Index holds gains above 103.50 on hawkish Fed comments | FXStreet",
+          "source": "شبكة تواصل الإخبارية",
+          "snippet": "United States Dollar Index holds gains above 103.50 on hawkish Fed comments | FXStreet &nbsp;&nbsp; شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkOXFrUXNjc00xTFl4d3FUdFZhU2dfb3FTZkhJOU9MUDN4M1BFNkdsWXRocXNXZkJScF9UUWNrZTczUnZGbGRVYnllakxaQTVwbS04?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "www.tmgm.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDhfWjg2WmJLUE10b0xmZUJUZjN1SFVIUTNEemRlN1lVWm9pWWNZMU5YRTJiWVNpTWZDWEdRM0NKdFVFelZXOEJBMEdLZ3JuclNCZkxWUm9WS1JxbHNqc3ZUT3RDUF9FRGwwaGpPRjZJRlF3dFliYkctU3ZZQ0YwLTVsaHVpQXFzSjdCVkxaYi1EVHBQa2dYclZXRXc4aTFGc3d3SW9Ub2NSUXhWcEdIc0RtUXNMMExLRF80alRhbVFsS0NTSVBfVm9kaWdLTUlPYkFfclZaU2k?oc=5"
+        },
+        {
+          "name": "شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkOXFrUXNjc00xTFl4d3FUdFZhU2dfb3FTZkhJOU9MUDN4M1BFNkdsWXRocXNXZkJScF9UUWNrZTczUnZGbGRVYnllakxaQTVwbS04?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-e46d1937e233",
+      "original_title": "Oil tanker on fire in Strait of Hormuz due to naval mine, Iran’s army says",
+      "published_at": "2026-11-16T06:46:00Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "Oil tanker on fire in Strait of Hormuz due to naval mine, Iran’s army says",
+          "source": "Al Arabiya English",
+          "snippet": "Oil tanker on fire in Strait of Hormuz due to naval mine, Iran’s army says &nbsp;&nbsp; Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPazN4MlROWnV2V1dPUy1QTkdLYTRyLUVUb2dCcXRtZEhISVV3aUlxTW10MVFfUl8wNHFIVzhpRkNFLTAzZk5mdGxsWGFfTTNXNTN5R0h6YVF3WXAzUEptY3hHcmtHb01TRG52S2ZHRnZoYjhKRGVpVDlIMmpiQnJ5QVZvbW03MHFqbXFSa0VES2ZCMDQ0blROYzQ1Z3Z2aGlqSzhRX2doM2NlOHltOUU1eWE5ZDE1VXpLT0hqT3Q0cTdXME9rMklnMXB1MlBRcWVX0gHQAUFVX3lxTE9rM3gyVE5adXZXV09TLVBOR0thNHItRVRvZ0JxdG1kSEhJVXdpSXFNbXQxUV9SXzA0cUhXOGlGQ0UtMDNmTmZ0bGxYYV9NM1c1M3lHSHphUXdZcDNQSm1jeEdya0dvTVNEbnZLZkdGdmhiOEpEZWlUOUgyamJCcnlBVm9tbTcwcWptcVJrRURLZkIwNDRuVE5jNDVndnZoaWpLOFFfZ2gzY2U4eW05RTV5YTlkMTVVektPSGpPdDRxN1cwT2sySWcxcHUyUFFxZVc?oc=5"
+        },
+        {
+          "headline": "FinancialJuice: Iran's army: oil tanker ignites after striking naval mine in eastern Strait of Hormuz",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853365/Irans-army-oil-tanker-ignites-after-striking-naval-mine-in-eastern-Strait-of-Hormuz---state-media.aspx?xy=rss"
+        },
+        {
+          "headline": "Iran’s navy says oil tanker struck mine and caught fire east of Strait of Hormuz",
+          "source": "The Express Tribune",
+          "snippet": "Iran’s navy says oil tanker struck mine and caught fire east of Strait of Hormuz &nbsp;&nbsp; The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFptbXc2SDRpRmtaWG92MUNveE90SS1zY1dteU9aMENRcWdESlFMTnR4LUpfUHNLNVV2Y0RDRkVySGJMSUxXanFXSjZQTmhoelMteWpiVmdvU0FwNnp0cjJEZzVuczhqcmxoTm0yWF80YS1reFA4ZlBMT1BWVzc0SWZhNS1ZOWM0T2JTaTJ2aG5sSTB3V0I1WFdyMnhkd0hCekFULWpRSzNDSUo4U0JDVC1nbnNLTWPSAb8BQVVfeXFMTTB6bkxFUlJ3Q2JRR2M4RlI3UzBUZDFHdk9QMEtSbE52OG5WVExFWjZOOGpSVjhXYXM2Q0o0enRpRmxKSDNFSzhTR2FUSWFYMGJERmdzWFhiX0Y1LUVaRUQ0UUdoN293djFSQUIzTmFoT01mY1lva25mUDExMTJ6SV9BSXlZNms0Vk1WLXJ6aUJvbUhDNHVPd043Nm5IZks0VkFkZGF4UkRncDNabWZXZGRtUWpvTHpXR3ZIalRqU28?oc=5"
+        },
+        {
+          "headline": "Oil tanker catches fire after hitting naval mine in Hormuz, says Iranian Navy",
+          "source": "ANI News",
+          "snippet": "Oil tanker catches fire after hitting naval mine in Hormuz, says Iranian Navy &nbsp;&nbsp; ANI News",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU1dNRnV6ZjVkcFNnRDBHUVFBanNuZ1Zfb3ZvT0ozNm0tNzNKZFlHZDR5YTF2X0QyaXVkNWJGaWxtV2pyQU9WcVhHVFpha1hfT0thd0JIbDFmNGcyeC1zb3FMNVVQM05PTGhWQWlZWkh2RU4zZnNpSnYycGFoYTBCRVhveWJ3NjRJc2YzYmdVY2lsTkJfRUVPaXpkQ3prcUlnMFhJSVVKRHk1Q1RLNkdkZ0hNSlQ1T2dPdkRKTGVITms3LURfVDNEZnFfNTlDeGdxVXc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPazN4MlROWnV2V1dPUy1QTkdLYTRyLUVUb2dCcXRtZEhISVV3aUlxTW10MVFfUl8wNHFIVzhpRkNFLTAzZk5mdGxsWGFfTTNXNTN5R0h6YVF3WXAzUEptY3hHcmtHb01TRG52S2ZHRnZoYjhKRGVpVDlIMmpiQnJ5QVZvbW03MHFqbXFSa0VES2ZCMDQ0blROYzQ1Z3Z2aGlqSzhRX2doM2NlOHltOUU1eWE5ZDE1VXpLT0hqT3Q0cTdXME9rMklnMXB1MlBRcWVX0gHQAUFVX3lxTE9rM3gyVE5adXZXV09TLVBOR0thNHItRVRvZ0JxdG1kSEhJVXdpSXFNbXQxUV9SXzA0cUhXOGlGQ0UtMDNmTmZ0bGxYYV9NM1c1M3lHSHphUXdZcDNQSm1jeEdya0dvTVNEbnZLZkdGdmhiOEpEZWlUOUgyamJCcnlBVm9tbTcwcWptcVJrRURLZkIwNDRuVE5jNDVndnZoaWpLOFFfZ2gzY2U4eW05RTV5YTlkMTVVektPSGpPdDRxN1cwT2sySWcxcHUyUFFxZVc?oc=5"
+        },
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853365/Irans-army-oil-tanker-ignites-after-striking-naval-mine-in-eastern-Strait-of-Hormuz---state-media.aspx?xy=rss"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFptbXc2SDRpRmtaWG92MUNveE90SS1zY1dteU9aMENRcWdESlFMTnR4LUpfUHNLNVV2Y0RDRkVySGJMSUxXanFXSjZQTmhoelMteWpiVmdvU0FwNnp0cjJEZzVuczhqcmxoTm0yWF80YS1reFA4ZlBMT1BWVzc0SWZhNS1ZOWM0T2JTaTJ2aG5sSTB3V0I1WFdyMnhkd0hCekFULWpRSzNDSUo4U0JDVC1nbnNLTWPSAb8BQVVfeXFMTTB6bkxFUlJ3Q2JRR2M4RlI3UzBUZDFHdk9QMEtSbE52OG5WVExFWjZOOGpSVjhXYXM2Q0o0enRpRmxKSDNFSzhTR2FUSWFYMGJERmdzWFhiX0Y1LUVaRUQ0UUdoN293djFSQUIzTmFoT01mY1lva25mUDExMTJ6SV9BSXlZNms0Vk1WLXJ6aUJvbUhDNHVPd043Nm5IZks0VkFkZGF4UkRncDNabWZXZGRtUWpvTHpXR3ZIalRqU28?oc=5"
+        },
+        {
+          "name": "ANI News",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU1dNRnV6ZjVkcFNnRDBHUVFBanNuZ1Zfb3ZvT0ozNm0tNzNKZFlHZDR5YTF2X0QyaXVkNWJGaWxtV2pyQU9WcVhHVFpha1hfT0thd0JIbDFmNGcyeC1zb3FMNVVQM05PTGhWQWlZWkh2RU4zZnNpSnYycGFoYTBCRVhveWJ3NjRJc2YzYmdVY2lsTkJfRUVPaXpkQ3prcUlnMFhJSVVKRHk1Q1RLNkdkZ0hNSlQ1T2dPdkRKTGVITms3LURfVDNEZnFfNTlDeGdxVXc?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-ebe873ad3b4a",
+      "original_title": "South African rand slips as stronger dollar weighs",
+      "published_at": "2026-11-16T06:46:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "South African rand slips as stronger dollar weighs",
+          "source": "Reuters",
+          "snippet": "South African rand slips as stronger dollar weighs &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0hGX3hZdGJDMzhZYmpIbXp6LWtmaTlyWjFtV0I3aVVMSUkyeVkxRmdYTzE2QVZsRW5qQV80aS1qQ2pVMGZ2dzdaX0Fxa2k4b1pNV1NlS2VOSkhidThwUl9LZ1ZJQXA2RkxaeWlaWlh5OGlXTGZ2a3hyYXgxZHYxV0VEbFdQcmhmNlZqSkxTZ1VEbDd0UWk2V1BlOV8?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0hGX3hZdGJDMzhZYmpIbXp6LWtmaTlyWjFtV0I3aVVMSUkyeVkxRmdYTzE2QVZsRW5qQV80aS1qQ2pVMGZ2dzdaX0Fxa2k4b1pNV1NlS2VOSkhidThwUl9LZ1ZJQXA2RkxaeWlaWlh5OGlXTGZ2a3hyYXgxZHYxV0VEbFdQcmhmNlZqSkxTZ1VEbDd0UWk2V1BlOV8?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-6e8ccb6181db",
+      "original_title": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus",
+      "published_at": "2026-11-16T06:31:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus",
+          "source": "Bloomberg.com",
+          "snippet": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTlsTGpib2E2Sm9JYXBzRlBxWTZNbGFEWHhjaHk3MG5ab1VybmtNNlAyaWtWYnFranRoZFRWNmY1clprM3lzeXJETGtTRW5oeldDa0NqdFJrWF9SZWkwUUZnSnNoVXJBcTk3ZmVNODB6Z21ZMVJLejZPSjI5S0pybXByY1hJNGEtWm5mNmVqZlJzVGxrblBCdVBiQVFNQQ?oc=5"
+        },
+        {
+          "headline": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus",
+          "source": "Yahoo! Finance Canada",
+          "snippet": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus &nbsp;&nbsp; Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSzBNeVRyU3ZlVTlyb3RXQ0pRWW5XY0lpNEt6Z2IxdTNkREktTEhHSkxwWE5fNnE3NlVyUXNFWEJ5Y1hEVXVaTmkyWFloNkN0UFRVSS1JUktoeHROM3VpbWVpOEpJb3AzUmN0TWQ5UmMxQVl3T29idDBfN2R4Z0trNGhzT2xfaFViQ0Etcg?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTlsTGpib2E2Sm9JYXBzRlBxWTZNbGFEWHhjaHk3MG5ab1VybmtNNlAyaWtWYnFranRoZFRWNmY1clprM3lzeXJETGtTRW5oeldDa0NqdFJrWF9SZWkwUUZnSnNoVXJBcTk3ZmVNODB6Z21ZMVJLejZPSjI5S0pybXByY1hJNGEtWm5mNmVqZlJzVGxrblBCdVBiQVFNQQ?oc=5"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSzBNeVRyU3ZlVTlyb3RXQ0pRWW5XY0lpNEt6Z2IxdTNkREktTEhHSkxwWE5fNnE3NlVyUXNFWEJ5Y1hEVXVaTmkyWFloNkN0UFRVSS1JUktoeHROM3VpbWVpOEpJb3AzUmN0TWQ5UmMxQVl3T29idDBfN2R4Z0trNGhzT2xfaFViQ0Etcg?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-8da2c80779ed",
+      "original_title": "Iran Targets Bahrain Base But Says Path to US Deal Is Open",
+      "published_at": "2026-11-16T06:25:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Iran Targets Bahrain Base But Says Path to US Deal Is Open",
+          "source": "Bloomberg.com",
+          "snippet": "Iran Targets Bahrain Base But Says Path to US Deal Is Open &nbsp;&nbsp; Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXpxVVpLejY0TU5TcHFqQUFIY1YtTThlNkc3MFJ2OVkwM2JZZHcyeHF5WVkzVzdXX1IwZHlWeDBPcnkyeXdtQXkyWHpKdlU4aGl6SnA4cmVfMmxUWEhBMlR4MjluNkNUNUJieUxhSDlZZzVRYkxKdUxYY0RGNTJGWXB6NlpPb09jcWhOYS0wOE40QjdnZWRzTFNPOTZ1dEpuTERPWFcyZkxqcmwwcF80V2VfNA?oc=5"
+        },
+        {
+          "headline": "Iran strikes Bahrain base and repeats that path to U.S. deal remains open",
+          "source": "The Japan Times",
+          "snippet": "Iran strikes Bahrain base and repeats that path to U.S. deal remains open &nbsp;&nbsp; The Japan Times",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0RhaW9oNk5fWGVOTUJXY1dzZWxqTTREVW54cVBnOUdTU1hVbEtuV0U3NE5FUkNvUGF0aFNmYUxjWnkxc2RPY0tGUDE0ejVicHlUTG9DTjNRYWtabGlPUFV5MzFYY3cyUFJibHhmc1U3MlhQcEU1YnpNTGt0UUlLcmFXMA?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXpxVVpLejY0TU5TcHFqQUFIY1YtTThlNkc3MFJ2OVkwM2JZZHcyeHF5WVkzVzdXX1IwZHlWeDBPcnkyeXdtQXkyWHpKdlU4aGl6SnA4cmVfMmxUWEhBMlR4MjluNkNUNUJieUxhSDlZZzVRYkxKdUxYY0RGNTJGWXB6NlpPb09jcWhOYS0wOE40QjdnZWRzTFNPOTZ1dEpuTERPWFcyZkxqcmwwcF80V2VfNA?oc=5"
+        },
+        {
+          "name": "The Japan Times",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0RhaW9oNk5fWGVOTUJXY1dzZWxqTTREVW54cVBnOUdTU1hVbEtuV0U3NE5FUkNvUGF0aFNmYUxjWnkxc2RPY0tGUDE0ejVicHlUTG9DTjNRYWtabGlPUFV5MzFYY3cyUFJibHhmc1U3MlhQcEU1YnpNTGt0UUlLcmFXMA?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-f5bc57042bd1",
+      "original_title": "5 major events that could move Bitcoin price: Crypto week ahead",
+      "published_at": "2026-11-16T06:19:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "5 major events that could move Bitcoin price: Crypto week ahead",
+          "source": "Crypto News",
+          "snippet": "5 major events that could move Bitcoin price: Crypto week ahead &nbsp;&nbsp; Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OOVB0cjdBdGtPcm9ST0FCUG5CUldZakJsdU52Y3Y3OUowczFTLVFVQThxYnNmc2dWaWhPcXVsTDVObGhJSllqcGhUMklqMnZaQXZiekdEZmdxNGdlNzJyRFBKM3ktTmlvNFM4LUdPTWlQRHFPa1ZmRkxPcw?oc=5"
+        },
+        {
+          "headline": "3 Key Events in the Coming Week That Could Move AI Stocks and Crypto",
+          "source": "BeInCrypto",
+          "snippet": "3 Key Events in the Coming Week That Could Move AI Stocks and Crypto &nbsp;&nbsp; BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yYlFyNHIwelRSRmZHalFfcmNBcWtnakxJVGNwQnlWdTlJVVhiZmdtV1ExbTRxZ1pKT19YdkVOWTU0dThQY0VUOVpXSnZDMjc1cnlabThBVnFkaTVFZ2NzZnNNVElUMHFuOEVaWGFUdjEwTFc1MHc?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Crypto News",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OOVB0cjdBdGtPcm9ST0FCUG5CUldZakJsdU52Y3Y3OUowczFTLVFVQThxYnNmc2dWaWhPcXVsTDVObGhJSllqcGhUMklqMnZaQXZiekdEZmdxNGdlNzJyRFBKM3ktTmlvNFM4LUdPTWlQRHFPa1ZmRkxPcw?oc=5"
+        },
+        {
+          "name": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yYlFyNHIwelRSRmZHalFfcmNBcWtnakxJVGNwQnlWdTlJVVhiZmdtV1ExbTRxZ1pKT19YdkVOWTU0dThQY0VUOVpXSnZDMjc1cnlabThBVnFkaTVFZ2NzZnNNVElUMHFuOEVaWGFUdjEwTFc1MHc?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-8c01a7ea3b81",
+      "original_title": "FinancialJuice: Cape Verde president Neves secures second term, election results show",
+      "published_at": "2026-11-16T05:54:12Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Cape Verde president Neves secures second term, election results show",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853328/Cape-Verde-president-Neves-secures-second-term-election-results-show.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853328/Cape-Verde-president-Neves-secures-second-term-election-results-show.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-c9a8e96f92cc",
+      "original_title": "Another Brutal Week Ahead for Bitcoin? 4 Catalysts Traders Can’t Ignore",
+      "published_at": "2026-11-16T05:48:17Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Another Brutal Week Ahead for Bitcoin? 4 Catalysts Traders Can’t Ignore",
+          "source": "Cryptonews.net",
+          "snippet": "Another Brutal Week Ahead for Bitcoin? 4 Catalysts Traders Can’t Ignore &nbsp;&nbsp; Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53a1FxUkwtaENVN2V0TmpGdkRfRjBtOTI2RFhSbFlXYkFqR0xwbDFKZUN2RnpqQ3dUZWYzbHFqbWgzMmFnQXFfb0QxOFB3RzZrSVNTN3ZHZF8?oc=5"
+        },
+        {
+          "headline": "Another Brutal Week Ahead for Bitcoin? 4 Catalysts Traders Can’t Ignore",
+          "source": "CryptoPotato",
+          "snippet": "Another Brutal Week Ahead for Bitcoin? 4 Catalysts Traders Can’t Ignore &nbsp;&nbsp; CryptoPotato",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3J3NE54cUZ3Rk8wakRhODI3djVnOXc4U2dWZm9iZnROWWNVV2wxREtZUU1xS01ub05Rbm5Yb19NN0NONGpWaGdmUVJWZXA3YmdZSHJILXJvZmxwM0FCc0hCRm9KS3ZYNTZRem1HaWp5dXBTaXBFRzNoRlNLbGlPOEVsU3VSOC1QYXF3MWJ2aGFzcnJFN3dYZ2dyUQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53a1FxUkwtaENVN2V0TmpGdkRfRjBtOTI2RFhSbFlXYkFqR0xwbDFKZUN2RnpqQ3dUZWYzbHFqbWgzMmFnQXFfb0QxOFB3RzZrSVNTN3ZHZF8?oc=5"
+        },
+        {
+          "name": "CryptoPotato",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3J3NE54cUZ3Rk8wakRhODI3djVnOXc4U2dWZm9iZnROWWNVV2wxREtZUU1xS01ub05Rbm5Yb19NN0NONGpWaGdmUVJWZXA3YmdZSHJILXJvZmxwM0FCc0hCRm9KS3ZYNTZRem1HaWp5dXBTaXBFRzNoRlNLbGlPOEVsU3VSOC1QYXF3MWJ2aGFzcnJFN3dYZ2dyUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-4ea87257bd8e",
+      "original_title": "이스라엘 정보기관 모사드의 로만 고프만 국장은 워싱턴에서 CIA 국장 존 래틀리프와 만나고, 마이애미에서 미국 특사 스티브 위트코프와 회담한 후 이스라엘로 돌아왔습니다. 회담에서는 주로 이란 문제가 논의된 것으로 알려졌습니다. - 타임스 오브 이스라엘",
+      "published_at": "2026-11-16T05:41:32Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "이스라엘 정보기관 모사드의 로만 고프만 국장은 워싱턴에서 CIA 국장 존 래틀리프와 만나고, 마이애미에서 미국 특사 스티브 위트코프와 회담한 후 이스라엘로 돌아왔습니다. 회담에서는 주로 이란 문제가 논의된 것으로 알려졌습니다. - 타임스 오브 이스라엘",
+          "source": "Telegram @goddessTTF",
+          "snippet": "이스라엘 정보기관 모사드의 로만 고프만 국장은 워싱턴에서 CIA 국장 존 래틀리프와 만나고, 마이애미에서 미국 특사 스티브 위트코프와 회담한 후 이스라엘로 돌아왔습니다. 회담에서는 주로 이란 문제가 논의된 것으로 알려졌습니다. - 타임스 오브 이스라엘",
+          "url": "https://t.me/goddessTTF/87155"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/87155"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-5ef9bb004d2a",
+      "original_title": "FinancialJuice: Brussels to suggest €45bn Ukraine loan secured by EU budget",
+      "published_at": "2026-11-16T05:01:52Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Brussels to suggest €45bn Ukraine loan secured by EU budget",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853278/Brussels-to-suggest-45bn-Ukraine-loan-secured-by-EU-budget---FT.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853278/Brussels-to-suggest-45bn-Ukraine-loan-secured-by-EU-budget---FT.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-103651bbb429",
+      "original_title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+      "published_at": "2026-11-16T05:01:17Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-5c9f10340371",
+      "original_title": "Two oil tankers hit mines in the Strait of Hormuz, IRGC says",
+      "published_at": "2026-11-16T04:46:11Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "Two oil tankers hit mines in the Strait of Hormuz, IRGC says",
+          "source": "The Jerusalem Post",
+          "snippet": "Two oil tankers hit mines in the Strait of Hormuz, IRGC says &nbsp;&nbsp; The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MQXJxTFVOa05BVEtjbTNLMzN5X2J0VnZyMXpGbjJvRFdPMmc4WjhTb0hOQnM3dmhqd3V1eHpwbTkwYkx2WnJwNDVNWjZjbkIya0RZYmYxV3hmRWhs?oc=5"
+        },
+        {
+          "headline": "FinancialJuice: Iran’s IRGC: two oil tankers struck mines in the Strait of Hormuz causing explosions",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853237/Irans-IRGC-two-oil-tankers-struck-mines-in-the-Strait-of-Hormuz-causing-explosions---state-media.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MQXJxTFVOa05BVEtjbTNLMzN5X2J0VnZyMXpGbjJvRFdPMmc4WjhTb0hOQnM3dmhqd3V1eHpwbTkwYkx2WnJwNDVNWjZjbkIya0RZYmYxV3hmRWhs?oc=5"
+        },
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853237/Irans-IRGC-two-oil-tankers-struck-mines-in-the-Strait-of-Hormuz-causing-explosions---state-media.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-4b6e54885a97",
+      "original_title": "트럼프 대통령, 아시아 순방 공식 일정 확정… 마닐라 쿼드·필리핀 정상회담 거쳐 선전서 시진핑·푸틴과 첫 미중러 3자회담 [공부의여신 네트워크] 백악관이 트럼프 대통령의 11월 16일부터 19일까지 아시아 순방 공식 일정을 발표했습니다. 트럼프 대통령은 워싱턴을 출발해 알래스카 앵커리지를 거쳐 필리핀 마닐라에 도착한 뒤, 쿼드 정상회의와 미국·태국 무역 서명, 아세안 일정, 필리핀 정상회담을",
+      "published_at": "2026-11-16T04:39:15Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "트럼프 대통령, 아시아 순방 공식 일정 확정… 마닐라 쿼드·필리핀 정상회담 거쳐 선전서 시진핑·푸틴과 첫 미중러 3자회담 [공부의여신 네트워크] 백악관이 트럼프 대통령의 11월 16일부터 19일까지 아시아 순방 공식 일정을 발표했습니다. 트럼프 대통령은 워싱턴을 출발해 알래스카 앵커리지를 거쳐 필리핀 마닐라에 도착한 뒤, 쿼드 정상회의와 미국·태국 무역 서명, 아세안 일정, 필리핀 정상회담을",
+          "source": "Telegram @goddessTTF",
+          "snippet": "트럼프 대통령, 아시아 순방 공식 일정 확정… 마닐라 쿼드·필리핀 정상회담 거쳐 선전서 시진핑·푸틴과 첫 미중러 3자회담 [공부의여신 네트워크] 백악관이 트럼프 대통령의 11월 16일부터 19일까지 아시아 순방 공식 일정을 발표했습니다. 트럼프 대통령은 워싱턴을 출발해 알래스카 앵커리지를 거쳐 필리핀 마닐라에 도착한 뒤, 쿼드 정상회의와 미국·태국 무역 서명, 아세안 일정, 필리핀 정상회담을 소화하고 중국 선전으로 이동해 APEC 정상회의와 시진핑 국가주석과의 양자회담, 시진핑 주석·푸틴 대통령과의 사상 첫 미중러 3자 정상회담에 나섭니다. 트럼프 대통령은 한국 시간 17일 저녁 7시 30분 마닐라 솔레어 리조트에서 쿼드 정상회의를 엽니다. 나렌드라 모디 인도 총리, 앤서니 앨버니지 호주 총리, 다카이치 사나에 일본 총리가 참석하며, 2024년 9월 이후 2년 만이자 트럼프 2기 들어 첫 쿼드 정상회의입니다. 백악관은 자유롭고 열린 인도·태평양과 평화, 번영, 안보를 논의한다고 밝혔고, 핵심 광물 공급망과 해상 교통로 안보도 의제로 거론됩니다. 이어 저녁 8시 25분에는 아누틴 찬위라꾼 태국 총리와 미국·태국 무역 합의 서명식을 갖습니다. 서명 대상은 상호무역협정 최종본이 아니라 협상 진전을 선언하는 공동성명입니다. 저녁 9시 25분에는 미국·아세안 만찬에 참석합니다. 18일 낮 12시 5분에는 마닐라 말라카냥궁에서 페르디난드 마르코스 주니어 필리핀 대통령의 공식 환영식이 열리고, 12시 30분부터 미국·필리핀 정상회담이 진행됩니다. 트럼프 대통령의 필리핀 방문은 2017년 이후 처음으로, 방위 협력과 남중국해 문제, 상업 합의 발표 여부가 주목됩니다. 19일에는 중국 선전에서 오전 10시 45분 APEC 정상 전체회의에 참석한 뒤, 오후 1시 45분 기린산장에서 시진핑 국가주석과 양자회담을 합니다. 관세 인하와 농산물 구매 등 무역 합의 이행, 초지능(SI) 위험 관리 대화가 의제로 꼽힙니다. 같은 날 오후 3시 30분에는 시진핑 주석, 블라디미르 푸틴 대통령과 미중러 3자 정상회담이 열립니다. 세 정상이 한자리에 모이는 것은 처음입니다. 올리비아 웨일스 백악관 부대변인은 트럼프 대통령이 세계 핵무기 감축을 논의할 것이라고 밝혔고, 이란 전쟁도 의제에 오릅니다. 백악관은 푸틴 대통령과 따로 양자회담을 할 계획은 없다고 설명했습니다. APEC 행사와 시진핑 주석과의 회담은 제한된 취재만 허용돼 생중계 여부는 아직 확인되지 않았습니다. 워싱턴 출발 시각과 마닐라 도착 시각은 발표되지 않았습니다. ※ 시간은 모두 한국 시간 기준입니다.",
+          "url": "https://t.me/goddessTTF/87152"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/87152"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-851821a6db93",
+      "original_title": "FinancialJuice: BoJ's Takata: timing of cumulative impact of policy rate hikes still some way off",
+      "published_at": "2026-11-16T04:09:28Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Takata: timing of cumulative impact of policy rate hikes still some way off",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853226/BoJs-Takata-timing-of-cumulative-impact-of-policy-rate-hikes-still-some-way-off.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853226/BoJs-Takata-timing-of-cumulative-impact-of-policy-rate-hikes-still-some-way-off.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-474542a2dea8",
+      "original_title": "FinancialJuice: BoJ's Takata: I believe central bank is at new phase requiring agile responses on raising or cutting policy interest rate",
+      "published_at": "2026-11-16T04:09:14Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Takata: I believe central bank is at new phase requiring agile responses on raising or cutting policy interest rate",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853225/BoJs-Takata-I-believe-central-bank-is-at-new-phase-requiring-agile-responses-on-raising-or-cutting-policy-interest-rate.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853225/BoJs-Takata-I-believe-central-bank-is-at-new-phase-requiring-agile-responses-on-raising-or-cutting-policy-interest-rate.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-f8f4183b3f35",
+      "original_title": "FinancialJuice: BoJ's Takata: each rate hike requires review of lending attitudes and funding environment for businesses",
+      "published_at": "2026-11-16T04:07:53Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Takata: each rate hike requires review of lending attitudes and funding environment for businesses",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853220/BoJs-Takata-each-rate-hike-requires-review-of-lending-attitudes-and-funding-environment-for-businesses.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853220/BoJs-Takata-each-rate-hike-requires-review-of-lending-attitudes-and-funding-environment-for-businesses.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-4c33aedf1ee8",
+      "original_title": "FinancialJuice: BoJ's Takata: Central bank needs to act swiftly on rate hikes after assessing domestic financial conditions and global developments",
+      "published_at": "2026-11-16T04:07:14Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Takata: Central bank needs to act swiftly on rate hikes after assessing domestic financial conditions and global developments",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853219/BoJs-Takata-Central-bank-needs-to-act-swiftly-on-rate-hikes-after-assessing-domestic-financial-conditions-and-global-developments.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853219/BoJs-Takata-Central-bank-needs-to-act-swiftly-on-rate-hikes-after-assessing-domestic-financial-conditions-and-global-developments.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-f53174919441",
+      "original_title": "FinancialJuice: BoJ's Takata: central bank needs regime change, setting policy interest rate early in a 'good' position",
+      "published_at": "2026-11-16T04:06:16Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Takata: central bank needs regime change, setting policy interest rate early in a 'good' position",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853217/BoJs-Takata-central-bank-needs-regime-change-setting-policy-interest-rate-early-in-a-good-position.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853217/BoJs-Takata-central-bank-needs-regime-change-setting-policy-interest-rate-early-in-a-good-position.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-33fa11c55acf",
+      "original_title": "FinancialJuice: BoJ's Takata: Inflationary pressures may emerge in the second half of fiscal 2026",
+      "published_at": "2026-11-16T04:05:57Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Takata: Inflationary pressures may emerge in the second half of fiscal 2026",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853216/BoJs-Takata-Inflationary-pressures-may-emerge-in-the-second-half-of-fiscal-2026.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853216/BoJs-Takata-Inflationary-pressures-may-emerge-in-the-second-half-of-fiscal-2026.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-722b67e7fab2",
+      "original_title": "호르무즈 해협 운송량이 전쟁 전 수준에 가까워지면서 유가가 내리고 있습니다. 국제에너지기구(IEA)가 4분기 세계 원유 공급이 하루 170만 배럴 남을 것으로 내다본 뒤, 브렌트유는 배럴당 95달러 안팎에 거래되고 있습니다.",
+      "published_at": "2026-11-16T04:04:10Z",
+      "discovery_source": "telegram",
+      "evidence": [
+        {
+          "headline": "호르무즈 해협 운송량이 전쟁 전 수준에 가까워지면서 유가가 내리고 있습니다. 국제에너지기구(IEA)가 4분기 세계 원유 공급이 하루 170만 배럴 남을 것으로 내다본 뒤, 브렌트유는 배럴당 95달러 안팎에 거래되고 있습니다.",
+          "source": "Telegram @goddessTTF",
+          "snippet": "호르무즈 해협 운송량이 전쟁 전 수준에 가까워지면서 유가가 내리고 있습니다. 국제에너지기구(IEA)가 4분기 세계 원유 공급이 하루 170만 배럴 남을 것으로 내다본 뒤, 브렌트유는 배럴당 95달러 안팎에 거래되고 있습니다.",
+          "url": "https://t.me/goddessTTF/87151"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Telegram @goddessTTF",
+          "url": "https://t.me/goddessTTF/87151"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-567b22672a23",
+      "original_title": "FinancialJuice: BoJ's Takata: must bring policy interest rate close enough to neutral level to respond nimbly to possible second-round price effects",
+      "published_at": "2026-11-16T04:03:30Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Takata: must bring policy interest rate close enough to neutral level to respond nimbly to possible second-round price effects",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853211/BoJs-Takata-must-bring-policy-interest-rate-close-enough-to-neutral-level-to-respond-nimbly-to-possible-second-round-price-effects.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853211/BoJs-Takata-must-bring-policy-interest-rate-close-enough-to-neutral-level-to-respond-nimbly-to-possible-second-round-price-effects.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-40d055d90101",
+      "original_title": "FinancialJuice: BoJ's Takata: central bank should avoid fixed pace and size of rate hikes, opting for flexible, data-driven moves amid Japan's economic and price conditions",
+      "published_at": "2026-11-16T04:02:31Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ's Takata: central bank should avoid fixed pace and size of rate hikes, opting for flexible, data-driven moves amid Japan's economic and price conditions",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853209/BoJs-Takata-central-bank-should-avoid-fixed-pace-and-size-of-rate-hikes-opting-for-flexible-data-driven-moves-amid-Japans-economic-and-price-conditions.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853209/BoJs-Takata-central-bank-should-avoid-fixed-pace-and-size-of-rate-hikes-opting-for-flexible-data-driven-moves-amid-Japans-economic-and-price-conditions.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-a910aec02b85",
+      "original_title": "FinancialJuice: BoJ’s Takata: with some FX market players focusing on real and nominal interest rate differentials, monitoring price developments transmitted through markets is essential",
+      "published_at": "2026-11-16T04:02:14Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: BoJ’s Takata: with some FX market players focusing on real and nominal interest rate differentials, monitoring price developments transmitted through markets is essential",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853207/BoJs-Takata-with-some-FX-market-players-focusing-on-real-and-nominal-interest-rate-differentials-monitoring-price-developments-transmitted-through-markets-is-essential.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853207/BoJs-Takata-with-some-FX-market-players-focusing-on-real-and-nominal-interest-rate-differentials-monitoring-price-developments-transmitted-through-markets-is-essential.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-a7e48259d665",
+      "original_title": "FinancialJuice: Bank of Japan board member Takata: Price hikes now more likely to trigger second-round effects",
+      "published_at": "2026-11-16T04:01:25Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Bank of Japan board member Takata: Price hikes now more likely to trigger second-round effects",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853205/Bank-of-Japan-board-member-Takata-Price-hikes-now-more-likely-to-trigger-second-round-effects.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853205/Bank-of-Japan-board-member-Takata-Price-hikes-now-more-likely-to-trigger-second-round-effects.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-1c24351286fc",
+      "original_title": "FinancialJuice: Chinese Unemployment Rate Actual 5.100% (Forecast 5.2%, Previous 5.200%)",
+      "published_at": "2026-11-16T02:02:08Z",
+      "discovery_source": "financialjuice",
+      "evidence": [
+        {
+          "headline": "FinancialJuice: Chinese Unemployment Rate Actual 5.100% (Forecast 5.2%, Previous 5.200%)",
+          "source": "FinancialJuice",
+          "snippet": "",
+          "url": "https://www.financialjuice.com/News/9853062/Chinese-Unemployment-Rate-Actual-5100-Forecast-52-Previous-5200.aspx?xy=rss"
+        }
+      ],
+      "sources": [
+        {
+          "name": "FinancialJuice",
+          "url": "https://www.financialjuice.com/News/9853062/Chinese-Unemployment-Rate-Actual-5100-Forecast-52-Previous-5200.aspx?xy=rss"
+        }
+      ]
+    },
     {
       "stable_id": "2026-11-16-5e6753401dc5",
       "original_title": "FinancialJuice: China oct survey-based urban unemployment rate in 31 key cities at 5.1%",
@@ -38,6 +928,26 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9853070/China-Jan-Oct-private-sector-fixed-asset-investment-declines-114-yy.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-b102d530ad1a",
+      "original_title": "Oil edges up as Hormuz tanker incidents highlight shipping risks",
+      "published_at": "2026-11-16T02:00:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Oil edges up as Hormuz tanker incidents highlight shipping risks",
+          "source": "Reuters",
+          "snippet": "Oil edges up as Hormuz tanker incidents highlight shipping risks &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5"
         }
       ]
     },
@@ -202,6 +1112,26 @@
       ]
     },
     {
+      "stable_id": "2026-11-16-254256d7f125",
+      "original_title": "Gold hits over one-year low as firm dollar, Fed outlook weigh",
+      "published_at": "2026-11-16T01:25:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Gold hits over one-year low as firm dollar, Fed outlook weigh",
+          "source": "Reuters",
+          "snippet": "Gold hits over one-year low as firm dollar, Fed outlook weigh &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-11-16-94688d72de64",
       "original_title": "FinancialJuice: Canada PM Carney: will focus on food and energy security, financial services, and China's evolving role in global system during China visit",
       "published_at": "2026-11-16T01:22:21Z",
@@ -238,6 +1168,26 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9853011/China-plans-2-billion-three-year-dollar-bond-bookrunner-message.aspx?xy=rss"
+        }
+      ]
+    },
+    {
+      "stable_id": "2026-11-16-cd90b2b4d8f5",
+      "original_title": "Dollar extends gains, yen looks past soft Japan GDP data",
+      "published_at": "2026-11-16T01:09:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Dollar extends gains, yen looks past soft Japan GDP data",
+          "source": "Reuters",
+          "snippet": "Dollar extends gains, yen looks past soft Japan GDP data &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZkdhelNXT1laWnBWei1ZTGMybnc1U1FxOUtGdjdoaGxDX29kd0pvc3FoLVhYdVh4SkdQdGN1cFU1UjVmb0lGWlJsdTlJOHppUjh0eGVrTFJBajZxUV9CVWFrN0F5S0RqVVpMWlR4ZW05R0duTFdvZjJNbGNhcEl2V002d0xWejFMRmR2ZjRDanBqZndnZndWOF96b3NxdVdaWnp4LWdzQ1RhdEdXdkhfcUJaSQ?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZkdhelNXT1laWnBWei1ZTGMybnc1U1FxOUtGdjdoaGxDX29kd0pvc3FoLVhYdVh4SkdQdGN1cFU1UjVmb0lGWlJsdTlJOHppUjh0eGVrTFJBajZxUV9CVWFrN0F5S0RqVVpMWlR4ZW05R0duTFdvZjJNbGNhcEl2V002d0xWejFMRmR2ZjRDanBqZndnZndWOF96b3NxdVdaWnp4LWdzQ1RhdEdXdkhfcUJaSQ?oc=5"
         }
       ]
     },
@@ -672,26 +1622,6 @@
       ]
     },
     {
-      "stable_id": "2026-11-15-6f6de4da16b7",
-      "original_title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
-      "published_at": "2026-11-15T18:59:19Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
-          "source": "Reuters",
-          "snippet": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain &nbsp;&nbsp; Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5"
-        }
-      ]
-    },
-    {
       "stable_id": "2026-11-15-1efff892da1d",
       "original_title": "Fed ’has some work to do on inflation,’ KC Fed chief says By Reuters",
       "published_at": "2026-11-15T18:51:10Z",
@@ -862,6 +1792,26 @@
       ]
     },
     {
+      "stable_id": "2026-11-15-6f6de4da16b7",
+      "original_title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
+      "published_at": "2026-11-15T15:56:00Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
+          "source": "Reuters",
+          "snippet": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain &nbsp;&nbsp; Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-11-15-2d2124d29951",
       "original_title": "Iran says supertanker with 2 million barrels of oil sank in Gulf - Region - World",
       "published_at": "2026-11-15T15:31:51Z",
@@ -871,7 +1821,7 @@
           "headline": "Iran says supertanker with 2 million barrels of oil sank in Gulf - Region - World",
           "source": "Ahram Online",
           "snippet": "Iran says supertanker with 2 million barrels of oil sank in Gulf - Region - World &nbsp;&nbsp; Ahram Online",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmFKT0lZalhXdU1xNlVsSmRwVldXcXBpbkY5MU1nQVRWbm1WUDVmb1JDQTVOVzIxWW5CbUZrRV9OQkt1R1doZlNxQkxxeDVNY3FlRWo0aGxUejBnMEVJMFNZbTBuUU0yRjYwWWNjWDduVnQzejZuVkZjRWRZN050SmdCUW1lTkFRdk5GZnVIYVQwaUlrZFRESFhqSlVqOWoxbEZiYk1vZzRvcWFETVc5MnpR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd1NrVVJHaHpuRE93Tkk3SmYwT0w5SEVBd1hQZ09pQjVwX05fcFJoSlJfOXBndjIxaWN0TGk1WE9rR3AxdXhSMkpHMWJweGk0NkhaLTdNQnhQd2RmM1k2ZEZOS3pBOE8xdWloM0l3eUp0NGdJMWVId1NrcTU4aWprNFV4LWZ5RFMwRXU4MU5qSEtDY3liVVk2dG9IN0hxV2RIRUlmZXFoTVJ0N1JwNHBJM3VzclZLMnN2dEFfaA?oc=5"
         },
         {
           "headline": "Iran says supertanker with 2 million barrels of oil sank in Gulf",
@@ -883,7 +1833,7 @@
       "sources": [
         {
           "name": "Ahram Online",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmFKT0lZalhXdU1xNlVsSmRwVldXcXBpbkY5MU1nQVRWbm1WUDVmb1JDQTVOVzIxWW5CbUZrRV9OQkt1R1doZlNxQkxxeDVNY3FlRWo0aGxUejBnMEVJMFNZbTBuUU0yRjYwWWNjWDduVnQzejZuVkZjRWRZN050SmdCUW1lTkFRdk5GZnVIYVQwaUlrZFRESFhqSlVqOWoxbEZiYk1vZzRvcWFETVc5MnpR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd1NrVVJHaHpuRE93Tkk3SmYwT0w5SEVBd1hQZ09pQjVwX05fcFJoSlJfOXBndjIxaWN0TGk1WE9rR3AxdXhSMkpHMWJweGk0NkhaLTdNQnhQd2RmM1k2ZEZOS3pBOE8xdWloM0l3eUp0NGdJMWVId1NrcTU4aWprNFV4LWZ5RFMwRXU4MU5qSEtDY3liVVk2dG9IN0hxV2RIRUlmZXFoTVJ0N1JwNHBJM3VzclZLMnN2dEFfaA?oc=5"
         },
         {
           "name": "Arab News",
@@ -1232,6 +2182,26 @@
       ]
     },
     {
+      "stable_id": "2026-11-15-5b76edf4acd8",
+      "original_title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+      "published_at": "2026-11-15T07:00:00Z",
+      "discovery_source": "coindesk",
+      "evidence": [
+        {
+          "headline": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+          "source": "CoinDesk",
+          "snippet": "",
+          "url": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-11-15-54c71b5de0f2",
       "original_title": "Crypto's slow-motion selloff leaves investors weary as Bitcoin nears lows",
       "published_at": "2026-11-15T06:32:05Z",
@@ -1398,1016 +2368,6 @@
         {
           "name": "Telegram @goddessTTF",
           "url": "https://t.me/goddessTTF/87113"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-15-151767194d20",
-      "original_title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "published_at": "2026-11-15T02:50:57Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-15-8457d4f09dff",
-      "original_title": "선거가 끝나자마자 주식시장이 3조 달러의 가치를 잃었다는 것을 아무도 눈치채지 못했습니까? 다시 말해, 전 세계 투자자들은 선거일에 벌어진 일을 보고 싫어했습니다. 그러나 두려워하지 마십시오. 시장은 그 이후 올랐고, 미국은 곧 그 어느 때보다 더 위대해질 것입니다! 도널드 J. 트럼프 대통령",
-      "published_at": "2026-11-15T01:00:52Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "선거가 끝나자마자 주식시장이 3조 달러의 가치를 잃었다는 것을 아무도 눈치채지 못했습니까? 다시 말해, 전 세계 투자자들은 선거일에 벌어진 일을 보고 싫어했습니다. 그러나 두려워하지 마십시오. 시장은 그 이후 올랐고, 미국은 곧 그 어느 때보다 더 위대해질 것입니다! 도널드 J. 트럼프 대통령",
-          "source": "Telegram @goddessTTF",
-          "snippet": "선거가 끝나자마자 주식시장이 3조 달러의 가치를 잃었다는 것을 아무도 눈치채지 못했습니까? 다시 말해, 전 세계 투자자들은 선거일에 벌어진 일을 보고 싫어했습니다. 그러나 두려워하지 마십시오. 시장은 그 이후 올랐고, 미국은 곧 그 어느 때보다 더 위대해질 것입니다! 도널드 J. 트럼프 대통령",
-          "url": "https://t.me/goddessTTF/87107"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/87107"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-15-76671164428c",
-      "original_title": "워런, 코인 업계 조사 예고… 비트코인도 흔들릴까?",
-      "published_at": "2026-11-15T01:00:37Z",
-      "discovery_source": "youtube",
-      "evidence": [
-        {
-          "headline": "워런, 코인 업계 조사 예고… 비트코인도 흔들릴까?",
-          "source": "YouTube @새벽에온주호",
-          "snippet": "엘리자베스 워런 측의 문서 보존 요구와 트럼프 일가의 코인 사업을 둘러싼 의혹을 짚습니다. 미국 상원 은행위원회가 어디까지 조사할 수 있는지, 클래리티법 협상에 어떤 변수가 남았는지 살펴봅니다. 트럼프 코인과 월드리버티·USD1의 위험을 짚고, 미국 금리와 비트코인 현물 ETF 자금 흐름도 함께 봅니다. #비트코인 #트럼프코인 #월드리버티 #클래리티법 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
-          "url": "https://www.youtube.com/watch?v=gwQDrJq5v9A"
-        }
-      ],
-      "sources": [
-        {
-          "name": "YouTube @새벽에온주호",
-          "url": "https://www.youtube.com/watch?v=gwQDrJq5v9A"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-15-f6b3f0df6c72",
-      "original_title": "Three oil tankers catch fire after hitting naval mines in Hormuz, claims Iran's Navy",
-      "published_at": "2026-11-15T00:44:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Three oil tankers catch fire after hitting naval mines in Hormuz, claims Iran's Navy",
-          "source": "ANI News",
-          "snippet": "Three oil tankers catch fire after hitting naval mines in Hormuz, claims Iran's Navy &nbsp;&nbsp; ANI News",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWtmNUtxX0lfRWpNZ3VyMHBjVVVUVGZ0V1k4aWFRLVRzRWpmZDU0NnRXUFFDT2QzUWd1WjNrMl9XNml3RG5aR0JYaE0zQ1UxcUo3TGFlX2hQTUhwbDNZdTRUOUpPY3JXTUZSNWw1b3JFOHV2dHRpak9ic2JfV0VsdFdITDdPdmFqOUFQaUNOU09oZ203aFg4SEFrbi1GU2dWZV9VekM3ZE5USnh5UXdaVW1lRVAyUi1LVk1KWkFIWkVVRWt5Y1JWLXdRYjZfQnp0Qks4TEd6bnhnZw?oc=5"
-        },
-        {
-          "headline": "Three tankers catch fire after hitting mines in Hormuz",
-          "source": "NST Online",
-          "snippet": "Three tankers catch fire after hitting mines in Hormuz &nbsp;&nbsp; NST Online",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2pPdzJBTTNKT0pTSkxqSWtiMXk4b2IyVFhiRkZBQkNDUHN0clNSc3hqbnpyVGpTS2FERFBGNWFyZC1DdzlPbWV6NEtrMl9lUUo1M21JNGs0ODJ6ZlY5Wm0xVVZHaWJTUXlDb2thSzY3VHdsdDV3RUJITFZhb1NOcTdhTzh5MDVCTE5kOGYyZ29GV0p5RlQ1dV84RV84cXExX2tROVhGVFB6Z9IBqgFBVV95cUxOQ2pPdzJBTTNKT0pTSkxqSWtiMXk4b2IyVFhiRkZBQkNDUHN0clNSc3hqbnpyVGpTS2FERFBGNWFyZC1DdzlPbWV6NEtrMl9lUUo1M21JNGs0ODJ6ZlY5Wm0xVVZHaWJTUXlDb2thSzY3VHdsdDV3RUJITFZhb1NOcTdhTzh5MDVCTE5kOGYyZ29GV0p5RlQ1dV84RV84cXExX2tROVhGVFB6Zw?oc=5"
-        },
-        {
-          "headline": "Three oil tankers on fire after hitting mines in Hormuz",
-          "source": "Lismore City News",
-          "snippet": "Three oil tankers on fire after hitting mines in Hormuz &nbsp;&nbsp; Lismore City News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHdpYmtPSGQydVBRN2t3YXBFWklkNG9QQTc3cGdYTUdUZ0RCTU5tWngwTmRfNGkyS0x2VU1ydV8xVDZrT2E3d2Z6YkhUU2NEVjhaTEFJQmlsZi03UUhRVWQ4T3hyV0NoMEczZEdVYVVEQnVraXQtNF9JN1Z1ZjRkOER4OWotdWFUQ1hQTXpyaEZnQlFoLWNzZkFucDB0c0NRMm02ODZSZzk?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "ANI News",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWtmNUtxX0lfRWpNZ3VyMHBjVVVUVGZ0V1k4aWFRLVRzRWpmZDU0NnRXUFFDT2QzUWd1WjNrMl9XNml3RG5aR0JYaE0zQ1UxcUo3TGFlX2hQTUhwbDNZdTRUOUpPY3JXTUZSNWw1b3JFOHV2dHRpak9ic2JfV0VsdFdITDdPdmFqOUFQaUNOU09oZ203aFg4SEFrbi1GU2dWZV9VekM3ZE5USnh5UXdaVW1lRVAyUi1LVk1KWkFIWkVVRWt5Y1JWLXdRYjZfQnp0Qks4TEd6bnhnZw?oc=5"
-        },
-        {
-          "name": "NST Online",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2pPdzJBTTNKT0pTSkxqSWtiMXk4b2IyVFhiRkZBQkNDUHN0clNSc3hqbnpyVGpTS2FERFBGNWFyZC1DdzlPbWV6NEtrMl9lUUo1M21JNGs0ODJ6ZlY5Wm0xVVZHaWJTUXlDb2thSzY3VHdsdDV3RUJITFZhb1NOcTdhTzh5MDVCTE5kOGYyZ29GV0p5RlQ1dV84RV84cXExX2tROVhGVFB6Z9IBqgFBVV95cUxOQ2pPdzJBTTNKT0pTSkxqSWtiMXk4b2IyVFhiRkZBQkNDUHN0clNSc3hqbnpyVGpTS2FERFBGNWFyZC1DdzlPbWV6NEtrMl9lUUo1M21JNGs0ODJ6ZlY5Wm0xVVZHaWJTUXlDb2thSzY3VHdsdDV3RUJITFZhb1NOcTdhTzh5MDVCTE5kOGYyZ29GV0p5RlQ1dV84RV84cXExX2tROVhGVFB6Zw?oc=5"
-        },
-        {
-          "name": "Lismore City News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHdpYmtPSGQydVBRN2t3YXBFWklkNG9QQTc3cGdYTUdUZ0RCTU5tWngwTmRfNGkyS0x2VU1ydV8xVDZrT2E3d2Z6YkhUU2NEVjhaTEFJQmlsZi03UUhRVWQ4T3hyV0NoMEczZEdVYVVEQnVraXQtNF9JN1Z1ZjRkOER4OWotdWFUQ1hQTXpyaEZnQlFoLWNzZkFucDB0c0NRMm02ODZSZzk?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-a4fc14519966",
-      "original_title": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K",
-      "published_at": "2026-11-14T23:16:07Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K",
-          "source": "Bitcoin News",
-          "snippet": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K &nbsp;&nbsp; Bitcoin News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWNQZV9QRlpKcGVUYUo2STRJZG9MOGFOc0xPWEttYWo5TE83dlA4eW9ENGZZUFowQUtlT3cyWUYtUi1JUFc4QnFweXVVaGxhWk9Ka2dzWlBfMDNnVjZwakt1MDNkZXA0ODRJaG11TFhad1B4YUtEQW9yMzEzV2ZtcjQ5R1hCVGFuTG1YdmxmZEVJaGZyUXY0aS1yZ1BObnV4Y29DZ2IzSFNteGVJRXFZ?oc=5"
-        },
-        {
-          "headline": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K",
-          "source": "Cryptonews.net",
-          "snippet": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZTdKdlpXVEdnekJuZEE1WDUzLXdtVTBBRHB1bkZfaGlVYl9GNWxmX1RpemZpd213TjlveTNBaHJsbG55NHVVVWM4bDVZMFpFeVZkWnhqeVY?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Bitcoin News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWNQZV9QRlpKcGVUYUo2STRJZG9MOGFOc0xPWEttYWo5TE83dlA4eW9ENGZZUFowQUtlT3cyWUYtUi1JUFc4QnFweXVVaGxhWk9Ka2dzWlBfMDNnVjZwakt1MDNkZXA0ODRJaG11TFhad1B4YUtEQW9yMzEzV2ZtcjQ5R1hCVGFuTG1YdmxmZEVJaGZyUXY0aS1yZ1BObnV4Y29DZ2IzSFNteGVJRXFZ?oc=5"
-        },
-        {
-          "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZTdKdlpXVEdnekJuZEE1WDUzLXdtVTBBRHB1bkZfaGlVYl9GNWxmX1RpemZpd213TjlveTNBaHJsbG55NHVVVWM4bDVZMFpFeVZkWnhqeVY?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-9005f3084110",
-      "original_title": "비트코인이 24시간 동안 5.72% 떨어져 64,633달러를 기록했습니다. 주간 하락률은 14.62%, 월간 하락률은 20.77%이며, 하루 동안 10억 달러가 넘는 암호화폐 파생상품이 강제 청산됐습니다.",
-      "published_at": "2026-11-14T22:21:52Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "비트코인이 24시간 동안 5.72% 떨어져 64,633달러를 기록했습니다. 주간 하락률은 14.62%, 월간 하락률은 20.77%이며, 하루 동안 10억 달러가 넘는 암호화폐 파생상품이 강제 청산됐습니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "비트코인이 24시간 동안 5.72% 떨어져 64,633달러를 기록했습니다. 주간 하락률은 14.62%, 월간 하락률은 20.77%이며, 하루 동안 10억 달러가 넘는 암호화폐 파생상품이 강제 청산됐습니다.",
-          "url": "https://t.me/goddessTTF/87102"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/87102"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-823f7b24643d",
-      "original_title": "FinancialJuice: Iran's IRGC navy: two tankers ignite after hitting naval mines in Strait of Hormuz",
-      "published_at": "2026-11-14T21:46:40Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran's IRGC navy: two tankers ignite after hitting naval mines in Strait of Hormuz",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852411/Irans-IRGC-navy-two-tankers-ignite-after-hitting-naval-mines-in-Strait-of-Hormuz---state-media.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852411/Irans-IRGC-navy-two-tankers-ignite-after-hitting-naval-mines-in-Strait-of-Hormuz---state-media.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-8a289df107e7",
-      "original_title": "Oil tanker hits naval mine, catches fire in Strait of Hormuz",
-      "published_at": "2026-11-14T21:43:49Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "Oil tanker hits naval mine, catches fire in Strait of Hormuz",
-          "source": "NewsNation",
-          "snippet": "Oil tanker hits naval mine, catches fire in Strait of Hormuz &nbsp;&nbsp; NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMWdfVFdKTGhEeHE3ck9CT1Z1SGZYWkdhZDhiSE1yRFdDTDk1dmlQNkNCOFpvR3pmMTFPOTZZY3JnaWlEU21UV3lxeGdIOWxIWWcxaGRzRTNZYm5WWW1YUy1Tc0V5dC1vUzF3OFZ1SElXallNNEpaWNIBfkFVX3lxTE1lcGpPTEQ3U2ZtckRMMjRwOXRSaFBLa21qUEtWNnhmLWdVb210eDk1dzgxV3pvTURPVG1NRG9wZzBKYmRyMndUcVlTRHZKckpGOUp4UWkyd0lXQlFxTXpBSUtWQ3lpSmcweF9aUGRkOXVWem84Wm9jQlBNWVhyZw?oc=5"
-        },
-        {
-          "headline": "Oil Tanker On Fire After Hitting Mine In Hormuz",
-          "source": "gCaptain",
-          "snippet": "Oil Tanker On Fire After Hitting Mine In Hormuz &nbsp;&nbsp; gCaptain",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tcGhyWWhpb0VoYzc0V0NtNmJZbEdVOUdOTlp1SGNyeXppUWtiRzh4TS1kNThvV2xDdmdnR2xLcUV1Z3k0VEswZzFIem9sTFlCdURUdm8yQVBVN1V4ZGR4WkxfUUZkbkVFZmItelVRWEhSMFlFTy1TNQ?oc=5"
-        },
-        {
-          "headline": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz, Iranian state media says",
-          "source": "The Jerusalem Post",
-          "snippet": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz, Iranian state media says &nbsp;&nbsp; The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5"
-        },
-        {
-          "headline": "FinancialJuice: Iran navy: oil tanker catches fire after striking naval mine in eastern Strait of Hormuz",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852173/Iran-navy-oil-tanker-catches-fire-after-striking-naval-mine-in-eastern-Strait-of-Hormuz.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMWdfVFdKTGhEeHE3ck9CT1Z1SGZYWkdhZDhiSE1yRFdDTDk1dmlQNkNCOFpvR3pmMTFPOTZZY3JnaWlEU21UV3lxeGdIOWxIWWcxaGRzRTNZYm5WWW1YUy1Tc0V5dC1vUzF3OFZ1SElXallNNEpaWNIBfkFVX3lxTE1lcGpPTEQ3U2ZtckRMMjRwOXRSaFBLa21qUEtWNnhmLWdVb210eDk1dzgxV3pvTURPVG1NRG9wZzBKYmRyMndUcVlTRHZKckpGOUp4UWkyd0lXQlFxTXpBSUtWQ3lpSmcweF9aUGRkOXVWem84Wm9jQlBNWVhyZw?oc=5"
-        },
-        {
-          "name": "gCaptain",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tcGhyWWhpb0VoYzc0V0NtNmJZbEdVOUdOTlp1SGNyeXppUWtiRzh4TS1kNThvV2xDdmdnR2xLcUV1Z3k0VEswZzFIem9sTFlCdURUdm8yQVBVN1V4ZGR4WkxfUUZkbkVFZmItelVRWEhSMFlFTy1TNQ?oc=5"
-        },
-        {
-          "name": "The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5"
-        },
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852173/Iran-navy-oil-tanker-catches-fire-after-striking-naval-mine-in-eastern-Strait-of-Hormuz.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-3660c87ec0ca",
-      "original_title": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
-      "published_at": "2026-11-14T21:17:42Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
-          "source": "PBS",
-          "snippet": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead &nbsp;&nbsp; PBS",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWF95RFoyV2VsTFFrY2ttQ1BPSkZWek9BYklZNlRFUkJmYWJnUHZkbnFxb0dpQ1dyb3luSVBJMHloQUc5c2pvWnlCMlp4XzlBUTZzZ3Y1b0tOX3VhRHhCYkpLUzBsLTM3QWxXWEcxVDd0V09wc1JHd0Jlck8wTk0tcENkQldrcURzYUt4YnJ2YWVidnRmekN3UkVTdlRWY1ZzU2R2UGliOGJoNzJYc1pYM3FlMjRCdW1CdVlqUHVEZXBzLVluMkFIZlZUV0RnY25ET0pB0gHYAUFVX3lxTE4tMWlDdm45Z09EdmREdGlSelA0ZVhGOTVFTHZMV0hKekhXM2MxTm5tbmUxR01kaVBGNDgxNFhjazFEb1VEWkZiNWczM1ZORGdITm1XRDBTT2hxUXRtWEkyaG9jYmJOYkhHQVhSVGhVN2s1dGRYSklOTXFFb2I5M1ltX1k5a0IyalFUclNvNU5jZVFXOEhFMW0wemNFLUMyTEo1THBPX2dwY2NNZkloOV9NaWg4bkthZ0ZleHJvX0p0RjhIS0dVcGlTQ3M1LVFFbEFkMmFEUjAxaw?oc=5"
-        },
-        {
-          "headline": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
-          "source": "AP News",
-          "snippet": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead &nbsp;&nbsp; AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOElJSFBrTXp0cHBzTy1LMFh6T1lRM0NPNU9UMUNUaUNnc1pMNVdFQmdlQ2pjNFdGRjJFSGdwbzNnWDJSV1NMdEJ0MUVYS3d0N182Vjd3UzhyQlNzWGhvOW5PZzNIOVBmOGc2QlhFRmZGQmtncVFPa0lqOGNSVWxJRUstTnJGaGZod1BYTURWYkgwUXdT?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWF95RFoyV2VsTFFrY2ttQ1BPSkZWek9BYklZNlRFUkJmYWJnUHZkbnFxb0dpQ1dyb3luSVBJMHloQUc5c2pvWnlCMlp4XzlBUTZzZ3Y1b0tOX3VhRHhCYkpLUzBsLTM3QWxXWEcxVDd0V09wc1JHd0Jlck8wTk0tcENkQldrcURzYUt4YnJ2YWVidnRmekN3UkVTdlRWY1ZzU2R2UGliOGJoNzJYc1pYM3FlMjRCdW1CdVlqUHVEZXBzLVluMkFIZlZUV0RnY25ET0pB0gHYAUFVX3lxTE4tMWlDdm45Z09EdmREdGlSelA0ZVhGOTVFTHZMV0hKekhXM2MxTm5tbmUxR01kaVBGNDgxNFhjazFEb1VEWkZiNWczM1ZORGdITm1XRDBTT2hxUXRtWEkyaG9jYmJOYkhHQVhSVGhVN2s1dGRYSklOTXFFb2I5M1ltX1k5a0IyalFUclNvNU5jZVFXOEhFMW0wemNFLUMyTEo1THBPX2dwY2NNZkloOV9NaWg4bkthZ0ZleHJvX0p0RjhIS0dVcGlTQ3M1LVFFbEFkMmFEUjAxaw?oc=5"
-        },
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOElJSFBrTXp0cHBzTy1LMFh6T1lRM0NPNU9UMUNUaUNnc1pMNVdFQmdlQ2pjNFdGRjJFSGdwbzNnWDJSV1NMdEJ0MUVYS3d0N182Vjd3UzhyQlNzWGhvOW5PZzNIOVBmOGc2QlhFRmZGQmtncVFPa0lqOGNSVWxJRUstTnJGaGZod1BYTURWYkgwUXdT?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-368f3d94391f",
-      "original_title": "FinancialJuice: Bitcoin falls 5.3% to $64,733.68",
-      "published_at": "2026-11-14T20:56:42Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Bitcoin falls 5.3% to $64,733.68",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852389/Bitcoin-falls-53-to-6473368.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852389/Bitcoin-falls-53-to-6473368.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-1b365b6e5f91",
-      "original_title": "Iran says three oil tankers hit mines and caught fire in the Strait of Hormuz",
-      "published_at": "2026-11-14T20:04:37Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran says three oil tankers hit mines and caught fire in the Strait of Hormuz",
-          "source": "MLQ.ai",
-          "snippet": "Iran says three oil tankers hit mines and caught fire in the Strait of Hormuz &nbsp;&nbsp; MLQ.ai",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkE3dnM3QjdXNXhscU8wbThWOGVfYk5yYkNhU2c1U0tULUVlOTFZbUU5djZ5VUZhSmozZGRTR3JnODRNWWE4YlVmLXE4OVpCYTUwcTZhMnhuNV9hTF9MU0EwWmdKbjU4YmFkZC1nS1Z1VUlKbWNiMHBhdmlsN1pWWGZPU0FPZ0RoODFjaDMzSFRpdnV0LXJESUtmaklSUU0?oc=5"
-        },
-        {
-          "headline": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13",
-          "source": "https://houseofsaud.com/",
-          "snippet": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13 &nbsp;&nbsp; https://houseofsaud.com/",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySzYzbjEyZVhzSkpIZDJpWDR3b2J3bEFOU2dUQmVKRnVDNmRqSWZDOGFKclV4WjZPam1Sa0xYVmxPWTN0ZXRTdlNpa3NqNFpaZkpqQUdyWWFTZHJXOUJhVHAwTE0xd3EzQWFTVzRsOTlxTnR4?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "MLQ.ai",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkE3dnM3QjdXNXhscU8wbThWOGVfYk5yYkNhU2c1U0tULUVlOTFZbUU5djZ5VUZhSmozZGRTR3JnODRNWWE4YlVmLXE4OVpCYTUwcTZhMnhuNV9hTF9MU0EwWmdKbjU4YmFkZC1nS1Z1VUlKbWNiMHBhdmlsN1pWWGZPU0FPZ0RoODFjaDMzSFRpdnV0LXJESUtmaklSUU0?oc=5"
-        },
-        {
-          "name": "https://houseofsaud.com/",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySzYzbjEyZVhzSkpIZDJpWDR3b2J3bEFOU2dUQmVKRnVDNmRqSWZDOGFKclV4WjZPam1Sa0xYVmxPWTN0ZXRTdlNpa3NqNFpaZkpqQUdyWWFTZHJXOUJhVHAwTE0xd3EzQWFTVzRsOTlxTnR4?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-6bc027406592",
-      "original_title": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
-      "published_at": "2026-11-14T19:47:05Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
-          "source": "ASHARQ AL-AWSAT English",
-          "snippet": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz &nbsp;&nbsp; ASHARQ AL-AWSAT English",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0g0Wi1Qa24tZUxSeUcxOW1wWTdua09NUHRHakFIUFQ2cTZfWnJlVUpXZ25sYTg5MjFZeUhrSEFXVGkzTElXUGdDbG9XLXZheGI1MjRJQ1NuLTNmMEo0cmpWNTllYUxaX2xENE8wVXRVTGdoMENMZVdKX0FDeks5NFRqWEcxWGo5QW5oWkRLU2E1Ujc4cWpEZXNhSVpQWFB5MmxMMldPc1k4dlk?oc=5"
-        },
-        {
-          "headline": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz",
-          "source": "Al Arabiya English",
-          "snippet": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz &nbsp;&nbsp; Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VpVFdzS196OTBVNVVQUDJGbXo4cmJidWtyM2ZOMkQyOElsVEVtVEk3SV8xV1NqbDRqOG5hV1pBaXh2TzBUcDdqNlhmMHFnY1ljMUhFM04zQTF6M09oWU13VlViV1Y3Y0xWUVJmQnFuWUFBRHFIY3R6ZGJ1QS1ZYzNiWHNhU0VBd2VVV2FNcEJSc1NkTS02M1ZhVVZTZlhMeXZRTlN5VGZLUUhKa2RyZ1BDdUNlOVBxanpwNjNYUdIBxAFBVV95cUxPbFNtOHBUa1dQOS1DQ1B5Vkdjd1hub3ZwRk93emk0b2ROQmNNV1R2VTNELVNjamFSOEZ1RzNOVW9PU2w2RkJSY1Bld3ZaWFdpdDkxblJNT3l2OHpWNlNxTXJwb1hVZjNERXJ6dllNdlhKNGxWcTJSR2N5NVlNUm5hZDZwTEJRMDY2RXVBT0N3VUI5SG9ha005VnlPc0FIUEFVRWY1SkhyUmwyWUlsaHNfNXI0UjloQlNBQ1RRbi1Yb25tZnha?oc=5"
-        },
-        {
-          "headline": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz",
-          "source": "شبكة تواصل الإخبارية",
-          "snippet": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz &nbsp;&nbsp; شبكة تواصل الإخبارية",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPM0JIbjl0Y3lZMkpPa0hSSGFRc2JfcXZQWlh6eUE5enJGaGVKTi1EbmpNZzc5UmVkalRic25tS0ZNMTZZdHgtVVZ1NGpGNW56OUFV?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "ASHARQ AL-AWSAT English",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0g0Wi1Qa24tZUxSeUcxOW1wWTdua09NUHRHakFIUFQ2cTZfWnJlVUpXZ25sYTg5MjFZeUhrSEFXVGkzTElXUGdDbG9XLXZheGI1MjRJQ1NuLTNmMEo0cmpWNTllYUxaX2xENE8wVXRVTGdoMENMZVdKX0FDeks5NFRqWEcxWGo5QW5oWkRLU2E1Ujc4cWpEZXNhSVpQWFB5MmxMMldPc1k4dlk?oc=5"
-        },
-        {
-          "name": "Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VpVFdzS196OTBVNVVQUDJGbXo4cmJidWtyM2ZOMkQyOElsVEVtVEk3SV8xV1NqbDRqOG5hV1pBaXh2TzBUcDdqNlhmMHFnY1ljMUhFM04zQTF6M09oWU13VlViV1Y3Y0xWUVJmQnFuWUFBRHFIY3R6ZGJ1QS1ZYzNiWHNhU0VBd2VVV2FNcEJSc1NkTS02M1ZhVVZTZlhMeXZRTlN5VGZLUUhKa2RyZ1BDdUNlOVBxanpwNjNYUdIBxAFBVV95cUxPbFNtOHBUa1dQOS1DQ1B5Vkdjd1hub3ZwRk93emk0b2ROQmNNV1R2VTNELVNjamFSOEZ1RzNOVW9PU2w2RkJSY1Bld3ZaWFdpdDkxblJNT3l2OHpWNlNxTXJwb1hVZjNERXJ6dllNdlhKNGxWcTJSR2N5NVlNUm5hZDZwTEJRMDY2RXVBT0N3VUI5SG9ha005VnlPc0FIUEFVRWY1SkhyUmwyWUlsaHNfNXI0UjloQlNBQ1RRbi1Yb25tZnha?oc=5"
-        },
-        {
-          "name": "شبكة تواصل الإخبارية",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPM0JIbjl0Y3lZMkpPa0hSSGFRc2JfcXZQWlh6eUE5enJGaGVKTi1EbmpNZzc5UmVkalRic25tS0ZNMTZZdHgtVVZ1NGpGNW56OUFV?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-6a8d043331bc",
-      "original_title": "이스라엘 \"이란, 트럼프 대통령·백악관 수뇌부 겨냥 드론 공격 계획\" 정보 CIA에 전달 [공부의여신 네트워크] 이스라엘 정보기관 모사드가 이란이 트럼프 대통령과 행정부 고위 인사들을 노린 드론 공격을 계획하고 있다는 정보를 미국 중앙정보국(CIA)에 넘겼다고 이스라엘 일간 이스라엘 하욤이 14일 보도했습니다. 신문은 이스라엘과 미국의 고위 소식통을 인용했으며, 미국 정부의 공식 확인은 아직",
-      "published_at": "2026-11-14T19:03:31Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "이스라엘 \"이란, 트럼프 대통령·백악관 수뇌부 겨냥 드론 공격 계획\" 정보 CIA에 전달 [공부의여신 네트워크] 이스라엘 정보기관 모사드가 이란이 트럼프 대통령과 행정부 고위 인사들을 노린 드론 공격을 계획하고 있다는 정보를 미국 중앙정보국(CIA)에 넘겼다고 이스라엘 일간 이스라엘 하욤이 14일 보도했습니다. 신문은 이스라엘과 미국의 고위 소식통을 인용했으며, 미국 정부의 공식 확인은 아직",
-          "source": "Telegram @goddessTTF",
-          "snippet": "이스라엘 \"이란, 트럼프 대통령·백악관 수뇌부 겨냥 드론 공격 계획\" 정보 CIA에 전달 [공부의여신 네트워크] 이스라엘 정보기관 모사드가 이란이 트럼프 대통령과 행정부 고위 인사들을 노린 드론 공격을 계획하고 있다는 정보를 미국 중앙정보국(CIA)에 넘겼다고 이스라엘 일간 이스라엘 하욤이 14일 보도했습니다. 신문은 이스라엘과 미국의 고위 소식통을 인용했으며, 미국 정부의 공식 확인은 아직 나오지 않았습니다. 보도에 따르면 미국 정보당국이 모사드에 해당 정보의 검증을 요청했고, 이스라엘이 이를 확인해 줬습니다. 이 정보는 또 다른 서방 정보기관도 검증했다고 신문은 전했습니다. 거론된 공격 방식 가운데 하나는 자폭 드론으로, 일반적인 요인 경호로는 막기 어려운 수단입니다. 로만 고프만 모사드 국장은 현재 미국을 방문 중이며 존 랫클리프 CIA 국장과 만났습니다. 【트럼프 대통령 야외 일정 축소, 협상 기류도 바뀌어】 이스라엘 하욤은 이 위협 때문에 트럼프 대통령의 야외 공개 행사가 크게 줄었고, 행사가 열릴 때는 강화된 경호와 함께 드론 위협을 무력화하는 특수 장비가 투입된다고 전했습니다. 소식통들은 이 정보가 최근 트럼프 대통령이 이란과의 합의 협상에서 태도를 바꾼 핵심 이유 가운데 하나라고 주장했지만, 이 부분은 확인되지 않았습니다. 앞서 폭스뉴스는 이란의 위협에 따라 스콧 베센트 재무부 장관이 조지타운 자택을 떠나 군 기지로 옮겼고, 마코 루비오 국무장관도 군 기지 관사로 거처를 옮겼으며, 피트 헤그세스 전쟁부 장관 역시 보안 군사시설에 머물고 있다고 보도했습니다. 베센트 장관은 13일 CNBC 인터뷰에서 이란으로부터 살해 위협을 받고 있다고 직접 밝혔습니다.",
-          "url": "https://t.me/goddessTTF/87091"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/87091"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-bb5f3346227e",
-      "original_title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
-      "published_at": "2026-11-14T17:29:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
-          "source": "AP News",
-          "snippet": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead &nbsp;&nbsp; AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOElJSFBrTXp0cHBzTy1LMFh6T1lRM0NPNU9UMUNUaUNnc1pMNVdFQmdlQ2pjNFdGRjJFSGdwbzNnWDJSV1NMdEJ0MUVYS3d0N182Vjd3UzhyQlNzWGhvOW5PZzNIOVBmOGc2QlhFRmZGQmtncVFPa0lqOGNSVWxJRUstTnJGaGZod1BYTURWYkgwUXdT?oc=5"
-        },
-        {
-          "headline": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
-          "source": "Ynetnews",
-          "snippet": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead &nbsp;&nbsp; Ynetnews",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2U1ZhNkVTbmZwUU1BcHgySlhtU0ZoWjJwSWhodXNSTWNXUFh0X3hJN3ZMVkhEQjdZbmZSNlhEQTNUUUkxUzh3ZFMtQzVsT3R0TWNaYXUtOA?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOElJSFBrTXp0cHBzTy1LMFh6T1lRM0NPNU9UMUNUaUNnc1pMNVdFQmdlQ2pjNFdGRjJFSGdwbzNnWDJSV1NMdEJ0MUVYS3d0N182Vjd3UzhyQlNzWGhvOW5PZzNIOVBmOGc2QlhFRmZGQmtncVFPa0lqOGNSVWxJRUstTnJGaGZod1BYTURWYkgwUXdT?oc=5"
-        },
-        {
-          "name": "Ynetnews",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2U1ZhNkVTbmZwUU1BcHgySlhtU0ZoWjJwSWhodXNSTWNXUFh0X3hJN3ZMVkhEQjdZbmZSNlhEQTNUUUkxUzh3ZFMtQzVsT3R0TWNaYXUtOA?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-9e117824af9f",
-      "original_title": "베드퍼드 FAA 청장 \"근본 원인 분석은 아직\"…오늘 4천∼5천 편 결항, 내일 정상화 전망 [공부의여신 네트워크] 브라이언 베드퍼드 연방항공청(FAA) 청장은 14일(현지시간) 두 번째 기자회견에서, 전날 전국 이륙 중단을 부른 장비 쪽 문제는 확인했지만 근본 원인 분석은 아직 끝나지 않았다고 밝혔습니다. 베드퍼드 청장은 \"결함은 찾아낸 것으로 생각한다\"면서도 \"이 불량 장비가 잘못된 설치",
-      "published_at": "2026-11-14T16:39:52Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "베드퍼드 FAA 청장 \"근본 원인 분석은 아직\"…오늘 4천∼5천 편 결항, 내일 정상화 전망 [공부의여신 네트워크] 브라이언 베드퍼드 연방항공청(FAA) 청장은 14일(현지시간) 두 번째 기자회견에서, 전날 전국 이륙 중단을 부른 장비 쪽 문제는 확인했지만 근본 원인 분석은 아직 끝나지 않았다고 밝혔습니다. 베드퍼드 청장은 \"결함은 찾아낸 것으로 생각한다\"면서도 \"이 불량 장비가 잘못된 설치",
-          "source": "Telegram @goddessTTF",
-          "snippet": "베드퍼드 FAA 청장 \"근본 원인 분석은 아직\"…오늘 4천∼5천 편 결항, 내일 정상화 전망 [공부의여신 네트워크] 브라이언 베드퍼드 연방항공청(FAA) 청장은 14일(현지시간) 두 번째 기자회견에서, 전날 전국 이륙 중단을 부른 장비 쪽 문제는 확인했지만 근본 원인 분석은 아직 끝나지 않았다고 밝혔습니다. 베드퍼드 청장은 \"결함은 찾아낸 것으로 생각한다\"면서도 \"이 불량 장비가 잘못된 설치 때문인지, 잘못된 설정 때문인지, 아니면 시스템에 넣은 라우터 자체가 불량이었는지를 가리고 있다\"고 말했습니다. \"근본 원인 분석이 끝나는 대로 공개하겠다\"고도 했습니다. 숀 더피 교통부 장관은 같은 회견에서 L3해리스가 원격 FAA 시설의 구리선을 광섬유로 바꾸던 중 라우터가 다른 장비를 과부하한 것이 촉발 요인이라고 설명했지만, 작업 실수인지 장비 결함인지는 아직 가리지 못했다고 했습니다. 베드퍼드 청장은 먼저 \"미국 여행객들에게 진심 어린 사과를 드린다\"며 \"수만 명의 비행이 어제 차질을 빚었다. 만일을 위한 조치였다\"고 말했습니다. \"이런 일을 겪게 해 미안하다. 그러나 올바른 이유에서 한 일\"이라고도 했습니다. 시스템이 약 45분 동안 불안정을 보였고 그 원인을 가리지 못해 동부시간 오후 3시 45분께 이륙 중단을 내렸다고 설명했습니다. 질의응답에서는 \"아무것도 다운된 것은 아니다. 불안정이 나타났고, 그 불안정이 왜 생겼는지 설명할 수 없었다\"며 항로 관제 시설 22곳 가운데 17곳으로 문제가 퍼지는 것을 빠르게 설명하지 못해 전국 이륙 중단에 나섰다고 했습니다. 해킹이나 AI와 관련된 증거는 전혀 없다고 재확인했습니다. 베드퍼드 청장에 따르면 금요일에는 5만 편이 예정돼 있었고, 이륙 중단 시점까지 약 3만 편은 이미 운항했거나 운항 중이었습니다. 약 4시간 중단 동안 남은 2만 편 가운데 8천 편은 회복했지만 1만2천 편은 회복하지 못했고, 이 가운데 상용 9천 편, 자가용·일반항공이 3천 편이었습니다. 이날(토요일) 예정된 4만1천 편 가운데 4천∼5천 편이 취소될 것으로 내다봤습니다. \"오늘도 지연과 결항이 있겠지만, 그것이 내일 완전한 회복으로 이어질 것\"이라며, 항공사들 말을 빌려 일요일 업무 종료 무렵에는 일정이 정상화될 것으로 본다고 했습니다. 시스템은 이날 아침 안정됐지만, 승무원과 항공기가 제자리에 있지 않아 회복 작업이 이어지고 있다고 설명했습니다. 질의응답에서 베드퍼드 청장은 이번 작업이 현대화가 아니라 1980년대 통신망을 유지하는 일상적인 지속 작업이었다고 강조했습니다. 연방 전화 인프라는 하나뿐이라 \"백업의 백업은 없다\"고 했고, 근본 원인 분석이 끝나는 대로 향후 유지 작업 방식을 조정하겠다고 했습니다. 발이 묶인 승객에게는 항공사들이 약관을 면제하고 있으며, 다른 편으로 재예약하거나 전액 환불을 받을 수 있으니 해당 항공사에 직접 연락하라고 안내했습니다.",
-          "url": "https://t.me/goddessTTF/87088"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/87088"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-152b74bda140",
-      "original_title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
-      "published_at": "2026-11-14T16:33:29Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-7dd0fc1d1caa",
-      "original_title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
-      "published_at": "2026-11-14T16:33:29Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-923f6cb89fd7",
-      "original_title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-      "published_at": "2026-11-14T16:33:29Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-04efc492de8b",
-      "original_title": "더피 장관 \"전국 이륙 중단 원인은 L3해리스 장비 교체\"…FAA 청장 \"해킹·AI 흔적 없다\" [공부의여신 네트워크] 숀 더피 교통부 장관은 14일(현지시간) 기자회견에서 전날 미 전역의 항공기 이륙을 멈춰 세운 사태의 원인을 공개했습니다. 더피 장관은 방산업체 L3해리스가 \"최소 한 곳의 원격 FAA 시설\"에서 단종된 기존 선로를 광섬유로 교체하는 작업을 하던 중, 라우터가 다른 시스템에",
-      "published_at": "2026-11-14T16:32:02Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "더피 장관 \"전국 이륙 중단 원인은 L3해리스 장비 교체\"…FAA 청장 \"해킹·AI 흔적 없다\" [공부의여신 네트워크] 숀 더피 교통부 장관은 14일(현지시간) 기자회견에서 전날 미 전역의 항공기 이륙을 멈춰 세운 사태의 원인을 공개했습니다. 더피 장관은 방산업체 L3해리스가 \"최소 한 곳의 원격 FAA 시설\"에서 단종된 기존 선로를 광섬유로 교체하는 작업을 하던 중, 라우터가 다른 시스템에",
-          "source": "Telegram @goddessTTF",
-          "snippet": "더피 장관 \"전국 이륙 중단 원인은 L3해리스 장비 교체\"…FAA 청장 \"해킹·AI 흔적 없다\" [공부의여신 네트워크] 숀 더피 교통부 장관은 14일(현지시간) 기자회견에서 전날 미 전역의 항공기 이륙을 멈춰 세운 사태의 원인을 공개했습니다. 더피 장관은 방산업체 L3해리스가 \"최소 한 곳의 원격 FAA 시설\"에서 단종된 기존 선로를 광섬유로 교체하는 작업을 하던 중, 라우터가 다른 시스템에 데이터를 폭주시키면서 문제가 생겼다고 설명했습니다. 더피 장관은 작업자의 실수인지 장비 결함인지 가리기 위한 조사에 착수했다고 확인했습니다. 금요일 오후 3시에 업그레이드를 진행한 이유를 묻는 질문도 나왔습니다. 더피 장관은 당시 상공에 있던 항공기 3,500대가 모두 안전하게 착륙했다며 관제사와 조종사들에게 감사를 전했습니다. 브라이언 베드퍼드 FAA 청장은 \"미국 여행객들에게 진심으로 사과한다\"며 \"수만 명의 비행이 차질을 빚었지만 이는 만일을 위한 조치였다\"고 말했습니다. 이어 \"결함을 찾아냈다\"며 \"악의적인 행위나 AI와 관련된 증거는 전혀 없다\"고 밝혔습니다. 【현대화 예산 촉구】 더피 장관은 의회에 항공관제 시스템 현대화 예산을 전액 승인해 달라고 촉구했습니다. 그는 \"이것은 초당적 운동\"이라며 \"세계 최고 수준의 항공관제 시스템에 투자하길 바란다\"고 말했습니다. 백악관도 같은 날 안전을 최우선으로 하면서 현대화 예산 전액을 요구하는 자료를 냈습니다. 로이터에 따르면 이날도 미국 내 항공편 3,700편 이상이 취소되고 2,000편이 지연됐습니다.",
-          "url": "https://t.me/goddessTTF/87087"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/87087"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-b567d60a0380",
-      "original_title": "국제에너지기구(IEA)는 4분기 세계 원유 시장이 하루 170만 배럴의 공급 과잉을 보일 것으로 전망했습니다. 미국과 이란의 전쟁이 이어지는데도 걸프 지역 수출이 회복되고 있으며, 10월 OPEC+ 생산량은 전쟁 전의 97% 수준까지 올라왔습니다.",
-      "published_at": "2026-11-14T16:05:06Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "국제에너지기구(IEA)는 4분기 세계 원유 시장이 하루 170만 배럴의 공급 과잉을 보일 것으로 전망했습니다. 미국과 이란의 전쟁이 이어지는데도 걸프 지역 수출이 회복되고 있으며, 10월 OPEC+ 생산량은 전쟁 전의 97% 수준까지 올라왔습니다.",
-          "source": "Telegram @goddessTTF",
-          "snippet": "국제에너지기구(IEA)는 4분기 세계 원유 시장이 하루 170만 배럴의 공급 과잉을 보일 것으로 전망했습니다. 미국과 이란의 전쟁이 이어지는데도 걸프 지역 수출이 회복되고 있으며, 10월 OPEC+ 생산량은 전쟁 전의 97% 수준까지 올라왔습니다.",
-          "url": "https://t.me/goddessTTF/87086"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/87086"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-fa6b0181ea62",
-      "original_title": "개빈 뉴스컴이 캘리포니아 사형수 563명 전원의 사형 집행을 중단한 것은, 이 지구상에 살았던 가장 냉혈한 살인범들 가운데 일부를 포함한 이들에 대한 조치로서, 미국 정의에 대한 재앙입니다. 이 이름들 가운데 많은 이들은 여러 번 거듭해서 사람을 죽인 자들인데, 길고 굽이진 사법 절차가 끝까지 진행되도록 두지 않을 만큼 무능하고 무감각한 주지사를 만난 자신들의 행운을 믿지 못하고 있을 것입니",
-      "published_at": "2026-11-14T16:01:23Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "개빈 뉴스컴이 캘리포니아 사형수 563명 전원의 사형 집행을 중단한 것은, 이 지구상에 살았던 가장 냉혈한 살인범들 가운데 일부를 포함한 이들에 대한 조치로서, 미국 정의에 대한 재앙입니다. 이 이름들 가운데 많은 이들은 여러 번 거듭해서 사람을 죽인 자들인데, 길고 굽이진 사법 절차가 끝까지 진행되도록 두지 않을 만큼 무능하고 무감각한 주지사를 만난 자신들의 행운을 믿지 못하고 있을 것입니",
-          "source": "Telegram @goddessTTF",
-          "snippet": "개빈 뉴스컴이 캘리포니아 사형수 563명 전원의 사형 집행을 중단한 것은, 이 지구상에 살았던 가장 냉혈한 살인범들 가운데 일부를 포함한 이들에 대한 조치로서, 미국 정의에 대한 재앙입니다. 이 이름들 가운데 많은 이들은 여러 번 거듭해서 사람을 죽인 자들인데, 길고 굽이진 사법 절차가 끝까지 진행되도록 두지 않을 만큼 무능하고 무감각한 주지사를 만난 자신들의 행운을 믿지 못하고 있을 것입니다. 그토록 잔혹하게 살해당한 이들의 유가족은 당연히 참담해하고 있습니다. 이 결정이 뒤집히기를 바랍니다! 도널드 J. 트럼프 대통령",
-          "url": "https://t.me/goddessTTF/87085"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/87085"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-20dd42de40bb",
-      "original_title": "FinancialJuice: US transportation secretary Duffy: aviation resumes full operation after Friday shutdown",
-      "published_at": "2026-11-14T15:59:43Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US transportation secretary Duffy: aviation resumes full operation after Friday shutdown",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852295/US-transportation-secretary-Duffy-aviation-resumes-full-operation-after-Friday-shutdown.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852295/US-transportation-secretary-Duffy-aviation-resumes-full-operation-after-Friday-shutdown.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-4e16cd5a55b3",
-      "original_title": "Fed’s Collins says gradual rate hikes best to manage economic risks By Reuters",
-      "published_at": "2026-11-14T15:51:27Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Fed’s Collins says gradual rate hikes best to manage economic risks By Reuters",
-          "source": "Investing.com",
-          "snippet": "Fed’s Collins says gradual rate hikes best to manage economic risks By Reuters &nbsp;&nbsp; Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2xyQjlEVEk2dFJOb3FtdjdyS0dpSlJaSzVzVFViOGN2ekszOUdLNjduSUR5MWx2aDNnTk9RU2VscTEtaW5QR2NMbHk5MXpEYlRzLUc5NV9HQWR5Wm9aQUtzbHJMVlE1TVVXWVlUV0RSclJ0YlNOM2h5djVtaUJIM1NTeEM2ZVVDR01rR2ZXa1Nlb1g4aTZDSFp1cDhOaDJSU2NoVDk4eWVXOXhhdWdqaDMzdy1OcjRJWGc?oc=5"
-        },
-        {
-          "headline": "Fed's Collins says gradual rate hikes best to manage economic risks",
-          "source": "Tacoma News Tribune",
-          "snippet": "Fed's Collins says gradual rate hikes best to manage economic risks &nbsp;&nbsp; Tacoma News Tribune",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFBpcnM1X3dFZXl0MnEwOVM3QmFlNEkwRWw2a3RZUUlxMmp6VE41V0Z4X0V3UGtjU2RTbUdjc2FQQkctVTlST0xYLXpTZFhiaW9KdlVRd3dVVVJ3YnFLN3RFVkhodkdVVmRheF8xVl9xV05WTjVZRV9FVjZ5YUk2Y012LW5IQQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2xyQjlEVEk2dFJOb3FtdjdyS0dpSlJaSzVzVFViOGN2ekszOUdLNjduSUR5MWx2aDNnTk9RU2VscTEtaW5QR2NMbHk5MXpEYlRzLUc5NV9HQWR5Wm9aQUtzbHJMVlE1TVVXWVlUV0RSclJ0YlNOM2h5djVtaUJIM1NTeEM2ZVVDR01rR2ZXa1Nlb1g4aTZDSFp1cDhOaDJSU2NoVDk4eWVXOXhhdWdqaDMzdy1OcjRJWGc?oc=5"
-        },
-        {
-          "name": "Tacoma News Tribune",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFBpcnM1X3dFZXl0MnEwOVM3QmFlNEkwRWw2a3RZUUlxMmp6VE41V0Z4X0V3UGtjU2RTbUdjc2FQQkctVTlST0xYLXpTZFhiaW9KdlVRd3dVVVJ3YnFLN3RFVkhodkdVVmRheF8xVl9xV05WTjVZRV9FVjZ5YUk2Y012LW5IQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-13e0c15c6d01",
-      "original_title": "Fed's Collins says gradual rate hikes best to manage economic risks",
-      "published_at": "2026-11-14T15:46:19Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Fed's Collins says gradual rate hikes best to manage economic risks",
-          "source": "AOL.co.uk",
-          "snippet": "Fed's Collins says gradual rate hikes best to manage economic risks &nbsp;&nbsp; AOL.co.uk",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTkp5dDZxNzhXTkpNY0N5a3ZJWXFwWkJDanltY012VkluRTVHSFlzMEhlS1o0NUtCRWRMc0s2SVZCYlFVRXVIZU1sVTR5dkppTXhJa2YtUXBTbjJyVTNhd0hCV0Q0Vy1OaEFzZTVCekVaOVJ1bXgxODZ5TWRTVk9CcDd3?oc=5"
-        },
-        {
-          "headline": "Fed's Collins says gradual rate hikes best to manage economic risks",
-          "source": "Tacoma News Tribune",
-          "snippet": "Fed's Collins says gradual rate hikes best to manage economic risks &nbsp;&nbsp; Tacoma News Tribune",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFBpcnM1X3dFZXl0MnEwOVM3QmFlNEkwRWw2a3RZUUlxMmp6VE41V0Z4X0V3UGtjU2RTbUdjc2FQQkctVTlST0xYLXpTZFhiaW9KdlVRd3dVVVJ3YnFLN3RFVkhodkdVVmRheF8xVl9xV05WTjVZRV9FVjZ5YUk2Y012LW5IQQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "AOL.co.uk",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTkp5dDZxNzhXTkpNY0N5a3ZJWXFwWkJDanltY012VkluRTVHSFlzMEhlS1o0NUtCRWRMc0s2SVZCYlFVRXVIZU1sVTR5dkppTXhJa2YtUXBTbjJyVTNhd0hCV0Q0Vy1OaEFzZTVCekVaOVJ1bXgxODZ5TWRTVk9CcDd3?oc=5"
-        },
-        {
-          "name": "Tacoma News Tribune",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFBpcnM1X3dFZXl0MnEwOVM3QmFlNEkwRWw2a3RZUUlxMmp6VE41V0Z4X0V3UGtjU2RTbUdjc2FQQkctVTlST0xYLXpTZFhiaW9KdlVRd3dVVVJ3YnFLN3RFVkhodkdVVmRheF8xVl9xV05WTjVZRV9FVjZ5YUk2Y012LW5IQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-1204f718847f",
-      "original_title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-      "published_at": "2026-11-14T15:38:27Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-04db9ee27ede",
-      "original_title": "Peter Schiff Warns Bitcoin Could Fall Below $16.5K, Threatening Strategy",
-      "published_at": "2026-11-14T15:10:21Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Peter Schiff Warns Bitcoin Could Fall Below $16.5K, Threatening Strategy",
-          "source": "CryptoRank",
-          "snippet": "Peter Schiff Warns Bitcoin Could Fall Below $16.5K, Threatening Strategy &nbsp;&nbsp; CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1pneDZEaHpSOXUtNURHalMyck9JTzEzclZwVnpMbVA1MnowR2dpWC1tRDBMTl8zX2JyY21MYWpUVHpPT2NfRnZXSmdEdndVbFU3UHh4cVJtNGdMaWl4Q2czdHJ4ZWhWODlvNXdHZ3dYeEkweE91cS1vN0JENFhzLVNJVkM?oc=5"
-        },
-        {
-          "headline": "Bitcoin could fall below $16.5K, Peter Schiff warns Strategy",
-          "source": "Crypto News",
-          "snippet": "Bitcoin could fall below $16.5K, Peter Schiff warns Strategy &nbsp;&nbsp; Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiRktsVGtDWVJ2WWZKUGk2QXdiNzZiZUxzcVdtYWFXbE0xTkc3dlBxT2Y2RTZjMEJGeDNnY0ZMNHh3SThYUHJrTFFLM2NfQkRmc1NnaXRlRTJYOWtxZDBrRWhQNko5d3lRVnByUllxMnNGdw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1pneDZEaHpSOXUtNURHalMyck9JTzEzclZwVnpMbVA1MnowR2dpWC1tRDBMTl8zX2JyY21MYWpUVHpPT2NfRnZXSmdEdndVbFU3UHh4cVJtNGdMaWl4Q2czdHJ4ZWhWODlvNXdHZ3dYeEkweE91cS1vN0JENFhzLVNJVkM?oc=5"
-        },
-        {
-          "name": "Crypto News",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiRktsVGtDWVJ2WWZKUGk2QXdiNzZiZUxzcVdtYWFXbE0xTkc3dlBxT2Y2RTZjMEJGeDNnY0ZMNHh3SThYUHJrTFFLM2NfQkRmc1NnaXRlRTJYOWtxZDBrRWhQNko5d3lRVnByUllxMnNGdw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-85feefb041fe",
-      "original_title": "Oil Tanker On Fire After Hitting Mine In Hormuz",
-      "published_at": "2026-11-14T14:41:03Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Oil Tanker On Fire After Hitting Mine In Hormuz",
-          "source": "gCaptain",
-          "snippet": "Oil Tanker On Fire After Hitting Mine In Hormuz &nbsp;&nbsp; gCaptain",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tcGhyWWhpb0VoYzc0V0NtNmJZbEdVOUdOTlp1SGNyeXppUWtiRzh4TS1kNThvV2xDdmdnR2xLcUV1Z3k0VEswZzFIem9sTFlCdURUdm8yQVBVN1V4ZGR4WkxfUUZkbkVFZmItelVRWEhSMFlFTy1TNQ?oc=5"
-        },
-        {
-          "headline": "Oil tanker hits naval mine, catches fire in Strait of Hormuz",
-          "source": "NewsNation",
-          "snippet": "Oil tanker hits naval mine, catches fire in Strait of Hormuz &nbsp;&nbsp; NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMWdfVFdKTGhEeHE3ck9CT1Z1SGZYWkdhZDhiSE1yRFdDTDk1dmlQNkNCOFpvR3pmMTFPOTZZY3JnaWlEU21UV3lxeGdIOWxIWWcxaGRzRTNZYm5WWW1YUy1Tc0V5dC1vUzF3OFZ1SElXallNNEpaWNIBfkFVX3lxTE1lcGpPTEQ3U2ZtckRMMjRwOXRSaFBLa21qUEtWNnhmLWdVb210eDk1dzgxV3pvTURPVG1NRG9wZzBKYmRyMndUcVlTRHZKckpGOUp4UWkyd0lXQlFxTXpBSUtWQ3lpSmcweF9aUGRkOXVWem84Wm9jQlBNWVhyZw?oc=5"
-        },
-        {
-          "headline": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz, Iranian state media says",
-          "source": "The Jerusalem Post",
-          "snippet": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz, Iranian state media says &nbsp;&nbsp; The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5"
-        },
-        {
-          "headline": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz",
-          "source": "Al Arabiya English",
-          "snippet": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz &nbsp;&nbsp; Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VpVFdzS196OTBVNVVQUDJGbXo4cmJidWtyM2ZOMkQyOElsVEVtVEk3SV8xV1NqbDRqOG5hV1pBaXh2TzBUcDdqNlhmMHFnY1ljMUhFM04zQTF6M09oWU13VlViV1Y3Y0xWUVJmQnFuWUFBRHFIY3R6ZGJ1QS1ZYzNiWHNhU0VBd2VVV2FNcEJSc1NkTS02M1ZhVVZTZlhMeXZRTlN5VGZLUUhKa2RyZ1BDdUNlOVBxanpwNjNYUdIBxAFBVV95cUxPbFNtOHBUa1dQOS1DQ1B5Vkdjd1hub3ZwRk93emk0b2ROQmNNV1R2VTNELVNjamFSOEZ1RzNOVW9PU2w2RkJSY1Bld3ZaWFdpdDkxblJNT3l2OHpWNlNxTXJwb1hVZjNERXJ6dllNdlhKNGxWcTJSR2N5NVlNUm5hZDZwTEJRMDY2RXVBT0N3VUI5SG9ha005VnlPc0FIUEFVRWY1SkhyUmwyWUlsaHNfNXI0UjloQlNBQ1RRbi1Yb25tZnha?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "gCaptain",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tcGhyWWhpb0VoYzc0V0NtNmJZbEdVOUdOTlp1SGNyeXppUWtiRzh4TS1kNThvV2xDdmdnR2xLcUV1Z3k0VEswZzFIem9sTFlCdURUdm8yQVBVN1V4ZGR4WkxfUUZkbkVFZmItelVRWEhSMFlFTy1TNQ?oc=5"
-        },
-        {
-          "name": "NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMWdfVFdKTGhEeHE3ck9CT1Z1SGZYWkdhZDhiSE1yRFdDTDk1dmlQNkNCOFpvR3pmMTFPOTZZY3JnaWlEU21UV3lxeGdIOWxIWWcxaGRzRTNZYm5WWW1YUy1Tc0V5dC1vUzF3OFZ1SElXallNNEpaWNIBfkFVX3lxTE1lcGpPTEQ3U2ZtckRMMjRwOXRSaFBLa21qUEtWNnhmLWdVb210eDk1dzgxV3pvTURPVG1NRG9wZzBKYmRyMndUcVlTRHZKckpGOUp4UWkyd0lXQlFxTXpBSUtWQ3lpSmcweF9aUGRkOXVWem84Wm9jQlBNWVhyZw?oc=5"
-        },
-        {
-          "name": "The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5"
-        },
-        {
-          "name": "Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VpVFdzS196OTBVNVVQUDJGbXo4cmJidWtyM2ZOMkQyOElsVEVtVEk3SV8xV1NqbDRqOG5hV1pBaXh2TzBUcDdqNlhmMHFnY1ljMUhFM04zQTF6M09oWU13VlViV1Y3Y0xWUVJmQnFuWUFBRHFIY3R6ZGJ1QS1ZYzNiWHNhU0VBd2VVV2FNcEJSc1NkTS02M1ZhVVZTZlhMeXZRTlN5VGZLUUhKa2RyZ1BDdUNlOVBxanpwNjNYUdIBxAFBVV95cUxPbFNtOHBUa1dQOS1DQ1B5Vkdjd1hub3ZwRk93emk0b2ROQmNNV1R2VTNELVNjamFSOEZ1RzNOVW9PU2w2RkJSY1Bld3ZaWFdpdDkxblJNT3l2OHpWNlNxTXJwb1hVZjNERXJ6dllNdlhKNGxWcTJSR2N5NVlNUm5hZDZwTEJRMDY2RXVBT0N3VUI5SG9ha005VnlPc0FIUEFVRWY1SkhyUmwyWUlsaHNfNXI0UjloQlNBQ1RRbi1Yb25tZnha?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-2d27e30aea32",
-      "original_title": "FinancialJuice: Fed's Collins: a strong case to keep rates steady at October FOMC meeting",
-      "published_at": "2026-11-14T14:30:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Collins: a strong case to keep rates steady at October FOMC meeting",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852265/Feds-Collins-a-strong-case-to-keep-rates-steady-at-October-FOMC-meeting.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852265/Feds-Collins-a-strong-case-to-keep-rates-steady-at-October-FOMC-meeting.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-d5c1d3ccde86",
-      "original_title": "FinancialJuice: Fed's Collins: with inflation and jobs figures, central bank may need to raise rates beyond recent forecasts",
-      "published_at": "2026-11-14T14:30:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Collins: with inflation and jobs figures, central bank may need to raise rates beyond recent forecasts",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852264/Feds-Collins-with-inflation-and-jobs-figures-central-bank-may-need-to-raise-rates-beyond-recent-forecasts.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852264/Feds-Collins-with-inflation-and-jobs-figures-central-bank-may-need-to-raise-rates-beyond-recent-forecasts.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-c07ab265dc7b",
-      "original_title": "FinancialJuice: Fed's Collins: essential for Fed to reduce inflation to 2%",
-      "published_at": "2026-11-14T14:30:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Collins: essential for Fed to reduce inflation to 2%",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852262/Feds-Collins-essential-for-Fed-to-reduce-inflation-to-2.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852262/Feds-Collins-essential-for-Fed-to-reduce-inflation-to-2.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-790faab36517",
-      "original_title": "FinancialJuice: Fed's Collins: steady, gradual approach to rate hikes suitable amid risks on both sides",
-      "published_at": "2026-11-14T14:30:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed's Collins: steady, gradual approach to rate hikes suitable amid risks on both sides",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852261/Feds-Collins-steady-gradual-approach-to-rate-hikes-suitable-amid-risks-on-both-sides.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852261/Feds-Collins-steady-gradual-approach-to-rate-hikes-suitable-amid-risks-on-both-sides.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-86d9aece2188",
-      "original_title": "FinancialJuice: Fed’s Collins: inflation expectations remain anchored",
-      "published_at": "2026-11-14T14:30:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed’s Collins: inflation expectations remain anchored",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852260/Feds-Collins-inflation-expectations-remain-anchored.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852260/Feds-Collins-inflation-expectations-remain-anchored.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-c241628bf7d5",
-      "original_title": "FinancialJuice: Fed’s Collins: Best approach to high living costs is restoring inflation stability",
-      "published_at": "2026-11-14T14:30:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Fed’s Collins: Best approach to high living costs is restoring inflation stability",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852258/Feds-Collins-Best-approach-to-high-living-costs-is-restoring-inflation-stability.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852258/Feds-Collins-Best-approach-to-high-living-costs-is-restoring-inflation-stability.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-7009e252f4d4",
-      "original_title": "FinancialJuice: US transportation sec. Duffy: flight operations gradually returning to normal this morning",
-      "published_at": "2026-11-14T13:51:02Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: US transportation sec. Duffy: flight operations gradually returning to normal this morning",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852245/US-transportation-sec-Duffy-flight-operations-gradually-returning-to-normal-this-morning.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852245/US-transportation-sec-Duffy-flight-operations-gradually-returning-to-normal-this-morning.aspx"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-c9dac0f0ad97",
-      "original_title": "Coinbase Institutional Says Fed Rate Expectations Are Driving Bitcoin's Recent Decline",
-      "published_at": "2026-11-14T13:32:00Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Coinbase Institutional Says Fed Rate Expectations Are Driving Bitcoin's Recent Decline",
-          "source": "Hokanews",
-          "snippet": "Coinbase Institutional Says Fed Rate Expectations Are Driving Bitcoin's Recent Decline &nbsp;&nbsp; Hokanews",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydk80MU10aHZaRU9qQ1M2dHN3Z05hS3dLa1BVQ3pGTlY5Nm05Q1pWRXZSZ1dhSU1LWDZuWDN2U1V1cDU3REVnaGMxd3Nwd0dQMGpvcG9Vb2Z1NGVDVUkzclZYZWdxTngwOE0wVHBuNi1mNnlmcVFxajdoYTVYY1E?oc=5"
-        },
-        {
-          "headline": "Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin",
-          "source": "Cryptonews.net",
-          "snippet": "Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin &nbsp;&nbsp; Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pb1Y2QlNVbEc5dXgzejZ6UWxkLVlXeUlwT2RnQ3N4YXVmNHd4bWo3SzljVHl4WE1RMXlsaXE1bDE5bFpyeTZPeDVuWWZiblEzc0gwSk1KdnQ?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Hokanews",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydk80MU10aHZaRU9qQ1M2dHN3Z05hS3dLa1BVQ3pGTlY5Nm05Q1pWRXZSZ1dhSU1LWDZuWDN2U1V1cDU3REVnaGMxd3Nwd0dQMGpvcG9Vb2Z1NGVDVUkzclZYZWdxTngwOE0wVHBuNi1mNnlmcVFxajdoYTVYY1E?oc=5"
-        },
-        {
-          "name": "Cryptonews.net",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pb1Y2QlNVbEc5dXgzejZ6UWxkLVlXeUlwT2RnQ3N4YXVmNHd4bWo3SzljVHl4WE1RMXlsaXE1bDE5bFpyeTZPeDVuWWZiblEzc0gwSk1KdnQ?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-a8440c0442b9",
-      "original_title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-      "published_at": "2026-11-14T13:00:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-748b21930a9f",
-      "original_title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-      "published_at": "2026-11-14T12:57:00Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "A behind the scenes force may amplify bitcoin and ether price volatility",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-db4a8873a821",
-      "original_title": "트럼프 대통령 \"이란 도발 없으면 추가 공습 보류할 수도\" 로이터 단독 [공부의여신 네트워크] 트럼프 대통령이 최근 며칠 사이 고위 참모들에게 이란이나 예멘의 친이란 후티 반군의 새로운 도발이 없다면 이란 공격을 보류할 수 있다고 밝혔다고 로이터통신이 14일 사정을 잘 아는 3명을 인용해 보도했습니다. 트럼프 대통령은 국가안보 참모 회의와 일련의 정보 브리핑 뒤 공습 보류를 검토하고 있다고 ",
-      "published_at": "2026-11-14T12:30:06Z",
-      "discovery_source": "telegram",
-      "evidence": [
-        {
-          "headline": "트럼프 대통령 \"이란 도발 없으면 추가 공습 보류할 수도\" 로이터 단독 [공부의여신 네트워크] 트럼프 대통령이 최근 며칠 사이 고위 참모들에게 이란이나 예멘의 친이란 후티 반군의 새로운 도발이 없다면 이란 공격을 보류할 수 있다고 밝혔다고 로이터통신이 14일 사정을 잘 아는 3명을 인용해 보도했습니다. 트럼프 대통령은 국가안보 참모 회의와 일련의 정보 브리핑 뒤 공습 보류를 검토하고 있다고 ",
-          "source": "Telegram @goddessTTF",
-          "snippet": "트럼프 대통령 \"이란 도발 없으면 추가 공습 보류할 수도\" 로이터 단독 [공부의여신 네트워크] 트럼프 대통령이 최근 며칠 사이 고위 참모들에게 이란이나 예멘의 친이란 후티 반군의 새로운 도발이 없다면 이란 공격을 보류할 수 있다고 밝혔다고 로이터통신이 14일 사정을 잘 아는 3명을 인용해 보도했습니다. 트럼프 대통령은 국가안보 참모 회의와 일련의 정보 브리핑 뒤 공습 보류를 검토하고 있다고 말한 것으로 전해졌습니다. 다만 최종 결정은 아직 내려지지 않았습니다. 【사우디·튀르키예 \"공격 재개 말라\"】 로이터에 따르면 트럼프 대통령은 지난 2주간 통화에서 무함마드 빈 살만 사우디 왕세자와 레제프 타이이프 에르도안 튀르키예 대통령에게 의견을 물었고, 두 정상 모두 이란 공격을 재개하지 말라고 요청했습니다. 트럼프 대통령은 어느 쪽으로도 약속하지 않은 것으로 전해졌습니다. 반면 이스라엘은 추가 군사작전을 계속 압박하고 있습니다. 트럼프 대통령은 12일(현지시간) 스티븐 A. 스미스와의 인터뷰에서 \"당장 끝낼 수도 있지만, 내가 보호하려는 나라들의 요청으로 조금 더 길게, 조금 더 점잖게 하고 있다\"고 말했습니다. 또 같은 날 소셜미디어에 \"이란과 협상할 필요 없다. 우리는 그들의 돈 수천억 달러와 해협을 쥐고 있다\"고 올렸습니다. 【봉쇄 효과 판단, 그러나 항모 3척 대기】 미 정보당국은 해상 봉쇄와 경제 제재가 이란 경제를 압박하고 있으며, 추가 공습이 이란의 협상 요구를 크게 바꾸지는 못할 것으로 평가했다고 로이터는 전했습니다. 동시에 미군은 필요하면 확전할 준비가 돼 있으며, 세 번째 항공모함이 며칠 안에 중동에 들어가고 상황에 따라 항모 3척이 모두 머물 수 있다고 소식통들은 밝혔습니다. 일부 무기 비축량이 우려할 수준으로 줄었다는 보고도 트럼프 대통령에게 올라간 것으로 전해졌습니다.",
-          "url": "https://t.me/goddessTTF/87082"
-        }
-      ],
-      "sources": [
-        {
-          "name": "Telegram @goddessTTF",
-          "url": "https://t.me/goddessTTF/87082"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-709b89bd4fb0",
-      "original_title": "ETH 비축기업, 이더리움 손실 매도… 매도세는 끝나가나?",
-      "published_at": "2026-11-14T11:14:28Z",
-      "discovery_source": "youtube",
-      "evidence": [
-        {
-          "headline": "ETH 비축기업, 이더리움 손실 매도… 매도세는 끝나가나?",
-          "source": "YouTube @새벽에온주호",
-          "snippet": "나스닥 상장 이더리움 비축기업 BTCS가 에이브(Aave) 담보대출의 청산을 피하려 보유 이더리움 일부를 손해 보고 팔았습니다. 빚 때문에 팔아야 할 기업이 얼마나 남았는지, 비트마인의 이더리움 매수가 줄면 누가 그 빈자리를 채울지 살펴봅니다. 이더리움 현물 ETF로 자금이 돌아오는지가 바닥을 판단할 주요 신호입니다. #비트코인 #이더리움 #이더리움ETF 🔔 구독과 좋아요는 영상 제작에 큰 힘이 됩니다. ⚠️ [면책 조항 / Disclaimer] 본 채널의 모든 콘텐츠는 정보 제공 및 교육을 목적으로 제작되었으며, 투자를 유도하거나 특정 자산의 매수/매도를 권유하지 않습니다. 모든 투자의 판단과 책임은 투자자 본인에게 있음을 명시합니다.",
-          "url": "https://www.youtube.com/watch?v=03v-Q6jLeao"
-        }
-      ],
-      "sources": [
-        {
-          "name": "YouTube @새벽에온주호",
-          "url": "https://www.youtube.com/watch?v=03v-Q6jLeao"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-f6b30a607326",
-      "original_title": "Why Bitcoin Price Is Falling Continuously: Coinbase Reveals the True Reason",
-      "published_at": "2026-11-14T10:59:12Z",
-      "discovery_source": "news",
-      "evidence": [
-        {
-          "headline": "Why Bitcoin Price Is Falling Continuously: Coinbase Reveals the True Reason",
-          "source": "TradingView",
-          "snippet": "Why Bitcoin Price Is Falling Continuously: Coinbase Reveals the True Reason &nbsp;&nbsp; TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTlQamVmV2ZQdlFvbDdYcWpKSkpsdTRlUWhsWVFPbmgzZ3pqVHhaTWRhc3BLZGlkT1hVWk9wZ19KMUdVbF9TbDIzVGdBTFhDWWduUWhQWXRNVi1QenFOZTJoSmp2SGkwTENBRTRVUVN4Y0hzLVBtUFgwNWNNOTFoSXVZZWdtSjBLUTlOUmhwRzEtaUllNGREWFhzVHl4bVJfN2p5bDN1Z0g1cWlXdVQ0NFZ5QXU3Z1ZMT1lIMlJud2lqU3Raa3lxX251aEVLNUE?oc=5"
-        },
-        {
-          "headline": "Why Bitcoin Price Is Falling Continuously: Coinbase Reveals the True Reason",
-          "source": "Coinpedia",
-          "snippet": "Why Bitcoin Price Is Falling Continuously: Coinbase Reveals the True Reason &nbsp;&nbsp; Coinpedia",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUdGR0xQeXpYLWdTZnlab3JEYmVSYk1jWXZyS3lLNDRORi0zaEFXWFFaRGxLbnhuajNIX1BQblFyeFg1TURQdGRyVmxUd1dDU0FZQ21rYzZTelc3cTFuZWRJdXA0SGxMM21uNXVzZ3AyajFMeUNtajVUNTQxNGVjRHlGcUgtVmxJallYYTdJOHpwN3NSazNRS1ZlRy1fb21kOUVtetIBqgFBVV95cUxPZUp0eUREa08tbzBDQlA0M3ZsQUctb3V2cGNocWVyVmRsT0FBdHBWMDlTZ2llaHpPMzYxVms1aVJvX0pHWDRJZFVhdkNvb2JianI0bFBBS2Q2SmY1V1RhOWlxRDlaR3ZqU1U5WkkzdlRUSTBfdFRGN1RES1JyWVlRRU5KMnVxWGpmS1hMZjEwMFVWWE42S3VoZ0YtVmVQTVUxMzIyOU56blpUdw?oc=5"
-        }
-      ],
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTlQamVmV2ZQdlFvbDdYcWpKSkpsdTRlUWhsWVFPbmgzZ3pqVHhaTWRhc3BLZGlkT1hVWk9wZ19KMUdVbF9TbDIzVGdBTFhDWWduUWhQWXRNVi1QenFOZTJoSmp2SGkwTENBRTRVUVN4Y0hzLVBtUFgwNWNNOTFoSXVZZWdtSjBLUTlOUmhwRzEtaUllNGREWFhzVHl4bVJfN2p5bDN1Z0g1cWlXdVQ0NFZ5QXU3Z1ZMT1lIMlJud2lqU3Raa3lxX251aEVLNUE?oc=5"
-        },
-        {
-          "name": "Coinpedia",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUdGR0xQeXpYLWdTZnlab3JEYmVSYk1jWXZyS3lLNDRORi0zaEFXWFFaRGxLbnhuajNIX1BQblFyeFg1TURQdGRyVmxUd1dDU0FZQ21rYzZTelc3cTFuZWRJdXA0SGxMM21uNXVzZ3AyajFMeUNtajVUNTQxNGVjRHlGcUgtVmxJallYYTdJOHpwN3NSazNRS1ZlRy1fb21kOUVtetIBqgFBVV95cUxPZUp0eUREa08tbzBDQlA0M3ZsQUctb3V2cGNocWVyVmRsT0FBdHBWMDlTZ2llaHpPMzYxVms1aVJvX0pHWDRJZFVhdkNvb2JianI0bFBBS2Q2SmY1V1RhOWlxRDlaR3ZqU1U5WkkzdlRUSTBfdFRGN1RES1JyWVlRRU5KMnVxWGpmS1hMZjEwMFVWWE42S3VoZ0YtVmVQTVUxMzIyOU56blpUdw?oc=5"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-14-ff7e632d2670",
-      "original_title": "FinancialJuice: Iran navy: oil tanker catches fire after striking naval mine in eastern Strait of Hormuz",
-      "published_at": "2026-11-14T10:14:45Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: Iran navy: oil tanker catches fire after striking naval mine in eastern Strait of Hormuz",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9852173/Iran-navy-oil-tanker-catches-fire-after-striking-naval-mine-in-eastern-Strait-of-Hormuz.aspx"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9852173/Iran-navy-oil-tanker-catches-fire-after-striking-naval-mine-in-eastern-Strait-of-Hormuz.aspx"
         }
       ]
     }
