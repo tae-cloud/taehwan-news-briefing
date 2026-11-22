@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-11-22T08:17:24+09:00",
+  "updated_at_kst": "2026-11-22T12:13:33+09:00",
   "items": [
     {
       "stable_id": "2026-11-21-5e1b48c6708b",
@@ -148,12 +148,6 @@
           "source": "Hokanews",
           "snippet": "Sonic Audit Finds S Token Supply 48% Higher Than Originally Announced &nbsp;&nbsp; Hokanews",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTMTEtUVhYQ3hlQVVqOGc0Q183bmQ4Sl9kdUpRcnAwbUZib0JTZXYxTEpKaWxjU3VySDZ3RFlxUWpsLXY0LVlaQXZ3VjlzVWl4LVNSUTlNSHYyMXUzbEtzem9CN2d4Qll0SjExZnNJNVMycUoyNEYwZ2RPZzk0dw?oc=5"
-        },
-        {
-          "headline": "Sonic audit shows S token supply is 48% higher than announced",
-          "source": "Crypto Briefing",
-          "snippet": "Sonic audit shows S token supply is 48% higher than announced &nbsp;&nbsp; Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96Y0hLckxteFFvV3NZVEstejZ0OTdGWnRnQ2dBbmR4ZUs2dkwwbTY5VHZxVDlPQTVVNmhDTnozSk4wRURPZF9nN1R6a2JTZXZPZ3JlbzRGdl9obmxVcEZ3d1A5Q3RkZXNhckJXQWQ5UGVCdw?oc=5"
         }
       ],
       "sources": [
@@ -164,10 +158,6 @@
         {
           "name": "Hokanews",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTMTEtUVhYQ3hlQVVqOGc0Q183bmQ4Sl9kdUpRcnAwbUZib0JTZXYxTEpKaWxjU3VySDZ3RFlxUWpsLXY0LVlaQXZ3VjlzVWl4LVNSUTlNSHYyMXUzbEtzem9CN2d4Qll0SjExZnNJNVMycUoyNEYwZ2RPZzk0dw?oc=5"
-        },
-        {
-          "name": "Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96Y0hLckxteFFvV3NZVEstejZ0OTdGWnRnQ2dBbmR4ZUs2dkwwbTY5VHZxVDlPQTVVNmhDTnozSk4wRURPZF9nN1R6a2JTZXZPZ3JlbzRGdl9obmxVcEZ3d1A5Q3RkZXNhckJXQWQ5UGVCdw?oc=5"
         }
       ]
     },
@@ -372,6 +362,36 @@
       ]
     },
     {
+      "stable_id": "2026-11-21-328b24d73f42",
+      "original_title": "Bitcoin rises after falling to lowest level in two years",
+      "published_at": "2026-11-21T17:43:29Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin rises after falling to lowest level in two years",
+          "source": "The Globe and Mail",
+          "snippet": "Bitcoin rises after falling to lowest level in two years &nbsp;&nbsp; The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbU9RbXpaVURaMDhEa1RmZUxWY2hsZ01QTWZIWmJFcXkxT28zdGNhbG1ud3Y0anR2QUVWQjJaSm1tMHhyVDl4LTNVTUNfOVdFNFlXU01NQVZkNEdVZGwtSUFaMDJUQm5UY0p6eXRtUTJCcWx2a1hqamh0bjFTamU5LTdkRTVzbmdLVmFZeU00QVUwaXBDbkhYcFZGOWRwQnNTdHdic2xGbWU5Zw?oc=5"
+        },
+        {
+          "headline": "Bitcoin retreat to lowest level in Two Years",
+          "source": "وكالة سبأ",
+          "snippet": "Bitcoin retreat to lowest level in Two Years &nbsp;&nbsp; وكالة سبأ",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxVTNTTm1vUVNKc0xtTnQ0SUtoa0p0MHR5ZEF5SGxxaWM5dzFwTXpqaGNkTHlmOWh4NmUwTUVfdFl2VWd6bU1nRHJ3?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbU9RbXpaVURaMDhEa1RmZUxWY2hsZ01QTWZIWmJFcXkxT28zdGNhbG1ud3Y0anR2QUVWQjJaSm1tMHhyVDl4LTNVTUNfOVdFNFlXU01NQVZkNEdVZGwtSUFaMDJUQm5UY0p6eXRtUTJCcWx2a1hqamh0bjFTamU5LTdkRTVzbmdLVmFZeU00QVUwaXBDbkhYcFZGOWRwQnNTdHdic2xGbWU5Zw?oc=5"
+        },
+        {
+          "name": "وكالة سبأ",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxVTNTTm1vUVNKc0xtTnQ0SUtoa0p0MHR5ZEF5SGxxaWM5dzFwTXpqaGNkTHlmOWh4NmUwTUVfdFl2VWd6bU1nRHJ3?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-11-21-d7d7480e861b",
       "original_title": "Bitcoin rebounds 2% after falling to lowest level since September 2024",
       "published_at": "2026-11-21T17:12:15Z",
@@ -461,12 +481,6 @@
         },
         {
           "headline": "Bitcoin rises over 2% to more than $60,000",
-          "source": "Deccan Herald",
-          "snippet": "Bitcoin rises over 2% to more than $60,000 &nbsp;&nbsp; Deccan Herald",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmRwNGVYSlFnTjk5Z0tNOGg4Si13YVBrOGY2aEJsdmtPQ1VIMDZaQVlKbUpkOU94b2FEdnQtczBmX2IzVXRmakt2cXhrcENFSGNKM05tV0xTaTJvLVRaa0tDWHlqM0IxREduWXR0b1VxVzFjYU5NQVlkYVJHYVNHRFBJVlp6MjBPcW16WV80Y0RmU2lYZWhpVEo0QdIBmwFBVV95cUxNRmRwNGVYSlFnTjk5Z0tNOGg4Si13YVBrOGY2aEJsdmtPQ1VIMDZaQVlKbUpkOU94b2FEdnQtczBmX2IzVXRmakt2cXhrcENFSGNKM05tV0xTaTJvLVRaa0tDWHlqM0IxREduWXR0b1VxVzFjYU5NQVlkYVJHYVNHRFBJVlp6MjBPcW16WV80Y0RmU2lYZWhpVEo0QQ?oc=5"
-        },
-        {
-          "headline": "Bitcoin rises over 2% to more than $60,000",
           "source": "Reuters",
           "snippet": "Bitcoin rises over 2% to more than $60,000 &nbsp;&nbsp; Reuters",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWZDYjFjYnlkNnBXa2lSQ2loSllxdV9rb2JNdjlZRXRBdmZvUFpaUzJrenVyMWRMWVdKMDR3cTJUVUVjX3hfUmJYaklMUXA2aXlRUTlHTzhpTVR4QVZiQlhlZTMyZ0RGNzhZWFlPT0VFNXdVUTJIRENXd0ZmYXIwR3ZMT3ZKWVJk?oc=5"
@@ -486,10 +500,6 @@
         {
           "name": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2ZleDFGNzd5eEd1UWV1ekdjRVNodU9FWkZGeWlQYVY2LXpwZDMxdGh5OGVmV2JSYUJSNGxJZjI5Y2FmZ3RLRlBGS2NteElkYms5WnJZT0E1VzcxV05IOHdOQ05zUjFkRWxSMXBaQ2xSUUpwdnZsQzN4dEQ3bUt1cEEwckJMa1NYZmN1U2pqSFFXZFE?oc=5"
-        },
-        {
-          "name": "Deccan Herald",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmRwNGVYSlFnTjk5Z0tNOGg4Si13YVBrOGY2aEJsdmtPQ1VIMDZaQVlKbUpkOU94b2FEdnQtczBmX2IzVXRmakt2cXhrcENFSGNKM05tV0xTaTJvLVRaa0tDWHlqM0IxREduWXR0b1VxVzFjYU5NQVlkYVJHYVNHRFBJVlp6MjBPcW16WV80Y0RmU2lYZWhpVEo0QdIBmwFBVV95cUxNRmRwNGVYSlFnTjk5Z0tNOGg4Si13YVBrOGY2aEJsdmtPQ1VIMDZaQVlKbUpkOU94b2FEdnQtczBmX2IzVXRmakt2cXhrcENFSGNKM05tV0xTaTJvLVRaa0tDWHlqM0IxREduWXR0b1VxVzFjYU5NQVlkYVJHYVNHRFBJVlp6MjBPcW16WV80Y0RmU2lYZWhpVEo0QQ?oc=5"
         },
         {
           "name": "Reuters",
@@ -1032,6 +1042,36 @@
       ]
     },
     {
+      "stable_id": "2026-11-21-d15d0f5659ef",
+      "original_title": "Bitcoin News | Bitcoin Falls Below $57,000 to a Two-Year Low as $2.4 Billion in Liquidations Hit Bullish Traders",
+      "published_at": "2026-11-21T13:22:34Z",
+      "discovery_source": "news",
+      "evidence": [
+        {
+          "headline": "Bitcoin News | Bitcoin Falls Below $57,000 to a Two-Year Low as $2.4 Billion in Liquidations Hit Bullish Traders",
+          "source": "TradingView",
+          "snippet": "Bitcoin News | Bitcoin Falls Below $57,000 to a Two-Year Low as $2.4 Billion in Liquidations Hit Bullish Traders &nbsp;&nbsp; TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPYzdGd3k0XzRyUXB1dTI3U19PZ3BuT0Npb3FxNC1ZTXJ6TXZTZVBhc0lGSTFfRHd6dy15NkZ6YTNTTDRxZ0hqZGs0bHFqX1R6NHhKeTB3ZVN5MnBjZnZhTmdJQ2wwNVloQUZfcVhHV05YWm43WTZjbDBEejZBNDlsNzVwX2tYSXBaT1pSekQxdGRUQlk3SVNjeWNNVzFibDFtNndvODFlbmFObkcxZjRQRXZ2bkRRNWFscmlwc1dlVFhuZ1g0Ynp5b1FneVVxRkU0U3U4MWdwZXBnNTZ5cmJIbUxHbmZVVmY1MEhiNGpmNWNLdnpleEZ4czh5TFNqcjd4?oc=5"
+        },
+        {
+          "headline": "Bitcoin Falls Below $58,000 as $1.90 Billion in Crypto Liquidations Hit Markets",
+          "source": "Hokanews",
+          "snippet": "Bitcoin Falls Below $58,000 as $1.90 Billion in Crypto Liquidations Hit Markets &nbsp;&nbsp; Hokanews",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13eHM1cGxVWEx5NWNNTkxkQVpGcGJNUEM4Z3dBdmk5TVJwTWl0SlNSakxTNlNTWGFNN2lSalkydnFXOUpZbmc2NUs1Mk05WVowbGhDQ1c3SWpWczhjYjJUamtHcXZPU05IaFFMQVJKcmNGRFVHTUxoaUVn?oc=5"
+        }
+      ],
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPYzdGd3k0XzRyUXB1dTI3U19PZ3BuT0Npb3FxNC1ZTXJ6TXZTZVBhc0lGSTFfRHd6dy15NkZ6YTNTTDRxZ0hqZGs0bHFqX1R6NHhKeTB3ZVN5MnBjZnZhTmdJQ2wwNVloQUZfcVhHV05YWm43WTZjbDBEejZBNDlsNzVwX2tYSXBaT1pSekQxdGRUQlk3SVNjeWNNVzFibDFtNndvODFlbmFObkcxZjRQRXZ2bkRRNWFscmlwc1dlVFhuZ1g0Ynp5b1FneVVxRkU0U3U4MWdwZXBnNTZ5cmJIbUxHbmZVVmY1MEhiNGpmNWNLdnpleEZ4czh5TFNqcjd4?oc=5"
+        },
+        {
+          "name": "Hokanews",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13eHM1cGxVWEx5NWNNTkxkQVpGcGJNUEM4Z3dBdmk5TVJwTWl0SlNSakxTNlNTWGFNN2lSalkydnFXOUpZbmc2NUs1Mk05WVowbGhDQ1c3SWpWczhjYjJUamtHcXZPU05IaFFMQVJKcmNGRFVHTUxoaUVn?oc=5"
+        }
+      ]
+    },
+    {
       "stable_id": "2026-11-21-f1adb1462b41",
       "original_title": "Bitcoin falls below $60,000 for first time since July",
       "published_at": "2026-11-21T12:59:11Z",
@@ -1274,16 +1314,28 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfVHMyWE1RZ3ZqdXJicEZrZHV2NnlKT193dWpOSVJZeTVDRlBXNzBtY2JPclg4T2x4MWhkeWEzZlhVa0hSNmUwcHktaWIwRDB2T2RvX19SWGRDRnV3VWlNMWlhcVQ0M3hpbFNsdXVLUlY2dURHSUMxdmNlNGRYQQ?oc=5"
         },
         {
-          "headline": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+          "headline": "Bitcoin falls to its lowest in two years By Reuters",
+          "source": "Investing.com Canada",
+          "snippet": "Bitcoin falls to its lowest in two years By Reuters &nbsp;&nbsp; Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQm55bW1vS0c5bFpaSU1zQXRrN2N5S2YzQWMzTmIzX3cxLTB3a1Nmcm5BUDJ1LTdSUng5VmhCRkpsNjllRVhackhvNVhlMkdhb29hT1Jib3RXRmZRYzZwNlNGSWdZN201NnhaMXF4TXNGZTNGVUwwRFpLcXRXTDFIWQ?oc=5"
         },
         {
-          "headline": "Bitcoin falls below $58,000, reaching its lowest level in two years.",
-          "source": "Vietnam.vn",
-          "snippet": "Bitcoin falls below $58,000, reaching its lowest level in two years. &nbsp;&nbsp; Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOG9SbGNSaGYtRHdKaXNGNGJHUDMyZzdaT25zWENmOVdMd1RFMjJjaXdlTFRYWF9CZFlkYTJXZ2ZVSmk3NmxJcFpBZ0JaeXVnYkFfZ0l5YU5xUUNlNDI4b205ZUdjX2FCdC1kMHBEQzhrbk00UTRhelE2Zjd3eTVGS1pXbXZSZm5CdGs1Y2s3NTZrLXBh?oc=5"
+          "headline": "Bitcoin falls to its lowest in two years",
+          "source": "Al Arabiya English",
+          "snippet": "Bitcoin falls to its lowest in two years &nbsp;&nbsp; Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaHQ2WVZ0UlRTZjR4bzdhSnpJc1NaZFc0aWt1MkF3eW1FbkxCSnhWOVFUUHBhNzE2aGdUNllLcVl4eHpsbXEwVUZRZUJSMzMyLW1xdUNxYi1IdF9LaXNTYVByWW1HZ3hwOEtGR1BXYVh3M2V3bkVURDRRZGJfbkt3X1lscEM5YTYtRU1yakZIUHFfOGt3ZHVzcG1RbjB5UXlqUjZXbkdLTzDSAagBQVVfeXFMT2h0NllWdFJUU2Y0eG83YUp6SXNTWmRXNGlrdTJBd3ltRW5MQkp4VjlRVFBwYTcxNmhnVDZZS3FZeHh6bG1xMFVGUWVCUjMzMi1tcXVDcWItSHRfS2lzU2FQclltR2d4cDhLRkdQV2FYdzNld25FVEQ0UWRiX25Ld19ZbHBDOWE2LUVNcmpGSFBxXzhrd2R1c3BtUW4weVF5alI2V25HS08w?oc=5"
+        },
+        {
+          "headline": "Bitcoin falls to its lowest in two years",
+          "source": "Raleigh News & Observer",
+          "snippet": "Bitcoin falls to its lowest in two years &nbsp;&nbsp; Raleigh News & Observer",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Fa1JSVERWaDBzY2d3NHlRNWZDemRlNHNuVlBOTHRjbVVkWmY0NXV0QURqY0t0RElnUmNfY3RKUGQ3MWgyU3dhaVlOSmw1bFlkbUxiaHVYaEowQjBCUUJIWDZXV0pRazY5eU9PeUQ4Zl9fZw?oc=5"
+        },
+        {
+          "headline": "Bitcoin falls to its lowest in two years",
+          "source": "The Star",
+          "snippet": "Bitcoin falls to its lowest in two years &nbsp;&nbsp; The Star",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHdBTjdWUTNKeUtZeFBUUjAyV19KUHRZVWVCa0U0NDl6bDZTTkFVQmNGNThpUVhPRXNaMFA1RElkWlV2QktfRXdjTlBKTTl0VlJTdFRHakVMd01aTWpiYnRvYzZ1TXlYSDhjSG9nNDJnR3NQcTVIaGlqS3JYVjkwcFduVVh6QjdIM09UaTZLSUdwQklWR3FwLQ?oc=5"
         }
       ],
       "sources": [
@@ -1292,12 +1344,20 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfVHMyWE1RZ3ZqdXJicEZrZHV2NnlKT193dWpOSVJZeTVDRlBXNzBtY2JPclg4T2x4MWhkeWEzZlhVa0hSNmUwcHktaWIwRDB2T2RvX19SWGRDRnV3VWlNMWlhcVQ0M3hpbFNsdXVLUlY2dURHSUMxdmNlNGRYQQ?oc=5"
         },
         {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQm55bW1vS0c5bFpaSU1zQXRrN2N5S2YzQWMzTmIzX3cxLTB3a1Nmcm5BUDJ1LTdSUng5VmhCRkpsNjllRVhackhvNVhlMkdhb29hT1Jib3RXRmZRYzZwNlNGSWdZN201NnhaMXF4TXNGZTNGVUwwRFpLcXRXTDFIWQ?oc=5"
         },
         {
-          "name": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOG9SbGNSaGYtRHdKaXNGNGJHUDMyZzdaT25zWENmOVdMd1RFMjJjaXdlTFRYWF9CZFlkYTJXZ2ZVSmk3NmxJcFpBZ0JaeXVnYkFfZ0l5YU5xUUNlNDI4b205ZUdjX2FCdC1kMHBEQzhrbk00UTRhelE2Zjd3eTVGS1pXbXZSZm5CdGs1Y2s3NTZrLXBh?oc=5"
+          "name": "Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaHQ2WVZ0UlRTZjR4bzdhSnpJc1NaZFc0aWt1MkF3eW1FbkxCSnhWOVFUUHBhNzE2aGdUNllLcVl4eHpsbXEwVUZRZUJSMzMyLW1xdUNxYi1IdF9LaXNTYVByWW1HZ3hwOEtGR1BXYVh3M2V3bkVURDRRZGJfbkt3X1lscEM5YTYtRU1yakZIUHFfOGt3ZHVzcG1RbjB5UXlqUjZXbkdLTzDSAagBQVVfeXFMT2h0NllWdFJUU2Y0eG83YUp6SXNTWmRXNGlrdTJBd3ltRW5MQkp4VjlRVFBwYTcxNmhnVDZZS3FZeHh6bG1xMFVGUWVCUjMzMi1tcXVDcWItSHRfS2lzU2FQclltR2d4cDhLRkdQV2FYdzNld25FVEQ0UWRiX25Ld19ZbHBDOWE2LUVNcmpGSFBxXzhrd2R1c3BtUW4weVF5alI2V25HS08w?oc=5"
+        },
+        {
+          "name": "Raleigh News & Observer",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Fa1JSVERWaDBzY2d3NHlRNWZDemRlNHNuVlBOTHRjbVVkWmY0NXV0QURqY0t0RElnUmNfY3RKUGQ3MWgyU3dhaVlOSmw1bFlkbUxiaHVYaEowQjBCUUJIWDZXV0pRazY5eU9PeUQ4Zl9fZw?oc=5"
+        },
+        {
+          "name": "The Star",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHdBTjdWUTNKeUtZeFBUUjAyV19KUHRZVWVCa0U0NDl6bDZTTkFVQmNGNThpUVhPRXNaMFA1RElkWlV2QktfRXdjTlBKTTl0VlJTdFRHakVMd01aTWpiYnRvYzZ1TXlYSDhjSG9nNDJnR3NQcTVIaGlqS3JYVjkwcFduVVh6QjdIM09UaTZLSUdwQklWR3FwLQ?oc=5"
         }
       ]
     },
@@ -1504,12 +1564,6 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRE5EaWt1dU9mZ2dTYVNwdDNUd2s0QklFLVRROW1hSE5fMC0weEhGQnI1SlgzR0tIVXdfZTdMcW1mNDdZVkJIYVRIZGdmTC05cUhzaHRNWDNuQVIwQ1dmRllIZ3hxUVRmV3c?oc=5"
         },
         {
-          "headline": "Bitcoin falls 5.10% to $55,830",
-          "source": "The Lufkin Daily News",
-          "snippet": "Bitcoin falls 5.10% to $55,830 &nbsp;&nbsp; The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWhRWGxwUmhSc3JSRVM0YjVQVjFjNFhKUGRST0g4YXVkM1AxTF92Z1lGS1JfSGwzM0VyZ05OdkVtbUdrWnF1eE94X2oyWnJQV1FpZ3RaU1pROExKa2FteXVfNGhibDF2UHJVQkFBeS1xUGpNRm1jaWYwQ2RaVGhJVlpENktyeERXOFl4XzZJWElfc0JWYmlIQ3R3bEs3MzY3Y3BGVGZqMzlISXIzNktVeVN1VXBPOXVma19TVGFjSFZSaXVpYWdn?oc=5"
-        },
-        {
           "headline": "Bitcoin falls 3.57% to $56,814",
           "source": "Kansas City Star",
           "snippet": "Bitcoin falls 3.57% to $56,814 &nbsp;&nbsp; Kansas City Star",
@@ -1526,10 +1580,6 @@
         {
           "name": "WTVB",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRE5EaWt1dU9mZ2dTYVNwdDNUd2s0QklFLVRROW1hSE5fMC0weEhGQnI1SlgzR0tIVXdfZTdMcW1mNDdZVkJIYVRIZGdmTC05cUhzaHRNWDNuQVIwQ1dmRllIZ3hxUVRmV3c?oc=5"
-        },
-        {
-          "name": "The Lufkin Daily News",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWhRWGxwUmhSc3JSRVM0YjVQVjFjNFhKUGRST0g4YXVkM1AxTF92Z1lGS1JfSGwzM0VyZ05OdkVtbUdrWnF1eE94X2oyWnJQV1FpZ3RaU1pROExKa2FteXVfNGhibDF2UHJVQkFBeS1xUGpNRm1jaWYwQ2RaVGhJVlpENktyeERXOFl4XzZJWElfc0JWYmlIQ3R3bEs3MzY3Y3BGVGZqMzlISXIzNktVeVN1VXBPOXVma19TVGFjSFZSaXVpYWdn?oc=5"
         },
         {
           "name": "Kansas City Star",
@@ -2468,46 +2518,6 @@
         {
           "name": "FinancialJuice",
           "url": "https://www.financialjuice.com/News/9862270/Feds-Paulson-Open-to-considering-consecutive-rate-hikes.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-20-83920c43397e",
-      "original_title": "FinancialJuice: ECB's Moulin: inflation in France is too high, driven by energy",
-      "published_at": "2026-11-20T18:20:08Z",
-      "discovery_source": "financialjuice",
-      "evidence": [
-        {
-          "headline": "FinancialJuice: ECB's Moulin: inflation in France is too high, driven by energy",
-          "source": "FinancialJuice",
-          "snippet": "",
-          "url": "https://www.financialjuice.com/News/9862257/ECBs-Moulin-inflation-in-France-is-too-high-driven-by-energy.aspx?xy=rss"
-        }
-      ],
-      "sources": [
-        {
-          "name": "FinancialJuice",
-          "url": "https://www.financialjuice.com/News/9862257/ECBs-Moulin-inflation-in-France-is-too-high-driven-by-energy.aspx?xy=rss"
-        }
-      ]
-    },
-    {
-      "stable_id": "2026-11-20-4512e8cf7ca7",
-      "original_title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-      "published_at": "2026-11-20T18:13:52Z",
-      "discovery_source": "coindesk",
-      "evidence": [
-        {
-          "headline": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-          "source": "CoinDesk",
-          "snippet": "",
-          "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
-        }
-      ],
-      "sources": [
-        {
-          "name": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
         }
       ]
     }
